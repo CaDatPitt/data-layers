@@ -1,0 +1,265 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Union</title>
+    <partNumber>vol. 10, no. 7</partNumber>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Sindicato</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Mine-mill union</title>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Union (Denver, Colo. : 1942)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">periodical</genre>
+  <genre authority="fast">Periodicals.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cou</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Denver, Colo</placeTerm>
+    </place>
+    <publisher>International Union of Mine, Mill and Smelter Workers</publisher>
+    <issuance>continuing</issuance>
+    <frequency>Biweekly, Feb. 3, 1947-July 5, 1954</frequency>
+    <frequency>Weekly, Apr. 6, 1942-Mar. 1, 1943</frequency>
+    <frequency>Biweekly, Mar. 15, 1943-Sept. 30, 1946</frequency>
+    <frequency>Weekly, Oct. 7, 1946-Jan. 20, 1947</frequency>
+    <dateIssued keyDate="yes" encoding="iso8601">1951-07-02</dateIssued>
+    <dateOther type="display">July 2, 1951</dateOther>
+    <dateOther type="sort">1951-07-02T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfilm</form>
+    <form authority="gmd">microform</form>
+    <form authority="smd">microfilm reel</form>
+    <extent>13 v. : ill.</extent>
+  </physicalDescription>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+    </name>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Metal-workers</topic>
+    <topic>Labor unions</topic>
+    <geographic>United States</geographic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Miners</topic>
+    <topic>Labor unions</topic>
+    <geographic>United States</geographic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="fast">
+    <name type="corporate">
+      <namePart>International Union of Mine, Mill, and Smelter Workers.</namePart>
+    </name>
+  </subject>
+  <subject authority="fast">
+    <topic>Metal-workers</topic>
+    <topic>Labor unions</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Miners</topic>
+    <topic>Labor unions</topic>
+  </subject>
+  <subject authority="fast">
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">HD6500.M7 P43</classification>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">GSU</recordContentSource>
+    <recordCreationDate encoding="marc">920103</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150507120628.0</recordChangeDate>
+    <recordIdentifier>8136327</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Union</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Sindicato</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Mine-mill union</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Union (Denver, Colo. : 1942)</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cou</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Denver, Colo</placeTerm>
+      </place>
+      <publisher>International Union of Mine, Mill and Smelter Workers</publisher>
+      <issuance>continuing</issuance>
+      <frequency>Biweekly, Feb. 3, 1947-July 5, 1954</frequency>
+      <frequency>Weekly, Apr. 6, 1942-Mar. 1, 1943</frequency>
+      <frequency>Biweekly, Mar. 15, 1943-Sept. 30, 1946</frequency>
+      <frequency>Weekly, Oct. 7, 1946-Jan. 20, 1947</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">microfilm</form>
+      <form authority="gmd">microform</form>
+      <form authority="smd">microfilm reel</form>
+      <extent>13 v. : ill.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Apr. 6, 1942)-v. 13, no. 7 (July 5, 1954).</note>
+    <note>Title from caption.</note>
+    <note>Published in Chicago, Ill., Feb. 21, 1945-Jan. 29, 1951.</note>
+    <note>Source note: The collection was filmed from the holdings of the State Historical Society of Wisconsin.</note>
+    <note type="numbering">Vol. 4, no. 5 incorrectly called v. 4, no. 4.</note>
+    <note type="reproduction">Microfilm. 1942-1954. Bethesda, Md. : University Publications of America, 1990. 3 microfilm reels ; 35 mm. (Research collections in labor studies) (Labor union periodicals. Part 1, The Metal trades). d19901990mduuua</note>
+    <note type="language">Includes Spanish page, &lt;1952&gt;-1954.</note>
+    <note>Official organ of the International Union of Mine, Mill &amp; Smelter Workers, CIO.</note>
+    <note>Reel 3 includes later entry; title on boxes: Mine-mill union.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+      </name>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Metal-workers</topic>
+      <topic>Labor unions</topic>
+      <geographic>United States</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Miners</topic>
+      <topic>Labor unions</topic>
+      <geographic>United States</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <name type="corporate">
+        <namePart>International Union of Mine, Mill, and Smelter Workers.</namePart>
+      </name>
+    </subject>
+    <subject authority="fast">
+      <topic>Metal-workers</topic>
+      <topic>Labor unions</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Miners</topic>
+      <topic>Labor unions</topic>
+    </subject>
+    <subject authority="fast">
+      <geographic>United States</geographic>
+    </subject>
+    <classification authority="lcc">HD6500.M7 P43</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Research collections in labor studies</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Labor union periodicals. Part 1, Metal trades</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>CIO news (Die casters edition)</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>CIO news (Mine, mill &amp; smelter workers edition)</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Mine-mill union</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Research collections in labor studies</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Labor union periodicals</title>
+        <partNumber>Part 1</partNumber>
+        <partName>Metal trades</partName>
+      </titleInfo>
+    </relatedItem>
+    <recordInfo>
+      <descriptionStandard>aacr2</descriptionStandard>
+      <recordContentSource authority="marcorg">GSU</recordContentSource>
+      <recordCreationDate encoding="marc">920103</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20150507120628.0</recordChangeDate>
+      <recordIdentifier>8136327</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735067911275</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="pd_expired" publication.status="published"></copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="volume">
+      <number>10</number>
+      <caption>vol.</caption>
+    </detail>
+    <detail type="number">
+      <number>7</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>

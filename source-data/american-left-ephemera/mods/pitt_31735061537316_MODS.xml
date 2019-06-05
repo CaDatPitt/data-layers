@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:titleInfo>
+    <mods:title>Inter-Protest Fighting in Front of City Hall,</mods:title>
+  </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:genre>archival document</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther type="display">April 5, 1934</mods:dateOther>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1934-04-05</mods:dateCreated>
+    <mods:dateOther type="sort">1934-04-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:identifier type="pitt">31735061537316</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>American Left Ephemera Collection</mods:title>
+    </mods:titleInfo>
+    <mods:identifier type="local-asc">AIS.2007.11</mods:identifier>
+    <mods:originInfo>
+      <mods:dateCreated>1894-2008</mods:dateCreated>
+    </mods:originInfo>
+    <mods:note type="series">VII. Communist Party USA (CPUSA)</mods:note>
+    <mods:note type="container">Box 4, Folder 155</mods:note>
+    <mods:note type="ownership">ULS Archives Service Center</mods:note>
+    <mods:note type="prefercite">American Left Ephemera Collection, 1894-2008, AIS.2007.11, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="unknown" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+</mods:mods>

@@ -1,0 +1,36 @@
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:titleInfo>
+    <mods:title>Atlantic City Convention June 1924</mods:title>
+  </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre>archival document</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther type="display">1924</mods:dateOther>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1924</mods:dateCreated>
+    <mods:dateOther type="sort">1924-01-01T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:identifier type="pitt">196504.1.2.005</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>McConway &amp; Torely Company Records</mods:title>
+    </mods:titleInfo>
+    <mods:identifier type="local-asc">AIS.1965.04</mods:identifier>
+    <mods:originInfo>
+      <mods:dateCreated>1889-1945</mods:dateCreated>
+    </mods:originInfo>
+    <mods:note type="series">II. Photographs, Atlantic City Convention, 1947</mods:note>
+    <mods:note type="container">Folder 2</mods:note>
+    <mods:note type="ownership">ULS Archives &amp; Special Collections</mods:note>
+    <mods:note type="prefercite">McConway and Torely Company Records, 1889-1948, AIS.1965.04, Archives &amp; Special Collections, University of Pittsburgh Library System</mods:note>
+  </mods:relatedItem>
+  <mods:accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="unknown" publication.status="unknown"></copyrightMD:copyright>
+  </mods:accessCondition>
+</mods:mods>

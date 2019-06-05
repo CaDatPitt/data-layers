@@ -1,0 +1,280 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Mine-Mill union</title>
+    <subTitle>official organ of the International Union of Mine, Mill, and Smelter Workers</subTitle>
+    <partNumber>vol. 13, no. 7</partNumber>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Mine Mill union</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Sindicato</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Union</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">periodical</genre>
+  <genre authority="fast">Periodicals.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">wiu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Denver, Colo.]</placeTerm>
+    </place>
+    <publisher>International Union of Mine, Mill, and Smelter Workers</publisher>
+    <issuance>continuing</issuance>
+    <frequency>Frequency varies</frequency>
+    <dateIssued keyDate="yes" encoding="iso8601">1954-07-05</dateIssued>
+    <dateOther type="display">July 5, 1954</dateOther>
+    <dateOther type="sort">1954-07-05T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfilm</form>
+    <form authority="gmd">microform</form>
+    <form authority="smd">microfilm reel</form>
+    <extent>14 v. : ill.</extent>
+  </physicalDescription>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <geographicCode authority="marcgac">n-usp--</geographicCode>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+    </name>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Miners</topic>
+    <topic>Labor unions</topic>
+    <geographic>United States</geographic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Miners</topic>
+    <topic>Labor unions</topic>
+    <geographic>West (U.S.)</geographic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Miners</topic>
+    <topic>Labor unions</topic>
+    <geographic>Canada</geographic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Mineral industries</topic>
+    <geographic>United States</geographic>
+    <topic>Employees</topic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Mineral industries</topic>
+    <geographic>West (U.S.)</geographic>
+    <topic>Employees</topic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Mineral industries</topic>
+    <geographic>Canada</geographic>
+    <topic>Employees</topic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="fast">
+    <name type="corporate">
+      <namePart>International Union of Mine, Mill, and Smelter Workers.</namePart>
+    </name>
+  </subject>
+  <subject authority="fast">
+    <topic>Mineral industries</topic>
+    <topic>Employees</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Miners</topic>
+    <topic>Labor unions</topic>
+  </subject>
+  <subject authority="fast">
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="fast">
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="fast">
+    <geographic>United States, West</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">NNU</recordContentSource>
+    <recordCreationDate encoding="marc">941115</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150507120648.0</recordChangeDate>
+    <recordIdentifier>8136328</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Mine-Mill union</title>
+      <subTitle>official organ of the International Union of Mine, Mill, and Smelter Workers</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Mine Mill union</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Sindicato</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Union</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">wiu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Denver, Colo.]</placeTerm>
+      </place>
+      <publisher>International Union of Mine, Mill, and Smelter Workers</publisher>
+      <issuance>continuing</issuance>
+      <frequency>Frequency varies</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">microfilm</form>
+      <form authority="gmd">microform</form>
+      <form authority="smd">microfilm reel</form>
+      <extent>14 v. : ill.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 13, no. 8 (Aug. 2, 1954)-v. 26, no. 4 (June 1967).</note>
+    <note>Title from caption.</note>
+    <note type="reproduction">Microfilm. Madison, Wis. : State Historical Society of Wisconsin, [19--]-1967. 4 microfilm reels ; 35 mm.</note>
+    <note type="language">In English, with a section in Spanish bearing title: El Sindicato, Aug. 2, 1954-Feb. 1958; in English only, Mar. 1958-June 1967.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+      <geographicCode authority="marcgac">n-usp--</geographicCode>
+      <geographicCode authority="marcgac">n-cn---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>International Union of Mine, Mill, and Smelter Workers</namePart>
+      </name>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Miners</topic>
+      <topic>Labor unions</topic>
+      <geographic>United States</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Miners</topic>
+      <topic>Labor unions</topic>
+      <geographic>West (U.S.)</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Miners</topic>
+      <topic>Labor unions</topic>
+      <geographic>Canada</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mineral industries</topic>
+      <geographic>United States</geographic>
+      <topic>Employees</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mineral industries</topic>
+      <geographic>West (U.S.)</geographic>
+      <topic>Employees</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mineral industries</topic>
+      <geographic>Canada</geographic>
+      <topic>Employees</topic> 
+     <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <name type="corporate">
+        <namePart>International Union of Mine, Mill, and Smelter Workers.</namePart>
+      </name>
+    </subject>
+    <subject authority="fast">
+      <topic>Mineral industries</topic>
+      <topic>Employees</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Miners</topic>
+      <topic>Labor unions</topic>
+    </subject>
+    <subject authority="fast">
+      <geographic>Canada</geographic>
+    </subject>
+    <subject authority="fast">
+      <geographic>United States</geographic>
+    </subject>
+    <subject authority="fast">
+      <geographic>United States, West</geographic>
+    </subject>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Union (International Union of Mine, Mill, and Smelter Workers)</title>
+      </titleInfo>
+    </relatedItem>
+    <recordInfo>
+      <descriptionStandard>aacr2</descriptionStandard>
+      <recordContentSource authority="marcorg">NNU</recordContentSource>
+      <recordCreationDate encoding="marc">941115</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20150507120648.0</recordChangeDate>
+      <recordIdentifier>8136328</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735065150777</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="unknown" publication.status="published"></copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="volume">
+      <number>13</number>
+      <caption>vol.</caption>
+    </detail>
+    <detail type="number">
+      <number>7</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>
