@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-07-29</mods:dateCreated>
+    <mods:dateOther type="sort">1974-07-29T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts how the small electrical union, the UE, wanted recognition of their new union from the large corporation RCA. Caption 1:  Before the CIO was organized as a labor federation, the new industrial unions had already been through several history-making battles. There was the victorious sitdown of Rubber Workers at Akron, the Auto Workers sitdown at Flint, and the greet UE strike against RCA at Camden, N. J. The RCA strike was the biggest labor battle in the summer of 1936 which saw working people the country over fighting to organize.  Caption 2:  Union forces in the electrical industry were small in 1936. But there were big national corporations like RCA, General Electric and Westinghouse. UE had been organized in March of that year. Small federal local unions, affiliated with the AFL and independent unions had come together with much more courage than funds to take on the electrical industry giants, its low wages, its lack of paid holidays, regular vacations and contractual job protections.  Caption 3:  A delegation of Camden, N. J. RCA workers came to the Rockefeller Center, N. Y. offices of Pres. Sarnoff of the company. They wanted recognition of their new union. But Sarnoff told them: "I won't negotiate under this kind of pressure. I won't negotiate with a gun at my head." Sarnoff claimed that John L. Lewis had promised him there would be no strike. UE News, Vol. XXXVI, Issue No. 15</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 105: UE Strikes RCA</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.105</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

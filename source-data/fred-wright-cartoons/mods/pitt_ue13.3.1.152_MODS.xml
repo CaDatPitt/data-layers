@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-10-11</mods:dateCreated>
+    <mods:dateOther type="sort">1976-10-11T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the Supreme Court ruling in favor of UE, setting limits on congressional committee probes in response to the damage done by Sen. Joe McCarthy. Caption 1:  Growing numbers of Americans recoiled against repression as they realized that behind the drive on an alleged "communist conspiracy" there was an actual operation against democracy. In the Senate, a resolution censuring Sen. Joe McCarthy was adopted when he started going after top officials of the Eisenhower Administration and the Army charging them with being involved in the "communist conspiracy."  Caption 2:  The courts began paying attention to the growing opposition to the congressional and employer assaults on the Bill of Rights. A decision of historic importance was won by the UE when the Supreme Court in 1955 overturned the 1950 contempt of Congress conviction of UE Secy.-Treas. Julius Emspak and Field Org. Tom Quinn who had been fired by Westinghouse for defying a congressional committee.  Caption 3:  Emspak had refused to give the committee names of UE members it wanted to pillory. "I think it is my duty to protect the rights guaranteed under the constitution... This committee will corrupt those rights." The judge who had sentenced Emspak said: "Concern for the union was uppermost in his mind." Chief Justice Earl Warren wrote the Emspak-Quinn opinion. It set limits on the congressional committee probes. UE News, Vol. XXXVIII, Issue No. 19</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 152: UE wins Rights fight</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.152</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red Scare, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

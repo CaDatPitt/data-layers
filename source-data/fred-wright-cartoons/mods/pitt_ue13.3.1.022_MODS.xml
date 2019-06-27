@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-02-22</mods:dateCreated>
+    <mods:dateOther type="sort">1971-02-22T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the great extent to which union members fought for the northern armies during the Civil War. Caption 1:  Support for the union grew to such heights among workers that before the Civil War was over close to half of the northern armies were made up of working people, a far greater proportion than workers in the country. Some legions were made up almost entirely of workers in single industries like lumbermen of Wisconsin, mechanics of Lowell, Mass. Then there were workingmen's nationality legions like the New York Polish Legion and the Irish Company.  Caption 2:  One Lowell group was analyzed as consisting of 60 workers; 22 farmers, 3 merchants, 2 students and one gentleman. The Brooklyn Painters Union voted to fight as a unit. Local 23 of the Wisconsin Typographical Union had to dissolve because its members had volunteered. From first being interested mainly in preserving the United States, most of labor came to see the necessity of fighting to end slavery.  Caption 3:  Slaveowners boasted that slaves in southern factories and cotton fields, would release manpower for the south to win. Northern labor saw that freedom for the slaves was vital to destroy the southern manpower reserve. One paper wrote: "The slavery of the black man leads to the slavery of the white man... .If it is true, that 'capital should own labor', then...all laborers, white or black, are and ought to be slaves." UE News, Vol. XXXIII, Issue No. 4</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 22:  Labor Backs Lincoln - II</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.022</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>War</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-06-11</mods:dateCreated>
+    <mods:dateOther type="sort">1973-06-11T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon is about how the coal miners' strike is blocked by a federal injunction backed by President Wilson and the press continue to denounce union members as "Bolsheviks" involved in "unlawful conspiracy." [repeat caption] Caption 1:  The attempt of the coal miners to strike in 1919 was blocked by a federal injunction secured by President Wilson. The AFL had regarded him as "labor's friend." It now condemned the President and his action as hitting "at the very foundation of justice and freedom." It called on the miners to defy the injunction and pledged full support if they should go out for the shorter work week and a raise.  Caption 2:  The acting President of the UMW, John L. Lewis, asked the miners not to follow the AFL advice. "We are Americans," he said, "we cannot fight our government." The miners had their own ideas and ignored Lewis. Although he cancelled the strike, they walked out. The mine operators had to negotiate and agreed finally to an immediate 14 percent wage increase. Eventually the miners got a 27 percent raise.  Caption 3:  But the injunction and the President's mobilizing public sentiment against the strikers had its effect. The miners did not get the shorter work week. The press denounced them as "Bolsheviks," as participants in an "unlawful conspiracy." The N.Y. Herald Tribune urged that "Moscow" be warned that this country would not stand for such interference in its affairs. UE News, Volume XXXV, Issue No. 12</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 79: 1919 Steel Strike Cont'd</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.079</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red-Scare, Politics and Legislation, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-06-15</mods:dateCreated>
+    <mods:dateOther type="sort">1970-06-15T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the beginning of labor's foray into politics as they began naming their own candidates in response to the worsening work conditions. Caption 1:  Stressing the need for a 10-hour day, Philadelphia's Mechanics Union of Trade Associations soon made political action its major undertaking. The country's first central body of unions urged its affiliated unions in 1827 to declare how they stood on nominating candidates to "represent the interest of the working class" in city and state legislative elections. Within a few years the idea of workingmen's parties spread to other Pennsylvania towns, New York State, through New England into at least a dozen states.  Caption 2:  Labor's parties were naming their own candidates and sometimes electing them. One paper described the situation in this way: "From Maine to Georgia, within a few months past we discern symptoms of a revolution, which will be second to none save that of '76." Labor began putting out its own newspapers such as Philadelphia's Mechanics' Free Press, first of its kind.  Caption 3:  Political action was labor's answer to worsening conditions. Summer work schedules ran from 4 a.m. to sunset with an hour off for lunch at 10 and another for dinner at 3 p.m. Representation in government and free public education were major demands. Both political parties were condemned as spokesmen for the rich. Another labor demand was abolition of imprisonment for debt. UE News, Vol. XXXII, Issue No. 12</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 5B: Labor Enters Politics</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.005b</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

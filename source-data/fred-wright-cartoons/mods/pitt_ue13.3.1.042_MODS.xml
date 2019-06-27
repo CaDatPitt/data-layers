@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-12-13</mods:dateCreated>
+    <mods:dateOther type="sort">1971-12-13T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the formation of the American Federation of Labor. Caption 1:  With the end of the 1877 depression labor, greatly weakened, saw  the need for national unity. To Peter J. McGuire, a Carpenters Union organizer, fell the job of writing a call to a national congress which was held in Pittsburgh with 107 delegates in attendance. Representing a half-million workers they set up the Federation of Organized Trades and Labor Unions of the United States and Canada.  Caption 2:  Five years later this name was changed to American Federation of Labor. (In 1936, Myrtle McGuire, daughter of Peter, was founding member of UE, at the Camden, N.J. RCA plant.) The new association's program declared: "A struggle is going on in the nations of the civilized world between the oppressors and the oppressed of all countries, a struggle between capital and labor, which must grow in intensity from year to year..."  Caption 3:  The federation came out for compulsory education, an end to child labor, enforcement of the national eight-hour day law; a national bureau of labor statistics and labor political action. Meanwhile the Knights of Labor had grown to 700,000. But in a few years this national labor group started falling apart. Its leaders tried to push cooperatives as the answer to labor's problems when strikes were lost. UE News, Vol. XXXIII, Issue No. 25</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 42: AFL Is Born</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.042</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

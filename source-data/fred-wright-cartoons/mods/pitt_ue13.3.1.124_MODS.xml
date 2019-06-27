@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1975-05-05</mods:dateCreated>
+    <mods:dateOther type="sort">1975-05-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes how in Europe large corporations would fund organizations and leaders to destroy the labor movement by force during the Great Depression. Caption 1:  The economic depression which had hit the United States in 1929 had also hit hard at the other western industrial nations including Great Britain, Germany, Italy, and Spain. Many millions of people starved. Huge corporations went bankrupt, major banks collapsed dragging down entire nations and revealing widespread governmental corruption which had contributed to bringing about the worst economic crisis the world had ever seen.   Caption 2:  Wherever working people began demanding relief from the terrible conditions through their unions and in vast new political movements, big business financed organizations and leaders to smash the labor organizations and political movements which represented the people. The German monopolies financed Hitler's Nazi movement which used brutal terror and race hatred to smash the German labor movement.   Caption 3:  German fascism became the source of anti-democratic infection which swept across Europe. When the Spanish people established their first democratic government in 1936, a clique of militarists led by Gen. Franco gained the support of Hitler and the Italian fascist leader Mussolini in waging a bloody three year war to overthrow the Spanish government. The new CIO was deeply concerned over these developments. UE News, Vol. XXXVII, Issue No. 9</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 124: Depression in Europe</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.124</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<marc:record><marc:leader>06985cpcaa2200577Ia 4500</marc:leader>
+<marc:controlfield tag="001">7090998</marc:controlfield>
+<marc:controlfield tag="005">20170109131615.0</marc:controlfield><marc:controlfield tag="008">120731i18942008xx                  eng d</marc:controlfield>
+<marc:datafield tag="035" ind1=" " ind2=" ">
+  <marc:subfield code="a">(OCoLC)ocn802375432</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="035" ind1=" " ind2=" ">
+  <marc:subfield code="a">7090998</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+  <marc:subfield code="a">PIT</marc:subfield>
+  <marc:subfield code="c">PIT</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="035" ind1=" " ind2=" ">
+  <marc:subfield code="a">(OCoLC)802375432</marc:subfield>
+</marc:datafield><marc:datafield tag="043" ind1=" " ind2=" ">
+<marc:subfield code="a">n-us---</marc:subfield>
+</marc:datafield><marc:datafield tag="099" ind1=" " ind2=" ">
+<marc:subfield code="a">AIS 2007:11</marc:subfield></marc:datafield><marc:datafield tag="049" ind1=" " ind2=" "><marc:subfield code="a">PITT</marc:subfield></marc:datafield>
+<marc:datafield tag="100" ind1="1" ind2=" ">
+  <marc:subfield code="a">Oestreicher, Richard Jules,</marc:subfield>
+  <marc:subfield code="d">1947-</marc:subfield></marc:datafield><marc:datafield
+  tag="245" ind1="1" ind2="0"><marc:subfield code="a">American Left ephemera
+  collection,</marc:subfield><marc:subfield
+  code="f">1894-2008.</marc:subfield></marc:datafield><marc:datafield tag="246"
+  ind1="1" ind2=" "><marc:subfield code="a">Oestreicher collection of American
+  Left ephemera,</marc:subfield><marc:subfield
+  code="f">1894-2008</marc:subfield></marc:datafield><marc:datafield tag="246"
+  ind1="1" ind2=" "><marc:subfield code="a">Collection of American Left
+  ephemera,</marc:subfield><marc:subfield
+  code="f">1894-2008</marc:subfield></marc:datafield><marc:datafield tag="300"
+  ind1=" " ind2=" "><marc:subfield code="a">21.5</marc:subfield><marc:subfield
+  code="f">linear ft.</marc:subfield><marc:subfield
+  code="a">(17</marc:subfield><marc:subfield
+  code="f">boxes)</marc:subfield></marc:datafield><marc:datafield tag="351"
+  ind1=" " ind2=" "><marc:subfield code="a">Organized into 23 series: I. African
+  Americans and the Left; II. Anarchists; III. Anti-War Propaganda; IV.
+  Christian Socialism; V. Citizens Party; VI. Communists and Civil Liberties;
+  VII. Communist Party USA (CPUSA); VIII. Ethnic Radicalism; IX. Feminism, Gay
+  and Lesbian; X. Labor; XI. Leftist Organizations' Thought in Relation to the
+  Rest of the World and U.S. Economics/Imperialism; XII. New Left Organizations;
+  XIII. Other Radical/Leftist Organizations; XIV. Popular Front Culture; XV.
+  Progressive Party; XVI. Socialist Labor Party (SLP); XVII. Socialist Party USA
+  (SPUSA); XVIII. Socialist Worker's Party (SWP); XIX. Students for a Democratic
+  Society (SDS); XX. Student Peace Union (SPU); XXI. Utopian Socialism; XXII.
+  Vietnam War; XXIII. Realia: Pins and Other
+  Objects.</marc:subfield></marc:datafield><marc:datafield tag="524" ind1=" "
+  ind2=" "><marc:subfield code="a">American Left Ephemera Collection, 1894-2008,
+  AIS.2007.11, Archives Service Center, University of
+  Pittsburgh.</marc:subfield></marc:datafield><marc:datafield tag="541" ind1=" "
+  ind2=" "><marc:subfield code="a">Gift of Richard Oestreicher on October 2,
+  2008.</marc:subfield></marc:datafield><marc:datafield tag="506" ind1=" "
+  ind2=" "><marc:subfield code="a">No
+  restrictions.</marc:subfield></marc:datafield><marc:datafield tag="545"
+  ind1="1" ind2=" "><marc:subfield code="a">Left and Right as political
+  designations date to the French Revolution when the Jacobins sat on the left
+  in the National Assembly and the Girondins on the right. The Left has come to
+  mean movements, organizations, and intellectual or cultural tendencies that
+  emphasize an egalitarian ethos, a utopian vision of social reconstruction, and
+  a commitment to agitation and action to advance that ethos and vision. Only
+  three left-wing organizations have attained mass followings in the
+  twentieth-century United States: the Socialist Party of the U.S. (SPUSA), the
+  Communist Party of the U.S. (CPUSA), and the Students for a Democratic Society
+  (SDS). Founded 1901 with remnants still in existence today, SPUSA reached a
+  peak membership of about 120,000 around the 1912 election when it polled 6% of
+  the presidential vote. The party declined sharply after 1919 from a
+  combination of government repression, a split between reformists and
+  revolutionaries crystallized by the Bolshevik revolution, and the effects of
+  social change on their core constituencies and on the credibility of their
+  hopes for imminent change. CPUSA, formed out of an amalgamation of
+  revolutionary factions from the 1919 split in the Socialist Party, reached a
+  membership of roughly 75,000 (with a pool of close sympathizers, "fellow
+  travelers," perhaps five to ten times larger than the membership) at the end
+  of the 1930s and again during WWII. CPUSA declined very rapidly after the war
+  under the impact of the Cold War, disillusionment with the Soviet Union,
+  postwar prosperity, and the Party's dogmatic and sectarian tendencies. SDS
+  began as the student wing of the League for Industrial Democracy (originally
+  an organization of socialist college students that evolved into a
+  social-democratic policy group of intellectuals and union functionaries). They
+  parted company with the parent organization over Vietnam and anticommunism in
+  the early 1960s, and expanded rapidly during the 1960s as the most visible
+  American exponents of the New Left. In contrast to the old Left parties, SDS
+  did not collect monthly dues or keep systematic membership records, so
+  estimates of its membership vary widely, but at its peak in 1968-69 probably
+  several hundred thousand people identified themselves at least loosely with
+  SDS. Although each of these organizations briefly functioned as a mass
+  movement, none sustained substantial organization for much more than a decade.
+  Nonetheless, they had decisive impact on modern American history. Left-wing
+  activists played crucial roles in virtually every progressive social movement
+  in twentieth-century America: labor organization, civil rights and Black
+  liberation, antiwar and peace movements, feminism, gay rights,
+  environmentalism, and anti-globalism. They shaped terms of debate in American
+  political culture and forced mainstream politicians to respond to their
+  arguments. Understanding the history of the Left is thus critical to
+  understanding key themes in American
+  history.</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="520" ind1="2" ind2=" ">
+  <marc:subfield code="a">The collection includes items from the 1890s
+  to the present including periodicals, photographs, letters, pamphlets, books,
+  posters, flyers, labels, pins and other objects, but it emphasizes ephemeral
+  items, e.g. items made for one time or brief usage and then likely to be
+  discarded. While the majority of these items were produced by the Socialist
+  Party USA (SPUSA), Communist Party USA (CPUSA), Students for a Democratic
+  Society (SDS), or organizations linked to them, the collection also includes
+  material from a wide variety of other organizations and movements as well as
+  from unaffiliated activists and radical
+  intellectuals.</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="555"  ind1="0" ind2=" ">
+  <marc:subfield code="3">Finding aid</marc:subfield>
+  <marc:subfield code="b">Available in repository and on Internet;</marc:subfield>
+  <marc:subfield code="c">Folder level control;</marc:subfield>
+  <marc:subfield code="u">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ais200711</marc:subfield>
+</marc:datafield>
+<marc:datafield
+  tag="610" ind1="2" ind2="0"><marc:subfield code="a">Communist Party of the
+  United States of America</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="610"
+  ind1="2" ind2="0"><marc:subfield code="a">Socialist Labor
+  Party</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="610"
+  ind1="2" ind2="0"><marc:subfield code="a">Socialist Party
+  (U.S.)</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="610"
+  ind1="2" ind2="0"><marc:subfield code="a">Socialist Workers
+  Party</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="610"
+  ind1="2" ind2="0"><marc:subfield code="a">Student Peace Union
+  (U.S.)</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="610"
+  ind1="2" ind2="0"><marc:subfield code="a">Students for a Democratic Society
+  (U.S.)</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield
+  code="a">Anarchism</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield code="a">Christian
+  socialism</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield
+  code="a">Communism</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield code="a">Labor</marc:subfield><marc:subfield
+  code="z">United States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield
+  code="a">Minorities</marc:subfield><marc:subfield code="x">Political
+  activity</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield code="a">New
+  Left</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield
+  code="a">Radicalism</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield code="y">20th
+  century</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield
+  code="a">Socialism</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield code="a">Utopian
+  socialism</marc:subfield><marc:subfield code="z">United
+  States</marc:subfield><marc:subfield
+  code="x">History</marc:subfield><marc:subfield
+  code="v">Sources.</marc:subfield></marc:datafield><marc:datafield tag="650"
+  ind1=" " ind2="0"><marc:subfield code="a">Vietnam War,
+  1961-1975.</marc:subfield></marc:datafield><marc:datafield tag="655" ind1=" "
+  ind2="7"><marc:subfield code="a">Buttons (Information
+  artifacts).</marc:subfield><marc:subfield
+  code="2">aat</marc:subfield></marc:datafield><marc:datafield tag="655" ind1="
+  " ind2="7"><marc:subfield code="a">Pamphlets.</marc:subfield><marc:subfield
+  code="2">aat</marc:subfield></marc:datafield><marc:datafield tag="655" ind1="
+  " ind2="7"><marc:subfield code="a">Photographs.</marc:subfield><marc:subfield
+  code="2">aat</marc:subfield></marc:datafield><marc:datafield tag="655" ind1="
+  " ind2="7"><marc:subfield code="a">Posters.</marc:subfield><marc:subfield
+  code="2">aat</marc:subfield></marc:datafield><marc:datafield tag="852" ind1="
+  " ind2=" "><marc:subfield code="a">University of
+  Pittsburgh</marc:subfield></marc:datafield><marc:datafield tag="856" ind1="4"
+  ind2="2"><marc:subfield code="3">Finding aid</marc:subfield><marc:subfield
+  code="u">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ais200711</marc:subfield></marc:datafield><marc:datafield
+  tag="856" ind1="4" ind2="2"><marc:subfield code="3">Image
+  collection</marc:subfield><marc:subfield
+  code="u">http://digital.library.pitt.edu/a/americanleft/</marc:subfield></marc:datafield><marc:datafield
+  tag="994" ind1=" " ind2=" "><marc:subfield
+  code="a">C0</marc:subfield><marc:subfield
+  code="b">PIT</marc:subfield></marc:datafield></marc:record>
+
+</marc:collection>

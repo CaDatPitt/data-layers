@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-02-25</mods:dateCreated>
+    <mods:dateOther type="sort">1974-02-25T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts further the violent and immoral lengths to which companies were  willing to go to battle union organization, even using propaganda like the Mohawk Valley Formula. Caption 1:  To stop workers from organizing after the Wagner Act became law, employers threw all morality and legality out the window. The LaFollette Committee found that about a third of the Pinkerton detective agency spies hired by corporations got themselves elected officials of unions to which they had been assigned. Thousands of spies had been hired by 2,500 corporations. They recruited union members who were then fired by the employers.  Caption 2:  The spies also helped promote violence. Companies assembled armies of professional strikebreakers from among criminals and armed them. Arsenals of guns and munitions were created to use on workers during the strikes. It was found that General Motors alone spent $830,000 between 1933 and 1936 for such illegal purposes. Youngstown Sheet and Tube Co. had 8 machine guns, 369 rifles, 190 shotguns, 109 gas guns on hand.  Caption 3:  Sen. LaFollette concluded that the arsenals of Youngstown Steel and Republic Steel was "adequate equipment for a small war." Another device to fight unions was the Mohawk Valley Formula of the Remington Rand Co. which was taken up by other companies. This spelled out the use of spies, police, vigilante committees, back-to-work movements where strikes broke out and attacks on organizers as subversive agitators. UE News, Volume XXXVI, Issue No. 4</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 95: Labor Spy Network</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.095</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization, Business</mods:topic>
+  </mods:subject>
+</mods:mods>

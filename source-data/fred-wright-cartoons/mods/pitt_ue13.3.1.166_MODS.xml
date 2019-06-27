@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-05-09</mods:dateCreated>
+    <mods:dateOther type="sort">1977-05-09T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the height of the civil rights movement and their movement for equal pay and free rights. Caption 1:  Though only two years had passed since the last sharp employment drop, unemployment rose to its highest in 19 months in the Spring of 1963. President Kennedy described the situation as especially critical for young people. With expected increases in the number of young people in the years ahead, the need for a shorter work week became increasingly urgent. Unemployment averaged 5.5 percent over the five previous years.  Caption 2:  This was the year when the demand for equality for black people became ever more insistent. Some 200,000 people, black and white, marched on Washington on Aug. 28 to demand equal rights for all. It was the largest demonstration ever seen in the capital. Large numbers of trade unionists participated stressing demands for equality of employment and calling on Congress to adopt civil rights legislation.  Caption 3:  It was here that the Rev. Martin Luther King, Jr., made his moving speech saying that he had a dream that one day "this nation will rise up and live out the true meaning of its creed...that all men are created free and equal," that one day his children will live in a nation "where they will not be judged by the color of their skin but by the content of their character." UE News, Vol. XXXIX, Issue No. 9</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 166: Civil Rights fight grows</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.166</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Equal Pay</mods:topic>
+  </mods:subject>
+</mods:mods>

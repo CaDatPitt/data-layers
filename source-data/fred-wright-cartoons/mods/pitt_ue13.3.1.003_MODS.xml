@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1956-07-23</mods:dateCreated>
+    <mods:dateOther type="sort">1956-07-23T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the use of scabs dating back to the early 1800s, highlighting the contempt that existed between union workers and scabs. Caption 1:  One of the oldest and the most dishonorable title in American labor history is "scab." Striking New York seamen marched to the waterfront behind drum and fife in 1800 to battle with scabs. "A scab is a shelter for lice" shouted a cordwainer (shoemaker) in a New York courtroom a few years later and was fined $5 for contempt of court.  Caption 2:  Taking the place of a union printer who had been fired for refusing to work beneath the union scale would result in expulsion from the N.Y. Typographical Union in the early 1800's. This was considered scabbing and lists of scabs were exchanged by the unions in different cities even though they were not yet affiliated to any national organization.  Caption 3:  When Philadelphia currier (leather tanner) bosses advertised for scabs in other cities in 1803, the union ran a newspaper ad urging "that their brethren of the trade will take no notice of any advertisements of the employers...more especially as the master curriers have entered into resolutions to lower the prices that have been current for 20 years past." UE News, Vol. XVIII, Issue No. 15</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 3:  Scabs of Old</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.003</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Scabs</mods:topic>
+  </mods:subject>
+</mods:mods>

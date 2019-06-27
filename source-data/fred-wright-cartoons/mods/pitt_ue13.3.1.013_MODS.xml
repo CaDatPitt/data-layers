@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-10-19</mods:dateCreated>
+    <mods:dateOther type="sort">1970-10-19T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>The movement for a 10-hour day spread throughout Pennsylvania and New England.  In this cartoon Wright depicts a three month strike in Western Pennsylvania, which resulted in a 10-hour day. Caption 1:  Western Pennsylvania employers insisted that workers sign contracts agreeing to a 12-hour day although the law set a 10-hour limit. Strikes broke out and when one factory reopened with scabs after three weeks, women strikers, armed with axes, marched on the plant, broke down the gates, overpowered the police and captured the plant. The scabs left but many strikers were arrested and sentenced to jail.  Caption 2:  The strike, lasting from July to September, ended with a 10-hour day established but with a wage cut. The workers did not rest, however, until they had won back the 12-hour pay. Elsewhere, too, workers were relying on their economic strength to win this demand. In 1853, the workers of Media, Pa. signed a contract with all employers for a 10-hour day. They then sent two of their members to spread unionism in New England.  Caption 3:  Meanwhile, groups of workers were holding conventions for the 10-hour day, such as the 1852 Massachusetts state convention. Candidates were asked where they stood on the issue and that year the elections had this as the only issue as politicians were forced to bow to the demand. Public petitions were circulated but still nothing happened as corporations bought influence in the legislature. UE News, Vol. XXXII, Issue No. 21</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 13: Ten Hour Day II</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.013</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

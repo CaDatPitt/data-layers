@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-02-07</mods:dateCreated>
+    <mods:dateOther type="sort">1972-02-07T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the trial after the Haymarket Square incident.  The aim of the trial was to back up businesses and break up the fight for the 8-hour day. Caption 1:  A jury of foremen and factory superintendents was assembled to try the eight arrested after the Haymarket bombing. Some of the jurors admitted that they were prejudiced against the workers on trial. The state attorney general gave away the real aim of the trial. "They are no more guilty than the thousands who follow them ... hang them and you save our institutions."  Caption 2:  The aim was to break up the fight for the 8-hour day which was branded "communistic" and "anarchistic." Seven were sentenced to be hanged, one to 15 years in jail. Defendant August Spies warned the court that they would not be able to "stamp out the labor movement" with the hangings. Instead the executions would fan the spark of labor organization and flames would blaze up. "You cannot put it out."  Caption 3:  Who threw the bomb was never actually discovered. But there has been strong evidence that it was a put-up job. In 1900 a Chicago daily claimed one of the arrested, Rudolph Schaubelt, had actually thrown the bomb but was the only one freed by the police. Seven years later trial Judge Gary admitted that this man was most likely the culprit. UE News, Vol. XXXIV, Issue No. 3</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 46: Haymarket Trial</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.046</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Businesses, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

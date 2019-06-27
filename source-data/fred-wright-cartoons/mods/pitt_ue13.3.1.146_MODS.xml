@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-06-07</mods:dateCreated>
+    <mods:dateOther type="sort">1976-06-07T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the tactics used by employers to keep communism out of the work place. Caption 1:  Typical of the employer efforts to equate trade union struggles with "communism" was an "off the record" meeting of the National Industrial Conference Board in Jan. 1951. Here, employers were advised by an army lieutenant colonel to fingerprint all employees, surround the plants with two rings of barbed wire, erect steel towers and place guards armed with rifles in them while plant gate guards should be provided with tear gas grenades.  Caption 2:  Additional advice given the employers present was to put informers among the workers who would report what literature was being distributed and what the workers were talking about. Robt. Denham, former head of the Natl. Labor Relations Board, described the Taft-Hartley law as an attempt to deal with communist infiltration in the labor movement. Denham revealed that while in the NLRB he had advised employers on how to fire union members, shop stewards or shop chairmen.  Caption 3:  When some of the employers present showed concern of being sued if a worker were fired, the recent government official replied: "You can fire him for wearing a red necktie if you wish under our system. Only make sure that the Board can't say you fired him for union activity." All this was part of the drive to scare workers into accepting whatever the employers did without protest. Employers were advised that city and state police departments would help them get information on employees they wanted to fire. UE News, Vol. XXXVIII, Issue No. 11</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 146: Repression in the Factories</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.146</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red Scare</mods:topic>
+  </mods:subject>
+</mods:mods>

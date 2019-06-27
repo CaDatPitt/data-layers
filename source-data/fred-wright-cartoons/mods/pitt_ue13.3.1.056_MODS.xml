@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-06-26</mods:dateCreated>
+    <mods:dateOther type="sort">1972-06-26T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the demonstrations for jobs led by Ohio manufacturer Jacob Coxey during the 1893 depression. Caption 1:  One of the major depressions which have hit the country periodically struck in 1893. Out of five million workers at least three million lost their jobs. Sixteen thousand companies including 642 banks went broke. The AFL urged labor to hold demonstrations to demand relief. In many cities the unemployed were attacked by the police but many cities were forced to set up soup kitchens and provide work in parks.  Caption 2:  Wages for such work was about 10 cents an hour for family men-feed and lodging for others. At its 1893 convention the AFL declared that the "right to work is the right to life," and called for federal action. The following spring a rich Ohio manufacturer, Jacob Coxey, called for public works to provide jobs. He called for a march on Washington and the response came from all over the U. S. Ten thousand arrived there on May 1, 1894.  Caption 3:  The marchers sold a song about their cause for which the price was "One loaf of bread to feed Coxey's army." AFL central bodies had endorsed the march. The marchers defied the authorities' ban on parading or carrying banners through the Capitol grounds. Coxey was arrested and sentenced to 20 days for "walking on the grass." It wasn't until August 15 that the army had to disband. UE News, Vol. XXXIV, Issue No. 13</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 56: Coxey's Army</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.056</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

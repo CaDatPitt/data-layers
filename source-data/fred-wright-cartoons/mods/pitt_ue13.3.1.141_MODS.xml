@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-03-22</mods:dateCreated>
+    <mods:dateOther type="sort">1976-03-22T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the anti-labor laws and policies and how they were upheld in the work force. Caption 1:  The UE and other unions which insisted on up-holding the founding principles of that organization were the subject of raids on their membership by sister unions even before the Taft-Hartley law was enacted. First those unions helped create the climate for passage of the anti-labor law by splitting the ranks of labor; then after denouncing the law they used it as a weapon to disorganize the organized.  Caption 2:  Mineworker Pres. John L. Lewis had said of those union leaders who agreed to live with the Taft-Hartley law that they were "kneeling in obeisance," before a "detestable and tyrannical statue." Now those leaders encouraged the anti-labor congressional committees to wage war on the democratic rights of working people. As the anti-labor propaganda poured out of committee rooms, corporations stood ready to further the divisions in labor's ranks.  Caption 3:  Corporations, such as GE, decreed that any worker who failed to satisfy the anti-labor politicians would be fired automatically. Union leaders who refused to abide by the Taft-Hartley law restrictions on labor's political independence  were cited for contempt of congress, subjected to violent denunciations by the press and in a number of instances sent to jail. Labor organization came to a halt. UE News, Vol. XXXVIII, Issue No. 6</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 141: Labor's Ranks Divided</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.141</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-05-01</mods:dateCreated>
+    <mods:dateOther type="sort">1972-05-01T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon shows that while scabs were brought into the plant by the National Guardsmen, many strikers and union leaders were charged with numerous offenses. In November, the strike collapsed and strikers went back to work, many of whom were fired. Caption 1:  National Guardsmen started escorting scabs into the Homestead plant and 7 strikers were charged with murdering a Pinkerton dick. But still the Carnegie Steel Co. could not get the mill going. It persuaded a Grand Jury to indict 167 workers on six counts including murder, rioting and conspiracy. The strike leaders were jailed and denied bail. For the rest half a million dollars bail was ordered. It couldn't be raised.  Caption 2:  To these charges was added one of "treason" against the strike advisory committee and 34 were held on this. State Supreme Court Judge Paxson told the trial jury that the "foreigners" among the laboring population had to be taught a lesson about what liberty means. The jury thought otherwise and all strikers were acquitted. But the expense of the legal defense and the time this took was a heavy burden.  Caption 3:  By November the strike which had begun in July was proving too great a burden to the workers. Strike relief dwindled. The fight had to be called off. When the workers returned to their jobs, company superintendent Charles M. Schwab made them line up for him to choose those he wanted to rehire. The strike broke the union, the Amalgamated Association of Iron, Steel and Tin workers. Carnegie plants were never organized-until the 1930's. UE News, Vol. XXXIV, Issue No. 9</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 52: Homestead Strike III</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.052</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Scabs</mods:topic>
+  </mods:subject>
+</mods:mods>

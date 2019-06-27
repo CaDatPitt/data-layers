@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-02-21</mods:dateCreated>
+    <mods:dateOther type="sort">1972-02-21T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the unjust verdict of the Haymarket trial, which sentenced four to death.  Protests from organized labor was heard from around the world. Caption 1:  Protests against the sentences in the Haymarket trial came from around the world. Organized labor including the AFL headed by President Samuel Gompers opposed the execution verdict. There were meetings for the defendants in France, Holland, Russia, Italy. Members of the French Chamber of Deputies wired the governor to stop the "political crime."  Caption 2:  The employers, especially in Chicago, maintained their pressure for carrying out the sentences against the leaders of the 8-hour day demonstration. Finally, public opinion prevailed on Governor Oglesby to commute to life imprisonment the sentences of Fielden and Schwab. One of the convicted, Louis Lingg, committed suicide and four were hanged on Nov. 11, 1887--Parsons, Engel, Fischer and Spies.  Caption 3:  Six years later a new governor, John Peter Altgeld examined the evidence and found that all the men had been innocent of the crime of bomb throwing with which they had been charged. He freed the three in jail, said they had been victims of a biased judge and jury. Labor distributed 50,000 copies of the pardon message and erected a monument to the dead. UE News, Vol. XXXIV, Issue No. 4</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 47: Haymarket Trial II</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.047</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

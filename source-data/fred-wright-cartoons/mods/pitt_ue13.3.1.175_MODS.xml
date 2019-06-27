@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-10-10</mods:dateCreated>
+    <mods:dateOther type="sort">1977-10-10T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the problems that the labor movement would need to face due to the bad economy and high unemployment after the Vietnam War. Caption 1:  The end of the Vietnam war left the economy deep in inflation and unemployment. When the great depression of the 1930's hit the country, there sprang up a powerful protest movement which led to the establishment of unemployment compensation, social security, vast public works programs. There came into being, also, an industrial union movement which swept through the giant industrial monopolies such as GE, Westinghouse, U.S. Steel, Ford and General Motors.  Caption 2:  Alarmed by the growing strength of the labor movement with its strong rank-and-file influence, big business promoted laws such as the Taft-Hartley Act, congressional investigations and an extensive propaganda campaign to split the labor movement. It found people within the labor movement to help divide the trade unions. Labor was harnessed to politicians who dragged the country through repeated recessions, while the corporations grew more powerful, and then into the devastating war in Asia.  Caption 3:  In the 1970's the labor movement was faced with the need to restore the influence it had before the splits of the 1950's had made it ineffective politically and far weaker organizationally. The persistent mass unemployment, the multinational corporations moving jobs abroad, the problems of pollution, energy crisis and the arms program sapping the nations' wealth presented labor with a challenge it would have to meet for its own welfare and the country as a whole. UE News, Vol. XXXIX, Issue No. 19</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 175: Labor faces new challenges</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.175</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

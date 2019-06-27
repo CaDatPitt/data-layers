@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-01-14</mods:dateCreated>
+    <mods:dateOther type="sort">1974-01-14T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts how Roosevelt began fixing the economy  with public works programs like the Civilian Conservation Corps and the Agricultural Adjustment Act. Caption 1:  As Presidential elections neared in 1932, the country was in the depths of the worst depression in history. Banks were going bankrupt and its depositors robbed of their savings. Home and farm foreclosures were commonplace. The Republicans renominated Hoover who promised more of the same pro-big business government. The Democrats chose New York's Governor Franklin D. Roosevelt.  Caption 2:  While Roosevelt said he favored putting people back to work, there was little specific in his program. But by the time he took office in March, 1933 demands for specifics were overpowering. The financial crisis was so great that banks by the thousands were ordered closed. There was no money for wages, for honoring checks, schools closed, cities ran out of funds. Corporations began issuing their own money.  Caption 3:  Roosevelt ordered all banks in the country closed as soon as he took office and stabilization measures were worked out for them. He declared that the government's first task was to put people to work. The Administration began planning a huge public works program. It set up the Civilian Conservation Corps for unemployed youth; for farmers there was the Agricultural Adjustment Act. UE News, Volume XXXVI, Issue No. 1</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 92: Roosevelt Elected</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.092</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

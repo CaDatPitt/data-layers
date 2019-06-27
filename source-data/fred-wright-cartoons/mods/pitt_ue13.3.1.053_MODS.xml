@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-05-15</mods:dateCreated>
+    <mods:dateOther type="sort">1972-05-15T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>In 1891, miners at Coal Creek, Tennessee fought against the state using convict labor to fill in for the miners on strike. The miners used guns and captured the convicts and the guards, using them as tools for negotiation with the governor. Caption 1:  The Homestead steel strike wasn't the only one to be smashed in the early 1890's by a combination of employer violence-courts and troops. At Coal Creek, Tenn. in 1891 miners fought against the use of convict labor supplied by the state. Prisoners were sent to tear down the strikers' homes and the lumber was used to build a stockade for the strikebreaker-criminals.  Caption 2:  Miners and other citizens, armed with guns, marched on the stockade, seized the convicts and their guards and paraded them to a railroad. The governor sent in the militia. The state labor movement advised him that if any shots were fired, 7,500 men would come to back the miners. Two thousand armed workingmen were outside when a committee went to see the militia commander.  Caption 3:  The commander gave up the thought of seizing the committee, and permitted the miners to march the convicts and his troops to a train. Elsewhere other groups of convicts were shipped away. The governor called a special session of the legislature where he said that giving up convict labor would cost the state $100,000 a year. He got a new law making interference with the convicts a worse crime punishable by 5 years in prison. UE News, Vol. XXXIV, Issue No. 10</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 53: Convict Labor I</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.053</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Scabs</mods:topic>
+  </mods:subject>
+</mods:mods>

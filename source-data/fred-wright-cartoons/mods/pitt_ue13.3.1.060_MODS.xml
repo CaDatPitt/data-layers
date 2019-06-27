@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-09-04</mods:dateCreated>
+    <mods:dateOther type="sort">1972-09-04T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon tells how the rail strike was ended once union leaders were arrested and how Eugene Debs came to realize that if the federal government would be used against them, they needed their own political party to fight back. Caption 1:  While the troops shot at the Pullman rail strikers, the courts were indicting them by the hundreds for ignoring the federal injunction. Eugene V. Debs and the other union heads were among those arrested. Chicago union headquarters were raided and wrecked by deputy marshals. The big strike was left leaderless with no one to advise the workers in different parts of the country. An attempt to organize a general strike failed.  Caption 2:  The strike was broken amid charges that AFL Pres. Samuel Gompers had betrayed it by "refusing to rally labor support for the rail workers. In his biography the AFL head later wrote that one of the things he had in his mind was weakening the American Railway Union on behalf of the old line craft rail unions. To this day the railway workers are divided into many separate craft groups-something which Debs had tried to end.    Caption 3:  Debs was sent to jail for six months and the other union leaders for lesser terms. His lawyer was the then unknown Clarence Darrow. By 1897 practically nothing was left of the American Railway Union. To Debs the use of the federal government to smash the Pullman strike was evidence that workers needed a political party to fight capitalism. He and the remaining ARU leaders later set up the Social Democratic Party. UE News, Volume XXXIV, Issue No. 18</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 60: Debs' Arrest Breaks Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.060</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

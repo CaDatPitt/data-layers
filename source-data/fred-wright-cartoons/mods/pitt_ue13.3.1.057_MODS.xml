@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-07-26</mods:dateCreated>
+    <mods:dateOther type="sort">1972-07-26T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the formation of the American Railway Union. Caption 1:  Coxey's army of the unemployed dramatized labor's plight but Congress did nothing. Meanwhile, the employers set out to use the 1893 depression to smash unions. Many unions went broke defending their members. AFL Pres. Gompers wrote that there weren't "more than two National Unions" which hadn't been crippled by the attacks. Despite this new groups of workers had to take up organization.  Caption 2:  Outstanding development was the formation of the American Railway Union. Five railroad brotherhoods had been operating independently-and ineffectively. Only one-tenth were organized and annual wages were $957 for engineers, $575 for conductors, $212 for brakemen, $264 for switchmen. Eugene Victor Debs, editor of the Locomotive Firemen's Magazine, called for one single union of all railroad workers. Early attempts to federate failed because some leaders objected.  Caption 3:  When Buffalo, N. Y. switchmen struck for a 10-hour day, they were attacked by the state militia. Their appeal for help from the railroad brotherhoods was turned down so the strike had to be called off. There was new demand for one rail union and Debs pushed ahead. A conference in Chicago formed the ARU to be open to all "white employees" of railroads except superintendents and other company officials. Dues were set at $1 a year. UE News, Vol. XXXIV, Issue No. 14</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 57: One Big Rail Union</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.057</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

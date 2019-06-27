@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-12-30</mods:dateCreated>
+    <mods:dateOther type="sort">1974-12-30T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the growth of the steel workers unions and  the CIO. Caption 1:  The Memorial Day Massacre in which peaceful steel strikers were murdered by steel corporation gunmen shocked the country. The conspiracy to destroy unionism through force and violence showed Americans the real nature of big business. Instead of the labor movement being stopped it expanded at a quicker rate. Republic Steel and the other Little Steel companies had to recognize the union. Steelworkers won a 40-hour week.  Caption 2:  The senate was stimulated to investigate the spy-thug set-ups in the service of industry. Within months the Committee for Industrial Organization, an offshoot of the old AFL, grew from affiliated unions with a membership of 1,000,000 to twice that number. Then again to 3,000,000 as new unions were coming into existence. And the number went up to almost 4,000,000.  Caption 3:  By 1938 the baby industrial union set-up found it necessary to establish a more permanent organization. A convention was called to establish the Congress of Industrial Organizations. Unlike the old AFL, the new unions assured the working people that no one would be barred regardless of "sex, race, creed or national origin." The vitality of the new movement was even spurring the hide-bound AFL to organize. UE News, Vol. XXXVI, Issue No. 26</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 115: Steel Workers Organize III</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.115</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization,  Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

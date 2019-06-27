@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-11-16</mods:dateCreated>
+    <mods:dateOther type="sort">1970-11-16T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon shows how as living costs rose in the 1850s and wages remained low, workers began striking.  The press wrote that the strikes were part of an international conspiracy starting in England. Caption 1:  Living costs rose rapidly in the 1850's; wages couldn't keep up. The discovery of gold in California spurred rising costs as huge amounts of money came into the market. It took at least $10.57 to support a family of five for a week in New York in 1851. But daily earnings ranged from 89 cents for blacksmiths to a top of $2 for stone cutters with most skilled men earning far below the top. A woman who earned over $2 was unusual.  Caption 2:  Alongside of these low wages were most miserable living conditions. Unskilled New England workers, for example, lived in unheated shacks with the open door as the only source of light. Editor Horace Greeley ("Go West, Young Man") commented that workers had no money for  amusements, for a doctor or apothecary, for pew rent in church, for ice cream or books. There was an urgent need for union organization which had been smashed a decade earlier.  Caption 3:  A new wave of strikes broke out. In four years (1850-1854) skilled mechanics won a 25 percent wage increase. Some daily papers charged the strikes as being an international conspiracy which had "commenced in England" with the aim of overthrowing government and private property. Others wrote (Trenton Daily Gazette) "Men should always have a fair compensation for their labor." From these strikes appeared the first national labor unions. UE News, Vol. XXXII, Issue No. 23</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 15: The "English Conspiracy"</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.015</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Average Work Day, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

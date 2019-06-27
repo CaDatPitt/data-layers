@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Papers of Fred Wright, 1953-1986</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Wright papers, 1953-1986</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Fred Wright papers, 1953-1986</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Wright, Fred</namePart>
+    <namePart type="date">1907-1984</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Editorial cartoons.</genre>
+  <genre authority="aat">Political cartoons.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1953-1986.</dateOther>
+    <dateIssued encoding="marc" point="start">1953</dateIssued>
+    <dateIssued encoding="marc" point="end">1986</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft. boxes)">72.75 (42</extent>
+    <note type="arrangement">Organized into 7 series: I. Original Cartoons; II. Correspondence; III. Publication Plates; IV. Cartoon Proofs and Negatives; V. Wright Publications; VI. Scrapbooks; VII. Printer Plates.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">This record group contains a variety of cartoons and layouts designed by Fred Wright. Included are original drawings for the UE News and other UE publications at the national, district, and local levels. Also present are publication plates, which are page layouts for UE pamphlets, books, and multi-panel cartoons. There are many cartoon proofs which have been arranged by topic, such as automation, other unions, and red baiting. Scrapbooks of Wright's cartoons are arranged chronologically. Correspondence includes letters from foreign publishers and other labor unions that used Wright's cartoons, as well as materials from a Fred Wright memorial and obituaries.</abstract>
+  <accessCondition type="restriction on access">The records of the United Electrical, Radio, and Machine Workers of America are closed for a period of twenty-five years after their creation.</accessCondition>
+  <note>Selected cartoons from this collection are also available as a digital image collection, Drawing on the American Labor Movement: Labor History Cartoons of Fred Wright.</note>
+  <note type="preferred citation">Papers of Fred Wright, 1953-1986, UE 13, Archives Service Center, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of the United Electrical, Radio, and Machine Workers of America and Patricia Wright, 1987 and 1988.</note>
+  <note type="biographical/historical">Fred Wright (1907-1984) was one of America's most renowned labor cartoonists. His career lasted from 1939 until his death in 1984. He is best known for his work as a staff cartoonist for the United Electrical, Radio and Machine Workers of America (UE). In addition to his cartoons illustrating the union's newspaper, the UE News, he designed leaflets, strike placards and animated organizing cartoons to contribute to the American Labor Movement. Wright sold his first cartoon to the National Maritime Union (NMU) publication, The Pilot, in 1939. He continued to draw cartoons for the U.S. Army during World War II and was ultimately hired as a staff cartoonist for the UE in 1949. Throughout this time, his work was reprinted in labor and radical publications worldwide. In the spirit of the Labor Movement, his cartoons criticized the Taft-Hartley Act, McCarthyism, and other government post-war attacks on labor unions. Wright's life experiences gave him a first-hand view of blue-collar struggles, both in America and abroad. As the child of a seamstress and a wheelwright in Derby, England, and the grandson of a founding member of the British Labour Party, he saw both the struggle of the working class and the political means to alleviate them. As a young man, he supported himself as a musician, playing in speakeasies and silent screen nickelodeons. It was while working as a saxophonist on Caribbean cruise ships that Wright saw the poverty of Central America. With input from the seamen onboard, all members of the NMU, he gained the inspiration to begin drawing cartoons. His grandfather also influenced him artistically, giving Wright his first drawing lesson at the age of five. He would later study at the Art Students League in New York City with John Sloan, an artist whose work focused mainly on poverty-stricken urban neighborhoods. Contrary to the popular dark and realistic "ash can style" that most cartoonists of the time relied on, Wright was "one of the first cartoonists in America to introduce more of a cartoony style to political cartoons and place an emphasis on humor, keeping in mind that none of the politics are diminished," said Gary Huck, Wright's successor as UE cartoonist. Wright was a working man and drew cartoons until he died in 1984. Even when he was too ill to come into the office he mailed his drawings to work.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-UE13">Finding aid Available in repository and on Internet; Box level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-UE13</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Wright, Fred</namePart>
+      <namePart type="date">1907-1984</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>United Electrical, Radio, and Machine Workers of America.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Editorial cartoons</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Labor unions</topic>
+    <geographic>United States</geographic>
+    <genre>Caricatures and cartoons</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Caricatures and cartoons</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Working class</topic>
+    <geographic>United States</geographic>
+    <genre>Caricatures and cartoons</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Industrial relations</topic>
+    <geographic>United States</geographic>
+    <genre>Caricatures and cartoons</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Cartoonists</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocn318457708</identifier>
+  <identifier type="oclc">318457708</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-UE13</url>
+    </location>
+  </relatedItem>
+  <relatedItem>
+    <location>
+      <url displayLabel="Image Collection">http://images.library.pitt.edu/f/fredwright/</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">090414</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109132225.0</recordChangeDate>
+    <recordIdentifier>5752789</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ue13</identifier></mods>

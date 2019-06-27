@@ -1,0 +1,35 @@
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:titleInfo>
+    <mods:title>Winthrop Allen (brother),</mods:title>
+  </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre>archival document</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther type="display">August 26, 1931-July 20, 1934</mods:dateOther>
+  </mods:originInfo>
+  <mods:identifier type="pitt">31735037972530</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Hervey Allen Papers</mods:title>
+    </mods:titleInfo>
+    <mods:identifier type="local-asc">SC.1952.01</mods:identifier>
+    <mods:originInfo>
+      <mods:dateCreated>1831-1965</mods:dateCreated>
+    </mods:originInfo>
+    <mods:note type="series">IX. Family Papers, 1831-1965</mods:note>
+    <mods:note type="subseries">3. Extended Family Correspondence, 1838-1950</mods:note>
+    <mods:note type="container">Folder 8</mods:note>
+    <mods:note type="ownership">ULS Archives &amp; Special Collections</mods:note>
+    <mods:note type="prefercite">Hervey Allen Papers, 1831-1965, SC.1952.01, Archives &amp; Special Collections, University of Pittsburgh Library System</mods:note>
+  </mods:relatedItem>
+  <mods:accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="unknown" publication.status="unknown"></copyrightMD:copyright>
+  </mods:accessCondition>
+</mods:mods>

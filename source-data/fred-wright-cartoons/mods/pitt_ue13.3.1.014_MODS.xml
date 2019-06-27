@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-11-02</mods:dateCreated>
+    <mods:dateOther type="sort">1970-11-02T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the spread of the 10-hour day through legislation in various states such as New Jersey and Ohio, resulting from pressure on state legislatures. Caption 1:  The 12-hour day was being whittled away slowly in the late 1840's. At Trenton, N.J. the "Friends of the 10-Hour System" came into being in 1848. At public meetings, through political action and strikes this was made the major issue. The Democratic Party was persuaded to nominate shoemaker Charles Skelton for Congress in 1851 on a 10-hour day platform. He was elected.  Caption 2:  Pressure on the N.J. state legislature by the Trenton Workingmen's Assn. resulted in passage of a state law the same year setting 10-hours as the normal work day. By the beginning of the Civil War (1861) the 10-hour day had been won for skilled mechanics but most factory workers still labored 11 or more hours. It had taken 30 years of hard work to cut the average work day from 12 1/2 hours.  Caption 3:  During those years Pennsylvania set 12 years of age as the minimum starting age for working in commercial jobs (1848). Ohio came through with a 10-hour day limit for working women. The employers were tough. They held firmly to every minute of labor but while the fight was hard, it was uniting workers and laying the basis for the country's first national unions. UE News, Vol. XXXII, Issue No. 22</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 14: Ten Hour Day III</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.014</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-07-09</mods:dateCreated>
+    <mods:dateOther type="sort">1973-07-09T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon shows how railway workers strike when railroad control is returned to private business after the First World War and workers immediately suffered wage cuts.  A federal injunction was used against them. Caption 1:  The end of the first World War saw the nation's railroads returned to private ownership. The roads had been government operated during the war emergency. A Railway Labor Board was set up to keep labor peace on the roads. In 1920 this board cancelled all contracts, did away with overtime pay and announced a $60 million wage cut for the railway shopmen.  Caption 2:  The members of six of the railway crafts voted to strike on July 1, 1922. Another union went for arbitration while the Brotherhoods which were spared the wage cut, in a typical divide and conquer scheme, declared themselves above the battle. The 400,000 strikers were declared "outlaws" by the Board. The non-striking unions joined the employer drive to keep the trains running and break the strike. Strikebreakers were hired from among college students and others.  Caption 3:  Militia, deputized gunmen went to work on pickets and the federal government mobilized its legal powers to smash the strike. President Harding's attorney general applied for a federal injunction. This was granted and the strikers were barred from holding any meetings, issuing statements, spending the union's fund for the strike and the leaders even denied the right to communicate with each other. UE News, Volume XXXV, Issue No. 14</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 81: 1922 Railway Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.081</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Strikes, Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

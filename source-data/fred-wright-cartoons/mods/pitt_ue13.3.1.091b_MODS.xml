@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1960-07-04</mods:dateCreated>
+    <mods:dateOther type="sort">1960-07-04T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the violent  action the government took against Bonus Marchers. Caption 1:  Although 25,000 World War 1 veterans were camped within sight of the capitol, Congress ignored their demand for immediate payment of the promised bonus and adjourned. A few days later, on July 28, Washington police advanced on a few hundred vets who were in a building and ordered them out. Refusal was followed by a police attack and two veterans were killed. President Hoover called the Army to attack the ex-soldiers.  Caption 2:  In command was Gen. Douglas MacArthur. Among his assistants was Col. Dwight D. Eisenhower. Led by cavalry, steel-helmeted troops, guns drawn, and some with sabres swinging; advanced on the bonus marchers. Pennsylvania Avenue was the first battleground. When the street was cleared, the troops advanced on Anacostia Flats where the vets had built their shantytown. Tear gas was thrown, the packing-case barricades stormed, the enemy was routed.  Caption 3:  Gen. MacArthur said the "mob" had the signs of revolution in it. The President said it had been his duty to uphold the Constitution against lawlessness. The routed bonus marchers including wives and children, fled Washington. Hoover had won the battle but his victory helped seal the doom of the Republican Party's control of the government and its philosophy of "the rich come first." UE News, Volume XXII, Issue No. 14</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 91B: The Bonus March</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.091b</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Union Organization, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

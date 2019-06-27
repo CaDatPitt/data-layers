@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-01-28</mods:dateCreated>
+    <mods:dateOther type="sort">1974-01-28T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts legislative changes the Roosevelt administration made on behalf of labor's rights and the increasing need for the organization of more unions. Caption 1:  The first six years of the Roosevelt Administrations, 1933-1939, saw many innovations as far as labor was concerned. First came the National Industrial Recovery Act which recognized labor's right to organize and bargain collectively and required employers to obey maximum hours of work and minimum rates of pay as approved by the President under industry codes. The codes called for a 40-hour week and minimum wages at $15 a week or 40 cents an hour.  Caption 2:  But the right to organize was later incorporated into the Wagner Act under which industrial unions swept the country. In 1933 over 900,000 workers struck, three times as many as the year before. Since the NRA did not distinguish between unions, and even favored company unions, the employers pushed these and in a short time there were 2,500,000 in company unions. In 1934 a National Labor Relations Board was set up.  Caption 3:  A great many of the strikes, about a third, in 1934 were for union recognition. Although millions were pleading for organization, the AFL leaders sat tight insisting on their old craft unionism and ignoring the great mass production industries such as auto, steel, electrical. Hundreds of thousands organized by the AFL into "federal" locals found the organizations ineffectual and soon dropped out. UE News, Volume XXXVI, Issue No. 2</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 93: Millions Seek Unions</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.093</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Union Organization, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

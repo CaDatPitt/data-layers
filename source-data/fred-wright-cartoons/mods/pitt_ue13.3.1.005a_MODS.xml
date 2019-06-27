@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1956-09-03</mods:dateCreated>
+    <mods:dateOther type="sort">1956-09-03T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the dissolution and reemergence of union activities between 1819 and 1823, resulting in the beginning of the American labor movement.  The UE News originally ran this cartoon with the title, "The First United Movement." Caption 1:  As unions in Philadelphia, Pittsburgh, New York were hit by conspiracy charges for trying to raise wages, organization slowed down. Weakened as they were, the unions could not withstand the depression that hit in 1819. Members could not fight for higher wages and shorter hours. A New York printer wrote: "We lived eight days without tea, sugar, or meat--on bread and butter only with cold water."  Caption 2:  Things got so bad organization had to begin again. New Orleans printers complained (in 1823) that they were "not receiving regular pay from their employers." They set up a union. A year later came the first recorded strike of women workers. These were the weavers at Pawtucket, R.I. The National Gazette wrote of their meeting: "It was conducted . . . without noise, or scarcely a single speech."  Caption 3:  Unions were springing up in many trades. By 1827 workers saw that they could no longer remain separated. Philadelphia labor set up the country's first city central body--the Mechanics Union of Trade Associations. This is regarded as the real beginning of the American labor movement. The big issue that united the unions was the demand for a 10-hour day. The shorter work day was to unite labor frequently in later years.   UE News, Vol. XVIII, Issue No. 18</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 5: Shorter Work Day Demanded</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.005a</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization, Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

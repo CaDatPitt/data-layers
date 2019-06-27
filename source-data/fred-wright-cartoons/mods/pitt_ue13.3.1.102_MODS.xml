@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-06-17</mods:dateCreated>
+    <mods:dateOther type="sort">1974-06-17T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the rapid growth of the CIO during its beginning. Caption 1:  The members of the ten-man Committee on Industrial Organization included the presidents of the Typographical, Hat, Oil, Mine, Ladies Garment, Textile and Amalgamated Clothing Workers. Some of these fell away when the going got rough; when they found that industrial organization could not be controlled the way their old bureaucratic set-ups were. The CIO started organizing unions where none existed.  Caption 2:  Opposed to the drive were men like Dan Tobin, president of the Teamsters, who called the workers in the mass-production industries "rubbish;" Matthew Woll of the Photoengravers who was also president of an anti-labor employer organization, the National Civic Federation and John Frey, of the AFL Metal Trades Dept. who had dedicated himself to stopping mass organization of labor.  Caption 3:  The new Committee for Industrial Organization aroused such enthusiasm among workers that millions streamed into the new unions. Hardly a year had passed and the CIO had passed the AFL in membership. At the end of 1937, the new group had 3,700,000 members; the old AFL 3,400,000. The AFL leaders had said these people could not be organized, were not worth organizing. UE News, Vol. XXXVI, Issue No. 12</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 102: New Organization Starts</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.102</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

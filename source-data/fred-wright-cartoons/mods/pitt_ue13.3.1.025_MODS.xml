@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-04-05</mods:dateCreated>
+    <mods:dateOther type="sort">1971-04-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the growth of national organizations during the Civil War and the support of President Lincoln of the labor cause. Caption 1:  High prices forced northern workers to strike despite their strong sympathies for the Union cause. Out of these strikes came new organization. But labor was still far behind its strength of earlier years. By 1864 there were 200,000 organized -- less than 30 years earlier. But the new unions began coming together in national organizations -- 32 of them by 1865. They began establishing labor newspapers and forming into local trades' assemblies.  Caption 2:  When 7,000 New York members of the Machinists and Blacksmiths struck in 1863, the employers asked the government to extend their contract. A workers' delegation met with President Lincoln who assured them of his personal sympathies and referred them to the Sec'y. of the Navy. They were promised that there'd be no extension for the employers. "I know," Lincoln told the group, "that in almost every case of strikes, the men have just cause for complaint."  Caption 3:  In  1864 workingmen's Democratic-Republican Assns. were set up in New York, Chicago, Boston, Philadelphia to back candidates favorable to the north. Association officers met with Lincoln who told them to beware of prejudice. "The strongest bond of human sympathy," the President continued, "outside of the family relation, should be one uniting all working people of all nations and tongues and kindreds." UE News, Vol. XXXIII, Issue No. 7</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 25: Lincoln Backs Strikers</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.025</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Union Organization, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

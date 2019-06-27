@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-05-23</mods:dateCreated>
+    <mods:dateOther type="sort">1977-05-23T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the struggles that African Americans faced even after they had a bills passed to give them voting rights. Caption 1:  The civil rights struggles of the 1960s had their effect on Congress. After months of debate and filibuster, Congress in 1964 approved a bill prohibiting application of different  standards to black and white registrants in interpreting literacy tests for voting. The bill banned discrimination in the use of public facilities as well as in employment. It established a civil rights commission to supervise the enforcement of the legislation.  Caption 2:  Alongside the movement for this legislation there continued the drive for the rights of all Americans to vote on an equal basis. The urgency of this drive was exemplified by the situation in Mississippi where fewer than 7 percent of the black population of voting age were registered, 20,000 blacks as compared to 500,000 whites. Denied representation by the official Democratic Party, supporters of civil rights in that state formed the Freedom Democratic Party.  Caption 3:  The Freedom Democratic Party carried on a registration drive among black citizens and prepared to send delegates to the 1964 national Democratic convention hoping to replace the official Mississippi delegation. The nation was shocked when three young men, one black and two white, who were involved in the Mississippi registration drive were kidnapped and murdered. It soon became evident that local authorities had conspired to commit this brutal act. UE News, Vol. XXXIX, Issue No. 10</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 167: Rights workers murdered</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.167</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Equal Pay</mods:topic>
+  </mods:subject>
+</mods:mods>

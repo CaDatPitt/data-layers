@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-06-27</mods:dateCreated>
+    <mods:dateOther type="sort">1977-06-27T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the increase in intervention in Vietnam and the rise in  tensions between the U.S. government and the American people due to their decision. Caption 1:  Four months after he was elected on a pledge not to send American boys to fight in an Asian war, President Johnson began pouring combat troops into South Vietnam to fight the native guerrilla forces. First it was 3,500 marines to protect an air base. Then it was army troops to "protect" the villagers from the guerillas. Every shipment of troops was accompanied by a Pentagon declaration that just a few more contingents would bring the war to an end.  Caption 2:  As U.S. intervention increased, the UE at its 1964 convention declared that, "The effort to impose, by military means, an American solution to an Asian political problem, estranges the United States from the peoples and governments of Asia, and finds no real support among even our country's closest allies." College campuses were swept by protest demonstrations as young people demanded an end to the war, an end to the U.S. bombing of villages.  Caption 3:  In South Vietnam, itself, the government had become so unpopular and the war so burdensome that Buddhist priests set themselves afire in public protests. U.S. troops were used to suppress the growing religious opposition to the war. Trying to explain why American planes were used to destroy a village, an American military adviser said, "We had to destroy it in order to save it." There were increasing reports of civilian massacres such as My Lai. UE News, Vol. XXXIX, Issue No. 12</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 169: Peace demands grow</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.169</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>War</mods:topic>
+  </mods:subject>
+</mods:mods>

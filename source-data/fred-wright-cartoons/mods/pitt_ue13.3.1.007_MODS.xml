@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-07-13</mods:dateCreated>
+    <mods:dateOther type="sort">1970-07-13T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>As cost of living went up in the mid 1830s, women entered the workforce.  This cartoon depicts their contribution to labor and the formation of their own unions. Caption 1:  Workingmen were the strongest supporters of Andrew Jackson for his first term and then for the re-election seeing in him the fighter against the banks and their employers. Trade unions were spreading very rapidly especially as the nation experienced a runaway inflation. "The barbers have struck," a horrified N.Y.Times wrote in April, 1836, "and now all that remains for Editors is to strike, too."  Caption 2:  In two years, 1834-1836, the cost of living jumped 66 percent. Young boys were brought in to industry to undercut workers' wages. Women were hired as printers, cigar makers as well as tailors and shoemakers. They were paid $1.25 a week and glad to get it as the high prices made it impossible for their families to get along. Even convicts were put to work competing with free labor.  Caption 3:  Many unions which had been broken up through courts, red-baiting (they had that, then, too) and blacklists revived. Baltimore women formed the United Seamstresses Society; New Yorkers, the Ladies' Shoebinders and Female Book-binders. In Philadelphia, the Female Improvement Society and the growth of the New England textile industry was accompanied by the Female Society of Lynn and Vicinity for the Protection and Promotion of Female Industry. UE News, Vol. XXXII, No. 14</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 7: Women Form Unions</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.007</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

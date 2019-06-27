@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-05-14</mods:dateCreated>
+    <mods:dateOther type="sort">1973-05-14T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon is about how steel workers lose their strike in 1919, due to industry labeling them as "Bolsheviks." Caption 1:  The violence and propaganda turned loose against the 1919 steel strikers had its effect in that a number of the craft unions backed out of their previous support. Cold and hunger did the rest. Banker J. P. Morgan gave the industry his full support in their refusal to negotiate. All industry backed the steel industry fearing that a defeat here would mean organization in other mass production industries.  Caption 2:  The defeated steel workers crawled back to the 12-hour day, the seven day week, with no union. It was not until 16 years later that another serious attempt would be made to organize steel. A report of the Inter-church Commission blamed government officers, the press, the clergy, the large cash surplus held by U.S. Steel and the craft-divided workers for the defeat.  Caption 3:  Hardly were the steel workers defeated but the soft coal miners were thrown into battle in 1919. Having fallen far behind war profit-inflated prices, the mine workers asked for a 60 percent raise, the 30-hour week. The UMW got the usual answer-nothing at all; the war emergency is still on, be patriotic. A strike of 425,000miners was set for Nov. 1. But it never took place. UE News, Volume XXXV, Issue No. 10</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 77: 1919 Steel Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.077</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red-Scare, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

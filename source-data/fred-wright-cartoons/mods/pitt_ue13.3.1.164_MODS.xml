@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-04-11</mods:dateCreated>
+    <mods:dateOther type="sort">1977-04-11T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes more than 20 electrical manufacturing corporations, like GE and Westinghouse, pleading guilty to charges of price fixing. Caption 1:  One day in November, 1960, 80 corporation lawyers jammed a federal court room in Philadelphia to plead guilty to price fixing charges on behalf of more than 20 electrical manufacturing corporations and 44 of their executives. The government had shown that equipment sales amounting to nearly $2 billion a year had been manipulated by these corporations to the detriment of the country, their employees and all who used electricity.  Caption 2:  The conspirators operated under code words, met in places with names like "Dirty Helen's," a Milwaukee saloon, and assigned each other orders for electrical equipment according to the "phases of the moon." The government charged that GE and Westinghouse bids on Tennessee Valley Authority generating equipment were written to give them a profit of 265 percent. When TVA, as a consequence, accepted a much lower British bid, American workers lost a million man hours of work.  Caption 3:  The chief attorney for Westinghouse was former U.S. Atty.-General Herbert Brownell, Jr. It was he, who, while in Eisenhower's cabinet, began denaturalization proceedings against UE Director of Org. Matles in the midst of the union's 1955-56 strike against Westinghouse and proceedings to deprive the UE of all collective bargaining rights. Twenty-nine corporations and 44 of their executives pleaded guilty or "no defense," in this, biggest of all monopoly suits. UE News, Vol. XXXIX, Issue No. 7</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 164: Corporations Plead 'Guilty'</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.164</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

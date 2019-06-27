@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-09-21</mods:dateCreated>
+    <mods:dateOther type="sort">1970-09-21T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts labor's victory in gaining the 10-hour work day through various state legislations.  Employers, however, resisted this by blacklisting workers who would not work the longer hours. Caption 1:  Defeated time and again workers kept returning to the demand for a 10-hour day to ease their hardships and enable them to get needed leisure time for recreation and education. A meeting of New Jersey workingmen resolved that "we hold the doctrine that masses were created to toil and the few to think in abhorrence" (1847). And in Nashville, Tenn. carpenters declared: "We are flesh and blood, we need hours for recreation."  Caption 2:  To some legislation was the only way to cut hours. Others thought arrangements with individual employers the answer. Then there were those who proposed a general strike throughout New England starting on July 4. Meanwhile New Hampshire passed a state 10-hour law (1847). Pennsylvania followed a year later and other states followed a few years later. But the laws did not stop employers from blacklisting any who wouldn't work longer hours.  Caption 3:  To this employers answered as did a Chicopee, Mass. mill manager: "It is not the hours per day that a person works that breaks him down, but the hours spent in dissipation." He saw shorter hours as reducing wages and increasing dissipation. Even among workers some felt that they could get a shorter day only with a reduction in earnings. But others felt that reducing hours would result in a greater demand for labor and therefore higher wages. UE News, Vol. XXXII, Issue No. 19</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 12: Ten Hour Day</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.012</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Average Work Day, Politics and Legislation, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

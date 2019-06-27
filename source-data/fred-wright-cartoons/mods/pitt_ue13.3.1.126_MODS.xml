@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1975-06-02</mods:dateCreated>
+    <mods:dateOther type="sort">1975-06-02T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the workers involvement in independent political movements in the 1930's. Caption 1:  Along with the development of the industrial unions and the struggles of the unemployed through their councils and alliances, there was a parallel development of independent political action by working people. Other sections of the population including farmers and professionals who were inspired by the new labor movement's militant stand joined in helping to build various forms of independent political action.  Caption 2:  Some of the new independent political movements of the 1930's emphasized support of the candidates and policies of the Roosevelt administration. Others leaned towards developing their own political platforms, often more radical than the administration's, and presented the voters with their own candidates. Such independent political action, whatever the form, helped overcome conservative or employer pressure on the government.  Caption 3:  Among the independent political movements which won extensive support, electing many state and national legislators, mayors and governors, were the American Labor Party in New York State; the Minnesota Farmer-Labor Party; the Washington Commonwealth Federation. Such movements pushed the legislative interests of working people and fought anti-labor groups such as the Black Legion, and Silver Shirts, modeled after Hitler's Nazi gangs. UE News, Vol. XXXVII, Issue No. 11</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 126: Independent Political Action</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.126</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

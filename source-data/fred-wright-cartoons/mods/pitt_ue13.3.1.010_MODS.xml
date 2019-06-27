@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-08-24</mods:dateCreated>
+    <mods:dateOther type="sort">1970-08-24T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the first declaration of the 10-hour day for government projects and the fight against this by private businesses.  Out of this, both employers and workers created labor newspapers. Caption 1:  Labor's movement for a shorter work day (shorter than 12 hours) in the 1840's had its first big victory with the declaration by Pres. Martin Van Buren setting a 10-hour day on all government projects. But private employers fought hard to stop the movement. New York leather curriers and dealers agreed not to hire anyone known to be a member of a society which would set "the direction of terms or prices for which workmen shall engage themselves." Among the weapons workers developed then was the first labor press.  Caption 2:  Employers had been sponsoring papers which printed such propaganda as the "Song of the Factory Girl" in New England: "Oh. sing me the song of the Factory Girl! So merry and glad and free! The bloom in her cheeks, of health how it speaks. Oh, happy a creature is she! She tends the loom, she watches the spindle, And cheerfully toileth away, And her bosom is very gay."  Caption 3:  To combat this kind of "Works News" girls working in New England mills started what is thought to be the first labor papers. In New Hampshire they set up in 1842, The Factory Girl. Then came the weekly Voice of Industry in Lowell, Mass. Writing to this paper a girl complained of working from 6 a.m. until 10 p.m. for $1.56 a week. "Here am I, a healthy New England girl, quite well behaved, bestowing just half of all my hours, including Sundays, upon a company for less than 2 cents an hour." UE News, Vol. XXXII, Issue No. 17</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 10: Two Cents an Hour</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.010</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Average Work Day, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

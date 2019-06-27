@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-10-02</mods:dateCreated>
+    <mods:dateOther type="sort">1972-10-02T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon is about the early organization of the Populist People's party and some of the changes it managed to effect before it died out. Caption 1:  Repeated depressions, smashing of strikes by government injunction and troops, the force being used to break up demonstrations of hungry working people, and the squeeze on the farmers inspired new attempts at independent political action in the 1890's. Foremost was the People's Party which grew up among the midwest farmers. Among the demands of the party were an 8-hour day and outlawing of the Pinkerton detective agency strikebreakers.  Caption 2:  Many unions joined the Populists (People's Party). In its first presidential election, the party polled over a million votes receiving 22 electoral college votes. Ten Representatives and five Senators were elected by the party. In several states their candidates for governor won. When Cripple Creek, Col. miners struck for an 8-hour day in 1894, Populist Gov. Waite called out the troops to protect them. In Kansas, Populist Gov. Lewelling demanded that the railroads remove strikebreakers.  Caption 3:  But the leaders of the AFL, led by Gompers, were determined that labor steer clear of politics. This greatly weakened the third party. The party was also torn between those who favored a fight against monopolies and others who would use it to promote free coinage of silver. By 1896 the People's Party was washed up. UE News, Volume XXXIV, Issue No. 20</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 61: The Populist Movement</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.061</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Union Organization, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

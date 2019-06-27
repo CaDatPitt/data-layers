@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-06-13</mods:dateCreated>
+    <mods:dateOther type="sort">1977-06-13T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes how the U.S. got involved with the Vietnam War. Caption 1:  Having fought Japanese invaders in World War II and then defeating the French government's attempt to resume colonial rule of their country, the people of Vietnam looked forward to independence as the second half of the 20th century began. The defeat of France was recognized in a peace treaty which set a schedule for national Vietnamese elections which would unite northern and southern Vietnam.  Caption 2:  Those elections never took place. Vietnamese landlords who feared that the peasants would occupy their lands and native militarists who had enjoyed French favors began a rebellion and moved to make permanent the temporary division of the country. President Eisenhower had rejected the proposal of his secretary of state, John Foster Dulles, that the U.S. intervene on the side of the French but then President Kennedy sent a few hundred "advisers" to help the south.  Caption 3:  When President Lyndon Johnson, who had succeeded the assassinated Kennedy in 1963, ran for the Presidency the next year he denounced his Republican opponent, Sen. Barry Goldwater, for planning to send American boys to fight in Vietnam and for proposing massive U.S. bombing  of that country on behalf of the southern militarists. Johnson's pledge to steer clear of the war was a major factor in his overwhelming victory. A few months later, however, he began sending hundreds of thousands of troops to Asia. UE News, Vol. XXXIX, Issue No. 11</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 168: Intervention in Viet Nam</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.168</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>War</mods:topic>
+  </mods:subject>
+</mods:mods>

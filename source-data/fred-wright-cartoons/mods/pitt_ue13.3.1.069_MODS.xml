@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-01-22</mods:dateCreated>
+    <mods:dateOther type="sort">1973-01-22T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon details the ground IWW was gaining with various legal victories, child labor laws, and 8 hour work day.  People were voting to make changes for working class people. Caption 1:  Victorious in the Lawrence, Mass. strike, the IWW gained prestige across the country. At the same time, working people and other sections of the population were shocked by the corruption in politics, the big business control of city, state and federal governments. This was "The Progressive Era" when Woodrow Wilson was elected on a "New Freedom" platform and Socialist Eugene V. Debs received over 800,000 votes in 1912.  Caption 2:  Anti-monopoly candidates like Tom Johnson and Sam "Golden Rule" Jones were elected mayors of Cleveland and Toledo. Jones took the clubs away from the police so they couldn't beat strikers; cut the tax rate of the poor. Johnson set up a city-owned three cent fare trolley line to compete with the privately-owned five cent line. It was the muckraking period when authors like Upton Sinclair exposed the meat trust, Lincoln Steffens the political corruption.  Caption 3:  Labor forced the passage of the Clayton Act which limited use of injunctions, made picketing lawful. The Supreme Court soon emasculated this law. The Labor Department was established (1913). From 25 states labor wrung laws limiting the length of the working day and for the first time in history child labor laws, sought for a century, were passed by states. By 1915 labor had won workmen's compensation laws in 35 states and the railroad workers got their first 8-hour day. UE News, Volume XXXV, Issue No. 2</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 69: The Progressive Era</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.069</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-04-25</mods:dateCreated>
+    <mods:dateOther type="sort">1977-04-25T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes how many corporation executives involved in the electrical equipment cases were fined and received jail sentences. Caption 1:  Among those who pleaded guilty of violating the anti-trust laws in the electrical equipment case was Fred Loock, president of Allen-Bradley. Loock said of the price-fixing cases, "It is the only way a business can be run. It is free enterprise." He received a suspended sentence because of his wife's illness. Three GE and two Westinghouse executives received 30 day sentences while several others were given suspended sentences.  Caption 2:  Total fines imposed on 45 corporation executives came to $137,500 and the guilty corporations were fined $1,787,000 in 1961. Soon, institutions and public utilities which had been victims of the monopoly-controlled electrical equipment prices sued the manufacturers for damages running into the scores of millions. These suits were settled out of court.  Caption 3:  Later, the Internal Revenue Service accepted the convicted corporations' claim that the cost of the damage suits could be deducted as a business expense. Meanwhile, TVA reported that for the first time in years, GE and Westinghouse bids had fallen below European bids. The UE pointed out that not the high cost of workers' wages had cost American firms their competitive advantage over foreign manufacturers, but their own monopoly profiteering. UE News, Vol. XXXIX, Issue No. 8</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 165: Monopoly Suit Sentences</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.165</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

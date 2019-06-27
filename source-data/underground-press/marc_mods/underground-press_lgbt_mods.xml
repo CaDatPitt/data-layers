@@ -1,0 +1,2889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>advocate</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Advocate</title>
+      <subTitle>(Los Angel. Calif.)</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Advocate, the national gay lesbian newsmagazine</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Advocate (Los Angeles, Calif.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="local">Online resources.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Los Angeles, Calif</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Los Angeles, Calif</placeTerm>
+      </place>
+      <publisher>Liberation Publications.</publisher>
+      <publisher>Here Publishing Inc.</publisher>
+      <dateIssued encoding="marc" point="start">1970</dateIssued>
+      <dateIssued encoding="marc" point="end">2010</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly, Feb. 2009-</frequency>
+      <frequency>Biweekly, 1970-Jan. 13, 2009</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 28-45 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Began with no. 33 (May 13-26, 1970).</note>
+    <note>Issue no. 33 (May 13-26, 1970)-no. 155 (Jan. 15, 1975) published by Advocate Publications; no. 156- by Liberation Publications.</note>
+    <note>Description based on: Issue 520 (Mar. 14, 1989); title from cover.</note>
+    <note>Latest issue consulted: Issue 1035  (Feb. 2010).</note>
+    <note>Unnumbered special issue dated Apr. 30, 2000 has also title: Special commemorative issue: The Millenium March on Washington for Equality.</note>
+    <note>Beginning with issue 1035 (Feb. 2010)-   issued with: Out (New York, N.Y.).</note>
+    <note>1967-1982. 1 v.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>United States</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <geographic>United States</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="gtt">
+      <topic>Homoseksualiteit</topic>
+    </subject>
+    <classification authority="lcc">HQ76.8.U5 A63</classification>
+    <classification authority="ddc">301.41/57/05</classification>
+    <location>
+      <url displayLabel="Abstracts and selected articles">http://bibpurl.oclc.org/web/626</url>
+    </location>
+    <relatedItem type="constituent">
+      <titleInfo>
+        <title>Out traveler</title>
+      </titleInfo>
+      <identifier type="issn">1548-5684</identifier>
+      <identifier type="local">(DLC)  2003248957</identifier>
+      <identifier type="local">(OCoLC)53129295</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" displayLabel="Microfilm version:">
+      <titleInfo>
+        <title>Advocate (Los Angeles, Calif.)</title>
+      </titleInfo>
+      <identifier type="issn">0001-8996</identifier>
+      <identifier type="local">(DLC)  2004205871</identifier>
+      <identifier type="local">(OCoLC)55520910</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+        <title>Advocate (Los Angeles, Calif. : Online)</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)60638931</identifier>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Los Angeles advocate</title>
+      </titleInfo>
+      <identifier type="local">(DLC)   71220969</identifier>
+      <identifier type="local">(OCoLC)2972005</identifier>
+    </relatedItem>
+    <identifier type="issn">0001-8996</identifier>
+    <identifier type="lccn">72624007</identifier>
+    <identifier type="lccn" invalid="yes">sn 84012011</identifier>
+    <identifier type="oclc">ocm02256995</identifier>
+    <identifier type="oclc">2256995</identifier>
+    <relatedItem>
+      <location>
+        <url displayLabel="Abstracts and selected articles">http://bibpurl.oclc.org/web/626</url>
+      </location>
+    </relatedItem>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760620</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20120902230250.0</recordChangeDate>
+      <recordIdentifier>532510</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Agape And Action</title>
+      <subTitle>-newsletter Of The Radical Christian Committee Of Concern</subTitle>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Berkeley, Calif</placeTerm>
+      </place>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Completely irregular</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="date/sequential designation">No1,1970-</note>
+    <note>Monthly.</note>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <identifier type="oclc">02257030</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg"></recordContentSource>
+      <recordCreationDate encoding="marc">760620</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>532530</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>American man</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Haddad, Richard.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Columbia, Md</placeTerm>
+      </place>
+      <publisher>R. Haddad.</publisher>
+      <dateIssued encoding="marc" point="start">1980</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. ill. 22 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">v. 1-   winter 1980-</note>
+    <subject authority="lcsh">
+      <topic>Men</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Sex role</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <identifier type="issn">0271-9487</identifier>
+    <identifier type="lccn">sn 80012550</identifier>
+    <identifier type="oclc">06352511</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">UMC</recordContentSource>
+      <recordCreationDate encoding="marc">800523</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185558.0</recordChangeDate>
+      <recordIdentifier>547102</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Blueboy</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York, N.Y</placeTerm>
+      </place>
+      <publisher>Blueboy, inc.</publisher>
+      <dateIssued encoding="marc" point="start">19uu</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v.</extent>
+    </physicalDescription>
+    <note>Description based on: Vol. 60 (Oct. 1981); title from cover.</note>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <identifier type="issn">0279-3733</identifier>
+    <identifier type="lccn">sn 81002823</identifier>
+    <identifier type="oclc">07816856</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">811005</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>549414</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Boston gay review</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Boston Gay Review Collective.</publisher>
+      <dateIssued encoding="marc" point="start">197u</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent> v. ill. 34 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Homosexuality and literature</topic>
+      <topic>History and criticism</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality in literature</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <topic>Poetry</topic>
+      <topic>History and criticism</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <identifier type="oclc">04903842</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">790427</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185548.0</recordChangeDate>
+      <recordIdentifier>544788</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Fag rag</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Fag rag</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston, Mass</placeTerm>
+      </place>
+      <publisher>Fag Rag.</publisher>
+      <dateIssued encoding="marc" point="start">197u</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. ill. 43x29 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="ddc" edition="11">306</classification>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>Alternative press index</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <identifier type="issn">0046-3167</identifier>
+    <identifier type="lccn">sn 84012251</identifier>
+    <identifier type="oclc">02547737</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">761109</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>540013</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Gay (New York, N.Y.)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Gay (New York, New York)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <genre authority="rdacontent">text</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1969</dateIssued>
+      <dateIssued encoding="marc" point="end">uuuu</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly, July 1973-</frequency>
+      <frequency>Biweekly, Dec. 1, 1969-Apr. 13, 1970</frequency>
+      <frequency>Weekly, Apr. 20-Sept. 28, 1970</frequency>
+      <frequency>Biweekly, Oct. 12, 1970-June 18, 1973</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">New York :</placeTerm>
+      </place>
+      <publisher>Four Swords, Incorporated,</publisher>
+      <dateIssued>1969-</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes) : illustrations.</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">No. 1 (Dec. 1, 1969)-</note>
+    <note>Title from caption.</note>
+    <note>Reproduction of the original from Lesbian Herstory Archives.</note>
+    <note>Reproduction of the original from Gay, Lesbian, Bisexual, and Transgender Historical Society.</note>
+    <note type="numbering">Issues beginning Nov. 1970 also carry volume designation. Contains numbering inconsistencies.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>United States</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>United States</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay men</topic>
+      <geographic>United States</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>New York County (N.Y.)</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage.">http://pitt.idm.oclc.org/login?url=http://gdc.galegroup.com/gdc/artemis/atp/AboutThisPublicationPortletWin?mCode=1NEM&amp;p=AHSI&amp;prodId=AHSI&amp;action=e&amp;windowstate=normal&amp;mode=view&amp;userGroupName=upitt_main</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through for access via Gale Cengage.">http://pitt.idm.oclc.org/login?url=http://gdc.galegroup.com/gdc/artemis/atp/AboutThisPublicationPortletWin?mCode=6QYU&amp;p=AHSI&amp;prodId=AHSI&amp;action=e&amp;windowstate=normal&amp;mode=view&amp;userGroupName=upitt_main</url>
+    </location>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture since 1940</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">800422257</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">840917</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180627110512.0</recordChangeDate>
+      <recordIdentifier>9247172</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay NYC</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Gay</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Gay (New York, N.Y.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <genre authority="rdacontent">text</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1969</dateIssued>
+      <dateIssued encoding="marc" point="end">uuuu</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly, July 1973-</frequency>
+      <frequency>Biweekly, Dec. 1, 1969-Apr. 13, 1970</frequency>
+      <frequency>Weekly, Apr. 20-Sept. 28, 1970</frequency>
+      <frequency>Biweekly, Oct. 12, 1970-June 18, 1973</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">New York :</placeTerm>
+      </place>
+      <publisher>Four Swords, Incorporated,</publisher>
+      <dateIssued>1969-</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes) : illustrations.</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">No. 1 (Dec. 1, 1969)-</note>
+    <note>Title from cover.</note>
+    <note>Reproduction of the original from Lesbian Herstory Archives.</note>
+    <note type="numbering">Issues beginning Nov. 1970 also carry volume designation. Contains numbering inconsistencies.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+      <geographicCode authority="marcgac">n-us-ny</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>United States</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>United States</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay men</topic>
+      <geographic>United States</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>New York County (N.Y.)</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage.">http://pitt.idm.oclc.org/login?url=http://gdc.galegroup.com/gdc/artemis/atp/AboutThisPublicationPortletWin?mCode=9EYO&amp;p=AHSI&amp;prodId=AHSI&amp;action=e&amp;windowstate=normal&amp;mode=view&amp;userGroupName=upitt_main</url>
+    </location>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture since 1940</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">952385097</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">840917</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180627110552.0</recordChangeDate>
+      <recordIdentifier>9247403</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay community news</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Gay community news</title>
+      <subTitle>(Boston Mass.)</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>GCN</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>G.C.N., inc.]</publisher>
+      <dateIssued encoding="marc" point="start">1973</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Quarterly, 1994-</frequency>
+      <frequency>Weekly (except the last week of Apr., Aug. and Dec.), 1973-1992</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. ill. 43 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Began with v. 1, no. 2 on June 28, 1973.</note>
+    <note type="numbering">Publication suspended with July 4/17, 1992 issue amd resumed with June 1994 issue.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay men</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HQ75 .G37</classification>
+    <classification authority="ddc" edition="11">305</classification>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>Alternative press index</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <relatedItem type="otherFormat">
+      <originInfo>
+        <publisher>Harvard University Microreproduction Dept.</publisher>
+      </originInfo>
+      <identifier type="local">(DLC)sn 95032713</identifier>
+      <identifier type="local">(OCoLC)31855724</identifier>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Gay community newsletter</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="issn">0147-0728</identifier>
+    <identifier type="lccn">sc 77001418</identifier>
+    <identifier type="oclc">03079323</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">770628</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>1696389</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay life</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh</placeTerm>
+      </place>
+      <publisher>GNC.</publisher>
+      <dateIssued encoding="marc" point="start">1977</dateIssued>
+      <dateIssued encoding="marc" point="end">1979</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent> 30 no. ill. 22 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">no. 2-31; Mar. 1977-Oct. 1979.</note>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Pittsburgh's gay life</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Out</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)5737007</identifier>
+    </relatedItem>
+    <identifier type="oclc">03831941</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">780427</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>542801</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay life</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Gay life (Out Publishing Co.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh</placeTerm>
+      </place>
+      <publisher>Out Publishing Co.</publisher>
+      <dateIssued>197 -1981</dateIssued>
+      <dateIssued encoding="marc" point="start">197u</dateIssued>
+      <dateIssued encoding="marc" point="end">1981</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent> v. : ill. ; 36 x 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">      -no. 51 (June 1981).</note>
+    <note>Description based on: Feb., 1981.</note>
+    <note>Issued as a supplement to: Out.</note>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Out</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)5737007</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Out and about</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)7760230</identifier>
+    </relatedItem>
+    <identifier type="oclc">07239543</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">810319</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>548396</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay news</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Gay Alternatives Pittsburgh</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh</placeTerm>
+      </place>
+      <publisher>Gay Alternatives Pittsburgh.</publisher>
+      <dateIssued encoding="marc" point="start">1973</dateIssued>
+      <dateIssued encoding="marc" point="end">1973</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ill. 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation"> no.3; June [1973]</note>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Newsletter</title>
+      </titleInfo>
+      <name>
+        <namePart>Gay alternatives Pittsburgh.</namePart>
+      </name>
+      <identifier type="local">(OCoLC)3510023</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Pittsburgh gay news</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)3010045</identifier>
+    </relatedItem>
+    <identifier type="oclc">03509532</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">771222</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>542021</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay sunshine</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Berkeley, Calif</placeTerm>
+      </place>
+      <publisher>Gay Sunshine</publisher>
+      <dateIssued>1970-1981]</dateIssued>
+      <dateIssued encoding="marc" point="start">1970</dateIssued>
+      <dateIssued encoding="marc" point="end">1981</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>46 v. : ill. ; 45 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">    -no. 46.</note>
+    <note type="date/sequential designation">Began with: No. 1, published in 1970.</note>
+    <note>Description based on: No. 5 (Jan. 1971); title from cover.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <topic>Literary collections</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Gay sunshine journal</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)8517263</identifier>
+    </relatedItem>
+    <identifier type="issn">0046-550X</identifier>
+    <identifier type="lccn">sc 85003518</identifier>
+    <identifier type="oclc">02261416</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">760620</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>534521</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gay sunshine journal</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Leyland, Winston</namePart>
+      <namePart type="date">1940-</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">San Francisco</placeTerm>
+      </place>
+      <publisher>Gay Sunshine Press</publisher>
+      <dateIssued>c1982-</dateIssued>
+      <dateIssued encoding="marc" point="start">1982</dateIssued>
+      <dateIssued encoding="marc" point="end">uuuu</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Irregular</frequency>
+      <frequency authority="marcfrequency">Completely irregular</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Edited by Winston Leyland.</note>
+    <note type="date/sequential designation">No. 47-</note>
+    <note>"Anthology of fiction/poetry/prose."</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Literary collections</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Fiction</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HQ76.2.U5 G394</classification>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Gay sunshine</title>
+      </titleInfo>
+      <identifier type="issn">0046-550X</identifier>
+      <identifier type="local">(DLC)sc 85003518</identifier>
+      <identifier type="local">(OCoLC)2261416</identifier>
+    </relatedItem>
+    <identifier type="issn" invalid="yes">0046-550X</identifier>
+    <identifier type="lccn">sn 83010259</identifier>
+    <identifier type="oclc">08517263</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">CDH</recordContentSource>
+      <recordCreationDate encoding="marc">820614</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114191344.0</recordChangeDate>
+      <recordIdentifier>1528467</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Genre</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Genre</title>
+      <subTitle>(Los Angel. Calif.)</subTitle>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Genre (Los Angeles, Calif.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Los Angeles, Calif</placeTerm>
+      </place>
+      <publisher>Genre Publishing</publisher>
+      <dateIssued>1991-</dateIssued>
+      <dateIssued encoding="marc" point="start">1991</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Bimonthly, &lt;Dec./Jan. 1994-&gt;</frequency>
+      <frequency>Quarterly, 1992-</frequency>
+      <frequency authority="marcfrequency">Bimonthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 27 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (spring 1991)-</note>
+    <note>Title from cover.</note>
+    <subject authority="lcsh">
+      <topic>Gay men</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">WMLC 93/1073</classification>
+    <classification authority="ddc" edition="12">051</classification>
+    <identifier type="issn">1074-5246</identifier>
+    <identifier type="lccn">sf 93091572</identifier>
+    <identifier type="oclc">24835116</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">SMP</recordContentSource>
+      <recordCreationDate encoding="marc">911121</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>1592666</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Homo xtra</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>HX</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Homo extra</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York, N.Y</placeTerm>
+      </place>
+      <publisher>Two Queens, Inc.</publisher>
+      <dateIssued encoding="marc" point="start">19uu</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Weekly</frequency>
+      <frequency authority="marcfrequency">Weekly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 22 cm.</extent>
+    </physicalDescription>
+    <note>Description based on: Vol. 3, no. 1 &amp; 2 (Jan. 13, 1993).</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-ny</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay men</topic>
+      <geographic>New York (State)</geographic>
+      <geographic>New York</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Male homosexuality</topic>
+      <geographic>New York (State)</geographic>
+      <geographic>New York</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <identifier type="lccn">sn 94020160</identifier>
+    <identifier type="oclc">29807670</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">NYP</recordContentSource>
+      <recordCreationDate encoding="marc">930308</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20070226124852.0</recordChangeDate>
+      <recordIdentifier>1516707</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>ISMIR chronicle</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>ISMIR chron</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Chronicle</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>International Sexual Minorities Information Resource</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, PA</placeTerm>
+      </place>
+      <publisher>International Sexual Minorities Information Resource</publisher>
+      <dateIssued>c1995-</dateIssued>
+      <dateIssued encoding="marc" point="start">1995</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Semianual</frequency>
+      <frequency authority="marcfrequency">Semiannual</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Issue #1 (summer/fall 1995)-</note>
+    <note>Title from caption.</note>
+    <classification authority="ddc" edition="12">306</classification>
+    <identifier type="issn">1084-7359</identifier>
+    <identifier type="lccn">sn 95002317</identifier>
+    <identifier type="oclc">33139553</identifier>
+    <identifier type="stock number">ISMIR, PO Box 81869, Pittsburgh, PA 15217-0869</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">950915</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>1642233</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>International sexual minorities events calendar</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>ISMIR events calendar</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>ISMIR calendar</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>International Sexual Minorities Information Resource (Organization)</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, PA</placeTerm>
+      </place>
+      <publisher>International Sexual Minorities Information Resource</publisher>
+      <dateIssued>c1994-</dateIssued>
+      <dateIssued encoding="marc" point="start">1994</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. ; 22 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Apr. 1994)-</note>
+    <note>Title from cover.</note>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>International Sexual Minorities Information Resource (Organization)</namePart>
+      </name>
+      <topic>Calendars</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Calendars</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians</topic>
+      <topic>Calendars</topic>
+    </subject>
+    <identifier type="issn">1075-9131</identifier>
+    <identifier type="lccn">sn 94000293</identifier>
+    <identifier type="oclc">30325424</identifier>
+    <identifier type="stock number">ISMIR, PO Box 81869, Pittsburgh, PA 15217-0869</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">940425</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114191357.0</recordChangeDate>
+      <recordIdentifier>1651776</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>ladder</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Daughters of Bilitis</namePart>
+      <role>
+        <roleTerm type="text">issuing body.</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1956</dateIssued>
+      <dateIssued encoding="marc" point="end">1972</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Bimonthly, Oct./Nov. 1968-Aug./Sept. 1972</frequency>
+      <frequency>Monthly, Oct. 1956-Sept. 1968</frequency>
+      <frequency authority="marcfrequency">Bimonthly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">San Francisco, California :</placeTerm>
+      </place>
+      <publisher>Daughters of Bilitis,</publisher>
+      <dateIssued>1956-1972.</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes) : illustrations.</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Oct. 1956)-v. 16, no. 11-12 (Sept. 1972).</note>
+    <note>Publisher varies: Daughters of Bilitis, July 1956-1970; The Ladder, Sept. 1970-1972.</note>
+    <note>Place of publication varies: San Francisco, Calif., April 1956-May 1970; Reno, Nov. 1970-July 1970-1972.</note>
+    <note>Magazine/Journal.</note>
+    <note>Title from cover.</note>
+    <note>Reproduction of the originals from Duke University Library.</note>
+    <note>Reproduction of the originals from Canadian Lesbian and Gay Archives.</note>
+    <note type="numbering">Some issues combined.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-ca</geographicCode>
+      <geographicCode authority="marcgac">n-us-nv</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>Daughters of Bilitis</namePart>
+      </name>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <name type="corporate">
+        <namePart>Daughters of Bilitis.</namePart>
+      </name>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Lesbianism</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <classification authority="lcc">HQ73 .L3</classification>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage">http://pitt.idm.oclc.org/login?url=http://link.galegroup.com/apps/pub/9GDG/AHSI?sid=gale_marc&amp;u=upitt_main</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through for access via Gale Cengage">http://pitt.idm.oclc.org/login?url=http://link.galegroup.com/apps/pub/3LKX/AHSI?sid=gale_marc&amp;u=upitt_main</url>
+    </location>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture Since 1940, Part II</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">806972399</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">901009</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180731084233.0</recordChangeDate>
+      <recordIdentifier>9264314</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Lambda Rising news</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Lambda Rising news</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Lambda Rising, Inc</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Washington, DC</placeTerm>
+      </place>
+      <publisher>Lambda Rising</publisher>
+      <dateIssued encoding="marc" point="start">1984</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Four times a year</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 38 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Began in 1984?</note>
+    <note>Description based on: Fall 1990; title from caption.</note>
+    <note type="numbering">Suspended 1987-89.</note>
+    <note type="numbering">Issues for &lt;Nov.-Dec. 1992-&gt; called holiday issue.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>Lambda Rising, Inc.</namePart>
+      </name>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Books and reading</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="ddc" edition="12">305</classification>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Whole gay catalog</title>
+      </titleInfo>
+      <identifier type="issn">0890-8028</identifier>
+      <identifier type="local">(DLC)sn 86010655</identifier>
+    </relatedItem>
+    <identifier type="issn">1053-363X</identifier>
+    <identifier type="issn" invalid="yes">1053-353X</identifier>
+    <identifier type="lccn">sn 90004901</identifier>
+    <identifier type="oclc">22517404</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">901016</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>1481948</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Lambda Rising news</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Lambda Rising news</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Lambda Rising, Inc</namePart>
+      <role>
+        <roleTerm type="text">publisher.</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="">Booksellers' catalogs.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1984</dateIssued>
+      <dateIssued encoding="marc" point="end">199u</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Quarterly, &lt;Fall 1990-&gt;</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Washington, DC :</placeTerm>
+      </place>
+      <publisher>Lambda Rising, Inc.,</publisher>
+      <dateIssued>1984-199-?.</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes) : illustrations.</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Began in 1984?</note>
+    <note>Magazine/Journal.</note>
+    <note>Reproduction of the originals from Duke University Library.</note>
+    <note type="numbering">Suspended 1987-1989.</note>
+    <note type="numbering">Issues for &lt;Nov.-Dec. 1992-&gt; called Holiday issue.</note>
+    <note type="additional physical form">Also issued on microfilm from Primary Source Microfilm.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+      <geographicCode authority="marcgac">n-us-dc</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>Lambda Rising, Inc.</namePart>
+      </name>
+      <genre>Catalogs</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>United States</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <topic>Books and reading</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians</topic>
+      <topic>Books and reading</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays in literature</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality in literature</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays' writings</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians' writings</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay authors</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbian authors</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <classification authority="lcc">HQ75 .L35</classification>
+    <classification authority="ddc" edition="12">305</classification>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage">http://pitt.idm.oclc.org/login?url=http://link.galegroup.com/apps/pub/2UHL/AHSI?sid=gale_marc&amp;u=upitt_main</url>
+    </location>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Whole gay catalog</title>
+      </titleInfo>
+      <identifier type="issn">0890-8028</identifier>
+      <identifier type="local">(DLC)sn 86010655</identifier>
+      <identifier type="local">(OCoLC)14399231</identifier>
+    </relatedItem>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture Since 1940, Part II</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="issn">1053-363X</identifier>
+    <identifier type="issn" invalid="yes">1053-353X</identifier>
+    <identifier type="issn-l">1053-363X</identifier>
+    <identifier type="oclc">952385774</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">901016</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180712112420.0</recordChangeDate>
+      <recordIdentifier>9247652</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Leather journal</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Leather j</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>TLJ</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">West Hollywood, CA</placeTerm>
+      </place>
+      <publisher>Cedar Pub. Corp.</publisher>
+      <dateIssued encoding="marc" point="start">19uu</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Leather lifestyle</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Sadomasochism</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay men</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Gay men</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Leather lifestyle</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Sadomasochism</topic>
+    </subject>
+    <subject authority="henn">
+      <topic>Gay sadomasochism</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <classification authority="ddc" edition="12">051</classification>
+    <identifier type="issn">1062-8185</identifier>
+    <identifier type="issn-l">1062-8185</identifier>
+    <identifier type="lccn">sn 92004064</identifier>
+    <identifier type="oclc">ocm25756878</identifier>
+    <identifier type="oclc">25756878</identifier>
+    <identifier type="stock number">The Leather Journal, 7985 Santa Monica Blvd., #214, West Hollywood, CA 90046</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">920504</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180720111043.0</recordChangeDate>
+      <recordIdentifier>9275942</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Menergy</title>
+      <subTitle>the newsletter of the Pittsburgh Men's Collective</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Title from indicia:">
+      <title>Menergy of the Pittsburgh Men's Collective</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Newsletter of the Pittsburgh Men's Collective</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Pittsburgh Men's Collective</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <genre authority="lcgft">Newsletters.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Penn</placeTerm>
+      </place>
+      <publisher>Pittsburgh Men's Collective</publisher>
+      <dateIssued>1992-</dateIssued>
+      <dateIssued encoding="marc" point="start">1992</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Bimonthly</frequency>
+      <frequency authority="marcfrequency">Bimonthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>volumes : illustrations ; 28 cm.</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 14, no. 2 (May/June 1992)-</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Men</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Men</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Men</topic>
+    </subject>
+    <subject authority="fast">
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+    </subject>
+    <classification authority="lcc">HQ1090.5.P4 P5</classification>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Newsletter of the Pittsburgh Men's Collective</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>Pittsburgh, Penn. : Pittsburgh Men's Collective, 1989-1992.</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)25921014</identifier>
+    </relatedItem>
+    <identifier type="oclc">ocm26776477</identifier>
+    <identifier type="oclc">26776477</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">EEM</recordContentSource>
+      <recordCreationDate encoding="marc">921013</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20190111120000.0</recordChangeDate>
+      <recordIdentifier>9376415</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Newsletter of the Pittsburgh Men's Collective</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Pittsburgh Men's Collective</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <genre authority="lcgft">Newsletters.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Penn</placeTerm>
+      </place>
+      <publisher>Pittsburgh Men's Collective</publisher>
+      <dateIssued>1989-1992</dateIssued>
+      <dateIssued encoding="marc" point="start">1989</dateIssued>
+      <dateIssued encoding="marc" point="end">1992</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Bimonthly</frequency>
+      <frequency authority="marcfrequency">Bimonthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>volumes : illustrations ; 28 cm.</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 10, no. 2 (Apr./May 1989) - v. 14, no. 1 (Jan./Feb. 1992).</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Men</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Men</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Men</topic>
+    </subject>
+    <subject authority="fast">
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+    </subject>
+    <classification authority="lcc">HQ1090.5.P4 P5</classification>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Pittsburgh Men's Collective newsletter</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>Pittsburgh, Penn. : Pittsburgh Men's Collective, 1979-&lt;1988?&gt;</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)25920926</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Menergy. Pittsburgh, Penn. : Pittsburgh Men's Collective, 1992-</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)26776477</identifier>
+    </relatedItem>
+    <identifier type="oclc">ocm25921014</identifier>
+    <identifier type="oclc">25921014</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">EEM</recordContentSource>
+      <recordCreationDate encoding="marc">920601</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20190111115025.0</recordChangeDate>
+      <recordIdentifier>9376405</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>New York native</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York, NY</placeTerm>
+      </place>
+      <publisher>That New Magazine, Inc.</publisher>
+      <dateIssued encoding="marc" point="start">19uu</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Biweekly</frequency>
+      <frequency authority="marcfrequency">Biweekly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 38 cm.</extent>
+    </physicalDescription>
+    <note>Description based on: Issue 19 (Aug. 24-Sept. 6, 1981); title fromcaption.</note>
+    <identifier type="issn">0744-060X</identifier>
+    <identifier type="lccn">83006344</identifier>
+    <identifier type="oclc">08002067</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">811216</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>442097</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>PFLAG newsletter</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Parents and Friends of Lesbians and Gays newsletter (Boston, Massachusetts)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Parents' newsletter (Philadelphia, Pennsylvania)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Newsletter, Parents &amp; Friends of Lesbians and Gays (Los Angeles, California)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Newsletter, Parents &amp; Friends of Gays &amp; Lesbians (Chicago, Illinois)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>United Parents and Friends Support Group, Inc. (Phoenix, Arizona)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Newsletter, Parents and Friends of Gays (Chico, California)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Newsletter, Parents &amp; Friends of Lesbians and Gays (San Francisco, California)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Parents flag, Parents &amp; Friends of Lesbians &amp; Gays (Santa Ana, California)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Newsletter</title>
+      <subTitle>parents flag, Mid-Peninsula Parents &amp; Friends of Lesbians and Gays, Inc. (Stanford, California)</subTitle>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Boston Parents and Friends of Lesbians and Gays</namePart>
+      <role>
+        <roleTerm type="text">issuing body.</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1982</dateIssued>
+      <dateIssued encoding="marc" point="end">uuuu</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Boston, Massachusetts :</placeTerm>
+      </place>
+      <publisher>Parents &amp; Friends of Lesbians and Gays,</publisher>
+      <dateIssued>1982-</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes).</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Boston Parents and Friends of Lesbians and Gays.</note>
+    <note type="date/sequential designation">January 1, 1982-</note>
+    <note>Includes: "Parents' newsletter" published in Philadelphia, Pennsylvania, January 1982 issue ; "Newsletter, Parents &amp; Friends of Lesbians and Gays" published in Los Angeles, California, issue 71 (February 1982) and issue 76 (July 1982) ; "Newsletter, Parents &amp; Friends of Gays &amp; Lesbians" published in Chicago, Illinois, February/March 1982 issue ; "United Parents and Friends Support Group, Inc." published in Phoenix, Arizona, May 1982 and October 1982 issues ; "Newsletter, Parents and Friends of Gays" published in Chico, California, volume 3, number 6 (June 1982) ; "Newsletter, Parents &amp; Friends of Lesbians and Gays" published in San Franciso, CA, November &amp; December 1987 issue ; "Parents flag, Parents &amp; Friends of Lesbians &amp; Gays" published in Santa Ana, CA, May 1986 issue ; "Newsletter : parents flag, Mid-Peninsula Parents &amp; Friends of Lesbians and Gays, Inc." published in Stanford, CA, issue 10 (August 1986) and issue 16 (February 1987).</note>
+    <note>Reproduction of the original from Gay, Lesbian, Bisexual, and Transgender Historical Society.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-ma</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>Parents &amp; Friends of Lesbians and Gays</namePart>
+      </name>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>Massachusetts</geographic>
+      <geographic>Boston</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians</topic>
+      <geographic>Massachusetts</geographic>
+      <geographic>Boston</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Parents of gays</topic>
+      <geographic>Massachusetts</geographic>
+      <geographic>Boston</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage.">http://pitt.idm.oclc.org/login?url=http://gdc.galegroup.com/gdc/artemis/atp/AboutThisPublicationPortletWin?mCode=9EVM&amp;p=AHSI&amp;prodId=AHSI&amp;action=e&amp;windowstate=normal&amp;mode=view&amp;userGroupName=upitt_main</url>
+    </location>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture since 1940</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">952385668</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">160614</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180627110633.0</recordChangeDate>
+      <recordIdentifier>9247609</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Pittsburgh's gay life</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh</placeTerm>
+      </place>
+      <publisher>GNC Inc.</publisher>
+      <dateIssued encoding="marc" point="start">1977</dateIssued>
+      <dateIssued encoding="marc" point="end">1977</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ill. 22 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">no. 1; Feb. 1977.</note>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Gay life</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">03510088</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">771222</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>542026</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Pittsburgh gay news</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Gay news</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Gay Alternatives Pittsburgh</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh</placeTerm>
+      </place>
+      <publisher>Gay Alternatives Pittsburgh.</publisher>
+      <dateIssued encoding="marc" point="start">1973</dateIssued>
+      <dateIssued encoding="marc" point="end">1976</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Eight times a year.</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ill. 41 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">no. 4-36; June [1973]-Sept. 1976.</note>
+    <note>no. 22-36 include Section B which has distinctive title: Gay     news.</note>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Gay news</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)3509532</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Gay news</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)3954894</identifier>
+    </relatedItem>
+    <identifier type="oclc">03010045</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">770602</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>541069</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Pittsburgh gay news</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Gay news</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>PGN</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Gay Alternatives Pittsburgh</namePart>
+      <role>
+        <roleTerm type="text">issuing body.</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <genre authority="rdacontent">text</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1973</dateIssued>
+      <dateIssued encoding="marc" point="end">1976</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Pittsburgh, Pennsylvania :</placeTerm>
+      </place>
+      <publisher>Gay Alternatives Pittsburgh</publisher>
+      <dateIssued></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes) : illustrations.</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Began with no. 4 (June 1973); ceased with no. 36 (Sept. 1976).</note>
+    <note>No. 22-36 include Section B which has distinctive title: Gay news.</note>
+    <note>Reproduction of the original from Lesbian Herstory Archives.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>Gay Alternatives Pittsburgh</namePart>
+      </name>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay community</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbianism</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay activists</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay liberation movement</topic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay bars</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gay business enterprises</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>Pittsburgh (Pa.)</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage.">http://pitt.idm.oclc.org/login?url=http://gdc.galegroup.com/gdc/artemis/atp/AboutThisPublicationPortletWin?mCode=6PLG&amp;p=AHSI&amp;prodId=AHSI&amp;action=e&amp;windowstate=normal&amp;mode=view&amp;userGroupName=upitt_main</url>
+    </location>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture since 1940</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">952385348</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">770602</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180627110604.0</recordChangeDate>
+      <recordIdentifier>9247458</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Out</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Pittsburgh's Out</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Out Magazine</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Out (Pittsburgh, Pa.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+      </place>
+      <publisher>GNC.</publisher>
+      <dateIssued>1979-</dateIssued>
+      <dateIssued encoding="marc" point="start">1979</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 26 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">No. 32 (Nov. 1979)-</note>
+    <note>770=Supplement/special Issue Entry.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homosexuality</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="constituent">
+      <titleInfo>
+        <title>Gay life</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)3831941</identifier>
+    </relatedItem>
+    <relatedItem type="constituent">
+      <titleInfo>
+        <title>Out and about</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)7760230</identifier>
+      <identifier type="local">(DLC)sn86038125</identifier>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Gay life</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)3831941</identifier>
+    </relatedItem>
+    <identifier type="lccn">sn 86038120</identifier>
+    <identifier type="oclc">05737007</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">791128</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185552.0</recordChangeDate>
+      <recordIdentifier>546125</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Planet queer</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+      </place>
+      <publisher>Planet Queer</publisher>
+      <dateIssued>c1994-</dateIssued>
+      <dateIssued encoding="marc" point="start">1994</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Monthly</frequency>
+      <frequency authority="marcfrequency">Monthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 39 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Apr. 1994)-</note>
+    <note>"Pittsburgh's new lesbian, gay, and bisexual news tabloid."</note>
+    <note>Title from caption.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh Metropolitan Area</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Lesbians</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh Metropolitan Area</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gays</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <identifier type="lccn">sn 95042128</identifier>
+    <identifier type="oclc">32300095</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">950413</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>1517833</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>TV-TS tapestry</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Transvestite transsexual tapestry</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Tapestry</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Tapestry journal</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>TV-TS tapestry journal</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>International Foundation for Gender Education</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="marcgt">directory</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="fast">Directories.</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">198u</dateIssued>
+      <dateIssued encoding="marc" point="end">1995</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Quarterly</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Waltham, Massachusetts :</placeTerm>
+      </place>
+      <publisher>I.F.G.E., Inc.,</publisher>
+      <dateIssued>[1995]</dateIssued>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Wayland, Massachusetts :</placeTerm>
+      </place>
+      <publisher>I.F.G.E., Inc.,</publisher>
+      <dateIssued>[1988?]-[1994]</dateIssued>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Wayland, Mass. :</placeTerm>
+      </place>
+      <publisher>Tiffany Club,</publisher>
+      <dateIssued>[198u]-[1987?]</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>volumes : illustrations ; 28 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+    </physicalDescription>
+    <note type="date/sequential designation">-issue 73 (Fall 1995).</note>
+    <note>"The journal for persons interested in crossdressing &amp; transexualism."</note>
+    <note>Title varies slightly.</note>
+    <note>Published: Waltham, Mass., 1995.</note>
+    <note>Issued by: I.F.G.E., Inc., (the International Foundation for Gender Education), Waltham, Massachusetts, issue 71 (Spring 1995)-issue 73 (Fall 1995).</note>
+    <note>Issued by: I.F.G.E., Inc., (the International Foundation for Gender Education), Wayland, Massachusetts, issue 52 (©1988)?-issue 69 (Fall 1994).</note>
+    <subject authority="lcsh">
+      <topic>Cross-dressing</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Transsexuals</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Cross-dressing</topic>
+      <topic>Societies, etc</topic>
+      <genre>Directories</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Transsexuals</topic>
+      <topic>Societies, etc</topic>
+      <genre>Directories</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Cross-dressing</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Transsexuals</topic>
+    </subject>
+    <classification authority="lcc">HQ77 .T37</classification>
+    <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+        <title>TV-TS tapestry</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)606565921</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+        <title>TV-TS tapestry</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)607686980</identifier>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Tapestry (Wayland, Mass.)</title>
+      </titleInfo>
+      <identifier type="issn">0884-9749</identifier>
+      <identifier type="local">(DLC)sf 94095161</identifier>
+      <identifier type="local">(OCoLC)12536412</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Transgender tapestry</title>
+      </titleInfo>
+      <identifier type="issn">1083-0006</identifier>
+      <identifier type="local">(DLC)sf 96092749</identifier>
+      <identifier type="local">(OCoLC)32692689</identifier>
+    </relatedItem>
+    <identifier type="issn" invalid="yes">0884-9749</identifier>
+    <identifier type="lccn">2001227005</identifier>
+    <identifier type="oclc">ocm19239541</identifier>
+    <identifier type="oclc">19239541</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">UIU</recordContentSource>
+      <recordCreationDate encoding="marc">890220</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180424131444.0</recordChangeDate>
+      <recordIdentifier>9194962</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Transgender tapestry</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Tapestry</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Transgender winter 1995</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>International Foundation for Gender Education</namePart>
+      <role>
+        <roleTerm type="text">issuing body.</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="marcgt">review</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="">Periodicals.</genre>
+    <genre authority="">Electronic journals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1995</dateIssued>
+      <dateIssued encoding="marc" point="end">2008</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Quarterly</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Waltham, MA :</placeTerm>
+      </place>
+      <publisher>I.F.G.E.</publisher>
+      <dateIssued></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <form authority="gmd">electronic resource</form>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Print began with issue #74 (winter 1995); ceased with issue #115 in 2008.</note>
+    <subject authority="lcsh">
+      <topic>Transsexuals</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Transsexualism</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Cross-dressing</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gender identity</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="">
+      <topic>Gender identity</topic>
+    </subject>
+    <subject authority="">
+      <topic>Transsexualism</topic>
+    </subject>
+    <subject authority="">
+      <topic>Transsexuals</topic>
+    </subject>
+    <subject authority="">
+      <topic>Cross-dressing</topic>
+    </subject>
+    <classification authority="lcc">HQ77 .T37</classification>
+    <classification authority="ddc" edition="12">305</classification>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through to access via GenderWatch: 10/01/2005 to 07/31/2008">http://pitt.idm.oclc.org/login?url=https://search.proquest.com/publication/29627</url>
+    </location>
+    <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+        <title>Transgender tapestry</title>
+      </titleInfo>
+      <identifier type="issn">1083-0006</identifier>
+      <identifier type="local">(DLC)sf 96092749</identifier>
+      <identifier type="local">(OCoLC)32692689</identifier>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>TV-TS tapestry</title>
+      </titleInfo>
+      <identifier type="local">(DLC)  2018247577</identifier>
+      <identifier type="local">(OCoLC)606565921</identifier>
+    </relatedItem>
+    <identifier type="issn" invalid="yes">1083-0006</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">OCLCS</recordContentSource>
+      <recordCreationDate encoding="marc">950622</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20190314084520.0</recordChangeDate>
+      <recordIdentifier>4751558</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Transvestia</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Prince, Virginia</namePart>
+      <role>
+        <roleTerm type="text">editor.</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="fast">Periodicals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1952</dateIssued>
+      <dateIssued encoding="marc" point="end">uuuu</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">Los Angeles, California :</placeTerm>
+      </place>
+      <publisher>Chevalier Publications,</publisher>
+      <dateIssued>1952-</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>volumes : illustrations ; 21-28 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Began with: Vol. 1, no. 1 (May 1952).</note>
+    <note>"Editor, Virginia Prince"--Page 1 of vol. 14, no. 84.</note>
+    <subject authority="lcsh">
+      <topic>Cross-dressing</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Cross-dressers</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Cross-dressers</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Cross-dressing</topic>
+    </subject>
+    <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+        <title>Transvestia</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)952387167</identifier>
+    </relatedItem>
+    <identifier type="lccn">sn 88027179</identifier>
+    <identifier type="oclc">ocm10363080</identifier>
+    <identifier type="oclc">10363080</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">CNO</recordContentSource>
+      <recordCreationDate encoding="marc">840201</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180503102843.0</recordChangeDate>
+      <recordIdentifier>9194964</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Transvestia</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <dateIssued encoding="marc" point="start">1952</dateIssued>
+      <dateIssued encoding="marc" point="end">uuuu</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <originInfo eventType="publication">
+      <place>
+        <placeTerm type="text">[Los Angeles, California] :</placeTerm>
+      </place>
+      <publisher>[Chevalier Publications],</publisher>
+      <dateIssued>1952-</dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (volumes) : illustrations.</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Volume 1, issue 2 (January 1, 1952)-</note>
+    <note>Reproduction of the original from Gay, Lesbian, Bisexual, and Transgender Historical Society.</note>
+    <subject authority="lcsh">
+      <topic>Cross-dressing</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through for access via Gale Cengage.">http://pitt.idm.oclc.org/login?url=http://gdc.galegroup.com/gdc/artemis/atp/AboutThisPublicationPortletWin?mCode=9CVJ&amp;p=AHSI&amp;prodId=AHSI&amp;action=e&amp;windowstate=normal&amp;mode=view&amp;userGroupName=upitt_main</url>
+    </location>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Archives of Sexuality &amp; Gender: LGBTQ History and Culture since 1940</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">952387167</identifier>
+    <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">MIGCL</recordContentSource>
+      <recordCreationDate encoding="marc">840201</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180831074111.0</recordChangeDate>
+      <recordIdentifier>9248443</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Update</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Pittsburgh AIDS Task Force update</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Update (Pittsburgh AIDS Task Force)</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Pittsburgh AIDS Task Force (Pa.)</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+      </place>
+      <publisher>The Task Force</publisher>
+      <dateIssued encoding="marc" point="start">198u</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Bimonthly, Nov. 1991-</frequency>
+      <frequency>Quarterly,   -Sept. 1991</frequency>
+      <frequency authority="marcfrequency">Bimonthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 28-45 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">newsletter of the Pittsburgh AIDS Task Force.</note>
+    <note>Description based on: Vol. 3, no. 3 (Aug. 1989); title from caption.</note>
+    <note type="numbering">Issue for June 1990 has no vol. or no. designation, but constitutes vol. 4, no. 2.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>Pittsburgh AIDS Task Force (Pa.)</namePart>
+      </name>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>AIDS (Disease)</topic>
+      <topic>Patients</topic>
+      <topic>Services for</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>AIDS (Disease)</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <topic>Prevention</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <identifier type="lccn">sn 94042045</identifier>
+    <identifier type="oclc">29624781</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">940113</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>1146741</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+</modsCollection>

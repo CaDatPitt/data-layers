@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1975-05-19</mods:dateCreated>
+    <mods:dateOther type="sort">1975-05-19T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the employers attempts to try and stop strikes, including using  violent tactics. Caption 1:  Labor movements in Europe which appealed to the CIO and its affiliates for help and solidarity in resisting the anti-democratic forces won a sympathetic response. The new unions feared that the violence which was being used to smash workers' organizations abroad would find a ready acceptance by the corporations here who saw in the new labor movement a threat to their exploitation of working people.  Caption 2:  In strike after strike, violence was a major weapon turned on the workers by the employers. State troops, hired thugs, paid stool pigeons were all part of the employer counter-offensive. Along with the violence went a massive effort to persuade workers that the industrial union movement was part of a red plot to overthrow the United States government and financed from abroad.  Caption 3:  The Roosevelt Administration with its social security, minimum wage laws, and federal job programs; the movements in support of the victims of fascism in Europe; the new industrial unions were all seen as threats by the big corporations which had brought the country to economic collapse after years of profiteering and widespread governmental corruption on behalf of those corporations. UE News, Vol. XXXVII, Issue No. 10</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 125: Employer Violence</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.125</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

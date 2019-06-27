@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-06-12</mods:dateCreated>
+    <mods:dateOther type="sort">1972-06-12T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes a fight that broke out between miners in Idaho and the mine owners over wage cuts and an attempted lock-out; the end of this fight resulted in the formation of the Western Federation of Miners. Caption 1:  While the miners were fighting convict labor in Tennessee others in that industry were also organizing against slave conditions. Replying to such organization, mine owners in Coeur d'Alene, Idaho formed a Mine Owners' Protective Assn. in 1892. They closed the mines and announced a 25 percent wage cut accompanied by a declaration that they'd no longer employ anybody belonging to a union.  Caption 2:  Scabs were brought from Minnesota; armed guards toured Idaho to recruit farmers as scabs or deputized U.S. marshals. Many of the scabs were persuaded by the locked-out miners to go home. At one mine which was working, the miners loaded a railroad car with explosives and sent it on its way. The mine was destroyed and the scabs surrendered. In the fight that followed three miners were killed.  Caption 3:  Their lock-out being defeated, the mine operators had the governor declare a "state of insurrection." About 1,500 federal troops and militia came, threw 600 workers into "bull pens," arrested the strike leaders and supporters of the union. Of over 500 indicted only nine were convicted of contempt of injunction. The lockout was beaten, the wage cut taken back and the basis laid for the Western Federation of Miners. UE News, Vol. XXXIV, Issue No. 12</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 55: Western Miners Organize</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.055</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Scabs</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-01-24</mods:dateCreated>
+    <mods:dateOther type="sort">1977-01-24T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes two important victories for the UE in 1957-1959.  The Supreme Court ruled in favor of the UE in both cases. Caption 1:  UE scored decisive victories in the fight for free trade unionism in the years 1957-59. Outstanding were the defeats of the attempts to deprive Director of Organization James J. Matles of his citizenship as a step towards deporting him, and the dropping of the Justice Department's move to have the union outlawed on "communism" charges through the Subversive Activities Control Board, an action undertaken by the Wall Street lawyer, Herbert Brownell who was Eisenhower's attorney-general.  Caption 2:  Both cases had been launched during the 1955-56 Westinghouse strike. When Matles refused to supply the Justice Dept. with information to be used against him in the court, he was sentenced to serve a jail term on contempt charges. Witnesses called to testify against him in the denaturalization proceedings were exposed as liars under cross-examination. Appealed to the Supreme Court, the contempt conviction was thrown out as were the denaturalization proceedings.  Caption 3:  The Supreme Court found that the Justice Dept. had acted lawlessly and illegally. The first witness called to prove Brownell's communism charge against the union had been caught lying in another case. He had boasted, "I had to decide whether to lie or steal. So I figured that a lie could always be justified and stealing couldn't." He was shown up, also, as a depraved individual. Brownell's successor as attorney-general, William F. Rogers, in 1959 asked that the case against the UE be dropped because he had no witnesses to make a case. UE News, Vol. XXXIX, Issue No. 2</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 159: Victories for Free Trade Unionism</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.159</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red Scare, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

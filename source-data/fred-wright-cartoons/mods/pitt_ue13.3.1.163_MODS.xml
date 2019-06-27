@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-03-28</mods:dateCreated>
+    <mods:dateOther type="sort">1977-03-28T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the scandal which uncovered that GE, Westinghouse, and Allis Chalmers had conspired together to control the turbine-generator industry. Caption 1:  The corporate world was shaken in 1960 by the indictment of GE, Westinghouse and Allis Chalmers, some of their top officials, and a number of smaller companies for having fixed prices among themselves in order to control the $400 million-a-year turbine-generator industry. It was the biggest anti-trust case in U.S. history. The companies were accused of agreeing among themselves which of them would submit the low bid on a job.  Caption 2:  Before the indictments were brought by the government, the Tennessee Valley Authority (TVA) had awarded a big turbo-generator job to a British firm because its bid was much lower than one submitted by GE in agreement with the other participants in this scheme. When the companies complained that foreign firms were being favored over domestic manufacturers, TVA revealed how much lower the foreign bids had been for a number of years.  Caption 3:  A congressional investigation uncovered the scheme which had been costing the consumers of electricity huge sums of money by raising the cost of power-producing equipment. Besides TVA, all the public utility companies and municipal power systems had been victimized. By making it more costly to produce electricity, and driving orders overseas, this scheme had cost UE members jobs. The UE played an important part in exposing the full meaning of these practices. UE News, Vol. XXXIX, Issue No. 6</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 163: Electrical Industry Gang-up - 2</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.163</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

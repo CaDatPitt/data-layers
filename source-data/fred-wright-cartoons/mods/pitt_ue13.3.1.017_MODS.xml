@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-12-14</mods:dateCreated>
+    <mods:dateOther type="sort">1970-12-14T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the widespread demonstrations that occurred after the crisis of 1857 when tens of thousands unemployed workers called for "work or bread." Caption 1:  The sprouting labor movement --national and local-- came to a halt when the panic of 1857 swept the country. Newspapers reported that every ship leaving for Europe was crowded with foreign born workers returning home. Those who remained behind joined native born Americans in demand for relief from starvation. Philadelphia German workers formed an association with this aim in view.  Caption 2:  Other parts of the east were swept by huge demonstrations of unemployed seeking "work or bread." Addressing a crowd of 12,000 in New York, carpenter John H. Paul denounced "the capitalists" as "this crew of thieves and robbers who are driving us to starvation...Let there be an organization formed in every ward at once; let us set aside all political and religious considerations."  Caption 3:  U.S. troops were called out in November, 1857, when 15,000 New Yorkers marched on Wall Street shouting "we want work." Some broke into shops of flour merchants to help themselves. The unemployed were denounced as "ultra-communist radicals...and other foreigners, who though they have changed their soil and allegiance, still keep their nature intact and insist upon having food put in their mouths and labor into their hands." UE News, Vol. XXXII, Issue No. 25</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 17: Unemployed Demonstrate</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.017</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

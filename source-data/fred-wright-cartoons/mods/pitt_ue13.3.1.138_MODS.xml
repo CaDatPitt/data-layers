@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-02-02</mods:dateCreated>
+    <mods:dateOther type="sort">1976-02-02T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the resistance of the employers to strikes by using tactics of violence and scabs. Caption 1:  The employer rampage against working people following World War II was not limited to promoting legislation to cripple unions and to hamstring labor political action. There was violence, too. For example, UE members who struck the powerful Phelps Dodge plant in Elizabeth, N.J. found themselves facing a gang of thugs and scabs led by Tony Anastasia who had been in the news frequently for his connections with Murder, Inc. The respectable corporation coupled easily with society's dregs.  Caption 2:  Brought across the bay from Brooklyn, the scabs were housed in the plant. As the strike entered its eighth month, the desperate company turned its thugs loose. One striker was shot in the leg and Mario Russo, a member of UE at another plant who had joined the pickets in an act of solidarity was killed. He was only 27 years old, a three year veteran of World War II and father of four small children.  Caption 3:  While Russo lay dying in the hospital, the company finally recognized that the 2500 strikers would not be starved, clubbed or shot into giving up. Nine months after they had walked out in September, 1946, these courageous UE members went back to work with a signed contract. They got the 18.5 cent an hour raise it had taken GE workers eight weeks of strike and those at Westinghouse four months of strike to win. UE News, Vol. XXXVIII, Issue No. 3</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 138: Employer Violence</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.138</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

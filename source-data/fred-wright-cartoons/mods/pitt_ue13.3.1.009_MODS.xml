@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-08-10</mods:dateCreated>
+    <mods:dateOther type="sort">1970-08-10T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts strikes held by children and their parents demanding a shorter work day, resulting in resistance from their employers. Caption 1:  The demand for a shorter work-day was sweeping the east in the 1830's following the defeat of the workers on this issue a decade earlier. Children working in the Paterson, N.J. textile mills struck on July 3, 1833 for an 11-hour day and 9 hours on Saturday. Their parents formed the "Paterson Association for the Protection of the Working Classes of Paterson." Financial aid came from nearby cities. The kids held out until victory.  Caption 2:  Employers responded with charges that it was "bands of Irish and other foreigners," "elements of disorder" who were responsible for the shorter work-day demand. Newspapers warned that to be idle several hours of the morning would lead workers to drunkenness and ruin. Employers resisted the 10-hour day as much as they did the 8-hour day 50 years later.  Caption 3:  Resolving to work for a 10-hour day, Philadelphia carpenters said all men had the right "to have sufficient time for the cultivation of their mind and self-improvement." Boston strikers declared that a longer day exhausted the mechanic's physical and mental powers. It was a sign of labor's maturity to demand greater educational opportunities, and free schooling for their children--they tied the shorter work day to the "cultivation of the mind." UE News, Vol. XXXII, Issue No. 16</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 9: Children Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.009</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Average Work Day, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

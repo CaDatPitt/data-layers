@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-06-29</mods:dateCreated>
+    <mods:dateOther type="sort">1970-06-29T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the varying successes and failures of workingmen's parties in New York and Massachusetts in the 1830s. Caption 1:  With conditions and wages getting worse, labor in the late 1820's put greater emphasis on political action. Workingmen formed their own local parties and gave heavy support to Andrew Jackson, the successful candidate for president in 1828. The new Whig party objected to "throwing the polls open to every man that walks" as it fought Jacksonian democracy. A  New York mechanics' meeting formed a party after protesting against attempts to lengthen the 10-hour day.  Caption 2:  New York's workingmen's party ran its first candidates in 1829. Of 21,000 votes cast it drew 6,000. Newspapers had blasted the new party as the "Infidel Ticket". Its women's leader, Frances Wright, was denounced as insane and atheistic. The election of carpenter Ebenezer Ford to the assembly was called a disgrace which would scare traders and investors from the city.  Caption 3:  Elsewhere, at Salina, N. Y., the Farmers and Mechanics' Party swept the 1839 election. The Working Men's Party of Massachusetts gained control of ten towns in 1833. Labor's parties didn't last long, however. Some workers thought they should stick to trade unions. Others saw it more important to back the Jacksonian movement. Many were frightened away by the attacks on the parties as "radical". UE News, Vol. XXXII, Issue No. 13</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 6: Labor Enters Politics</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.006</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.6.1" timestamp="5/21/14 12:05 PM">
+  <identification>
+    <identity format="Tagged Image File Format" mimetype="image/tiff" toolname="FITS" toolversion="0.6.1">
+      <tool toolname="Jhove" toolversion="1.5" />
+      <tool toolname="Exiftool" toolversion="7.74" />
+      <tool toolname="Droid" toolversion="3.0" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.4GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <version toolname="Jhove" toolversion="1.5" status="CONFLICT">6.0</version>
+      <version toolname="Droid" toolversion="3.0" status="CONFLICT">3</version>
+      <version toolname="Droid" toolversion="3.0" status="CONFLICT">4</version>
+      <version toolname="Droid" toolversion="3.0" status="CONFLICT">5</version>
+      <externalIdentifier toolname="Droid" toolversion="3.0" type="puid">fmt/7</externalIdentifier>
+      <externalIdentifier toolname="Droid" toolversion="3.0" type="puid">fmt/8</externalIdentifier>
+      <externalIdentifier toolname="Droid" toolversion="3.0" type="puid">fmt/9</externalIdentifier>
+      <externalIdentifier toolname="Droid" toolversion="3.0" type="puid">fmt/10</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.5">36815977</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.5">4.0.5</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">2014:05:21 12:05:00-04:00</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</filepath>
+    <filename toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">69978a89af421c5a6e5f67c1659a0ab2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">1400688300000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <image>
+      <byteOrder toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">little endian</byteOrder>
+      <compressionScheme toolname="Jhove" toolversion="1.5">Uncompressed</compressionScheme>
+      <imageWidth toolname="Jhove" toolversion="1.5">3298</imageWidth>
+      <imageHeight toolname="Jhove" toolversion="1.5">3721</imageHeight>
+      <colorSpace toolname="Jhove" toolversion="1.5">RGB</colorSpace>
+      <referenceBlackWhite toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">0.0 255.0 0.0 255.0 0.0 255.0</referenceBlackWhite>
+      <orientation toolname="Jhove" toolversion="1.5">normal*</orientation>
+      <samplingFrequencyUnit toolname="Jhove" toolversion="1.5">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Jhove" toolversion="1.5">400</xSamplingFrequency>
+      <ySamplingFrequency toolname="Jhove" toolversion="1.5">400</ySamplingFrequency>
+      <bitsPerSample toolname="Jhove" toolversion="1.5">8 8 8</bitsPerSample>
+      <samplesPerPixel toolname="Jhove" toolversion="1.5">3</samplesPerPixel>
+      <scanningSoftwareName toolname="Jhove" toolversion="1.5">4.0.5</scanningSoftwareName>
+      <scannerManufacturer toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">i2S DigiBook Scanner</scannerManufacturer>
+      <scannerModelName toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">CopiBook</scannerModelName>
+    </image>
+  </metadata>
+  <toolOutput>
+    <tool name="OIS Audio Information" version="0.1">
+      <fits xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" />
+    </tool>
+    <tool name="ADL Tool" version="0.1">
+      <fits xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" />
+    </tool>
+    <tool name="Jhove" version="1.5">
+      <repInfo xmlns="" uri="/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif">
+        <reportingModule release="1.5" date="2007-10-02">TIFF-hul</reportingModule>
+        <lastModified>2014-05-21T12:05:00-04:00</lastModified>
+        <size>36815977</size>
+        <format>TIFF</format>
+        <version>6.0</version>
+        <status>Well-Formed and valid</status>
+        <sigMatch>
+          <module>TIFF-hul</module>
+        </sigMatch>
+        <mimeType>image/tiff</mimeType>
+        <profiles>
+          <profile>Baseline RGB (Class R)</profile>
+          <profile>DLF Benchmark for Faithful Digital Reproductions of Monographs and Serials: color</profile>
+        </profiles>
+        <properties>
+          <property>
+            <name>TIFFMetadata</name>
+            <values arity="Array" type="Property">
+              <property>
+                <name>ByteOrder</name>
+                <values arity="Scalar" type="String">
+                  <value>little-endian</value>
+                </values>
+              </property>
+              <property>
+                <name>IFDs</name>
+                <values arity="List" type="Property">
+                  <property>
+                    <name>Number</name>
+                    <values arity="Scalar" type="Integer">
+                      <value>1</value>
+                    </values>
+                  </property>
+                  <property>
+                    <name>IFD</name>
+                    <values arity="Array" type="Property">
+                      <property>
+                        <name>Offset</name>
+                        <values arity="Scalar" type="Long">
+                          <value>36815582</value>
+                        </values>
+                      </property>
+                      <property>
+                        <name>Type</name>
+                        <values arity="Scalar" type="String">
+                          <value>TIFF</value>
+                        </values>
+                      </property>
+                      <property>
+                        <name>Entries</name>
+                        <values arity="List" type="Property">
+                          <property>
+                            <name>NisoImageMetadata</name>
+                            <values arity="Scalar" type="NISOImageMetadata">
+                              <value>
+                                <mix:mix xmlns:mix="http://www.loc.gov/mix/" xsi:schemaLocation="http://www.loc.gov/mix/ http://www.loc.gov/mix/mix02.xsd">
+                                  <mix:BasicImageParameters>
+                                    <mix:Format>
+                                      <mix:MIMEType>image/tiff</mix:MIMEType>
+                                      <mix:ByteOrder>little-endian</mix:ByteOrder>
+                                      <mix:Compression>
+                                        <mix:CompressionScheme>1</mix:CompressionScheme>
+                                      </mix:Compression>
+                                      <mix:PhotometricInterpretation>
+                                        <mix:ColorSpace>2</mix:ColorSpace>
+                                        <mix:ReferenceBlackWhite>0.0 255.0 0.0 255.0 0.0 255.0</mix:ReferenceBlackWhite>
+                                      </mix:PhotometricInterpretation>
+                                      <mix:Segments>
+                                        <mix:StripOffsets>8</mix:StripOffsets>
+                                        <mix:RowsPerStrip>9894</mix:RowsPerStrip>
+                                        <mix:StripByteCounts>36815574</mix:StripByteCounts>
+                                      </mix:Segments>
+                                      <mix:PlanarConfiguration>1</mix:PlanarConfiguration>
+                                    </mix:Format>
+                                    <mix:File>
+                                      <mix:Orientation>1</mix:Orientation>
+                                    </mix:File>
+                                  </mix:BasicImageParameters>
+                                  <mix:ImageCreation>
+                                    <mix:ImageProducer />
+                                    <mix:Host>
+                                      <mix:HostComputer>CopiBook</mix:HostComputer>
+                                    </mix:Host>
+                                    <mix:ScanningSystemCapture>
+                                      <mix:ScanningSystemHardware>
+                                        <mix:ScannerManufacturer>i2S DigiBook Scanner</mix:ScannerManufacturer>
+                                        <mix:ScannerModel>
+                                          <mix:ScannerModelName>CopiBook</mix:ScannerModelName>
+                                        </mix:ScannerModel>
+                                      </mix:ScanningSystemHardware>
+                                      <mix:ScanningSystemSoftware>
+                                        <mix:ScanningSoftware>4.0.5</mix:ScanningSoftware>
+                                      </mix:ScanningSystemSoftware>
+                                    </mix:ScanningSystemCapture>
+                                    <mix:DateTimeCreated>2014-05-15T13:44:27</mix:DateTimeCreated>
+                                  </mix:ImageCreation>
+                                  <mix:ImagingPerformanceAssessment>
+                                    <mix:SpatialMetrics>
+                                      <mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit>
+                                      <mix:XSamplingFrequency>400</mix:XSamplingFrequency>
+                                      <mix:YSamplingFrequency>400</mix:YSamplingFrequency>
+                                      <mix:ImageWidth>3298</mix:ImageWidth>
+                                      <mix:ImageLength>3721</mix:ImageLength>
+                                    </mix:SpatialMetrics>
+                                    <mix:Energetics>
+                                      <mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+                                      <mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+                                    </mix:Energetics>
+                                  </mix:ImagingPerformanceAssessment>
+                                </mix:mix>
+                              </value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>DateTime</name>
+                            <values arity="Scalar" type="String">
+                              <value>2014:05:15 13:44:27</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>NewSubfileType</name>
+                            <values arity="Scalar" type="Long">
+                              <value>0</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>FillOrder</name>
+                            <values arity="Scalar" type="String">
+                              <value>high-order</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>SampleFormat</name>
+                            <values arity="Array" type="Integer">
+                              <value>1</value>
+                              <value>1</value>
+                              <value>1</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>MinSampleValue</name>
+                            <values arity="Array" type="Integer">
+                              <value>0</value>
+                              <value>0</value>
+                              <value>0</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>MaxSampleValue</name>
+                            <values arity="Array" type="Integer">
+                              <value>255</value>
+                              <value>255</value>
+                              <value>255</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>TransferRange</name>
+                            <values arity="Array" type="Integer">
+                              <value>0</value>
+                              <value>255</value>
+                              <value>0</value>
+                              <value>255</value>
+                              <value>0</value>
+                              <value>255</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>Threshholding</name>
+                            <values arity="Scalar" type="Integer">
+                              <value>1</value>
+                            </values>
+                          </property>
+                          <property>
+                            <name>TIFFITProperties</name>
+                            <values arity="List" type="Property">
+                              <property>
+                                <name>BackgroundColorIndicator</name>
+                                <values arity="Scalar" type="String">
+                                  <value>background not defined</value>
+                                </values>
+                              </property>
+                              <property>
+                                <name>ImageColorIndicator</name>
+                                <values arity="Scalar" type="String">
+                                  <value>image not defined</value>
+                                </values>
+                              </property>
+                              <property>
+                                <name>TransparencyIndicator</name>
+                                <values arity="Scalar" type="String">
+                                  <value>no transparency</value>
+                                </values>
+                              </property>
+                              <property>
+                                <name>PixelIntensityRange</name>
+                                <values arity="Array" type="Integer">
+                                  <value>0</value>
+                                  <value>255</value>
+                                </values>
+                              </property>
+                              <property>
+                                <name>RasterPadding</name>
+                                <values arity="Scalar" type="String">
+                                  <value>1 byte</value>
+                                </values>
+                              </property>
+                              <property>
+                                <name>BitsPerRunLength</name>
+                                <values arity="Scalar" type="Integer">
+                                  <value>8</value>
+                                </values>
+                              </property>
+                              <property>
+                                <name>BitsPerExtendedRunLength</name>
+                                <values arity="Scalar" type="Integer">
+                                  <value>16</value>
+                                </values>
+                              </property>
+                            </values>
+                          </property>
+                        </values>
+                      </property>
+                    </values>
+                  </property>
+                </values>
+              </property>
+            </values>
+          </property>
+        </properties>
+      </repInfo>
+    </tool>
+    <tool name="Exiftool" version="7.74">
+      <exiftool xmlns="">
+        <rawOutput>ExifToolVersion	7.74
+FileName	20140515-fredwright-0050.tif
+Directory	/usr/local/dlxs/repository/f/fredwright/ue13.1.1985
+FileSize	35 MB
+FileModifyDate	2014:05:21 12:05:00-04:00
+FileType	TIFF
+MIMEType	image/tiff
+ExifByteOrder	Little-endian (Intel, II)
+SubfileType	Full-resolution Image
+ImageWidth	3298
+ImageHeight	3721
+BitsPerSample	8 8 8
+Compression	Uncompressed
+PhotometricInterpretation	RGB
+FillOrder	Normal
+DocumentName	
+ImageDescription	
+Make	i2S DigiBook Scanner
+Model	CopiBook
+StripOffsets	8
+Orientation	Horizontal (normal)
+SamplesPerPixel	3
+RowsPerStrip	9894
+StripByteCounts	36815574
+XResolution	400
+YResolution	400
+PlanarConfiguration	Chunky
+ResolutionUnit	inches
+Software	4.0.5
+ModifyDate	2014:05:15 13:44:27
+Artist	
+HostComputer	CopiBook
+Copyright	
+ImageSize	3298x3721</rawOutput>
+        <ExifToolVersion>7.74</ExifToolVersion>
+        <FileName>20140515-fredwright-0050.tif</FileName>
+        <Directory>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985</Directory>
+        <FileSize>35 MB</FileSize>
+        <FileModifyDate>2014:05:21 12:05:00-04:00</FileModifyDate>
+        <FileType>TIFF</FileType>
+        <MIMEType>image/tiff</MIMEType>
+        <ExifByteOrder>Little-endian (Intel, II)</ExifByteOrder>
+        <SubfileType>Full-resolution Image</SubfileType>
+        <ImageWidth>3298</ImageWidth>
+        <ImageHeight>3721</ImageHeight>
+        <BitsPerSample>8 8 8</BitsPerSample>
+        <Compression>Uncompressed</Compression>
+        <PhotometricInterpretation>RGB</PhotometricInterpretation>
+        <FillOrder>Normal</FillOrder>
+        <Make>i2S DigiBook Scanner</Make>
+        <Model>CopiBook</Model>
+        <StripOffsets>8</StripOffsets>
+        <Orientation>Horizontal (normal)</Orientation>
+        <SamplesPerPixel>3</SamplesPerPixel>
+        <RowsPerStrip>9894</RowsPerStrip>
+        <StripByteCounts>36815574</StripByteCounts>
+        <XResolution>400</XResolution>
+        <YResolution>400</YResolution>
+        <PlanarConfiguration>Chunky</PlanarConfiguration>
+        <ResolutionUnit>inches</ResolutionUnit>
+        <Software>4.0.5</Software>
+        <ModifyDate>2014:05:15 13:44:27</ModifyDate>
+        <HostComputer>CopiBook</HostComputer>
+        <ImageSize>3298x3721</ImageSize>
+      </exiftool>
+    </tool>
+    <tool name="Droid" version="3.0">
+      <FileCollection xmlns="http://www.nationalarchives.gov.uk/pronom/FileCollection">
+        <DROIDVersion>3.0</DROIDVersion>
+        <SignatureFileVersion>35</SignatureFileVersion>
+        <DateCreated>2014-05-21T12:05:12</DateCreated>
+        <IdentificationFile IdentQuality="Positive">
+          <FilePath>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</FilePath>
+          <FileFormatHit>
+            <Status>Positive (Generic Format)</Status>
+            <Name>Tagged Image File Format</Name>
+            <Version>3</Version>
+            <PUID>fmt/7</PUID>
+            <MimeType>image/tiff</MimeType>
+          </FileFormatHit>
+          <FileFormatHit>
+            <Status>Positive (Generic Format)</Status>
+            <Name>Tagged Image File Format</Name>
+            <Version>4</Version>
+            <PUID>fmt/8</PUID>
+            <MimeType>image/tiff</MimeType>
+          </FileFormatHit>
+          <FileFormatHit>
+            <Status>Positive (Generic Format)</Status>
+            <Name>Tagged Image File Format</Name>
+            <Version>5</Version>
+            <PUID>fmt/9</PUID>
+            <MimeType>image/tiff</MimeType>
+          </FileFormatHit>
+          <FileFormatHit>
+            <Status>Positive (Generic Format)</Status>
+            <Name>Tagged Image File Format</Name>
+            <Version>6</Version>
+            <PUID>fmt/10</PUID>
+            <MimeType>image/tiff</MimeType>
+          </FileFormatHit>
+        </IdentificationFile>
+      </FileCollection>
+    </tool>
+    <tool name="NLNZ Metadata Extractor" version="3.4GA">
+      <TIFF xmlns="">
+        <METADATA>
+          <FILENAME>20140515-fredwright-0050.tif</FILENAME>
+          <SEPARATOR>/</SEPARATOR>
+          <PARENT>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985</PARENT>
+          <CANONICALPATH>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</CANONICALPATH>
+          <ABSOLUTEPATH>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</ABSOLUTEPATH>
+          <PATH>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</PATH>
+          <FILE>true</FILE>
+          <DIRECTORY>false</DIRECTORY>
+          <FILELENGTH>36815977</FILELENGTH>
+          <HIDDEN>false</HIDDEN>
+          <ABSOLUTE>true</ABSOLUTE>
+          <URL>file:/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</URL>
+          <URI>file:/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</URI>
+          <READ>true</READ>
+          <WRITE>true</WRITE>
+          <EXTENSION>tif</EXTENSION>
+          <MODIFIED>2014-05-21 12:05:00</MODIFIED>
+          <DATE>20140521</DATE>
+          <DATEPATTERN>yyyyMMdd</DATEPATTERN>
+          <TIME>120500000</TIME>
+          <TIMEPATTERN>HHmmssSSS</TIMEPATTERN>
+          <TYPE>image/tiff</TYPE>
+          <PID>null</PID>
+          <OID>null</OID>
+          <FID>null</FID>
+          <PROCESSOR>unknown</PROCESSOR>
+        </METADATA>
+        <HEADER>
+          <LITTLEENDIAN>true</LITTLEENDIAN>
+          <VERSION>1.0</VERSION>
+        </HEADER>
+        <IMAGEFILEDIRECTORY>
+          <ELEMENT>
+            <NAME>NewSubfileType</NAME>
+            <TAG>254</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>4</TYPE>
+            <VALUE>0</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>ImageWidth</NAME>
+            <TAG>256</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>3298</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>ImageLength</NAME>
+            <TAG>257</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>3721</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>BitsPerSample</NAME>
+            <TAG>258</TAG>
+            <LENGTH>3</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>8</VALUE>
+            <VALUE>8</VALUE>
+            <VALUE>8</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Compression</NAME>
+            <TAG>259</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>1</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>PhotometricInterpretation</NAME>
+            <TAG>262</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>2</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>FillOrder</NAME>
+            <TAG>266</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>1</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>DocumentName</NAME>
+            <TAG>269</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>0</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>ImageDescription</NAME>
+            <TAG>270</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>0</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Make</NAME>
+            <TAG>271</TAG>
+            <LENGTH>21</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>i2S DigiBook Scanner</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Model</NAME>
+            <TAG>272</TAG>
+            <LENGTH>9</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>CopiBook</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Orientation</NAME>
+            <TAG>274</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>1</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>SamplesPerPixel</NAME>
+            <TAG>277</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>3</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>RowsPerStrip</NAME>
+            <TAG>278</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>9894</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>XResolution</NAME>
+            <TAG>282</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>5</TYPE>
+            <VALUE>400.0</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>YResolution</NAME>
+            <TAG>283</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>5</TYPE>
+            <VALUE>400.0</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>PlanarConfiguration</NAME>
+            <TAG>284</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>1</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>ResolutionUnit</NAME>
+            <TAG>296</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>3</TYPE>
+            <VALUE>2</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Software</NAME>
+            <TAG>305</TAG>
+            <LENGTH>6</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>4.0.5</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>DateTime</NAME>
+            <TAG>306</TAG>
+            <LENGTH>20</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>2014:05:15 13:44:27</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Artist</NAME>
+            <TAG>315</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>22242816</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>HostComputer</NAME>
+            <TAG>316</TAG>
+            <LENGTH>9</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>CopiBook</VALUE>
+          </ELEMENT>
+          <ELEMENT>
+            <NAME>Copyright</NAME>
+            <TAG>33432</TAG>
+            <LENGTH>1</LENGTH>
+            <TYPE>2</TYPE>
+            <VALUE>20581120</VALUE>
+          </ELEMENT>
+        </IMAGEFILEDIRECTORY>
+      </TIFF>
+    </tool>
+    <tool name="OIS File Information" version="0.1">
+      <fits xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd">
+        <fileinfo>
+          <filepath>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</filepath>
+          <filename>/usr/local/dlxs/repository/f/fredwright/ue13.1.1985/20140515-fredwright-0050.tif</filename>
+          <size>36815977</size>
+          <md5checksum>69978a89af421c5a6e5f67c1659a0ab2</md5checksum>
+          <fslastmodified>1400688300000</fslastmodified>
+        </fileinfo>
+      </fits>
+    </tool>
+    <tool name="OIS XML Metadata" version="0.2">
+      <fits xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" />
+    </tool>
+    <tool name="ffident" version="0.2">
+      <ffidentOutput xmlns="">
+        <shortName>TIFF</shortName>
+        <longName>Tagged Image File Format</longName>
+        <group>image</group>
+        <mimetypes>
+          <mimetype>image/tiff</mimetype>
+        </mimetypes>
+        <fileExtensions>
+          <extension>tif</extension>
+        </fileExtensions>
+      </ffidentOutput>
+    </tool>
+  </toolOutput>
+</fits>
+

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-04-22</mods:dateCreated>
+    <mods:dateOther type="sort">1974-04-22T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts further the details behind the San Francisco general strike: police, national guardsmen and vigilantes attacked strikers, arrests were made and two men were killed. Caption 1:  It was the brutal assault of police and 2,000 fully armed National Guardsmen on the waterfront strikers that convinced San Francisco labor that it would have to come out on a general strike. On July 5, 1934, the full force of city and state were turned on the strikers. Two workers were killed, hundreds severely injured as the police and Guardsmen with bayonets did the bidding of the employers.  Caption 2:  Disregarding telegrams from AFL Pres. William Green, local union after local union voted for a general strike in protest against the assault. By July 15 about 160 unions had taken this action. Every union, with the exception of the typographical and powerhouse, struck on July 16. The city was at a total  standstill. Three thousand troops were sent in by the state on top of the 2,000 already on duty.  Caption 3:  Gangs of vigilantes were organized by the employers to wreck union halls, smash clubrooms of foreign born workers, wreck bookstores where material favoring the strikers was to be had. The police arrested 500 unemployed on grounds that they were communist conspirators. All of them were soon released as having no connection with the strike or any political group. For several days not even a restaurant was open. UE News, Vol. XXXVI, Issue No. 8</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 98: San Francisco General Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.098</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

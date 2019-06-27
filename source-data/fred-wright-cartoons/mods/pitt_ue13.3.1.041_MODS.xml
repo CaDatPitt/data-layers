@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-11-29</mods:dateCreated>
+    <mods:dateOther type="sort">1971-11-29T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts a railroad strike in St. Louis in 1877 which resulted in charges of conspiracy for the strikers.  Most of the strikes of 1877 did not attain their ends. Caption 1:  While troops were smashing the Chicago general strike in 1877, railroad workers in St. Louis struck against a wage cut. Other workers came out in support urging the strikers to hold out for an eight-hour day as well. By July 29 every business in St. Louis was shut and a workingmen's  committee was running the city. The mayor rejected company appeals to arrest the strikers.  Caption 2:  But the Governor of Missouri stepped in. The militia and federal troops took charge raiding strike headquarters and arrested the entire strike committee. They were charged with conspiracy. Four of the men received five-year terms and $2,000 fines. The strike was broken by August 2. A novel development in the strike was the march of about 300 Negro levee laborers from factory to force them to close.  Caption 3:  Most of the 1877 strikes did not attain their ends so that by the time that depression was over wages had been cut sharply. By 1883 wages had dropped below 1870 so that the average yearly wage was about $558 and average living costs for a family was at $754. Many unions had disappeared and the eight-hour day was still rare. Bakers put in from 80 to 120 hours a week; textile workers about 60 and transportation--90 to 100 hours. UE News, Vol. XXXIII, Issue No. 24</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 41: St. Louis Conspiracy</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.041</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

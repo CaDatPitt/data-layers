@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-05-03</mods:dateCreated>
+    <mods:dateOther type="sort">1971-05-03T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the high activity of labor during the Civil War, particularly in response to the use of machinery to replace workers. Caption 1:  High prices was one thing bothering Civil War labor. But introduction of machinery which replaced workers was another. Many workers thought they could stop machinery from being used by striking. New York 2,000 grain handlers offered to end their strike in 1862 if the owners stopped using machinery. Blacksmiths and machinists were also out for the same reason. They failed.  Caption 2:  Labor became so active that a Springfield, Mass. paper said in 1863 that "the workmen of almost every branch of trades have had their strikes within the last few months... . In almost every instance the demands of the employed have been acceded to." And nearly every strike resulted in the formation of a new union. "Striking for higher wages" wrote the San Francisco Bulletin "is now the rage among the working people."  Caption 3:  For the first time in U.S. history labor saw vast concentrations of industry and banks facing them. Oil was discovered in Pennsylvania and Ohio; huge iron ore resources were discovered in Michigan. Big packing houses were set up in Chicago and St. Louis. Lawless, ruthless men like N. Jay Gould, E. H. Harriman and James J. Hill battered their way to wealth as they built national railroads. UE News, Vol. XXXIII, No. 9</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 26: Strike Against Machines</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.026</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, War, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

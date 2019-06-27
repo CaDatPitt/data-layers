@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-07-12</mods:dateCreated>
+    <mods:dateOther type="sort">1971-07-12T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts how women formed their own unions after they had entered the workforce during the Civil War. At this time most male unions barred any women from joining. Caption 1:  Women came into industry during the Civil War in great numbers. But many men saw them being used "at a lower rate than is paid for male labor in the same kind of work." Instead of blaming the employer, some unions blamed the women and even barred them from membership. In some places women formed their own unions; cigar makers, collar workers, tailors, printers, cap makers among them.  Caption 2:  Some unions helped the women set up their own organizations and helped them run strikes as when Utica, N.Y. employers refused to hire women belonging to the Daughters of St. Crispin, a women's union. There were unions which organized women into their own locals. But it gradually came to be seen that it hurt all labor to have such artificial separation. Among these were the Cigar Makers (1867) and Typographical.  Caption 3:  The women's suffrage movement was appealing to labor to help them get the vote. At the 1868 convention of the National Labor Union, delegates from women's unions were seated despite some opposition. Eighteen delegates threatened to walk out if Elizabeth Cady Stanton, secretary of the Women's Suffrage Assn. were seated. But she was accepted after the meeting voted it didn't mean endorsement of "her peculiar ideas." UE News, Vol. XXXIII, Issue No. 14</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 32: Women Form Own Unions</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.032</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

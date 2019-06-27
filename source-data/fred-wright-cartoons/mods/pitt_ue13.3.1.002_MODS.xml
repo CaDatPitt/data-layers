@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1970-05-04</mods:dateCreated>
+    <mods:dateOther type="sort">1970-05-04T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts early agreements of secrecy among union members and the development of the first closed shop in 1805. Caption 1:  Earliest union members took an oath to keep proceedings of their meetings secret, not to work under the union wage scale and to help other members get jobs. Some fined members for not attending meetings. First absence cost 10 to 12 cents, next 20 to 25 cents, and third 50 cents. Members could be tossed out for getting drunk too often, or for immorality. Such rules governed the N'.Y'. Typographical Society and the N. Y. Cordwainers (shoemakers).  Caption 2:  Agreement to stand by the union wage scale was followed in 1802 by unions selecting committees to present wage scales to employers. Any boss who refused to agree might find himself picketed by a "tramping committee." In 1799 Philadelphia shoemakers won a trade-wide agreement. To stop runaways to non-union areas, the New York printers tried to get a union wage scale for the entire east in 1815, but the employers refused.  Caption 3:  First closed shop came out of Cordwainers' agreement in 1805 that no member would work for an employer who hired anyone "that does not belong to this society, unless the journeyman come and join the same." Violation brought one dollar fine and if not corrected, expulsion. "If I didn't join," one complained, "no man would sit upon the seat where I worked, nor board nor lodge in the same house, nor would they work at all for the same employer. UE News, Vol. XXXII, Issue No. 9</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 2: The First Closed Shop</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.002</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

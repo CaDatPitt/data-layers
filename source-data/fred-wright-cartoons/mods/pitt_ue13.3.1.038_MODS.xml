@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-10-18</mods:dateCreated>
+    <mods:dateOther type="sort">1971-10-18T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts railroad strikes in 1877 that resulted from reduced wages.  The railroads used spies to try and attack the railroad unions. Caption 1:  A month after the leaders of the Pennsylvania mine workers were executed, the railroad workers launched one of the biggest labor battles this country had seen. A series of wage cuts had reduced their weekly wage to $5 to $10 a week. On top of this they had only part-time work and had to pay the company hotel for room and board while away from home. For many the take-home pay, as a result, was as little as 35 or 40 cents a week.  Caption 2:  Public sympathy tended to be with the workers. For years the railroads had robbed the country. Land grabs, stock manipulation, bribery of public officials had brought the farmers, small businessmen, miners and other sections of the population to hate the railroads. The press called it "insurrection" when 40 firemen and brakemen quit their freight train jobs in Baltimore. The police moved to the attack.  Caption 3:  Pinkerton spies who had been used to frame-up the Molly Maguires were now used to attack the railroad unions. Blacklisting of members was common. When on June 1, 1877 the Pennsylvania and other railroads announced another 10 percent wage cut, the explosion took place. Wives and mothers were among the active strike demonstrators. The Baltimore Sun wrote of these women: "They look famished and wild and declare for starvation rather than have their people work for the reduced wages." UE News, Vol. XXXIII, Issue No. 21</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 38: Big Rail Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.038</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

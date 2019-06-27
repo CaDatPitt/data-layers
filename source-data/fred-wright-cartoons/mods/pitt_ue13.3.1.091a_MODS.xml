@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-12-17</mods:dateCreated>
+    <mods:dateOther type="sort">1973-12-17T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the Bonus March demonstration,  when World War I veterans marched on Washington to demand their bonus pay early because they were so desperate. Caption 1:  As the depression worsened following the fall of 1929, the Republican Party held firm to the position that everything would turn out all right if the employers were left to themselves. The country was swept by hunger marches and demonstrations of the unemployed. One of the most dramatic was the Bonus March. In 1923 Congress had voted a bonus of $50 or $100 to be paid veterans in 1945.  Caption 2:  Unemployed veterans began demanding that money in 1932, so desperate was their need. From every part of the U.S. veterans started marching on Washington in May. The first group left from Portland, Oregon. Along the way thousands joined in. "Heroes in 1917-Bums in 1932" was one of the signs carried. Several thousand arrived in Cleveland where they took over the railroad yards until given a freight train to take them to Washington.  Caption 3:  It was June when the marchers reached the capitol. By the middle of the month 25,000 Bonus Marchers, many wives and children, were encamped across the Potomac at Anacostia Flats. Packing cases, holes in the ground, tents were their dwellings. And as they camped their numbers grew with arrivals from the other parts of the country. The Hoover Administration was terrified. It was decided to disperse the marchers with force. UE News, Volume XXXV, Issue No. 25</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 91: The Bonus March</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.091a</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Union Organization, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

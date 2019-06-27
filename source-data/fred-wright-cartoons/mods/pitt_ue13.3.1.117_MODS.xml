@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1975-01-27</mods:dateCreated>
+    <mods:dateOther type="sort">1975-01-27T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the formation of the United Electrical and Radio Workers of America. Caption 1:  Buffalo, N.Y. was the city to which representatives of local unions wanting to organize the electrical and radio industry were called. This call was answered by 44 delegates on March 21, 1936. Some of these delegates came from Federal locals of the AFL, that is local unions which were not connected with any International unions and were controlled directly by the AFL Executive Council. There were also delegates from independent, not company, unions.  Caption 2:  The 44 delegates at this first meeting represented 30,000 workers. Among their decisions was the establishment of a national industrial union which, was to have a weekly newspaper for every member. Two national officers, twelve regional vice presidents, four full-time organizers and a defense fund were also approved. The new union was to be called the United Electrical &amp;amp; Radio Workers of America.  Caption 3:  As arranged at the Buffalo session, the new union met in Convention again in the fall, at Fort Wayne, Ind., in Sept., 1936. Eight new locals had been organized with thousands of new members since the Buffalo meeting. But employer resistance to unions was at its height. The Wagner Act which established the National Labor Relations Board was still being fought in the courts by the employers. UE News, Vol. XXXVII, Issue No. 2</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 117: Electrical Workers Organize II</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.117</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

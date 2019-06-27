@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-07-15</mods:dateCreated>
+    <mods:dateOther type="sort">1974-07-15T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the AFL's approach to sit-ins by the CIO unions, kicking them out of the AFL in 1936. Caption 1:  Production had been halted but the men refused to leave the Firestone plant as Akron, Ohio rubber workers were trying a new method of fighting back--the sit-down strike. Food was sent in to them by their families. After three days and nights they had won a pay increase and other demands. The AFL had said such workers could not be organized. Before a year had passed close to half a million working people had been in sit-down strikes.  Caption 2:  And many were singing a song written by Detroit Attorney Maurice Sugar: When they tie the can to a union man, Sit down! Sit down! When they give him the sack, they'll take him back, Sit down! Sit down! When the speed-up comes, just twiddle your thumbs, Sit down! Sit down! When the boss won't talk, don't take a walk, Sit down! Sit down!  Caption 3:  This new strike tactic was branded as "communistic" by the employers, the press, the AFL officials. "Communists Rule the CIO" John Frey, head of the AFL Metal Trades Dept. told the Un-American Committee. He named "248 Reds" as running the CIO unions. In the fall of 1936, the unions of the Committee for Industrial Organization were thrown out of the AFL. UE News, Vol. XXXVI, Issue No. 14</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 104: AFL Expels Unions</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.104</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-05-17</mods:dateCreated>
+    <mods:dateOther type="sort">1971-05-17T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>After attacks on labor during the Civil War, separate unions came together to form trades' assemblies in order to better resist employers and state governments. Caption 1:  Attacks on labor during the Civil War caused the separate unions to come together in trades' assemblies so they could better resist the employers and the state governments which were helping employers keep wages down. By the end of the war there were 30 trades assemblies from New England to California. There were few national unions at that time.  Caption 2:  The handful of national unions that existed were too weak to be of much assistance to their affiliates. When an Employers Assn. brought scabs from the east to break a San Francisco moulders' strike in 1864, representatives of that city's trades' assembly met the scabs at the Isthmus of Panama and persuaded them to refuse to scab. (There was no Panama Canal yet.) Instead, the scabs joined the union.  Caption 3:  Through the new trades' assemblies the workers were able to develop their boycotts of anti-labor companies. Some of them ran libraries, reading rooms and sponsored lectures to help educate the members. Some even opened cooperative stores to help the members meet the high cost of wartime living. At Troy, N.Y. the unionists set up a department store. UE News, Vol. XXXIII, Issue No. 10</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 28: Trade Councils Set Up</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.028</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization, Scabs</mods:topic>
+  </mods:subject>
+</mods:mods>

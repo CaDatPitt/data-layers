@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-02-19</mods:dateCreated>
+    <mods:dateOther type="sort">1973-02-19T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes how the AFL lost membership to other unions because of its relatively docile relationship with employers (especially after the Ludlow Massacre). Caption 1:  The Easter massacre of the miners at Ludlow, Colo. shocked the whole country and made the name of Rockefeller one of the foulest in the land. The striking miners turned their fury on the imported armies of thugs, now organized as a "militia." Finally federal troops were called in by the Governor. Rockefeller turned down all peace proposals including those made by President Wilson. By December, 1914 the strike was crushed.  Caption 2:  The millionaire had made not belonging to the union a condition of employment. But what he and others did to maintain their rule, resulted in a huge growth of the Mine Workers who added 150,000 to their rolls in a short time. The UMW's militancy was in sharp contrast to the rest of the AFL's docility. In the men's clothing industry the AFL United Garment Workers' sellout deals with employers (1911-1913) led to a rank and file rebellion.  Caption 3:  At the UGW's 1913 convention, the national officers moved to squelch the rebellion by barring the rank and file delegates as ineligible. The ousted delegates left and formed their own organization headed by Sidney Hillman. These rank and filers had already organized the industry's largest company, Chicago's Hart, Schaffner &amp;amp; Marx. By 1915 the new Amalgamated was the major union in men's clothing. The AFL union had lost 50,000 members. UE News, Volume XXXV, Issue No. 4</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 71: Clothing Workers Rebel</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.071</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

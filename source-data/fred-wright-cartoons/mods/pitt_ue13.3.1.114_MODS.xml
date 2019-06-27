@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-12-16</mods:dateCreated>
+    <mods:dateOther type="sort">1974-12-16T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>After a union agreement was resolved with U.S Steel, other steel companies were disgruntled with this and used violence against protestors. Caption 1:  While U.S. Steel Corp. signed a union agreement with The Steel Workers Organizing Committee in 1937, the so-called "Little Steel" companies prepared to fight the new union. They stockpiled machine guns, rifles, tear gas, bombs. According to the LaFollette Committee of the Senate, the companies spent close to $44,000 for the munitions. In May of that year the munitions were put to use against 75,000 strikers.  Caption 2:  Armed company thugs and the police opened fire on steel workers at Youngstown, Massilon and Cleveland, Ohio. And people died. At least 17 were killed and the wounded went to more than 150. But the big battle came at South Chicago where a peaceful march of 300 Republic Steel strikers on Memorial Day were surprised by armed police. At the head of the parade were signs reading: "Come on Out, Help Win the Strike," "Republic vs. the People."  Caption 3:  The paraders were attacked and men and women fell before the firing guns. Tear gas grenades blinded those not yet hit and charging police came rushing in to complete the job with swinging nightsticks and baseball bats. The unarmed workers answered with stones before fleeing. There were ten dead to pick up and over 100 injured. About 20 police had been slightly injured. UE News, Vol. XXXVI, Issue No. 25</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 114: Steel Workers Organize II</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.114</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization,  Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

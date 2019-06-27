@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-08-23</mods:dateCreated>
+    <mods:dateOther type="sort">1976-08-23T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes Senator McCarthy's attacks to destroy the free labor movement. Caption 1:  Sen. Joe McCarthy's so-called attacks on the "communist menace" spread beyond radical groups, trade unions, and liberals. He began going after the Democratic Party and his own Republican Party as helpers of the communist cause. Members of President Eisenhower's cabinet soon were being assailed for the same reason and finally, the U.S. Army leadership including World War II Chief of Staff Gen. Marshall.  Caption 2:  Many of those who had been willing to countenance McCarthy's wild-swinging attacks on radicals and liberals were frightened. Vermont Sen. Ralph Flanders, a liberal Republican, charged in a number of speeches that McCarthy was following a course parallel to Hitler's. Flanders recalled  that "Hitler exploited the issue of communism," as the opening wedge in his drive for power.  Caption 3:  Flanders warned that McCarthy, like Hitler, aimed at destroying the free labor movement. He noted that McCarthy had defended the "Nazi ruffians" who massacred American prisoners of war in World War II. Flanders proposed that the Senate censure McCarthy. But too many Republicans and quite a few Democrats were not willing to follow that course, including Senators Nixon and Goldwater. UE News, Vol. XXXVIII, Issue No. 16</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 150: Senator Parallels Hitler</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.150</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red Scare</mods:topic>
+  </mods:subject>
+</mods:mods>

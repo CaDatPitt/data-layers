@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-01-25</mods:dateCreated>
+    <mods:dateOther type="sort">1971-01-25T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the years leading up to the Civil War when white southern workers began to fight slavery.  Slavery not only affect black slaves, but also depressed wages in the entire region for all workers. Caption 1:  Slavery brought not only misery to the Negroes but helped keep southern white wages at the lowest in the nation. Georgia cotton workers in 1860 were paid $7.39 a month, for work Massachusetts mill workers were being paid $14.57. In many factories white southern workers were pitted against Negro slaves--with the cost of keeping a slave 72 cents a day. And white workers often fought against the slaves being hired.  Caption 2:  Gradually many of the southern whites began to see that they'd be much more sensible if they stopped fighting the victims--the slaves--and started fighting the cause--slavery. At Lexington, Ky., mechanics resolved that "the institution of slavery is alike...injurious to the slaveholder and non-slaveholder...that it degrades labor...public and private right require its ultimate extinction."  Caption 3:  In many parts of the South the years just before the Civil War saw whites standing with the slaves against the slave owners. An Alabama paper wrote of slaves who are "associating with low white people who are not slave owners. Such people," it complained, "are dangerous to the community." A Texas paper (1856) wrote of "white men who are constantly inciting our slaves to deeds of violence and bloodshed." UE News, Vol. XXXIII, Issue No. 2</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 20: Slavery the Issue</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.020</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>War, Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

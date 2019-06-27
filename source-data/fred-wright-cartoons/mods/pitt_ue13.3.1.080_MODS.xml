@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-06-25</mods:dateCreated>
+    <mods:dateOther type="sort">1973-06-25T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts what happens when depression hits the U.S. and 5 million are out of work, but continue to strike for a "Labor's Bill of Rights."  Unions were crushed by big business and hardball tactics. Caption 1:  The 1919 steel and coal strikes aroused the whole lot of anti-labor snakes to get their usual cries and threats that America was in danger.  The Philadelphia Public Ledger saw national strikes as being "an unlawful conspiracy." Sen. Poindexter blamed the strikes on "anarchists and murderous communists." The AFL, whose affiliates had organized the strikes, was on a spot.  It had promoted "business unionism" and been kicked in the face.  Caption 2:  Pushed by its members to resist the monopoly attacks, the AFL held a conference in Dec. 1919 at which it called for a "Labor's Bill of Rights." This included "a living wage," union recognition and restrictions on the use of injunctions.  Appeals that it go into political action and set up a labor party were thrown aside.  On the heels of the war inflation and the postwar attacks on unions, the 1921 depression exploded.  Unemployment, wage cuts, bankruptcies- 5 million out of work- hit the country.  Caption 3:  Resisting workers continued their strikes. Seamen had their strike broken by arrests. Their union was slashed to a fifth of its previous size by the blacklisting of thousands of its members. Then the packinghouse workers were forced to go out to protect their wages. They, too, found themselves up against too strong a combination in the meat packers' monopoly. The union was crushed and the open shop reintroduced. UE News, Volume XXXV, Issue No. 13</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 80: Meat Packers' Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.080</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Red-Scare, Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

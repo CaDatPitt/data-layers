@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-02-14</mods:dateCreated>
+    <mods:dateOther type="sort">1976-02-14T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the red-scare's negative effect on unionism. Caption 1:  As 1946 came to an end, working people could look back on a year of tremendous victories over the most powerful corporations. Labor unity behind the industrial unions formed in 1935-36 had paid off. As big business went on to the counter-attack at home, it moved to reassert its full control of foreign affairs replacing the allied unity which had led to victory in World War II with the "cold war" of international tension and confrontation.   Caption 2:  Charles E. Wilson, president of General Electric had seen how his company's employees, united in UE, had taken GE's measure earlier in the year. Now, in October, 1946, Wilson described the position of his class: "The problems of the United States can be summed up in two words: Russia abroad, labor at home." If labor could be split at home and if all of it or major sections could be persuaded that not the profiteering corporations but the Russians were the "problem" the Wilson crowd would be in the driver's seat.  Caption 3:  When the CIO was formed in the mid 1930's, big business and its political stooges had labeled it a communist-inspired plot against America. There was even a corporation-inspired publication entitled "Join the CIO and Build a Soviet America." Now, the weapon of red-baiting was picked up again. By branding militant labor activity and opposition to cold war as communist inspired, the failure to stop the CIO from being born might be overcome, through wrecking it. UE News, Vol. XXXVIII, Issue No. 4</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 139: A Dual Attack</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.139</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red Scare</mods:topic>
+  </mods:subject>
+</mods:mods>

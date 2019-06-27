@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1975-04-07</mods:dateCreated>
+    <mods:dateOther type="sort">1975-04-07T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes UE's success in organizing large plants such as the main plant of General Electric and the biggest plant of Westinghouse. Caption 1:  Having succeeded in organizing the main plant of the General Electric Co. at Schenectady, N. Y., the new UE continued with the drive to bring the main plant of Westinghouse, the second largest electrical corporation, into its ranks. As at Schenectady, UE supporters at the East Pittsburgh Westinghouse plant had joined the existing company union and in 1936 succeeded in winning five of the six posts on its executive committee.  Caption 2:  By the following spring, UE Local 601 was able to submit 7,200 membership cards to the Labor Board and won certification as the plant's collective bargaining representative. The company union's executive committee approved the NLRB decision. Within the space of a single year the two biggest plants of the two largest electrical corporations in the country had been swung into a union which hadn't existed two years earlier.  Caption 3:  At the union's founding convention at Buffalo in March 1936, there had been delegates from an independent local union at the GE plant at Lynn, Mass.; and AFL federal locals at the Springfield, Mass. Westinghouse plant and the Fort Wayne, Ind. GE plant. The federal locals had existed since 1933. At the South Philadelphia Westinghouse plant there was, also, an AFL federal local union which had been recognized by the company but it had no written contract. UE News, Vol. XXXVII, Issue No. 7</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 122: Big Plants Organized</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.122</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

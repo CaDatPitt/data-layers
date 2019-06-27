@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-11-19</mods:dateCreated>
+    <mods:dateOther type="sort">1973-11-19T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon demonstrates the powerlessness of the unemployed workers who had no jobs, no government unemployment insurance and no unions for protection. Caption 1:  The economic crash in late 1929 was met by the Republican Administration headed by Pres. Herbert Hoover with a barrage of confidence speeches. Hoover assured the country that all would be well within 60 days. His assurance inspired a wave of "supply jobs for 60 days" movements. Millions of workers appeared on the nation's streets to sell surplus apples "for 60 days."  Caption 2:  But the 60 days were extended to six months and more factories closed. Millions began losing their homes as mortgage holders foreclosed. Huge stocks of food were burnt and sunk in the ocean because people couldn't buy. Demands by the unemployed that the government provide assistance were met with the objections from the government who said this would be socialism. There was no unemployment insurance then.  Caption 3:  The officials of the labor movement denounced those who demanded federal assistance. This was branded as "communism," as a "dole" which would undermine the people's self-respect. Instead, conferences of employers were assembled by the government in Washington. Pledges were made to labor that wages would not be cut and employment maintained. But there were no unions to enforce any pledges. They were worthless. UE News, Volume XXXV, Issue No. 23</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 89: The Big Depression</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.089</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-08-07</mods:dateCreated>
+    <mods:dateOther type="sort">1972-08-07T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts how the American Railway Union organized anyone who was interested and were able to organize much bigger strikes. Caption 1:The American Railway Union, sparked by Eugene Victor Debs, drew thousands of members from the various craft unions and from the unorganized. For the first time, when a rail strike was called as one at the Great Northern, all the workers came out. The 9,000 strikers won a tremendous victory and within a year the ARU had grown to 150,000 from 50 members. It had become the biggest union in the country.   Caption 2:  This could not be tolerated by the companies. At Pullman, Ill. employees of the Pullman Co. had their wages cut as much as 50 percent. In the spring of 1894 4,000 Pullman workers joined Debs' union. When their grievance committee was fired, they struck without even getting authorization from the parent union. When Debs proposed arbitration, the company said: "We have nothing to arbitrate."  Caption 3:  Scabs were brought in from all over the U.S. and Canada. An employer association said it would blacklist forever any rail worker who refused to scab. The strike spread until 150,000 were out across the country-as far as California. Old-line rail union leaders said they'd provide scabs if called on by the companies. The U.S. Attorney General applied for an injunction against Debs, his associates and the strikers. UE News, Volume XXXIV, Issue No. 16</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 58: Pullman Strike</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.058</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

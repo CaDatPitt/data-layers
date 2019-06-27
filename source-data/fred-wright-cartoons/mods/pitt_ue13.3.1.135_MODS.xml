@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1975-12-15</mods:dateCreated>
+    <mods:dateOther type="sort">1975-12-15T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts UE's success for increasing wages for both men and women at General Electric. Caption 1:  The first national strike against the General Electric Co lasted nine weeks, ending in March 1946 with 100,000 UE members winning an 18.5 cent hourly increase. Corporation-inspired violence, many arrests of strikers, and an expensive anti-union publicity campaign had failed to budge the strikers. One of the hindrances to settlement had been the insistence of GE Pres. Charles E. Wilson that the union accept a smaller increase for women whom he contemptuously called "bobby soxers." He failed.  Caption 2:  As the GE workers streamed back to work proud that they had beaten the biggest electrical corporation in the country,  Westinghouse still refused to come to terms. A New Jersey jury refused to convict five UE strike leaders at Westinghouse. Federal mediators upheld the union's position that the company   was offering a much smaller increase than GE had finally granted. The mediators scored the company and withdrew from  the case. The strike had started in January. Now it was April.   Caption 3:  GE had tried to split the workers by offering women a smaller increase. Now Westinghouse tried to split the workers by proposing to give no increase to lamp workers with 9.7 cents for the rest. Pennsylvania's Gov. Martin, who had refused to meet striking war veterans who had come to the state capitol, stationed state troopers around the company's East Pittsburgh plant to try to frighten the pickets. It didn't work. GE workers, back at work, joined in raising funds for the strikers, some giving a week's wage increase. UE News, Vol. XXXVII, Issue No. 25</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 135: Nationwide GE Strike Won</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.135</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

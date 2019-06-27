@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-02-05</mods:dateCreated>
+    <mods:dateOther type="sort">1973-02-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the strike when workers of the Rockefeller Colorado Fuel &amp;amp; Iron Co. rebelled against the new company union scheme and were lit on fire and shot down in retaliation. Caption 1:  With unions gaining an important foothold in industry, the expanding trusts hit on the idea of company unions. A pioneer in this movement was the John D. Rockefeller family, owners of Standard Oil and numerous other corporations. When members of the United Mine Workers at the Rockefeller Colorado Fuel &amp;amp; Iron Co. in Ludlow, Col. struck against starvation and the company union scheme in 1914, there began one of the most horrible chapters in American history.  Caption 2:  Thrown out of the company-owned houses, the miners set up a tent colony. Rockefeller hired the Baldwin-Felts Detective Agency who brought in between 1,000 and 2,000 plug uglies to break the strike. These were inducted into the State Militia. They poured oil on the tents, set them afire and turned machine guns on the fleeing miners, wives and children. Eleven children and two women were found burned to death.  Caption 3:  The country was shocked. There were picket lines at the Rockefeller offices in the Wall Street area. A Congressional committee heard John D. Rockefeller, Jr. (father of today's New York governor) say in answer to a question as to whether killing people was going too far in fighting unions, that his company would do anything rather than give in to the miners. Of the murderers he said: "We expect to stand by the officers at any cost." UE News, Volume XXXV, Issue No. 3</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 70: The Ludlow Massacre</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.070</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1977-03-07</mods:dateCreated>
+    <mods:dateOther type="sort">1977-03-07T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts controversy between the UE and the Tennessee Valley Authority after the TVA purchased foreign-made equipment over American-made equipment. Caption 1:  While the country was into a new round of layoffs in 1959, workers in the electrical manufacturing industry learned that the Tennessee Valley Authority had rejected bids submitted by GE and Westinghouse for turbo-generator equipment in favor of one by a British manufacturer. When UE started examining the reasons behind this development, it learned that the foreign bid was substantially lower than the American bid.  Caption 2:  Even more significant, however, was that in response to questions by the union, TVA officials charged that in several recent instances both companies had submitted bids identical to the penny. A similar situation was uncovered in transformers, insulators, circuit breakers, and other equipment. In ten instances, for example, it was found that GE bids were exactly the same as those of its alleged competitors.  Caption 3:  Eight cable companies had each bid exactly the same-$198,438.24-for TVA jobs. The company which got the order had offered one half of one percent discount for payment within 20 days. It was clear that there existed a huge conspiracy in the electrical manufacturing industry and that any attempt to reduce the situation to one of "Buy American" would help perpetuate the crime against consumers and workers in the industry. UE News, Vol. XXXIX, Issue No. 5</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 162: Electrical Industry Gang-up -1</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.162</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Economy, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

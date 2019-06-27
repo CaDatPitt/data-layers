@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-08-06</mods:dateCreated>
+    <mods:dateOther type="sort">1973-08-06T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon shows how in an attempt to destroy  "radical" unions, the Justice Dept. arrested ten thousand workers on "red" charges.  They were starved and beaten until they were eventually released since no crimes could be proven. Caption 1:  Attacking unions because they wanted a shorter work week or recognition and higher wages was easier after the first World War if they could be accused of being foreign-influenced and "red" at that. On the night of Jan. 2, 1920, Justice Dept. agents conducted a nationwide raid under orders of Atty. Gen. Palmer and a young assistant, J. Edgar Hoover. Ten thousand workers were seized in their homes, meeting halls, on the streets.  Caption 2:  Bostonians saw 400 handcuffed, chained workers marched through the streets. Detroit's federal building had 800 packed into a narrow corridor, without food, for six days. Other forms of torture were the lot of prisoners in Hartford, Philadelphia, other cities. Many were turned over to imprisoned criminals to be beaten. At a Fort Wayne army encampment prisoners brought from Detroit saw their wives and children beaten by federal guards.  Caption 3:  There had never been anything like this in U.S. history. The Justice Dept. said the aim was to destroy the "radical" movement. Of those arrested, 6,500 were finally released without charges. They had been "mistakenly" arrested. About 3,500 were held for deportation but since no crimes could be proven almost all were eventually released. The Palmer raids were denounced by labor, high officials, Congressmen. UE News, Volume XXXV, Issue No. 16</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 83: The Palmer Raids</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.083</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Red-Scare, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

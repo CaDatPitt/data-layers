@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-01-05</mods:dateCreated>
+    <mods:dateOther type="sort">1976-01-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes the union's success at receiving higher wages for employees at Westinghouse due to a strike. Caption 1:  In the strike of 75,000 members at Westinghouse which began in January, 1946 was not settled until May 9 when the company finally agreed to the 18.5 cent an hour wage increase pattern established many weeks earlier at GE and other big corporations. It was estimated by the union that the settlement added $40 million to the pay of Westinghouse employees, a very important contribution to a nation still trying to work itself out of World War II restrictions on earnings.  Caption 2:  But even as millions of workers scored tremendous victories behind the unity of the UE, Steelworkers and Auto Workers, the corporations had begun political war in Washington to take back what they had lost on the picket lines. During the war there had been some control over prices through the Office of Price Administration, OPA. Politicians serving the corporations decided to wipe out the price controls, an especially dangerous step in light of tremendous war-caused shortages of consumer goods.  Caption 3:  Many organizations, besides labor unions, rallied to the defense of price control warning that the alternative was runaway inflation. Representatives of organizations with 15 million members, including the Farmers Union, YWCA, and the General Federation of Women's Clubs joined the unions in testifying before a Senate Committee against House-approved amendments designed to cripple the already severely-weakened law which kept a lid on prices. UE News, Vol. XXXVIII, Issue No. 1</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 136: Nationwide Westinghouse Strike Won</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.136</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-10-22</mods:dateCreated>
+    <mods:dateOther type="sort">1973-10-22T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon shows how big business regains full control of the government and punishes labor after Coolidge wins the election.  Wall Street boomed from illegitimate business practices, setting the country up for disaster Caption 1:  Republican Coolidge was returned to the White House in 1924. Big business was guaranteed full control of the government and what happened in the next five years set the stage for the worst economic catastrophe this country had ever seen. Labor unions were sold the idea that cooperation with the employers was the only way to permanent prosperity for all. AFL unions ignored the millions of unorganized in mass production industries.  Caption 2:  From 1919 to 1927 productivity of the American worker rose by 53.5 percent. The hours in a week for most ranged from 48 to 54 (in steel) and 60 in street laboring. Speedup was so prevalent that about 25,000 workers were killed annually in industry. Earnings were so low that 60 percent of the families didn't earn the $2,000 a year regarded as the basic minimum needed.  Caption 3:  But Wall Street boomed. Get-rich-quick schemes involved some of the richest men. Insull of Illinois, Richard Whitney, head of the N.Y. Stock Exchange, were notable examples. Millions were sold worthless stock or stock soon to become worthless. Whitney went to jail for his finagling. Insull fled the country when his utility empire collapsed. Thousands of businesses were prospering but they were built on quicksand. UE News, Volume XXXV, Issue N0. 21</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 87: Heading For the Crash</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.087</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Businesses, Politics and Legislation, Average Work Day, Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

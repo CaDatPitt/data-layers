@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-03-05</mods:dateCreated>
+    <mods:dateOther type="sort">1973-03-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes how new unions continued to form to protect those laborers the AFL would not.  It also shows the inhumane conditions the "needle trade" unions fought against and new safety legislation for factory workers. Caption 1:  Like the mine workers, the newly-formed Amalgamated Clothing Workers (1913) overrode AFL craft-union prejudices and admitted to membership  everyone in the industry. A third union organizing at the time, the Ladies Garment Workers, did the same. These "needle trades" unions were made up largely of Jewish immigrant workers most of whom believed that all industry would eventually have to be owned by the people through the government.  Caption 2:  These workers were impelled to organization by some of the worst conditions any people have had to endure. Men, but mainly women and young girls--13-14 years old, had to put in up to 14 hours a day in dirty slum-holes. In 1910, 20,000 of these struck against sweatshop conditions in the New York shirtwaist industry. They won a 6-day, 54-hour week, abolition of homework which had led to whole families working day and night; abolished company charges for use of electricity and materials.  Caption 3:  But as important as these were the battles for safe, sanitary working conditions. This was dramatized by the terrible Triangle Shirt Waist factory fire in 1911. When the fire broke out the workers rushed to the exits and found them jammed. When the blaze was put out, there were 146 women burned to death. A horrified public demanded and won some new laws on factory safety and inspection in many states. UE News, Volume XXXV, Issue No. 5</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 72: Triangle Factory Fire</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.072</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization, Average Work Day, Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

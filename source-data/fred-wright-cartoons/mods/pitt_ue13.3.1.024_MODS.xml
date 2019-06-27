@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-03-22</mods:dateCreated>
+    <mods:dateOther type="sort">1971-03-22T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the scandals that broke out during the Civil War. It also shows how speculators took advantage of the Homestead Act, which had been adopted to relieve unemployment. Caption 1:  From New York the 1863 draft riots spread upstate, to Pennsylvania, Indiana and Wisconsin. Opponents of the Lincoln government made use of labor's legitimate grievances to promote attacks on army recruiting offices. Workers were told that the freed slaves would take their jobs away. New York unions roused workers to the danger of falling for this propaganda branding the riot leaders as individuals "who vibrate between the penitentiary and the dark dens of crime."   Caption 2:  Scandal was heaped on scandal as crooked contractors and manufacturers fleeced the government. Morgan sold the U.S. guns that exploded in the soldiers' hands. Uniforms disintegrated under the rain, sugar supplied the army turned out to be sand, coffee-rye flour and shoes with paper soles were issued to the troops. Fortunes were being made from these deals as well as from high consumer prices. In four years of war the cost of living doubled.  Caption 3:  To help relieve the unemployment during the early part of the civil war, the government passed the Homestead Act giving western lands to those who would work them. Anybody cultivating an acre of land for six months could own it for $1.25 an acre. Speculators moved in, bought land through dummy owners and soon were owners of huge tracts of the best land. Seventy million acres were given to the Union Pacific, Central Pacific and Northern Pacific railroads. Most of this, too, became speculator's property. UE News, Vol. XXXIII, Issue No. 6</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 24: Speculators Fleece U.S.</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.024</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>War, Politics and Legislation, Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

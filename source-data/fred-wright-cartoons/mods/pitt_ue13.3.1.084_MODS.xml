@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-08-20</mods:dateCreated>
+    <mods:dateOther type="sort">1973-08-20T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon details how two Italian-born union activists were used as scapegoats, arrested and executed on "red" charges, to make a statement against their political views. Caption 1:  Twelve of the country's top legal experts including Felix Frankfurter, present Supreme Court justice, called the Atty. Gen. Palmer-J. Edgar Hoover arrests of 10,000 foreign born, a violation of almost every provision of the Bill of Rights. The raids were part of the assault against labor. So was the arrest of Nicolo Sacco, a shoemaker, and Bartolomeo Vanzetti, a fish peddler, Boston residents.  Caption 2:  Arrested in 1920, presumably for having participated in a hold-up at South Braintree, Mass. the Sacco-Vanzetti case was to shake the United States and stir almost the entire world before they were finally executed on August 22, 1927. The two    Italian-born men were anarchists, had opposed U.S. participation in World War I and participated in union activities, raising strike funds for textile workers, held street meetings for Palmer raid victims.  Caption 3:  Although the charge was robbery and murder, the district attorney, and Judge Webster Thayer persuaded the jury that America had to be saved from foreigners with their "red" activities. By 1926 the head of the Boston office of the Justice Dept. signed an affidavit saying that the department knew the men to be innocent but were out to get them because of their political views. UE News, Volume XXXV, Issue No. 17</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 84: Sacco-Vanzetti Arrest</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.084</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Red-Scare</mods:topic>
+  </mods:subject>
+</mods:mods>

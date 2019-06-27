@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-02-11</mods:dateCreated>
+    <mods:dateOther type="sort">1974-02-11T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon illustrates the desperate counter-measures employers were taking in reaction to rising union organization, like hiring spies to weed out union members and buying stocks of weapons in the case of a strike. Caption 1:  As hundreds of thousands of workers sought union organization, the corporations developed a nation-wide counterdrive of company unions and spies. The LaFollette Senate Committee study estimated that starting in 1934 corporations spent $80 million a year for spies and associated measures to destroy unions. This paid for an estimated 100,000 labor spies.  Caption 2:  Engaged by 230 detective agencies these spies were reported to have wormed their way into every local union in the country. Union plans were reported to the corporations, union members' names turned over to the bosses for firing. General Motors admitted that it spent $419,850 with the Pinkerton spy agency between Jan., 1934 and July, 1936 and more than another half million with other agencies.  Caption 3:  Westinghouse, RCA, United Shoe Machinery were among the other big spy hirers. Workers on whom the spies informed were blacklisted and couldn't find jobs elsewhere. Many companies laid in stocks of tear gas, munitions and arms to use against their employees in case of strikes or lockout. In three years over a million dollars was spent by them for arms. UE News, Volume XXXVI, Issue No. 3</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 94: Labor Spy Network</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.094</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

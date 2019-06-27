@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-10-04</mods:dateCreated>
+    <mods:dateOther type="sort">1971-10-04T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the formation of the group the Molly Maguires, a group of Pennsylvania coal miners who struck for higher wages and were demonized by the press. Caption 1:  The 1874 unemployed demonstrations were branded by the press as the doings of foreign radicals. Of the biggest, Tompkins Square, N.Y., the N.Y. Times wrote: "The persons arrested yesterday seem all to have been foreigners--chiefly Germans or Irishmen. Communism is not a weed of natural growth." Among those at whom the cops clubs swung at this rally were Samuel Gompers, later first AFL president.  Caption 2:  Strikes against wage cuts broke out everywhere, including the Pennsylvania coal mines. Many miners joined a secret organization, the Ancient Order of Hibernians, to defend themselves. The employers and the press dubbed this organization the Molly Maguires and declared open war on its members. The operators sent in an armed police force which killed miners. Mine bosses and foremen were in turn killed by the aroused workers.  Caption 3:  The anti-union Philadelphia and Reading Railroad hired the Pinkerton agency to send spies into the workers' organization. One of them, James McParland, later testified in court that the Molly Maguires had plotted murder. Miners' witnesses were convicted of perjury, discouraging others from helping them. Ten were hanged, 14 others jailed. Later the operators' paper admitted that the workers' crime had been: "Whenever prices of labor did not suit them they organized and proclaimed a strike." UE News, Vol. XXXIII, Issue No. 20</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 37: The Molly Maguires</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.037</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

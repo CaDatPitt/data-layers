@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-10-07</mods:dateCreated>
+    <mods:dateOther type="sort">1974-10-07T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>The second cartoon in the Sit-Down In Auto Plants series. Continuing the General Motors strike, the workers fought off  violence from policemen. Caption 1:  Outside the auto plants there were huge picket lines including the wives and children of the men sitting inside the GM plants. For 44 days these men occupied the plant in Flint, Mich. They slept on floors, in partly- completed cars. They pledged not to leave until General Motors recognized their union. GM got a court to issue an injunction ordering the strikers to leave. On appeal it was shown that the judge was a GM stockholder. This injunction was thrown out.  Caption 2:  Another injunction was secured. The strikers ignored it. Came the day when the police decided to bar the wives from  delivering food to their striking husbands. Armed with tear gas and guns, the police surrounded the pickets. They fired point blank into the crowd and threw gas bombs through the doors of Fisher Body Plant No. 2. The strikers were ready and answered with a barrage of iron bolts, car parts, pop bottles, coffee mugs. They turned the fire hoses on the bombs, on the police.  Caption 3:  "The battle of the running bulls" the men got to calling their victory over the police. The frightened corporation convinced the governor to call out the militia. When the company ordered the heat shut off to freeze the men out, the strikers warned that they would open the windows and let the fire-fighting equipment freeze resulting in cancellation of the company's fire insurance policies. GM changed its mind; kept the heat on. UE News, Vol. XXXVI, Issue No. 20</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 109: Sit-Down In Auto Plants II</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.109</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

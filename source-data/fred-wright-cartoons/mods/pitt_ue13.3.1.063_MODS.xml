@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-10-30</mods:dateCreated>
+    <mods:dateOther type="sort">1972-10-30T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon is about the coal miners' victory of a national contract guaranteeing them an 8 hour work day and a 10 percent wage increase. Caption 1:  As self-appointed agent of God, mine owner George F. Baer refused to accept Pres. Theodore Roosevelt's offer to arbitrate the 1902 miners strikes. After an angry meeting with the mine owner the President said: "If it wasn't for the high office I hold, I would have taken him by the seat of the breeches and the nape of the neck and chucked him out of that window." Ten thousand Pennsylvania state troopers could not force the miners to the wall.  Caption 2:  The president decided to send the army in to seize the mines, throw out the operators and have the government run them. He sent Secretary of War Root to tell that to J. P. Morgan, held to be the real power behind the mine operators. The owners caved in and agreed to arbitrate, The President appointed the head of the Railway Conductors Union to the board.  Caption 3:  The arbitrators granted a 10 percent wage increase and reduced the 9-hour day to 8. The victory of the 200,000 Pennsylvania, Virginia, West Virginia, Ohio, Indiana and Illinois soft coal miners resulted in the first national contract in a major industry. The mine union membership leaped from 10,000 to 117,000 in two years and all of labor was pushed ahead on the road to an 8-hour day. UE News, Volume XXXIV, Issue No. 22</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 63: First National Contract</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.063</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Businesses, Union Organization, Average Work Day</mods:topic>
+  </mods:subject>
+</mods:mods>

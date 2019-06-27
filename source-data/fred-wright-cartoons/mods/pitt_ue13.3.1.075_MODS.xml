@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-04-16</mods:dateCreated>
+    <mods:dateOther type="sort">1973-04-16T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon illustrates the escalating tensions between laborers and the businesses that were willing to bend the law to their will. Over 4,400 strikes broke out in the first year of U.S. involvement in the war. Caption 1:  The convictions of California labor leaders Mooney and Billings on a fake dynamiting charge was only one incident of many yet to come in which employers and subservient government agencies attacked working people during the first World War. While the AFL leaders in the main supported our participation in the war other unionists said we should stay clear of it.  Caption 2:  Longtime rail union leader and Socialist, Eugene V. Debs was one of those who called it a war for profiteering. Making this charge in a public speech at Canton, Ohio in 1918, Debs, then 63 years old, was arrested and sentenced to 10 years in federal prison. Elsewhere many hundreds of working people met the same fate-all charged with sedition and violation of the Espionage Act. The Supreme Court rejected appeals based on the first amendment, on free speech.  Caption 3:  Although the AFL had pledged full cooperation in the war, the union members found the runaway prices accompanied by runaway profiteering too heavy a burden. Over 4,400 strikes involving over 2 million broke out in 1917, the first year of U.S. participation in the war. These strikes became so widespread that the government decided to set up a War Labor Board to settle all disputes. While strikes subsided, the basis was laid for the huge postwar labor battles.                               UE News, Volume XXXV, Issue No. 8</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 75: Labor in World War I</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.075</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation, Businesses, Strikes</mods:topic>
+  </mods:subject>
+</mods:mods>

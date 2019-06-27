@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1971-07-28</mods:dateCreated>
+    <mods:dateOther type="sort">1971-07-28T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the formation of the Noble and Holy Order of the Knights of Labor in 1869 by Philadelphia garment workers.  This union aimed to unite skilled and unskilled regardless of sex, creed, race, color, or political affiliation. Caption 1:                                                    Formed in 1868 the National Labor Union, first as a federation of labor, grew rapidly and then fell apart disappearing by 1872. Its leaders had lost faith in union action and had turned to various schemes such as currency reform and cooperatives as labors' best hopes. Meanwhile another labor organization, the Knights of Labor, was coming into being.  Caption 2:  It was a group of Philadelphia garment workers who in 1869 formed the Noble and Holy Order of the Knights of Labor. Grips, passwords, rituals, secret symbols written on sidewalks and fences announcing meeting times and places were part of the Knights. Its leader was Uriah S. Stephens. Unlike most previous unions, he aimed to unite skilled and unskilled regardless of sex, creed, race, color or political affiliation.  Caption 3:  Through secrecy Stephens hoped to instill fraternity and solidarity in labor. The Knights grew to 700,000 members by 1886. In order to impel members to learn to read and write, each one had to sign his name to a card on a triangular table placed outside the meeting room. Many took courses in writing to be able to fulfill this requirement of membership. UE News, Vol. XXXIII, Issue No. 15</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 33: Knights of Labor</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.033</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Union Organization</mods:topic>
+  </mods:subject>
+</mods:mods>

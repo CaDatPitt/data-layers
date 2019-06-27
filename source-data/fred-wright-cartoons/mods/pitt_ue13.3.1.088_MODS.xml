@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-11-05</mods:dateCreated>
+    <mods:dateOther type="sort">1973-11-05T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the Stock market crash on 1929 which bankrupted hundreds of thousands and knocked 7 million industrial laborers out of work. Caption 1:  Unlimited speculation and profiteering, rapid expansion of industrial capacity featured the years 1920-1929. While skilled workers made some wage gains, most of labor organized and unorganized fell behind. Millions of families came into 1929 earning below $1,000 a year. The 8-hour day had been gaining ground but the six-day week was still prevalent. Steelworkers, for example, were on a 60-hour week.  Caption 2:  The leaders of the AFL and the big Railroad Brotherhoods saw only unlimited prosperity ahead and felt that labor-management cooperation had to be substituted for aggressive defense of the members' interests. Many unions went into business, opening banks, investing in stocks. Huge mass production industries had grown up but the unions refused to organize them looking on the workers as ignorant and unorganizable.  Caption 3:  In the fall of 1929 the greatest economic disaster ever to hit this country exploded. The stock market collapsed bankrupting hundreds of thousands who had sought to make a quick buck in speculation. Banks from one end of the country to the other folded leaving depositors penniless. Industrial production was slashed in half and within a few months well over seven million people were without jobs. UE News, Volume XXXV, Issue No. 22</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 88: The Big Depression</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.088</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Businesses, Economy</mods:topic>
+  </mods:subject>
+</mods:mods>

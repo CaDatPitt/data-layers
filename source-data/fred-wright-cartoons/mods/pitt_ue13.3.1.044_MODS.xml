@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1972-01-10</mods:dateCreated>
+    <mods:dateOther type="sort">1972-01-10T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts the major strikes demanding an 8-hour day  that occurred throughout the country on May 1, 1886 at the prompting of the AFL.  The press labeled the strikes as the workings of communism. Caption 1:  By 1886 American workers were fighting desperately to win back some organization and some of the wages and conditions they had lost in the depression of the previous years. Major issue of the times was the 8-hour day. The Federation of Organized Trades and Labor Unions (later AFL) urged a general strike for May 1 to demand the shorter work day. The demand swept the country causing newspapers to complain that "communism was rampant." The slogan "Eight Hours Shall Constitute a Day's Labor" was denounced  Caption 2:  by employers as leading to "loafing, gambling, rioting, de-bauchery and drunkenness." Workers sang: We want to feel the sunshine; we want to smell the flowers; We're sure that God has willed it, and we mean to have eight hours. We're summoning our forces from shipyard, shop and mill; Eight hours for work, eight hours for rest, eight hours for what we will.  Caption 3:  May 1, 1886 found an estimated 350,000 workers in 11,562 places of business on strike for the 8-hour day. Chicago newspapers reported that every railroad was crippled, and most of the industries were paralyzed. The stockyards closed down and the packinghouse workers won the reduced day without a cut in pay as did tens of thousands of others. In Detroit, 11,000 workers paraded and more than double that number marched in New York City. UE News, Vol. XXXIV, Issue No. 1</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 44: 8-Hour Day Strikes</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.044</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Red Scare</mods:topic>
+  </mods:subject>
+</mods:mods>

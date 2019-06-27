@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1976-01-19</mods:dateCreated>
+    <mods:dateOther type="sort">1976-01-19T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon describes how corporations used legislature to try to rid of workers rights to strike. Caption 1:  As corporations pushed ahead to end wartime-enacted price controls, they began a battle on another political front. Shocked by their defeats on the picket lines in the first post-war strikes, big business moved to get legislation which would cripple collective bargaining and the right to strike. To soften up the public for such legislation, the corporations launched a nationwide drive picturing themselves as puny pigmies being oppressed by a power-mad labor giant.  Caption 2:  One bill proposed in Congress (by Sen. Case of New Jersey) provided for corporation suits against unions; repeal of the Norris-LaGuardia anti-injunction act; amendment of the Wagner Act which had established the right to organize and collective bargaining as government-protected rights. Coupled with this bill was a huge increase in funds for the House Committee on "Un-American Activities." Targets for this committee were the unions, and groups favoring independent political action.  Caption 3:  As the case bill went through Congress, 230,000 rail-road strikers were driven back to work through emergency legislation obtained by President Truman. The workers had sought an eight hour day and time-and-a-half for overtime. The President then proposed legislation drastically curbing the right to strike, legalized injunctions and empowered the selective service system to assume control over labor. The CIO called this "involuntary servitude" and urged vetoes of these bills. UE News, Vol. XXXVIII, Issue No. 2</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 137: Industry's Political Offensive</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.137</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>

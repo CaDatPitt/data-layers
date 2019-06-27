@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1974-10-21</mods:dateCreated>
+    <mods:dateOther type="sort">1974-10-21T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>The third cartoon in the Sit-Down In Auto Plants series. While being threatened with military intervention, the strikers remained in the plant and negotiations were still occurring between GM and the CIO. Caption 1:  From one end of the country to the other the General Motors sit-down strikers were being lambasted by the press, politicians and employers as revolutionists. GM Pres. Alfred P. Sloan said they were out to "Sovietize" the auto industry and then the whole country. Michigan Rep. Clare Hoffman called for shooting the strikers. Union members from all over the midwest converged on the Chevrolet and Fisher Body plants at Flint, Mich. to help protect those inside.  Caption 2:  Still the company refused to abide by the Wagner Act and negotiate that winter of 1937. When those inside the plants heard that Gov. Murphy was being pressured to use the troops to drive them out, they declared on the 10th day of the sit-in that they would fight. The governor, on the spot, called John L. Lewis, head of the CIO and the company officials to meet with him. But the corporation heads refused to budge from their "no collective bargaining" position.  Caption 3:  A month passed and still the plants were occupied by the strikers. On the 40th day the strikers wired the governor to tell him that the city of Flint, the sheriff, the judges-all belong to GM. They added that they waited to see whether the governor did, too, and warned him that they would not retreat; if they died resisting military assault he would be held responsible. In the middle of the night, on the 42nd-day, the governor rapped at the door of John L. Lewis. UE News, Vol. XXXVI, Issue No. 21</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 110: Sit-Down In Auto Plants III</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.110</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Strikes, Businesses</mods:topic>
+  </mods:subject>
+</mods:mods>

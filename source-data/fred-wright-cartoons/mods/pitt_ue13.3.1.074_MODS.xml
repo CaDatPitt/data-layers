@@ -1,0 +1,51 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-04-02</mods:dateCreated>
+    <mods:dateOther type="sort">1973-04-02T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="copyrighted" publication.status="unknown">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>United Electrical, Radio and Machine Workers of America</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13)</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Labor History Series (Series 13.3.1), Fred Wright Publication Plates (Subgroup 13.3), Fred Wright Papers (UE.13), United Electrical, Radio, and Machine Workers of America Collection, 1935-2006, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:abstract>This cartoon depicts how big businesses dominated the courts, paying off people to come down hard on labor to benefit their companies. Caption 1:  As a preparedness day parade wound through San Francisco on July 11, 1916 someone threw a bomb at the marchers. Nine were killed, 40 wounded. The authorities arrested two young labor leaders. Tom Mooney and Warren K. Billings. The former, an AFL moulder had recently led a street car workers' strike. Witnesses were to testify that the two had been seen throwing the bomb. They were found guilty and sentenced to die.  Caption 2:  All over the country workers demonstrated their protests as did others in Europe. Labor defense committees sprang up. A presidential commission headed by Felix Frankfurter, later a Supreme Court Justice, declared that the utilities had been out to "get" Mooney. An official report to the Secretary of Labor declared that the aim of the prosecution had been to help employers conduct "their various business enterprises upon the principle of the open shop."  Caption 3:  Star prosecution witness Oxnam was proven a perjurer. Years later another star witness confessed  perjury. And it was proven that the jury foreman had worked with the prosecution. The worldwide outcry resulted in commutation of sentence to life imprisonment. The two victims were freed in 1939 by New Deal Gov. Olsen after serving 22 years. A few months later Mooney addressed the Springfield, Mass. convention of the UE. UE News, Volume XXXV, Issue No. 7</mods:abstract>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:physicalDescription>
+    <mods:form>Comic strips</mods:form>
+    <mods:extent/>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>James Lerner</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">contributor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Publication plate</mods:genre>
+  <mods:titleInfo>
+    <mods:title>Labor History - 74: "Free Tom Mooney!"</mods:title>
+  </mods:titleInfo>
+  <mods:identifier type="pitt">ue13.3.1.074</mods:identifier>
+  <mods:name>
+    <mods:namePart>Fred Wright</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:subject authority="local">
+    <mods:topic>Politics and Legislation</mods:topic>
+  </mods:subject>
+</mods:mods>
