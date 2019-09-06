@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import glob
 import os
+import sys 
 from pymarc import MARCReader, record_to_xml
 import re
 import numpy as np
@@ -179,7 +180,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
     item_csv.write(item_df.to_csv())
     item_csv.close()
     print("success!")
-    return 
+    return
 
 def process_archive_source_data(collection_dir, item_dir):
 
@@ -209,3 +210,8 @@ def process_serial_source_data(location):
 
 def process_monograph_source_data(location):
     return
+
+if __name__ == '__main__':
+    if len(sys.argv) < 4:
+        sys.exit('when running as a script, you must provide three arguements: source collection name, collection type, and collection sub-type')
+    base_layer_maker(sys.argv[1], sys.argv[2], sys.argv[3])
