@@ -1,6 +1,11 @@
 from bs4 import BeautifulSoup
-import glob, os
+import glob
+import os
 from pymarc import MARCReader, record_to_xml
+import re
+import numpy as np
+import pandas as pd
+
 
 EAD_FIELD_TO_BS_SELECTOR_MAPPING = {
     'identifier': 'eadid',
@@ -38,9 +43,27 @@ EAD_FIELD_TO_BS_SELECTOR_MAPPING = {
 
 MODS_FIELD_TO_BS_SELECTOR_MAPPING = {
     'title':'mods\:mods > mods\:titleInfo > mods\:title',
-    'identifier': 'mods\:identifier[type=\"pitt\"]', # needs fix; not currently matching
+    'identifier': 'mods\:identifier[type=\"pitt\"]',
+    'creator': 'mods\:name', # will need additional filtering
+    'date': 'mods\:originInfo > mods\:dateCreated',
+    'depositor': 'mods\:name', # will need additional filtering
+    'box': 'mods\:note[type=\"container\"]', # this will need additional parsing
+    'folder': 'mods\:note[type=\"container\"]', # this willneed additional parsing
+    'type_of_resource': 'mods\:typeOfResource',
+    'genre': 'mods\:genre',
 }
 
+def clean_field(field_key, field_data):
+    if field_key == 'box':
+        for i,field_string in enumerate(field_data):
+            m = re.search('Box (\d*),', field_string)
+            field_data[i] = m.group(0)
+        return field_data
+    elif field_key == 'folder':
+        for i,field_string in enumerate(field_data):
+            m = re.search('Folder (\d*)', field_string)
+            field_data[i] = m.group(0)
+        return field_data
 
 def get_fields_from_bs(bs_object, field_dict):
     """
@@ -57,7 +80,8 @@ def get_fields_from_bs(bs_object, field_dict):
         except:
             #respond if it errors or is empty
             field_data = ''
-        #parse field if needed ... with conditionals
+        # parse field if needed ... with conditionals
+        # field_data = clean_field(u, field_data)
         row[u] = field_data
     return row
 
@@ -90,6 +114,16 @@ def get_bs_from_xml(_dir, source_type):
 
     return bs_objects
 
+def create_data_frame_from_list(source_list):
+    # we assume that each list item is a dictionary of key/value pairs.
+    # create a dictionary of numpy Series objects; then pass this to pandas DataFrame constructor
+    # transpose data frame to get expected record-based orientation
+    d = {}
+    for i, row in enumerate(source_list):
+        d[i] = pd.Series(row)
+    return pd.DataFrame(d).T
+
+
 def base_layer_maker(location, collection_type, collection_subtype):
     """
     This function accepts three arguments and writes data to base-layers
@@ -107,13 +141,6 @@ def base_layer_maker(location, collection_type, collection_subtype):
     if collection_subtype not in ['digital', 'print']:
         raise Exception ("collection subtype '%s' not one of 'digital', 'print'." % (collection_subtype,))
 
-    #create subdirectory in base-layers for that location
-    newdir = "base-layers/" + location
-    try:
-        os.stat(newdir)
-    except:
-        os.mkdir(newdir)
-
     # route source data processing based on type
     result = {}
     if collection_type == 'archive':
@@ -123,30 +150,47 @@ def base_layer_maker(location, collection_type, collection_subtype):
         item_dir = "source-data/%s/mods/" % location
         if not os.path.exists(item_dir):
             raise Exception ("location %s not found!" % (item_dir,))
-        [collection_layer, item_layer] = process_archive_source_data(collection_dir, item_dir)
+        [coll_list, item_list] = process_archive_source_data(collection_dir, item_dir)
 
     elif collection_type == 'serial':
-        [collection_layer, item_layer] = process_archive_source_data(location)
+        [coll_list, item_list] = process_archive_source_data(location)
 
     elif collection_type == 'monograph':
-        [collection_layer, item_layer] = process_monograph_source_data(location)
+        [coll_list, item_list] = process_monograph_source_data(location)
 
     #convert output_rows to pandas dataframe and use to_csv()
     #write row to yml file
 
-    return [collection_layer, item_layer]
+    coll_df = create_data_frame_from_list(coll_list)
+    item_df = create_data_frame_from_list(item_list)
+
+    #create subdirectory in base-layers for that location
+    newdir = "base-layers/" + location
+    try:
+        os.stat(newdir)
+    except:
+        os.mkdir(newdir)
+
+    coll_csv = open(newdir + "/collection-base-layer.csv", 'w')
+    coll_csv.write(coll_df.to_csv())
+    coll_csv.close()
+
+    item_csv = open(newdir + "/item-base-layer.csv", 'w')
+    item_csv.write(item_df.to_csv())
+    item_csv.close()
+    print("success!")
+    return 
 
 def process_archive_source_data(collection_dir, item_dir):
 
     collection_data = get_bs_from_xml(collection_dir, 'ead')
-    collection_output_rows = {}
+    collection_output_rows = []
     for x in collection_data:
         row = get_fields_from_bs(x, EAD_FIELD_TO_BS_SELECTOR_MAPPING)
+        collection_record_dict = {}
         for key in row.keys():
-            try:
-                collection_output_rows[key].append(row[key])
-            except:
-                collection_output_rows[key] = row[key]
+            collection_record_dict[key] = (row[key])
+        collection_output_rows.append(collection_record_dict)
 
     item_data = get_bs_from_xml(item_dir, 'mods')
     item_output_rows = []
@@ -154,10 +198,7 @@ def process_archive_source_data(collection_dir, item_dir):
         row = get_fields_from_bs(x, MODS_FIELD_TO_BS_SELECTOR_MAPPING)
         item_record_dict = {}
         for key in row.keys():
-            try:
-                item_record_dict[key].append(row[key])
-            except:
-                item_record_dict[key] = [row[key],]
+            item_record_dict[key] = row[key]
         item_output_rows.append(item_record_dict)
 
     return collection_output_rows, item_output_rows
