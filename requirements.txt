@@ -1,3 +1,5 @@
+pandas==0.25.1
 pymarc==3.1.13
+numpy==1.17.1
 beautifulsoup4==4.8.0
 lxml==4.4.1
