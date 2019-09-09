@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import glob
 import os
-import sys 
+import sys
 from pymarc import MARCReader, record_to_xml
 import re
 import numpy as np
@@ -76,8 +76,15 @@ def get_fields_from_bs(bs_object, field_dict):
     row = {}
     for u in field_dict.keys():
         try:
-            field_data = bs_object.select(field_dict[u])
-            field_data = [e.text.strip() for e in field_data]
+            field_list = []
+            for e in bs_object.select(field_dict[u]):
+                s = e.text
+                s = s.replace("\n", " ")
+                s = s.replace("\t", " ")
+                " ".join(s.split())
+                field_list.append(s)
+            field_data = "; ".join(field_list)
+            #field_data = [e.text for e in bs_object.select(field_dict[u])]
         except:
             #respond if it errors or is empty
             field_data = ''
