@@ -6,65 +6,8 @@ from pymarc import MARCReader, record_to_xml
 import re
 import numpy as np
 import pandas as pd
+import data_layers_config
 
-
-EAD_FIELD_TO_BS_SELECTOR_MAPPING = {
-    'identifier': 'eadid',
-    'finding_aid_title':'titleproper',
-    'acquisition_number':'num',
-    'finding_aid_creator': 'author',
-    'repository':'repository > corpname',
-    'publisher': 'publisher',
-    'date_of_publication':'publicationstmt>date',
-    'date_of_creation': 'profiledesc > creation > date',
-    'collection_title': 'archdesc[\'level\'=\'collection\'] > did > unittitle',
-    # one or many
-    'extent': 'physdesc > extent',
-    'temporal_coverage': 'archdesc[\'level\'=\'collection\'] > did > unitdate',
-    # one or many, 1 child per
-    'collection_creator': 'origination[\'label\'=\'creator\'] > *',
-    'conditions_governing_use': 'userestrict > p',
-    # one or many, one p per
-    'related material': 'relatedmaterial > p',
-    # one or many
-    'collection_scope_and_content': 'archdesc > scopecontent > p',
-    # has em tags, one or many)
-    'biography_or_history': 'bioghist > p',
-    'preferred_citation': 'prefercite > p',
-    'subject_headings': 'controlaccess > *',
-    ### get c01 - c09, walk down series, subseries, and otherlevel
-    # get did> unitid , did> unittitle
-    # scopecontent > p (one or many)
-    # series_type is level attribute
-    #'series_titles':,
-    #series_numbers':,
-    #'series_types':,
-    #'series_scope_and_content':,
-}
-
-MODS_FIELD_TO_BS_SELECTOR_MAPPING = {
-    'title':'mods\:mods > mods\:titleInfo > mods\:title',
-    'identifier': 'mods\:identifier[type=\"pitt\"]',
-    'creator': 'mods\:name', # will need additional filtering
-    'date': 'mods\:originInfo > mods\:dateCreated',
-    'depositor': 'mods\:name', # will need additional filtering
-    'box': 'mods\:note[type=\"container\"]', # this will need additional parsing
-    'folder': 'mods\:note[type=\"container\"]', # this willneed additional parsing
-    'type_of_resource': 'mods\:typeOfResource',
-    'genre': 'mods\:genre',
-}
-
-def clean_field(field_key, field_data):
-    if field_key == 'box':
-        for i,field_string in enumerate(field_data):
-            m = re.search('Box (\d*),', field_string)
-            field_data[i] = m.group(0)
-        return field_data
-    elif field_key == 'folder':
-        for i,field_string in enumerate(field_data):
-            m = re.search('Folder (\d*)', field_string)
-            field_data[i] = m.group(0)
-        return field_data
 
 def get_fields_from_bs(bs_object, field_dict):
     """
@@ -194,7 +137,7 @@ def process_archive_source_data(collection_dir, item_dir):
     collection_data = get_bs_from_xml(collection_dir, 'ead')
     collection_output_rows = []
     for x in collection_data:
-        row = get_fields_from_bs(x, EAD_FIELD_TO_BS_SELECTOR_MAPPING)
+        row = get_fields_from_bs(x, data_layers_config.EAD_MAP)
         collection_record_dict = {}
         for key in row.keys():
             collection_record_dict[key] = (row[key])
@@ -203,7 +146,7 @@ def process_archive_source_data(collection_dir, item_dir):
     item_data = get_bs_from_xml(item_dir, 'mods')
     item_output_rows = []
     for x in item_data:
-        row = get_fields_from_bs(x, MODS_FIELD_TO_BS_SELECTOR_MAPPING)
+        row = get_fields_from_bs(x, data_layers_config.MODS_MAP)
         item_record_dict = {}
         for key in row.keys():
             item_record_dict[key] = row[key]
