@@ -31,11 +31,11 @@ MODS_MAP = {
     'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
     'creator': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'creator'}, 'root_param':'bs' }, 
     'date': {'bs_exp':'mods\:originInfo > mods\:dateCreated'},
-    'depositor': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'depositor'}, 'root_param':'bs'}, 
-    'box': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'box',} 'root_param':'text'},
+    'depositor': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'depositor'}, 'root_param':'bs' }, 
+    'box': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'box'}, 'root_param':'text'},
     'folder': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'folder'}, 'root_param':'text'}, 
-    'type_of_resource': {'bs_exp':'mods\:typeOfResource',},
-    'genre': {'bs_exp':'mods\:genre',},
+    'type_of_resource': {'bs_exp':'mods\:typeOfResource'},
+    'genre': {'bs_exp':'mods\:genre'}
 }
 # will need additional filtering, role=creator, what function to call
 # will need additional filtering, role-depositor, what function to call
