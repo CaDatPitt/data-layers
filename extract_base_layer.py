@@ -17,10 +17,27 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    for u in field_dict.keys():
+    for u in field_dict.keys():        
         try:
             field_list = []
-            for e in bs_object.select(field_dict[u]['bs_exp']):
+            try:
+                results = bs_object.select(field_dict[u]['bs_exp'])
+                if len(results) == 0:
+                    try:
+                        results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', '')) 
+                    except:
+                        pass
+            except:
+                pass
+            for e in results:
+                if u == 'creator' or u == 'depositor':
+                    
+                    this_mod = sys.modules[__name__]
+                    function = getattr(this_mod, field_dict[u]['helper_funct'])
+                    if field_dict[u]['root_param'] == 'bs':
+                        lead_arg = e
+                    e = function(lead_arg, **field_dict[u]['args'] )
+                      
                 s = e.text.replace("\n", " ").replace("\t", " ")
                 joined_s = " ".join(s.split())
                 field_list.append(joined_s)
@@ -29,20 +46,13 @@ def get_fields_from_bs(bs_object, field_dict):
         except:
             #respond if it errors or is empty
             field_data = ''
-        
-        # try to get field_dict[u]['helper_funct'], use root_param value for conditional, use getattr to retrieve
-        
-        try:
+        # try to get field_dict[u]['helper_funct'], use root_param value for conditional, use getattr to retrieve    
+        if u == 'box' or u == 'folder':
             this_mod = sys.modules[__name__]
             function = getattr(this_mod, field_dict[u]['helper_funct'])
-            if field_dict[u]['root_param'] == 'bs':
-                lead_arg = bs_object
-            elif field_dict[u]['root_param'] == 'text':
+            if field_dict[u]['root_param'] == 'text':
                 lead_arg = field_data
             field_data = function(lead_arg, **field_dict[u]['args'] )
-            
-        except:
-            pass
 
         row[u] = field_data
 
@@ -69,12 +79,15 @@ def get_bs_from_xml(_dir, source_type):
                 reader = MARCReader(fh)
                 for record in reader:
                     xml = record_to_xml(record).decode("utf-8")
+                    bs = BeautifulSoup(xml, "xml")
+                    bs_objects.append(bs)
         # if file type is mods or ead, we assume it's already xml
         if source_type == 'mods' or source_type == 'ead':
             with open(z, encoding="utf-8") as f:
                 xml = f.read()
-        bs = BeautifulSoup(xml, "lxml")
-        bs_objects.append(bs)
+
+            bs = BeautifulSoup(xml, "xml")
+            bs_objects.append(bs)
 
     return bs_objects
 
@@ -93,12 +106,20 @@ def get_name_by_type(bs_object, role):
     It parses the xml object and returns the string value if the role matches. 
     Otherwise it returns None
     """
-    if bs_object.find('mods\:roleTerm').text.lower().strip() == role.lower().strip():
-        names = bs_object.find_all('mods\:namePart')
-        name = "; ".join([y.text for y in names])
-        return name
-    else:
-        return ""
+    
+    # this has to be a find_all because sometimes the file has multiple roleTerm elements
+    # and the one we want is second, third, nth
+    role_term = bs_object.find_all('roleTerm')
+    for r in role_term:
+        if r.text.lower().strip() == role.lower().strip():
+            names = bs_object.find_all('namePart')
+            name = "; ".join([y.text for y in names])
+
+            #once we've found the right roleTerm, we need not search the rest
+            return name
+        else:
+            pass
+    return ""
 
 def parse_container(container_desc, container_type):
     """ 
@@ -186,6 +207,7 @@ def process_archive_source_data(collection_dir, item_dir):
         collection_output_rows.append(collection_record_dict)
 
     item_data = get_bs_from_xml(item_dir, 'mods')
+
     item_output_rows = []
     for x in item_data:
         row = get_fields_from_bs(x, data_layers_config.MODS_MAP)
