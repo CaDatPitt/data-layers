@@ -20,20 +20,31 @@ def get_fields_from_bs(bs_object, field_dict):
     for u in field_dict.keys():
         try:
             field_list = []
-            for e in bs_object.select(field_dict[u]):
-                s = e.text
-                s = s.replace("\n", " ")
-                s = s.replace("\t", " ")
-                " ".join(s.split())
-                field_list.append(s)
+            for e in bs_object.select(field_dict[u]['bs_exp']):
+                s = e.text.replace("\n", " ").replace("\t", " ")
+                joined_s = " ".join(s.split())
+                field_list.append(joined_s)
             field_data = "; ".join(field_list)
             #field_data = [e.text for e in bs_object.select(field_dict[u])]
         except:
             #respond if it errors or is empty
             field_data = ''
-        # parse field if needed ... with conditionals
-        # field_data = clean_field(u, field_data)
+        
+        # try to get field_dict[u]['helper_funct'], use root_param value for conditional, use getattr to retrieve
+        try:
+            function = getattr(field_dict[u]['helper_funct'])
+            if field_dict[u]['root_param'] == 'bs':
+                lead_arg = bs_object
+            elif field_dict[u]['root_param'] == 'text':
+                lead_arg = field_data
+            
+            field_data = funtion(lead_arg, field_dict[u]['args'] )
+        except:
+            pass
+
         row[u] = field_data
+
+
     return row
 
 def get_bs_from_xml(_dir, source_type):
@@ -74,6 +85,34 @@ def create_data_frame_from_list(source_list):
         d[i] = pd.Series(row)
     return pd.DataFrame(d).T
 
+def get_name_by_type(bs_object, role):
+    """
+    This function accepts a BeautifulSoup object and a role, which is a string. 
+    It parses the xml object and returns the string value if the role matches. 
+    Otherwise it returns None
+    """
+    if bs_object.find('mods\:roleTerm').text.lower().strip() == role.lower().strip():
+        names = bs_object.find_all('mods\:namePart')
+        name = "; ".join([y.text for y in names])
+        return name
+    else:
+        return ""
+
+def parse_container(container_desc, container_type):
+    """ 
+    We pass this a natural language container description, 
+    use the container_type (e.g. 'folder') as a regex needle, match text directly after, 
+    and return a substring based on the result
+    Example: Box 1, folder 1
+    """
+    base_needle = '\s?(\d+)\D?'
+    needle = container_type.lower()+base_needle
+    try:
+        matches = re.search(needle, container_desc.lower())
+        match = matches.group(0)
+    except: 
+        match = ""
+    return match
 
 def base_layer_maker(location, collection_type, collection_subtype):
     """
@@ -110,7 +149,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
         [coll_list, item_list] = process_monograph_source_data(location)
 
     #convert output_rows to pandas dataframe and use to_csv()
-    #write row to yml file
+    #write row to yml or md file
 
     coll_df = create_data_frame_from_list(coll_list)
     item_df = create_data_frame_from_list(item_list)

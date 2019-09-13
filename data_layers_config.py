@@ -23,25 +23,19 @@ EAD_MAP = {
     'biography_or_history': 'bioghist > p',
     'preferred_citation': 'prefercite > p',
     'subject_headings': 'controlaccess > *',
-    ### get c01 - c09, walk down series, subseries, and otherlevel
-    # get did> unitid , did> unittitle
-    # scopecontent > p (one or many)
-    # series_type is level attribute
-    #'series_titles':,
-    #series_numbers':,
-    #'series_types':,
-    #'series_scope_and_content':,
 }
 
 # mappings between base layer fields and BeautifulSoup selectors for MODS
 MODS_MAP = {
-    'title':'mods\:mods > mods\:titleInfo > mods\:title',
-    'identifier': 'mods\:identifier[type=\"pitt\"]',
-    'creator': 'mods\:name', # will need additional filtering
-    'date': 'mods\:originInfo > mods\:dateCreated',
-    'depositor': 'mods\:name', # will need additional filtering
-    'box': 'mods\:note[type=\"container\"]', # this will need additional parsing
-    'folder': 'mods\:note[type=\"container\"]', # this willneed additional parsing
-    'type_of_resource': 'mods\:typeOfResource',
-    'genre': 'mods\:genre',
+    'title':{'bs_exp':'mods\:mods > mods\:titleInfo > mods\:title'},
+    'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
+    'creator': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'creator'}, 'root_param':'bs' }, 
+    'date': {'bs_exp':'mods\:originInfo > mods\:dateCreated'},
+    'depositor': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'depositor'}, 'root_param':'bs'}, 
+    'box': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'box',} 'root_param':'text'},
+    'folder': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'folder'}, 'root_param':'text'}, 
+    'type_of_resource': {'bs_exp':'mods\:typeOfResource',},
+    'genre': {'bs_exp':'mods\:genre',},
 }
+# will need additional filtering, role=creator, what function to call
+# will need additional filtering, role-depositor, what function to call
