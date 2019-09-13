@@ -31,14 +31,16 @@ def get_fields_from_bs(bs_object, field_dict):
             field_data = ''
         
         # try to get field_dict[u]['helper_funct'], use root_param value for conditional, use getattr to retrieve
+        
         try:
-            function = getattr(field_dict[u]['helper_funct'])
+            this_mod = sys.modules[__name__]
+            function = getattr(this_mod, field_dict[u]['helper_funct'])
             if field_dict[u]['root_param'] == 'bs':
                 lead_arg = bs_object
             elif field_dict[u]['root_param'] == 'text':
                 lead_arg = field_data
+            field_data = function(lead_arg, **field_dict[u]['args'] )
             
-            field_data = funtion(lead_arg, field_dict[u]['args'] )
         except:
             pass
 
@@ -106,10 +108,11 @@ def parse_container(container_desc, container_type):
     Example: Box 1, folder 1
     """
     base_needle = '\s?(\d+)\D?'
+
     needle = container_type.lower()+base_needle
     try:
         matches = re.search(needle, container_desc.lower())
-        match = matches.group(0)
+        match = matches.group(1)
     except: 
         match = ""
     return match

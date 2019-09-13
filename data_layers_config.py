@@ -1,28 +1,28 @@
 # mappings between base layer fields and BeautifulSoup selectors for EAD
 EAD_MAP = {
-    'identifier': 'eadid',
-    'finding_aid_title':'titleproper',
-    'acquisition_number':'num',
-    'finding_aid_creator': 'author',
-    'repository':'repository > corpname',
-    'publisher': 'publisher',
-    'date_of_publication':'publicationstmt>date',
-    'date_of_creation': 'profiledesc > creation > date',
-    'collection_title': 'archdesc[\'level\'=\'collection\'] > did > unittitle',
+    'identifier': {'bs_exp':'eadid'},
+    'finding_aid_title':{'bs_exp':'titleproper'},
+    'acquisition_number':{'bs_exp':'num'},
+    'finding_aid_creator': {'bs_exp':'author'},
+    'repository':{'bs_exp':'repository > corpname'},
+    'publisher': {'bs_exp':'publisher'},
+    'date_of_publication':{'bs_exp':'publicationstmt>date'},
+    'date_of_creation': {'bs_exp':'profiledesc > creation > date'},
+    'collection_title': {'bs_exp':'archdesc[\'level\'=\'collection\'] > did > unittitle'},
     # one or many
-    'extent': 'physdesc > extent',
-    'temporal_coverage': 'archdesc[\'level\'=\'collection\'] > did > unitdate',
+    'extent': {'bs_exp':'physdesc > extent'},
+    'temporal_coverage': {'bs_exp':'archdesc[\'level\'=\'collection\'] > did > unitdate'},
     # one or many, 1 child per
-    'collection_creator': 'origination[\'label\'=\'creator\'] > *',
-    'conditions_governing_use': 'userestrict > p',
+    'collection_creator': {'bs_exp':'origination[\'label\'=\'creator\'] > *'},
+    'conditions_governing_use': {'bs_exp':'userestrict > p'},
     # one or many, one p per
-    'related material': 'relatedmaterial > p',
+    'related material': {'bs_exp':'relatedmaterial > p'},
     # one or many
-    'collection_scope_and_content': 'archdesc > scopecontent > p',
+    'collection_scope_and_content': {'bs_exp':'archdesc > scopecontent > p'},
     # has em tags, one or many)
-    'biography_or_history': 'bioghist > p',
-    'preferred_citation': 'prefercite > p',
-    'subject_headings': 'controlaccess > *',
+    'biography_or_history': {'bs_exp':'bioghist > p'},
+    'preferred_citation': {'bs_exp':'prefercite > p'},
+    'subject_headings': {'bs_exp':'controlaccess > *'},
 }
 
 # mappings between base layer fields and BeautifulSoup selectors for MODS
