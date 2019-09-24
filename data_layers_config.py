@@ -41,8 +41,10 @@ ARCHIVAL_ITEM_MODS_MAP = {
 }
 
 SERIAL_ITEM_MODS_MAP = {
-    'bib_id': {'bs_exp':'mods\:recordInfo > mods\:recordIdentifier'},
-    'alternative_title': {'bs_exp':'mods\:'},
+    'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
+    'publication_date': {'bs_exp':'mods\:originInfo > mods\:dateOther[type=\"sort\"]'},
+    'enumeration_chronology': {'bs_exp':'mods\:mods > mods\:titleInfo > mods\:partNumber'},'bib_id': {'bs_exp':'mods\:recordInfo > mods\:recordIdentifier'},
+    'alternative_title': {'bs_exp':'mods\:titleInfo[type=\"alternative\"] > mods\:title'},
     'author': {'bs_exp':'mods\:name'},
     'contributor': {'bs_exp':'mods\:name'},
     'publisher': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:publisher'},
@@ -59,9 +61,4 @@ SERIAL_ITEM_MODS_MAP = {
     'issn': {'bs_exp':'mods\:identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'mods\:identifier[type=\"lccn\"]'},
     'oclcn': {'bs_exp':'mods\:identifier[type=\"oclcn\"]'},
-    'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
-    'publication_date': {'bs_exp':'mods\:originInfo > mods\:dateOther[type=\"sort\"]'},
-    'enumeration_chronology': {'bs_exp':'mods\:mods > mods\:titleInfo > mods\:partNumber'},
 }
-# will need additional filtering, role=creator, what function to call
-# will need additional filtering, role-depositor, what function to call
