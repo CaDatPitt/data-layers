@@ -6,7 +6,7 @@ EAD_MAP = {
     'finding_aid_creator': {'bs_exp':'author'},
     'repository':{'bs_exp':'repository > corpname'},
     'publisher': {'bs_exp':'publisher'},
-    'date_of_publication':{'bs_exp':'publicationstmt>date'},
+    'date_of_publication':{'bs_exp':'publicationstmt > date'},
     'date_of_creation': {'bs_exp':'profiledesc > creation > date'},
     'collection_title': {'bs_exp':'archdesc[\'level\'=\'collection\'] > did > unittitle'},
     # one or many
@@ -41,24 +41,24 @@ ARCHIVAL_ITEM_MODS_MAP = {
 }
 
 SERIAL_ITEM_MODS_MAP = {
-    'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
-    'publication_date': {'bs_exp':'mods\:originInfo > mods\:dateOther[type=\"sort\"]'},
-    'enumeration_chronology': {'bs_exp':'mods\:mods > mods\:titleInfo > mods\:partNumber'},'bib_id': {'bs_exp':'mods\:recordInfo > mods\:recordIdentifier'},
-    'alternative_title': {'bs_exp':'mods\:titleInfo[type=\"alternative\"] > mods\:title'},
-    'author': {'bs_exp':'mods\:name'},
-    'contributor': {'bs_exp':'mods\:name'},
-    'publisher': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:publisher'},
-    'place_of_publication': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:place > mods\:placeTerm[type=\"text\"]'},
-    'start_date': {'bs_exp':'mods\:originInfo > mods\:dateCreated[point=\"start\"]'},
-    'frequency': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:frequency'},
-    'language': {'bs_exp':'mods\:relatedItem > mods\:language > mods\:languageTerm'},
-    'genre': {'bs_exp':'mods\:genre'},
-    'lc_subject_heading(s)': {'bs_exp':'mods\:subject'},
-    #'former_title': {'bs_exp':'mods\:'}, In MARCXML, not MODS
-    #'succeeding_title': {'bs_exp':'mods\:'}, In MARCXML, not MODS
-    #'library_has': {'bs_exp':'mods\:'}, Not sure where this is found?
-    'copyright': {'bs_exp':'mods\:accessCondition'},
-    'issn': {'bs_exp':'mods\:identifier[type=\"issn\"]'},
-    'lccn': {'bs_exp':'mods\:identifier[type=\"lccn\"]'},
-    'oclcn': {'bs_exp':'mods\:identifier[type=\"oclcn\"]'},
+    'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
+    'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
+    'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},'bib_id': {'bs_exp':'recordInfo > recordIdentifier'},
+    'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
+    'author': {'bs_exp':'name'},
+    'contributor': {'bs_exp':'name'},
+    'publisher': {'bs_exp':'relatedItem > originInfo > publisher'},
+    'place_of_publication': {'bs_exp':'relatedItem > originInfo > place > placeTerm[type=\"text\"]'},
+    'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'},
+    'frequency': {'bs_exp':'relatedItem > originInfo > frequency'},
+    'language': {'bs_exp':'relatedItem > language > languageTerm'},
+    'genre': {'bs_exp':'genre'},
+    'lc_subject_heading(s)': {'bs_exp':'subject'},
+    #'former_title': {'bs_exp':''}, In MARCXML, not MODS
+    #'succeeding_title': {'bs_exp':''}, In MARCXML, not MODS
+    #'library_has': {'bs_exp':''}, Not sure where this is found?
+    'copyright': {'bs_exp':'accessCondition'},
+    'issn': {'bs_exp':'identifier[type=\"issn\"]'},
+    'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
+    'oclcn': {'bs_exp':'identifier[type=\"oclcn\"]'},
 }

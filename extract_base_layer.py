@@ -23,18 +23,7 @@ def get_fields_from_bs(bs_object, field_dict):
 
         if u not in exceptions:
             field_list = []
-            try:
-                results = bs_object.select(field_dict[u]['bs_exp'])
-                if len(results) == 0:
-                    try:
-                        results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
-                    except:
-                        results = []
-            except:
-                try:
-                    results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
-                except:
-                    results = []
+            results = bs_object.select(field_dict[u]['bs_exp'])
             for e in results:   
                 s = e.text.replace("\n", " ").replace("\t", " ")
                 joined_s = " ".join(s.split())
@@ -45,11 +34,6 @@ def get_fields_from_bs(bs_object, field_dict):
 
         if u == 'box' or u == 'folder':
             results = bs_object.select(field_dict[u]['bs_exp'])
-            if len(results) == 0:
-                try:
-                    results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
-                except:
-                    results = []
             field_list = [parse_container(z.text, u) for z in results]
             field_data = "; ".join(field_list)
 
