@@ -13,6 +13,7 @@ EAD_MAP = {
     'extent': {'bs_exp':'physdesc > extent'},
     'temporal_coverage': {'bs_exp':'archdesc[\'level\'=\'collection\'] > did > unitdate'},
     # one or many, 1 child per
+    # abstract?
     'collection_creator': {'bs_exp':'origination[\'label\'=\'creator\'] > *'},
     'conditions_governing_use': {'bs_exp':'userestrict > p'},
     # one or many, one p per
@@ -29,13 +30,38 @@ EAD_MAP = {
 MODS_MAP = {
     'title':{'bs_exp':'mods\:mods > mods\:titleInfo > mods\:title'},
     'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
-    'creator': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'creator'}, 'root_param':'bs' }, 
+    'creator': {'bs_exp':'mods\:name'},
     'date': {'bs_exp':'mods\:originInfo > mods\:dateCreated'},
-    'depositor': {'bs_exp':'mods\:name', 'helper_funct': 'get_name_by_type', 'args':{'role':'depositor'}, 'root_param':'bs' }, 
-    'box': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'box'}, 'root_param':'text'},
-    'folder': {'bs_exp':'mods\:note[type=\"container\"]', 'helper_funct': 'parse_container', 'args':{'container_type':'folder'}, 'root_param':'text'}, 
+    'depositor': {'bs_exp':'mods\:name'},
+    'box': {'bs_exp':'mods\:note[type=\"container\"]'},
+    'folder': {'bs_exp':'mods\:note[type=\"container\"]'},
     'type_of_resource': {'bs_exp':'mods\:typeOfResource'},
     'genre': {'bs_exp':'mods\:genre'}
+}
+
+SERIAL_MODS_MAP = {
+    'bib_id': {'bs_exp':'mods\:recordInfo > mods\:recordIdentifier'},
+    'alternative_title': {'bs_exp':'mods\:'},
+    'author': {'bs_exp':'mods\:'},
+    'contributor': {'bs_exp':'mods\:'},
+    'publisher': {'bs_exp':'mods\:'},
+    'place_of_publication': {'bs_exp':'mods\:'},
+    'start_date': {'bs_exp':'mods\:'},
+    'frequency': {'bs_exp':'mods\:'},
+    'language': {'bs_exp':'mods\:'},
+    'genre': {'bs_exp':'mods\:genre'},
+    'lc_subject_heading(s)': {'bs_exp':'mods\:'},
+    'former_title': {'bs_exp':'mods\:'},
+    'succeeding_title': {'bs_exp':'mods\:'},
+    'number_of_publications': {'bs_exp':'mods\:'},
+    'library_has': {'bs_exp':'mods\:'},
+    'copyright': {'bs_exp':'mods\:'},
+    'issn': {'bs_exp':'mods\:identifier[type=\"issn\"]'},
+    'lccn': {'bs_exp':'mods\:identifier[type=\"lccn\"]'},
+    'oclcn': {'bs_exp':'mods\:'},
+    'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
+    'publication_date': {'bs_exp':'mods\:originInfo > mods\:dateOther[type=\"sort\"]'},
+    'enumeration_chronology': {'bs_exp':'mods\:mods > mods\:titleInfo > mods\:partNumber'},
 }
 # will need additional filtering, role=creator, what function to call
 # will need additional filtering, role-depositor, what function to call
