@@ -29,15 +29,15 @@ EAD_MAP = {
 # mappings between base layer fields and BeautifulSoup selectors for MODS
 
 ARCHIVAL_ITEM_MODS_MAP = {
-    'title':{'bs_exp':'mods\:mods > mods\:titleInfo > mods\:title'},
-    'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
-    'creator': {'bs_exp':'mods\:name'},
-    'date': {'bs_exp':'mods\:originInfo > mods\:dateCreated'},
-    'depositor': {'bs_exp':'mods\:name'},
-    'box': {'bs_exp':'mods\:note[type=\"container\"]'},
-    'folder': {'bs_exp':'mods\:note[type=\"container\"]'},
-    'type_of_resource': {'bs_exp':'mods\:typeOfResource'},
-    'genre': {'bs_exp':'mods\:genre'}
+    'title':{'bs_exp':'mods > titleInfo > title'},
+    'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
+    'creator': {'bs_exp':'name'},
+    'date': {'bs_exp':'originInfo > dateCreated'},
+    'depositor': {'bs_exp':'name'},
+    'box': {'bs_exp':'note[type=\"container\"]'},
+    'folder': {'bs_exp':'note[type=\"container\"]'},
+    'type_of_resource': {'bs_exp':'typeOfResource'},
+    'genre': {'bs_exp':'genre'}
 }
 
 SERIAL_ITEM_MODS_MAP = {
