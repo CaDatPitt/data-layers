@@ -160,7 +160,11 @@ def base_layer_maker(location, collection_type, collection_subtype):
         [coll_list, item_list] = process_archive_source_data(collection_dir, item_dir)
 
     elif collection_type == 'serial':
-        [coll_list, item_list] = process_archive_source_data(location)
+        item_dir = "source-data/%s/mods/" % location
+        if not os.path.exists(item_dir):
+            raise Exception ("location %s not found!" % (item_dir,))
+
+        [coll_list, item_list] = process_serial_source_data(item_dir)
 
     elif collection_type == 'monograph':
         [coll_list, item_list] = process_monograph_source_data(location)
@@ -213,7 +217,18 @@ def process_archive_source_data(collection_dir, item_dir):
 
 
 def process_serial_source_data(location):
-    return
+    collection_output_rows = []
+    item_data = get_bs_from_xml(location, 'mods')
+
+    item_output_rows = []
+    for x in item_data:
+        row = get_fields_from_bs(x, data_layers_config.SERIAL_MODS_MAP)
+        item_record_dict = {}
+        for key in row.keys():
+            item_record_dict[key] = row[key]
+        item_output_rows.append(item_record_dict)
+
+    return collection_output_rows, item_output_rows
 
 def process_monograph_source_data(location):
     return

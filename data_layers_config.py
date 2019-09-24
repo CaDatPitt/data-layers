@@ -27,7 +27,7 @@ EAD_MAP = {
 }
 
 # mappings between base layer fields and BeautifulSoup selectors for MODS
-MODS_MAP = {
+ARCHIVAL_MODS_MAP = {
     'title':{'bs_exp':'mods\:mods > mods\:titleInfo > mods\:title'},
     'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
     'creator': {'bs_exp':'mods\:name'},

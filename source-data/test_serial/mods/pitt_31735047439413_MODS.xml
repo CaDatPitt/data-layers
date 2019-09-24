@@ -1,0 +1,116 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Shooting star review</title>
+    <partNumber>vol. 3, no. 2</partNumber>
+  </titleInfo>
+  <titleInfo type="abbreviated" authority="">
+    <title>Shoot. star. rev</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Shooting star</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">periodical</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh, PA</placeTerm>
+    </place>
+    <publisher>Sandra Gould Ford</publisher>
+    <issuance>continuing</issuance>
+    <frequency>Quarterly</frequency>
+    <dateIssued keyDate="yes" encoding="iso8601">1989-06</dateIssued>
+    <dateOther type="display">June, 1989</dateOther>
+    <dateOther type="sort">1989-06-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+  </physicalDescription>
+  <classification authority="ddc" edition="11">810</classification>
+  <identifier type="issn">0892-1407</identifier>
+  <identifier type="lccn">sn 87000149</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">NSD</recordContentSource>
+    <recordCreationDate encoding="marc">870121</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20121114190753.0</recordChangeDate>
+    <recordIdentifier>861413</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Shooting star review</title>
+    </titleInfo>
+    <titleInfo type="abbreviated" authority="">
+      <title>Shoot. star. rev</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Shooting star</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, PA</placeTerm>
+      </place>
+      <publisher>Sandra Gould Ford</publisher>
+      <issuance>continuing</issuance>
+      <frequency>Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="date/sequential designation">[Vol. 1, no. 1] Spring 1987-</note>
+    <note>Title from cover.</note>
+    <classification authority="ddc" edition="11">810</classification>
+    <identifier type="issn">0892-1407</identifier>
+    <identifier type="lccn">sn 87000149</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr2</descriptionStandard>
+      <recordContentSource authority="marcorg">NSD</recordContentSource>
+      <recordCreationDate encoding="marc">870121</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114190753.0</recordChangeDate>
+      <recordIdentifier>861413</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735047439413</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="copyrighted" publication.status="published">
+      <copyrightMD:rights.holder> 
+       <copyrightMD:name>Sandra Gould Ford</copyrightMD:name>
+        <copyrightMD:note>Permission granted by owner/publisher</copyrightMD:note>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="volume">
+      <number>3</number>
+      <caption>vol.</caption>
+    </detail>
+    <detail type="number">
+      <number>2</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>
