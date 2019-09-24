@@ -207,7 +207,7 @@ def process_archive_source_data(collection_dir, item_dir):
 
     item_output_rows = []
     for x in item_data:
-        row = get_fields_from_bs(x, data_layers_config.MODS_MAP)
+        row = get_fields_from_bs(x, data_layers_config.ARCHIVAL_ITEM_MODS_MAP)
         item_record_dict = {}
         for key in row.keys():
             item_record_dict[key] = row[key]
@@ -222,7 +222,7 @@ def process_serial_source_data(location):
 
     item_output_rows = []
     for x in item_data:
-        row = get_fields_from_bs(x, data_layers_config.SERIAL_MODS_MAP)
+        row = get_fields_from_bs(x, data_layers_config.SERIAL_ITEM_MODS_MAP)
         item_record_dict = {}
         for key in row.keys():
             item_record_dict[key] = row[key]
