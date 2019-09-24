@@ -17,46 +17,39 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    for u in field_dict.keys():        
-        try:
+    exceptions = ['creator', 'depositor', 'box'  'folder']
+
+    for u in field_dict.keys():
+        if u not in exceptions:
             field_list = []
             try:
                 results = bs_object.select(field_dict[u]['bs_exp'])
-                if len(results) == 0:
-                    try:
-                        results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', '')) 
-                    except:
-                        pass
             except:
-                pass
-            for e in results:
-                if u == 'creator' or u == 'depositor':
-                    
-                    this_mod = sys.modules[__name__]
-                    function = getattr(this_mod, field_dict[u]['helper_funct'])
-                    if field_dict[u]['root_param'] == 'bs':
-                        lead_arg = e
-                    e = function(lead_arg, **field_dict[u]['args'] )
-                      
+                try:
+                    results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
+                except:
+                    results = []
+            for e in results:   
                 s = e.text.replace("\n", " ").replace("\t", " ")
                 joined_s = " ".join(s.split())
                 field_list.append(joined_s)
             field_data = "; ".join(field_list)
-            #field_data = [e.text for e in bs_object.select(field_dict[u])]
-        except:
-            #respond if it errors or is empty
-            field_data = ''
-        # try to get field_dict[u]['helper_funct'], use root_param value for conditional, use getattr to retrieve    
+            
+        if u == 'creator' or u == 'depositor':            
+            field_data = get_name_by_type(bs_object, u)
+
         if u == 'box' or u == 'folder':
-            this_mod = sys.modules[__name__]
-            function = getattr(this_mod, field_dict[u]['helper_funct'])
-            if field_dict[u]['root_param'] == 'text':
-                lead_arg = field_data
-            field_data = function(lead_arg, **field_dict[u]['args'] )
+            results = bs_object.select(field_dict[u]['bs_exp'])
+            if len(results) == 0:
+                try:
+                    results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
+                except:
+                    results = []
+            field_list = [parse_container(z.text, u) for z in results]
+            field_data = "; ".join(field_list)
 
         row[u] = field_data
-
-
+        
     return row
 
 def get_bs_from_xml(_dir, source_type):
