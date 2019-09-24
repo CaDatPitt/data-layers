@@ -20,10 +20,16 @@ def get_fields_from_bs(bs_object, field_dict):
     exceptions = ['creator', 'depositor', 'box'  'folder']
 
     for u in field_dict.keys():
+
         if u not in exceptions:
             field_list = []
             try:
                 results = bs_object.select(field_dict[u]['bs_exp'])
+                if len(results) == 0:
+                    try:
+                        results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
+                    except:
+                        results = []
             except:
                 try:
                     results = bs_object.select(field_dict[u]['bs_exp'].replace('mods\:', ''))
@@ -34,7 +40,6 @@ def get_fields_from_bs(bs_object, field_dict):
                 joined_s = " ".join(s.split())
                 field_list.append(joined_s)
             field_data = "; ".join(field_list)
-            
         if u == 'creator' or u == 'depositor':            
             field_data = get_name_by_type(bs_object, u)
 
