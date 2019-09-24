@@ -27,7 +27,7 @@ EAD_MAP = {
 }
 
 # mappings between base layer fields and BeautifulSoup selectors for MODS
-MODS_MAP = {
+ARCHIVAL_ITEM_MODS_MAP = {
     'title':{'bs_exp':'mods\:mods > mods\:titleInfo > mods\:title'},
     'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
     'creator': {'bs_exp':'mods\:name'},
@@ -39,26 +39,25 @@ MODS_MAP = {
     'genre': {'bs_exp':'mods\:genre'}
 }
 
-SERIAL_MODS_MAP = {
+SERIAL_ITEM_MODS_MAP = {
     'bib_id': {'bs_exp':'mods\:recordInfo > mods\:recordIdentifier'},
     'alternative_title': {'bs_exp':'mods\:'},
-    'author': {'bs_exp':'mods\:'},
-    'contributor': {'bs_exp':'mods\:'},
-    'publisher': {'bs_exp':'mods\:'},
-    'place_of_publication': {'bs_exp':'mods\:'},
-    'start_date': {'bs_exp':'mods\:'},
-    'frequency': {'bs_exp':'mods\:'},
-    'language': {'bs_exp':'mods\:'},
+    'author': {'bs_exp':'mods\:name'},
+    'contributor': {'bs_exp':'mods\:name'},
+    'publisher': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:publisher'},
+    'place_of_publication': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:place > mods\:placeTerm[type=\"text\"]'},
+    'start_date': {'bs_exp':'mods\:originInfo > mods\:dateCreated[point=\"start\"]'},
+    'frequency': {'bs_exp':'mods\:relatedItem > mods\:originInfo > mods\:frequency'},
+    'language': {'bs_exp':'mods\:relatedItem > mods\:language > mods\:languageTerm'},
     'genre': {'bs_exp':'mods\:genre'},
-    'lc_subject_heading(s)': {'bs_exp':'mods\:'},
-    'former_title': {'bs_exp':'mods\:'},
-    'succeeding_title': {'bs_exp':'mods\:'},
-    'number_of_publications': {'bs_exp':'mods\:'},
-    'library_has': {'bs_exp':'mods\:'},
-    'copyright': {'bs_exp':'mods\:'},
+    'lc_subject_heading(s)': {'bs_exp':'mods\:subject'},
+    #'former_title': {'bs_exp':'mods\:'}, In MARCXML, not MODS
+    #'succeeding_title': {'bs_exp':'mods\:'}, In MARCXML, not MODS
+    #'library_has': {'bs_exp':'mods\:'}, Not sure where this is found?
+    'copyright': {'bs_exp':'mods\:accessCondition'},
     'issn': {'bs_exp':'mods\:identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'mods\:identifier[type=\"lccn\"]'},
-    'oclcn': {'bs_exp':'mods\:'},
+    'oclcn': {'bs_exp':'mods\:identifier[type=\"oclcn\"]'},
     'identifier': {'bs_exp':'mods\:identifier[type=\"pitt\"]'},
     'publication_date': {'bs_exp':'mods\:originInfo > mods\:dateOther[type=\"sort\"]'},
     'enumeration_chronology': {'bs_exp':'mods\:mods > mods\:titleInfo > mods\:partNumber'},
