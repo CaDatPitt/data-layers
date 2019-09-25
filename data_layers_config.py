@@ -50,6 +50,7 @@ SERIAL_ITEM_MODS_MAP = {
     'publisher': {'bs_exp':'relatedItem > originInfo > publisher'},
     'place_of_publication': {'bs_exp':'relatedItem > originInfo > place > placeTerm[type=\"text\"]'},
     'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'},
+    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'},
     'frequency': {'bs_exp':'relatedItem > originInfo > frequency'},
     'language': {'bs_exp':'relatedItem > language > languageTerm'},
     'genre': {'bs_exp':'genre'},
