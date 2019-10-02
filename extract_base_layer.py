@@ -17,7 +17,7 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    exceptions = ['creator', 'depositor', 'box'  'folder']
+    exceptions = ['creator', 'depositor', 'box'  'folder', 'copyright_status']
 
     for u in field_dict.keys():
 
@@ -31,6 +31,11 @@ def get_fields_from_bs(bs_object, field_dict):
             field_data = "; ".join(field_list)
         if u == 'creator' or u == 'depositor':            
             field_data = get_name_by_type(bs_object, u)
+
+        if u == 'copyright_status':
+            results = bs_object.select(field_dict[u]['bs_exp'])
+            field_data = results[0]['copyright.status']
+
 
         if u == 'box' or u == 'folder':
             results = bs_object.select(field_dict[u]['bs_exp'])

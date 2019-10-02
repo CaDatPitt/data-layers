@@ -46,7 +46,7 @@ SERIAL_ITEM_MODS_MAP = {
     'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},'bib_id': {'bs_exp':'recordInfo > recordIdentifier'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
     'author': {'bs_exp':'name'},
-    'contributor': {'bs_exp':'name'},
+    'depositor': {'bs_exp':'name'},
     'publisher': {'bs_exp':'relatedItem > originInfo > publisher'},
     'place_of_publication': {'bs_exp':'relatedItem > originInfo > place > placeTerm[type=\"text\"]'},
     'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'},
@@ -57,7 +57,9 @@ SERIAL_ITEM_MODS_MAP = {
     #'former_title': {'bs_exp':''}, In MARCXML, not MODS
     #'succeeding_title': {'bs_exp':''}, In MARCXML, not MODS
     #'library_has': {'bs_exp':''}, Not sure where this is found?
-    'copyright': {'bs_exp':'accessCondition'},
+    'copyright_status': {'bs_exp':'accessCondition > copyright'}, #copyright.status attribute
+    'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
+    'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},
     'issn': {'bs_exp':'identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
     'oclcn': {'bs_exp':'identifier[type=\"oclcn\"]'},
