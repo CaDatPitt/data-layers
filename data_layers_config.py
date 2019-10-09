@@ -29,8 +29,8 @@ EAD_MAP = {
 # mappings between base layer fields and BeautifulSoup selectors for MODS
 
 ARCHIVAL_ITEM_MODS_MAP = {
-    'title':{'bs_exp':'mods > titleInfo > title'},
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
+    'title':{'bs_exp':'mods > titleInfo > title'},
     'creator': {'bs_exp':'name'},
     'date': {'bs_exp':'originInfo > dateCreated'},
     'depositor': {'bs_exp':'name'},
@@ -42,16 +42,21 @@ ARCHIVAL_ITEM_MODS_MAP = {
 
 SERIAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
-    'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
-    'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},'bib_id': {'bs_exp':'recordInfo > recordIdentifier'},
+    'title': {'bs_exp':'titleInfo > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
     'author': {'bs_exp':'name'},
     'depositor': {'bs_exp':'name'},
+    'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},'bib_id': {'bs_exp':'recordInfo > recordIdentifier'},
+    'associated_names':{'bs_exp':'name'},
     'publisher': {'bs_exp':'relatedItem > originInfo > publisher'},
     'place_of_publication': {'bs_exp':'relatedItem > originInfo > place > placeTerm[type=\"text\"]'},
+    'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
     'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'},
+    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'},
     'frequency': {'bs_exp':'relatedItem > originInfo > frequency'},
     'language': {'bs_exp':'relatedItem > language > languageTerm'},
+    'format': {'bs_exp':'physicalDescription > form'},
+    'extent': {'bs_exp':'physicalDescription > extent'},
     'genre': {'bs_exp':'genre'},
     'lc_subject_heading(s)': {'bs_exp':'subject'},
     #'former_title': {'bs_exp':''}, In MARCXML, not MODS
@@ -60,7 +65,13 @@ SERIAL_ITEM_MODS_MAP = {
     'copyright_status': {'bs_exp':'accessCondition > copyright'}, #copyright.status attribute
     'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
     'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},
+    'copyright': {'bs_exp':'accessCondition'},#need to separate values/texts or include seperate elements under copyright
+    'bibid': {'bs_exp':'recordInfo > recordIdentifier'},
     'issn': {'bs_exp':'identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
     'oclcn': {'bs_exp':'identifier[type=\"oclcn\"]'},
+    #'former_title': {'bs_exp':''}, In MARCXML, not MODS
+    #'succeeding_title': {'bs_exp':''}, In MARCXML, not MODS
+    #'library_has': {'bs_exp':''}, Not sure where this is found?
+    'depositor': {'bs_exp':'name'},
 }
