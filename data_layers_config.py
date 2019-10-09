@@ -44,10 +44,9 @@ SERIAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
     'title': {'bs_exp':'titleInfo > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
-    'author': {'bs_exp':'name'},
     'depositor': {'bs_exp':'name'},
     'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},'bib_id': {'bs_exp':'recordInfo > recordIdentifier'},
-    'associated_names':{'bs_exp':'name'},
+    #'associated_names':{'bs_exp':'name'},
     'publisher': {'bs_exp':'relatedItem > originInfo > publisher'},
     'place_of_publication': {'bs_exp':'relatedItem > originInfo > place > placeTerm[type=\"text\"]'},
     'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
@@ -65,7 +64,6 @@ SERIAL_ITEM_MODS_MAP = {
     'copyright_status': {'bs_exp':'accessCondition > copyright'}, #copyright.status attribute
     'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
     'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},
-    'copyright': {'bs_exp':'accessCondition'},#need to separate values/texts or include seperate elements under copyright
     'bibid': {'bs_exp':'recordInfo > recordIdentifier'},
     'issn': {'bs_exp':'identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
