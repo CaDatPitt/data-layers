@@ -34,8 +34,10 @@ def get_fields_from_bs(bs_object, field_dict):
 
         if u == 'copyright_status':
             results = bs_object.select(field_dict[u]['bs_exp'])
-            field_data = results[0]['copyright.status']
-
+            try:
+                field_data = results[0]['copyright.status']
+            except:
+                field_data = ''
 
         if u == 'box' or u == 'folder':
             results = bs_object.select(field_dict[u]['bs_exp'])

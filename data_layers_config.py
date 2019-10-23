@@ -8,13 +8,13 @@ EAD_MAP = {
     'publisher': {'bs_exp':'publisher'},
     'date_of_publication':{'bs_exp':'publicationstmt > date'},
     'date_of_creation': {'bs_exp':'profiledesc > creation > date'},
-    'collection_title': {'bs_exp':'archdesc[\'level\'=\'collection\'] > did > unittitle'},
+    'collection_title': {'bs_exp':'archdesc[level=\'collection\'] > did > unittitle'},
     # one or many
     'extent': {'bs_exp':'physdesc > extent'},
-    'temporal_coverage': {'bs_exp':'archdesc[\'level\'=\'collection\'] > did > unitdate'},
+    'temporal_coverage': {'bs_exp':'archdesc[level=\'collection\'] > did > unitdate'},
     # one or many, 1 child per
     # abstract?
-    'collection_creator': {'bs_exp':'origination[\'label\'=\'creator\'] > *'},
+    'collection_creator': {'bs_exp':'origination[label=\'creator\'] > *'},
     'conditions_governing_use': {'bs_exp':'userestrict > p'},
     # one or many, one p per
     'related material': {'bs_exp':'relatedmaterial > p'},
