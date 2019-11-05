@@ -100,14 +100,33 @@ def get_name_by_type(bs_object, role):
     # and the one we want is second, third, nth
     role_term = bs_object.find_all('roleTerm')
     for r in role_term:
-        if r.text.lower().strip() == role.lower().strip():
-            names = bs_object.find_all('namePart')
-            name = "; ".join([y.text for y in names])
+        if role == 'depositor':
+            if r.text.lower().strip() == role.lower().strip():
+                
+                names = bs_object.find_all('namePart')
+                name = "; ".join([y.text for y in names])
+                #once we've found the right roleTerm, we need not search the rest
+                return name
+            else:
+                pass
+        name = ""
+        if role == 'creator':
+            if r.text.lower().strip() != 'depositor':
+                names = bs_object.find_all('namePart')
+                names_filtered = []
+                for i in names:
+                    try:
+                        if i['type'] == 'date':
+                            pass
+                        else:
+                            names_filtered.append(i)
+                    except:
+                        names_filtered.append(i)
+                
+                name = "; ".join([y.text for y in names_filtered])
+                #once we've found the right roleTerm, we need not search the rest
+                return name
 
-            #once we've found the right roleTerm, we need not search the rest
-            return name
-        else:
-            pass
     return ""
 
 def parse_container(container_desc, container_type):

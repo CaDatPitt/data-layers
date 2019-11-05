@@ -31,9 +31,10 @@ EAD_MAP = {
 ARCHIVAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
     'title':{'bs_exp':'mods > titleInfo > title'},
-    'creator': {'bs_exp':'name'},
-    'date': {'bs_exp':'originInfo > dateCreated'},
-    'depositor': {'bs_exp':'name'},
+    'creator': {'bs_exp':'mods > name'},
+    'date_created': {'bs_exp':'mods > originInfo > dateCreated'},
+    'date_issued': {'bs_exp':'mods > originInfo > dateIssued'}, 
+    'depositor': {'bs_exp':'mods > name'},
     'box': {'bs_exp':'note[type=\"container\"]'},
     'folder': {'bs_exp':'note[type=\"container\"]'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
