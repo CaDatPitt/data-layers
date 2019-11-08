@@ -38,7 +38,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'box': {'bs_exp':'note[type=\"container\"]'},
     'folder': {'bs_exp':'note[type=\"container\"]'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
-    'genre': {'bs_exp':'genre'}
+    'genre': {'bs_exp':':not(relatedItem) > genre'}
 }
 
 SERIAL_ITEM_MODS_MAP = {
