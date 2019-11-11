@@ -115,39 +115,22 @@ def get_name_by_type(bs_object, role):
     
     # this has to be a find_all because sometimes the file has multiple roleTerm elements
     # and the one we want is second, third, nth
-    role_term = bs_object.find_all('roleTerm')
-    for r in role_term:
-        if role == 'depositor':
-            if r.text.lower().strip() == role.lower().strip():
+    names = bs_object.find_all('name')
+    names_all = []
+    
+    for n in names:
+        role_match = n.find('role')
+        namePart = n.find('namePart') 
+        if role_match:
+            if role_match.text.lower().strip() == role:
+                names_all.append(namePart.text)
                 
-                names = bs_object.find_all('namePart')
-                bs_list = [y.text for y in names]
-                field_list = omit_repeats(bs_list)
-                name = "; ".join(field_list)
-                #once we've found the right roleTerm, we need not search the rest
-                return name
-            else:
-                pass
+    field_list = omit_repeats(names_all)
+    if len(field_list) > 0:
+        name = "; ".join(field_list)
+    else:
         name = ""
-        if role == 'creator':
-            if r.text.lower().strip() != 'depositor':
-                names = bs_object.find_all('namePart')
-                names_filtered = []
-                for i in names:
-                    try:
-                        if i['type'] == 'date':
-                            pass
-                        else:
-                            names_filtered.append(i)
-                    except:
-                        names_filtered.append(i)
-                bs_list = [y.text for y in names_filtered]
-                field_list = omit_repeats(bs_list)
-                name = "; ".join(field_list)
-                #once we've found the right roleTerm, we need not search the rest
-                return name
-
-    return ""
+    return name
 
 def parse_container(container_desc, container_type):
     """ 
