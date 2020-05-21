@@ -74,3 +74,24 @@ SERIAL_ITEM_MODS_MAP = {
     #'library_has': {'bs_exp':''}, Not sure where this is found?
     'depositor': {'bs_exp':'name'},
 }
+
+MONOGRAPH_ITEM_MODS_MAP = {
+    'identifier': {'bs_exp':'recordIdentifier'},
+    'title': {'bs_exp':'titleInfo > title'},
+    'creator': {'bs_exp':'name'},
+    'publisher': {'bs_exp':'publisher'},
+    'place_of_publication': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"]'},
+    'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
+    'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'},
+    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'},
+    'copyright_status': {'bs_exp':'accessCondition > copyright'}, #copyright.status attribute
+    'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
+    'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},    
+    'lc_subject_heading(s)': {'bs_exp':'subject'},
+    'type_of_resource': {'bs_exp':'typeOfResource'},
+    'genre': {'bs_exp':':not(relatedItem) > genre'}
+
+}
+
+# Feminist underground press records have no dateOther, only dateIssued, point=start and point=end  
+# No creator either

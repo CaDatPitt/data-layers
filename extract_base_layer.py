@@ -185,7 +185,12 @@ def base_layer_maker(location, collection_type, collection_subtype):
         [coll_list, item_list] = process_serial_source_data(item_dir)
 
     elif collection_type == 'monograph':
-        [coll_list, item_list] = process_monograph_source_data(location)
+        item_dir = "source-data/%s/marc_mods/" % location
+
+        if not os.path.exists(item_dir):
+            raise Exception ("location %s not found!" % (item_dir,))
+
+        [coll_list, item_list] = process_monograph_source_data(item_dir)
 
     #convert output_rows to pandas dataframe and use to_csv()
     #write row to yml or md file
@@ -249,9 +254,22 @@ def process_serial_source_data(location):
     return collection_output_rows, item_output_rows
 
 def process_monograph_source_data(location):
-    return
+    collection_output_rows = []
+    item_data = get_bs_from_xml(location, 'mods')
+
+    item_output_rows = []
+
+    for f in item_data:
+        for x in f.find_all('mods'):
+            row = get_fields_from_bs(x, data_layers_config.MONOGRAPH_ITEM_MODS_MAP)
+            item_record_dict = {}
+            for key in row.keys():
+                item_record_dict[key] = row[key]
+            item_output_rows.append(item_record_dict)
+
+    return collection_output_rows, item_output_rows
 
 if __name__ == '__main__':
     if len(sys.argv) < 4:
-        sys.exit('when running as a script, you must provide three arguements: source collection name, collection type, and collection sub-type')
+        sys.exit('when running as a script, you must provide three arguments: source collection name, collection type, and collection sub-type')
     base_layer_maker(sys.argv[1], sys.argv[2], sys.argv[3])
