@@ -33,7 +33,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'title':{'bs_exp':'mods > titleInfo > title'},
     'creator': {'bs_exp':'mods > name'},
     'date_created': {'bs_exp':'mods > originInfo > dateCreated'},
-    'date_issued': {'bs_exp':'mods > originInfo > dateIssued'}, 
+    'date_issued': {'bs_exp':'mods > originInfo > dateIssued'},
     'depositor': {'bs_exp':'mods > name'},
     'box': {'bs_exp':'note[type=\"container\"]'},
     'folder': {'bs_exp':'note[type=\"container\"]'},
@@ -76,22 +76,41 @@ SERIAL_ITEM_MODS_MAP = {
 }
 
 MONOGRAPH_ITEM_MODS_MAP = {
-    'identifier': {'bs_exp':'recordIdentifier'},
-    'title': {'bs_exp':'titleInfo > title'},
-    'creator': {'bs_exp':'name'},
-    'publisher': {'bs_exp':'publisher'},
-    'place_of_publication': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"]'},
-    'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
-    'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'},
-    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'},
-    'copyright_status': {'bs_exp':'accessCondition > copyright'}, #copyright.status attribute
-    'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
-    'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},    
-    'lc_subject_heading(s)': {'bs_exp':'subject'},
-    'type_of_resource': {'bs_exp':'typeOfResource'},
-    'genre': {'bs_exp':':not(relatedItem) > genre'}
-
+    'identifier': {'bs_exp':'recordidentifier'},
+    'title': {'bs_exp':'titleinfo > title'},
+    'uniform title': {'bs_exp':'titleinfo[@type=\"uniform\"] > title'},
+    'alternative title': {'bs_exp':'titleinfo[@type=\"alternative\"] > title'},
+    'creator': {'bs_exp':'name > namepart'},
+    'contributor': {'bs_exp':'name > namepart'},
+    'publication place': {'bs_exp':'origininfo > place > placeterm[@type=\"text\"] '},
+    'publisher': {'bs_exp':'origininfo[@eventtype=\"publication\"] > publisher'},
+    'publication date': {'bs_exp':'origininfo > dateissued'},
+    'date created': {'bs_exp':'origininfo'},
+    'copyright date': {'bs_exp':'origininfo > copyrightdate'},
+    'edition': {'bs_exp':'origininfo > edition'},
+    'issuance': {'bs_exp':'origininfo > issuance'},
+    'frequency': {'bs_exp':'origininfo > frequency'},
+    'language': {'bs_exp':'language > languageterm'},
+    'type of resource': {'bs_exp':'typeofresource'},
+    'form': {'bs_exp':'physicaldescription > form'},
+    'extent': {'bs_exp':'physicaldescription > extent'},
+    'genre': {'bs_exp':'genre'},
+    'subject': {'bs_exp':'subject'},
+    'target audience': {'bs_exp':'targetaudience'},
+    'abstract': {'bs_exp':'abstract'},
+    'note': {'bs_exp':'note'},
+    'related item': {'bs_exp':'relateditem'},
+    'host': {'bs_exp':'relateditem[@type=\"host\"]'},
+    'series': {'bs_exp':'relateditem[@type=\"series\"]'},
+    'preceded by': {'bs_exp':'relateditem[@type=\"preceding\"]''},
+    'succeeded by': {'bs_exp':'relateditem[@type=\"succeeding\"]'},
+    'referenced by': {'bs_exp':'relateditem[@type=\"isreferencedby\"]'},
+    'url': {'bs_exp':'location > url'},
+    'bibid': {'bs_exp':'recordidentifier'},
+    'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
+    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
+    'record change date': {'bs_exp':'recordinfo > recordchangedate'},
 }
 
-# Feminist underground press records have no dateOther, only dateIssued, point=start and point=end  
+# Feminist underground press records have no dateOther, only dateIssued, point=start and point=end
 # No creator either
