@@ -17,29 +17,53 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    exceptions = ['creator', 'depositor', 'box'  'folder']
+    exceptions = ['creator', 'depositor', 'box'  'folder', 'copyright_status', 'genre', 'type_of_resource']
 
     for u in field_dict.keys():
 
         if u not in exceptions:
-            field_list = []
+            bs_list = []
             results = bs_object.select(field_dict[u]['bs_exp'])
             for e in results:   
                 s = e.text.replace("\n", " ").replace("\t", " ")
                 joined_s = " ".join(s.split())
-                field_list.append(joined_s)
+                bs_list.append(joined_s)
+            field_list = omit_repeats(bs_list)
             field_data = "; ".join(field_list)
+
         if u == 'creator' or u == 'depositor':            
             field_data = get_name_by_type(bs_object, u)
 
+        if u == 'copyright_status':
+            results = bs_object.select(field_dict[u]['bs_exp'])
+            try:
+                field_data = results[0]['copyright.status']
+            except:
+                field_data = ''
+
         if u == 'box' or u == 'folder':
             results = bs_object.select(field_dict[u]['bs_exp'])
-            field_list = [parse_container(z.text, u) for z in results]
+            bs_list = [parse_container(z.text, u) for z in results]
+            field_list = omit_repeats(bs_list)
+            field_data = "; ".join(field_list)
+        
+        if u == 'genre' or u == 'type_of_resource':
+            results = bs_object.select(field_dict[u]['bs_exp'])
+            bs_list = [u.text for u in results]
+            field_list = omit_repeats(bs_list)
             field_data = "; ".join(field_list)
 
         row[u] = field_data
         
     return row
+
+def omit_repeats(text_list):
+    try:
+        lowered = [u.lower().strip() for u in text_list]
+        lowered_no_repeats = list(set(lowered))
+        return lowered_no_repeats
+    except:
+        return text_list
 
 def get_bs_from_xml(_dir, source_type):
     """
@@ -91,17 +115,22 @@ def get_name_by_type(bs_object, role):
     
     # this has to be a find_all because sometimes the file has multiple roleTerm elements
     # and the one we want is second, third, nth
-    role_term = bs_object.find_all('roleTerm')
-    for r in role_term:
-        if r.text.lower().strip() == role.lower().strip():
-            names = bs_object.find_all('namePart')
-            name = "; ".join([y.text for y in names])
-
-            #once we've found the right roleTerm, we need not search the rest
-            return name
-        else:
-            pass
-    return ""
+    names = bs_object.find_all('name')
+    names_all = []
+    
+    for n in names:
+        role_match = n.find('role')
+        namePart = n.find('namePart') 
+        if role_match:
+            if role_match.text.lower().strip() == role:
+                names_all.append(namePart.text)
+                
+    field_list = omit_repeats(names_all)
+    if len(field_list) > 0:
+        name = "; ".join(field_list)
+    else:
+        name = ""
+    return name
 
 def parse_container(container_desc, container_type):
     """ 
@@ -156,7 +185,12 @@ def base_layer_maker(location, collection_type, collection_subtype):
         [coll_list, item_list] = process_serial_source_data(item_dir)
 
     elif collection_type == 'monograph':
-        [coll_list, item_list] = process_monograph_source_data(location)
+        item_dir = "source-data/%s/marc_mods/" % location
+
+        if not os.path.exists(item_dir):
+            raise Exception ("location %s not found!" % (item_dir,))
+
+        [coll_list, item_list] = process_monograph_source_data(item_dir)
 
     #convert output_rows to pandas dataframe and use to_csv()
     #write row to yml or md file
@@ -220,9 +254,22 @@ def process_serial_source_data(location):
     return collection_output_rows, item_output_rows
 
 def process_monograph_source_data(location):
-    return
+    collection_output_rows = []
+    item_data = get_bs_from_xml(location, 'mods')
+
+    item_output_rows = []
+
+    for f in item_data:
+        for x in f.find_all('mods'):
+            row = get_fields_from_bs(x, data_layers_config.MONOGRAPH_ITEM_MODS_MAP)
+            item_record_dict = {}
+            for key in row.keys():
+                item_record_dict[key] = row[key]
+            item_output_rows.append(item_record_dict)
+
+    return collection_output_rows, item_output_rows
 
 if __name__ == '__main__':
     if len(sys.argv) < 4:
-        sys.exit('when running as a script, you must provide three arguements: source collection name, collection type, and collection sub-type')
+        sys.exit('when running as a script, you must provide three arguments: source collection name, collection type, and collection sub-type')
     base_layer_maker(sys.argv[1], sys.argv[2], sys.argv[3])

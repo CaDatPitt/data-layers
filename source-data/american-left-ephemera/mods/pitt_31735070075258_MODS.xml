@@ -1,0 +1,182 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Political action</title>
+    <partNumber>no. 104</partNumber>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Political action (Milwaukee, Wis.)</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">newspaper</genre>
+  <genre authority="lcgft">Newspapers.</genre>
+  <genre authority="fast">Newspapers</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">wiu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Milwaukee, Wis</placeTerm>
+    </place>
+    <publisher>Political Action Publishers</publisher>
+    <issuance>continuing</issuance>
+    <frequency>Weekly</frequency>
+    <dateIssued keyDate="yes" encoding="iso8601">1912-07-13</dateIssued>
+    <dateOther type="display">July 13, 1912</dateOther>
+    <dateOther type="sort">1912-07-13T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>volumes ; 33 cm</extent>
+  </physicalDescription>
+  <subject>
+    <geographicCode authority="marcgac">n-us-wi</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Socialism</topic>
+    <genre>Newspapers</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Labor movement</topic>
+    <genre>Newspapers</genre>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Milwaukee (Wis.)</geographic>
+    <genre>Newspapers</genre>
+  </subject>
+  <subject authority="fast">
+    <topic>Labor movement</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Socialism</topic>
+  </subject>
+  <subject authority="fast">
+    <geographic>Wisconsin</geographic>
+  </subject>
+  <subject authority="fast">
+    <geographic>Wisconsin</geographic>
+    <geographic>Milwaukee</geographic>
+  </subject>
+  <subject>
+    <hierarchicalGeographic>
+      <country>United States</country>
+      <state>Wisconsin</state>
+      <city>Milwaukee</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">HX1 .P65</classification>
+  <recordInfo>
+    <recordContentSource authority="marcorg">YUS</recordContentSource>
+    <recordCreationDate encoding="marc">020127</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20160719130346.0</recordChangeDate>
+    <recordIdentifier>8470849</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Political action</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Political action (Milwaukee, Wis.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <genre authority="lcgft">Newspapers.</genre>
+    <genre authority="fast">Newspapers</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">wiu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Milwaukee, Wis</placeTerm>
+      </place>
+      <publisher>Political Action Publishers</publisher>
+      <issuance>continuing</issuance>
+      <frequency>Weekly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>volumes ; 33 cm</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">no. 1-120; July 23, 1910-Nov. 2, 1912.</note>
+    <note>&quot;A socialist newspaper&quot;.</note>
+    <note>Title from caption.</note>  
+  <note type="additional physical form">Also available via the World Wide Web</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-wi</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Socialism</topic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Labor movement</topic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>Milwaukee (Wis.)</geographic>
+      <genre>Newspapers</genre>
+    </subject>
+    <subject authority="fast">
+      <topic>Labor movement</topic>
+    </subject>
+    <subject authority="fast">
+      <topic>Socialism</topic>
+    </subject>
+    <subject authority="fast">
+      <geographic>Wisconsin</geographic>
+    </subject>
+    <subject authority="fast">
+      <geographic>Wisconsin</geographic>
+      <geographic>Milwaukee</geographic>
+    </subject>
+    <subject>
+      <hierarchicalGeographic>
+        <country>United States</country>
+        <state>Wisconsin</state>
+        <city>Milwaukee</city>
+      </hierarchicalGeographic>
+    </subject>
+    <classification authority="lcc">HX1 .P65</classification>
+    <relatedItem type="otherFormat">
+      <titleInfo>
+        <title>Political action</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>Milwaukee, Wis., Political Action Publishers, 1910-1912.</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)953734415</identifier>
+    </relatedItem>
+    <recordInfo>
+      <recordContentSource authority="marcorg">YUS</recordContentSource>
+      <recordCreationDate encoding="marc">020127</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20160719130346.0</recordChangeDate>
+      <recordIdentifier>8470849</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735070075258</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="unknown" publication.status="published"></copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="number">
+      <number>104</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>
