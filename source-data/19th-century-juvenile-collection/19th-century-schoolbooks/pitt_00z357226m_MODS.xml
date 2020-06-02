@@ -1,0 +1,70 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>system of modern geography, comprising a description of the present state of the world and its five great divisions</title>
+    <subTitle>America, Europe, Asia, Africa, and Oceanica : with their several empires, kingdoms, states, territories, &amp;c. ... illustrated by an atlas of sixteen maps, drawn and engraved to accompany the work</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Mitchell's school geography</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Mitchell, S. Augustus (Samuel Augustus)</namePart>
+    <namePart type="date">1792-1868</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>Thomas, Cowperthwait &amp; Co.</publisher>
+    <dateCreated encoding="marc" point="start">1840</dateCreated>
+    <dateCreated encoding="marc" point="end">1839</dateCreated>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1840, c1839</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1840/1839</dateIssued>
+    <dateOther type="display">ca. 1840-1839</dateOther>
+    <dateOther type="sort">1840-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>336 p. : ill., maps ; 17 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by S. Augustus Mitchell.</note>
+  <note>At head of title: Mitchell's school geography.</note>
+  <subject authority="lcsh">
+    <topic>Geography</topic>
+    <topic>Textbooks</topic>
+    <temporal>1800-1870</temporal>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">860903</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>357226</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00z357226m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

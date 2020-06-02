@@ -1,0 +1,76 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Ray's algebra, part first</title>
+    <subTitle>on the analytic and inductive methods of instruction, with numerous practical exercises, designed for common schools and academies</subTitle>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Algebra</title>
+    <partNumber>Part first. 1848 (Van Antwerp)</partNumber>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ray, Joseph</namePart>
+    <namePart type="date">1807-1855</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ohu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cincinnati</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Van Antwerp, Bragg &amp; Co.</publisher>
+    <edition>Rev. ed.</edition>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1848</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1848</dateIssued>
+    <dateOther type="display">1848</dateOther>
+    <dateOther type="sort">1848-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>240 p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Joseph Ray.</note>
+  <note>At head of title: Elementary algebra.</note>
+  <subject authority="lcsh">
+    <topic>Algebra</topic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Eclectic educational series</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">42004818</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">YNG</recordContentSource>
+    <recordCreationDate encoding="marc">740909</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>324373</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00abh8876m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

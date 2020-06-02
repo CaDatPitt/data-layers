@@ -1,0 +1,70 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Key to Pearson's Latin prose composition</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Inglis, Alexander James</namePart>
+    <namePart type="date">1879-1924</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>American Book Company</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">[1904?]</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1904</dateIssued>
+    <dateOther type="display">1904</dateOther>
+    <dateOther type="sort">1904-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>105 p. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Alexander James Inglis and Henry Carr Pearson.</note>
+  <subject authority="lcsh">
+    <topic>Latin language</topic>
+    <topic>Composition and exercises</topic>
+  </subject>
+  <relatedItem>
+    <titleInfo>
+      <title>Latin prose composition</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Pearson, Henry Carr,</namePart>
+      <namePart type="date">1871-</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870507</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110928052714.0</recordChangeDate>
+    <recordIdentifier>398826</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">31735057849709</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

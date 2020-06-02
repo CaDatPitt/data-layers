@@ -1,0 +1,69 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>American spelling book</title>
+    <subTitle>containing the rudiments of the English language : for the use of schools in the United States</subTitle>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Grammatical institute of the English language</title>
+    <partNumber>Pt. 1. 1809</partNumber>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Webster, Noah</namePart>
+    <namePart type="date">1758-1843</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>Johnson &amp; Warner</publisher>
+    <dateCreated encoding="marc" point="start">1809</dateCreated>
+    <dateCreated encoding="marc" point="end">1804</dateCreated>
+    <edition>30th rev. ed.</edition>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1809, c1804</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1809/1804</dateIssued>
+    <dateOther type="display">ca. 1809-1804</dateOther>
+    <dateOther type="sort">1809-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>168 p. ; 17 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Noah Webster.</note>
+  <subject authority="lcsh">
+    <topic>Spellers</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870629</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>426961</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acf7166m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

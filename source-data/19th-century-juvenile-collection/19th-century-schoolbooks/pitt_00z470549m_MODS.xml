@@ -1,0 +1,76 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>principles of the government of the United States</title>
+    <subTitle>adapted to the use of schools</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Davis, Pardon.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>H.C. Carey and I. Lea</publisher>
+    <dateCreated encoding="marc" point="start">1823</dateCreated>
+    <dateCreated encoding="marc" point="end">1822</dateCreated>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1823, c1822</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1823/1822</dateIssued>
+    <dateOther type="display">ca. 1823-1822</dateOther>
+    <dateOther type="sort">1823-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>240 p. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Pardon Davis.</note>
+  <note>Including the Constitution of the United States, and the constitutions of New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, Ohio, Indiana, and Illinois.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>United States.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Constitutions</topic>
+    <geographic>United States</geographic>
+    <topic>States</topic>
+  </subject>
+  <classification authority="lcc">JK221 .D23</classification>
+  <identifier type="lccn">09021786</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">800605</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080520101934.0</recordChangeDate>
+    <recordIdentifier>470549</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00z470549m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

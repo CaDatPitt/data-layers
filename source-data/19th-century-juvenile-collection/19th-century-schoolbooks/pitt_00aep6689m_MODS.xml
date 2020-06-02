@@ -1,0 +1,71 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>evolution of American secondary school textbooks</title>
+    <subTitle>rhetoric &amp; literature, algebra, geometry, natural history (zoology), botany, natural philosophy (physics), chemistry, Latin and Greek, French, German &amp; world history as taught in American Latin grammar school academies and early high schools before 1900</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Nietz, John A. (John Alfred)</namePart>
+    <namePart type="date">1888-1970</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">vtu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Rutland, Vt</placeTerm>
+    </place>
+    <publisher>C. E. Tuttle Co.</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">[1966]</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1966</dateIssued>
+    <dateOther type="display">1966</dateOther>
+    <dateOther type="sort">1966-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 265 p. facsims., ports. 22 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by John A. Nietz.</note>
+  <subject authority="lcsh">
+    <topic>Textbooks</topic>
+    <geographic>United States</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">LT23 .N46</classification>
+  <classification authority="lcc">LT23 .N677e</classification>
+  <classification authority="ddc">373.1320973</classification>
+  <identifier type="lccn">65020613</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">740930</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20060306103222.0</recordChangeDate>
+    <recordIdentifier>904607</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00aep6689m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="copyrighted" publication.status="published">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>Tuttle Co.</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

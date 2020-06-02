@@ -1,0 +1,77 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Epochs in American history</title>
+    <partNumber/>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ellis, Edward Sylvester</namePart>
+    <namePart type="date">1840-1916</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chicago</placeTerm>
+    </place>
+    <publisher>A. Flanagan</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1896</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1896</dateIssued>
+    <dateOther type="display">1896</dateOther>
+    <dateOther type="sort">1896-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>192 p. : ill. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Edward S. Ellis.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">E178.1 .E474</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Home and school series for young folks</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>American history series (Chicago, Ill.) ; no. 2</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">02005754</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">780315</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120419052506.0</recordChangeDate>
+    <recordIdentifier>1190981</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">31735035516370</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

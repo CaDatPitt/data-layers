@@ -1,0 +1,65 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>English reader, or Pieces in prose and poetry</title>
+    <subTitle>selected from the best writers : designed to assist young persons to read with propriety and effect, to improve their language and sentiments, and to inculcate some of the most important principles of piety and virtue : with a few preliminary observations on the principles of good reading</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Pieces in prose and poetry</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Murray, Lindley</namePart>
+    <namePart type="date">1745-1826</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Utica</placeTerm>
+    </place>
+    <publisher>Printed by Hastings &amp; Tracy</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1827</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1827</dateIssued>
+    <dateOther type="display">1827</dateOther>
+    <dateOther type="sort">1827-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>263 p. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Lindley Murray.</note>
+  <subject authority="lcsh">
+    <topic>Readers</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870710</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20051205052811.0</recordChangeDate>
+    <recordIdentifier>440948</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00ach2219m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
