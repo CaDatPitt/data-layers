@@ -1,0 +1,64 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Sheldon&apos;s Twentieth century letter writer</title>
+    <subTitle>an up-to-date and accurate guide to correct modern letter writing</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Sheldon&apos;s 20th century letter writer</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Letter writer</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sheldon, L. W.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>D. McKay</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1901</dateOther>
+    <dateIssued encoding="iso8601" keyDate="yes">1901</dateIssued>
+    <dateOther type="display">1901</dateOther>
+    <dateOther type="sort">1901-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v, 133 p. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by L.W. Sheldon.</note>
+  <subject authority="lcsh">
+    <topic>Letter writing</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">CLE</recordContentSource>
+    <recordCreationDate encoding="marc">791227</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+    <recordIdentifier>1138205</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00a138205m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="pd_expired" publication.status="published"></copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
