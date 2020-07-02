@@ -21,7 +21,7 @@ EAD_MAP = {
     # has em tags, one or many)
     'biography_or_history': {'bs_exp':'bioghist > p'},
     'subject_headings': {'bs_exp':'controlaccess > *'},
-    'related material': {'bs_exp':'relatedmaterial > p'},
+    'related_material': {'bs_exp':'relatedmaterial > p'},
     'preferred_citation': {'bs_exp':'prefercite > p'},
     'conditions_governing_use': {'bs_exp':'userestrict > p'}
     # one or many
@@ -125,7 +125,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"] '},
     'publisher': {'bs_exp':'originInfo > publisher'},
     'publication_date': {'bs_exp':'originInfo > dateIssued'},
-    'date_created': {'bs_exp':'originInfo'},
+    'creation_date': {'bs_exp':'originInfo'},
     'copyright_date': {'bs_exp':'originInfo > copyrightDate'},
     'edition': {'bs_exp':'originInfo > edition'},
     'issuance': {'bs_exp':'originInfo > issuance'},
@@ -138,8 +138,8 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'subject': {'bs_exp':'subject'},
     'target_audience': {'bs_exp':'targetAudience'},
     'abstract': {'bs_exp':'abstract'},
-    'preceded by': {'bs_exp':'relatedItem[@type=\"preceding\"]''},
-    'succeeded by': {'bs_exp':'relatedItem[@type=\"succeeding\"]'},
+    'preceded_by': {'bs_exp':'relatedItem[@type=\"preceding\"]''},
+    'succeeded_by': {'bs_exp':'relatedItem[@type=\"succeeding\"]'},
     'url': {'bs_exp':'location > url'},
     'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
     'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
