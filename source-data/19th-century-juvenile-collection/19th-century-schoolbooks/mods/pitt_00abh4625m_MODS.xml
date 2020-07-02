@@ -1,0 +1,65 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Progressive exercises in English composition</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Parker, Richard Green</namePart>
+    <namePart type="date">1798-1869</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Lincoln and Edmands</publisher>
+    <edition>[1st ed.]</edition>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1832</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1832</dateIssued>
+    <dateOther type="display">1832</dateOther>
+    <dateOther type="sort">1832-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>107 p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by R.G. Parker.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>English language</topic>
+    <topic>Composition and exercises</topic>
+  </subject>
+  <classification authority="lcc">PE1413 .P33 1832</classification>
+  <identifier type="lccn">10033547</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">860520</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>320174</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00abh4625m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
