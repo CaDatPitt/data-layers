@@ -75,7 +75,7 @@ SERIAL_ITEM_MODS_MAP = {
     'succeeded_by': {'bs_exp':'relatedItem[type=\"succeeding\"]'},
     'issn': {'bs_exp':'identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
-    'oclcn': {'bs_exp':'identifier[type=\"oclcn\"]'},
+    'oclcn': {'bs_exp':'identifier[type=\"oclcn\"]'}
 }
 
 DIGITIZED_SERIAL_ITEM_MODS_MAP = {
@@ -142,7 +142,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'succeeded_by': {'bs_exp':'relatedItem[@type=\"succeeding\"]'},
     'url': {'bs_exp':'location > url'},
     'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
-    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
+    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'}
 }
 
 # Feminist underground press records have no dateOther, only dateIssued, point=start and point=end
