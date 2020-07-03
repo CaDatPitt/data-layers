@@ -128,7 +128,8 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'contributor': {'bs_exp':'name > namepart'},
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"] '},
     'publisher': {'bs_exp':'originInfo > publisher'},
-    'publication_date': {'bs_exp':'originInfo > dateIssued'},
+    'publication_date': {'bs_exp':'originInfo > dateIssued'}, # without attributes
+    'encoded_date': {'bs_exp':'originInfo > dateIssued'}, # with encoding attribute; if contains attribute point="start" and point="end", group the values and split with a forward slash (/).
     'creation_date': {'bs_exp':'originInfo > dateCreated'}, # also originInfo > dateOther
     'copyright_date': {'bs_exp':'originInfo > copyrightDate'},
     'edition': {'bs_exp':'originInfo > edition'},
