@@ -31,7 +31,7 @@ EAD_MAP = {
 
 ARCHIVAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
-    'title':{'bs_exp':'mods > titleInfo > title'},
+    'title':{'bs_exp':'mods > titleInfo > title'},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'creator': {'bs_exp':'mods > name'},
     'creation_date': {'bs_exp':'mods > originInfo > dateCreated'}, # also 'mods > originInfo > dateOther'
     'language': {'bs_exp':'language > languageTerm'},
@@ -45,12 +45,14 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'series': {'bs_exp':'note[type=\"series\"]'},
     'container': {'bs_exp':'note[type=\"container\"]'},
     'owner': {'bs_exp':'note[type=\"ownership\"]'},
-    'depositor': {'bs_exp':'name'} # with role > roleTerm = depositor
+    'depositor': {'bs_exp':'name'} # with role > roleTerm="depositor"
 }
 
 SERIAL_ITEM_MODS_MAP = {
     'identifier': {'recordInfo > recordIdentifier'},
     'title': {'bs_exp':'titleInfo > title'},
+    # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
     'associated_name':{'bs_exp':'name'},
@@ -81,9 +83,11 @@ SERIAL_ITEM_MODS_MAP = {
 DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
     'title': {'bs_exp':'titleInfo > title'},
+    # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
-    'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},'record_identifier': {'bs_exp':'recordInfo > recordIdentifier'},
+    'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},
     'associated_name':{'bs_exp':'name'},
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"]'},
     'publisher': {'bs_exp':'originInfo > publisher'}, # also 'name > namePart' with role > roleTerm="publisher"
@@ -105,7 +109,7 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'abstract': {'bs_exp':'abstract'},
     'preceded_by': {'bs_exp':'relatedItem[type=\"preceding\"]'},
     'succeeded_by': {'bs_exp':'relatedItem[type=\"succeeding\"]'},
-    'copyright_status': {'bs_exp':'accessCondition > copyright[@copyright.status]'}, #value of copyright.status attribute
+    'copyright_status': {'bs_exp':'accessCondition > copyright[@copyright.status]'}, # attribute value
     'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
     'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},
     'record_identifier': {'bs_exp':'recordInfo > recordIdentifier'},
@@ -117,7 +121,7 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
 
 MONOGRAPH_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'recordIdentifier'},
-    'title': {'bs_exp':'titleInfo > title'},
+    'title': {'bs_exp':'titleInfo > title'}, # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
     'creator': {'bs_exp':'name > namepart'},
@@ -125,7 +129,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"] '},
     'publisher': {'bs_exp':'originInfo > publisher'},
     'publication_date': {'bs_exp':'originInfo > dateIssued'},
-    'creation_date': {'bs_exp':'originInfo'},
+    'creation_date': {'bs_exp':'originInfo > dateCreated'}, # also originInfo > dateOther
     'copyright_date': {'bs_exp':'originInfo > copyrightDate'},
     'edition': {'bs_exp':'originInfo > edition'},
     'issuance': {'bs_exp':'originInfo > issuance'},
