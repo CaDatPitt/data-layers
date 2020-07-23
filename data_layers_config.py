@@ -33,7 +33,9 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
     'title':{'bs_exp':'mods > titleInfo > title'},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'creator': {'bs_exp':'mods > name'},
-    'creation_date': {'bs_exp':'mods > originInfo > dateOther[type=\"sort\"]'},
+    'creation_date': {'bs_exp':'mods > originInfo > dateCreator'}, # if contains attribute "point", concatenate values for elements with point="start" and point="end" with a forward slash (/)
+    'sort_date': {'bs_exp':'mods > originInfo > dateOther[type=\"sort\"]'},
+    'sort_date': {'bs_exp':'mods > originInfo > dateOther[type=\"display\"]'},
     'language': {'bs_exp':'language > languageTerm'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
     'genre': {'bs_exp':':not(relatedItem) > genre'},
