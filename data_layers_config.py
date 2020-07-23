@@ -32,21 +32,22 @@ EAD_MAP = {
 ARCHIVAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
     'title':{'bs_exp':'mods > titleInfo > title'},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
-    'creator': {'bs_exp':'mods > name'},
+    'creator': {'bs_exp':'mods > name'}, #  with role > roleTerm="creator"
+    'contributor': {'bs_exp':'mods > name'}, #  with role > roleTerm="contributor"
     'creation_date': {'bs_exp':'mods > originInfo > dateCreator'}, # if contains attribute "point", concatenate values for elements with point="start" and point="end" with a forward slash (/)
     'sort_date': {'bs_exp':'mods > originInfo > dateOther[type=\"sort\"]'},
     'display_date': {'bs_exp':'mods > originInfo > dateOther[type=\"display\"]'},
     'language': {'bs_exp':'language > languageTerm'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
-    'genre': {'bs_exp':':not(relatedItem) > genre'},
+    'genre': {'bs_exp':':not(relatedItem) > genre'}, # also 'subject > genre'
     'subject': {'bs_exp':'subject > topic'}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'abstract': {'bs_exp':'abstract'},
     'collection_title': {'bs_exp':'relatedItem > titleInfo > title'},
-    'series': {'bs_exp':'note[type=\"series\"]'},
-    'container': {'bs_exp':'note[type=\"container\"]'},
-    'owner': {'bs_exp':'note[type=\"ownership\"]'},
+    'series': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"series\"]'},
+    'container': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"container\"]'},
+    'owner': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"ownership\"]'},
     'depositor': {'bs_exp':'name'} # with role > roleTerm="depositor"
 }
 
