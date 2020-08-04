@@ -44,7 +44,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'abstract': {'bs_exp':'abstract'},
-    'collection_title': {'bs_exp':'relatedItem > titleInfo > title'},
+    'host': {'bs_exp':'relatedItem[type=\"host\"] > titleInfo > title'},
     'series': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"series\"]'},
     'container': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"container\"]'},
     'owner': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"ownership\"]'},
