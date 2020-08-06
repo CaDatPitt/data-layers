@@ -154,6 +154,8 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'}
 }
 
+# mappings between base layer fields and BeautifulSoup selectors for RELS-EXT
+
 DIGITAL_ITEM_RDF_MAP = {
       'collection_id': {'bs_exp':'Description > isMemberOfCollection[@rdf:resource]'}  
 }
