@@ -141,7 +141,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'frequency': {'bs_exp':'originInfo > frequency'},
     'language': {'bs_exp':'language > languageTerm'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
-    'form': {'bs_exp':'physicalDescription > form'},
+    'format': {'bs_exp':'physicalDescription > form'},
     'extent': {'bs_exp':'physicalDescription > extent'},
     'genre': {'bs_exp':'genre'},
     'subject': {'bs_exp':'subject'},
