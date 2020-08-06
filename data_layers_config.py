@@ -146,9 +146,9 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'genre': {'bs_exp':'genre'},
     'abstract': {'bs_exp':'abstract'},
     'subject': {'bs_exp':'subject'},
+    'temporal_coverage': {'bs_exp':'subject > temporal'},
+    'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'target_audience': {'bs_exp':'targetAudience'},
-    'preceded_by': {'bs_exp':'relatedItem[@type=\"preceding\"]''},
-    'succeeded_by': {'bs_exp':'relatedItem[@type=\"succeeding\"]'},
     'url': {'bs_exp':'location > url'},
     'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
     'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'}
