@@ -1,6 +1,6 @@
 # mappings between base layer fields and BeautifulSoup selectors for EAD
 EAD_MAP = {
-    'finding_aid_identifier': {'bs_exp':'eadid'},
+    'finding_aid_id': {'bs_exp':'eadid'},
     'finding_aid_title':{'bs_exp':'titleproper'},
     'finding_aid_creator': {'bs_exp':'author'},
     'finding_aid_publisher': {'bs_exp':'publisher'},
@@ -30,7 +30,7 @@ EAD_MAP = {
 # mappings between base layer fields and BeautifulSoup selectors for MODS
 
 ARCHIVAL_ITEM_MODS_MAP = {
-    'identifier': {'bs_exp':'identifier[type=\"pitt\"]'},
+    'id': {'bs_exp':'identifier[type=\"pitt\"]'},
     'title':{'bs_exp':'mods > titleInfo > title'},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'creator': {'bs_exp':'mods > name'}, #  with role > roleTerm="creator"
     'contributor': {'bs_exp':'mods > name'}, #  with role > roleTerm="contributor"
@@ -52,7 +52,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
 }
 
 SERIAL_ITEM_MODS_MAP = {
-    'identifier': {'recordInfo > recordIdentifier'},
+    'id': {'recordInfo > recordIdentifier'},
     'title': {'bs_exp':'titleInfo > title'},
     # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
@@ -124,7 +124,7 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
 }
 
 MONOGRAPH_ITEM_MODS_MAP = {
-    'identifier': {'bs_exp':'recordIdentifier'},
+    'id': {'bs_exp':'recordIdentifier'},
     'title': {'bs_exp':'titleInfo > title'}, # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
@@ -152,6 +152,10 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'url': {'bs_exp':'location > url'},
     'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
     'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'}
+}
+
+DIGITAL_ITEM_RDF_MAP = {
+      'collection_id': {'bs_exp':'Description > isMemberOfCollection[@rdf:resource]'}  
 }
 
 # Feminist underground press records have no dateOther, only dateIssued, point=start and point=end
