@@ -40,10 +40,10 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'language': {'bs_exp':'language > languageTerm'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
     'genre': {'bs_exp':':not(relatedItem) > genre'}, # also 'subject > genre'
+    'abstract': {'bs_exp':'abstract'},
     'subject': {'bs_exp':'subject > topic'}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
-    'abstract': {'bs_exp':'abstract'},
     'host': {'bs_exp':'relatedItem[type=\"host\"] > titleInfo > title'},
     'series': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"series\"]'},
     'container': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"container\"]'},
@@ -72,11 +72,11 @@ SERIAL_ITEM_MODS_MAP = {
     'format': {'bs_exp':'physicalDescription > form'},
     'extent': {'bs_exp':'physicalDescription > extent'},
     'genre': {'bs_exp':'genre'}, # also 'subject > genre'
+    'abstract': {'bs_exp':'abstract'},
     'subject': {'bs_exp':'subject > topic'}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'target_audience': {'bs_exp':'targetAudience'},
-    'abstract': {'bs_exp':'abstract'},
     'preceded_by': {'bs_exp':'relatedItem[type=\"preceding\"]'},
     'succeeded_by': {'bs_exp':'relatedItem[type=\"succeeding\"]'},
     'issn': {'bs_exp':'identifier[type=\"issn\"]'},
@@ -105,12 +105,12 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'type_of_resource': {'bs_exp':'typeOfResource'},
     'format': {'bs_exp':'physicalDescription > form'},
     'extent': {'bs_exp':'physicalDescription > extent'},
-    'genre': {'bs_exp':'genre'}, # also 'subject > genre'
+    'genre': {'bs_exp':'genre'}, # also 'subject > genre',
+    'abstract': {'bs_exp':'abstract'},
     'subject': {'bs_exp':'subject > topic'}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'target_audience': {'bs_exp':'targetAudience'},
-    'abstract': {'bs_exp':'abstract'},
     'preceded_by': {'bs_exp':'relatedItem[type=\"preceding\"]'},
     'succeeded_by': {'bs_exp':'relatedItem[type=\"succeeding\"]'},
     'copyright_status': {'bs_exp':'accessCondition > copyright[@copyright.status]'}, # attribute value
