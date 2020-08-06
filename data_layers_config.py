@@ -58,6 +58,7 @@ SERIAL_ITEM_MODS_MAP = {
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
+    'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},
     'associated_name':{'bs_exp':'name'},
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"]'},
     'publisher': {'bs_exp':'originInfo > publisher'}, # also 'name > namePart' with role > roleTerm="publisher"
