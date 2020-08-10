@@ -149,9 +149,43 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'target_audience': {'bs_exp':'targetAudience'},
-    'url': {'bs_exp':'location > url'},
+    'isbn': {'bs_exp':'identifier[@type=\"isbn\"]'},
     'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
-    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'}
+    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
+    'url': {'bs_exp':'location > url'},
+}
+
+MONOGRAPH_ITEM_MODS_MAP = {
+    'id': {'bs_exp':'recordIdentifier'},
+    'title': {'bs_exp':'titleInfo > title'}, # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
+    'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
+    'creator': {'bs_exp':'name > namepart'},
+    'contributor': {'bs_exp':'name > namepart'},
+    'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"] '},
+    'publisher': {'bs_exp':'originInfo > publisher'},
+    'publication_date': {'bs_exp':'originInfo > dateIssued'}, # without attributes
+    'encoded_date': {'bs_exp':'originInfo > dateIssued'}, # with encoding attribute; if contains attribute point="start" and point="end", group the values and split with a forward slash (/).
+    'creation_date': {'bs_exp':'originInfo > dateCreated'}, # also originInfo > dateOther
+    'copyright_date': {'bs_exp':'originInfo > copyrightDate'},
+    'edition': {'bs_exp':'originInfo > edition'},
+    'issuance': {'bs_exp':'originInfo > issuance'},
+    'frequency': {'bs_exp':'originInfo > frequency'},
+    'language': {'bs_exp':'language > languageTerm'},
+    'type_of_resource': {'bs_exp':'typeOfResource'},
+    'format': {'bs_exp':'physicalDescription > form'},
+    'extent': {'bs_exp':'physicalDescription > extent'},
+    'genre': {'bs_exp':'genre'},
+    'abstract': {'bs_exp':'abstract'},
+    'subject': {'bs_exp':'subject'},
+    'temporal_coverage': {'bs_exp':'subject > temporal'},
+    'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
+    'target_audience': {'bs_exp':'targetAudience'},
+    'isbn': {'bs_exp':'identifier[@type=\"isbn\"]'},
+    'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
+    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
+    'url': {'bs_exp':'location > url'},
+    'depositor': {'bs_exp':'name'} # with role > roleTerm="depositor"
 }
 
 # mappings between base layer fields and BeautifulSoup selectors for RELS-EXT
