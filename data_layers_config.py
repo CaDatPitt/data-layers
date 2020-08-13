@@ -3,10 +3,9 @@ EAD_MAP = {
     'finding_aid_id': {'bs_exp':'eadid'},
     'finding_aid_title':{'bs_exp':'titleproper'},
     'finding_aid_creator': {'bs_exp':'author'},
+    'finding_aid_creation_date': {'bs_exp':'profiledesc > creation > date'},
     'finding_aid_publisher': {'bs_exp':'publisher'},
     'finding_aid_publication_date': {'bs_exp':'publicationstmt > date'},
-    'finding_aid_creation_date': {'bs_exp':'profiledesc > creation > date'},
-    'repository':{'bs_exp':'repository > corpname'},
     'acquisition_number':{'bs_exp':'num'},
     'collection_title': {'bs_exp':'archdesc[level=\'collection\'] > did > unittitle'},
     # one or many
@@ -14,17 +13,18 @@ EAD_MAP = {
     'collection_language': {'bs_exp':'archdesc[level=\'collection\'] > did > langmaterial > language[langcode]'}, # attribute value
     'collection_extent': {'bs_exp':'physdesc > extent'},
     'collection_temporal_coverage': {'bs_exp':'archdesc[level=\'collection\'] > did > unitdate'},
-    # one or many, 1 child per
-    'collection_abstract':{'bs_exp':'abstract'},
     # one or many, one p per
     'collection_scope_and_content': {'bs_exp':'archdesc > scopecontent > p'},
     # has em tags, one or many)
     'biography_or_history': {'bs_exp':'bioghist > p'},
+    # one or many, 1 child per
+    'collection_abstract':{'bs_exp':'abstract'},
     'subject_headings': {'bs_exp':'controlaccess > *'},
     'related_material': {'bs_exp':'relatedmaterial > p'},
+    'repository':{'bs_exp':'repository > corpname'},
     'preferred_citation': {'bs_exp':'prefercite > p'},
-    'conditions_governing_use': {'bs_exp':'userestrict > p'}
     # one or many
+    'conditions_governing_use': {'bs_exp':'userestrict > p'}
 }
 
 # mappings between base layer fields and BeautifulSoup selectors for MODS
@@ -39,6 +39,8 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'display_date': {'bs_exp':'mods > originInfo > dateOther[type=\"display\"]'},
     'language': {'bs_exp':'language > languageTerm'},
     'type_of_resource': {'bs_exp':'typeOfResource'},
+    'format': {'bs_exp':'physicalDescription > form'},
+    'extent': {'bs_exp':'physicalDescription > extent'},
     'genre': {'bs_exp':':not(relatedItem) > genre'}, # also 'subject > genre'
     'abstract': {'bs_exp':'abstract'},
     'subject': {'bs_exp':'subject > topic'}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
@@ -62,8 +64,9 @@ SERIAL_ITEM_MODS_MAP = {
     'associated_name':{'bs_exp':'name'},
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"]'},
     'publisher': {'bs_exp':'originInfo > publisher'}, # also 'name > namePart' with role > roleTerm="publisher"
-    'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'}, # also 'originInfo > mods:dateIssued[@point=\"start\"]''
-    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'}, # also 'originInfo > mods:dateIssued[@point=\"start\"]''
+    'publication_date': {'bs_exp':'originInfo > dateIssued'}, #
+    'start_date': {'bs_exp':'originInfo > dateIssued[point=\"start\"]'},
+    'end_date': {'bs_exp':'originInfo > dateIssued[point=\"end\"]'}, 
     'edition': {'bs_exp':'originInfo > edition'},
     'issuance': {'bs_exp':'originInfo > issuance'},
     'frequency': {'bs_exp':'originInfo > frequency'},
@@ -92,12 +95,12 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
     'alternative_title': {'bs_exp':'titleInfo[type=\"alternative\"] > title'},
     'enumeration_chronology': {'bs_exp':'mods > titleInfo > partNumber'},
-    'associated_name':{'bs_exp':'name'},
+    'associated_name':{'bs_exp':'name'}, #when not mods:role/mods:roleTerm="depositor"
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"]'},
     'publisher': {'bs_exp':'originInfo > publisher'}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':'originInfo > dateOther[type=\"sort\"]'},
-    'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'}, # also 'originInfo > mods:dateIssued[@point=\"start\"]''
-    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'}, # also 'originInfo > mods:dateIssued[@point=\"start\"]''
+    'start_date': {'bs_exp':'originInfo > dateCreated[point=\"start\"]'}, # also 'originInfo > mods:dateIssued[@point=\"start\"]'' (?)
+    'end_date': {'bs_exp':'originInfo > dateCreated[point=\"end\"]'}, # also 'originInfo > mods:dateIssued[@point=\"start\"]'' (?)
     'edition': {'bs_exp':'originInfo > edition'},
     'issuance': {'bs_exp':'originInfo > issuance'},
     'frequency': {'bs_exp':'originInfo > frequency'},
@@ -116,11 +119,10 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'copyright_status': {'bs_exp':'accessCondition > copyright[@copyright.status]'}, # attribute value
     'copyright_holder': {'bs_exp':'accessCondition > copyright > * > name' },
     'copyright_note': {'bs_exp':'accessCondition > copyright > * > note'},
-    'record_identifier': {'bs_exp':'recordInfo > recordIdentifier'},
     'issn': {'bs_exp':'identifier[type=\"issn\"]'},
     'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
     'oclcn': {'bs_exp':'identifier[type=\"oclcn\"]'},
-    'depositor': {'bs_exp':'name'}
+    'depositor': {'bs_exp':'name'} # with role > roleTerm="depositor"
 }
 
 MONOGRAPH_ITEM_MODS_MAP = {
@@ -155,7 +157,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'url': {'bs_exp':'location > url'},
 }
 
-MONOGRAPH_ITEM_MODS_MAP = {
+DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':'recordIdentifier'},
     'title': {'bs_exp':'titleInfo > title'}, # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':'titleInfo[type=\"uniform\"] > title'},
@@ -165,7 +167,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'publication_place': {'bs_exp':'originInfo > place > placeTerm[type=\"text\"] '},
     'publisher': {'bs_exp':'originInfo > publisher'},
     'publication_date': {'bs_exp':'originInfo > dateIssued'}, # without attributes
-    'encoded_date': {'bs_exp':'originInfo > dateIssued'}, # with encoding attribute; if contains attribute point="start" and point="end", group the values and split with a forward slash (/).
+    'encoded_date': {'bs_exp':'originInfo > dateIssued'}, # with encoding attribute; if has attribute @point="start" and point="end", group the values and split with a forward slash (/).
     'creation_date': {'bs_exp':'originInfo > dateCreated'}, # also originInfo > dateOther
     'copyright_date': {'bs_exp':'originInfo > copyrightDate'},
     'edition': {'bs_exp':'originInfo > edition'},
