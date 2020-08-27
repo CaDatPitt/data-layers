@@ -8,7 +8,6 @@ import numpy as np
 import pandas as pd
 import data_layers_config
 
-
 def get_fields_from_bs(bs_object, field_dict):
     """
     Takes two arguments:
@@ -17,41 +16,42 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    exceptions = ['creator', 'depositor', 'box'  'folder', 'copyright_status', 'genre', 'type_of_resource']
+    exceptions = ['creator', 'depositor', 'copyright_status', 'genre', 'type_of_resource']
 
     for u in field_dict.keys():
+        #assumes field_dict[u]['bs_exp'] is a list of expressions
+        expressions = field_dict[u]['bs_exp']
 
-        if u not in exceptions:
-            bs_list = []
-            results = bs_object.select(field_dict[u]['bs_exp'])
-            for e in results:   
-                s = e.text.replace("\n", " ").replace("\t", " ")
-                joined_s = " ".join(s.split())
-                bs_list.append(joined_s)
-            field_list = omit_repeats(bs_list)
-            field_data = "; ".join(field_list)
+        field_data = ""
+        for exp in expressions:
+            if u not in exceptions:
+                bs_list = []
+                results = bs_object.select(exp)
+                for e in results:   
+                    s = e.text.replace("\n", " ").replace("\t", " ")
+                    joined_s = " ".join(s.split())
+                    bs_list.append(joined_s)
+                field_list = omit_repeats(bs_list)
+                field_data += "; ".join(field_list)
 
-        if u == 'creator' or u == 'depositor':            
-            field_data = get_name_by_type(bs_object, u)
+            if u == 'creator' or u == 'depositor': 
+                # gets multiple values, checks an attribute and returns the matches           
+                field_data += get_name_by_type(bs_object, u)
 
-        if u == 'copyright_status':
-            results = bs_object.select(field_dict[u]['bs_exp'])
-            try:
-                field_data = results[0]['copyright.status']
-            except:
-                field_data = ''
-
-        if u == 'box' or u == 'folder':
-            results = bs_object.select(field_dict[u]['bs_exp'])
-            bs_list = [parse_container(z.text, u) for z in results]
-            field_list = omit_repeats(bs_list)
-            field_data = "; ".join(field_list)
+            if u == 'copyright_status':
+                # looks for attribute value and handles exception if no attribute
+                results = bs_object.select(exp)
+                try:
+                    field_data += results[0]['copyright.status']
+                except:
+                    field_data += ''
         
-        if u == 'genre' or u == 'type_of_resource':
-            results = bs_object.select(field_dict[u]['bs_exp'])
-            bs_list = [u.text for u in results]
-            field_list = omit_repeats(bs_list)
-            field_data = "; ".join(field_list)
+            if u == 'genre' or u == 'type_of_resource':
+                # handles multiple results and omits repeats
+                results = bs_object.select(exp)
+                bs_list = [u.text for u in results]
+                field_list = omit_repeats(bs_list)
+                field_data += "; ".join(field_list)
 
         row[u] = field_data
         
@@ -132,35 +132,18 @@ def get_name_by_type(bs_object, role):
         name = ""
     return name
 
-def parse_container(container_desc, container_type):
-    """ 
-    We pass this a natural language container description, 
-    use the container_type (e.g. 'folder') as a regex needle, match text directly after, 
-    and return a substring based on the result
-    Example: Box 1, folder 1
-    """
-    base_needle = '\s?(\d+)\D?'
-
-    needle = container_type.lower()+base_needle
-    try:
-        matches = re.search(needle, container_desc.lower())
-        match = matches.group(1)
-    except: 
-        match = ""
-    return match
-
 def base_layer_maker(location, collection_type, collection_subtype):
     """
     This function accepts three arguments and writes data to base-layers
     Location should be a folder name only that can be found in source-data, such as 'american-left-ephemera'
-    collection_type is a controlled vocabulary ('archive', 'serial', 'monograph') ... errors if you pass anything else
+    collection_type is a controlled vocabulary ('archival', 'serial', 'monograph') ... errors if you pass anything else
     collection_subtype is 'digital' or 'print'
     """
     # some validation of arguments
     if not os.path.exists('source-data/%s' % location):
         raise Exception ("location source-data/%s not found!" % (location,))
 
-    if collection_type not in ['archive', 'serial', 'monograph']:
+    if collection_type not in ['archival', 'serial', 'monograph']:
         raise Exception ("collection type '%s' not one of 'archive', 'monograph', or 'serial'." % (collection_type,))
 
     if collection_subtype not in ['digital', 'print']:
@@ -168,7 +151,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
 
     # route source data processing based on type
     result = {}
-    if collection_type == 'archive':
+    if collection_type == 'archival':
         collection_dir = "source-data/%s/ead/" % location
         if not os.path.exists(collection_dir):
             raise Exception ("location %s not found!" % (collection_dir,))
