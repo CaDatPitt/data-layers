@@ -33,15 +33,15 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['identifier[type=\"pitt\"]',]},
     'title':{'bs_exp':['mods > titleInfo > title',]},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     'creator': {'bs_exp':['mods > name',]}, 
-    'contributor': {'bs_exp':['mods > name',]}, # also want name without roleTerm at all
-    'creation_date': {'bs_exp':['mods > originInfo > dateCreator',]}, # if contains attribute "point", concatenate values for elements with point="start" and point="end" with a forward slash (/)
+    'contributor': {'bs_exp':['mods > name',]},
+    'creation_date': {'bs_exp':['mods > originInfo > dateCreated',]}, 
     'sort_date': {'bs_exp':['mods > originInfo > dateOther[type=\"sort\"]',]},
     'display_date': {'bs_exp':['mods > originInfo > dateOther[type=\"display\"]',]},
     'language': {'bs_exp':['language > languageTerm',]},
     'type_of_resource': {'bs_exp':['typeOfResource',]},
     'format': {'bs_exp':['physicalDescription > form',]},
     'extent': {'bs_exp':['physicalDescription > extent',]},
-    'genre': {'bs_exp':['relatedItem > genre', ]}, # without parent of relatedItem, also 'subject > genre', maybe like roleTerm
+    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem
     'abstract': {'bs_exp':['abstract',]},
     'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo']}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
     'temporal_coverage': {'bs_exp':['subject > temporal',]},
@@ -50,7 +50,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'series': {'bs_exp':['relatedItem[type=\"host\"] > note[type=\"series\"]',]},
     'container': {'bs_exp':['relatedItem[type=\"host\"] > note[type=\"container\"]',]},
     'owner': {'bs_exp':['relatedItem[type=\"host\"] > note[type=\"ownership\"]',]},
-    'depositor': {'bs_exp':['name',]} # with role > roleTerm="depositor"
+    'depositor': {'bs_exp':['name',]}
 }
 
 SERIAL_ITEM_MODS_MAP = {

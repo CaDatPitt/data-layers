@@ -65,10 +65,17 @@ def get_fields_from_bs(bs_object, field_dict):
         
     return row
 
+def omit_trailing_punct(text):
+    if len(text) > 0:
+        if text[-1] in ['.', ',', ';']:
+            text = text[0:-1]
+    return text
+
 def omit_repeats(text_list):
     try:
-        lowered = [u.lower().strip() for u in text_list]
+        lowered = [omit_trailing_punct(u.lower().strip()) for u in text_list]
         lowered_no_repeats = list(set(lowered))
+        lowered_no_repeats.sort()
         return lowered_no_repeats
     except:
         return text_list
