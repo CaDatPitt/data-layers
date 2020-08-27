@@ -16,13 +16,14 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    exceptions = ['creator', 'depositor', 'copyright_status', 'genre', 'type_of_resource']
+    exceptions = ['creator', 'contributor', 'depositor', 'copyright_status', 'genre', 'type_of_resource']
 
     for u in field_dict.keys():
         #assumes field_dict[u]['bs_exp'] is a list of expressions
         expressions = field_dict[u]['bs_exp']
 
         field_data = ""
+
         for exp in expressions:
             if u not in exceptions:
                 bs_list = []
@@ -34,9 +35,9 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_list = omit_repeats(bs_list)
                 field_data += "; ".join(field_list)
 
-            if u == 'creator' or u == 'depositor': 
-                # gets multiple values, checks an attribute and returns the matches           
-                field_data += get_name_by_type(bs_object, u)
+            if u == 'creator' or u == 'contributor' or u == 'depositor': 
+                # get multiple values, look for a grandchild, check value, then get namePart child text 
+                field_data += get_name_by_grand_child(bs_object, 'role > roleTerm', u, 'namePart' )
 
             if u == 'copyright_status':
                 # looks for attribute value and handles exception if no attribute
@@ -105,6 +106,27 @@ def create_data_frame_from_list(source_list):
     for i, row in enumerate(source_list):
         d[i] = pd.Series(row)
     return pd.DataFrame(d).T
+
+def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_value, children='namePart' ):
+    """
+    This function accepts a BeautifulSoup object, find role > roleTerm="creator", "depositor", or 
+    "contributor", and then if it matches, we return all namePart element values, comma separated
+    """
+    grand_children = bs_object.select(grand_child_exp)
+    
+    match = False
+    for g in grand_children:
+        if g.text == grand_child_element_value:
+            match = True
+            break
+    if match:
+        all_matches = bs_object.select(children)
+        all_matches_joined = ", ".join([i.text for i in all_matches])
+    else:
+        all_matches_joined = ""
+    
+    return all_matches_joined
+
 
 def get_name_by_type(bs_object, role):
     """
