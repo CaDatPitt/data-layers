@@ -36,8 +36,15 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_data += "; ".join(field_list)
 
             if u == 'creator' or u == 'contributor' or u == 'depositor': 
+                results = bs_object.select(exp)
                 # get multiple values, look for a grandchild, check value, then get namePart child text 
-                field_data += get_name_by_grand_child(bs_object, 'role > roleTerm', u, 'namePart' )
+                for r in results:
+                    this_data = get_name_by_grand_child(r, 'role > roleTerm', u, 'namePart' ) 
+                    field_data += this_data
+                    if this_data != "":
+                        field_data += "; "
+                if field_data[-2:] == "; ":
+                    field_data = field_data[0:-2]
 
             if u == 'copyright_status':
                 # looks for attribute value and handles exception if no attribute
@@ -112,19 +119,28 @@ def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_valu
     This function accepts a BeautifulSoup object, find role > roleTerm="creator", "depositor", or 
     "contributor", and then if it matches, we return all namePart element values, comma separated
     """
+
+    # matches where roleTerm = grand_child_element_value
     grand_children = bs_object.select(grand_child_exp)
+
+    all_matches_joined = ""
     
     match = False
     for g in grand_children:
+
         if g.text == grand_child_element_value:
             match = True
             break
     if match:
         all_matches = bs_object.select(children)
-        all_matches_joined = ", ".join([i.text for i in all_matches])
-    else:
-        all_matches_joined = ""
-    
+        all_matches_joined += ", ".join([i.text for i in all_matches])
+        
+    # matches where there is no role, and grand_child_element_value=contributor
+    if grand_child_element_value == 'contributor':
+        no_roles = bs_object.select('role')
+        if len(no_roles) == 0:
+            all_matches = bs_object.select(children)
+            all_matches_joined += ", ".join([i.text for i in all_matches])
     return all_matches_joined
 
 

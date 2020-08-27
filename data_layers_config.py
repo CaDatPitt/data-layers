@@ -32,8 +32,8 @@ EAD_MAP = {
 ARCHIVAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['identifier[type=\"pitt\"]',]},
     'title':{'bs_exp':['mods > titleInfo > title',]},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
-    'creator': {'bs_exp':['mods > name',]}, #  with role > roleTerm="creator"
-    'contributor': {'bs_exp':['mods > name',]}, #  with role > roleTerm="contributor"
+    'creator': {'bs_exp':['mods > name',]}, 
+    'contributor': {'bs_exp':['mods > name',]}, # also want name without roleTerm at all
     'creation_date': {'bs_exp':['mods > originInfo > dateCreator',]}, # if contains attribute "point", concatenate values for elements with point="start" and point="end" with a forward slash (/)
     'sort_date': {'bs_exp':['mods > originInfo > dateOther[type=\"sort\"]',]},
     'display_date': {'bs_exp':['mods > originInfo > dateOther[type=\"display\"]',]},
