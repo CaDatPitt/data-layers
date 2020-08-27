@@ -41,20 +41,20 @@ ARCHIVAL_ITEM_MODS_MAP = {
     'type_of_resource': {'bs_exp':'typeOfResource'},
     'format': {'bs_exp':'physicalDescription > form'},
     'extent': {'bs_exp':'physicalDescription > extent'},
-    'genre': {'bs_exp':':not(relatedItem) > genre'}, # also 'subject > genre'
+    'genre': {'bs_exp':'relatedItem > genre'}, # without parent of relatedItem, also 'subject > genre', maybe like roleTerm
     'abstract': {'bs_exp':'abstract'},
     'subject': {'bs_exp':'subject > topic'}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'host': {'bs_exp':'relatedItem[type=\"host\"] > titleInfo > title'},
-    'series': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"series\"]'},
-    'container': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"container\"]'},
-    'owner': {'bs_exp':'mods:relatedItem[type=\"host\"] > note[type=\"ownership\"]'},
+    'series': {'bs_exp':'relatedItem[type=\"host\"] > note[type=\"series\"]'},
+    'container': {'bs_exp':'relatedItem[type=\"host\"] > note[type=\"container\"]'},
+    'owner': {'bs_exp':'relatedItem[type=\"host\"] > note[type=\"ownership\"]'},
     'depositor': {'bs_exp':'name'} # with role > roleTerm="depositor"
 }
 
 SERIAL_ITEM_MODS_MAP = {
-    'id': {'recordInfo > recordIdentifier'},
+    'id': {'bs_exp':'recordInfo > recordIdentifier'},
     'title': {'bs_exp':'titleInfo > title'},
     # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
@@ -151,9 +151,9 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'target_audience': {'bs_exp':'targetAudience'},
-    'isbn': {'bs_exp':'identifier[@type=\"isbn\"]'},
-    'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
-    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
+    'isbn': {'bs_exp':'identifier[type=\"isbn\"]'},
+    'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
+    'oclccn': {'bs_exp':'identifier[type=\"oclc\"]'},
     'url': {'bs_exp':'location > url'},
 }
 
@@ -183,9 +183,9 @@ DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
     'temporal_coverage': {'bs_exp':'subject > temporal'},
     'geographic_coverage': {'bs_exp':'subject > geographic'}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
     'target_audience': {'bs_exp':'targetAudience'},
-    'isbn': {'bs_exp':'identifier[@type=\"isbn\"]'},
-    'lccn': {'bs_exp':'identifier[@type=\"lccn\"]'},
-    'oclccn': {'bs_exp':'identifier[@type=\"oclc\"]'},
+    'isbn': {'bs_exp':'identifier[type=\"isbn\"]'},
+    'lccn': {'bs_exp':'identifier[type=\"lccn\"]'},
+    'oclccn': {'bs_exp':'identifier[type=\"oclc\"]'},
     'url': {'bs_exp':'location > url'},
     'depositor': {'bs_exp':'name'} # with role > roleTerm="depositor"
 }
