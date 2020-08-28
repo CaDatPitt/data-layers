@@ -31,21 +31,21 @@ EAD_MAP = {
 
 ARCHIVAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['identifier[type=\"pitt\"]',]},
-    'title':{'bs_exp':['mods > titleInfo > title',]},  # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
-    'creator': {'bs_exp':['mods > name',]}, 
+    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
+    'creator': {'bs_exp':['mods > name',]},
     'contributor': {'bs_exp':['mods > name',]},
-    'creation_date': {'bs_exp':['mods > originInfo > dateCreated',]}, 
+    'creation_date': {'bs_exp':['mods > originInfo > dateCreated',]},
     'sort_date': {'bs_exp':['mods > originInfo > dateOther[type=\"sort\"]',]},
     'display_date': {'bs_exp':['mods > originInfo > dateOther[type=\"display\"]',]},
     'language': {'bs_exp':['language > languageTerm',]},
     'type_of_resource': {'bs_exp':['typeOfResource',]},
     'format': {'bs_exp':['physicalDescription > form',]},
     'extent': {'bs_exp':['physicalDescription > extent',]},
-    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem
+    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem; includes 'subject > genre'
     'abstract': {'bs_exp':['abstract',]},
-    'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo']}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
+    'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo']},
     'temporal_coverage': {'bs_exp':['subject > temporal',]},
-    'geographic_coverage': {'bs_exp':['subject > geographic',]}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
+    'geographic_coverage': {'bs_exp':['geographic', 'hierarchicalGeographic', 'cartographics', 'geographicCoordinates']},
     'host': {'bs_exp':['relatedItem[type=\"host\"] > titleInfo > title',]},
     'series': {'bs_exp':['relatedItem[type=\"host\"] > note[type=\"series\"]',]},
     'container': {'bs_exp':['relatedItem[type=\"host\"] > note[type=\"container\"]',]},
@@ -55,18 +55,18 @@ ARCHIVAL_ITEM_MODS_MAP = {
 
 SERIAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordInfo > recordIdentifier',]},
-    'title': {'bs_exp':['titleInfo > title',]},
-    # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    # Formatted as follows: [title]: [subTitle], [nonSort]
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['titleInfo[type=\"alternative\"] > title',]},
     'enumeration_chronology': {'bs_exp':['mods > titleInfo > partNumber',]},
-    'associated_name':{'bs_exp':['name',]},
+    'associated_name':{'bs_exp':['mods > name',]},
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"]',]},
-    'publisher': {'bs_exp':['originInfo > publisher',]}, # also 'name > namePart' with role > roleTerm="publisher"
-    'publication_date': {'bs_exp':['originInfo > dateIssued',]}, #
+    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
+    'publication_date': {'bs_exp':['originInfo > dateIssued',]},
     'start_date': {'bs_exp':['originInfo > dateIssued[point=\"start\"]',]},
-    'end_date': {'bs_exp':['originInfo > dateIssued[point=\"end\"]',]}, 
+    'end_date': {'bs_exp':['originInfo > dateIssued[point=\"end\"]',]},
     'edition': {'bs_exp':['originInfo > edition',]},
     'issuance': {'bs_exp':['originInfo > issuance',]},
     'frequency': {'bs_exp':['originInfo > frequency',]},
@@ -74,11 +74,11 @@ SERIAL_ITEM_MODS_MAP = {
     'type_of_resource': {'bs_exp':['typeOfResource',]},
     'format': {'bs_exp':['physicalDescription > form',]},
     'extent': {'bs_exp':['physicalDescription > extent',]},
-    'genre': {'bs_exp':['genre',]}, # also 'subject > genre'
+    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem; includes 'subject > genre'
     'abstract': {'bs_exp':['abstract',]},
-    'subject': {'bs_exp':['subject > topic',]}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
+    'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo']},
     'temporal_coverage': {'bs_exp':['subject > temporal',]},
-    'geographic_coverage': {'bs_exp':['subject > geographic',]}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
+    'geographic_coverage': {'bs_exp':['geographic', 'hierarchicalGeographic', 'cartographics', 'geographicCoordinates',]},
     'target_audience': {'bs_exp':['targetAudience',]},
     'preceded_by': {'bs_exp':['relatedItem[type=\"preceding\"]',]},
     'succeeded_by': {'bs_exp':['relatedItem[type=\"succeeding\"]',]},
@@ -89,18 +89,18 @@ SERIAL_ITEM_MODS_MAP = {
 
 DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':['identifier[type=\"pitt\"]',]},
-    'title': {'bs_exp':['titleInfo > title',]},
-    # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    # Formatted as follows: [title]: [subTitle], [nonSort]
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['titleInfo[type=\"alternative\"] > title',]},
     'enumeration_chronology': {'bs_exp':['mods > titleInfo > partNumber',]},
-    'associated_name':{'bs_exp':['name',]}, #when not mods:role/mods:roleTerm="depositor"
+    'associated_name':{'bs_exp':['name',]}, # when not mods:role/mods:roleTerm="depositor"
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"]',]},
-    'publisher': {'bs_exp':['originInfo > publisher',]}, # also 'name > namePart' with role > roleTerm="publisher"
+    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateOther[type=\"sort\"]',]},
-    'start_date': {'bs_exp':['originInfo > dateCreated[point=\"start\"]',]}, # also 'originInfo > mods:dateIssued[@point=\"start\"]'' (?)
-    'end_date': {'bs_exp':['originInfo > dateCreated[point=\"end\"]',]}, # also 'originInfo > mods:dateIssued[@point=\"start\"]'' (?)
+    'start_date': {'bs_exp':['originInfo > dateCreated[point=\"start\"]', 'originInfo > mods:dateIssued[@point=\"start\"]',]},
+    'end_date': {'bs_exp':['originInfo > dateCreated[point=\"end\"]', 'originInfo > mods:dateIssued[@point=\"end\"]',]},
     'edition': {'bs_exp':['originInfo > edition',]},
     'issuance': {'bs_exp':['originInfo > issuance',]},
     'frequency': {'bs_exp':['originInfo > frequency',]},
@@ -108,11 +108,11 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'type_of_resource': {'bs_exp':['typeOfResource',]},
     'format': {'bs_exp':['physicalDescription > form',]},
     'extent': {'bs_exp':['physicalDescription > extent',]},
-    'genre': {'bs_exp':['genre',]}, # also 'subject > genre',
+    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem; includes 'subject > genre'
     'abstract': {'bs_exp':['abstract',]},
-    'subject': {'bs_exp':['subject > topic',]}, # also 'subject > name', 'subject > occupation', 'subject > titleInfo'
+    'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo',]},
     'temporal_coverage': {'bs_exp':['subject > temporal',]},
-    'geographic_coverage': {'bs_exp':['subject > geographic',]}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
+    'geographic_coverage': {'bs_exp':['geographic', 'hierarchicalGeographic', 'cartographics', 'geographicCoordinates',]},
     'target_audience': {'bs_exp':['targetAudience',]},
     'preceded_by': {'bs_exp':['relatedItem[type=\"preceding\"]',]},
     'succeeded_by': {'bs_exp':['relatedItem[type=\"succeeding\"]',]},
@@ -122,21 +122,21 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'issn': {'bs_exp':['identifier[type=\"issn\"]',]},
     'lccn': {'bs_exp':['identifier[type=\"lccn\"]',]},
     'oclcn': {'bs_exp':['identifier[type=\"oclcn\"]',]},
-    'depositor': {'bs_exp':['name',]} # with role > roleTerm="depositor"
+    'depositor': {'bs_exp':['name',]}
 }
 
 MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordIdentifier',]},
-    'title': {'bs_exp':['titleInfo > title',]}, # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['titleInfo[type=\"alternative\"] > title',]},
-    'creator': {'bs_exp':['name > namepart',]},
-    'contributor': {'bs_exp':['name > namepart',]},
+    'creator': {'bs_exp':['mods > name > namepart',]},
+    'contributor': {'bs_exp':['mods > name > namepart',]},
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"] ',]},
-    'publisher': {'bs_exp':['originInfo > publisher',]},
+    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateIssued',]}, # without attributes
-    'encoded_date': {'bs_exp':['originInfo > dateIssued',]}, # with encoding attribute; if contains attribute point="start" and point="end", group the values and split with a forward slash (/).
-    'creation_date': {'bs_exp':['originInfo > dateCreated',]}, # also originInfo > dateOther
+    'encoded_date': {'bs_exp':['originInfo > dateIssued[encoding]',]}, # with encoding attribute; if contains attribute point="start" and point="end", group the values and split with a forward slash (/).
+    'creation_date': {'bs_exp':['originInfo > dateCreated', 'originInfo > dateOther',]},
     'copyright_date': {'bs_exp':['originInfo > copyrightDate',]},
     'edition': {'bs_exp':['originInfo > edition',]},
     'issuance': {'bs_exp':['originInfo > issuance',]},
@@ -145,11 +145,11 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'type_of_resource': {'bs_exp':['typeOfResource',]},
     'format': {'bs_exp':['physicalDescription > form',]},
     'extent': {'bs_exp':['physicalDescription > extent',]},
-    'genre': {'bs_exp':['genre',]},
+    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem; includes 'subject > genre'
     'abstract': {'bs_exp':['abstract',]},
-    'subject': {'bs_exp':['subject',]},
+    'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo',]},
     'temporal_coverage': {'bs_exp':['subject > temporal',]},
-    'geographic_coverage': {'bs_exp':['subject > geographic',]}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
+    'geographic_coverage': {'bs_exp':['geographic', 'hierarchicalGeographic', 'cartographics', 'geographicCoordinates',]},
     'target_audience': {'bs_exp':['targetAudience',]},
     'isbn': {'bs_exp':['identifier[type=\"isbn\"]',]},
     'lccn': {'bs_exp':['identifier[type=\"lccn\"]',]},
@@ -159,16 +159,16 @@ MONOGRAPH_ITEM_MODS_MAP = {
 
 DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordIdentifier',]},
-    'title': {'bs_exp':['titleInfo > title',]}, # should also include subTitle and nonSort, formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['titleInfo[type=\"alternative\"] > title',]},
-    'creator': {'bs_exp':['name > namepart',]},
-    'contributor': {'bs_exp':['name > namepart',]},
-    'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"] ',]},
-    'publisher': {'bs_exp':['originInfo > publisher',]},
+    'creator': {'bs_exp':['mods > name > namepart',]},
+    'contributor': {'bs_exp':['mods > name > namepart',]},
+    'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"]',]},
+    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateIssued',]}, # without attributes
     'encoded_date': {'bs_exp':['originInfo > dateIssued',]}, # with encoding attribute; if has attribute @point="start" and point="end", group the values and split with a forward slash (/).
-    'creation_date': {'bs_exp':['originInfo > dateCreated',]}, # also originInfo > dateOther
+    'creation_date': {'bs_exp':['originInfo > dateCreated', 'originInfo > dateOther',]},
     'copyright_date': {'bs_exp':['originInfo > copyrightDate',]},
     'edition': {'bs_exp':['originInfo > edition',]},
     'issuance': {'bs_exp':['originInfo > issuance',]},
@@ -177,11 +177,11 @@ DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
     'type_of_resource': {'bs_exp':['typeOfResource',]},
     'format': {'bs_exp':['physicalDescription > form',]},
     'extent': {'bs_exp':['physicalDescription > extent',]},
-    'genre': {'bs_exp':['genre',]},
+    'genre': {'bs_exp':['*:not(relatedItem) > genre', ]}, # without parent of relatedItem; includes 'subject > genre'
     'abstract': {'bs_exp':['abstract',]},
-    'subject': {'bs_exp':['subject',]},
+    'subject': {'bs_exp':['subject > topic', 'subject > name', 'subject > occupation', 'subject > titleInfo',]},
     'temporal_coverage': {'bs_exp':['subject > temporal',]},
-    'geographic_coverage': {'bs_exp':['subject > geographic',]}, # also 'subject > hierarchicalGeographic', 'subject > cartographics', 'subject > geographicCoordinates'
+    'geographic_coverage': {'bs_exp':['geographic', 'hierarchicalGeographic', 'cartographics', 'geographicCoordinates',]},
     'target_audience': {'bs_exp':['targetAudience',]},
     'isbn': {'bs_exp':['identifier[type=\"isbn\"]',]},
     'lccn': {'bs_exp':['identifier[type=\"lccn\"]',]},
@@ -193,8 +193,5 @@ DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
 # mappings between base layer fields and BeautifulSoup selectors for RELS-EXT
 
 DIGITAL_ITEM_RDF_MAP = {
-      'collection_id': {'bs_exp':['Description > isMemberOfCollection[@rdf:resource]',]}  
+      'collection_id': {'bs_exp':['Description > isMemberOfCollection[@rdf:resource]',]}
 }
-
-# Feminist underground press records have no dateOther, only dateIssued, point=start and point=end
-# No creator either
