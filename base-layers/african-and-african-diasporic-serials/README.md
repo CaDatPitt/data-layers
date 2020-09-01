@@ -4,4 +4,4 @@
 
 **Description**: For descriptive metadata for this collection, see the [collection-level base layer](collection-base-layer.csv).
 
-**Data Dictionary**: See the [Serial Collection Metadata Element Set](data-dictionary/serial-collections.md) (catalog version) description, as reflected in the [CaD@Pitt Data Dictionary](https://cadatpitt.github.io/documentation/04-data-dictionary).
+**Data Dictionary**: See the [Serial Collection Metadata Element Set](https://github.com/CaDatPitt/documentation/blob/master/data-dictionary/serial-collections.md) (catalog version) description, as reflected in the [CaD@Pitt Data Dictionary](https://cadatpitt.github.io/documentation/04-data-dictionary).
