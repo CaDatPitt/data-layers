@@ -133,7 +133,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
     'creator': {'bs_exp':['mods > name > namepart',]},
     'contributor': {'bs_exp':['mods > name > namepart',]},
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"] ',]},
-    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
+    'publisher': {'bs_exp':['originInfo > publisher', 'mods > name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateIssued',]}, # without attributes
     'encoded_date': {'bs_exp':['originInfo > dateIssued[encoding]',]}, # with encoding attribute; if contains attribute point="start" and point="end", group the values and split with a forward slash (/).
     'creation_date': {'bs_exp':['originInfo > dateCreated', 'originInfo > dateOther',]},
