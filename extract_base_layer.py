@@ -16,7 +16,7 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    exceptions = ['creator', 'contributor', 'depositor', 'copyright_status', 'genre', 'type_of_resource']
+    exceptions = ['creator', 'contributor', 'publisher', 'depositor', 'copyright_status', 'collection_language', 'genre', 'type_of_resource']
 
     for u in field_dict.keys():
         #assumes field_dict[u]['bs_exp'] is a list of expressions
@@ -46,11 +46,32 @@ def get_fields_from_bs(bs_object, field_dict):
                 if field_data[-2:] == "; ":
                     field_data = field_data[0:-2]
 
-            if u == 'copyright_status':
+            if u == 'publisher':
+                if field_dict[u]['bs_exp'][0] = 'originInfo > publisher':
+                    bs_list = []
+                    results = bs_object.select(exp)
+                    for e in results:
+                        s = e.text.replace("\n", " ").replace("\t", " ")
+                        joined_s = " ".join(s.split())
+                        bs_list.append(joined_s)
+                    field_list = omit_repeats(bs_list)
+                    field_data += "; ".join(field_list)
+                else:
+                    results = bs_object.select(exp)
+                    # get multiple values, look for a grandchild, check value, then get namePart child text
+                    for r in results:
+                        this_data = get_name_by_grand_child(r, 'role > roleTerm', u, 'namePart' )
+                        field_data += this_data
+                        if this_data != "":
+                            field_data += "; "
+                    if field_data[-2:] == "; ":
+                        field_data = field_data[0:-2]
+
+            if u == 'copyright_status' or u == 'collection_language':
                 # looks for attribute value and handles exception if no attribute
                 results = bs_object.select(exp)
                 try:
-                    field_data += results[0]['copyright.status']
+                    field_data += results[0][u]
                 except:
                     field_data += ''
 
