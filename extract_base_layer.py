@@ -28,18 +28,18 @@ def get_fields_from_bs(bs_object, field_dict):
             if u not in exceptions:
                 bs_list = []
                 results = bs_object.select(exp)
-                for e in results:   
+                for e in results:
                     s = e.text.replace("\n", " ").replace("\t", " ")
                     joined_s = " ".join(s.split())
                     bs_list.append(joined_s)
                 field_list = omit_repeats(bs_list)
                 field_data += "; ".join(field_list)
 
-            if u == 'creator' or u == 'contributor' or u == 'depositor': 
+            if u == 'creator' or u == 'contributor' or u == 'depositor':
                 results = bs_object.select(exp)
-                # get multiple values, look for a grandchild, check value, then get namePart child text 
+                # get multiple values, look for a grandchild, check value, then get namePart child text
                 for r in results:
-                    this_data = get_name_by_grand_child(r, 'role > roleTerm', u, 'namePart' ) 
+                    this_data = get_name_by_grand_child(r, 'role > roleTerm', u, 'namePart' )
                     field_data += this_data
                     if this_data != "":
                         field_data += "; "
@@ -53,7 +53,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     field_data += results[0]['copyright.status']
                 except:
                     field_data += ''
-        
+
             if u == 'genre' or u == 'type_of_resource':
                 # handles multiple results and omits repeats
                 results = bs_object.select(exp)
@@ -62,7 +62,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_data += "; ".join(field_list)
 
         row[u] = field_data
-        
+
     return row
 
 def omit_trailing_punct(text):
@@ -123,7 +123,7 @@ def create_data_frame_from_list(source_list):
 
 def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_value, children='namePart' ):
     """
-    This function accepts a BeautifulSoup object, find role > roleTerm="creator", "depositor", or 
+    This function accepts a BeautifulSoup object, find role > roleTerm="creator", "depositor", or
     "contributor", and then if it matches, we return all namePart element values, comma separated
     """
 
@@ -131,7 +131,7 @@ def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_valu
     grand_children = bs_object.select(grand_child_exp)
 
     all_matches_joined = ""
-    
+
     match = False
     for g in grand_children:
 
@@ -141,7 +141,7 @@ def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_valu
     if match:
         all_matches = bs_object.select(children)
         all_matches_joined += ", ".join([i.text for i in all_matches])
-        
+
     # matches where there is no role, and grand_child_element_value=contributor
     if grand_child_element_value == 'contributor':
         no_roles = bs_object.select('role')
@@ -153,23 +153,23 @@ def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_valu
 
 def get_name_by_type(bs_object, role):
     """
-    This function accepts a BeautifulSoup object and a role, which is a string. 
-    It parses the xml object and returns the string value if the role matches. 
+    This function accepts a BeautifulSoup object and a role, which is a string.
+    It parses the xml object and returns the string value if the role matches.
     Otherwise it returns None
     """
-    
+
     # this has to be a find_all because sometimes the file has multiple roleTerm elements
     # and the one we want is second, third, nth
     names = bs_object.find_all('name')
     names_all = []
-    
+
     for n in names:
         role_match = n.find('role')
-        namePart = n.find('namePart') 
+        namePart = n.find('namePart')
         if role_match:
             if role_match.text.lower().strip() == role:
                 names_all.append(namePart.text)
-                
+
     field_list = omit_repeats(names_all)
     if len(field_list) > 0:
         name = "; ".join(field_list)
