@@ -63,7 +63,7 @@ SERIAL_ITEM_MODS_MAP = {
     'enumeration_chronology': {'bs_exp':['mods > titleInfo > partNumber',]},
     'associated_name':{'bs_exp':['mods > name',]},
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"]',]},
-    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
+    'publisher': {'bs_exp':['originInfo > publisher', 'mods > name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateIssued',]},
     'start_date': {'bs_exp':['originInfo > dateIssued[point=\"start\"]',]},
     'end_date': {'bs_exp':['originInfo > dateIssued[point=\"end\"]',]},
@@ -97,7 +97,7 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'enumeration_chronology': {'bs_exp':['mods > titleInfo > partNumber',]},
     'associated_name':{'bs_exp':['name',]}, # when not mods:role/mods:roleTerm="depositor"
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"]',]},
-    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
+    'publisher': {'bs_exp':['originInfo > publisher', 'mods > name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateOther[type=\"sort\"]',]},
     'start_date': {'bs_exp':['originInfo > dateCreated[point=\"start\"]', 'originInfo > mods:dateIssued[@point=\"start\"]',]},
     'end_date': {'bs_exp':['originInfo > dateCreated[point=\"end\"]', 'originInfo > mods:dateIssued[@point=\"end\"]',]},
@@ -165,7 +165,7 @@ DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
     'creator': {'bs_exp':['mods > name > namepart',]},
     'contributor': {'bs_exp':['mods > name > namepart',]},
     'publication_place': {'bs_exp':['originInfo > place > placeTerm[type=\"text\"]',]},
-    'publisher': {'bs_exp':['originInfo > publisher', 'name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
+    'publisher': {'bs_exp':['originInfo > publisher', 'mods > name > namePart',]}, # also 'name > namePart' with role > roleTerm="publisher"
     'publication_date': {'bs_exp':['originInfo > dateIssued',]}, # without attributes
     'encoded_date': {'bs_exp':['originInfo > dateIssued',]}, # with encoding attribute; if has attribute @point="start" and point="end", group the values and split with a forward slash (/).
     'creation_date': {'bs_exp':['originInfo > dateCreated', 'originInfo > dateOther',]},
