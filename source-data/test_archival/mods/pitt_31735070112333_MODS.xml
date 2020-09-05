@@ -1,0 +1,184 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <accessCondition>
+    <copyright xmlns="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="copyrighted" publication.status="published"></copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>papers of Robert Morris, 1781-1784</title>
+  </titleInfo>
+  <titleInfo nameTitleGroup="1" type="uniform">
+    <title>Archives. Selections</title>
+  </titleInfo>
+  <name nameTitleGroup="1" type="personal" usage="primary">
+    <namePart>Morris, Robert</namePart>
+    <namePart type="date">1734-1806</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Ferguson, E. James (Elmer James)</namePart>
+    <namePart type="date">1917-2002</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Catanzariti, John</namePart>
+    <namePart type="date">1942-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Nuxoll, Elizabeth Miles</namePart>
+    <namePart type="date">1943-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Gallagher, Mary A.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Dearmont, Nelson S.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Mullen, Kathleen H.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Ver Steeg, Clarence L. (Clarence Lester)</namePart>
+    <namePart type="date">1922-2007</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">biography</genre>
+  <genre authority="rdacontent">text</genre>
+  <genre authority="fast">History.</genre>
+  <genre authority="fast">Sources.</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh</placeTerm>
+    </place>
+    <publisher>University of Pittsburgh Press</publisher>
+    <dateIssued>1973-1999</dateIssued>
+    <dateIssued encoding="marc" point="start">1973</dateIssued>
+    <dateIssued encoding="marc" point="end">1999</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>9 volumes : illustrations ; 25 cm</extent>
+    <form authority="rdamedia" type="media">unmediated</form>
+    <form authority="rdacarrier" type="carrier">volume</form>
+  </physicalDescription>
+  <abstract type="Summary">Although Robert Morris (1734-1806), &quot;the Financier of the American Revolution,&quot; was a signer of the Declaration of Independence, the Articles of Confederation, and the Constitution, a powerful committee chairman in the Continental Congress, an important figure in Pennsylvania politics, and perhaps the most prominent businessman of his day, he is today least known of the great national leaders of the Revolutionary era. This oversight is being rectified by this definitive publication project that transcribes and carefully annotates the Office of Finance diary, correspondence, and other official papers written by Morris during his administration as superintendent of finance from 1781 to 1784.</abstract>
+  <tableOfContents>v. 1. February 7-July 31, 1781 -- v. 2. August-September 1781 -- v. 3. October 1, 1781-January 10, 1782 -- v. 4. January 11-April 15, 1782 -- v. 5. April 16-July 20, 1782 -- v. 6. July 22-October 31, 1782 -- v. 7. November 1, 1782-May 4, 1783 -- v. 8. May 5- December 31, 1783 -- v. 9. January 1-October 30, 1784.</tableOfContents>
+  <note altRepGroup="00" type="statement of responsibility">Elizabeth M. Nuxoll, Mary A. Gallagher, editors ; Nelson S. Dearmont, associate editor ; Kathleen H. Mullen, assistant editor ; Clarence L. Ver Steeg, editorial advisor ; E. James Ferguson, editor emeritus.</note>
+  <note>Vol. 6-7 edited by John Catanzariti and E. James Ferguson.</note>
+  <note>Vol. 8-9 edited by Elizabeth M. Nuxoll and Mary A. Gallagher.</note>
+  <note>Vol. 9: Erratum slip laid in.</note>
+  <note type="bibliography">Includes bibliographical references and indexes.</note>
+  <note type="additional physical form">Also available on the Internet.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Morris, Robert</namePart>
+      <namePart type="date">1734-1806</namePart>
+    </name>
+  </subject>
+  <subject authority="fast">
+    <name type="personal">
+      <namePart>Morris, Robert</namePart>
+      <namePart type="date">1734-1806</namePart>
+    </name>
+  </subject>
+  <subject authority="fast">
+    <name type="conference">
+      <namePart>American Revolution (1775-1783)</namePart>
+    </name>
+  </subject>
+  <subject authority="fast">
+    <temporal>1775-1783</temporal>
+  </subject>
+  <subject authority="fast">
+    <topic>Finance</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>History</topic>
+    <temporal>Revolution, 1775-1783</temporal>
+    <topic>Finance</topic>
+    <genre>Sources</genre>
+  </subject>
+  <subject authority="fast">
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">E302 .M82 1973</classification>
+  <relatedItem displayLabel="Online version:" type="otherFormat">
+    <titleInfo>
+      <title>Papers of Robert Morris, 1781-1784</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Archives. Selections</title>
+    </titleInfo>
+    <name>
+      <namePart>Morris, Robert, 1734-1806.</namePart>
+    </name>
+    <originInfo>
+      <publisher>[Pittsburgh] : University of Pittsburgh Press, 1973-1999</publisher>
+    </originInfo>
+    <identifier type="local">(OCoLC)606234350</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Online version:" type="otherFormat">
+    <titleInfo>
+      <title>Papers of Robert Morris, 1781-1784</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Archives. Selections</title>
+    </titleInfo>
+    <name>
+      <namePart>Morris, Robert, 1734-1806.</namePart>
+    </name>
+    <originInfo>
+      <publisher>[Pittsburgh] : University of Pittsburgh Press, 1973-1999</publisher>
+    </originInfo>
+    <identifier type="local">(OCoLC)609309433</identifier>
+  </relatedItem>
+  <identifier type="isbn">0822932679</identifier>
+  <identifier type="isbn">9780822932673</identifier>
+  <identifier type="isbn">0822932970</identifier>
+  <identifier type="isbn">9780822932970</identifier>
+  <identifier type="isbn">0822933241</identifier>
+  <identifier type="isbn">9780822933243</identifier>
+  <identifier type="isbn">0822933527</identifier>
+  <identifier type="isbn">9780822933526</identifier>
+  <identifier type="isbn">0822934205</identifier>
+  <identifier type="isbn">9780822934202</identifier>
+  <identifier type="isbn">082293485X</identifier>
+  <identifier type="isbn">9780822934851</identifier>
+  <identifier type="isbn">0822935929</identifier>
+  <identifier type="isbn">9780822935926</identifier>
+  <identifier type="isbn">0822938863</identifier>
+  <identifier type="isbn">9780822938866</identifier>
+  <identifier type="isbn">0822940558</identifier>
+  <identifier type="isbn">9780822940555</identifier>
+  <identifier type="lccn">72091107</identifier>
+  <identifier type="oclc">ocm00632087</identifier>
+  <identifier type="oclc">632087</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">730509</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20190508125830.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">2787311</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>
