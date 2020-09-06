@@ -1,0 +1,66 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Pollard's synthetic third reader</title>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Synthetic third reader. 1892</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pollard, Rebecca S. (Rebecca Smith)</namePart>
+    <namePart type="date">1831-1917</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chicago</placeTerm>
+    </place>
+    <publisher>Western Publishing House</publisher>
+    <dateCreated encoding="marc" point="start">1892</dateCreated>
+    <dateCreated encoding="marc" point="end">1890</dateCreated>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1892, c1890</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1892/1890</dateIssued>
+    <dateOther type="display">ca. 1892-1890</dateOther>
+    <dateOther type="sort">1892-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>320 p. : ill. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Rebecca S. Pollard.</note>
+  <subject authority="lcsh">
+    <topic>Readers (Elementary)</topic>
+    <temporal>1870-1950</temporal>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">MVS</recordContentSource>
+    <recordCreationDate encoding="marc">821118</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>451792</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acj4231m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

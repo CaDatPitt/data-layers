@@ -1,0 +1,74 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>abridgment of lectures on rhetorick</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blair, Hugh</namePart>
+    <namePart type="date">1718-1800</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Blake, John Lauris</namePart>
+    <namePart type="date">1788-1857</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nhu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Concord, [N.H.]</placeTerm>
+    </place>
+    <publisher>Hill and Moore</publisher>
+    <edition>3rd ed.</edition>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1822</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1822</dateIssued>
+    <dateOther type="display">1822</dateOther>
+    <dateOther type="sort">1822-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>304, ii p. ; 15 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Hugh Blair ; greatly improved by the addition to each chapter of appropriate questions, by J.L. Blake.</note>
+  <subject authority="lcsh">
+    <topic>Rhetoric</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>English language</topic>
+    <topic>Rhetoric</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Literature</topic>
+    <topic>History and criticism</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DRB</recordContentSource>
+    <recordCreationDate encoding="marc">750106</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>324456</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00abh8960m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

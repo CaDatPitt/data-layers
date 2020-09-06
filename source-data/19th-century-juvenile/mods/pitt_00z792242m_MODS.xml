@@ -1,0 +1,66 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Chesterfield's art of letter-writing simplified</title>
+    <subTitle>being a guide to friendly, affectionate, polite and business correspondence : containing a large collection of the most valuable information relative to the art of letter-writing, with clear and complete instructions how to begin and end correspondence, rules for punctuation and spelling, &amp;c. : to which is appended the complete rules of etiquette and the usages of society : containing the most approved rules for correct deportment in fashionable life, together with hints to gentlemen and ladies on irregular and vulgar habits, also, the etiquette of love and courtship, marriage etiquette, &amp;c</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Art of letter-writing simplified</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Complete rules of etiquette</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Dick &amp; Fitzgerald</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1857</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1857</dateIssued>
+    <dateOther type="display">1857</dateOther>
+    <dateOther type="sort">1857-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>68, 64,16 p. ; 17 cm.</extent>
+  </physicalDescription>
+  <note>Cover title: Chesterfield's letter writer.</note>
+  <note>Advertisements:  16 p. at end.</note>
+  <note>Includes index.</note>
+  <note>"Complete rules of etiquette and the usages of society"--64 p. at end.</note>
+  <subject authority="lcsh">
+    <topic>Letter writing</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Etiquette</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">CLU</recordContentSource>
+    <recordCreationDate encoding="marc">860728</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>792242</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00z792242m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

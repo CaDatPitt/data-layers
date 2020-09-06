@@ -1,0 +1,65 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>ladies' reader</title>
+    <subTitle>designed for the use of schools and family reading circles : comprising choice selections from standard authors, in prose and poetry, with the essential rules of elocution, simplified and arranged for strictly practical use</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Hows, John W. S. (John William Stanhope)</namePart>
+    <namePart type="date">1797-1871</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>E.H. Butler &amp; Co.</publisher>
+    <dateCreated encoding="marc" point="start">1864</dateCreated>
+    <dateCreated encoding="marc" point="end">1859</dateCreated>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1864, c1859</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1864/1859</dateIssued>
+    <dateOther type="display">ca. 1864-1859</dateOther>
+    <dateOther type="sort">1864-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>425 p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by John W.S. Hows.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>Readers</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">AAA</recordContentSource>
+    <recordCreationDate encoding="marc">770304</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20051205052842.0</recordChangeDate>
+    <recordIdentifier>450681</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acj3075m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

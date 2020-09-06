@@ -1,0 +1,66 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>American class book, or, A collection of instructive reading lessons</title>
+    <subTitle>adapted to the use of schools : selected from Blair's class book, etc</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>A collection of instructive reading lessons</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Kimber, Thomas</namePart>
+    <namePart type="date">fl. 1815</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>Kimber &amp; Richardson</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1812</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1812</dateIssued>
+    <dateOther type="display">1812</dateOther>
+    <dateOther type="sort">1812-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>347 p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Thomas Kimber.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>Readers</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">TXS</recordContentSource>
+    <recordCreationDate encoding="marc">771130</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20051205052842.0</recordChangeDate>
+    <recordIdentifier>450967</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acj3369m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

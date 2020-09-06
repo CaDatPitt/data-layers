@@ -1,0 +1,64 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>new Franklin primer and first reader</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Campbell, Loomis J. (Loomis Joseph)</namePart>
+    <namePart type="date">1831-1896</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Sheldon &amp; Company</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1885</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1885</dateIssued>
+    <dateOther type="display">1885</dateOther>
+    <dateOther type="sort">1885-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>112 p. : ill. ; 19 cm.</extent>
+  </physicalDescription>
+  <targetAudience authority="marctarget">juvenile</targetAudience>
+  <note type="statement of responsibility">by Loomis J. Campbell.</note>
+  <note>Illustrated title page.</note>
+  <subject authority="lcsh">
+    <topic>Readers (Primary)</topic>
+    <temporal>1870-1950</temporal>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870722</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>441116</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00ach2389m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
