@@ -31,7 +31,7 @@ EAD_MAP = {
 
 ARCHIVAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['identifier[type=\"pitt\"]',]},
-    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
     'creator': {'bs_exp':['mods > name',]},
     'contributor': {'bs_exp':['mods > name',]},
     'creation_date': {'bs_exp':['mods > originInfo > dateCreated',]},
@@ -55,7 +55,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
 
 SERIAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordInfo > recordIdentifier',]},
-    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
     # Formatted as follows: [title]: [subTitle], [nonSort]
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
@@ -89,7 +89,7 @@ SERIAL_ITEM_MODS_MAP = {
 
 DIGITIZED_SERIAL_ITEM_MODS_MAP = {
     'identifier': {'bs_exp':['identifier[type=\"pitt\"]',]},
-    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
     # Formatted as follows: [title]: [subTitle], [nonSort]
     # If value of subTitle is parenthetical, it should be formatted as following (less the nonSort where if it does not exist): [title] [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
@@ -127,7 +127,7 @@ DIGITIZED_SERIAL_ITEM_MODS_MAP = {
 
 MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordIdentifier',]},
-    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['titleInfo[type=\"alternative\"] > title',]},
     'creator': {'bs_exp':['mods > name > namepart',]},
@@ -159,7 +159,7 @@ MONOGRAPH_ITEM_MODS_MAP = {
 
 DIGITIZED_MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordIdentifier',]},
-    'title':{'bs_exp':['mods > titleInfo > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
+    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},  # formatted as follows: [title]: [subTitle], [nonSort]
     'uniform_title': {'bs_exp':['titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['titleInfo[type=\"alternative\"] > title',]},
     'creator': {'bs_exp':['mods > name > namepart',]},
