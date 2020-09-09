@@ -16,12 +16,11 @@ def get_fields_from_bs(bs_object, field_dict):
     Returns a dictionary of matching field values
     """
     row = {}
-    exceptions = ['creator', 'contributor', 'publisher', 'depositor', 'copyright_status', 'collection_language', 'genre', 'type_of_resource']
+    exceptions = ['title','creator', 'contributor', 'depositor', 'copyright_status', 'collection_language', 'genre', 'type_of_resource']
 
     for u in field_dict.keys():
         #assumes field_dict[u]['bs_exp'] is a list of expressions
         expressions = field_dict[u]['bs_exp']
-
         field_data = ""
 
         for exp in expressions:
@@ -32,8 +31,25 @@ def get_fields_from_bs(bs_object, field_dict):
                     s = e.text.replace("\n", " ").replace("\t", " ")
                     joined_s = " ".join(s.split())
                     bs_list.append(joined_s)
-                field_list = omit_repeats(bs_list)
+                field_list = omit_trailing_punct(bs_list)
                 field_data += "; ".join(field_list)
+
+            if u == 'title':
+                results = bs_object.select(exp)
+                title_text, subTitle_text, nonSort_text = "", "", ""
+                # check titleInfo child element name, get element value, and concatenate any appropriate punctuation for formatting purposes
+                for r in results:
+                    if r.name == 'title':
+                        title_text = r.text
+                    if r.name == 'subTitle':
+                        if (r.text)[0] == "(":
+                            subTitle_text = " " + r.text
+                        else:
+                            subTitle_text = ": " + r.text
+                    if r.name == 'nonSort':
+                        nonSort_text = ", " + r.text
+                # concatenate child element values with appropriate formatting
+                field_data += title_text + subTitle_text + nonSort_text
 
             if u == 'creator' or u == 'contributor' or u == 'depositor':
                 results = bs_object.select(exp)
@@ -45,27 +61,6 @@ def get_fields_from_bs(bs_object, field_dict):
                         field_data += "; "
                 if field_data[-2:] == "; ":
                     field_data = field_data[0:-2]
-
-            if u == 'publisher':
-                if field_dict[u]['bs_exp'][0] = 'originInfo > publisher':
-                    bs_list = []
-                    results = bs_object.select(exp)
-                    for e in results:
-                        s = e.text.replace("\n", " ").replace("\t", " ")
-                        joined_s = " ".join(s.split())
-                        bs_list.append(joined_s)
-                    field_list = omit_repeats(bs_list)
-                    field_data += "; ".join(field_list)
-                else:
-                    results = bs_object.select(exp)
-                    # get multiple values, look for a grandchild, check value, then get namePart child text
-                    for r in results:
-                        this_data = get_name_by_grand_child(r, 'role > roleTerm', u, 'namePart' )
-                        field_data += this_data
-                        if this_data != "":
-                            field_data += "; "
-                    if field_data[-2:] == "; ":
-                        field_data = field_data[0:-2]
 
             if u == 'copyright_status' or u == 'collection_language':
                 # looks for attribute value and handles exception if no attribute
@@ -85,6 +80,59 @@ def get_fields_from_bs(bs_object, field_dict):
         row[u] = field_data
 
     return row
+
+def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_value, children='namePart' ):
+    """
+    This function accepts a BeautifulSoup object, find role > roleTerm="creator", "depositor", or
+    "contributor", and then if it matches, we return all namePart element values, comma separated
+    """
+
+    # matches where roleTerm = grand_child_element_value
+    grand_children = bs_object.select(grand_child_exp)
+    all_matches_joined = ""
+    match = False
+
+    for g in grand_children:
+        if g.text == grand_child_element_value:
+            match = True
+            break
+    if match:
+        all_matches = bs_object.select(children)
+        all_matches_joined += ", ".join([i.text for i in all_matches])
+
+    # matches where there is no role, and grand_child_element_value=contributor
+    if grand_child_element_value == 'contributor':
+        no_roles = bs_object.select('role')
+        if len(no_roles) == 0:
+            all_matches = bs_object.select(children)
+            all_matches_joined += ", ".join([i.text for i in all_matches])
+    return all_matches_joined
+
+def get_name_by_type(bs_object, role):
+    """
+    This function accepts a BeautifulSoup object and a role, which is a string.
+    It parses the xml object and returns the string value if the role matches.
+    Otherwise it returns None
+    """
+
+    # this has to be a find_all because sometimes the file has multiple roleTerm elements
+    # and the one we want is second, third, nth
+    names = bs_object.find_all('name')
+    names_all = []
+
+    for n in names:
+        role_match = n.find('role')
+        namePart = n.find('namePart')
+        if role_match:
+            if role_match.text.lower().strip() == role:
+                names_all.append(namePart.text)
+
+    field_list = omit_repeats(names_all)
+    if len(field_list) > 0:
+        name = "; ".join(field_list)
+    else:
+        name = ""
+    return name
 
 def omit_trailing_punct(text):
     if len(text) > 0:
@@ -142,62 +190,6 @@ def create_data_frame_from_list(source_list):
         d[i] = pd.Series(row)
     return pd.DataFrame(d).T
 
-def get_name_by_grand_child(bs_object, grand_child_exp, grand_child_element_value, children='namePart' ):
-    """
-    This function accepts a BeautifulSoup object, find role > roleTerm="creator", "depositor", or
-    "contributor", and then if it matches, we return all namePart element values, comma separated
-    """
-
-    # matches where roleTerm = grand_child_element_value
-    grand_children = bs_object.select(grand_child_exp)
-
-    all_matches_joined = ""
-
-    match = False
-    for g in grand_children:
-
-        if g.text == grand_child_element_value:
-            match = True
-            break
-    if match:
-        all_matches = bs_object.select(children)
-        all_matches_joined += ", ".join([i.text for i in all_matches])
-
-    # matches where there is no role, and grand_child_element_value=contributor
-    if grand_child_element_value == 'contributor':
-        no_roles = bs_object.select('role')
-        if len(no_roles) == 0:
-            all_matches = bs_object.select(children)
-            all_matches_joined += ", ".join([i.text for i in all_matches])
-    return all_matches_joined
-
-
-def get_name_by_type(bs_object, role):
-    """
-    This function accepts a BeautifulSoup object and a role, which is a string.
-    It parses the xml object and returns the string value if the role matches.
-    Otherwise it returns None
-    """
-
-    # this has to be a find_all because sometimes the file has multiple roleTerm elements
-    # and the one we want is second, third, nth
-    names = bs_object.find_all('name')
-    names_all = []
-
-    for n in names:
-        role_match = n.find('role')
-        namePart = n.find('namePart')
-        if role_match:
-            if role_match.text.lower().strip() == role:
-                names_all.append(namePart.text)
-
-    field_list = omit_repeats(names_all)
-    if len(field_list) > 0:
-        name = "; ".join(field_list)
-    else:
-        name = ""
-    return name
-
 def base_layer_maker(location, collection_type, collection_subtype):
     """
     This function accepts three arguments and writes data to base-layers
@@ -234,7 +226,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
         [coll_list, item_list] = process_serial_source_data(item_dir)
 
     elif collection_type == 'monograph':
-        item_dir = "source-data/%s/marc_mods/" % location
+        item_dir = "source-data/%s/mods/" % location
 
         if not os.path.exists(item_dir):
             raise Exception ("location %s not found!" % (item_dir,))
@@ -254,11 +246,11 @@ def base_layer_maker(location, collection_type, collection_subtype):
     except:
         os.mkdir(newdir)
 
-    coll_csv = open(newdir + "/collection-base-layer.csv", 'w')
+    coll_csv = open(newdir + "/" + location + "-collection-base-layer.csv", 'w', encoding="utf-8")
     coll_csv.write(coll_df.to_csv())
     coll_csv.close()
 
-    item_csv = open(newdir + "/item-base-layer.csv", 'w')
+    item_csv = open(newdir + "/" + location + "-item-base-layer.csv", 'w', encoding="utf-8")
     item_csv.write(item_df.to_csv())
     item_csv.close()
     print("success!")
