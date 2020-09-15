@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Alternatives</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Alternatives (Pittsburgh, Pa.)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+      </place>
+      <publisher>[s.n.]</publisher>
+      <dateIssued>1968-1969</dateIssued>
+      <dateIssued encoding="marc" point="start">1968</dateIssued>
+      <dateIssued encoding="marc" point="end">1969</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Completely irregular</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>1 v. : ill.; 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Issue 1 - 6  (Sept. 19, 1968 - June 2, 1969)</note>
+    <note>University of Pittsburgh student publication.</note>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>University of Pittsburgh</namePart>
+      </name>
+      <genre>Periodicals</genre>
+    </subject>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">030318</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20030318103306.0</recordChangeDate>
+      <recordIdentifier>4121190</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Health writes!</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Medical Committee for Human Rights</namePart>
+      <namePart>Pittsburgh Chapter.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+      </place>
+      <publisher>Pgh. Chapter, Medical Committee for Human     Rights.</publisher>
+      <dateIssued encoding="marc" point="start">1972</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent> v. ill. 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">no. 1-          Sept. 1972-</note>
+    <subject authority="lcsh">
+      <topic>Medical care</topic>
+      <geographic>Pittsburgh, Pa</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Medical care</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <identifier type="oclc">02009618</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">760224</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>530809</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Issues in radical therapy</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Issues radic. ther</title>
+      <subTitle>(1982)</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>IRT &lt;1985-&gt;</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Issues in radical therapy (Springfield, Ill. : 1982)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Springfield, Ill</placeTerm>
+      </place>
+      <publisher>Cooperative Power, Inc.]</publisher>
+      <dateIssued>1982-1988</dateIssued>
+      <dateIssued encoding="marc" point="start">1982</dateIssued>
+      <dateIssued encoding="marc" point="end">1988</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Four no. a year</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>4 v. : ill. ; 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 10, no. 1 (spring 1982)-v. 13, nos. 3 &amp; 4 (summer/fall 1988).</note>
+    <note>Title from cover.</note>
+    <note type="additional physical form">Issued also in microform by University Microfilms.</note>
+    <note>Formed by the union of: Issues in cooperation &amp; power, and: State and mind.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social problems</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HN1 .I8</classification>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>Alternative press index</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>Psychology abstracts</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>Psychology information</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Issues in cooperation &amp; power</title>
+      </titleInfo>
+      <identifier type="issn">0199-8242</identifier>
+      <identifier type="local">(OCoLC)6189948</identifier>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>State and mind</title>
+      </titleInfo>
+      <identifier type="issn">0161-1089</identifier>
+      <identifier type="local">(DLC)   76647104</identifier>
+      <identifier type="local">(OCoLC)2386065</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>New studies on the left</title>
+      </titleInfo>
+      <identifier type="local">(DLC)sn 90035002</identifier>
+      <identifier type="local">(OCoLC)21076142</identifier>
+    </relatedItem>
+    <identifier type="issn">0886-0629</identifier>
+    <identifier type="lccn">83001546</identifier>
+    <identifier type="oclc">08711276</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">820823</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>550649</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>New studies on the left</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Studies on the left</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cou</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boulder, CO</placeTerm>
+      </place>
+      <publisher>Saxifrage Publications Group</publisher>
+      <dateIssued>c1989-</dateIssued>
+      <dateIssued encoding="marc" point="start">1989</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Four no. a year</frequency>
+      <frequency authority="marcfrequency">Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. : ill. ; 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 14, no.1 &amp; 2 (spring-summer 1989)-</note>
+    <note>Title from cover.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social problems</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>New left</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HN1 .N4</classification>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Issues in radical therapy (Springfield, Ill. : 1982)</title>
+      </titleInfo>
+      <identifier type="issn">0886- 0629</identifier>
+      <identifier type="local">(DLC)sc 83001546</identifier>
+      <identifier type="local">(OCLC) 8711276</identifier>
+    </relatedItem>
+    <identifier type="issn" invalid="yes">0086-0629</identifier>
+    <identifier type="lccn">90035002</identifier>
+    <identifier type="oclc">21076142</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">CFS</recordContentSource>
+      <recordCreationDate encoding="marc">900216</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522225058.0</recordChangeDate>
+      <recordIdentifier>983566</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Radical teacher</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Radic. teach</title>
+      <subTitle>(Cambridge)</subTitle>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Boston Women's Teacher's Group</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Education in These Times, Inc</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Radical Caucus in English and the Modern Languages</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge, MA</placeTerm>
+      </place>
+      <publisher>Boston Women's Teacher's Group, inc., etc.]</publisher>
+      <dateIssued encoding="marc" point="start">1975</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>3 no. a year &lt;, 1983-&gt;</frequency>
+      <frequency>Quarterly, 1975-</frequency>
+      <frequency authority="marcfrequency">Three times a year</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. ill. 28 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">v. 1-   Dec. 1975-</note>
+    <note>Vols. for Dec. 1975-May 1978 issued by the Radical Caucus in English and the Modern Languages; Sept. 1978-&lt;Dec. 1978&gt; by Education in These Times, inc., &lt;1983-&gt; by Boston Women's Teacher's Group.</note>
+    <subject authority="lcsh">
+      <topic>Teaching</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <topic>Study and teaching</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>English philology</topic>
+      <topic>Study and teaching</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">L11 .R24</classification>
+    <classification authority="ddc">051</classification>
+    <location>
+      <physicalLocation>PIT PITT</physicalLocation>
+    </location>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>MLA international bibliography of books and articles on the modern languages and literatures (Complete edition)</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+      <titleInfo>
+        <title>Alternative press index</title>
+      </titleInfo>
+      <part>
+        <detail type="part">
+          <number />
+        </detail>
+      </part>
+    </relatedItem>
+    <identifier type="issn">0191-4847</identifier>
+    <identifier type="lccn">79642767 //r83</identifier>
+    <identifier type="oclc">03948551</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">MYG</recordContentSource>
+      <recordCreationDate encoding="marc">780603</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185542.0</recordChangeDate>
+      <recordIdentifier>543035</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Radical teacher</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Radical teacher (Cambridge, Mass.)</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Boston Women's Teachers' Group</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Education in These Times, Inc</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Radical Caucus in English and the Modern Languages (Cambridge, Mass.)</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>EBSCO Publishing (Firm)</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Project MUSE</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Thomson Gale (Firm)</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <genre authority="rdacontent">text</genre>
+    <genre authority="">Periodicals.</genre>
+    <genre authority="">Periodicals.</genre>
+    <genre authority="">Electronic journals.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge, MA</placeTerm>
+      </place>
+      <publisher>Radical Teacher</publisher>
+      <dateIssued>1975-</dateIssued>
+      <dateIssued encoding="marc" point="start">1975</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Three issues per year, 1981-</frequency>
+      <frequency>Quarterly, 1975-1980</frequency>
+      <frequency authority="marcfrequency">Three times a year</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <form authority="gmd">electronic resource</form>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Dec. 1975)-</note>
+    <note>Title from cover (JSTOR, viewed Oct. 20, 2010).</note>
+    <note>Imprint varies.</note>
+    <note type="system details">Mode of access: World Wide Web.</note>
+    <note>Vols. for Dec. 1975-March 1978 issued by the Radical Caucus in English and the Modern Languages; May 1978-March 1979 by Education in These Times, inc.; Dec. 1983-1998 by Boston Women's Teachers' Group.</note>
+    <subject authority="lcsh">
+      <topic>Teaching</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <topic>Study and teaching</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic>English philology</topic>
+      <topic>Study and teaching</topic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="">
+      <topic>English philology</topic>
+      <topic>Study and teaching</topic>
+    </subject>
+    <subject authority="">
+      <topic>Radicalism</topic>
+      <topic>Study and teaching</topic>
+    </subject>
+    <subject authority="">
+      <topic>Teaching</topic>
+    </subject>
+    <subject>
+      <topic>Education</topic>
+    </subject>
+    <classification authority="lcc">NZ1 4311951</classification>
+    <classification authority="ddc" edition="14">107</classification>
+    <location>
+      <url displayLabel="electronic resource" usage="primary display" note="Pitt users please click through to access via JSTOR Arts &amp; Sciences VIII: 12/01/1975 to 04/30/2013">http://pitt.idm.oclc.org/login?url=http://www.jstor.org/journal/radicalteacher</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through to access via Academic OneFile: 06/01/2001 to present">http://pitt.idm.oclc.org/login?url=http://link.galegroup.com/apps/pub/0JVP/AONE?sid=kbart?&amp;u=upitt_main</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through to access via Business Insights: Global: 06/01/2001 to present">http://pitt.idm.oclc.org/login?url=http://link.galegroup.com/apps/pub/0JVP/BIG?sid=kbart?&amp;u=upitt_main</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through to access via Academic Search Premier: 04/01/2003 to present">http://pitt.idm.oclc.org/login?url=https://search.ebscohost.com/direct.asp?db=aph&amp;jid=H0Q&amp;scope=site</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through to access via Project MUSE: 2008 to 2013">http://pitt.idm.oclc.org/login?url=https://muse.jhu.edu/journal/414</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through to access via Directory of Open Access Journals: 2013 to present">http://radicalteacher.library.pitt.edu</url>
+    </location>
+    <location>
+      <url displayLabel="electronic resource" note="Pitt users please click through to access via Freely Accessible Social Science Journals: 2013 to present">http://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/issue/archive</url>
+    </location>
+    <relatedItem type="otherFormat" displayLabel="Print version, 1975-2012:">
+      <titleInfo>
+        <title>Radical teacher (Cambridge, Mass.)</title>
+      </titleInfo>
+      <identifier type="issn">0191-4847</identifier>
+      <identifier type="local">(DLC)   79642767</identifier>
+      <identifier type="local">(OCoLC)3948551</identifier>
+    </relatedItem>
+    <identifier type="issn">1941-0832</identifier>
+    <identifier type="issn" invalid="yes">0191-4847</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <descriptionStandard>pn</descriptionStandard>
+      <recordContentSource authority="marcorg">AMH</recordContentSource>
+      <recordCreationDate encoding="marc">780603</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20190513112719.0</recordChangeDate>
+      <recordIdentifier>4187176</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Radical therapist</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">West Somerville, Mass. etc</placeTerm>
+      </place>
+      <publisher>Radical Therapist, inc.]</publisher>
+      <dateIssued encoding="marc" point="start">19uu</dateIssued>
+      <dateIssued encoding="marc" point="end">1972</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ill. 45 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">   -v. 2, no. 5;   -Feb. 1972.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social problems</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radical therapy</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social psychology</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mental health</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Socialism</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HN1 .R27</classification>
+    <classification authority="ddc">362/.042/05</classification>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Rough times</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="issn">0033-7641</identifier>
+    <identifier type="lccn">75647445</identifier>
+    <identifier type="oclc">02243722</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760122</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185518.0</recordChangeDate>
+      <recordIdentifier>531989</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>RT</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">West Somerville, Mass</placeTerm>
+      </place>
+      <publisher>Radical Therapist.</publisher>
+      <dateIssued encoding="marc" point="start">1970</dateIssued>
+      <dateIssued encoding="marc" point="end">9999</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">microfilm</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Began publication May 1970.</note>
+    <note type="reproduction">Microfilm Wooster, Ohio Micro Photo Division, Bell &amp; Howell.</note>
+    <subject authority="lcsh">
+      <topic>Underground newspapers</topic>
+      <geographic>Massachusetts</geographic>
+      <geographic>West Somerville</geographic>
+    </subject>
+    <subject>
+      <hierarchicalGeographic>
+        <country>United States</country>
+        <state>Massachusettes</state>
+        <city>West Somerville</city>
+      </hierarchicalGeographic>
+    </subject>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Bell and Howell Underground Press Collection</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Radical therapist / rough times</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">03519587</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">KSU</recordContentSource>
+      <recordCreationDate encoding="marc">771227</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20070410094630.0</recordChangeDate>
+      <recordIdentifier>542053</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>RT</title>
+      <subTitle>a journal of radical therapy</subTitle>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">West Somerville, Mass</placeTerm>
+      </place>
+      <publisher>Radical Therapist, inc.]</publisher>
+      <dateIssued encoding="marc" point="start">1974</dateIssued>
+      <dateIssued encoding="marc" point="end">1976</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>2 v. ill. 44 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">v. 4, no. 5-v. 5, no. 2; Dec. 1974-Apr./June 1976.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social problems</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social psychology</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mental health</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Socialism</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HN1 .R27</classification>
+    <classification authority="ddc">362/.042/05</classification>
+    <location>
+      <physicalLocation>PIT PIT*</physicalLocation>
+    </location>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Rough times</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>State and mind</title>
+      </titleInfo>
+      <identifier type="issn">0161-1089</identifier>
+    </relatedItem>
+    <identifier type="issn">0360-4713</identifier>
+    <identifier type="lccn">75647444</identifier>
+    <identifier type="oclc">02243721</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760122</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185518.0</recordChangeDate>
+      <recordIdentifier>531988</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>Rough times</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">West Somerville, Mass</placeTerm>
+      </place>
+      <publisher>Radical Therapist, inc.]</publisher>
+      <dateIssued encoding="marc" point="start">1972</dateIssued>
+      <dateIssued encoding="marc" point="end">1974</dateIssued>
+      <issuance>serial</issuance>
+      <frequency authority="marcfrequency">Unknown</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ill. 44 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">v. 2, no. 6-v. 4, no. 3; Apr. 1972-Sept. 1974.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social problems</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social psychology</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mental health</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Socialism</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HN1 .R27</classification>
+    <classification authority="ddc">362/.042/05</classification>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Radical therapist</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>RT; a journal of radical therapy</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="issn">0360-4705</identifier>
+    <identifier type="lccn">75647443</identifier>
+    <identifier type="oclc">02243720</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760122</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20121114185518.0</recordChangeDate>
+      <recordIdentifier>531987</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods version="3.5">
+    <titleInfo>
+      <title>State and mind</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>State mind</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">W. Somerville, Mass</placeTerm>
+      </place>
+      <publisher>RT, Inc.]</publisher>
+      <dateIssued encoding="marc" point="start">1976</dateIssued>
+      <dateIssued encoding="marc" point="end">198u</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Eight nos. a year</frequency>
+      <frequency authority="marcfrequency">Bimonthly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v. ill. 44 cm.</extent>
+    </physicalDescription>
+    <note type="date/sequential designation">v. 5, no. 3-   July/Sept. 1976-</note>
+    <note>Merged with: Issues in cooperation &amp; power, to become: Issues in radical therapy (Springfield, Ill. : 1982).</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social problems</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Radicalism</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Social psychology</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mental health</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Socialism</topic>
+      <geographic>United States</geographic>
+      <topic>Periodicals</topic>
+    </subject>
+    <classification authority="lcc">HN1 .R27</classification>
+    <classification authority="ddc">362/.042/05</classification>
+    <location>
+      <physicalLocation>PIT PIT*</physicalLocation>
+    </location>
+    <location>
+      <physicalLocation>PIT PITX</physicalLocation>
+    </location>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>RT, a journal of radical therapy</title>
+      </titleInfo>
+      <identifier type="issn">0360-4713</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Issues in cooperation &amp; power</title>
+      </titleInfo>
+      <identifier type="issn">0199-8242</identifier>
+      <identifier type="local">(OCoLC)6189948</identifier>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Issues in radical therapy (Springfield, Ill. : 1982)</title>
+      </titleInfo>
+      <identifier type="issn">0886-0629</identifier>
+      <identifier type="local">(OCoLC)8711276</identifier>
+    </relatedItem>
+    <identifier type="issn">0161-1089</identifier>
+    <identifier type="lccn">76647104</identifier>
+    <identifier type="oclc">02386065</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">760820</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>539060</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+    </recordInfo>
+  </mods>
+</modsCollection>

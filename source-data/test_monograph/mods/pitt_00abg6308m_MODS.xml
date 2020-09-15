@@ -1,0 +1,68 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>First book in arithmetic</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Goff, Milton B. (Milton Browning)</namePart>
+    <namePart type="date">1831-1890</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh</placeTerm>
+    </place>
+    <publisher>A.H. English &amp; Co.</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1876</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1876</dateIssued>
+    <dateOther type="display">1876</dateOther>
+    <dateOther type="sort">1876-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>144 p. : ill. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Milton B. Goff.</note>
+  <subject authority="lcsh">
+    <topic>Arithmetic</topic>
+    <genre>Early works to 1900</genre>
+  </subject>
+  <classification authority="lcc">QA103 .G612</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>American progressive series</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">02027191 /REV.</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">860109</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20000906034429.0</recordChangeDate>
+    <recordIdentifier>311976</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00abg6308m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
