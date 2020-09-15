@@ -359,8 +359,9 @@ def base_layer_maker(location, collection_type, collection_subtype):
     dict
         a pandas DataFrame containing source data
     """
+    
     # validate arguments
-    if not os.path.exists('source-data/%s' % location):
+    if not os.path.exists('../source-data/%s' % location):
         raise Exception ("location source-data/%s not found!" % (location,))
 
     if collection_type not in ['archival', 'monograph', 'serial']:
@@ -369,17 +370,23 @@ def base_layer_maker(location, collection_type, collection_subtype):
     if collection_subtype not in ['catalog', 'digital', 'physical']:
         raise Exception ("collection subtype '%s' not one of 'catalog', 'digital', or 'physical'." % (collection_subtype,))
 
+    if collection_type == 'archival' and collection_subtype == 'catalog':
+        raise Exception ("collection subtype '%s' can only be used with collection type 'monograph' or 'serial'." % (collection_subtype,))
+
+    if collection_type != 'archival' and collection_subtype == 'physical':
+        raise Exception ("collection subtype '%s' can only be used with collection type 'archival'." % (collection_subtype,))
+
     # route source data processing based on type
     result = {}
     collection_dir, item_dir = "", ""
 
     if collection_type == 'archival' or collection_subtype == 'digital':
-        collection_dir = "source-data/%s/ead/" % location
+        collection_dir = "../source-data/%s/ead/" % location
         if not os.path.exists(collection_dir):
             raise Exception ("location %s not found!" % (collection_dir,))
 
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
-        item_dir = "source-data/%s/mods/" % location
+        item_dir = "../source-data/%s/mods/" % location
         if not os.path.exists(item_dir):
             raise Exception ("location %s not found!" % (item_dir,))
 
@@ -392,7 +399,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
     item_df = create_data_frame_from_list(item_list)
 
     # create subdirectory in base-layers for that location
-    newdir = "base-layers/" + location
+    newdir = "../base-layers/" + location
     try:
         os.stat(newdir)
     except:
