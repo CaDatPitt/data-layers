@@ -192,6 +192,12 @@ DIGITAL_MONOGRAPH_ITEM_MODS_MAP = {
 
 # mappings between base layer fields and BeautifulSoup selectors for RELS-EXT
 
+DIGITAL_COLLECTION_RDF_MAP = {
+    'coll_id': {'bs_exp':['Description',]},
+    'collection_id': {'bs_exp':['Description > isMemberOfCollection',]},
+}
+
 DIGITAL_ITEM_RDF_MAP = {
-      'collection_id': {'bs_exp':['Description > isMemberOfCollection[rdf:resource]',]}
+    'item_id': {'bs_exp':['Description',]},
+    'collection_id': {'bs_exp':['Description > isMemberOfCollection',]},
 }
