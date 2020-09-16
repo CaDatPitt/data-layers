@@ -480,7 +480,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
     # match where roleTerm value is in the appropriate sublist of specified_roleTerms, based on key
     if name_tags.role:
         for tag in roleTerm_tags:
-                roleTerm_value = tag.text
+                roleTerm_value = (omit_trailing_punct(tag.text)).strip()
                 if key == 'creator':
                     if roleTerm_value in creator:
                         match = True
