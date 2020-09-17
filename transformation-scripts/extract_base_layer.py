@@ -497,7 +497,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
                 elif key == 'associated_name':
                     if roleTerm_value not in 'depositor':
                         match = True
-                        if roleTerm_value.strip() != "":
+                        if roleTerm_value != "":
                             matched_roleTerm_list.append(roleTerm_value)
 
     # match where no role exists
@@ -507,12 +507,11 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
         elif key == 'contributor' and not(bs_object.has_attr('usage')):
             match = True
 
-
     # if name matches key, concatenate all namePart values, separated by a comma
     # if key is 'associated name' or 'contributor', also concatenate roleTerm values in parentheses
     if match:
-        name_parts_joined += ", ".join([i.text.replace("\n", " ").replace("\t", " ").strip() for i in namePart_tags])
-        if key == 'contributor' or key == 'associated_name' and name_tags.role and matched_roleTerm_list:
+        name_parts_joined += ", ".join([i.text.strip() for i in namePart_tags])
+        if key == 'contributor' or key == 'associated_name' and name_tags.role and (" ".join(matched_roleTerm_list)).strip() != "":
             matched_roleTerms = ", ".join(matched_roleTerm_list)
             name_parts_joined += " (" + matched_roleTerms + ")"
 
