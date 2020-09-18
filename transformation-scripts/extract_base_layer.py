@@ -369,7 +369,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 start_value, end_value, other_value = "", "", ""
 
                 # check if element has point attribute (point="start" or point="end")
-                # if so, get start value and end value to be concatenated as a date range,if both exist
+                # if so, get start value and end value and, if both exist, concatenate with a forward-slash
                 # if not, simply get value
                 for result in results:
                     if result.has_attr('point'):
@@ -390,7 +390,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 value = ""
                 field_list = []
 
-                # remove trailing punctuation from values and sort values
+                # get values, remove trailing punctuation, and sort
                 for result in results:
                     value = omit_trailing_punct((result.text).strip())
                     if value != "" and omit_repeats(value, field_list):
@@ -398,8 +398,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_list.sort()
                 field_data += "|||".join(field_list)
 
-            # for the following exceptions:
-            # look for attribute value and handle exception if no attribute
+            # for the following exceptions: look for attribute value and handle exception if no attribute
             if key == 'copyright_status':
                 results = bs_object.select(exp)
 
@@ -480,7 +479,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
     # match where roleTerm value is in the appropriate sublist of specified_roleTerms, based on key
     if name_tags.role:
         for tag in roleTerm_tags:
-                roleTerm_value = (omit_trailing_punct(tag.text)).strip()
+                roleTerm_value = omit_trailing_punct(tag.text.strip())
                 if key == 'creator':
                     if roleTerm_value in creator:
                         match = True
