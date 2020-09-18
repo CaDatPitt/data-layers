@@ -93,11 +93,11 @@ def base_layer_maker(location, collection_type, collection_subtype):
         os.mkdir(newdir)
 
     # write DataFrames to CSV
-    coll_csv = open(newdir + "/" + location + "-collection-base-layer.csv", 'w', encoding="utf-8")
+    coll_csv = open(newdir + "/" + location + "-collection-base-layer.csv", 'w', encoding="utf-8", newline='')
     coll_csv.write(coll_df.to_csv())
     coll_csv.close()
 
-    item_csv = open(newdir + "/" + location + "-item-base-layer.csv", 'w', encoding="utf-8")
+    item_csv = open(newdir + "/" + location + "-item-base-layer.csv", 'w', encoding="utf-8", newline='')
     item_csv.write(item_df.to_csv())
     item_csv.close()
     print("success!")
