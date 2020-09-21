@@ -379,7 +379,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     if result.has_attr('point'):
                         if result['point'] == "start":
                             start_value = result.text.strip()
-                        else:
+                        elif result['point'] == "end" and end_value == "":
                             end_value += "/" + result.text.strip()
                     if not(result.has_attr('point')):
                        other_value = "|||" + result.text.strip()
