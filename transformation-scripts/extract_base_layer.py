@@ -292,9 +292,10 @@ def get_fields_from_bs(bs_object, field_dict):
         # get element and element attribute values
         # process/format values and omit repeats to produce field data for rows
         for exp in expressions:
+
             if key not in exceptions:
-                field_list = []
                 results = bs_object.select(exp)
+                field_list = []
 
                 for result in results:
                     value = result.text.replace("\n", " ").replace("\t", " ").strip()
@@ -307,7 +308,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 results = bs_object.select(exp)
                 title_value, subTitle_value, nonSort_value = "", "", ""
 
-                # chec titleInfo child element names and gets matched element values
+                # check titleInfo child element names and get matched element values
                 # concatenate child element values with specified punctuation for formatting purposes
                 for result in results:
                     if result.name == 'title':
@@ -398,7 +399,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_list.sort()
                 field_data += "|||".join(field_list)
 
-            # for the following exceptions: look for attribute value and handle exception if no attribute
+            # for the following keys: look for attribute value and handle exception if no attribute
             if key == 'copyright_status':
                 results = bs_object.select(exp)
 
