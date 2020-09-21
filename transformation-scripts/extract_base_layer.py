@@ -302,7 +302,8 @@ def get_fields_from_bs(bs_object, field_dict):
                     joined_value = " ".join(value.split())
                     if joined_value != "" and omit_repeats(joined_value, field_list):
                         field_list.append(joined_value)
-                field_data += "|||".join(field_list)
+                        field_data += "|||" + joined_value
+                field_data = field_data.strip('|||')
 
             if key == 'title':
                 results = bs_object.select(exp)
@@ -332,7 +333,8 @@ def get_fields_from_bs(bs_object, field_dict):
                     value = get_name_by_grand_child(result, key, 'namePart', 'role > roleTerm')
                     if value != "" and omit_repeats(value, field_list):
                         field_list.append(value)
-                field_data += "|||".join(field_list)
+                        field_data += "|||" + joined_value
+                field_data = field_data.strip('|||')
 
             if key == 'publisher':
                 results = bs_object.select(exp)
@@ -347,7 +349,8 @@ def get_fields_from_bs(bs_object, field_dict):
                     else:
                         value = get_name_by_grand_child(result, key, 'namePart', 'role > roleTerm')
                     joined_value = " ".join(value.split())
-                    if joined_value != "":
+                    if joined_value != "" and omit_repeats(joined_value, field_list):
+                        field_list.append(joined_value)
                         field_data += "|||" + joined_value
                 field_data = field_data.strip('|||')
 
@@ -534,7 +537,7 @@ def omit_repeats(value, field_list):
 
     value = value.lower()
     field_list = [i.lower() for i in field_list]
-    if value in field_list:
+    if value in field_list or omit_trailing_punct(value) in field_list:
         return False
     else:
         return True
