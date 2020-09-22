@@ -333,8 +333,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     value = get_name_by_grand_child(result, key, 'namePart', 'role > roleTerm')
                     if value != "" and omit_repeats(value, field_list):
                         field_list.append(value)
-                        field_data += "|||" + joined_value
-                field_data = field_data.strip('|||')
+                field_data += "|||".join(field_list)
 
             if key == 'publisher':
                 results = bs_object.select(exp)
@@ -349,8 +348,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     else:
                         value = get_name_by_grand_child(result, key, 'namePart', 'role > roleTerm')
                     joined_value = " ".join(value.split())
-                    if joined_value != "" and omit_repeats(joined_value, field_list):
-                        field_list.append(joined_value)
+                    if joined_value != "":
                         field_data += "|||" + joined_value
                 field_data = field_data.strip('|||')
 
@@ -496,7 +494,8 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
                 elif key == 'contributor':
                     if not(any(roleTerm_value in sublist for sublist in specified_roleTerms)):
                         match = True
-                        matched_roleTerm_list.append(roleTerm_value)
+                        if roleTerm_value != "":
+                            matched_roleTerm_list.append(roleTerm_value)
                 elif key == 'associated_name':
                     if roleTerm_value not in 'depositor':
                         match = True
@@ -514,9 +513,10 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
     # if key is 'associated name' or 'contributor', also concatenate roleTerm values in parentheses
     if match:
         name_parts_joined += ", ".join([i.text.strip() for i in namePart_tags])
-        if key == 'contributor' or key == 'associated_name' and name_tags.role and (" ".join(matched_roleTerm_list)).strip() != "":
+        if key == 'contributor' or key == 'associated_name' and name_tags.role and matched_roleTerm_list:
             matched_roleTerms = ", ".join(matched_roleTerm_list)
             name_parts_joined += " (" + matched_roleTerms + ")"
+            name_parts_joined = name_parts_joined.strip(' ()')
 
     return name_parts_joined
 
