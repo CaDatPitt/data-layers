@@ -516,7 +516,8 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
         if key == 'contributor' or key == 'associated_name' and name_tags.role and matched_roleTerm_list:
             matched_roleTerms = ", ".join(matched_roleTerm_list)
             name_parts_joined += " (" + matched_roleTerms + ")"
-            name_parts_joined = name_parts_joined.strip(' ()')
+            if name_parts_joined[-3:] == " ()":
+                    name_parts_joined = name_parts_joined[0:-3]
 
     return name_parts_joined
 
