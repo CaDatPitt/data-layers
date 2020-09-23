@@ -78,7 +78,8 @@ CATALOG_SERIAL_ITEM_MODS_MAP = {
     'succeeded_by': {'bs_exp':['mods > relatedItem[type=\"succeeding\"]',]},
     'issn': {'bs_exp':['mods > identifier[type=\"issn\"]',]},
     'lccn': {'bs_exp':['mods > identifier[type=\"lccn\"]',]},
-    'oclcn': {'bs_exp':['mods > identifier[type=\"oclcn\"]']}
+    'oclcn': {'bs_exp':['mods > identifier[type=\"oclcn\"]']},
+    'url': {'bs_exp':['mods > location > url',]}
 }
 
 DIGITAL_SERIAL_ITEM_MODS_MAP = {
@@ -114,7 +115,8 @@ DIGITAL_SERIAL_ITEM_MODS_MAP = {
     'issn': {'bs_exp':['mods > identifier[type=\"issn\"]',]},
     'lccn': {'bs_exp':['mods > identifier[type=\"lccn\"]',]},
     'oclcn': {'bs_exp':['mods > identifier[type=\"oclcn\"]',]},
-    'depositor': {'bs_exp':['mods > name',]}
+    'depositor': {'bs_exp':['mods > name',]},
+    'url': {'bs_exp':['mods > location > url',]}
 }
 
 CATALOG_MONOGRAPH_ITEM_MODS_MAP = {
