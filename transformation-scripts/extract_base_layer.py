@@ -511,6 +511,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
 
     # if name matches key, concatenate all namePart values, separated by a comma
     # if key is 'associated name' or 'contributor', also concatenate roleTerm values in parentheses
+    # remove empty parentheses
     if match:
         name_parts_joined += ", ".join([i.text.strip() for i in namePart_tags])
         if key == 'contributor' or key == 'associated_name' and name_tags.role and matched_roleTerm_list:
@@ -545,7 +546,7 @@ def omit_repeats(value, field_list):
 
 def omit_trailing_punct(text):
     """
-    Checks if a value already exists in a list.
+    Removes specified trailing punctuation from a string.
 
     Parameters
     ----------
