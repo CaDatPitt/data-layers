@@ -81,9 +81,11 @@ def base_layer_maker(location, collection_type, collection_subtype):
     item_relsext_df = create_data_frame_from_list(item_relsext_list)
 
     # merge relsext DataFrames with collection and item DataFrames
-    if collection_type == 'archival' and collection_subtype == 'digital':
-        coll_df = (pd.merge(coll_df, coll_relsext_df, how='left', left_on=['finding_aid_id'], right_on=['coll_id'])).drop('coll_id', axis=1)
-        item_df = (pd.merge(item_df, item_relsext_df, how='left', left_on=['id'], right_on=['item_id'])).drop('item_id', axis=1)
+    if collection_subtype == 'digital':
+        if not coll_df.empty and not coll_relsext_df.empty:
+            coll_df = (pd.merge(coll_df, coll_relsext_df, how='left', left_on=['finding_aid_id'], right_on=['coll_id'])).drop('coll_id', axis=1)
+        if not item_df.empty and not item_relsext_df.empty:
+            item_df = (pd.merge(item_df, item_relsext_df, how='left', left_on=['id'], right_on=['item_id'])).drop('item_id', axis=1)
 
     # create subdirectory in base-layers for that location
     newdir = "../base-layers/" + location
@@ -92,7 +94,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
     except:
         os.mkdir(newdir)
 
-    # write DataFrames to CSV
+    # write collection and item DataFrames to CSV
     coll_csv = open(newdir + "/" + location + "-collection-base-layer.csv", 'w', encoding="utf-8", newline='')
     coll_csv.write(coll_df.to_csv())
     coll_csv.close()
@@ -100,6 +102,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
     item_csv = open(newdir + "/" + location + "-item-base-layer.csv", 'w', encoding="utf-8", newline='')
     item_csv.write(item_df.to_csv())
     item_csv.close()
+
     print("success!")
     return
 
@@ -130,7 +133,7 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
         can be empty if no data exists
     """
     # create rows of data in dictionaries
-    # collection-level
+    # collection level
     collection_data = get_bs_from_xml(collection_dir, 'ead')
     collection_output_rows = []
     if collection_type == 'archival' or collection_subtype == 'digital':
@@ -141,30 +144,24 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
                 collection_record_dict[key] = (row[key])
             collection_output_rows.append(collection_record_dict)
 
-    # item-level
+    # item level
     item_data = get_bs_from_xml(item_dir, 'mods')
     item_output_rows = []
 
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
-        if collection_type == 'archival':
-            for x in item_data:
-                row = get_fields_from_bs(x, data_layers_config.ARCHIVAL_ITEM_MODS_MAP)
-                item_record_dict = {}
-                for key in row.keys():
-                    item_record_dict[key] = row[key]
-                item_output_rows.append(item_record_dict)
-        else:
-            for f in item_data:
+        for f in item_data:
                 for x in f.find_all('mods'):
+                    if collection_type == 'archival':
+                        row = get_fields_from_bs(x, data_layers_config.ARCHIVAL_ITEM_MODS_MAP)
                     if collection_type == 'monograph':
                         if collection_subtype == 'catalog':
                             row = get_fields_from_bs(x, data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP)
-                        else:
+                        elif collection_subtype == 'digital':
                             row = get_fields_from_bs(x, data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP)
                     elif collection_type == 'serial':
                         if collection_subtype == 'catalog':
                             row = get_fields_from_bs(x, data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP)
-                        else:
+                        elif collection_subtype == 'digital':
                             row = get_fields_from_bs(x, data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP)
                     item_record_dict = {}
                     for key in row.keys():
@@ -176,7 +173,8 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     coll_relsext_output_rows = []
     item_relsext_output_rows = []
 
-    if collection_type == 'archival' or collection_subtype == 'digital':
+    if collection_subtype == 'digital':
+        # collection level
         for x in relsext_data:
             row = get_fields_from_bs(x, data_layers_config.DIGITAL_COLLECTION_RDF_MAP)
             collection_relsext_record_dict = {}
@@ -184,6 +182,7 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
                 collection_relsext_record_dict[key] = (row[key])
             coll_relsext_output_rows.append(collection_relsext_record_dict)
 
+        # item level
         for x in relsext_data:
             row = get_fields_from_bs(x, data_layers_config.DIGITAL_ITEM_RDF_MAP)
             item_relsext_record_dict = {}
@@ -564,7 +563,7 @@ def omit_trailing_punct(text):
             text = text[0:-1]
     return text
 
-# call  main function
+# call main function
 if __name__ == '__main__':
     if len(sys.argv) < 4:
         sys.exit('when running as a script, you must provide three arguments: source collection name, collection type, and collection sub-type')
