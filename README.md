@@ -29,4 +29,4 @@ If you plan to develop your own custom version of the Data Layers framework, rat
 To clone the repository requires having git or GitHub Desktop installed on your local computer. That configuration is beyond the scope of this documentation, but there is plenty of guidance [elsewhere](https://docs.github.com/en/github/getting-started-with-github/set-up-git). Once this is configured, you will look for the green "Code" button on the Data Layers Repository, and then choose "Clone" via SSH or GitHub Desktop.
 
 ## Data Dictionary
-The [CaD@Pitt Data Dictionary](data-dictionary/04-data-dictionary.md) defines and describes the data layers in this repository, including the project’s related controlled vocabularies and encoding schemes, metadata element sets, and application profiles.
+The [CaD@Pitt Data Dictionary](https://cadatpitt.github.io/documentation/04-data-dictionary) defines and describes the data layers in this repository, including the project’s related controlled vocabularies and encoding schemes, metadata element sets, and application profiles.
