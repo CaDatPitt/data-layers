@@ -83,7 +83,7 @@ CATALOG_SERIAL_ITEM_MODS_MAP = {
 }
 
 DIGITAL_SERIAL_ITEM_MODS_MAP = {
-    'identifier': {'bs_exp':['mods > identifier[type=\"pitt\"]',]},
+    'id': {'bs_exp':['mods > identifier[type=\"pitt\"]',]},
     'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
     'uniform_title': {'bs_exp':['mods > titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['mods > titleInfo[type=\"alternative\"] > title',]},
@@ -112,6 +112,7 @@ DIGITAL_SERIAL_ITEM_MODS_MAP = {
     'copyright_status': {'bs_exp':['accessCondition > copyright',]},
     'copyright_holder': {'bs_exp':['accessCondition > copyright > * > name',]},
     'copyright_note': {'bs_exp':['accessCondition > copyright > * > note',]},
+    'record_id': {'bs_exp':['recordIdentifier',]},
     'issn': {'bs_exp':['mods > identifier[type=\"issn\"]',]},
     'lccn': {'bs_exp':['mods > identifier[type=\"lccn\"]',]},
     'oclcn': {'bs_exp':['mods > identifier[type=\"oclcn\"]',]},
@@ -151,7 +152,7 @@ CATALOG_MONOGRAPH_ITEM_MODS_MAP = {
 }
 
 DIGITAL_MONOGRAPH_ITEM_MODS_MAP = {
-    'id': {'bs_exp':['recordIdentifier',]},
+    'id': {'bs_exp':['mods > identifier[type=\"pitt\"]',]},
     'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
     'uniform_title': {'bs_exp':['mods > titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['mods > titleInfo[type=\"alternative\"] > title',]},
@@ -175,6 +176,7 @@ DIGITAL_MONOGRAPH_ITEM_MODS_MAP = {
     'temporal_coverage': {'bs_exp':['mods > subject > temporal',]},
     'geographic_coverage': {'bs_exp':['mods > subject > geographic', 'mods > subject > geographicCode', 'mods > subject > hierarchicalGeographic', 'mods > subject > cartographics', 'mods > subject > geographicCoordinates',]},
     'target_audience': {'bs_exp':['mods > targetAudience',]},
+    'record_id': {'bs_exp':['recordIdentifier',]},
     'isbn': {'bs_exp':['mods > identifier[type=\"isbn\"]',]},
     'lccn': {'bs_exp':['mods > identifier[type=\"lccn\"]',]},
     'oclccn': {'bs_exp':['mods > identifier[type=\"oclc\"]',]},
