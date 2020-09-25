@@ -1,0 +1,70 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>History of the United States</title>
+    <subTitle>from their first settlement as colonies, to the close of the war with Great Britain in 1815 : to which are added questions, adapted to the use of schools</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Hale, Salma</namePart>
+    <namePart type="date">1787-1866</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>Uriah Hunt</publisher>
+    <dateCreated encoding="marc" point="start">1835</dateCreated>
+    <dateCreated encoding="marc" point="end">1826</dateCreated>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1835, c1826</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1835/1826</dateIssued>
+    <dateOther type="display">ca. 1835-1826</dateOther>
+    <dateOther type="sort">1835-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>298, 24 p. ; 15 cm.</extent>
+  </physicalDescription>
+  <note>At head of title: Premium history.</note>
+  <note>On cover: Hale's (Premium) history.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">E178 .H164</classification>
+  <identifier type="lccn">06036138</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">761124</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>329908</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00z329908m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

@@ -1,0 +1,70 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>North American arithmetic</title>
+    <subTitle>part first, containing elementary lessons</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Emerson, Frederick</namePart>
+    <namePart type="date">1788-1857</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">vtu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Windsor, Vt</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Simeon Ide</publisher>
+    <publisher>Lincoln &amp; Edmands</publisher>
+    <dateCreated encoding="marc" point="start">1830</dateCreated>
+    <dateCreated encoding="marc" point="end">1829</dateCreated>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1830, c1829</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1830/1829</dateIssued>
+    <dateOther type="display">ca. 1830-1829</dateOther>
+    <dateOther type="sort">1830-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>48 p. : ill. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Frederick Emerson.</note>
+  <note>At head of title: Emerson's first part.</note>
+  <subject authority="lcsh">
+    <topic>Arithmetic</topic>
+    <topic>Early works to 1900</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">860113</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>312165</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00abg6496m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

@@ -1,0 +1,70 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Beadle's dime American speaker</title>
+    <subTitle>comprising gems of elocution and humor, for schools, exhibitions, parlors, etc</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Victor, Orville J. (Orville James)</namePart>
+    <namePart type="date">1827-1910</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Beadle and Company</publisher>
+    <edition>Rev. and enl. ed.</edition>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1863</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1863</dateIssued>
+    <dateOther type="display">1863</dateOther>
+    <dateOther type="sort">1863-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>98 p. ; 17 cm.</extent>
+  </physicalDescription>
+  <note>First ed. published in 1859 under title: The dime speaker.</note>
+  <note>On spine: Beadle's dime speaker.</note>
+  <subject authority="lcsh">
+    <topic>Recitations</topic>
+  </subject>
+  <classification authority="lcc">PN4201 .V55 1863</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Speaker series ; no. 1</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">54047905</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">871020</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>506319</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acq4243m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

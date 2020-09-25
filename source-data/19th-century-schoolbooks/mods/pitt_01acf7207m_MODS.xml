@@ -1,0 +1,74 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Cobb's juvenile reader no. 1</title>
+    <subTitle>containing interesting, moral, and instructive reading lessons, composed of easy words of one and two syllables : designed for the use of small children in families and school</subTitle>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Juvenile reader no. 1. 1830</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Cobb, Lyman</namePart>
+    <namePart type="date">1800-1864</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ithaca, N.Y</placeTerm>
+    </place>
+    <publisher>Andrus, Woodruff, &amp; Gauntlett</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1830</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1830</dateIssued>
+    <dateOther type="display">1830</dateOther>
+    <dateOther type="sort">1830-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>72 p. : ill. ; 15 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Lyman Cobb.</note>
+  <subject authority="lcsh">
+    <topic>Readers (Primary)</topic>
+    <temporal>1800-1870</temporal>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Series of reading books ; no. 1</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Cobb, Lyman</namePart>
+      <namePart type="date">1800-1864</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870702</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>426991</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">01acf7207m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

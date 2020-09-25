@@ -1,0 +1,62 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>institute reader and normal class-book</title>
+    <subTitle>for the use of teachers' institutes and normal schools, and for self-training in the art of reading</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Cole, William H.</namePart>
+    <namePart type="date">fl. 1870-1898</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ohu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cincinnati</placeTerm>
+    </place>
+    <publisher>Van Antwerp, Bragg &amp; Co.</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1870</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1870</dateIssued>
+    <dateOther type="display">1870</dateOther>
+    <dateOther type="sort">1870-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>360 p. : ill. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by W.H. Cole.</note>
+  <subject authority="lcsh">
+    <topic>Readers</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870807</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20051205052925.0</recordChangeDate>
+    <recordIdentifier>452190</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acj4720m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

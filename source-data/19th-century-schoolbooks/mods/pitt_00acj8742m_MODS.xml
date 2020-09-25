@@ -1,0 +1,73 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Word-primer</title>
+    <subTitle>a beginner's book in oral and written spelling</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Swinton, William</namePart>
+    <namePart type="date">1833-1892</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Ivison, Blakeman, Taylor &amp; Co.</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1873</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1873</dateIssued>
+    <dateOther type="display">1873</dateOther>
+    <dateOther type="sort">1873-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>96 p. ; 17 cm.</extent>
+  </physicalDescription>
+  <targetAudience authority="marctarget">juvenile</targetAudience>
+  <note type="statement of responsibility">by William Swinton.</note>
+  <subject authority="lcsh">
+    <topic>Spellers</topic>
+  </subject>
+  <classification authority="lcc">PE1145 .S94 1873</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Word-book series</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Swinton, William</namePart>
+      <namePart type="date">1833-1892</namePart>
+    </name>
+  </relatedItem>
+  <identifier type="lccn">ca 17003171</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">760210</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>455789</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00acj8742m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

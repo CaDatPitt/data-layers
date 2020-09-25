@@ -1,0 +1,72 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>standard speaker</title>
+    <subTitle>containing exercises in prose and poetry for declamation in schools, academies, lyceums, colleges, newly translated or compiled from celebrated orators, authors, and popular debaters, ancient and modern, a treatise on oratory and elocution, notes explanatory and biographical</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sargent, Epes</namePart>
+    <namePart type="date">1813-1880</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <publisher>Charles Desilver</publisher>
+    <dateCreated encoding="marc" point="start">1861</dateCreated>
+    <dateCreated encoding="marc" point="end">1852</dateCreated>
+    <edition>11th ed.</edition>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1861, c1852</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1861/1852</dateIssued>
+    <dateOther type="display">ca. 1861-1852</dateOther>
+    <dateOther type="sort">1861-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>558 p. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">by Epes Sargent.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>Recitations</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Readers</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Elocution</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">870729</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20051205052901.0</recordChangeDate>
+    <recordIdentifier>445755</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">00ach7836m</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
