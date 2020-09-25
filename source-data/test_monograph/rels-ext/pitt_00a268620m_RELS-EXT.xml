@@ -1,0 +1,10 @@
+
+<rdf:RDF xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rels-ext="info:fedora/fedora-system:def/relations-external#" xmlns:rels="http://digital.library.pitt.edu/ontology/relations#">
+
+<rdf:Description rdf:about="info:fedora/pitt:00a268620m">
+	<fedora-model:hasModel rdf:resource="info:fedora/islandora:bookCModel"></fedora-model:hasModel>
+	<rels-ext:isMemberOfCollection rdf:resource="info:fedora/pitt:collection.120"></rels-ext:isMemberOfCollection>
+	<rels:isMemberOfSite rdf:resource="info:fedora/pitt:site.uls-digital-collections"></rels:isMemberOfSite>
+</rdf:Description>
+
+</rdf:RDF>
