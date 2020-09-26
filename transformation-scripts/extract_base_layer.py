@@ -95,11 +95,11 @@ def base_layer_maker(location, collection_type, collection_subtype):
         os.mkdir(newdir)
 
     # write collection and item DataFrames to CSV
-    coll_csv = open(newdir + "/" + location + "-collection-base-layer.csv", 'w', encoding="utf-8", newline='')
+    coll_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "-collection-base-layer.csv", 'w', encoding="utf-8", newline='')
     coll_csv.write(coll_df.to_csv())
     coll_csv.close()
 
-    item_csv = open(newdir + "/" + location + "-item-base-layer.csv", 'w', encoding="utf-8", newline='')
+    item_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "-item-base-layer.csv", 'w', encoding="utf-8", newline='')
     item_csv.write(item_df.to_csv())
     item_csv.close()
 
@@ -288,10 +288,9 @@ def get_fields_from_bs(bs_object, field_dict):
         expressions = field_dict[key]['bs_exp']
         field_data = ""
 
-        # get element and element attribute values
-        # process/format values and omit repeats to produce field data for rows
         for exp in expressions:
 
+            # get and process/format element values to generate field data for rows
             if key not in exceptions:
                 results = bs_object.select(exp)
                 field_list = []
@@ -399,44 +398,31 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_list.sort()
                 field_data += "|||".join(field_list)
 
-            # for the following keys: look for attribute value and handle exception if no attribute
+            # get and process/format element attribute values to generate field data for rows
             if key == 'copyright_status':
                 results = bs_object.select(exp)
-
                 for result in results:
-                    try:
-                        field_data += results[0]['copyright.status']
-                    except:
-                        field_data += ''
+                    field_data += results[0]['copyright.status']
 
             if key == 'collection_language':
                 results = bs_object.select(exp)
-
                 for result in results:
-                    try:
-                        field_data += results[0]['langcode']
-                    except:
-                        field_data += ''
+                    field_data += results[0]['langcode']
 
             if key == 'coll_id' or key == 'item_id':
                 results = bs_object.select(exp)
-
                 for result in results:
-                        try:
-                            value = results[0]['rdf:about']
-                            field_data += value.strip("info:fedora/pitt:")
-                        except:
-                            field_data += ''
+                    value = results[0]['rdf:about']
+                    field_data += value.strip("info:fedora/pitt:")
 
             if key == 'collection_id':
                 results = bs_object.select(exp)
-
+                i = 0
                 for result in results:
-                    try:
-                        value = results[0]['rdf:resource']
-                        field_data += value.strip("info:fedora/pitt:")
-                    except:
-                        field_data += ''
+                    value = results[i]['rdf:resource']
+                    field_data += "|||" + value.strip("info:fedora/pitt:")
+                    field_data = field_data.strip("|||")
+                    i += 1
 
         row[key] = field_data
 
