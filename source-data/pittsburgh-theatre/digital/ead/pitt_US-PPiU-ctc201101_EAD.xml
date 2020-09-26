@@ -1,0 +1,2999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc201101</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the W. Stephen Coleman Papers, 1981-2011
+                    <num>CTC.2011.01</num>
+                </titleproper>
+                <author>Finding aid prepared by W. Stephen Coleman and Colleen Reilly.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>December 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:02-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>W. Stephen Coleman Papers</unittitle>
+            <unitid>CTC.2011.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>18.0 linear feet</extent>
+                <extent>(14 boxes)</extent>
+            </physdesc>
+            <unitdate>1981-2011</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains the promptbooks, scripts, and production notes of W. Stephen Coleman (1943-). Dr. Coleman served as a faculty director and professor in the Theatre Arts department at the University of Pittsburgh (1981-2011) and a resident director for the Three Rivers Shakespeare Festival (1983-1992). This collection details both acting and directing projects while in residence in the Pittsburgh area.</abstract>
+            <origination label="creator">
+                <persname source="local">Coleman, W. Stephen</persname>
+            </origination>
+        </did>
+        <bioghist id="ref312">
+            <head>Biography</head>
+            <p>W. Stephen Coleman, Associate Professor and Director of Undergraduate Studies at the University of Pittsburgh, received his Bachelor’s and Master’s degrees from the University of Oklahoma in the mid 1960’s, and his Doctorate from the University of Utah in 1973. As a specialist in Shakespeare in performance and the performance areas of actor-training and directing, he joined the undergraduate and graduate faculty of the University of Pittsburgh in 1981 as head of the then newly created MFA Actor Training Program, a post he held until 1990. Between 1992 and 1999, he served as Chair of the Department of Theatre Arts. He taught at several other universities and colleges, including the University of Texas at Austin, the London International Film School, Carnegie Mellon University, the University of Utah, the University of Oklahoma, and the Oklahoma College of Liberal Arts. He was awarded tenure at Pitt in 1986.</p>
+            <p>Dr. Coleman continued to work professionally, dividing his time between acting (under the name “Alex Coleman”) and directing. In 2006 he played the role of First Messenger in 
+                <title render="italic">Oedipus the King</title> directed by Ted Pappas for the Pittsburgh Public Theatre. In 2005 he played the role of General Edward Braddock in the PBS/WQED four-part series, 
+                <title render="italic">The War That Made America</title>. At the University of Pittsburgh Repertory Theatre he played Uncle Peck in Paula Vogel’s 
+                <title render="italic">How I Learned to Drive</title> (2002) and Estragon in Beckett’s 
+                <title render="italic">Waiting For Godot</title> (2001), which he also directed. He also held three roles in the 2001 Season of the Pittsburgh Irish and Classical Theatre: Sly Scully in the American premiere of Marina Carr’s 
+                <title render="italic">Portia Coughlin</title>, Orgon in 
+                <title render="italic">Tartuffe</title>, and Dr. Hickey in the American premiere of Thomas Kilroy’s adaptation of Chekhov’s 
+                <title render="italic">The Seagull</title>. As “faculty guest artist” for the University of Pittsburgh Repertory Theatre he has also performed in such productions as 
+                <title render="italic">Marat/Sade</title>, playing de Sade, as Frank in 
+                <title render="italic">Educating Rita</title>, and John Halder in 
+                <title render="italic">GOOD</title>.</p>
+            <p>Other Pittsburgh professional stage performances include Reb Nachman and the Judge in the Pittsburgh Public Theatre’s 
+                <title render="italic">The Dybbuk</title> , and both director of and lead in the sold-out run of Anthony Shaffer’s 
+                <title render="italic">Sleuth</title> at Hartwood Acres. While it was a mainstay of Pitt’s theatrical scene, Dr. Coleman appeared in over a dozen major roles with the Three Rivers Shakespeare Festival. He has performed with the New York Shakespeare Festival, the National Shakespeare Company, the Montana Repertory Theatre, and several other regional theatres. He is a long-time member of Actors’ Equity Association, the Screen Actors Guild, and the American Federation of Television and Radio Artists.</p>
+            <p>In addition to over 200 roles on the stage, he has played featured roles in a number of films and TV movies including the feature films 
+                <title render="italic">Achilles’ Love</title>, 
+                <title render="italic">House Guest</title>, 
+                <title render="italic">Silence of The Lambs</title> (as the unfortunate Sergeant Pembry), 
+                <title render="italic">The Dark Half</title>, and 
+                <title render="italic">Street Law</title>, and the made-for-television movies, 
+                <title render="italic">Alone in The Neon Jungle</title>, 
+                <title render="italic">What She Doesn’t Know</title>, 
+                <title render="italic">The Ten-Million Dollar Getaway</title>, and many others. He has performed in hundreds of radio and television commercials, and has appeared in numerous industrial films.</p>
+            <p>Coleman was a prolific director. At the Pitt Repertory Theatre from 2000 to 2006 he staged 
+                <title render="italic">Old Times</title>, 
+                <title render="italic">Twelfth Night</title>, the gala production of 
+                <title render="italic">Much Ado About Nothing</title> for the dedication of the newly renovated Charity Randall Theatre on the Pitt Campus, 
+                <title render="italic">Arms and The Man</title>, 
+                <title render="italic">Waiting For Godot</title> (mentioned above), and 
+                <title render="italic">Little Shop of Horrors</title>. He directed the world premiere of Daniel Frezza’s adaptation of Oscar Wilde’s 
+                <title render="italic">The Picture of Dorian Gray</title> (2000) for the Pittsburgh Irish and Classical Theatre. He served as a faculty director for Pitt Repertory Theatre (1982- ) and in 1996 staged a highly acclaimed 
+                <title render="italic">Hamlet</title> and 
+                <title render="italic">Rosencrantz and Guildenstern are Dead</title> in repertory.</p>
+            <p>Between 1983 and 1992 he served as one of two Resident Directors for the Three Rivers Shakespeare Festival (TRSF). His directorial efforts for both TRSF and the University were consistently cited as among the “Top Ten” in Pittsburgh from 1983-2006. He directed for numerous professional theatres in the Pittsburgh region, including the theatre at Hartwood Acres, (
+                <title render="italic">Sleuth</title> and 
+                <title render="italic">One Flew Over the Cuckoo's Nest</title>). He also staged the world premiere of Pennsylvania State Poet Samuel Hazo's 
+                <title render="italic">Until I'm Not Here Anymore</title> and directed the video adaptation of this work that aired on Public Television.</p>
+            <p>In addition to his theatrical activities, Dr. Coleman staged readings for the Center for Creative Non-Fiction at the University of Pittsburgh. He was a regular presenter of lectures and workshops on performance subjects related to acting, directing, Shakespearean production, and the development of theatre skills that can be used in the courtroom. During his tenure at the University of Texas at Austin, he was the Founder and Artistic Director of the Gallimaufry Players, producing and directing four summers' worth of free Shakespeare-In-The-Park.</p>
+        </bioghist>
+        <scopecontent id="ref311">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains the promptbooks and production materials maintained by W. Stephen Coleman during his residence at the Three Rivers Shakespeare Festival and the University of Pittsburgh Theatre Arts Department. It also includes materials for professional and non-professional acting engagements and directing projects undertaken by Coleman during his Pittsburgh years. Production materials contain rehearsal and director notes, press materials, set and costume designs, and miscellaneous administrative materials. Promptbooks, Production Materials, and Recordings in various formats (audio and VHS video) comprise the bulk of the collection. The collection is arranged in three series: Three Rivers Shakespeare Festival, University of Pittsburgh Repertory Theatre, and Acting and Directing.</p>
+        </scopecontent>
+        <accessrestrict id="ref2">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref3">
+            <head>Acquisition Information</head>
+            <p>Gift of W. Stephen Coleman in April, 2011. Additional materials were added in October 2015.</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Material</head>
+            <p>Pittsburgh Irish and Classical Theatre Records, 1997-2015, CTC.2009.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Three Rivers Shakespeare Festival Records, 1980-1995, CTC.1995.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>University of Pittsburgh Theatre Arts Department Records, 1960-1986, CTC.1974.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <userestrict id="ref5">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <arrangement id="ref6">
+            <head>Arrangement</head>
+            <p>The papers are organized into three series.</p>
+            <p>Series I. Three Rivers Shakespeare Festival, 1983-1999</p>
+            <p>Series II. Pitt Repertory Theatre, 1981-2009</p>
+            <p>Series III. Acting and Directing, 1981-2011</p>
+        </arrangement>
+        <processinfo id="ref193">
+            <head>Processing Information</head>
+            <p>This collection was processed by Colleen Reilly in January 2006. Additional materials were processed and added to the collection by William Daw in 2015.</p>
+        </processinfo>
+        <prefercite id="ref461">
+            <head>Preferred Citation</head>
+            <p>W. Stephen Coleman Papers, 1981-2011, CTC.2011.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref310">
+            <head>Previous Citation</head>
+            <p>W. Stephen Coleman Papers, 1981-2011, CTC.2011.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <controlaccess>
+            <persname source="local">Coleman, W. Stephen</persname>
+            <corpname rules="aacr" source="local">Pittsburgh Irish and Classical Theatre.</corpname>
+            <corpname source="naf">Pittsburgh Public Theater.</corpname>
+            <corpname source="naf">Three Rivers Shakespeare Festival (Pittsburgh, Pa.).</corpname>
+            <corpname rules="rda" source="local">University of Pittsburgh. Department of Theatre Arts.</corpname>
+            <subject source="lcsh">College theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Faculty papers</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Personal papers</genreform>
+            <subject source="lcsh">Shakespeare, William, 1564-1616 -- Stage history -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Three Rivers Shakespeare Festival,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1981-1999</unitdate>
+                </did>
+                <scopecontent id="ref10">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains administrative files, promptbooks, and production materials from Pittsburgh’s Three Rivers Shakespeare Festival for which W. Stephen Coleman was a resident director from 1983-1992. Coleman served as Interim Producing Director during the 1985 festival. This year is more thoroughly represented in the administrative files. In addition to numerous Shakespearean productions, this series also features 
+                        <title render="italic">Maids and Blades</title>, an original staging featuring Shakespeare’s romance and action scenes, and 
+                        <title render="italic">A Funny Thing Happened on the Way to the Forum</title>. Also included is the musical version of 
+                        <title render="italic">Two Gentlemen of Verona</title>, which was developed by Coleman and Christine Frezza and became a landmark production for the Three Rivers Shakespeare Festival.</p>
+                    <p>Production materials can include audition forms, director’s notes, rehearsal notes, production notes, set and costume designs, administrative information, press materials, photographs, programs, and brochures. Each production has been arranged into its own subseries and are in chronological order.</p>
+                </scopecontent>
+                <c02 id="ref364" level="subseries">
+                    <did>
+                        <unittitle>Administrative Files</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref365" level="file">
+                        <did>
+                            <unittitle>1982 Festival administration files,</unittitle>
+                            <container id="cid5275001" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid5275001" type="Folder">1</container>
+                            <unitdate>1981-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref392" level="file">
+                        <did>
+                            <unittitle>1982 Festival administration files - Company manual</unittitle>
+                            <container id="cid5284001" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref366" level="file">
+                        <did>
+                            <unittitle>1983 Festival administration files,</unittitle>
+                            <container id="cid5284002" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref367" level="file">
+                        <did>
+                            <unittitle>1984 Festival administration files,</unittitle>
+                            <container id="cid5284003" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref393" level="file">
+                        <did>
+                            <unittitle>1984 Festival administration files - Company manual</unittitle>
+                            <container id="cid5284004" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref381" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files,</unittitle>
+                            <container id="cid5285012" type="Folder" label="Mixed materials">6-8</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref370" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Carol Brown and Allegheny County Bureau of Cultural Programs correspondence,</unittitle>
+                            <container id="cid5285001" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref372" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Casting,</unittitle>
+                            <container id="cid5285003" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref378" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Citiparks,</unittitle>
+                            <container id="cid5285009" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref396" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Company manual</unittitle>
+                            <container id="cid5285013" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref377" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - High school matinees,</unittitle>
+                            <container id="cid5285008" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref374" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Housing,</unittitle>
+                            <container id="cid5285005" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref373" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Production stage manager,</unittitle>
+                            <container id="cid5285004" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref379" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - 
+                                <title render="italic">Romeo and Juliet</title>,</unittitle>
+                            <container id="cid5285010" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref402" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Staff meetings,</unittitle>
+                            <container id="cid5289001" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref376" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Technical staff,</unittitle>
+                            <container id="cid5285007" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref375" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Touring,</unittitle>
+                            <container id="cid5285006" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref380" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - 
+                                <title render="italic">Twelfth Night</title>,</unittitle>
+                            <container id="cid5285011" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref371" level="file">
+                        <did>
+                            <unittitle>1985 Festival administration files - Yossi Yzraely,</unittitle>
+                            <container id="cid5285002" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref368" level="file">
+                        <did>
+                            <unittitle>1986 Festival administration files,</unittitle>
+                            <container id="cid5285014" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref394" level="file">
+                        <did>
+                            <unittitle>1986 Festival administration files - Company manual</unittitle>
+                            <container id="cid5285017" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref391" level="file">
+                        <did>
+                            <unittitle>1988 Festival administration files - Company manual</unittitle>
+                            <container id="cid5285016" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref397" level="file">
+                        <did>
+                            <unittitle>1989 Festival administration files,</unittitle>
+                            <container id="cid5285019" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref395" level="file">
+                        <did>
+                            <unittitle>1989 Festival administration files - Company manual</unittitle>
+                            <container id="cid5285018" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref398" level="file">
+                        <did>
+                            <unittitle>1989 Festival administration files - 
+                                <title render="italic">Hamlet</title></unittitle>
+                            <container id="cid5289003" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref400" level="file">
+                        <did>
+                            <unittitle>1991 Festival administration files</unittitle>
+                            <container id="cid5289004" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="file">
+                        <did>
+                            <unittitle>1991 Festival administration files - Case for Support report</unittitle>
+                            <container id="cid5285015" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref401" level="file">
+                        <did>
+                            <unittitle>1991 Festival administration files - Shakespeare in the Schools</unittitle>
+                            <container id="cid5289005" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref382" level="file">
+                        <did>
+                            <unittitle>1992 Festival administration files,</unittitle>
+                            <container id="cid5289002" type="Folder" label="Mixed materials">31</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref388" level="file">
+                        <did>
+                            <unittitle>1992 Festival administration files - Case for Support report</unittitle>
+                            <container id="cid5289006" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref383" level="file">
+                        <did>
+                            <unittitle>1993 Festival administration files,</unittitle>
+                            <container id="cid5289007" type="Folder" label="Mixed materials">33-35</container>
+                            <unitdate>1992-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref389" level="file">
+                        <did>
+                            <unittitle>1993 Festival administration files - Case for Support report</unittitle>
+                            <container id="cid5289011" type="Folder" label="Mixed materials">36</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref387" level="file">
+                        <did>
+                            <unittitle>1993 Festival administration files - Draft planning document,</unittitle>
+                            <container id="cid5289010" type="Folder" label="Mixed materials">37</container>
+                            <unitdate>November 1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref384" level="file">
+                        <did>
+                            <unittitle>1994 Festival administration files,</unittitle>
+                            <container id="cid5289008" type="Folder" label="Mixed materials">38-40</container>
+                            <unitdate>1993-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref385" level="file">
+                        <did>
+                            <unittitle>1994 Festival administration files - 
+                                <title render="italic">Merchant of Venice</title>,</unittitle>
+                            <container id="cid5289009" type="Folder" label="Mixed materials">41</container>
+                            <unitdate>1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref386" level="file">
+                        <did>
+                            <unittitle>1994 Festival administration files - 
+                                <title render="italic">Taming of the Shrew</title>,</unittitle>
+                            <container id="cid5289013" type="Folder" label="Mixed materials">42</container>
+                            <unitdate>1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref369" level="file">
+                        <did>
+                            <unittitle>1995 Festival administration files,</unittitle>
+                            <container id="cid5289012" type="Folder" label="Mixed materials">43</container>
+                            <unitdate>1995-1996</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref399" level="file">
+                        <did>
+                            <unittitle>1995 Festival administration files - Shakespeare in the Schools</unittitle>
+                            <container id="cid5289014" type="Folder" label="Mixed materials">44</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref8" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Henry IV, Part I,</title></unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>1983</unitdate>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Henry IV, Part I</title> was a part of the 1983 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, June 16 through July 2.</p>
+                    </scopecontent>
+                    <c03 id="ref403" level="file">
+                        <did>
+                            <unittitle>Audio recording,</unittitle>
+                            <container id="cid5291001" type="Box" label="Audio">2</container>
+                            <container parent="cid5291001" type="Folder">1</container>
+                            <physdesc>
+                                <extent>1.0 reel-to-reel</extent>
+                            </physdesc>
+                            <unitdate>May 27, 1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref414" level="file">
+                        <did>
+                            <unittitle>Audio recording - Reading of the play for the blind</unittitle>
+                            <container id="cid5294001" type="Folder" label="Audio">2</container>
+                            <physdesc>
+                                <extent>1.0 cassette tape</extent>
+                                <extent>50 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref415" level="file">
+                        <did>
+                            <unittitle>Braille action score,</unittitle>
+                            <container id="cid5294002" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid4461001" type="Folder" label="Photographic images">4-5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5294003" type="Folder" label="Mixed materials">6-12</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref9" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4256002" type="Folder" label="Mixed materials">13-15</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5291002" type="Folder" label="Photographic images">16</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref15" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Macbeth,</title></unittitle>
+                        <unitid>3.</unitid>
+                        <unitdate>1984-1988</unitdate>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Macbeth</title> was a part of the 1984 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, June 1st through the 23rd.</p>
+                    </scopecontent>
+                    <c03 id="ref294" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5291003" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Director’s notes,</unittitle>
+                            <container id="cid4256006" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Press materials,</unittitle>
+                            <container id="cid4467003" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1984-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5291004" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4256004" type="Folder" label="Mixed materials">21-26</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Production notes,</unittitle>
+                            <container id="cid4256005" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4256003" type="Folder" label="Mixed materials">28-29</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref424" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5310001" type="Folder" label="Photographic images">30</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref24" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Midsummer Night’s Dream,</title></unittitle>
+                        <unitid>4.</unitid>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">A Midsummer Night’s Dream</title> was a part of the 1986 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, May 30th through June 22nd. Leading up to it's opening at the end of May, the production was performed at several local high schools.</p>
+                    </scopecontent>
+                    <c03 id="ref295" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5292001" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5292002" type="Folder" label="Photographic images">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4467001" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid4467001" type="Folder">1-7</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5292003" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref26" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Two Gentlemen of Verona,</title></unittitle>
+                        <unitid>5.</unitid>
+                        <unitdate>1987-1992</unitdate>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Two Gentlemen of Verona</title> was a part of the 1987 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, May 29th through June 20th. Leading up to it's opening at the end of May, the production was performed at several local high schools. There are materials related to both the 1987 production and the 1992 revival in each of the two's promptbooks.</p>
+                    </scopecontent>
+                    <c03 id="ref296" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5292004" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref413" level="file">
+                        <did>
+                            <unittitle>Audio recording</unittitle>
+                            <container id="cid5292009" type="Folder" label="Audio">10</container>
+                            <physdesc>
+                                <extent>3.0 cassette tapes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref416" level="file">
+                        <did>
+                            <unittitle>Oversized photograph</unittitle>
+                            <container id="cid5294004" type="Folder" label="Photographic images">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5292005" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4486001" type="Folder" label="Mixed materials">13-15</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4506001" type="Folder" label="Mixed materials">16-21</container>
+                            <unitdate>1987-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref405" level="file">
+                        <did>
+                            <unittitle>Score,</unittitle>
+                            <container id="cid5292007" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref406" level="file">
+                        <did>
+                            <unittitle>Script,</unittitle>
+                            <container id="cid5292008" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref404" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5292006" type="Folder" label="Photographic images">24</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref29" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Julius Caesar,</title></unittitle>
+                        <unitid>6.</unitid>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Julius Caesar</title> was a part of the 1988 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, July 22nd through August 14th.</p>
+                    </scopecontent>
+                    <c03 id="ref297" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5295001" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5295002" type="Folder" label="Photographic images">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4506002" type="Folder" label="Mixed materials">27-29</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4506003" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid4506003" type="Folder">1-2</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5174008" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref31" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Maids and Blades,</title></unittitle>
+                        <unitid>7.</unitid>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Maids and Blades</title> was a compilation of scenes from Shakespeare's plays performed by the Three Rivers Shakespeare Festival Young Company in the Fall of 1988. The touring production was performed at local Pittsburgh high school and junior high schools. The scenes performed were from 
+                            <title render="italic">Henry V</title>, 
+                            <title render="italic">Henry IV</title>, 
+                            <title render="italic">As You Like It</title>, 
+                            <title render="italic">Twelfth Night</title>, 
+                            <title render="italic">Romeo and Juliet</title>, and 
+                            <title render="italic">The Taming of the Shrew</title>.</p>
+                    </scopecontent>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4513001" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref42" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Taming of the Shrew,</title></unittitle>
+                        <unitid>8.</unitid>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">The Taming of the Shrew</title> was a part of the 1988 season of the Three Rivers Shakespeare Festival. Coleman also played the part of Petruchio in the production. It was performed at the Stephen Foster Memorial Theatre, May 27th through June 19th. The video recording included is of very poor quality.</p>
+                    </scopecontent>
+                    <c03 id="ref298" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5295003" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5295004" type="Folder" label="Photographic images">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4513002" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1987-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4513003" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref427" level="file">
+                        <did>
+                            <unittitle>Video recording - Rehearsal</unittitle>
+                            <container id="cid5322002" type="Folder" label="Moving Images">9</container>
+                            <physdesc>
+                                <extent>1.0 cassette tape</extent>
+                                <extent>VHS, 152 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref32" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Funny Thing Happened on the Way to the Forum,</title></unittitle>
+                        <unitid>9.</unitid>
+                        <unitdate>1989</unitdate>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">A Funny Thing Happened on the Way to the Forum</title> was a part of the 1989 season of the Three Rivers Shakespeare Festival, its 10th anniversary season. It was performed at the Stephen Foster Memorial Theatre, June 4th through July 15th.</p>
+                    </scopecontent>
+                    <c03 id="ref361" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5295005" type="Folder" label="Photographic images">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4513004" type="Folder" label="Mixed materials">11-13</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref34" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Richard II,</title></unittitle>
+                        <unitid>10.</unitid>
+                        <unitdate>1990</unitdate>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Richard II</title> was a part of the 1990 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, June 22nd through July 14th.</p>
+                    </scopecontent>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Annotated acting editions</unittitle>
+                            <container id="cid5295006" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5322001" type="Folder" label="Photographic images">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4548002" type="Folder" label="Mixed materials">16-18</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5322003" type="Folder" label="Photographic images">19</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref43" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Othello,</title></unittitle>
+                        <unitid>11.</unitid>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Othello</title> was a part of the 1991 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, May 24th through June 15th.</p>
+                    </scopecontent>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid4551002" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4551001" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1990-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5297001" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid5297001" type="Folder">1-2</container>
+                            <unitdate>1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5297002" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref36" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Two Gentlemen of Verona,</title></unittitle>
+                        <unitid>12.</unitid>
+                        <unitdate>1987-1999</unitdate>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Two Gentlemen of Verona</title> was a part of the 1992 season of the Three Rivers Shakespeare Festival. It was performed at the Stephen Foster Memorial Theatre, May 15th through June 6th. There are materials related to both the 1987 production and the 1992 revival in each of the two's promptbooks.</p>
+                    </scopecontent>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4558001" type="Folder" label="Mixed materials">4-7</container>
+                            <unitdate>1992-1999</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4562001" type="Folders" label="Mixed materials">8-10</container>
+                            <unitdate>1987-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5297003" type="Folder" label="Photographic images">11</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref47" level="series">
+                <did>
+                    <unittitle>University of Pittsburgh Repertory Theatre,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1981-2009</unitdate>
+                </did>
+                <scopecontent id="ref314">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains promptbooks and production materials from Pitt Repertory Theatre for which W. Stephen Coleman served as a Faculty Director and Professor of Theatre Arts. This series details the repertory production of 
+                        <title render="italic">Hamlet</title> and 
+                        <title render="italic">Rosencrantz and Guildenstern are Dead</title> (1996), which was submitted to the American College Theatre Festival. The materials related to this production include a letter from playwright Tom Stoppard. Coleman directed the gala production of 
+                        <title render="italic">Much Ado About Nothing</title> (2003) for the opening of the renovated Charity Randall Theatre and Coleman’s scenic design and production book for 
+                        <title render="italic">Arms and the Man</title> (2004) are included in this series.</p>
+                    <p>Production materials can include audition forms, director’s notes, rehearsal notes, production notes, set and costume designs, administrative information, press materials, photographs, programs, and brochures. Each production has been arranged into its own subseries and are in chronological order.</p>
+                </scopecontent>
+                <c02 id="ref64" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">All the Way Home,</title></unittitle>
+                        <unitid>1.</unitid>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                    <scopecontent id="ref313">
+                        <head>Scope and Content Notes</head>
+                        <p/>
+                    </scopecontent>
+                    <c03 id="ref417" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5297004" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid4707001" type="Folder" label="Photographic images">13</container>
+                            <unitdate>May 1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4707002" type="Folder" label="Mixed materials">14-15</container>
+                            <unitdate>1981-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4699002" type="Folder" label="Mixed materials">16-18</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref347" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5297006" type="Folder" label="Photographic images">19</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref68" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Phoenix Too Frequent,</title></unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>1982</unitdate>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">A Phoenix Too Frequent</title>, directed by Coleman, was performed at the Studio Theatre, November 8-10, 15-17, 1982. The play was presented along with 
+                            <title render="italic">Ludlow Fair</title> and the 
+                            <title render="italic">Public Eye</title>, which were directed by Jane Rothman and Lamont Arnold respectively.</p>
+                    </scopecontent>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5174005" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4707003" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref346" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5297005" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref72" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Brecht on Brecht,</title></unittitle>
+                        <unitid>3.</unitid>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Brecht on Brecht</title> was performed at the Stephen Foster Memorial Theatre, February 11-26, 1983.</p>
+                    </scopecontent>
+                    <c03 id="ref418" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5299002" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid5299002" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid5299003" type="Folder" label="Photographic images">2</container>
+                            <unitdate>1982-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4713002" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1982-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4713003" type="Folder" label="Mixed materials">4-6</container>
+                            <unitdate>1982-1983</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref80" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cherry Orchard</title></unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Content Notes</head>
+                        <p>???????</p>
+                    </scopecontent>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Production materials</unittitle>
+                            <container id="cid4713004" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Promptbook</unittitle>
+                            <container id="cid4713005" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5299004" type="Folder" label="Photographic images">9</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref77" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Orpheus Descending,</title></unittitle>
+                        <unitid>5.</unitid>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Orpheus Descending</title> was performed at the Stephen Foster Memorial Theatre, March 8-24, 1984.</p>
+                    </scopecontent>
+                    <c03 id="ref419" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5300001" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Music</unittitle>
+                            <container id="cid4713006" type="Folder" label="Audio">11</container>
+                            <physdesc>
+                                <extent>1.0 reel-to-reel</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Photographs and negatives</unittitle>
+                            <container id="cid4713007" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4713008" type="Folder" label="Mixed materials">13-14</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4713009" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref92" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Ruling Class,</title></unittitle>
+                        <unitid>6.</unitid>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">The Ruling Class</title> was performed at the Stephen Foster Memorial Theatre, March 21st through April 6th, 1985.</p>
+                    </scopecontent>
+                    <c03 id="ref302" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5301001" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid5174006" type="Folder" label="Photographic images">17</container>
+                            <unitdate>July 1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4718004" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4718005" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5301002" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref87" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cloud 9,</title></unittitle>
+                        <unitid>7.</unitid>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Cloud 9</title> was performed at the Stephen Foster Memorial Theatre, October 31st through November 16, 1985. It was revived for two special performances in February of 1986 and was performed at the Annual American College Theatre Festival XVIII in Hyattsville, Maryland.</p>
+                    </scopecontent>
+                    <c03 id="ref420" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5301003" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid5174001" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4718002" type="Folder" label="Mixed materials">23-24</container>
+                            <unitdate>1985-1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4718006" type="Folder" label="Mixed materials">25-26</container>
+                            <unitdate>1985-1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref96" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Who's Afraid of Virginia Woolf,</title></unittitle>
+                        <unitid>8.</unitid>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref98">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Who's Afraid of Virginia Woolf</title> was performed at the Stephen Foster Memorial Theatre, February 6-28, 1987.</p>
+                    </scopecontent>
+                    <c03 id="ref422" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5301005" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref421" level="file">
+                        <did>
+                            <unittitle>Audio recording - George's Act II story performed by John Krich</unittitle>
+                            <container id="cid5301004" type="Folder" label="Audio">28</container>
+                            <physdesc>
+                                <extent>1.0 cassette tape</extent>
+                                <extent>7 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid5174002" type="Box" label="Photographic images">7</container>
+                            <container parent="cid5174002" type="Folder">1</container>
+                            <unitdate>April 1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4718007" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1986-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4718008" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1986-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref348" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5301006" type="Folder" label="Photographic images">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref100" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cherry Orchard,</title></unittitle>
+                        <unitid>9.</unitid>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid5174004" type="Folder" label="Photographic images">5</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4718009" type="Folder" label="Mixed materials">6-7</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref104" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Oresteia,</title></unittitle>
+                        <unitid>10.</unitid>
+                        <unitdate>1989-1990</unitdate>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Oresteia</title> was performed at the Stephen Foster Memorial Theatre, March 23rd through April 7th, 1990.</p>
+                    </scopecontent>
+                    <c03 id="ref423" level="file">
+                        <did>
+                            <unittitle>Audio recording</unittitle>
+                            <container id="cid5305001" type="Folder" label="Audio">8</container>
+                            <physdesc>
+                                <extent>1.0 cassette tape</extent>
+                                <extent>35 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>Photographs,</unittitle>
+                            <container id="cid5174003" type="Folder" label="Photographic images">9</container>
+                            <unitdate>August 1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4718010" type="Folder" label="Mixed materials">10-11</container>
+                            <unitdate>1989-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5305002" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref425" level="file">
+                        <did>
+                            <unittitle>Sound effects demo recording</unittitle>
+                            <container id="cid5316001" type="Folder" label="Audio">13</container>
+                            <physdesc>
+                                <extent>1.0 cassette tape</extent>
+                                <extent>50 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref107" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Happy End,</title></unittitle>
+                        <unitid>11.</unitid>
+                        <unitdate>1989-1991</unitdate>
+                    </did>
+                    <c03 id="ref426" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5318001" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4744001" type="Folder" label="Mixed materials">15-16</container>
+                            <unitdate>1989-1991</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref109" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Changeling: A Re/Vision,</title></unittitle>
+                        <unitid>12.</unitid>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">The Changeling: Re/Vision</title> was performed at the Studio Theatre, February 14-29, 1992. Thomas Middleton and William Rowley's 17th century play 
+                            <title render="italic">The Changeling</title> was adapted by Theatre Arts faculty member Dennis Kennedy. The play evolved out of a series of eight workshops during the Fall semester of 1991. The majority of these workshops were recorded and are contained within this section. Also included in this section are video recordings that were used in the production itself.</p>
+                    </scopecontent>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4744002" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1991-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4744003" type="Folder" label="Mixed materials">18-19</container>
+                            <unitdate>1991-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref428" level="file">
+                        <did>
+                            <unittitle>Video recording - Roll A-C</unittitle>
+                            <container id="cid5322004" type="Box" label="Moving Images">8</container>
+                            <physdesc>
+                                <extent>3.0 cassette tapes</extent>
+                                <extent>VHS</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref429" level="file">
+                        <did>
+                            <unittitle>Video recording - Workshops,</unittitle>
+                            <container id="cid5322005" type="Box" label="Moving Images">8</container>
+                            <physdesc>
+                                <extent>9.0 cassette tapes</extent>
+                                <extent>VHS</extent>
+                            </physdesc>
+                            <unitdate>1991</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref110" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Month in the Country,</title></unittitle>
+                        <unitid>13.</unitid>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">A Month in the Country</title> was performed at the Stephen Foster Memorial Theatre, February 12-28, 1993.</p>
+                    </scopecontent>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4744004" type="Folder" label="Mixed materials">20-21</container>
+                            <unitdate>1992-1993</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref111" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Rehearsal,</title></unittitle>
+                        <unitid>14.</unitid>
+                        <unitdate>1993</unitdate>
+                    </did>
+                    <scopecontent id="ref121">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">The Rehearsal</title> was performed at the Stephen Foster Memorial Theatre, October 8-23, 1993.</p>
+                    </scopecontent>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4751001" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid4751001" type="Folder">1</container>
+                            <unitdate>1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4764001" type="Folder" label="Mixed materials">2-3</container>
+                            <unitdate>1993</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref112" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Chemin de Fer,</title></unittitle>
+                        <unitid>15.</unitid>
+                        <unitdate>1994-1995</unitdate>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Chemin de Fer</title> was performed at the Stephen Foster Memorial Theatre, February 10-25, 1995.</p>
+                    </scopecontent>
+                    <c03 id="ref430" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5325001" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4764002" type="Folder" label="Mixed materials">5-6</container>
+                            <unitdate>1994-1995</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref113" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Les Liaisons Dangereuses,</title></unittitle>
+                        <unitid>16.</unitid>
+                        <unitdate>1995</unitdate>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Les Liaisons Dangereuses</title> was performed at the Stephen Foster Memorial Theatre, November 7-18, 1993.</p>
+                    </scopecontent>
+                    <c03 id="ref431" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5325002" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4764004" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1995</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid4764003" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1995</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref215" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Colored Museum,</title></unittitle>
+                        <unitid>17.</unitid>
+                        <unitdate>1996</unitdate>
+                    </did>
+                    <scopecontent id="ref225">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman served as directing supervisor for 
+                            <title render="italic">The Colored Museum</title>. Kenyatta Rogers directed the production. The play was performed February 22nd through March 2nd, 1996 at the Studio Theatre in the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref226" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5344001" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1996</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref129" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hamlet</title> / 
+                            <title render="italic">Rosencrantz and Guildenstern are Dead,</title></unittitle>
+                        <unitid>18.</unitid>
+                        <unitdate>1996</unitdate>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Hamlet</title> and 
+                            <title render="italic">Rosencrantz and Guildenstern are Dead</title> were performed in repertory at the Stephen Foster Memorial Theatre, November 1-23, 1996.</p>
+                    </scopecontent>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid4779001" type="Folder" label="Mixed materials">11-12</container>
+                            <unitdate>1996</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>Promptbook - 
+                                <title render="italic">Hamlet,</title></unittitle>
+                            <container id="cid4779002" type="Folder" label="Mixed materials">13-14</container>
+                            <unitdate>1996</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>Promptbook - 
+                                <title render="italic">Rosencrantz and Guildenstern are Dead,</title></unittitle>
+                            <container id="cid4779003" type="Folder" label="Mixed materials">15-16</container>
+                            <unitdate>1996</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref433" level="file">
+                        <did>
+                            <unittitle>Video recording - 
+                                <title render="italic">Rosencrantz and Guildenstern are Dead</title>,</unittitle>
+                            <container id="cid5358002" type="Folder" label="Moving Images">17</container>
+                            <physdesc>
+                                <extent>1.0 cassette tapes</extent>
+                                <extent>VHS</extent>
+                            </physdesc>
+                            <unitdate>November 22, 1996</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref131" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Noises Off,</title></unittitle>
+                        <unitid>19.</unitid>
+                        <unitdate>1997-1998</unitdate>
+                    </did>
+                    <scopecontent id="ref147">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Noises Off</title> was performed at the Stephen Foster Memorial Theatre, April 1-19, 1998.</p>
+                    </scopecontent>
+                    <c03 id="ref434" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5358003" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid5358003" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5016001" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1997-1998</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5016002" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>1998</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref132" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cat on a Hot Tin Roof,</title></unittitle>
+                        <unitid>20.</unitid>
+                        <unitdate>1998</unitdate>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Cat on a Hot Tin Roof</title> was performed at the Stephen Foster Memorial Theatre, November 4-22, 1998. This production featured several songs by Pittsburgh native Ernie Hawkins. There are recordings of these songs on audio cassettes in the production materials folder.</p>
+                    </scopecontent>
+                    <c03 id="ref435" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5360001" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref436" level="file">
+                        <did>
+                            <unittitle>Music</unittitle>
+                            <container id="cid5360002" type="Folder" label="Audio">6</container>
+                            <physdesc>
+                                <extent>3.0 cassette tapes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5021001" type="Folder" label="Photographic images">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5021003" type="Folder" label="Mixed materials">8-9</container>
+                            <unitdate>1998</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5021002" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1998</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref139" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Shop of Horrors,</title></unittitle>
+                        <unitid>21.</unitid>
+                        <unitdate>1999-2000</unitdate>
+                    </did>
+                    <scopecontent id="ref149">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Little Shop of Horrors</title> was performed at the Stephen Foster Memorial Theatre, March 29th through April 16th, 2000.</p>
+                    </scopecontent>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5021004" type="Folder" label="Mixed materials">11-13</container>
+                            <unitdate>1999-2000</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5021005" type="Folder" label="Mixed materials">14-15</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref221" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Waiting for Godot,</title></unittitle>
+                        <unitid>22.</unitid>
+                        <unitdate>2001</unitdate>
+                    </did>
+                    <scopecontent id="ref241">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in and directed 
+                            <title render="italic">Waiting for Godot</title>. He played the role of Estragon. The play was performed September 19th through October 7th, 2001 at the Henry Heymann Theatre in the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref437" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5362001" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5204002" type="Folder" label="Mixed materials">17-19</container>
+                            <unitdate>2001</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref140" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Much Ado About Nothing,</title></unittitle>
+                        <unitid>23.</unitid>
+                        <unitdate>2002-2003</unitdate>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Much Ado About Nothing</title> was performed April 2-19, 2003. It was the inaugural production at the newly renovated Charity Randall Theatre, previously known as the mainstage of the Stephen Foster Memorial.</p>
+                    </scopecontent>
+                    <c03 id="ref303" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5362002" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref447" level="file">
+                        <did>
+                            <unittitle>Music</unittitle>
+                            <container id="cid5383001" type="Box" label="Audio">11</container>
+                            <container parent="cid5383001" type="Folder">1</container>
+                            <physdesc>
+                                <extent>1.0 disc</extent>
+                                <extent>25 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5093002" type="Folder" label="Mixed materials">2-4</container>
+                            <unitdate>2002-2003</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5093003" type="Folder" label="Mixed materials">5-6</container>
+                            <unitdate>2002-2003</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref141" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Twelfth Night,</title></unittitle>
+                        <unitid>24.</unitid>
+                        <unitdate>2003-2004</unitdate>
+                    </did>
+                    <scopecontent id="ref158">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Twelfth Night</title> was performed at the Henry Heymann Theatre, March 31th through April 18th, 2004.</p>
+                    </scopecontent>
+                    <c03 id="ref438" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5362003" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref439" level="file">
+                        <did>
+                            <unittitle>Music - Pre-show</unittitle>
+                            <container id="cid5369001" type="Folder" label="Audio">8</container>
+                            <physdesc>
+                                <extent>2.0 discs</extent>
+                                <extent>41 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref440" level="file">
+                        <did>
+                            <unittitle>Music - Intermission</unittitle>
+                            <container id="cid5369002" type="Folder" label="Audio">9</container>
+                            <physdesc>
+                                <extent>4.0 discs</extent>
+                                <extent>75 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5204001" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>2003-2004</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5097002" type="Folder" label="Mixed materials">11-13</container>
+                            <unitdate>2003-2004</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref142" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Arms and the Man,</title></unittitle>
+                        <unitid>25.</unitid>
+                        <unitdate>2004</unitdate>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Arms and the Man</title> was performed at the Charity Randall Theatre, November 10-21, 2004.</p>
+                    </scopecontent>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>Digital photographs</unittitle>
+                            <container id="cid5369003" type="Folder" label="Photographic images">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref450" level="file">
+                        <did>
+                            <unittitle>Music</unittitle>
+                            <container id="cid5407001" type="Folder" label="Audio">15</container>
+                            <physdesc>
+                                <extent>2.0 discs</extent>
+                                <extent>102 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5097003" type="Folder" label="Mixed materials">16-18</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref177" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Old Times,</title></unittitle>
+                        <unitid>26.</unitid>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref178">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Old Times</title> was performed at the Henry Heymann Theatre, September 21st through October 9th, 2005.</p>
+                    </scopecontent>
+                    <c03 id="ref441" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5369004" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>Digital photographs</unittitle>
+                            <container id="cid5383002" type="Folder" label="Photographic images">20</container>
+                            <physdesc>
+                                <extent>1.0 disc</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref442" level="file">
+                        <did>
+                            <unittitle>Music - Pre-show</unittitle>
+                            <container id="cid5369006" type="Folder" label="Mixed materials">21</container>
+                            <physdesc>
+                                <extent>1.0 disc</extent>
+                                <extent>34 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5181005" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5181006" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5181007" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref171" level="subseries">
+                    <did>
+                        <unittitle>Chekhov Vaudevilles,</unittitle>
+                        <unitid>27.</unitid>
+                        <unitdate>2006-2007</unitdate>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Content Notes</head>
+                        <p>Anton Chekhov's 
+                            <title render="italic">The Proposal</title>, 
+                            <title render="italic">The Wedding</title>, and 
+                            <title render="italic">The Bear</title> were performed at the Charity Randall Theatre, March 21st through April 1st, 2007.</p>
+                    </scopecontent>
+                    <c03 id="ref443" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5369007" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5181003" type="Folder" label="Photographic images">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5181001" type="Folder" label="Mixed materials">27-28</container>
+                            <unitdate>2006-2007</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5204003" type="Box" label="Mixed materials">12</container>
+                            <container parent="cid5204003" type="Folder">1-2</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref161" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Count Dracula,</title></unittitle>
+                        <unitid>28.</unitid>
+                        <unitdate>2008-2009</unitdate>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Count Dracula</title> was performed at the Charity Randall Theatre, October 22nd through November 1st, 2009.</p>
+                    </scopecontent>
+                    <c03 id="ref444" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373001" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5186001" type="Folder" label="Mixed materials">4-6</container>
+                            <unitdate>2008-2009</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5186002" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>2009</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref143" level="series">
+                <did>
+                    <unittitle>Acting and Directing,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1981-2011</unitdate>
+                </did>
+                <scopecontent id="ref203">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains promptbooks and production materials relating to W. Stephen Coleman’s acting and directing in the Greater Pittsburgh Area. Productions from City Theatre, Pittsburgh Irish and Classical Theatre, Civic Organizations, Chatham College, and the Pittsburgh Playhouse are included in this series. Acting projects for the Three Rivers Shakespeare Festival and Pitt Repertory Theatre are also included. Please note that there is one non-Pittsburgh production included. In 1981, Coleman performed in a production for the Austin Repertory Theatre, in Austin, Texas.</p>
+                    <p>Production materials can include audition forms, director’s notes, rehearsal notes, production notes, set and costume designs, administrative information, press materials, photographs, programs, and brochures. Each production has been arranged into its own subseries and are in chronological order.</p>
+                </scopecontent>
+                <c02 id="ref454" level="subseries">
+                    <did>
+                        <unittitle>Austin Repertory Theatre - 
+                            <title render="italic">A Life in the Theatre</title></unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <scopecontent id="ref456">
+                        <head>Scope and Content Notes</head>
+                        <p>In 1981, Coleman played the part of Robert in this David Mamet play for the Austin Repertory Theatre. He also served as the choreographer for the production.</p>
+                    </scopecontent>
+                    <c03 id="ref455" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5456001" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref186" level="subseries">
+                    <did>
+                        <unittitle>Pitt Repertory Theatre - 
+                            <title render="italic">She Stoops to Conquer,</title></unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>1981</unitdate>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">She Stoops to Conquer</title> as Mr. Hardcastle. The play was performed November 5-21, 1981 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373003" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5373002" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>City Theatre - Shakespeare's Swashbucklers,</unittitle>
+                        <unitid>3.</unitid>
+                        <unitdate>1981</unitdate>
+                    </did>
+                    <scopecontent id="ref445">
+                        <head>Scope and Content Notes</head>
+                        <p>Shakespeare's Swashbucklers was a joint production of the City Theatre Company and Gateway to Music of fight scenes from Shakespeare's plays. Coleman directed the show and it toured Pittsburgh area schools during the 1981-1982 season.</p>
+                    </scopecontent>
+                    <c03 id="ref446" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5373004" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref275" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">The Merry Wives of Windsor,</title></unittitle>
+                        <unitid>4.</unitid>
+                        <unitdate>1982</unitdate>
+                    </did>
+                    <scopecontent id="ref276">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">The Merry Wives of Windsor</title> as Frank Ford. The play was performed July 8th through the 24th, 1982 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373005" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref409" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5373006" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref299" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">Hamlet,</title></unittitle>
+                        <unitid>5.</unitid>
+                        <unitdate>1982</unitdate>
+                    </did>
+                    <scopecontent id="ref300">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Hamlet</title> as Claudius, King of Denmark. The play was performed June 17th through July 3rd, 1982 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref301" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373010" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref411" level="file">
+                        <did>
+                            <unittitle>Production materials</unittitle>
+                            <container id="cid5373012" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref272" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">The Tempest,</title></unittitle>
+                        <unitid>6.</unitid>
+                        <unitdate>1982</unitdate>
+                    </did>
+                    <scopecontent id="ref274">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">The Tempest</title> as Sebastian. The play was performed July 29th through August 15th, 1982 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref273" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373008" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref410" level="file">
+                        <did>
+                            <unittitle>Production materials</unittitle>
+                            <container id="cid5373011" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Pitt Repertory Theatre - 
+                            <title render="italic">Good,</title></unittitle>
+                        <unitid>7.</unitid>
+                        <unitdate>1983</unitdate>
+                    </did>
+                    <scopecontent id="ref249">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Good</title> as John Halder. The play was performed October 19th through November 12th, 1983 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref287" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373009" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5373007" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref189" level="subseries">
+                    <did>
+                        <unittitle>ALCOA - American Society of Safety Engineers,</unittitle>
+                        <unitid>8.</unitid>
+                        <unitdate>1984</unitdate>
+                    </did>
+                    <scopecontent id="ref207">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman directed this industrial show for an ALCOA professional development conference in 1984.</p>
+                    </scopecontent>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5373013" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref269" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">The Merchant of Venice,</title></unittitle>
+                        <unitid>9.</unitid>
+                        <unitdate>1984</unitdate>
+                    </did>
+                    <scopecontent id="ref271">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">The Merchant of Venice</title> as Antonio. The play was performed June 29th through July 21st, 1984 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref270" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5373014" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref408" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5373015" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref278" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">Love Labor's Lost,</title></unittitle>
+                        <unitid>10.</unitid>
+                        <unitdate>1984</unitdate>
+                    </did>
+                    <scopecontent id="ref279">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Love Labor's Lost</title> as Ferdinand. The play was performed July 27th through August 19th, 1984 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref280" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5375002" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5375003" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>July 1984</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref257" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">Romeo and Juliet,</title></unittitle>
+                        <unitid>11.</unitid>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <scopecontent id="ref258">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Romeo and Juliet</title> as Lord Capulet. He also was the fight choreographer for the production. The play was performed May 31st through June 22nd, 1985 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref259" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5375001" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5375004" type="Folder" label="Photographic images">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref407" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378001" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref190" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">Twelfth Night,</title></unittitle>
+                        <unitid>12.</unitid>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Twelfth Night</title> as Sir Toby Belch. The play was performed June 28th through July 22nd, 1985 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5378003" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378002" type="Folder" label="Mixed materials">29</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref266" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">All's Well That Ends Well,</title></unittitle>
+                        <unitid>13.</unitid>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref267">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">All's Well That Ends Well</title> as Lafew. The play was performed June 27th through July 20th, 1986 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref268" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5378004" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378008" type="Folder" label="Mixed materials">31</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref254" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">King Lear,</title></unittitle>
+                        <unitid>14.</unitid>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref255">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">King Lear</title> as the Earl of Kent. He also was the fight choreographer for the production. The play was performed July 25th through August 17th, 1986 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref256" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5378005" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref412" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378009" type="Folder" label="Mixed materials">33</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref458" level="otherlevel">
+                    <did>
+                        <unittitle>City of Pittsburgh Bureau of Cable Communications - 
+                            <title render="italic">Citylife</title>,</unittitle>
+                        <unitid>15.</unitid>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref460">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman served as the co-host for this City of Pittsburgh public affairs talk show from 1986 through 1995.</p>
+                    </scopecontent>
+                    <c03 id="ref459" level="file">
+                        <did>
+                            <unittitle>Pittsburgh City Council proclamation,</unittitle>
+                            <container id="cid5639001" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>October 5, 1987</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref263" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">Richard III,</title></unittitle>
+                        <unitid>16.</unitid>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref265">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Richard III</title> as Lord Stanley, Earl of Derby. He also was the fight choreographer for the production. The play was performed July 24th through August 15th, 1987 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref264" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5378006" type="Folder" label="Mixed materials">35</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378007" type="Folder" label="Mixed materials">36</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref191" level="subseries">
+                    <did>
+                        <unittitle>Pitt Repertory Theatre - 
+                            <title render="italic">Educating Rita,</title></unittitle>
+                        <unitid>17.</unitid>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Educating Rita</title> as Frank. The play was performed November 11-22, 1987 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref286" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5378011" type="Folder" label="Mixed materials">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378010" type="Folder" label="Mixed materials">38</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref260" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival - 
+                            <title render="italic">Antony and Cleopatra,</title></unittitle>
+                        <unitid>18.</unitid>
+                        <unitdate>1989</unitdate>
+                    </did>
+                    <scopecontent id="ref261">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Antony and Cleopatra</title> as both Lepidus and Dolabella. The play was performed July 21st through August 12th, 1989 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref262" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5378012" type="Folder" label="Mixed materials">39</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref307" level="subseries">
+                    <did>
+                        <unittitle>At Last the World Says Yes,</unittitle>
+                        <unitid>19.</unitid>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                    <scopecontent id="ref309">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman was an actor and reader for Samuel Hazo's 
+                            <title render="italic">At Last the World Says Yes</title>. This production was performed at Westminster College in February 1992.</p>
+                    </scopecontent>
+                    <c03 id="ref353" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid5378014" type="Folder" label="Photographic images">40</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5378013" type="Folder" label="Mixed materials">41</container>
+                            <unitdate>1991-1992</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref194" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Until I'm Not Here Anymore!,</title></unittitle>
+                        <unitid>20.</unitid>
+                        <unitdate>1992</unitdate>
+                    </did>
+                    <scopecontent id="ref195">
+                        <head>Scope and Content Notes</head>
+                        <p>Samuel Hazo's play 
+                            <title render="italic">Until I'm Not Here Anymore!</title> was directed by Coleman. This world premiere production was performed at the Fulton Theater, September 1-4, 1992. The production was adapted and filmed for local television. There is a VHS recording included in the subseries.</p>
+                    </scopecontent>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5382001" type="Box" label="Mixed materials">13</container>
+                            <container parent="cid5382001" type="Folder">1</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5382002" type="Folder" label="Mixed materials">2-3</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Slides and negatives</unittitle>
+                            <container id="cid5382003" type="Folder" label="Photographic images">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="file">
+                        <did>
+                            <unittitle>Video recording</unittitle>
+                            <container id="cid5382005" type="Folder" label="Moving Images">5</container>
+                            <physdesc>
+                                <extent>1.0 cassette tape</extent>
+                                <extent>VHS, 90 minutes</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref211" level="subseries">
+                    <did>
+                        <unittitle>Theatre at Hartwood - 
+                            <title render="italic">One Flew Over the Cuckoo's Nest,</title></unittitle>
+                        <unitid>21.</unitid>
+                        <unitdate>1993</unitdate>
+                    </did>
+                    <scopecontent id="ref212">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">One Flew Over the Cuckoo's Nest,</title> was directed by Coleman. The Theatre at Hartwood production was performed August 10-28, 1993.</p>
+                    </scopecontent>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5382004" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5382006" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="file">
+                        <did>
+                            <unittitle>Slides</unittitle>
+                            <container id="cid5382007" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref333" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">Dybbuk</title></unittitle>
+                        <unitid>22.</unitid>
+                        <unitdate>1993-1994</unitdate>
+                    </did>
+                    <scopecontent id="ref334">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Dybbuk</title> as both Nachman and Judge. The play was performed December 30th, 1993 through February 6th, 1994 at the Theodore L. Hazlett, Jr. Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref335" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5382008" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1993-1994</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref246" level="subseries">
+                    <did>
+                        <unittitle>Theatre at Hartwood - 
+                            <title render="italic">Sleuth,</title></unittitle>
+                        <unitid>23.</unitid>
+                        <unitdate>1994</unitdate>
+                    </did>
+                    <scopecontent id="ref248">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in and directed 
+                            <title render="italic">Sleuth</title>. He played the role of Andrew Wyke. The Theatre at Hartwood production was performed September 14th through October 23rd, 1994.</p>
+                    </scopecontent>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle>Promptbook,</unittitle>
+                            <container id="cid5383003" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1994</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref216" level="subseries">
+                    <did>
+                        <unittitle>Pitt Repertory Theatre - 
+                            <title render="italic">Marat/Sade,</title></unittitle>
+                        <unitid>24.</unitid>
+                        <unitdate>1997</unitdate>
+                    </did>
+                    <scopecontent id="ref228">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Marat/Sade</title> as the Marquis de Sade. The play was performed November 5-23, 1997 at the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref289" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5383004" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5383005" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1997</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref343" level="subseries">
+                    <did>
+                        <unittitle>Film project - 
+                            <title render="italic">Achilles' Love</title>,</unittitle>
+                        <unitid>25.</unitid>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref345">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman played the part of Constantine Zoras in the film 
+                            <title render="italic">Achilles' Love.</title> The film was shot in Pittsburgh and was released in 2000.</p>
+                    </scopecontent>
+                    <c03 id="ref344" level="file">
+                        <did>
+                            <unittitle>Newspaper clippings,</unittitle>
+                            <container id="cid5383006" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref217" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish and Classical Theatre - 
+                            <title render="italic">The Picture of Dorian Gray,</title></unittitle>
+                        <unitid>26.</unitid>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref230">
+                        <head>Scope and Content Notes</head>
+                        <p>This production of 
+                            <title render="italic">The Picture of Dorian Gray</title> was directed by Coleman for Pittsburgh Irish and Classical Theatre. The play was performed August 10-26, 2000 at the City Theatre Mainstage.</p>
+                    </scopecontent>
+                    <c03 id="ref448" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5383008" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5383007" type="Folder" label="Mixed materials">15-18</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref218" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish and Classical Theatre - 
+                            <title render="italic">Portia Coughlin,</title></unittitle>
+                        <unitid>27.</unitid>
+                        <unitdate>2001</unitdate>
+                    </did>
+                    <scopecontent id="ref231">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman appeared in this production of 
+                            <title render="italic">Portia Coughlan</title> as Sly Scully for Pittsburgh Irish and Classical Theatre. The play was performed March 22nd through April 7th, 2001 at the Eddy Theatre at the Chatham College campus.</p>
+                    </scopecontent>
+                    <c03 id="ref232" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5383009" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>2001</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref219" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish and Classical Theatre - 
+                            <title render="italic">Tartuffe,</title></unittitle>
+                        <unitid>28.</unitid>
+                        <unitdate>2001</unitdate>
+                    </did>
+                    <scopecontent id="ref235">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman appeared in this production of 
+                            <title render="italic">Tartuffe</title> as Orgon for Pittsburgh Irish and Classical Theatre. The play was performed June 14-30, 2001 at the City Theatre Mainstage.</p>
+                    </scopecontent>
+                    <c03 id="ref233" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5383010" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>2001</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref220" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish and Classical Theatre - 
+                            <title render="italic">The Seagull,</title></unittitle>
+                        <unitid>29.</unitid>
+                        <unitdate>2001</unitdate>
+                    </did>
+                    <scopecontent id="ref236">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman appeared in this production of 
+                            <title render="italic">The Seagull</title> as Dr. Hickey for Pittsburgh Irish and Classical Theatre. The play was performed August 9-25, 2001 at the City Theatre Mainstage.</p>
+                    </scopecontent>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5383011" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>2001</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref222" level="subseries">
+                    <did>
+                        <unittitle>Pitt Repertory Theatre - 
+                            <title render="italic">How I Learned to Drive,</title></unittitle>
+                        <unitid>30.</unitid>
+                        <unitdate>2002</unitdate>
+                    </did>
+                    <scopecontent id="ref239">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">How I Learned to Drive</title> as Peck. The play was performed October 31st through November 10th, 2002 at the Studio Theatre in the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref240" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5383012" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref223" level="subseries">
+                    <did>
+                        <unittitle>Creative Nonfiction Foundation - Diversity Dialogues Series,</unittitle>
+                        <unitid>31.</unitid>
+                        <unitdate>2003</unitdate>
+                    </did>
+                    <scopecontent id="ref242">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman directed the readings at several of the installments of the Diversity Dialogues Series of the Creative Nonfiction Foundation.</p>
+                    </scopecontent>
+                    <c03 id="ref449" level="file">
+                        <did>
+                            <unittitle>Audio recording - Diversity Dialogues</unittitle>
+                            <container id="cid5384002" type="Folder" label="Audio">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5384001" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>2003</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref224" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish and Classical Theatre - 
+                            <title render="italic">Henry IV,</title></unittitle>
+                        <unitid>32.</unitid>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref245">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman appeared in this production of 
+                            <title render="italic">Henry IV</title> as the Earl of Warwick for Pittsburgh Irish and Classical Theatre. The play was performed April 20th through May 14, 2005 at the Charity Randall Theatre in the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref244" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5394001" type="Box" label="Mixed materials">14</container>
+                            <container parent="cid5394001" type="Folder">1</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref339" level="subseries">
+                    <did>
+                        <unittitle>Film project - 
+                            <title render="italic">John Dunn's Last Run</title>,</unittitle>
+                        <unitid>33.</unitid>
+                        <unitdate>2006</unitdate>
+                    </did>
+                    <scopecontent id="ref342">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman played the title character's father in the short film 
+                            <title render="italic">John Dunn's Last Run.</title> The film was shot in the Johnstown area in 2006 and was released by Firefly Entertainment in 2009.</p>
+                    </scopecontent>
+                    <c03 id="ref340" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5395001" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2006</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref323" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">Oedipus the King,</title></unittitle>
+                        <unitid>34.</unitid>
+                        <unitdate>2006</unitdate>
+                    </did>
+                    <scopecontent id="ref324">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Oedipus the King</title> as Egeon. The play was performed September 28th through October 29th, 2006 at the O'Reilly Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref325" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5395002" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2006</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref290" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish and Classical Theatre - 
+                            <title render="italic">Julius Caesar,</title></unittitle>
+                        <unitid>35.</unitid>
+                        <unitdate>2007</unitdate>
+                    </did>
+                    <scopecontent id="ref291">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Julius Caesar</title> as both Cicero and Volumnius. The play was performed April 11th through 28th, 2007 at the Charity Randall Theatre in the Stephen Foster Memorial Theatre.</p>
+                    </scopecontent>
+                    <c03 id="ref292" level="file">
+                        <did>
+                            <unittitle>Annotated acting edition</unittitle>
+                            <container id="cid5395003" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5395004" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref320" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">The Comedy of Errors,</title></unittitle>
+                        <unitid>36.</unitid>
+                        <unitdate>2007</unitdate>
+                    </did>
+                    <scopecontent id="ref321">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">The Comedy of Errors</title> as Egeon. The play was performed October 4th through November 4th, 2007 at the O'Reilly Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref322" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5397002" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref315" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">Amadeus,</title></unittitle>
+                        <unitid>37.</unitid>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref316">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Amadeus</title> as Baron Gotfried van Swieten. The play was performed January 24th through February 24th, 2008 at the O'Reilly Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref317" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5397001" type="Folder" label="Mixed materials">8-9</container>
+                            <unitdate>2008</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref451" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Father,</title></unittitle>
+                        <unitid>38.</unitid>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref452">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman directed a staged reading of the August Strindberg play 
+                            <title render="italic">The Father</title>. This performance took place September 22nd, 2008 in the Henry Heymann Theatre. It was a one night only performance and was not a part of the University of Pittsburgh's Theatre Arts Department schedule that season.</p>
+                    </scopecontent>
+                    <c03 id="ref453" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5427001" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>September 22, 2008</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref330" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">Stayers and Goers,</title></unittitle>
+                        <unitid>39.</unitid>
+                        <unitdate>2007-2008</unitdate>
+                    </did>
+                    <scopecontent id="ref331">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in a reading of the Todd Kreidler play 
+                            <title render="italic">Stayers and Goers</title> as Mye Peters. This performance took place November 17th, 2008 in the O'Reilly Theater Rehearsal Hall.</p>
+                    </scopecontent>
+                    <c03 id="ref332" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5426003" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>November 17th, 2008</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref318" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">Harry's Friendly Service,</title></unittitle>
+                        <unitid>40.</unitid>
+                        <unitdate>2009</unitdate>
+                    </did>
+                    <scopecontent id="ref319">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Harry's Friendly Service</title> as Carmine Naples. The play was performed May 28th through June 28th, 2009 at the O'Reilly Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref327" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5426002" type="Folder" label="Mixed materials">12-14</container>
+                            <unitdate>2009</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref326" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">A Midsummer Night's Dream,</title></unittitle>
+                        <unitid>41.</unitid>
+                        <unitdate>2010</unitdate>
+                    </did>
+                    <scopecontent id="ref329">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">A Midsummer Night's Dream</title> as Egeus/Peter Quince. The play was performed January 21st through February 21st, 2010 at the O'Reilly Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref328" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5426001" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>2010</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref336" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater - 
+                            <title render="italic">Camelot,</title></unittitle>
+                        <unitid>42.</unitid>
+                        <unitdate>2010-2011</unitdate>
+                    </did>
+                    <scopecontent id="ref337">
+                        <head>Scope and Content Notes</head>
+                        <p>Coleman performed in 
+                            <title render="italic">Camelot</title> as Merlin. The play was performed January 20th through February 20th, 2011 at the O'Reilly Theater.</p>
+                    </scopecontent>
+                    <c03 id="ref338" level="file">
+                        <did>
+                            <unittitle>Production materials,</unittitle>
+                            <container id="cid5426004" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>2010-2011</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Iron Clad Agreement records, 1975-1985</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Records of Iron Clad Agreement, 1975-1985</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Iron Clad Agreement (Theatrical company)</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Correspondence.</genre>
+  <genre authority="aat">Photographs.</genre>
+  <genre authority="aat">Scripts (Documents).</genre>
+  <genre authority="aat">Slides (Photographs).</genre>
+  <genre authority="aat">Audiocassettes.</genre>
+  <genre authority="aat">Audio tapes.</genre>
+  <genre authority="aat">Video recordings.</genre>
+  <genre authority="aat">Videocassettes.</genre>
+  <genre authority="aat">Videotapes.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1975-1985.</dateOther>
+    <dateIssued encoding="marc" point="start">1975</dateIssued>
+    <dateIssued encoding="marc" point="end">1985</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft. boxes)">18.5 (27</extent>
+    <note type="arrangement">Organized into 7 series: I. Operational Files, 1975-1985; II. Playscripts, 1982; III. Photographs, 1976-1982; IV. Slides, 1980; V. Audio Recordings, 1976-1984; VI. Audio/Visual Recordings, 1977-1982; VII. Oversized and Ephemera, 1976-1978.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">The Iron Clad Agreement records are arranged into seven series. The first is a group of operational files that are arranged alphabetically. Series II is a complete set of play scripts for all the productions that the Iron Clad Agreement performed. All of these play scripts are cross-referenced in the Curtis Play script and Acting Edition collection binder. These first two series make up the bulk of the collection. The remaining series are each relatively small in comparison. Series III-VII are photographs, slides, audio recordings, video recordings, and oversized/ephemera, respectively.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Iron Clad Agreement Records, 1975-1985, CTC.1990.01, Curtis Theatre Collection, ULS Special Collections Department, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Ms. Julia Royall, Iron Clad Agreement producer, 1990.</note>
+  <note type="biographical/historical">The Iron Clad Agreement was founded in Pittsburgh in 1975 by Julia Swoyer and K. Wilson Hutton as a traveling forum for producing original theater productions. Their work integrated historical research and live theatre emphasizing the performer as the most portable element of theatre. The Iron Clad Agreement sought to explore the age of America's Industrial Revolution--its inventors, workers, feminists, and labor leaders. Scripts and songs were written specifically for or by the company in the unique Iron Clad style, somewhere between vaudeville and documentary drama. The group performend extensively in education settings for audiences of all ages and economic backgrounds. Besides performances, the company's services included post-performance discussions; artistic and administrative internships; and workshops in acting, directing, movement, speech and voice. In 1981, the company moved their central base of operation to New York City and expanded their territory for presentations of live history-oriented theatre productions to include most of the U.S., U.K. and Hong Kong. They also expanded to include television, film and radio productions around the same thematic focus. Major premiers included Edison at Lincoln Center for the Performing Arts, NYC; Virgins and Dynamos at The Royal Society of the Arts, London; and The Gilded Age of Invention at the Edinburgh International Festival, Scotland. The company was also featured on Creativity with Bill Moyers television series and the Smithsonian Institution's film Mr. Edison and his Amazing Invention Factories. The company continued its unique style of blending history with theatre until its demise in 1985.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc199001">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc199001</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Edison, Thomas A. (Thomas Alva)</namePart>
+      <namePart type="date">1847-1931</namePart>
+    </name>
+    <genre>Drama</genre>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Swoyer, Julia</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Hutton, Wilson</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Iron Clad Agreement (Theatrical company).</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Lincoln Center for the Performing Arts.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Royal Society of Arts (Great Britain).</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="conference">
+      <namePart>Edinburgh International Festival.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Creativity with Bill Moyers</title>
+    </titleInfo>
+  </subject>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Mr. Edison and his amazing invention factories (Motion picture)</title>
+    </titleInfo>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Industrial revolution</topic>
+    <genre>Drama</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Inventors</topic>
+    <genre>Drama</genre>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm31140107</identifier>
+  <identifier type="oclc">31140107</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc199001</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940919</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131827.0</recordChangeDate>
+    <recordIdentifier>1471193</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc199001</identifier></mods>

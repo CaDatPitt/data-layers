@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199101</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the City Theatre Company Records, 1973-1993
+                    <num>CTC.1991.01</num>
+                </titleproper>
+                <author>Finding aid prepared by David Sleasman. Revisions occurred to the finding aid as a part of the encoding process in 2004.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>1992</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>City Theatre Company Records</unittitle>
+            <unitid>CTC.1991.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>10.5 linear feet</extent>
+                <extent>(25 boxes)</extent>
+            </physdesc>
+            <unitdate>1973-1993</unitdate>
+            <abstract id="ref2" label="Abstract">The City of Pittsburgh created its own theatre company in 1974 called 
+                <title render="italic">The City Players</title>. In 1979, the City Players relocated to the University of Pittsburgh and became the City Theatre Company (CTC). This collection contains operational files, correspondence, scripts, production photos, etc., documenting the activities of the CTC from its creation until its move to the South Side of Pittsburgh in 1991.</abstract>
+            <origination label="creator">
+                <corpname source="naf">City Theatre Company (Pittsburgh, Pa.).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>The City of Pittsburgh created its own theatre company in 1974. This company, The City Players, was a troupe that resided in the newly renovated Allegheny Public Theatre on the North Side (now the Hazlett Theatre of the Pittsburgh Public Theatre) and contained a troupe of young professionals that reached out into the community by offering free performances of new plays and classics. The City Players were financed through the Comprehensive Employment and Training Act (CETA) and administered by Pittsburgh's Citiparks Department.</p>
+            <p>In 1979, the company relocated to the University of Pittsburgh and became the City Theatre Company (CTC). The CTC co-produced the inaugural season of the Three Rivers Shakespeare Festival. Both orgnizations eventually became separate entitites, however, the Three Rivers Shakespeare Festival continued to hire actors and directors from CTC from time to time. In 1980, Pitt assisted in renovating a campus building into a 117 seat theatre space which became known as 
+                <title render="italic">The New City Theater</title>. Pitt also continued to provide financial support until the severance of the relationship in 1988.</p>
+            <p>Despite the evolution from a touring troupe to a resident professional company, the CTC continued to provide touring productions as a vital part of its' operation. Tours reached approximately 35,000 children, senior citizens, and other people each year. Local playwrights or the acting company usually wrote the scripts for the touring shows.</p>
+            <p>In 1988 The City Theatre Company ended its' artistic and financial relationship with the University of Pittsburgh and became a completely independent theatre company. In the summer of 1991, CTC moved into their new quarters located at 57 South 13th Street in the South Side neighborhood of Pittsburgh.</p>
+        </bioghist>
+        <relatedmaterial id="ref543">
+            <head>Related Material</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of Pittsburgh Theatre Programs, 1840-present, CTC.1966.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <arrangement id="ref522">
+            <head>Arrangement</head>
+            <p>The City Theatre Company Records are organized into six separate series. All files are arranged alphabetically. Additional scope and content notes are found after the series titles.</p>
+            <p>Series I. Operational Files, 1975-1988</p>
+            <p>Series II. Playscripts</p>
+            <p>Series III. Photographs</p>
+            <p>Series IV. Oversize Materials</p>
+            <p>Series V. Additional Operational Files, 1991-1994</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>The City of Pittsburgh created its own theatre company in 1974 known as The City Players. In 1979, the City Players relocated to the University of Pittsburgh and became known as the City Theatre Company (CTC). This collection contains operational files, correspondence, scripts, production photos, etc. showing the activities of the CTC from its creation until its move to the South Side neighborhood of Pittsburgh in 1991.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were a gift of the City Theatre Company in July 1991.</p>
+        </acqinfo>
+        <odd id="ref523">
+            <head>Previous Citation</head>
+            <p>City Theatre Company Records, 1973-1993, CTC.1991.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>City Theatre Company Records, 1973-1993, CTC.21, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>City Theatre Company Records, 1973-1993, CTC.1991.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by David Sleasman in 1991 to 1992. Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in November 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1468125.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname rules="aacr" source="local">City Players (Pittsburgh, Pa.).</corpname>
+            <corpname source="naf">City Theatre Company (Pittsburgh, Pa.).</corpname>
+            <subject source="lcsh">College theater -- Pennsylvania -- Pittsburgh</subject>
+            <geogname source="lcsh">North Side (Pittsburgh, Pa.) -- Intellectual life</geogname>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.) -- Intellectual life</geogname>
+            <geogname source="lcsh">South Side (Pittsburgh, Pa.) -- Intellectual life</geogname>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Operational Files,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1975-1990</unitdate>
+                </did>
+                <scopecontent id="ref209">
+                    <head>Scope and Contents note</head>
+                    <p>These materials consist of the daily business files, correspondence, production memos, internal reports, minutes, etc. of the City Theatre Company. The files are arranged in alphabetical order. Files concerning City Theatre productions are followed by the date of the season in which they were performed.</p>
+                </scopecontent>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Contracts</unittitle>
+                        <container id="cid112097" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid112097" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Correspondence,</unittitle>
+                        <container id="cid112096" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1985-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Deputy forms</unittitle>
+                        <container id="cid112095" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Grievance and benefit Forms</unittitle>
+                        <container id="cid112094" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Membership program</unittitle>
+                        <container id="cid112093" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Salaries,</unittitle>
+                        <container id="cid112092" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Actor's Equity Association - Small Professional Theatre Contract</unittitle>
+                        <container id="cid112091" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Agents - New York</unittitle>
+                        <container id="cid112089" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Artists in Education - Pennsylvania Council on the Arts</unittitle>
+                        <container id="cid112088" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Attendance reports</unittitle>
+                        <container id="cid112087" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Audio-visual return receipts</unittitle>
+                        <container id="cid112086" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Auditions - 1985/86 season</unittitle>
+                        <container id="cid112085" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Auditions - Cold reading</unittitle>
+                        <container id="cid112084" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Beggar's Opera</title> - Press,</unittitle>
+                        <container id="cid112083" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref518" level="file">
+                    <did>
+                        <unittitle>Board of Advisers</unittitle>
+                        <container id="cid226002" type="Folders" label="Mixed materials">15-17</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Board of Advisers - Correspondence,</unittitle>
+                        <container id="cid112082" type="Folder" label="Mixed materials">18-20</container>
+                        <unitdate>1983-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Board of Advisers - Fundraising,</unittitle>
+                        <container id="cid112081" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Board of Advisers - Meeting minutes,</unittitle>
+                        <container id="cid112080" type="Folder" label="Mixed materials">22-24</container>
+                        <unitdate>1983-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Board of Advisers - Meeting minutes,</unittitle>
+                        <container id="cid112079" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid112079" type="Folder">1</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Bouquet Street Theatre Agreement with the University of Pittsburgh</unittitle>
+                        <container id="cid112077" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Box office reports,</unittitle>
+                        <container id="cid112076" type="Folder" label="Mixed materials">3-8</container>
+                        <unitdate>1982-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Budget,</unittitle>
+                        <container id="cid112075" type="Folder" label="Mixed materials">9-14</container>
+                        <unitdate>1981-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Budget,</unittitle>
+                        <container id="cid112074" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid112074" type="Folder">1-3</container>
+                        <unitdate>1987-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>By-Laws,</unittitle>
+                        <container id="cid112073" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Canterbury Tales</title> - Press,</unittitle>
+                        <container id="cid112072" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Children of a Lesser God</title> - Press,</unittitle>
+                        <container id="cid112071" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Children of a Lesser God</title> - Program printing,</unittitle>
+                        <container id="cid112070" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Chinaman's Whisper</title> - Press,</unittitle>
+                        <container id="cid112069" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Circus</title> - Schedules and memos,</unittitle>
+                        <container id="cid112068" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Citiparks Playworks</unittitle>
+                        <container id="cid112067" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>The City Theatre Blues</unittitle>
+                        <container id="cid112066" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tamer of Horses</title> - Press,</unittitle>
+                        <container id="cid112065" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Clarence Darrow - Press,</unittitle>
+                        <container id="cid112064" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Comeback</title>,</unittitle>
+                        <container id="cid112063" type="Folder" label="Mixed materials">14-15</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Concessions reports,</unittitle>
+                        <container id="cid112062" type="Folder" label="Mixed materials">16-17</container>
+                        <unitdate>1982-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Contact sheets</unittitle>
+                        <container id="cid112061" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Contracts,</unittitle>
+                        <container id="cid112060" type="Folder" label="Mixed materials">19-22</container>
+                        <unitdate>1981-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Corporate sponsorship</unittitle>
+                        <container id="cid112059" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid112058" type="Folder" label="Mixed materials">24-27</container>
+                        <unitdate>1975-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid112057" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid112057" type="Folder">1-5</container>
+                        <unitdate>1981-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Fan mail from school tour,</unittitle>
+                        <container id="cid112056" type="Folder" label="Mixed materials">6-8</container>
+                        <unitdate>1985-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Creative Advancement Awards</unittitle>
+                        <container id="cid112055" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Crimes of the Heart</title>,</unittitle>
+                        <container id="cid112054" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Curse of the Starving Class</title>,</unittitle>
+                        <container id="cid112052" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Curse of the Starving Class</title> - Schedules and memos,</unittitle>
+                        <container id="cid112053" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Custodial schedules</unittitle>
+                        <container id="cid112051" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Danger: Memory!</title> - Contracts,</unittitle>
+                        <container id="cid112050" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Danger: Memory!</title> - Press,</unittitle>
+                        <container id="cid112049" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Danger: Memory!</title> - Production rights,</unittitle>
+                        <container id="cid112048" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Danger: Memory!</title> - Schedule and memos,</unittitle>
+                        <container id="cid112047" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Danube</title>,</unittitle>
+                        <container id="cid112046" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Day of the Picnic</title>,</unittitle>
+                        <container id="cid112045" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Death and Life of Sneaky Fitch</title> - Contracts,</unittitle>
+                        <container id="cid112044" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Death and Life of Sneaky Fitch</title> - Press,</unittitle>
+                        <container id="cid112043" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Death and Life of Sneaky Fitch</title> - Props list,</unittitle>
+                        <container id="cid112042" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Doctor Inspite of Himself</title> - Budget,</unittitle>
+                        <container id="cid112040" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Doctor Inspite of Himself</title> - Budget and press,</unittitle>
+                        <container id="cid112041" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Donations,</unittitle>
+                        <container id="cid112039" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid112039" type="Folder">1-6</container>
+                        <unitdate>1984-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Donations In Kind</unittitle>
+                        <container id="cid112038" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dracula</title>,</unittitle>
+                        <container id="cid112037" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid112037" type="Folder">1</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Drop Out!</title></unittitle>
+                        <container id="cid112036" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Employee Records,</unittitle>
+                        <container id="cid112035" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Final Hour</title>,</unittitle>
+                        <container id="cid112032" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Final Hour</title> - Prop receipts,</unittitle>
+                        <container id="cid112034" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Final Hour</title> - Tour schedule,</unittitle>
+                        <container id="cid112033" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Five Year Plan,</unittitle>
+                        <container id="cid112031" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1985-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Fool for Love</title>,</unittitle>
+                        <container id="cid112030" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Forms (Originals)</unittitle>
+                        <container id="cid112029" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">La Forza d'Amore</title>,</unittitle>
+                        <container id="cid112028" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">La Forza d'Amore</title> - Schedules and memos,</unittitle>
+                        <container id="cid112027" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Foundation for the Extension and Development of the American Professional Theatre</unittitle>
+                        <container id="cid112026" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Fund Raising (Mike Vargas),</unittitle>
+                        <container id="cid112025" type="Folder" label="Mixed materials">13-14</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Gateway to Music</title>, including Fan Mail and Outdoor Advertising,</unittitle>
+                        <container id="cid112024" type="Folder" label="Mixed materials">15-23</container>
+                        <unitdate>1981-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Glengarry Glen Ross</title> - Contracts,</unittitle>
+                        <container id="cid112021" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid112021" type="Folder">1</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Glengarry Glen Ross</title> - Contracts and press</unittitle>
+                        <container id="cid112023" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Glengarry Glen Ross</title> - Contracts, schedules, and memos,</unittitle>
+                        <container id="cid112022" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Good Evening</title> - Press</unittitle>
+                        <container id="cid112019" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Good Evening</title> - Press, schedules, and memos,</unittitle>
+                        <container id="cid112020" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Grant Prospects,</unittitle>
+                        <container id="cid112018" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Harry and Claire</title>,</unittitle>
+                        <container id="cid112017" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Hartwood - Contracts,</unittitle>
+                        <container id="cid112014" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Hartwood - Contracts and reports,</unittitle>
+                        <container id="cid112016" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Hartwood - Contracts, schedules, and memos,</unittitle>
+                        <container id="cid112015" type="Folder" label="Mixed materials">10-11</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>High School Tour,</unittitle>
+                        <container id="cid112013" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>History,</unittitle>
+                        <container id="cid112012" type="Folder" label="Mixed materials">13-14</container>
+                        <unitdate>1975-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">How I Got that Story</title>,</unittitle>
+                        <container id="cid112011" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Howard Heinz Endowment</unittitle>
+                        <container id="cid112010" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Hypochondriac</title>,</unittitle>
+                        <container id="cid112009" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Illusions of Fantasy</title> - Schedules and memos</unittitle>
+                        <container id="cid112008" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Incommunicado</title> - PR postcards</unittitle>
+                        <container id="cid112007" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Indians</title> - Correspondence,</unittitle>
+                        <container id="cid112005" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Indians</title> - Correspondence and press,</unittitle>
+                        <container id="cid112006" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Internal Revenue Service status letters</unittitle>
+                        <container id="cid112004" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Internship,</unittitle>
+                        <container id="cid112003" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Interpreted Performances</unittitle>
+                        <container id="cid112002" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Inventories - miscellaneous</unittitle>
+                        <container id="cid112001" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Job Descriptions (City Players)</unittitle>
+                        <container id="cid112000" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Josephine: The Mouse Singer</title> - Contracts,</unittitle>
+                        <container id="cid111998" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Josephine: The Mouse Singer</title> - Contracts, schedules, and memos,</unittitle>
+                        <container id="cid111999" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">LadyHouse Blues</title>,</unittitle>
+                        <container id="cid111997" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Leadership Pittsburgh</unittitle>
+                        <container id="cid111996" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Let's Misbehave</title> - Benefit invitations</unittitle>
+                        <container id="cid111995" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Letters of Recommendation</unittitle>
+                        <container id="cid111994" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Living Stage Theatre Company</unittitle>
+                        <container id="cid111993" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Loose Ends</title>,</unittitle>
+                        <container id="cid111992" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid111992" type="Folder">1</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Lovers and Keepers</title> - Contracts,</unittitle>
+                        <container id="cid111989" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Lovers and Keepers</title> - Contracts and press,</unittitle>
+                        <container id="cid111991" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Lovers and Keepers</title> - Contracts, schedules, and memos,</unittitle>
+                        <container id="cid111990" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Managing Director Prospects</unittitle>
+                        <container id="cid111988" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Mary Miller Dance Company</unittitle>
+                        <container id="cid111987" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Master Schedule,</unittitle>
+                        <container id="cid111986" type="Folder" label="Mixed materials">7-9</container>
+                        <unitdate>1982-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Masterson, Marc</unittitle>
+                        <container id="cid111985" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>May Performing Arts Festival, House Manager's Report,</unittitle>
+                        <container id="cid111983" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>May Performing Arts Festival, House Manager's Report -- Pennsylvania Council for the Arts Grant,</unittitle>
+                        <container id="cid111984" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Mid-Atlantic States Arts Consortium</unittitle>
+                        <container id="cid111982" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Misanthrope</title>,</unittitle>
+                        <container id="cid111981" type="Folder" label="Mixed materials">14-16</container>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Mobile Hymn</title>,</unittitle>
+                        <container id="cid111980" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>National Conference on State Humanities Programs,</unittitle>
+                        <container id="cid111979" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>New Play Series,</unittitle>
+                        <container id="cid111978" type="Folder" label="Mixed materials">19-20</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Newsletter</unittitle>
+                        <container id="cid111977" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Nuts</title>,</unittitle>
+                        <container id="cid111976" type="Folder" label="Mixed materials">22-24</container>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">On the Verge</title>,</unittitle>
+                        <container id="cid111975" type="Folder" label="Mixed materials">25-26</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Organizational chart (City Players)</unittitle>
+                        <container id="cid111974" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Organizational Planning</unittitle>
+                        <container id="cid111973" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Painting Churches</title>,</unittitle>
+                        <container id="cid111972" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid111972" type="Folder">1-2</container>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Painting It Red</title>,</unittitle>
+                        <container id="cid111971" type="Folder" label="Mixed materials">3-4</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Parking - Forbes Quad</unittitle>
+                        <container id="cid111970" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Patron opinion forms,</unittitle>
+                        <container id="cid111969" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Arts Coalition</unittitle>
+                        <container id="cid111968" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - Advisory panel</unittitle>
+                        <container id="cid111967" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - Barbara Feige salary roposal [Denied]</unittitle>
+                        <container id="cid111966" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - Grant proposals,</unittitle>
+                        <container id="cid111965" type="Folder" label="Mixed materials">10-11</container>
+                        <unitdate>1981-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Local Arts Network</unittitle>
+                        <container id="cid111964" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Perfect Party</title>,</unittitle>
+                        <container id="cid111963" type="Folder" label="Mixed materials">13-14</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Peter Pan</title>,</unittitle>
+                        <container id="cid111962" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Pitt/CTC Agreement</unittitle>
+                        <container id="cid111961" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Cultural Trust</unittitle>
+                        <container id="cid111960" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Cultural Trust - Arts Organizations mailing list</unittitle>
+                        <container id="cid111959" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Foundation - Grant proposals,</unittitle>
+                        <container id="cid111958" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Playback Theatre - Pittsburgh AIDS Task Force benefit,</unittitle>
+                        <container id="cid111957" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Stage - Fireproof certificate</unittitle>
+                        <container id="cid111956" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Plays considered,</unittitle>
+                        <container id="cid111955" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Principia Scriptoriae</title>,</unittitle>
+                        <container id="cid111954" type="Folder" label="Mixed materials">23-25</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Productions rights</unittitle>
+                        <container id="cid111953" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Profile,</unittitle>
+                        <container id="cid111952" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid111952" type="Folder">1-2</container>
+                        <unitdate>1983-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Provost's Day</unittitle>
+                        <container id="cid111951" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Puss n' Boots</title>,</unittitle>
+                        <container id="cid111950" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Red Keds</title>,</unittitle>
+                        <container id="cid111949" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Rehabilitation Institute of Pittsburgh</unittitle>
+                        <container id="cid111948" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Resource Connections</unittitle>
+                        <container id="cid111947" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Resumes and head shots - Female actors/performers</unittitle>
+                        <container id="cid111946" type="Folder" label="Mixed materials">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Resumes and head shots - Male actors/performers</unittitle>
+                        <container id="cid111945" type="Folder" label="Mixed materials">10-11</container>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Resumes - Administration/Technical</unittitle>
+                        <container id="cid111944" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Resumes - Designers</unittitle>
+                        <container id="cid111943" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Resumes - Directors</unittitle>
+                        <container id="cid111942" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid111942" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Robin Goodfellow - 
+                            <title render="italic">Swashbucklers</title>,</unittitle>
+                        <container id="cid111941" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">La Ronde</title>,</unittitle>
+                        <container id="cid111940" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rose Cottages</title>,</unittitle>
+                        <container id="cid111939" type="Folder" label="Mixed materials">4-7</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>San Francisco Mime Troupe</unittitle>
+                        <container id="cid111938" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>School contact information</unittitle>
+                        <container id="cid111937" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Scriptshare - New Dramatists</unittitle>
+                        <container id="cid111936" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Separate Incorporation budgets,</unittitle>
+                        <container id="cid111935" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sesame Street</title>,</unittitle>
+                        <container id="cid111934" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Shadow</title>,</unittitle>
+                        <container id="cid111933" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Staff meeting minutes,</unittitle>
+                        <container id="cid111932" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Staff Time Records</unittitle>
+                        <container id="cid111931" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Steel City</title>,</unittitle>
+                        <container id="cid111930" type="Folder" label="Mixed materials">16-17</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Story Theatre</title>,</unittitle>
+                        <container id="cid111929" type="Folder" label="Mixed materials">18-19</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Subscription brochures</unittitle>
+                        <container id="cid111928" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Survey of Performance Accessibility for People with Handicaps in NonProfit Professional Theatres in America</unittitle>
+                        <container id="cid111927" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Swashbucklers</title>,</unittitle>
+                        <container id="cid111926" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Table Manners</title>,</unittitle>
+                        <container id="cid111925" type="Folder" label="Mixed materials">23-25</container>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Talking with...</title>,</unittitle>
+                        <container id="cid111924" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tamer of Horses</title>,</unittitle>
+                        <container id="cid111923" type="Folder" label="Mixed materials">27-30</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Telecommunications</unittitle>
+                        <container id="cid111922" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>Theatre Association of Pennsylvania</unittitle>
+                        <container id="cid111921" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid111921" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Theatre Communications Group</unittitle>
+                        <container id="cid111920" type="Folder" label="Mixed materials">2-3</container>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Theatre rentals</unittitle>
+                        <container id="cid111919" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Theatrical structure</unittitle>
+                        <container id="cid111918" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival</unittitle>
+                        <container id="cid111917" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Time sheets</unittitle>
+                        <container id="cid111916" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>TIX Booth</unittitle>
+                        <container id="cid111915" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Toad of Toad Hall</title>,</unittitle>
+                        <container id="cid111914" type="Folder" label="Mixed materials">9-10</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Tours,</unittitle>
+                        <container id="cid111913" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>Tour sheets</unittitle>
+                        <container id="cid111912" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tuesday</title>,</unittitle>
+                        <container id="cid111911" type="Folder" label="Mixed materials">13-14</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>Understudy policy</unittitle>
+                        <container id="cid111910" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>University of Pittsburgh Department of Theatre Arts - Production calendar,</unittitle>
+                        <container id="cid111909" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>University/Resident Theatre Association</unittitle>
+                        <container id="cid111908" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>U.R.T.A./A.E.A. Rules</unittitle>
+                        <container id="cid111907" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Volpone</title>,</unittitle>
+                        <container id="cid111906" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wings</title>,</unittitle>
+                        <container id="cid111905" type="Folder" label="Mixed materials">20-23</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Waiting for Lefty</title>,</unittitle>
+                        <container id="cid111904" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Work/Study Information</unittitle>
+                        <container id="cid111903" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Working</title>,</unittitle>
+                        <container id="cid111902" type="Folder" label="Mixed materials">26-27</container>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref210" level="series">
+                <did>
+                    <unittitle>Playscripts</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref266">
+                    <head>Scope and Contents note</head>
+                    <p>The scripts that are included in this series appear to be plays that were produced, considered for production, or submitted for consideration. They are filed in alphabetical order by title. Included with each production title is the name of the author.</p>
+                </scopecontent>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Acting Up!</title></unittitle>
+                        <container id="cid111901" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid111901" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ah, Youth</title> by E. Fried</unittitle>
+                        <container id="cid111900" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">All Together Now</title> by E. Pawlikowsky</unittitle>
+                        <container id="cid111899" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Assistant Warden</title> by B. Pribram</unittitle>
+                        <container id="cid111898" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Beauty and the Beast</title> by M. Brill (adaptation)</unittitle>
+                        <container id="cid111897" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Benya the King</title> by R. Schotter</unittitle>
+                        <container id="cid111896" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Careless Husband</title></unittitle>
+                        <container id="cid111895" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Chinaman's Whisper</title> by C. Peters</unittitle>
+                        <container id="cid111894" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cocoon</title> by E. Fried</unittitle>
+                        <container id="cid111893" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Creeps</title> by D. Freeeman</unittitle>
+                        <container id="cid111892" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid111892" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Diviners, the</title> by J. Leonard</unittitle>
+                        <container id="cid111891" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Drop Hammer</title> by E. Fried</unittitle>
+                        <container id="cid111890" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dying to Make It</title></unittitle>
+                        <container id="cid111889" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Elegy for Stanley Gorski</title> by E. Fried</unittitle>
+                        <container id="cid111888" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Factwino Meets the Moral Majority</title> by SF MimeTroupe</unittitle>
+                        <container id="cid111887" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Foolin' Around with Infinity</title> by S. Dietz</unittitle>
+                        <container id="cid111886" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Flying Doctor, the</title> by S. Wyman</unittitle>
+                        <container id="cid111885" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Futures</title> by M. Green</unittitle>
+                        <container id="cid111884" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hopscotch</title></unittitle>
+                        <container id="cid111883" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">I Just Ate My Brain</title> by T. Cumella</unittitle>
+                        <container id="cid111882" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">In the Woods</title> by P. Freundlich</unittitle>
+                        <container id="cid111881" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid111881" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Juketime in Duckberg</title> by L. McCullough</unittitle>
+                        <container id="cid111880" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Legend of Sleepy Hollow, the</title> by F. Gaines</unittitle>
+                        <container id="cid111879" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Misanthrope</title> by Moliere</unittitle>
+                        <container id="cid111878" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Misanthrope</title> [Stage Manager's Prompt Book] by Moliere</unittitle>
+                        <container id="cid111877" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Missing Links</title> [Director's Promptbook] by A. Favorini</unittitle>
+                        <container id="cid111876" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">No Where to Go But Home</title> by C. Cortazzo</unittitle>
+                        <container id="cid111875" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Passing Time</title> by T. Cumella</unittitle>
+                        <container id="cid111874" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Postcards</title></unittitle>
+                        <container id="cid111873" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Principia Scriptoriae</title> by R. Nelson</unittitle>
+                        <container id="cid111872" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Railroad Rag: A Workingman's Entertainment</title> by J. Van Sickle</unittitle>
+                        <container id="cid111871" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">ReadyGetSet</title> by C. Solomon</unittitle>
+                        <container id="cid111870" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Red Keds</title> by H. Leroy</unittitle>
+                        <container id="cid111869" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Romeo and Juliet</title> (scenes) - anon adaptation</unittitle>
+                        <container id="cid111868" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Saloon Society</title> by B. Manville</unittitle>
+                        <container id="cid111867" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid111867" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Second Beginning</title> by E. Fried</unittitle>
+                        <container id="cid111866" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Some Things Can't Be Repaired</title></unittitle>
+                        <container id="cid111865" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Steel City</title> [Act III] by A. Favorini</unittitle>
+                        <container id="cid111864" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Strider</title> by M. Rozovsky</unittitle>
+                        <container id="cid111863" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Subway to Topeka</title> by R. Meredith</unittitle>
+                        <container id="cid111862" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Stuff as Dreams Are Made On: A Shakespeare Collage</title>, A Sandoe-DondioSuch (compiled by)</unittitle>
+                        <container id="cid111861" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Table Manners</title></unittitle>
+                        <container id="cid111860" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Table Manners</title> [Director's Prompt book]</unittitle>
+                        <container id="cid111859" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Take Her Up Tenderly</title></unittitle>
+                        <container id="cid111858" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tamer of Horses</title> [Director's Prompt book] by W. Mastrosimone</unittitle>
+                        <container id="cid111857" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Toad of Toad Hall</title>(adaptation) by K. Grahame</unittitle>
+                        <container id="cid111856" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tomorrow is a Lonely Lady</title></unittitle>
+                        <container id="cid111855" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Trial, the</title></unittitle>
+                        <container id="cid111854" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Used</title></unittitle>
+                        <container id="cid111853" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Unicorn in the Garden</title></unittitle>
+                        <container id="cid111852" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Volpone</title> by B. Johnson</unittitle>
+                        <container id="cid111851" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Waiting For Lefty</title></unittitle>
+                        <container id="cid111850" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wedding Reception in the Pineapple Room</title></unittitle>
+                        <container id="cid111849" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Who Would Write Something Like That?</title></unittitle>
+                        <container id="cid111848" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wizard of Oz</title></unittitle>
+                        <container id="cid111847" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref344" level="series">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1975-1987</unitdate>
+                </did>
+                <scopecontent id="ref425">
+                    <head>Scope and Contents note</head>
+                    <p>Boxes 19 and 20 contain photos of productions, actors, and various shots of the theater. Box 21 contains negatives of some of the same photographs.</p>
+                </scopecontent>
+                <c02 id="ref535" level="subseries">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref345" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Androcles and the Lion</title></unittitle>
+                            <unitid>1.</unitid>
+                            <container id="cid1591001" type="Box" label="Photographic images">17</container>
+                            <container parent="cid1591001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref346" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Beggar's Opera</title>,</unittitle>
+                            <container id="cid1595003" type="Folder" label="Photographic images">2</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref347" level="file">
+                        <did>
+                            <unittitle>Beshinich, 'Smokey' George</unittitle>
+                            <container id="cid1595002" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref348" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bus Stop</title>,</unittitle>
+                            <container id="cid1595001" type="Folder" label="Photographic images">4</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Children of a Lesser God</title>,</unittitle>
+                            <container id="cid1595005" type="Folder" label="Photographic images">5</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Children's Tour</title>,</unittitle>
+                            <container id="cid1595004" type="Folder" label="Photographic images">6</container>
+                            <unitdate>1986-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Chinaman's Whisper</title>,</unittitle>
+                            <container id="cid1595006" type="Folder" label="Photographic images">7</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="file">
+                        <did>
+                            <unittitle>Performance Classes</unittitle>
+                            <container id="cid1595008" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref353" level="file">
+                        <did>
+                            <unittitle>Clay People</unittitle>
+                            <container id="cid1595007" type="Folder" label="Photographic images">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Comeback</title>,</unittitle>
+                            <container id="cid1599006" type="Folder" label="Photographic images">10</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Crimes of the Heart</title>,</unittitle>
+                            <container id="cid1599005" type="Folder" label="Photographic images">11</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Curse of the Starving Class</title>,</unittitle>
+                            <container id="cid1599004" type="Folder" label="Photographic images">12</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Danube</title>,</unittitle>
+                            <container id="cid1599003" type="Folder" label="Photographic images">13</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Day of the Picnic</title>,</unittitle>
+                            <container id="cid1599002" type="Folder" label="Photographic images">14</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Death and Life of Sneaky Fitch</title></unittitle>
+                            <container id="cid1599001" type="Folder" label="Photographic images">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dracula</title>,</unittitle>
+                            <container id="cid1599007" type="Folder" label="Photographic images">16</container>
+                            <unitdate>1975-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref361" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Fool for Love</title>,</unittitle>
+                            <container id="cid1599011" type="Folder" label="Photographic images">17</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">La Forza D'Amore / The Circus</title>,</unittitle>
+                            <container id="cid1599010" type="Folder" label="Photographic images">18</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="file">
+                        <did>
+                            <unittitle>General - Unidentified,</unittitle>
+                            <container id="cid1599009" type="Folder" label="Photographic images">19</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="file">
+                        <did>
+                            <unittitle>General - Unidentified rehearsal photos,</unittitle>
+                            <container id="cid1599008" type="Folder" label="Photographic images">20</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref365" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Gladys</title></unittitle>
+                            <container id="cid1599016" type="Folder" label="Photographic images">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref366" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Greater Tuna</title></unittitle>
+                            <container id="cid1599015" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref367" level="file">
+                        <did>
+                            <unittitle>Hawthorne, Myrenna</unittitle>
+                            <container id="cid1599014" type="Folder" label="Photographic images">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref368" level="file">
+                        <did>
+                            <unittitle>Hazlett Theatre</unittitle>
+                            <container id="cid1599013" type="Folder" label="Photographic images">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref369" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hopscotch</title></unittitle>
+                            <container id="cid1599012" type="Folder" label="Photographic images">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref370" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">How I Got That Story</title>,</unittitle>
+                            <container id="cid1599017" type="Folder" label="Photographic images">26</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref371" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hypochondriac</title>,</unittitle>
+                            <container id="cid1599021" type="Folder" label="Photographic images">27</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref372" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Indians</title>,</unittitle>
+                            <container id="cid1599020" type="Folder" label="Photographic images">28</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref373" level="file">
+                        <did>
+                            <unittitle>Janet Gillespie and Present Co.</unittitle>
+                            <container id="cid1599019" type="Folder" label="Photographic images">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref374" level="file">
+                        <did>
+                            <unittitle>Jefferson, David Louis</unittitle>
+                            <container id="cid1599018" type="Folder" label="Photographic images">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref375" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Josephine: The Mouse Singer</title>,</unittitle>
+                            <container id="cid1599029" type="Folder" label="Photographic images">31</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref376" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ladyhouse Blues</title>,</unittitle>
+                            <container id="cid1599028" type="Folder" label="Photographic images">32</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref377" level="file">
+                        <did>
+                            <unittitle>Lavi, Gay Heit</unittitle>
+                            <container id="cid1599027" type="Folder" label="Photographic images">33</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref378" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Loose Ends</title>,</unittitle>
+                            <container id="cid1599026" type="Folder" label="Photographic images">34</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref379" level="file">
+                        <did>
+                            <unittitle>Miles, Barry/Kloss, Eric</unittitle>
+                            <container id="cid1599025" type="Folder" label="Photographic images">35</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref380" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mobile Hymn</title>,</unittitle>
+                            <container id="cid1599024" type="Folder" label="Photographic images">36</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref381" level="file">
+                        <did>
+                            <unittitle>Muffly, Ann</unittitle>
+                            <container id="cid1599023" type="Folder" label="Photographic images">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref382" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Noah and the Arc</title>,</unittitle>
+                            <container id="cid1599022" type="Folder" label="Photographic images">38</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref383" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ozanam Strings</title></unittitle>
+                            <container id="cid1599030" type="Box" label="Photographic images">18</container>
+                            <container parent="cid1599030" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref384" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Perfect Party</title>,</unittitle>
+                            <container id="cid1599033" type="Folder" label="Photographic images">2</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref385" level="file">
+                        <did>
+                            <unittitle>Pinsker, Allan</unittitle>
+                            <container id="cid1599032" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref386" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Principia Scriptoriae</title>,</unittitle>
+                            <container id="cid1599031" type="Folder" label="Photographic images">4</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref387" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Real Inspector Hound</title>,</unittitle>
+                            <container id="cid1599037" type="Folder" label="Photographic images">5</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref388" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">La Ronde</title>,</unittitle>
+                            <container id="cid1599036" type="Folder" label="Photographic images">6</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref389" level="file">
+                        <did>
+                            <unittitle>Sesame Street Fire Safety Show</unittitle>
+                            <container id="cid1599035" type="Folder" label="Photographic images">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="file">
+                        <did>
+                            <unittitle>Staff - Miscelanneous including ballgame</unittitle>
+                            <container id="cid1599034" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref391" level="file">
+                        <did>
+                            <unittitle>Stein, Mary Margaret</unittitle>
+                            <container id="cid1599046" type="Folder" label="Photographic images">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref392" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Table Manners</title>,</unittitle>
+                            <container id="cid1599045" type="Folder" label="Photographic images">10</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref393" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Toad of Toad Hall</title>,</unittitle>
+                            <container id="cid1599044" type="Folder" label="Photographic images">11</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref394" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Trial</title>,</unittitle>
+                            <container id="cid1599043" type="Folder" label="Photographic images">12</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref395" level="file">
+                        <did>
+                            <unittitle>Unidentified - Resume shots</unittitle>
+                            <container id="cid1599042" type="Folder" label="Photographic images">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref396" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Volpone</title></unittitle>
+                            <container id="cid1599041" type="Folder" label="Photographic images">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref397" level="file">
+                        <did>
+                            <unittitle>Wen, Ming-Na</unittitle>
+                            <container id="cid1599040" type="Folder" label="Photographic images">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref398" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Wings</title>,</unittitle>
+                            <container id="cid1599039" type="Folder" label="Photographic images">16</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref399" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Working</title>,</unittitle>
+                            <container id="cid1599038" type="Folder" label="Photographic images">17</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref534" level="subseries">
+                    <did>
+                        <unittitle>Negatives</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref400" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Children of a Lesser God</title></unittitle>
+                            <container id="cid1599049" type="Box" label="Photographic images">19</container>
+                            <container parent="cid1599049" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref401" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Children's Tour</title>,</unittitle>
+                            <container id="cid1599048" type="Folder" label="Photographic images">2</container>
+                            <unitdate>1986-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref402" level="file">
+                        <did>
+                            <unittitle>Classes - Miscellaneous</unittitle>
+                            <container id="cid1599047" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref403" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Comeback</title>,</unittitle>
+                            <container id="cid1599067" type="Folder" label="Photographic images">4</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref404" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Curse of the Starving Class</title>,</unittitle>
+                            <container id="cid1599066" type="Folder" label="Photographic images">5</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref405" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Day of the Picnic</title>,</unittitle>
+                            <container id="cid1599065" type="Folder" label="Photographic images">6</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref406" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Death and Life Sneaky Fitch</title>,</unittitle>
+                            <container id="cid1599064" type="Folder" label="Photographic images">7</container>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref407" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dracula</title>,</unittitle>
+                            <container id="cid1599063" type="Folder" label="Photographic images">8</container>
+                            <unitdate>1976-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref408" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">La Forza / The Circus</title>,</unittitle>
+                            <container id="cid1599062" type="Folder" label="Photographic images">9</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref409" level="file">
+                        <did>
+                            <unittitle>General - Rehearsal,</unittitle>
+                            <container id="cid1599061" type="Folder" label="Photographic images">10</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref410" level="file">
+                        <did>
+                            <unittitle>General,</unittitle>
+                            <container id="cid1599060" type="Folder" label="Photographic images">11</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref411" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hypochondriac</title>,</unittitle>
+                            <container id="cid1599059" type="Folder" label="Photographic images">12</container>
+                            <unitdate>1984-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref412" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Indians</title>,</unittitle>
+                            <container id="cid1599058" type="Folder" label="Photographic images">13</container>
+                            <unitdate>1981-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref413" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">LadyHouse Blues</title>,</unittitle>
+                            <container id="cid1599057" type="Folder" label="Photographic images">14</container>
+                            <unitdate>1982-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref414" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Loose Ends</title>,</unittitle>
+                            <container id="cid1599056" type="Folder" label="Photographic images">15</container>
+                            <unitdate>1981-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref415" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mobile Hymn</title>,</unittitle>
+                            <container id="cid1599055" type="Folder" label="Photographic images">16</container>
+                            <unitdate>1982-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref416" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Noah and the Ark</title></unittitle>
+                            <container id="cid1599054" type="Folder" label="Photographic images">17</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref417" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Real Inspector Hound</title></unittitle>
+                            <container id="cid1599053" type="Folder" label="Photographic images">18</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref418" level="file">
+                        <did>
+                            <unittitle>Staff - Including ballgame</unittitle>
+                            <container id="cid1599052" type="Folder" label="Photographic images">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref419" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Toad of Toad Hall</title>,</unittitle>
+                            <container id="cid1599051" type="Folder" label="Photographic images">20</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref420" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Trial</title>,</unittitle>
+                            <container id="cid1599050" type="Folder" label="Photographic images">21</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref421" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1599071" type="Folder" label="Photographic images">22-23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref422" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Volpone</title></unittitle>
+                            <container id="cid1599070" type="Folder" label="Photographic images">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref423" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Wings</title>,</unittitle>
+                            <container id="cid1599069" type="Folder" label="Photographic images">25</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref424" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Working</title>,</unittitle>
+                            <container id="cid1599068" type="Folder" label="Photographic images">26</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref520" level="series">
+                <did>
+                    <unittitle>Additional Operational Files,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1979-1993</unitdate>
+                </did>
+                <scopecontent id="ref526">
+                    <head>Scope and Content Notes</head>
+                    <p>This addition, donated in February of 1999, contains another series of operational files. The first series of operational files in this collection ran through 1991, this set contains operational files from 1991-1993, with a small amount of material from before 1991. This series is filed alphabetically by folder title and contain the daily business files, correspondence, production memos, internal reports, minutes, etc.</p>
+                </scopecontent>
+                <c02 id="ref481" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">70 Scenes of Halloween</title>,</unittitle>
+                        <container id="cid111639" type="Box" label="Mixed materials">20</container>
+                        <container parent="cid111639" type="Folder">1-4</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref482" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Act Without Words</title> - House reports</unittitle>
+                        <container id="cid111638" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref483" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">American Buffalo</title> - Reviews/Articles,</unittitle>
+                        <container id="cid111637" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1989-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref484" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Audio Tapes</title> - Reviews</unittitle>
+                        <container id="cid111636" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref485" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Baltimore Waltz</title> - Press releases (see also NAMES Project),</unittitle>
+                        <container id="cid111635" type="Folder" label="Mixed materials">8-9</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref486" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bricklayers</title>,</unittitle>
+                        <container id="cid111634" type="Folder" label="Mixed materials">10-14</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref487" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cabaret Verboten</title>,</unittitle>
+                        <container id="cid111633" type="Folder" label="Mixed materials">15-17</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref428" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Comeback</title> - Poster</unittitle>
+                        <container id="cid111690" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref488" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Daytrips</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111632" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref489" level="file">
+                    <did>
+                        <unittitle>Development - Fiscal year,</unittitle>
+                        <container id="cid111631" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref490" level="file">
+                    <did>
+                        <unittitle>Development Gala - Season</unittitle>
+                        <container id="cid111630" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref429" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dracula</title> - Poster</unittitle>
+                        <container id="cid111689" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref491" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Evelyn The Polka King</title>,</unittitle>
+                        <container id="cid111629" type="Folder" label="Mixed materials">23-25</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref492" level="file">
+                    <did>
+                        <unittitle>Financial reports - Season</unittitle>
+                        <container id="cid111628" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref493" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Frankie Johnny in the Claire de Lune</title>, Reviews/Articles,</unittitle>
+                        <container id="cid111627" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref494" level="file">
+                    <did>
+                        <unittitle>Hartwood - Reviews/Articles,</unittitle>
+                        <container id="cid111626" type="Folder" label="Mixed materials">28-29</container>
+                        <unitdate>1989-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref495" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Holiday Memories</title>,</unittitle>
+                        <container id="cid111625" type="Folder" label="Mixed materials">30-32</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref430" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Illusions of Fantasy Mime Troupe</title> - Poster</unittitle>
+                        <container id="cid111688" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref496" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Le Bourgeois Avant Garde</title>,</unittitle>
+                        <container id="cid111624" type="Box" label="Mixed materials">21</container>
+                        <container parent="cid111624" type="Folder">1</container>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref497" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Man Who Lived Underground</title></unittitle>
+                        <container id="cid111623" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref498" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Maybe I'm Doing it Wrong</title>,</unittitle>
+                        <container id="cid111622" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref499" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Miss Ever's Boys</title>,</unittitle>
+                        <container id="cid111621" type="Folder" label="Mixed materials">4-7</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref500" level="file">
+                    <did>
+                        <unittitle>NAMES Project Display - Articles (see also Baltimore Waltz)</unittitle>
+                        <container id="cid111620" type="Folder" label="Mixed materials">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref525" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid1046001" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1979-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref501" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Our Country's Good</title>,</unittitle>
+                        <container id="cid111619" type="Folder" label="Mixed materials">11-13</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref502" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Painting It Red</title>,</unittitle>
+                        <container id="cid111618" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref503" level="file">
+                    <did>
+                        <unittitle>Playworks articles,</unittitle>
+                        <container id="cid111617" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref524" level="file">
+                    <did>
+                        <unittitle>Press releases,</unittitle>
+                        <container id="cid1046002" type="Folder" label="Mixed materials">16-17</container>
+                        <unitdate>1979-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref504" level="file">
+                    <did>
+                        <unittitle>Production history - 1980 through 1993</unittitle>
+                        <container id="cid111616" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref433" level="file">
+                    <did>
+                        <unittitle>Publicity book,</unittitle>
+                        <container id="cid111685" type="Folder" label="Mixed materials">19-22</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref434" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Real Inspector Hound</title> - Poster,</unittitle>
+                        <container id="cid111684" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref505" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Road to Mecca</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111615" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref435" level="file">
+                    <did>
+                        <unittitle>Season 1979 - Poster</unittitle>
+                        <container id="cid111683" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref506" level="file">
+                    <did>
+                        <unittitle>Season 14-18,</unittitle>
+                        <container id="cid111614" type="Folder" label="Mixed materials">26-30</container>
+                        <unitdate>1987-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref507" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Steel Kiss</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111613" type="Box" label="Mixed materials">22</container>
+                        <container parent="cid111613" type="Folder">1</container>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref508" level="file">
+                    <did>
+                        <unittitle>Subscription ads</unittitle>
+                        <container id="cid111612" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref509" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Talk of the City</title> newsletter,</unittitle>
+                        <container id="cid111611" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1989-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref510" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Talk Radio</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111610" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref511" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tamer of Horses</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111609" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref512" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Temptation</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111608" type="Folder" label="Mixed materials">6-8</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref513" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Theatre Sports</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111607" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref514" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tuesday</title>/
+                            <title>Act Without Words</title>,</unittitle>
+                        <container id="cid111606" type="Folder" label="Mixed materials">10-12</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref515" level="file">
+                    <did>
+                        <unittitle>Unidentified Photos</unittitle>
+                        <container id="cid111605" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref516" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Voice of the Prairie</title> - Articles/Reviews,</unittitle>
+                        <container id="cid111604" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref437" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Waiting for Lefty</title> - Poster</unittitle>
+                        <container id="cid111681" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref438" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wings</title> - Poster</unittitle>
+                        <container id="cid111680" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref426" level="series">
+                <did>
+                    <unittitle>Oversized Materials,</unittitle>
+                    <unitid>V.</unitid>
+                    <unitdate>1979-1988</unitdate>
+                </did>
+                <scopecontent id="ref479">
+                    <head>Scope and Contents note</head>
+                    <p>This series is for all oversized materials in the collection. It contains posters, production scores, and floor plans. The materials are arranged alphabetical order.</p>
+                </scopecontent>
+                <c02 id="ref440" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">American Buffalo</title> - Poster</unittitle>
+                        <container id="cid111678" type="Box" label="Mixed materials">23</container>
+                        <container parent="cid111678" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref441" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Blues in the Night</title> and 
+                            <title render="italic">True West</title> at Hartwood Acres - Poster</unittitle>
+                        <container id="cid111677" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref442" level="file">
+                    <did>
+                        <unittitle>Bouquet Street Theatre - Floor Plan</unittitle>
+                        <container id="cid111676" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref443" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bricklayers</title> - Poster</unittitle>
+                        <container id="cid111675" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref444" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cabaret Verboten</title> - Poster</unittitle>
+                        <container id="cid111674" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref427" level="file">
+                    <did>
+                        <unittitle>Carnegie Institute Lecture Hall Floor Plan</unittitle>
+                        <container id="cid111691" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref445" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cole</title>/
+                            <title render="italic">T Bone n Weasel</title> at Hartwood Acres - Poster</unittitle>
+                        <container id="cid111673" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref446" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Colored Museum</title> - Poster</unittitle>
+                        <container id="cid111672" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref447" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Crimes of the Heart</title> - Poster</unittitle>
+                        <container id="cid111671" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref448" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Curse of the Starving Class</title> - Poster</unittitle>
+                        <container id="cid111670" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref449" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Danube</title>/
+                            <title render="italic">Ohio Impromptu and Catastrophe</title> - Poster</unittitle>
+                        <container id="cid111669" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref450" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Day of the Picnic</title> - Poster</unittitle>
+                        <container id="cid111668" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref451" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Daytrips</title> - Poster</unittitle>
+                        <container id="cid111667" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref452" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Fool for Love</title> - Poster</unittitle>
+                        <container id="cid111666" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref453" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Frankie and Johnny in the Claire de Lune</title> - Poster</unittitle>
+                        <container id="cid111665" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref454" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Glengarry Glen Ross</title> - Poster</unittitle>
+                        <container id="cid111664" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref455" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hypochondriac</title> - Poster</unittitle>
+                        <container id="cid111663" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref456" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Incommunicado - Poster</title></unittitle>
+                        <container id="cid111662" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref457" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Indians</title> - Set Design Floor Plan,</unittitle>
+                        <container id="cid111661" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref458" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Josephine the Mouse Singer</title> - Poster</unittitle>
+                        <container id="cid111660" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref431" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Loose Ends</title> - Poster</unittitle>
+                        <container id="cid111687" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref459" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Maybe I'm Doing it Wrong</title> - Poster</unittitle>
+                        <container id="cid111659" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref460" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Miss Evers' Boys</title></unittitle>
+                        <container id="cid111658" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref461" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">My Queer Body</title> [Tim Miller] - Poster</unittitle>
+                        <container id="cid111657" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref462" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Our Country's Good</title> - Poster</unittitle>
+                        <container id="cid111656" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref463" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Painting It Red</title> - Poster</unittitle>
+                        <container id="cid111655" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref464" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Perfect Party</title> - Poster</unittitle>
+                        <container id="cid111654" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref465" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Principia Scriptoriae</title> - Set Design Floor Plan,</unittitle>
+                        <container id="cid111653" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref466" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Road to Mecca</title> - Poster</unittitle>
+                        <container id="cid111652" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref467" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">70 Scenes from Halloween</title> - Poster</unittitle>
+                        <container id="cid111651" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref436" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sexual Perversity in Chicago</title> - Poster</unittitle>
+                        <container id="cid111682" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref468" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Steel City</title> - Poster</unittitle>
+                        <container id="cid111650" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref469" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Steel Kiss</title> - Poster</unittitle>
+                        <container id="cid111649" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref470" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Talk Radio</title> - Poster</unittitle>
+                        <container id="cid111648" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref471" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Talking with...</title> - Poster</unittitle>
+                        <container id="cid111647" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref472" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tamer of Horses</title> - Set Design Floor Plan,</unittitle>
+                        <container id="cid111646" type="Folder" label="Mixed materials">36</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref473" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Theatre Sports</title> at Hartwood Acres - Poster</unittitle>
+                        <container id="cid111645" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref474" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tuesday</title>/
+                            <title>Act without Words</title> - Poster</unittitle>
+                        <container id="cid111644" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref475" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Voice of the Prairie</title> - Poster</unittitle>
+                        <container id="cid111643" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref476" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Working</title> - Poster and Score</unittitle>
+                        <container id="cid111642" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref477" level="file">
+                    <did>
+                        <unittitle>Maekaill, Dorothy (sp?) - Signed photograph Curtis, Misc.(flat shelving)</unittitle>
+                        <container id="cid111641" type="Oversize" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref478" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Accounting for Love</title> - Poster Curtis, Misc.(flat shelving)</unittitle>
+                        <container id="cid111640" type="Oversize" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

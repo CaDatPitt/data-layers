@@ -1,0 +1,2234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197001</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the George M.P. Baird Papers, ca. 1915-ca. 1960
+                    <num>CTC.1970.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Colleen Reilly.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>February 2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George M.P. Baird Papers</unittitle>
+            <unitid>CTC.1970.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>10.5 linear feet</extent>
+                <extent>(21 boxes, 387 folders, 282 slides)</extent>
+            </physdesc>
+            <unitdate>ca. 1915-ca. 1960</unitdate>
+            <abstract id="ref2" label="Abstract">This collection contains the papers, news clippings, and slides relating to lectures on the performing arts presented by George M. Baird. Baird was an English professor at the University of Pittsburgh from 1908-1961.</abstract>
+            <origination label="creator">
+                <persname source="naf">Baird, George M. P. (George Mahaffey Patterson)</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>George M.P. Baird, 1887-1970, B.A. University of Pittsburgh, 1909, made varied and lasting contributions to the University. He wrote the lyrics of the Alma Mater, suggested the Panthers as the name of the football team, and was actively associated with the Scottish Room Committee. He left his teaching position at Pitt for the Army in 1917. Upon his return, he began a new career in government service in the city of Pittsburgh and was senior research analyst for the Department of City Planning when he retired in 1961. Throughout his life he maintained a strong interest in the theatre. He wrote and produced several one-act plays, directed, served as a theatre consultant, and lectured on the theatre.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>The clippings file is presently maintained largely as Mr. Baird had originally maintained it, although a new classification, "Names", has been added and some subject headings have been combined. Mr. Baird's headings and spelling have been retained on new folders, but in some cases revised in the inventory list following, for reasons of consistency, clarity and conformity. Included with the clippings are Mr. Baird's notes, papers and lectures.</p>
+        </scopecontent>
+        <arrangement id="ref5">
+            <head>Arrangement</head>
+            <p>Series I. Clippings and Papers</p>
+            <p>Series II. Lantern Slides</p>
+        </arrangement>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of the Estate of George M. P. Baird in 1970.</p>
+        </acqinfo>
+        <phystech id="ref8">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Boxes 18-21 contain lantern slides.</p>
+        </phystech>
+        <odd id="ref364">
+            <head>Previous Citation</head>
+            <p>George M.P. Baird Papers, ca. 1915-1960, CTC.1970.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Papers of George M. P. Baird, ca. 1915-1960, CTC.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref9">
+            <head>Preferred Citation</head>
+            <p>George M.P. Baird Papers, ca. 1915-1960, CTC.1970.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref10">
+            <head>Processing Information</head>
+            <p>This collection was processed by Curtis Theatre Collection Staff in 1970. Collection inventory re-engineered by Colleen Reilly in February 2007.</p>
+        </processinfo>
+        <userestrict id="ref11">
+            <head>Copyright</head>
+            <p>Property rights reside with the University of Pittsburgh. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <controlaccess>
+            <persname source="naf">Baird, George M. P. (George Mahaffey Patterson)</persname>
+            <corpname source="naf">University of Pittsburgh.</corpname>
+            <subject source="lcsh">Dance -- History</subject>
+            <subject source="lcsh">Drama -- Origin -- Pictorial works</subject>
+            <subject source="lcsh">Drama, Medieval -- Pictorial works</subject>
+            <subject source="lcsh">European drama -- Renaissance, 1450-1600</subject>
+            <subject source="lcsh">Greek drama -- Pictorial works</subject>
+            <subject source="lcsh">Performing arts</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.)</geogname>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States -- History</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Clippings and Papers</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref327">
+                    <head>Scope and Contents note</head>
+                    <p>The clippings file is presently maintained largely as Mr. Baird had it, although a new classification, Names, has been added and some subject headings have been combined. Mr. Baird's headings and spelling have been retained on new folders, but in some cases revised in the inventory list following, for reasons of consistency, clarity and conformity. Included with the clippings are Mr. Baird's notes, papers and lectures. There are nine subseries represented in their original order: Names, Shakespeare, Dance, Drama Topics, Drama Regions, Music, Stage, Theatre, and George M. Baird Productions and Publications.</p>
+                </scopecontent>
+                <c02 id="ref13" level="subseries">
+                    <did>
+                        <unittitle>Names</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>Abbey Theatre</unittitle>
+                            <container id="cid111419" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid111419" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>Actors Studio. Stanislavsky. The Method</unittitle>
+                            <container id="cid111418" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>American National Theatre and Academy (ANTA)</unittitle>
+                            <container id="cid111417" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Anderson, Maxwell</unittitle>
+                            <container id="cid111416" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Andreyev, Leonid</unittitle>
+                            <container id="cid111415" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Ballet Russe. Diaghilev</unittitle>
+                            <container id="cid111414" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>Barrie, Sir James</unittitle>
+                            <container id="cid111413" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Beggar's Opera</unittitle>
+                            <container id="cid111412" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Belasco, David</unittitle>
+                            <container id="cid111411" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Bjorson, Bjorstjerne</unittitle>
+                            <container id="cid111410" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Brieuz, Eugene</unittitle>
+                            <container id="cid111409" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>Cauve-Souris</unittitle>
+                            <container id="cid111408" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Chekhov, Anton</unittitle>
+                            <container id="cid111407" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>City Center Theatre</unittitle>
+                            <container id="cid111406" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Civic Repertory Theatre</unittitle>
+                            <container id="cid111405" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Claudel, Paul</unittitle>
+                            <container id="cid111404" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Comedie Francais</unittitle>
+                            <container id="cid111403" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Craig, Gordon</unittitle>
+                            <container id="cid111402" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>D'Annunzio, Gabriele</unittitle>
+                            <container id="cid111401" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Dunsany, Lord</unittitle>
+                            <container id="cid111400" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Eliot, T.S</unittitle>
+                            <container id="cid111399" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Federal Theatre Project. W.P.A.</unittitle>
+                            <container id="cid111398" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>Foster, Stephen G.</unittitle>
+                            <container id="cid111397" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Galsworthy, John</unittitle>
+                            <container id="cid111396" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid111396" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Gilbert and Sullivan</unittitle>
+                            <container id="cid111395" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Grand Guignol</unittitle>
+                            <container id="cid111394" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Group Theatre</unittitle>
+                            <container id="cid111393" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Green Pastures</unittitle>
+                            <container id="cid111392" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Sacha Guiltry</unittitle>
+                            <container id="cid111391" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Hauptmann, Gerhart</unittitle>
+                            <container id="cid111390" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>Ibsen and Ibsenism</unittitle>
+                            <container id="cid111389" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Jones, Robert Edmond</unittitle>
+                            <container id="cid111388" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Jonson, Ben</unittitle>
+                            <container id="cid111387" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Library Theatre</unittitle>
+                            <container id="cid111386" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Maeterlinck, Maurice</unittitle>
+                            <container id="cid111385" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Malvery Festival</unittitle>
+                            <container id="cid111384" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Marlowe, Christopher</unittitle>
+                            <container id="cid111383" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Masefield, John</unittitle>
+                            <container id="cid111382" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Mercury Theatre</unittitle>
+                            <container id="cid111381" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Miller, Arthur</unittitle>
+                            <container id="cid111380" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Moliere</unittitle>
+                            <container id="cid111379" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Molnar, Ferenc</unittitle>
+                            <container id="cid111378" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Moscow Art Theatre</unittitle>
+                            <container id="cid111377" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Moscow Art Theatre: Musical Studio</unittitle>
+                            <container id="cid111376" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>O'Casey, Sean</unittitle>
+                            <container id="cid111375" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>O'Neill, Eugene</unittitle>
+                            <container id="cid111374" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Phoenix Theatre (Off-Broadway)</unittitle>
+                            <container id="cid111373" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>One-Act Repertory Company (New York)</unittitle>
+                            <container id="cid111372" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Pirandello, Luigi</unittitle>
+                            <container id="cid111371" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid111371" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Playwrights-- Company</unittitle>
+                            <container id="cid111370" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Portmanteau Theatre. Stuart Walker</unittitle>
+                            <container id="cid111369" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Reinhardt, Max</unittitle>
+                            <container id="cid111368" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Rostand, Edmond</unittitle>
+                            <container id="cid111367" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Sartre, Jean-Paul</unittitle>
+                            <container id="cid111366" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Schnitzler, Arthur</unittitle>
+                            <container id="cid111365" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Shaw, George Bernard</unittitle>
+                            <container id="cid111364" type="Folder" label="Mixed materials">08-10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Shaw, George Bernard: Portraits and scenes</unittitle>
+                            <container id="cid111363" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Sherwood, Robert E.</unittitle>
+                            <container id="cid111362" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Strindberg, August</unittitle>
+                            <container id="cid111361" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Synge, John M.</unittitle>
+                            <container id="cid111360" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>
+                                <title ns2:type="simple" render="italic">Theatre Arts Magazine</title></unittitle>
+                            <container id="cid111359" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Theatre Guild</unittitle>
+                            <container id="cid111358" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Tobacco Road</unittitle>
+                            <container id="cid111357" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Uncle Tom's Cabin</unittitle>
+                            <container id="cid111356" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Urban, Joseph</unittitle>
+                            <container id="cid111355" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Verhaeren, Emile</unittitle>
+                            <container id="cid111354" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Vieux-Colombier and Jacques Copeau</unittitle>
+                            <container id="cid111353" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Wilder, Thornton</unittitle>
+                            <container id="cid111352" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid111352" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Williams, Tennessee</unittitle>
+                            <container id="cid111351" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Yeats, William Butler</unittitle>
+                            <container id="cid111350" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref354" level="subseries">
+                    <did>
+                        <unittitle>Shakespeare</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Actors</unittitle>
+                            <container id="cid111349" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Age and England</unittitle>
+                            <container id="cid111348" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Artist, thinker, craftsman</unittitle>
+                            <container id="cid111347" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Baird lectures</unittitle>
+                            <container id="cid111346" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Bibliography</unittitle>
+                            <container id="cid111345" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Biography</unittitle>
+                            <container id="cid111344" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Characters</unittitle>
+                            <container id="cid111343" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Comedies</unittitle>
+                            <container id="cid111342" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Contemporaries</unittitle>
+                            <container id="cid111341" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>Controversies: Problems and controversies</unittitle>
+                            <container id="cid111340" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Controversies: Lunatics, pretenders, and anti-Avonians</unittitle>
+                            <container id="cid111339" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>Critics, commentators, editors, adapters</unittitle>
+                            <container id="cid111338" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>Festivals, academic, non-commercials productions, etc.</unittitle>
+                            <container id="cid111337" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Festivals: Stratford, Conn.</unittitle>
+                            <container id="cid111336" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Festivals: Stratford, Ont.</unittitle>
+                            <container id="cid111335" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Histories</unittitle>
+                            <container id="cid111334" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Libraries and collections</unittitle>
+                            <container id="cid111333" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Philosophy</unittitle>
+                            <container id="cid111332" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Portraits</unittitle>
+                            <container id="cid111331" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Productions: Cinema, TV</unittitle>
+                            <container id="cid111330" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid111330" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>Productions: Opera, musical comedy, ballet</unittitle>
+                            <container id="cid111329" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>Productions: American: Modern</unittitle>
+                            <container id="cid111328" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Productions: Foreign: Modern</unittitle>
+                            <container id="cid111327" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Shakespeare Memorial Theatre (Stratford on Avon)</unittitle>
+                            <container id="cid111326" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>
+                                <title ns2:type="simple" render="italic">Shakespeare Newsletter</title></unittitle>
+                            <container id="cid111325" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Theatre: Shakespeare's physical stage and theatre</unittitle>
+                            <container id="cid111324" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Theatres: British: Modern</unittitle>
+                            <container id="cid111323" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Tragedies</unittitle>
+                            <container id="cid111322" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Tragedies: Hamlet</unittitle>
+                            <container id="cid111321" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Unclassified</unittitle>
+                            <container id="cid111320" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref355" level="subseries">
+                    <did>
+                        <unittitle>Dance</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Aesthetic</unittitle>
+                            <container id="cid111319" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>Ballet: Traditional</unittitle>
+                            <container id="cid111318" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Ballet: American</unittitle>
+                            <container id="cid111317" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>Ballet: British and European (other than Russian)</unittitle>
+                            <container id="cid111316" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>Ballet: Ruddian (other than Ballet Russe)</unittitle>
+                            <container id="cid111315" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>Folk dance</unittitle>
+                            <container id="cid111314" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Folk dance: African</unittitle>
+                            <container id="cid111313" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid111313" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>Folk dance: American and Amerind</unittitle>
+                            <container id="cid111312" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Folk dance: British and European</unittitle>
+                            <container id="cid111311" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Folk dance: Latin American</unittitle>
+                            <container id="cid111310" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Folk dance: Oriental and South Seas</unittitle>
+                            <container id="cid111309" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>History and theory</unittitle>
+                            <container id="cid111308" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Oriental dance drama</unittitle>
+                            <container id="cid111307" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>Miscellaneous and unclassified</unittitle>
+                            <container id="cid111306" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                        <scopecontent id="ref128">
+                            <head>Scope and Contents note</head>
+                            <p>The lecture materials in box 6 folder 18 correspond to the collection of slides that are in Series II.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref356" level="subseries">
+                    <did>
+                        <unittitle>Drama Topics</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Aesthetics of the drama</unittitle>
+                            <container id="cid111305" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Bibliography</unittitle>
+                            <container id="cid111304" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>Comedy and the comic spirit</unittitle>
+                            <container id="cid111303" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>Closet drama</unittitle>
+                            <container id="cid111302" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Critics and criticism</unittitle>
+                            <container id="cid111301" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="file">
+                        <did>
+                            <unittitle>Expressionism as dramatic philosophy</unittitle>
+                            <container id="cid111300" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>Farce</unittitle>
+                            <container id="cid111299" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>History: Baird lectures</unittitle>
+                            <container id="cid111298" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>History: Baird lectures: Working materials</unittitle>
+                            <container id="cid111297" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>History: Baird lectures: Evolution of drama</unittitle>
+                            <container id="cid111296" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>History: Baird lectures: Evolution of drama: notes</unittitle>
+                            <container id="cid111295" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Literary aspects</unittitle>
+                            <container id="cid111294" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid111294" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>Masque</unittitle>
+                            <container id="cid111293" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>Medicine and psychopathology in relation to the drama</unittitle>
+                            <container id="cid111292" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>Melodrama</unittitle>
+                            <container id="cid111291" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Miracle, morality, and liturgical drama: Medieval</unittitle>
+                            <container id="cid111290" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Miracle, morality plays: Modern. Oberammergau</unittitle>
+                            <container id="cid111289" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Monodrama</unittitle>
+                            <container id="cid111288" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Philosophy</unittitle>
+                            <container id="cid111287" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="file">
+                        <did>
+                            <unittitle>Plagiarism</unittitle>
+                            <container id="cid111286" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>Play writing</unittitle>
+                            <container id="cid111285" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>Plays: Modern: Abstracts</unittitle>
+                            <container id="cid111284" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>Plays: One-act</unittitle>
+                            <container id="cid111283" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>Primitive drama and ritual and dance</unittitle>
+                            <container id="cid111282" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>Proletarian drama</unittitle>
+                            <container id="cid111281" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="file">
+                        <did>
+                            <unittitle>Propaganda in the theatre</unittitle>
+                            <container id="cid111280" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="file">
+                        <did>
+                            <unittitle>Propaganda: Peace plays</unittitle>
+                            <container id="cid111279" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Psychology of drama</unittitle>
+                            <container id="cid111278" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>Realism</unittitle>
+                            <container id="cid111277" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid111277" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="file">
+                        <did>
+                            <unittitle>Religious aspects</unittitle>
+                            <container id="cid111276" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>Romanticism in drama</unittitle>
+                            <container id="cid111275" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="file">
+                        <did>
+                            <unittitle>Social function of drama</unittitle>
+                            <container id="cid111274" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>Tragedy and the tragic spirit</unittitle>
+                            <container id="cid111273" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>Unclassified</unittitle>
+                            <container id="cid111272" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref357" level="subseries">
+                    <did>
+                        <unittitle>Drama Regions</unittitle>
+                        <unitid>5.</unitid>
+                    </did>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>American</unittitle>
+                            <container id="cid111271" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>American,</unittitle>
+                            <container id="cid111270" type="Folder" label="Mixed materials">8-14</container>
+                            <unitdate>1900-1950</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>American,</unittitle>
+                            <container id="cid111269" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid111269" type="Folder">1-2</container>
+                            <unitdate>1951-1957</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>American: Afro-American</unittitle>
+                            <container id="cid111268" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>American: Regional</unittitle>
+                            <container id="cid111267" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>American: Verse</unittitle>
+                            <container id="cid111266" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>Australian</unittitle>
+                            <container id="cid111265" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>Austrian: to 1938</unittitle>
+                            <container id="cid111264" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>Austrian: Post WWII</unittitle>
+                            <container id="cid111263" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>Balkan</unittitle>
+                            <container id="cid111262" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>British: Tudor</unittitle>
+                            <container id="cid111261" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>British: Restoration period and revivals</unittitle>
+                            <container id="cid111260" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>British: 18th century and revivals</unittitle>
+                            <container id="cid111259" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>British:19th century</unittitle>
+                            <container id="cid111258" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>British,</unittitle>
+                            <container id="cid111257" type="Folder" label="Mixed materials">14-20</container>
+                            <unitdate>1850-1956</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>British: Verse: 19th and 20th centuries</unittitle>
+                            <container id="cid111256" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid111256" type="Folder">1-2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>Chinese</unittitle>
+                            <container id="cid111255" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Czechoslovakian: Pre-Communist</unittitle>
+                            <container id="cid111254" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Canadian (includes theatre)</unittitle>
+                            <container id="cid111253" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Dutch</unittitle>
+                            <container id="cid111252" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>European</unittitle>
+                            <container id="cid111251" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>European drama in the U.S.</unittitle>
+                            <container id="cid111250" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>French: 17th century</unittitle>
+                            <container id="cid111249" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>French: 18th century</unittitle>
+                            <container id="cid111248" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>French: 19th century</unittitle>
+                            <container id="cid111247" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>French,</unittitle>
+                            <container id="cid111246" type="Folder" label="Mixed materials">12-14</container>
+                            <unitdate>1900-1957</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>German: 18th, 19th century</unittitle>
+                            <container id="cid111245" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>German,</unittitle>
+                            <container id="cid111244" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1900-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>German: Nazi</unittitle>
+                            <container id="cid111243" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>German,</unittitle>
+                            <container id="cid111242" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1946-1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>German dramatists in exile: 1933- (includes Austrian)</unittitle>
+                            <container id="cid111241" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>Greek: Classic</unittitle>
+                            <container id="cid111240" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>Greek: Modern: Productions and revivals</unittitle>
+                            <container id="cid111239" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>Hungarian</unittitle>
+                            <container id="cid111238" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid111238" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>Icelandic</unittitle>
+                            <container id="cid111237" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Indian (Vedic, Hindu)</unittitle>
+                            <container id="cid111236" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Irish</unittitle>
+                            <container id="cid111235" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>Israeli</unittitle>
+                            <container id="cid111234" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Italian: Commedia dell'Arte</unittitle>
+                            <container id="cid111233" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="file">
+                        <did>
+                            <unittitle>Italian: 17th-20th centuries</unittitle>
+                            <container id="cid111232" type="Folder" label="Mixed materials">7-8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>Japanese (includes lecture notes)</unittitle>
+                            <container id="cid111231" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="file">
+                        <did>
+                            <unittitle>Japanese, and dance drama of Bali</unittitle>
+                            <container id="cid111230" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>Latin</unittitle>
+                            <container id="cid111229" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Norwegian</unittitle>
+                            <container id="cid111228" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>Polish</unittitle>
+                            <container id="cid111227" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>Russian: Pre-revolution</unittitle>
+                            <container id="cid111226" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>Russian: Post-revolution</unittitle>
+                            <container id="cid111225" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>Scottish</unittitle>
+                            <container id="cid111224" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>Siamese</unittitle>
+                            <container id="cid111223" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>Spanish: Pre-19th, 19th, and 20th, centuries</unittitle>
+                            <container id="cid111222" type="Folder" label="Mixed materials">18-19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>Spanish American</unittitle>
+                            <container id="cid111221" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="file">
+                        <did>
+                            <unittitle>Swedish and Danish</unittitle>
+                            <container id="cid111220" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="file">
+                        <did>
+                            <unittitle>Turkish</unittitle>
+                            <container id="cid111219" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="file">
+                        <did>
+                            <unittitle>Yiddish</unittitle>
+                            <container id="cid111218" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref358" level="subseries">
+                    <did>
+                        <unittitle>Music</unittitle>
+                        <unitid>6.</unitid>
+                    </did>
+                    <c03 id="ref217" level="file">
+                        <did>
+                            <unittitle>Chanteurs and chanteuses</unittitle>
+                            <container id="cid111217" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="file">
+                        <did>
+                            <unittitle>Christmas carols</unittitle>
+                            <container id="cid111216" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>Comic opera</unittitle>
+                            <container id="cid111215" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="file">
+                        <did>
+                            <unittitle>Composers: Classical</unittitle>
+                            <container id="cid111214" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="file">
+                        <did>
+                            <unittitle>Composer's Modernist</unittitle>
+                            <container id="cid111213" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="file">
+                        <did>
+                            <unittitle>Folk song: African (includes Africans Dutch)</unittitle>
+                            <container id="cid111212" type="Box" label="Mixed materials">12</container>
+                            <container parent="cid111212" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="file">
+                        <did>
+                            <unittitle>Folk song: American: General and historic</unittitle>
+                            <container id="cid111211" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="file">
+                        <did>
+                            <unittitle>Folk song: American: Amerind</unittitle>
+                            <container id="cid111210" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref225" level="file">
+                        <did>
+                            <unittitle>Folk song: American: Chanteys, cowboys, work songs</unittitle>
+                            <container id="cid111209" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref226" level="file">
+                        <did>
+                            <unittitle>Folk song: American: Mountain ballads</unittitle>
+                            <container id="cid111208" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="file">
+                        <did>
+                            <unittitle>Folk song: American: Negro and spirituals</unittitle>
+                            <container id="cid111207" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="file">
+                        <did>
+                            <unittitle>Folk song: Asiatic</unittitle>
+                            <container id="cid111206" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="file">
+                        <did>
+                            <unittitle>Folk song: British</unittitle>
+                            <container id="cid111205" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="file">
+                        <did>
+                            <unittitle>Folk song: European</unittitle>
+                            <container id="cid111204" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="file">
+                        <did>
+                            <unittitle>General</unittitle>
+                            <container id="cid111203" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="file">
+                        <did>
+                            <unittitle>Grand Opera</unittitle>
+                            <container id="cid111202" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="file">
+                        <did>
+                            <unittitle>Musical comedy and reviews, to 1945</unittitle>
+                            <container id="cid111201" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="file">
+                        <did>
+                            <unittitle>Musical comedy and reviews,</unittitle>
+                            <container id="cid111200" type="Folder" label="Mixed materials">13-14</container>
+                            <unitdate>1945-1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref235" level="file">
+                        <did>
+                            <unittitle>Philosophy and Aesthetics</unittitle>
+                            <container id="cid111199" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="file">
+                        <did>
+                            <unittitle>Songs and songwriters: American</unittitle>
+                            <container id="cid111198" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle>Symphonic and chamber music</unittitle>
+                            <container id="cid111197" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref359" level="subseries">
+                    <did>
+                        <unittitle>Stage</unittitle>
+                        <unitid>7.</unitid>
+                    </did>
+                    <c03 id="ref238" level="file">
+                        <did>
+                            <unittitle>Constructivism</unittitle>
+                            <container id="cid111196" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="file">
+                        <did>
+                            <unittitle>Craftsmen</unittitle>
+                            <container id="cid111195" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="file">
+                        <did>
+                            <unittitle>Décor</unittitle>
+                            <container id="cid111194" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="file">
+                        <did>
+                            <unittitle>Décor: American</unittitle>
+                            <container id="cid111193" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="file">
+                        <did>
+                            <unittitle>Décor: Foreign</unittitle>
+                            <container id="cid111192" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle>Design in communal buildings: Baird paper</unittitle>
+                            <container id="cid111191" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="file">
+                        <did>
+                            <unittitle>Ensemble and grouping</unittitle>
+                            <container id="cid111190" type="Box" label="Mixed materials">13</container>
+                            <container parent="cid111190" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="file">
+                        <did>
+                            <unittitle>Equipment</unittitle>
+                            <container id="cid111189" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="file">
+                        <did>
+                            <unittitle>Expressionism as stage technique</unittitle>
+                            <container id="cid111188" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle>Illusion, devices, and effects other than lighting</unittitle>
+                            <container id="cid111187" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="file">
+                        <did>
+                            <unittitle>Light control for theatres</unittitle>
+                            <container id="cid111186" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="file">
+                        <did>
+                            <unittitle>Make-up and character</unittitle>
+                            <container id="cid111184" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="file">
+                        <did>
+                            <unittitle>Lighting</unittitle>
+                            <container id="cid111185" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="file">
+                        <did>
+                            <unittitle>Properties</unittitle>
+                            <container id="cid111183" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="file">
+                        <did>
+                            <unittitle>Sets, ideas</unittitle>
+                            <container id="cid111182" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="file">
+                        <did>
+                            <unittitle>Stagecraft</unittitle>
+                            <container id="cid111181" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref360" level="subseries">
+                    <did>
+                        <unittitle>Theatre</unittitle>
+                        <unitid>8.</unitid>
+                    </did>
+                    <c03 id="ref254" level="file">
+                        <did>
+                            <unittitle>Actors and actresses</unittitle>
+                            <container id="cid111180" type="Folder" label="Mixed materials">11-13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="file">
+                        <did>
+                            <unittitle>Actors and actresses</unittitle>
+                            <container id="cid111179" type="Box" label="Mixed materials">14</container>
+                            <container parent="cid111179" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="file">
+                        <did>
+                            <unittitle>Actors: Training of</unittitle>
+                            <container id="cid111178" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="file">
+                        <did>
+                            <unittitle>Architecture</unittitle>
+                            <container id="cid111177" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="file">
+                        <did>
+                            <unittitle>Architecture: Ground plans</unittitle>
+                            <container id="cid111176" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="file">
+                        <did>
+                            <unittitle>Architecture: Stage</unittitle>
+                            <container id="cid111175" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="file">
+                        <did>
+                            <unittitle>Art theatre (See also Little theatres)</unittitle>
+                            <container id="cid111174" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="file">
+                        <did>
+                            <unittitle>Art theatre: American</unittitle>
+                            <container id="cid111173" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="file">
+                        <did>
+                            <unittitle>Art theatre: European</unittitle>
+                            <container id="cid111172" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="file">
+                        <did>
+                            <unittitle>Audiences</unittitle>
+                            <container id="cid111171" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="file">
+                        <did>
+                            <unittitle>Backstage, rehearsals, etc.</unittitle>
+                            <container id="cid111170" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="file">
+                        <did>
+                            <unittitle>Buildings: Commercial</unittitle>
+                            <container id="cid111169" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="file">
+                        <did>
+                            <unittitle>Burlesque</unittitle>
+                            <container id="cid111168" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="file">
+                        <did>
+                            <unittitle>Censorship</unittitle>
+                            <container id="cid111167" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="file">
+                        <did>
+                            <unittitle>Children's theatre</unittitle>
+                            <container id="cid111166" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="file">
+                        <did>
+                            <unittitle>Circus</unittitle>
+                            <container id="cid111165" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="file">
+                        <did>
+                            <unittitle>Clowns, fools, zanies</unittitle>
+                            <container id="cid111164" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="file">
+                        <did>
+                            <unittitle>College and university theatre</unittitle>
+                            <container id="cid111163" type="Box" label="Mixed materials">15</container>
+                            <container parent="cid111163" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="file">
+                        <did>
+                            <unittitle>Community theatre</unittitle>
+                            <container id="cid111162" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="file">
+                        <did>
+                            <unittitle>Diction and voice</unittitle>
+                            <container id="cid111161" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="file">
+                        <did>
+                            <unittitle>Direction and directors</unittitle>
+                            <container id="cid111160" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="file">
+                        <did>
+                            <unittitle>Economics of the theatre</unittitle>
+                            <container id="cid111159" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="file">
+                        <did>
+                            <unittitle>Entertainers</unittitle>
+                            <container id="cid111158" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Experimental theatre</unittitle>
+                            <container id="cid111157" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="file">
+                        <did>
+                            <unittitle>Experimental, non-commercial, art theatre: 
+                                <title ns2:type="simple">New York: Post</title>,</unittitle>
+                            <container id="cid111156" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>-1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="file">
+                        <did>
+                            <unittitle>Folk festivals, carnavals, rituals, parades, pageantry</unittitle>
+                            <container id="cid111155" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="file">
+                        <did>
+                            <unittitle>Harlequinade</unittitle>
+                            <container id="cid111154" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="file">
+                        <did>
+                            <unittitle>History: Evolution of the physical theatre</unittitle>
+                            <container id="cid111153" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>History: Decay of the theatre</unittitle>
+                            <container id="cid111152" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>History: Decay of the theatre: Woes and jeremiads (includes notes)</unittitle>
+                            <container id="cid111151" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>History: Renaissance of the theatre</unittitle>
+                            <container id="cid111150" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="file">
+                        <did>
+                            <unittitle>Jargon, technical terms, slang</unittitle>
+                            <container id="cid111149" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="file">
+                        <did>
+                            <unittitle>Libraries and museums</unittitle>
+                            <container id="cid111148" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="file">
+                        <did>
+                            <unittitle>Little theatres</unittitle>
+                            <container id="cid111147" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>Little theatres: Off-Broadway</unittitle>
+                            <container id="cid111146" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="file">
+                        <did>
+                            <unittitle>Marionettes and puppets</unittitle>
+                            <container id="cid111145" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="file">
+                        <did>
+                            <unittitle>Masks</unittitle>
+                            <container id="cid111144" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="file">
+                        <did>
+                            <unittitle>Minstrel shows: American</unittitle>
+                            <container id="cid111143" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="file">
+                        <did>
+                            <unittitle>Models. Sculptures</unittitle>
+                            <container id="cid111142" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="file">
+                        <did>
+                            <unittitle>Movies</unittitle>
+                            <container id="cid111141" type="Box" label="Mixed materials">16</container>
+                            <container parent="cid111141" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="file">
+                        <did>
+                            <unittitle>Novelties and freaks</unittitle>
+                            <container id="cid111140" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="file">
+                        <did>
+                            <unittitle>Open air theatre</unittitle>
+                            <container id="cid111139" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="file">
+                        <did>
+                            <unittitle>Pageantry</unittitle>
+                            <container id="cid111138" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="file">
+                        <did>
+                            <unittitle>Pantomime</unittitle>
+                            <container id="cid111137" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="file">
+                        <did>
+                            <unittitle>Pantomime: British and Continental</unittitle>
+                            <container id="cid111136" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="file">
+                        <did>
+                            <unittitle>Production and producers</unittitle>
+                            <container id="cid111135" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="file">
+                        <did>
+                            <unittitle>Radio</unittitle>
+                            <container id="cid111134" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="file">
+                        <did>
+                            <unittitle>Repertory theatres</unittitle>
+                            <container id="cid111133" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="file">
+                        <did>
+                            <unittitle>Revivals</unittitle>
+                            <container id="cid111132" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="file">
+                        <did>
+                            <unittitle>Revivals: Central City, Col.</unittitle>
+                            <container id="cid111131" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="file">
+                        <did>
+                            <unittitle>Royalties</unittitle>
+                            <container id="cid111130" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="file">
+                        <did>
+                            <unittitle>Showboats. Medicine shows</unittitle>
+                            <container id="cid111129" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="file">
+                        <did>
+                            <unittitle>Spectacle</unittitle>
+                            <container id="cid111128" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="file">
+                        <did>
+                            <unittitle>Stock companies</unittitle>
+                            <container id="cid111127" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="file">
+                        <did>
+                            <unittitle>Strolling companies</unittitle>
+                            <container id="cid111126" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="file">
+                        <did>
+                            <unittitle>Summer theatre</unittitle>
+                            <container id="cid111125" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="file">
+                        <did>
+                            <unittitle>Television</unittitle>
+                            <container id="cid111124" type="Box" label="Mixed materials">17</container>
+                            <container parent="cid111124" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="file">
+                        <did>
+                            <unittitle>Theatre in the round. Arena Theatre</unittitle>
+                            <container id="cid111123" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="file">
+                        <did>
+                            <unittitle>Theatres: History</unittitle>
+                            <container id="cid111122" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="file">
+                        <did>
+                            <unittitle>Theories and surveys</unittitle>
+                            <container id="cid111121" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="file">
+                        <did>
+                            <unittitle>Touring companies</unittitle>
+                            <container id="cid111120" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref315" level="file">
+                        <did>
+                            <unittitle>Traditions, customs, superstitions</unittitle>
+                            <container id="cid111119" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref316" level="file">
+                        <did>
+                            <unittitle>Vaudeville</unittitle>
+                            <container id="cid111118" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref317" level="file">
+                        <did>
+                            <unittitle>Wartime theatre</unittitle>
+                            <container id="cid111117" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref318" level="file">
+                        <did>
+                            <unittitle>Theatre: British "National Theatre"</unittitle>
+                            <container id="cid111116" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref319" level="file">
+                        <did>
+                            <unittitle>Theatre: Greek (includes Baird notes)</unittitle>
+                            <container id="cid111115" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref320" level="file">
+                        <did>
+                            <unittitle>Theatre: Malay, Chinese</unittitle>
+                            <container id="cid111114" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref321" level="file">
+                        <did>
+                            <unittitle>Unclassified</unittitle>
+                            <container id="cid111113" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                        <scopecontent id="ref322">
+                            <head>Scope and Contents note</head>
+                            <p>One item from folder 13 titled Easter Miracle Drawing was oversized and moved to Curtis O/Miscellaneous 8.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref361" level="subseries">
+                    <did>
+                        <unittitle>George M. Baird Productions and Publications</unittitle>
+                        <unitid>9.</unitid>
+                    </did>
+                    <c03 id="ref323" level="file">
+                        <did>
+                            <unittitle>Productions: Correspondence, clippings, etc.</unittitle>
+                            <container id="cid111112" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref324" level="file">
+                        <did>
+                            <unittitle>Prose publications</unittitle>
+                            <container id="cid111111" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref325" level="file">
+                        <did>
+                            <unittitle>Unpublished manuscript</unittitle>
+                            <container id="cid111110" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref326" level="file">
+                        <did>
+                            <unittitle>Verse publications</unittitle>
+                            <container id="cid111109" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref328" level="series">
+                <did>
+                    <unittitle>Lantern Slides</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref353">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains lantern slides utilized by George M. Baird in his lectures on theatre history and production. See Box 6, folder 18 for the lecture notes that correspond to these slides.</p>
+                </scopecontent>
+                <c02 id="ref329" level="file">
+                    <did>
+                        <unittitle>Evolution of drama</unittitle>
+                        <container id="cid111108" type="Box" label="Mixed materials">18</container>
+                        <container parent="cid111108" type="Slides">1-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref330" level="file">
+                    <did>
+                        <unittitle>Primitive drama</unittitle>
+                        <container id="cid111107" type="Slides" label="Mixed materials">5-20</container>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="file">
+                    <did>
+                        <unittitle>Greek drama</unittitle>
+                        <container id="cid111106" type="Slides" label="Mixed materials">21-42</container>
+                    </did>
+                </c02>
+                <c02 id="ref332" level="file">
+                    <did>
+                        <unittitle>Hellenistic, Greco-Roman, Roman theatre</unittitle>
+                        <container id="cid111105" type="Slides" label="Mixed materials">43-50</container>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="file">
+                    <did>
+                        <unittitle>Modern Greek theatre</unittitle>
+                        <container id="cid111104" type="Slides" label="Mixed materials">51-53</container>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="file">
+                    <did>
+                        <unittitle>Strolling players</unittitle>
+                        <container id="cid111103" type="Slides" label="Mixed materials">53-58</container>
+                    </did>
+                </c02>
+                <c02 id="ref335" level="file">
+                    <did>
+                        <unittitle>Medieval drama</unittitle>
+                        <container id="cid111102" type="Slides" label="Mixed materials">59-75</container>
+                    </did>
+                </c02>
+                <c02 id="ref336" level="file">
+                    <did>
+                        <unittitle>Tudor Theatre, Shakespeare</unittitle>
+                        <container id="cid111100" type="Box" label="Mixed materials">19</container>
+                        <container parent="cid111100" type="Slides">1-28</container>
+                    </did>
+                </c02>
+                <c02 id="ref337" level="file">
+                    <did>
+                        <unittitle>Tudor Theatre, Shakespeare -- Renaissance theatre</unittitle>
+                        <container id="cid111101" type="Slide" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref338" level="file">
+                    <did>
+                        <unittitle>Court masque</unittitle>
+                        <container id="cid111099" type="Slide" label="Mixed materials">30-36</container>
+                    </did>
+                </c02>
+                <c02 id="ref339" level="file">
+                    <did>
+                        <unittitle>Continental theatres: 16th-18th centuries</unittitle>
+                        <container id="cid111098" type="Slide" label="Mixed materials">37-54</container>
+                    </did>
+                </c02>
+                <c02 id="ref340" level="file">
+                    <did>
+                        <unittitle>British theatre: 16th-19th</unittitle>
+                        <container id="cid111096" type="Slide" label="Mixed materials">55-72</container>
+                    </did>
+                </c02>
+                <c02 id="ref341" level="file">
+                    <did>
+                        <unittitle>British theatre: 16th-19th -- Commedia dell'arte</unittitle>
+                        <container id="cid111097" type="Slide" label="Mixed materials">73</container>
+                    </did>
+                </c02>
+                <c02 id="ref342" level="file">
+                    <did>
+                        <unittitle>French classic theatre</unittitle>
+                        <container id="cid111092" type="Box" label="Mixed materials">20</container>
+                        <container parent="cid111092" type="Slides">1-3</container>
+                    </did>
+                </c02>
+                <c02 id="ref343" level="file">
+                    <did>
+                        <unittitle>French classic theatre -- Stage lighting and mechanics</unittitle>
+                        <container id="cid111095" type="Slide" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref344" level="file">
+                    <did>
+                        <unittitle>French classic theatre -- 19th century drama and stage</unittitle>
+                        <container id="cid111094" type="Slide" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref345" level="file">
+                    <did>
+                        <unittitle>French classic theatre -- Stage design: 20th century</unittitle>
+                        <container id="cid111093" type="Slide" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref346" level="file">
+                    <did>
+                        <unittitle>Art theatre</unittitle>
+                        <container id="cid111091" type="Slides" label="Mixed materials">7-14</container>
+                    </did>
+                </c02>
+                <c02 id="ref347" level="file">
+                    <did>
+                        <unittitle>Multiple unit and revolving stages</unittitle>
+                        <container id="cid111090" type="Slides" label="Mixed materials">15-26</container>
+                    </did>
+                </c02>
+                <c02 id="ref348" level="file">
+                    <did>
+                        <unittitle>Realism and naturalism</unittitle>
+                        <container id="cid111089" type="Box" label="Mixed materials">21</container>
+                        <container parent="cid111089" type="Slides">1-3</container>
+                    </did>
+                </c02>
+                <c02 id="ref349" level="file">
+                    <did>
+                        <unittitle>Stylization</unittitle>
+                        <container id="cid111088" type="Slides" label="Mixed materials">4-8</container>
+                    </did>
+                </c02>
+                <c02 id="ref350" level="file">
+                    <did>
+                        <unittitle>Theatre slides (not arranged)</unittitle>
+                        <container id="cid111087" type="Slides" label="Mixed materials">9-27</container>
+                    </did>
+                </c02>
+                <c02 id="ref351" level="file">
+                    <did>
+                        <unittitle>Misc. slides (non-theatrical)</unittitle>
+                        <container id="cid111086" type="Slides" label="Mixed materials">28-48</container>
+                    </did>
+                </c02>
+                <c02 id="ref352" level="file">
+                    <did>
+                        <unittitle>Slides in preparation</unittitle>
+                        <container id="cid111085" type="Slides" label="Mixed materials">48-53</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

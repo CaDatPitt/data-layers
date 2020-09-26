@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197301</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Kenyon Family Papers, 1893-1972
+                    <num>CTC.1973.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Jean Blanco.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>June 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Kenyon Family Papers</unittitle>
+            <unitid>CTC.1973.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 linear feet</extent>
+                <extent>(10 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1909/1950" type="bulk">Bulk, 1909-1950</unitdate>
+            <unitdate normal="1893/1972" type="inclusive">1893-1972</unitdate>
+            <abstract id="ref24" label="Abstract">The Kenyon family operated the Kenyon Theatre, the first “high class” vaudeville theatre on Pittsburgh’s Northside. They later opened the Kenyon Opera House, also known as the Pitt Theatre, in downtown Pittsburgh. Elmer Bernard Kenyon was the head of Carnegie Institute of Technology’s Drama Department, was a press agent for many prominent actors, and founded the Pittsburgh Drama League. This collection contains autographed photos, theatre records, correspondence, clippings, vaudeville reviews, etc.</abstract>
+            <origination label="creator">
+                <famname source="naf">Kenyon family</famname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Acquisition Information</head>
+            <p>Gift of Professor Stanley Goodman, an executor of the T. Thomas Kenyon Estate, 1973. Additional items were donated by the Van Wissink family in 1977 and Professor Stanley Goodman on November 16, 1979.</p>
+        </acqinfo>
+        <accessrestrict id="ref3">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jean Blanco in 1975.</p>
+        </processinfo>
+        <scopecontent id="ref25">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains the business and personal records of Thomas Kenyon and his two sons, Elmer Bernard and Titus Thomas. The majority of this collection pertains to Elmer Bernard Kenyon. For the most part the collection is comprised of paper records from the first half of the twentieth century. The collection is organized into twelve series.</p>
+        </scopecontent>
+        <bioghist id="ref8">
+            <head>Biography</head>
+            <p>The Kenyon family was closely associated with theatre in Pittsburgh for twenty years (1909-1929), maintaining a less direct involvement with local theatre for many years afterwards. Elmer Kenyon, the elder of the two brothers, was associated with the national theatre scene as well.</p>
+            <p>Thomas Kenyon, the father, emigrated from Ireland and eventually settled in Allegheny City where he operated a dry goods store on Federal Street. On that site he built the Kenyon Theatre in 1909 as the first “high class” theatre on the Northside. Three years later he opened the first Kenyon Opera House, also a vaudeville theatre, in downtown Pittsburgh, on Penn Avenue near Seventh. Because of labor problems and illness, he soon withdrew from active participation in his theatres, and in 1919 he sold his interests.</p>
+            <p>Both theatres have since been demolished. The Kenyon Theatre remained standing for more than fifty years, until the raising of the Northside area required for Allegheny Center. The Kenyon Opera House achieved a decade of splendor as the Pitt Theatre, one of the city’s major legitimate playhouses, after the Shuberts took over in 1919. When its auditorium was torn down in 1951 it was the Barry; the façade lasted until 1963.</p>
+            <p>The major portion of personal papers in this collection pertains to Elmer Bernard Kenyon, 1886-1949. After he received his degree from Harvard in 1913 he taught first at St. Viator College near Chicago, and then, 1916-29, taught English at Pittsburgh’s new Schenley High School. After a brief association with the Theatre Guild he became head of Carnegie Institute of Technology’s Drama Department, in 1931. In 1936 he returned to the Theatre Guild, and was press agent for Maurice Evans, Judith Anderson, and Helen Hayes, among others. Mr. Kenyon founded the Pittsburgh Drama League, was its president and edited its Review for many years, and was a director of the national organization. He was also a popular lecturer in Pittsburgh, and contributed to various national journals. He retired in 1947, and in 1949 he died, survived briefly by his mother, and by his brother, Titus Thomas.</p>
+            <p>T. Thomas Kenyon, 1892-1973, had assumed increasing responsibility at the Northside Theatre and was its manager for several years before the theatre was sold. He also managed the Pitt Theatre during its most glamorous period, 1923-29. He lived alone in Pittsburgh from the time of his mother's death in 1949, presumably managing his business interests, until his own death in 1973. There were no survivors and he left $1.2 million to the Catholic Diocese of Pittsburgh.</p>
+        </bioghist>
+        <arrangement id="ref7">
+            <head>Arrangement</head>
+            <p>The collection is organized into twelve series:</p>
+            <p>Series I. Biographical Information, 1949-1973</p>
+            <p>Series II. Correspondence, 1893-1972</p>
+            <p>Series III. Notes and School Papers</p>
+            <p>Series IV. Scrapbooks</p>
+            <p>Series V. Theatre Guild Press Releases</p>
+            <p>Series VI. Lectures and Publications</p>
+            <p>Series VII. Newspaper Clippings, 1901-1969</p>
+            <p>Series VIII. Miscellany, 1910-1935</p>
+            <p>Series IX. Theatre Records, 1909-1940</p>
+            <p>Series X. Photographs, 1921-1941</p>
+            <p>Series XI. Phonorecords</p>
+            <p>Series XII. Oversize Materials</p>
+        </arrangement>
+        <odd id="ref6">
+            <head>Previous Citation</head>
+            <p>Kenyon Family Papers, 1893-1972, CTC.1973.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Kenyon Family Papers, 1893-1972, CTC.10, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Kenyon Family Papers, 1893-1972, CTC.1973.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <relatedmaterial id="ref35">
+            <head>Related Material</head>
+            <p>Pitt Theatre Programs, Ford E. and Harriet R. Curtis Theatre Collection of Pittsburgh Theatre Programs, 1840-present, CTC.1966.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Pittsburgh Drama League, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <controlaccess>
+            <famname source="naf">Kenyon family</famname>
+            <persname rules="aacr" source="local">Kenyon, Elmer B. (Elmer Bernard), 1886-1949</persname>
+            <persname rules="aacr" source="local">Kenyon, T. Thomas (Titus Thomas), 1892-1973</persname>
+            <corpname source="naf">Pittsburgh Drama League (Pa.).</corpname>
+            <corpname source="naf">Theatre Guild.</corpname>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <title source="local">Drama League review</title>
+            <genreform source="aat">Lectures</genreform>
+            <geogname source="lcsh">North Side (Pittsburgh, Pa.) -- Intellectual life</geogname>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Phonograph records</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <geogname source="lcsh">Pittsburgh (Pa.) -- Intellectual life</geogname>
+            <genreform source="aat">Press releases</genreform>
+            <genreform source="aat">Scrapbooks</genreform>
+            <subject source="lcnaf">Teachers -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Theatrical managers -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Biographical Information,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1949-1973</unitdate>
+                </did>
+                <scopecontent id="ref28">
+                    <head>Scope and Content Notes</head>
+                    <p>Includes Elmer Kenyon’s autobiographical notes written for the Theatre Guild and obituaries of Elmer Kenyon and T. Thomas Kenyon.</p>
+                </scopecontent>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon autobiography furnished for the Theatre Guild - carbon typescript</unittitle>
+                        <container id="cid1259001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid1259001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon - obituaries and Harvard records clippings,</unittitle>
+                        <container id="cid1259002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Titus Thomas Kenyon - obituaries,</unittitle>
+                        <container id="cid1259003" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>March 1973</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1893-1972</unitdate>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Content Notes</head>
+                    <p>Primarily, this series is personal correspondence, with some business correspondence included, both to and from the Kenyons. It is broken into five subseries. Included are typed letters signed, autograph letters, and carbon copies of letters. Signed letters (some TLS, but most ALS) are from Maurice Evans, Minnie Maddern Fiske, the Sotherns, Helen Hayes, Lucille Laverne, and others, many of the theatre celebrities also represented in the photograph series. One group of letters, from William Moore Patch, relates to his trial in Philadelphia. Another group refers to T. Thomas Kenyon’s gift of Elmer Kenyon’s Papers to the New York Public Library. Business correspondence includes one folder of lectures to and from Warren Munsell, Business Manager of the Theatre Guild, and another folder contains correspondence with the Shuberts.</p>
+                </scopecontent>
+                <c02 id="ref46" level="subseries">
+                    <did>
+                        <unittitle>Thomas Kenyon</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Thomas Kenyon, Sr. - to Mrs. Kenyon,</unittitle>
+                            <container id="cid1259004" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1893-1913</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref47" level="subseries">
+                    <did>
+                        <unittitle>Elmer Kenyon</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - New Year’s greetings to his parents,</unittitle>
+                            <container id="cid1259005" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1895-1896</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - World War I post cards to his mother,</unittitle>
+                            <container id="cid1259006" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1918-1919</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - excerpts from World War I correspondence to his mother prepared by Titus Thomas for distribution to friends after Elmer’s death,</unittitle>
+                            <container id="cid1259007" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1950</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - from Maurice Evans,</unittitle>
+                            <container id="cid1259008" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - from Minnie Maddern Fiske,</unittitle>
+                            <container id="cid1259009" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1924-1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - Dorothy Jean Minnemeyer Van Wissink,</unittitle>
+                            <container id="cid1263044" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - from E.H. Sothern and Julia Marlow,</unittitle>
+                            <container id="cid1259010" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1921</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon - miscellaneous,</unittitle>
+                            <container id="cid1259011" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1929-1948</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref48" level="subseries">
+                    <did>
+                        <unittitle>Elmer Kenyon and T. Thomas Kenyon</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - Harold V. Cohen, Jerone Volk, Karl Krug, Kaspar Monahan,</unittitle>
+                            <container id="cid1259012" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1932-1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - from Helen Hayes,</unittitle>
+                            <container id="cid1259013" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1933-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - from Ray Henderson,</unittitle>
+                            <container id="cid1259014" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1932-1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - Florence Fisher Parry,</unittitle>
+                            <container id="cid1259015" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1937-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - from Aug. Rottenbach,</unittitle>
+                            <container id="cid1259016" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1908-1911</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - correspondence to newspapers,</unittitle>
+                            <container id="cid1259017" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1932-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon - miscellaneous correspondence,</unittitle>
+                            <container id="cid1259018" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1910-1943</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref49" level="subseries">
+                    <did>
+                        <unittitle>T. Thomas Kenyon</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - to his mother,</unittitle>
+                            <container id="cid1259019" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1909</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Judith Anderson</unittitle>
+                            <container id="cid1259020" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - Brooks Atkinson,</unittitle>
+                            <container id="cid1259021" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Katharine Cornell,</unittitle>
+                            <container id="cid1259022" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - John K Daly,</unittitle>
+                            <container id="cid1259023" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Anne Ford,</unittitle>
+                            <container id="cid1259024" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1949-1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - Sara Greenspan,</unittitle>
+                            <container id="cid1259025" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1937-1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Ann Harding,</unittitle>
+                            <container id="cid1259026" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Bill K.,</unittitle>
+                            <container id="cid1259027" type="Folder" label="Mixed materials">28</container>
+                            <unitdate>1938-1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - Lucille Lacey,</unittitle>
+                            <container id="cid1259028" type="Folder" label="Mixed materials">29</container>
+                            <unitdate>1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Lucille LaVerne,</unittitle>
+                            <container id="cid1259029" type="Folder" label="Mixed materials">30</container>
+                            <unitdate>1924-1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Joan Marion,</unittitle>
+                            <container id="cid1259030" type="Folder" label="Mixed materials">31</container>
+                            <unitdate>1927-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - Dorothy Jean Minnemeyer Van Wissink,</unittitle>
+                            <container id="cid1270001" type="Folder" label="Mixed materials">32-33</container>
+                            <unitdate>1950-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Warren P. Munsell business manager of the Theatre Guild,</unittitle>
+                            <container id="cid1259031" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>1934-1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - New York Public Library,</unittitle>
+                            <container id="cid1259032" type="Folder" label="Mixed materials">35</container>
+                            <unitdate>1949-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - William Moore Patch,</unittitle>
+                            <container id="cid1259033" type="Folder" label="Mixed materials">36</container>
+                            <unitdate>1923-1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - J.J. Shubert and Lee Schubert,</unittitle>
+                            <container id="cid1259034" type="Folder" label="Mixed materials">37</container>
+                            <unitdate>1924-1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Cepha (Sisk?),</unittitle>
+                            <container id="cid1259035" type="Folder" label="Mixed materials">38</container>
+                            <unitdate>1934-1957</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - from Leo,</unittitle>
+                            <container id="cid1259036" type="Folder" label="Mixed materials">39</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon - miscellaneous letters received,</unittitle>
+                            <container id="cid1259037" type="Folder" label="Mixed materials">40</container>
+                            <unitdate>1910-1972</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref50" level="subseries">
+                    <did>
+                        <unittitle>Letters of Condolence</unittitle>
+                        <unitid>5.</unitid>
+                    </did>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Letters and telegrams of condolence on the deaths of Elmer Kenyon and Mrs. Thomas Kenyon,</unittitle>
+                            <container id="cid1259038" type="Folder" label="Mixed materials">41</container>
+                            <unitdate>1949-1951</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Notes and School Papers</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Content Notes</head>
+                    <p>Contained in this series are a set of notebooks of Elmer Kenyon's dating back to when he was a student. It is unclear whether or not they date back to his time at Harvard. There is also one folder of miscellany that related to Elmer's time as a teacher at St. Viator College, Schenley High School, and Carnegie Tech. Note that none of the material in this series is dated.</p>
+                </scopecontent>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes</unittitle>
+                        <container id="cid1259043" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid1259043" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>English notebooks</unittitle>
+                        <container id="cid1259039" type="Volume" label="Mixed materials">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>History notebook</unittitle>
+                        <container id="cid1259040" type="Volume" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>German notebook</unittitle>
+                        <container id="cid1259041" type="Volume" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Literature notebook</unittitle>
+                        <container id="cid1259042" type="Volume" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Scrapbooks</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Content Notes</head>
+                    <p>There are four scrapbooks that are contained in this series. Scrapbooks two and three are of particular interest for personal clippings and memorabilia, 1913-31. The second scrapbook with newspaper clippings, correspondence, programs, etc., from St. Viator college, Bourbonnais, Ill.; Schenley High School, Pittsburgh; Pittsburgh Drama League; etc. Includes clippings regarding Elmer Kenyon’s lectures, several articles by him, programs from women’s clubs at which he lectures in 1929, and various issues of Pittsburgh Drama League Review. This oversized scrapbook has been disbound and placed into folders. The fourth scrapbook, containing Elmer Kenyon's lecture programs to local women’s clubs, 1929-36, has been dismantled and divided into four file folders.</p>
+                </scopecontent>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Scrapbook 1 - Mounted clippings regarding literature,</unittitle>
+                        <container id="cid1259044" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid1259044" type="Folder">1</container>
+                        <unitdate>1913–1915?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>Scrapbook 2 - Elmer Kenyon,</unittitle>
+                        <container id="cid1431001" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1913-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Scrapbook 3 - Mounted clippings most regarding Elmer Kenyon,</unittitle>
+                        <container id="cid1259046" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1929-1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Scrapbook 4 - Elmer Kenyon’s lecture programs,</unittitle>
+                        <container id="cid1259047" type="Folder" label="Mixed materials">4-7</container>
+                        <unitdate>1929-1936</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Theatre Guild Press Releases</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains press releases written by Elmer Kenyon, while working for the Theatre Guild. It includes materials on Hamlet, Macbeth, Twelfth night, Amphitryon 38, The cherry orchard, Harriet, The Philadelphia story, The skin or our teeth, and Wine of choice, Maurice Evans, Judith Anderson, Helen Hayes, the Lunts, Katharine Hepburn, Katharine Cornell, and Miriam Hopkins. These press releases are not typical publicity, but well written scholarly pieces.</p>
+                </scopecontent>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Cherry Orchard</title></unittitle>
+                        <container id="cid1259048" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid1259048" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hamlet</title> - with Maurice Evans</unittitle>
+                        <container id="cid1259049" type="Folder" label="Mixed materials">2-6</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Harriet</title> - with Helen Hayes</unittitle>
+                        <container id="cid1259050" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Lonely Way</title></unittitle>
+                        <container id="cid1259051" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Amphitryon 38</title> and 
+                            <title render="italic">Idiot’s Delight</title> - with the Lunts</unittitle>
+                        <container id="cid1259052" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Macbeth</title> - with Maurice Evans and Judith Anderson</unittitle>
+                        <container id="cid1259053" type="Folder" label="Mixed materials">10-14</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Philadelphia Story</title> - with Katharine Hepburn</unittitle>
+                        <container id="cid1259054" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Skin of Our Teeth</title></unittitle>
+                        <container id="cid1259055" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Three Sisters</title> - with Katharine Cornell</unittitle>
+                        <container id="cid1259056" type="Folder" label="Mixed materials">17-18</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Twelfth Night</title> - with Helen Hayes and Maurice Evans</unittitle>
+                        <container id="cid1259057" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wine of Choice</title> - with Miriam Hopkins</unittitle>
+                        <container id="cid1259058" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Lectures and Publications</unittitle>
+                    <unitid>VI.</unitid>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Content Notes</head>
+                    <p>This series includes journal articles, letters to the editor, and typescripts of Elmer Kenyon's. In addition to the theatre materials there is one lecture of Cardinal Newman, dated 1945.</p>
+                </scopecontent>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Typescripts</unittitle>
+                        <container id="cid1259059" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid1259059" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Published articles</unittitle>
+                        <container id="cid1259060" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Drama League miscellany</unittitle>
+                        <container id="cid1259061" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Newspaper Clippings,</unittitle>
+                    <unitid>VII.</unitid>
+                    <unitdate>1901-1969</unitdate>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Content Notes</head>
+                    <p>The newspaper clippings in this series contain mostly personal information on Elmer and T. Thomas Kenyon, the theatres, Elmer Kenyon’s press releases, various newspaper columns, letters to the editor by the Kenyons, and clippings on various aspects of the theatre, including Pittsburgh’s theatre history.</p>
+                </scopecontent>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Newspaper articles and letters to the editor by Elmer Kenyon,</unittitle>
+                        <container id="cid1263001" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1911-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon as Head of the Drama Department at the Carnegie Institute of Technology,</unittitle>
+                        <container id="cid1263002" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1931-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon miscellaneous,</unittitle>
+                        <container id="cid1263003" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1932-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Titus Thomas Kenyon,</unittitle>
+                        <container id="cid1263004" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1930-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre - Northside,</unittitle>
+                        <container id="cid1263005" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1901-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre and Kenyon Opera House - labor problems,</unittitle>
+                        <container id="cid1263006" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1913</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Pitt Theatre,</unittitle>
+                        <container id="cid1263007" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1912-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Pittsburgh theatre history,</unittitle>
+                        <container id="cid1263008" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1934-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Charles M. Bregg columns</unittitle>
+                        <container id="cid1263009" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Charles M. Bregg columns on Henry Miller and letter from Elmer Kenyon</unittitle>
+                        <container id="cid1263010" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Jackson D. Hogg columns</unittitle>
+                        <container id="cid1263011" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>William Moore Patch columns</unittitle>
+                        <container id="cid1263012" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>William M. Rimmel’s columns on the Northside,</unittitle>
+                        <container id="cid1263013" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1958-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Frank Patterson columns</unittitle>
+                        <container id="cid1263014" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Miscellaneous letters to the editor. (Includes group by P.J. McCormick – pseud. for E.K? or marked for his attention?),</unittitle>
+                        <container id="cid1263015" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1941-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Maurice Evans,</unittitle>
+                        <container id="cid1263016" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1926-1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Maurice Evans and Judith Anderson in 
+                            <title render="italic">Macbeth</title>,</unittitle>
+                        <container id="cid1263017" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Helen Hays,</unittitle>
+                        <container id="cid1263018" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1941-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Ray Henderson’s death - Katharine Cornell’s press agent</unittitle>
+                        <container id="cid1263019" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Katharine Hepburn,</unittitle>
+                        <container id="cid1263020" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1939-1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Henry Irving</unittitle>
+                        <container id="cid1263021" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Richard Mansfield</unittitle>
+                        <container id="cid1263022" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Russian theatre: Moscow Art Theatre, Chekhov and others,</unittitle>
+                        <container id="cid1263023" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1920-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>George Bernard Shaw,</unittitle>
+                        <container id="cid1263024" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1952-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Theatre Guild and American Theatre Society,</unittitle>
+                        <container id="cid1263025" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1934-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Theatre - miscellaneous,</unittitle>
+                        <container id="cid1263026" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid1263026" type="Folder">1</container>
+                        <unitdate>1920-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Miscellaneous,</unittitle>
+                        <container id="cid1263027" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1914-1953</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Miscellany,</unittitle>
+                    <unitid>VIII.</unitid>
+                    <unitdate>1910-1935</unitdate>
+                </did>
+                <scopecontent id="ref149">
+                    <head>Scope and Content Notes</head>
+                    <p>This small series includes some personal effects of the Kenyons. Of note are several Jack and W.B. Yeats prints, a notebook with poetry by Titus Thomas, and a lock of Elmer Kenyon's hair (presumably from when he was a child).</p>
+                </scopecontent>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon - Harvard diploma,</unittitle>
+                        <container id="cid1347002" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1913</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon - miscellaneous memorabilia,</unittitle>
+                        <container id="cid1263028" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1910-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Titus Thomas Kenyon - miscellaneous memorabilia,</unittitle>
+                        <container id="cid1263029" type="Folder" label="Mixed materials">5-6</container>
+                        <unitdate>1914-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="singlequote">A history of Pittsburgh theatre</title> by Miriam T. Malakoff,</unittitle>
+                        <container id="cid1263030" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Art prints</unittitle>
+                        <container id="cid1347001" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Poetry,</unittitle>
+                        <container id="cid1263031" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1931-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Sheet music</unittitle>
+                        <container id="cid1263032" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Theatre Records,</unittitle>
+                    <unitid>IX.</unitid>
+                    <unitdate>1909-1940</unitdate>
+                </did>
+                <scopecontent id="ref31">
+                    <head>Scope and Content Notes</head>
+                    <p>The Kenyon Theatre records are fairly complete, including programs, ledgers, and booking receipts, all 1909-1919. Of particular interest is T. Thomas Kenyon’s small holograph notebook index of vaudeville companies with his personal evaluation of each. For the Pitt Theatre, there is Mr. Kenyon’s “Obit,” and a small notebook containing the financial record during the years under his management.</p>
+                </scopecontent>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - programs,</unittitle>
+                        <container id="cid1263033" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1909-1914</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - programs,</unittitle>
+                        <container id="cid1263034" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1915-1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - programs,</unittitle>
+                        <container id="cid1263035" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - programs,</unittitle>
+                        <container id="cid1263036" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1918-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Vaudeville acts - Titus Thomas Kenyon's evaluations,</unittitle>
+                        <container id="cid1263037" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - ledgers,</unittitle>
+                        <container id="cid3863001" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid3863001" type="Volume">1-2</container>
+                        <unitdate>1910-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - Vaudeville bookings receipts Polack Vaudeville Circuit,</unittitle>
+                        <container id="cid1263041" type="Folder" label="Mixed materials">1</container>
+                        <unitdate>1909-1912</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - Liberty Vaudeville Contracting Co.,</unittitle>
+                        <container id="cid1263042" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1915-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Kenyon Theatre Northside - miscellaneous,</unittitle>
+                        <container id="cid1263040" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1912-1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Pitt Theatre “Obit,” by Thomas Titus Kenyon</unittitle>
+                        <container id="cid1263038" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Pitt Theatre - 1st Program as Kenyon Opera House,</unittitle>
+                        <container id="cid1263043" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1912</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Pitt Theatre - Financial records,</unittitle>
+                        <container id="cid1263039" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1920-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Miscellaneous theatre records,</unittitle>
+                        <container id="cid1413001" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1913-1940</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitid>X.</unitid>
+                    <unitdate>1921-1941</unitdate>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Content Notes</head>
+                    <p>The Kenyons amassed a very impressive photograph collection of theatrical notables. Many of these photographs are signed. Family photographs include several of the elder Kenyons and of the brothers as both children and adults. The photographs are in alphabetical order.</p>
+                </scopecontent>
+                <c02 id="ref167" level="subseries">
+                    <did>
+                        <unittitle>Personal Photographs</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>Anne Ford</unittitle>
+                            <container id="cid1413002" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid1413002" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>Kenyon Theatre, Northside</unittitle>
+                            <container id="cid1413007" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>Elmer Kenyon</unittitle>
+                            <container id="cid1413003" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>Elmer and Titus Thomas Kenyon,</unittitle>
+                            <container id="cid1413004" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>E.K. and T.T.K. that were owned by Dorothy Jean Minnemeyer Van Wissink,</unittitle>
+                            <container id="cid1413012" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>Mr. and Mrs. Thomas Kenyon</unittitle>
+                            <container id="cid1413006" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>Titus Thomas Kenyon</unittitle>
+                            <container id="cid1413005" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Father Maguire</unittitle>
+                            <container id="cid1413011" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Mrs. Robeson</unittitle>
+                            <container id="cid1413008" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Mr. and Mrs. Rottenbach</unittitle>
+                            <container id="cid1413010" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1413009" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref169" level="subseries">
+                    <did>
+                        <unittitle>Theatre Photographs,</unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>1921-1941</unitdate>
+                    </did>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>Judith Anderson as Lavinia Mannon in 
+                                <title render="italic">Mourning becomes Electra</title> - signed</unittitle>
+                            <container id="cid1413013" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>Margaret Anglin - signed</unittitle>
+                            <container id="cid1413014" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>Brooks Atkinson</unittitle>
+                            <container id="cid1413023" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Tallulah Bankhead - signed</unittitle>
+                            <container id="cid1413017" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>Marjorie Barrett</unittitle>
+                            <container id="cid1413015" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="file">
+                        <did>
+                            <unittitle>Rosemary Casey?</unittitle>
+                            <container id="cid1413025" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>Olga Chekhova and Ivan Moskvin - signed</unittitle>
+                            <container id="cid1413021" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Katharine Cornell - signed</unittitle>
+                            <container id="cid1413018" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>Henrietta Corssman - signed</unittitle>
+                            <container id="cid1413019" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>Jane Cowl</unittitle>
+                            <container id="cid1413022" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Maurice Evans - signed,</unittitle>
+                            <container id="cid1413020" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1940-41</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>Ann Harding</unittitle>
+                            <container id="cid1413016" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>Helen Hayes - signed,</unittitle>
+                            <container id="cid1413026" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>1925-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>Suzanne Keener as Peg in 
+                                <title render="italic">Peg O’ My Dreams</title> - signed</unittitle>
+                            <container id="cid1413036" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>Lucille La Verne as Widow Cagle in 
+                                <title render="italic">Sun-Up</title> - signed</unittitle>
+                            <container id="cid1413038" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Francie Larimore - signed</unittitle>
+                            <container id="cid1413039" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>Joan Marion</unittitle>
+                            <container id="cid1413028" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>Nazimova - signed</unittitle>
+                            <container id="cid1413029" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>Eugene O’Neill</unittitle>
+                            <container id="cid1413040" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>Catherine Dale Owen</unittitle>
+                            <container id="cid1413042" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>Marga Schenk - signed</unittitle>
+                            <container id="cid1413030" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>George Bernard Shaw</unittitle>
+                            <container id="cid1413041" type="Folder" label="Mixed materials">33</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>E.H. Sothern as Hamlet - signed,</unittitle>
+                            <container id="cid1413033" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>1921</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>Constantin Stanislavski - signed,</unittitle>
+                            <container id="cid1413043" type="Folder" label="Mixed materials">35</container>
+                            <unitdate>1924</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>Sophie Stewart as Olivia - signed</unittitle>
+                            <container id="cid1413045" type="Folder" label="Mixed materials">36</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>John Van Druten - signed</unittitle>
+                            <container id="cid1413034" type="Folder" label="Mixed materials">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>Elizabeth Hester Ward</unittitle>
+                            <container id="cid1413031" type="Folder" label="Mixed materials">38</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1413032" type="Folder" label="Mixed materials">39</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref22" level="series">
+                <did>
+                    <unittitle>Phonorecords</unittitle>
+                    <unitid>XI.</unitid>
+                </did>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon interviewing Charles Hopkins - director of 
+                            <title render="italic">No More Ladies</title> at the Pittsburgh Playhouse,</unittitle>
+                        <container id="cid1416001" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid1416001" type="Folder">1-2</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Maurice Evans in the “England” speeches from Richard II and Henry V - the British War Relief Society Inc.</unittitle>
+                        <container id="cid1416002" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="series">
+                <did>
+                    <unittitle>Oversize Materials</unittitle>
+                    <unitid>XII.</unitid>
+                </did>
+                <scopecontent id="ref234">
+                    <head>Scope and Content Notes</head>
+                    <p>The majority of this series contains oversized photographs, many of which are autographed. Also of note is a phrenological chart of Elmer Kenyon from when he was only eight years old.</p>
+                </scopecontent>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Judith Anderson and Florence Reed in 
+                            <title render="italic">Morning Becomes Elektra</title> - signed oversized photograph</unittitle>
+                        <container id="cid1416007" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid1416007" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Laine Blair - signed oversize photograph</unittitle>
+                        <container id="cid1416010" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>Ann Harding - oversized photograph</unittitle>
+                        <container id="cid1416005" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>Katherine Cornell - signed oversized photograph</unittitle>
+                        <container id="cid1416009" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Helen Hayes as Portia in 
+                            <title render="italic">the Merchant of Venice</title> - signed oversize photograph,</unittitle>
+                        <container id="cid1416014" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Helen Hayes - charcoal portrait by William Robert Shulgold,</unittitle>
+                        <container id="cid1416015" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Elmer Kenyon - oversized photograph</unittitle>
+                        <container id="cid1416003" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Titus Thomas Kenyon - oversized photograph</unittitle>
+                        <container id="cid1416016" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Alfred Lunt and Lynn Fontanne - signed oversized photograph</unittitle>
+                        <container id="cid1416008" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>Katherine MacDonald - signed oversized print</unittitle>
+                        <container id="cid1416011" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Joan Marion in 
+                            <title render="italic">Gentlemen Prefer Blondes</title> - signed oversized photograph</unittitle>
+                        <container id="cid1416004" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Julia Marlowe - signed oversized photograph,</unittitle>
+                        <container id="cid1416006" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Eleanor Painter? - signed oversized photograph</unittitle>
+                        <container id="cid1416013" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Phrenological chart of Elmer Kenyon,</unittitle>
+                        <container id="cid1416012" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>October 27, 1894</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>E.H. Southern - signed oversized photograph,</unittitle>
+                        <container id="cid1416017" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1917</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

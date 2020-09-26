@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199301</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Barbara Bogart and Anthony LoCicero Papers, 1946-1970
+                    <num>CTC.1993.01</num>
+                </titleproper>
+                <author>Finding aid prepared by David Sleasman. Revisions occurred to the finding aid as a part of the encoding process in 2004 and 2006.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>Spring 2006</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Barbara Bogart and Anthony LoCicero Papers</unittitle>
+            <unitid>CTC.1993.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 linear feet</extent>
+                <extent>(3 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1946/1970" type="inclusive">1946-1970</unitdate>
+            <abstract id="ref2" label="Abstract">Barbara Bogart and her husband, Anthony LoCicero, were burlesque theatre performers from 1940 through their retirement in 1970. This collection contains photos, skits, newspaper clippings, programs, and correspondence related to both of the careers of Bogart and LoCierco and burlesque theatre in general.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Bogart, Barbara, 1908-1987</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local">LoCicero, Anthony</persname>
+            </origination>
+        </did>
+        <arrangement id="ref115">
+            <head>Arrangement</head>
+            <p>Series I. Photographs</p>
+            <p>Series II. Burlesque Skits</p>
+            <p>Series III. Correspondence</p>
+            <p>Series IV. General Burlesque Theatre Materials</p>
+            <p>Series V. The Drunkard Materials</p>
+            <p>Series VI. Oversized Materials</p>
+        </arrangement>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Barbara Bogart was born in New York City on March 22, 1908. During her childhood, her family returned to her father Andrew's native San Francisco where he was principal tenor with the Tivoli Opera Company. Barbara was sent to Paris after graduation to study voice, piano, and language for several years. Upon leaving Europe, she traveled extensively on freighters throughout the south and central Pacific, as well as Asia. In addition to her musical talents, Bogart was a prolific writer. During her life she authored many plays, poems, two unpublished novels, short stories, and a weekly series of travel articles for the 
+                <title>Russian River News</title>. Sometime in 1940, she joined the cast of 
+                <title>The Drunkard</title> at the Green Street Music Hall in San Francisco, where she met Anthony LoCicero.</p>
+            <p>Anthony LoCicero was born in Italy on March 10, 1911. His family immigrated to New York and Anthony began his career in theatre as a magician's assistant at age 15, and went on to appear in vaudeville and burlesque productions. During the late 1930's or early 1940's, he came to San Francisco and became part of the cast of 
+                <title>The Drunkard</title>. Anthony LoCicero and Barbara Bogart were married in San Francisco in 1942, and continued their work in 
+                <title>The Drunkard</title>.</p>
+            <p>
+                <title>The Drunkard</title> was a comical adaptation of the Victorian temperance melodrama, 
+                <title>Ten Nights in a Barroom</title>. Barbara wrote the music for this production, and also included various additions and revisions to the script. Her principal role was that of Mary Wilson, the play's heroine, while Anthony generally played the villain of the piece and also became the show's producer. The show ran in San Francisco throughout the war years and then was taken on the road throughout California and the West. It was an unqualified success breaking records in many cities for the number of weeks that it ran. Advertisers billed it as a "3 Hour Laff Riot", and the performers played up the melodrama, actively encouraging audience participation. Even the advertisements urged viewers to "Hiss the Villain!" In addition, sandwiches, snacks, and beer were often served at performances. An olio of various vaudeville and burlesque skits accompanied the main production.</p>
+            <p>
+                <title>The Drunkard's</title> popularity had dimmed by the 1960's, but Anthony remained in show business and performed frequent stints as the straight man in comedy acts. Barbara would occasionally sell tickets at whichever theatre Tony was performing, but had primarily returned to her writing. The couple officially retired in the 1970's and moved to a small cottage in rural Cazadero, California where they lived until their deaths. Anthony LoCicero died May 9, 1987 and Barbara Bogart on Oct 21 of the same year.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>These papers consist primarily of photos, burlesque skits, clippings, programs, drawings, and correspondence. The material ranges in date from LoCicero and Bogart's early days with "The Drunkard" in 1946 to their retirement in the 1970's. Items in the collection include both material generated from their years starring in "The Drunkard" (clippings, programs, etc.) and material collected by Anthony LoCicero pertaining to burlesque in general (skits, photos, articles.) Although small, the collection offers a rare look into the world of burlesque theatre, during its heyday and through its' declining years.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were gift of Sewall Bogart in 1993.</p>
+        </acqinfo>
+        <odd id="ref116">
+            <head>Previous Citation</head>
+            <p>Barbara Bogart and Anthony LoCicero Papers, 1946-1970, CTC.1993.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Barbara Bogart and Anthony LoCicero Papers, 1946-1970, CTC.28, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Barbara Bogart and Anthony LoCicero Papers, 1946-1970, CTC.1993.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>This collection was processed by David Sleasman.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in November 2004 and by Charles Stanford on March 31, 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 4637583.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="local">Bogart, Barbara, 1908-1987</persname>
+            <persname rules="aacr" source="local">LoCicero, Anthony</persname>
+            <subject source="lcsh">Actors and actresses</subject>
+            <subject source="lcsh">Burlesque (Theater) -- United States</subject>
+            <subject source="lcsh">Burlesques</subject>
+            <subject source="lcsh">Dramatists</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- California -- San Francisco</subject>
+            <subject source="lcsh">Vaudeville -- United States</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref58">
+                    <head>Scope and Contents note</head>
+                    <p>Series I contains three categories of photographs. The first category contains autographed photographs of burlesque performers. The second group contains theatre marquee photos. The final grouping contains unautographed and unidentified photos. Each group of photos are in alphabetical order.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Angel, Cindy</unittitle>
+                        <container id="cid114939" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid114939" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Bell, Virginia</unittitle>
+                        <container id="cid114938" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Bits of Nonsense</unittitle>
+                        <container id="cid114937" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Briston, Ginger</unittitle>
+                        <container id="cid114936" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Darnell, Sherry</unittitle>
+                        <container id="cid114935" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Dawn, Gay</unittitle>
+                        <container id="cid114934" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>DeeAnn</unittitle>
+                        <container id="cid114933" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>DelRey, Dolores</unittitle>
+                        <container id="cid114932" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Domay</unittitle>
+                        <container id="cid114931" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>DuBois, Lotus</unittitle>
+                        <container id="cid114930" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Knight, Sharon</unittitle>
+                        <container id="cid114929" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Kolb, Ray R.</unittitle>
+                        <container id="cid114928" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>LaFemme, Lori</unittitle>
+                        <container id="cid114927" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Long, Brandy</unittitle>
+                        <container id="cid114926" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Martin, Maxine</unittitle>
+                        <container id="cid114925" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Manville, Anita</unittitle>
+                        <container id="cid114924" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Marvou</unittitle>
+                        <container id="cid114923" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Milo, Anita</unittitle>
+                        <container id="cid114922" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Powell, Pepper</unittitle>
+                        <container id="cid114921" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Ravell, Rita</unittitle>
+                        <container id="cid114920" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Red, T.N.T.</unittitle>
+                        <container id="cid114919" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Rose, Hermie</unittitle>
+                        <container id="cid114918" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Satana, Tura</unittitle>
+                        <container id="cid114917" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Simone</unittitle>
+                        <container id="cid114916" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>St. Cyr, Lili</unittitle>
+                        <container id="cid114915" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Storm, Tempest</unittitle>
+                        <container id="cid114914" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Waggin, Patti (2)</unittitle>
+                        <container id="cid114913" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Winds, Gail</unittitle>
+                        <container id="cid114912" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Yvette, Yvonne</unittitle>
+                        <container id="cid114911" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Unidentified (6)</unittitle>
+                        <container id="cid114910" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Babcock Theatre, Helena MT</unittitle>
+                        <container id="cid114909" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Century Theatre, Oakland CA (2)</unittitle>
+                        <container id="cid114908" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Metropolitan Theatre, Seattle WA</unittitle>
+                        <container id="cid114907" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Montana Theatre, Butte MT</unittitle>
+                        <container id="cid114906" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Orpheum Theatre, Pocatella ID (2)</unittitle>
+                        <container id="cid114905" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Paramount Theatre, Billings MT</unittitle>
+                        <container id="cid114904" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Strand Theatre, location unknown</unittitle>
+                        <container id="cid114903" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Temple Theatre, Tacoma WA</unittitle>
+                        <container id="cid114902" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Wilma Theatre, Missoula MT</unittitle>
+                        <container id="cid114901" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Bird, Billie</unittitle>
+                        <container id="cid114900" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Bogart, Barbara LoCicero, Anthony (26)</unittitle>
+                        <container id="cid114899" type="Folder" label="Mixed materials">41</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Dowton, Bill</unittitle>
+                        <container id="cid114898" type="Folder" label="Mixed materials">42</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Fritcher,Charlie</unittitle>
+                        <container id="cid114897" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Gordon, Phyllis</unittitle>
+                        <container id="cid114896" type="Folder" label="Mixed materials">44</container>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>King, Higgy</unittitle>
+                        <container id="cid114895" type="Folder" label="Mixed materials">45</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Little, Jack Falls</unittitle>
+                        <container id="cid114894" type="Folder" label="Mixed materials">46</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Unidentified (10)</unittitle>
+                        <container id="cid114893" type="Folder" label="Mixed materials">47</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref59" level="series">
+                <did>
+                    <unittitle>Burlesque Skits</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Contents note</head>
+                    <p>This series consists of short burlesque skits. These are typescripts of short comedic scenes that may or may not have been performed in burlesque productions. All skits are preservation photocopies. To use the original materials please contact the Curator of the Curtis Theatre Collection.</p>
+                </scopecontent>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>"Audience Bit"</unittitle>
+                        <container id="cid114892" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid114892" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>"Audience Bit" version 2"</unittitle>
+                        <container id="cid114891" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>"Bartender Address"</unittitle>
+                        <container id="cid114890" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>"Carrie Potts, The Chamber Maid"</unittitle>
+                        <container id="cid114889" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>"Carrie Potts.." version 2</unittitle>
+                        <container id="cid114888" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>"Haunted House"</unittitle>
+                        <container id="cid114887" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>"Lady Barber"</unittitle>
+                        <container id="cid114886" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>"Lady Barber" version 2</unittitle>
+                        <container id="cid114885" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>"Park the Car"</unittitle>
+                        <container id="cid114884" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>"Prickly Heat"</unittitle>
+                        <container id="cid114883" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>"Pullman Train"</unittitle>
+                        <container id="cid114882" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>"Ten Times Smarter"</unittitle>
+                        <container id="cid114881" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>"Three Wishes (Potato Masher)"</unittitle>
+                        <container id="cid114880" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>"Traffic Cop"</unittitle>
+                        <container id="cid114879" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>"Trolley Car, The"</unittitle>
+                        <container id="cid114878" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>"Undertaker Parlor"</unittitle>
+                        <container id="cid114877" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Bound Volume of 119 skits</unittitle>
+                        <container id="cid114876" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref78" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref89">
+                    <head>Scope and Contents note</head>
+                    <p>The Correspondence file is arranged alphabetically by correspondent. These letters and telegrams are from the friends and business associates of Barbara Bogart and Anthony LoCicero. The subject matter of the letters includes information about booking and planning of productions to reminiscing with old friends who were also involved with burlesque theatre.</p>
+                </scopecontent>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>16th St. Follies, contract</unittitle>
+                        <container id="cid114875" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>American Guild of Variety Artists</unittitle>
+                        <container id="cid114874" type="Folder" label="Mixed materials">19-20</container>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Berge, James MD</unittitle>
+                        <container id="cid114873" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Bryan Engel Circuit, contract</unittitle>
+                        <container id="cid114872" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Davenport, Del</unittitle>
+                        <container id="cid114871" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Film Art Corporation, contract</unittitle>
+                        <container id="cid114870" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Jess Mack Agency</unittitle>
+                        <container id="cid114869" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Kolb, Ray R.</unittitle>
+                        <container id="cid114868" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Manlove, Dudley</unittitle>
+                        <container id="cid114867" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Martin, Gerry</unittitle>
+                        <container id="cid114866" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref90" level="series">
+                <did>
+                    <unittitle>General Burlesque Theatre Materials</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref101">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains several burlesque theatre magazines, programs, and other ephemeral material.</p>
+                </scopecontent>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Pay Receipts</unittitle>
+                        <container id="cid114865" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Burlesque show scene lists,</unittitle>
+                        <container id="cid114864" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1967-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Night They Raided Minsky's</title>,</unittitle>
+                        <container id="cid114863" type="Folder" label="Mixed materials">31</container>
+                        <unitdate>1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Calvalcade of Burlesque</title>, v.1, no.2.,</unittitle>
+                        <container id="cid114862" type="Folder" label="Mixed materials">32</container>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>
+                            <title>A Pictorial History of Burlesque From A to Z</title>,</unittitle>
+                        <container id="cid114861" type="Folder" label="Mixed materials">33</container>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Program: "Marla Wyman in Person"</unittitle>
+                        <container id="cid114860" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Theatrical Variety Showcase</title> v.1, no.3. April,</unittitle>
+                        <container id="cid114859" type="Folder" label="Mixed materials">35</container>
+                        <unitdate>1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Seattle</title> vol.3, no.32. Nov.,</unittitle>
+                        <container id="cid114858" type="Folder" label="Mixed materials">36</container>
+                        <unitdate>1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Love and Peace. Lysistrata</title> adaptation by A. LoCicero</unittitle>
+                        <container id="cid114857" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>American Guild of Variety Artists convention program,</unittitle>
+                        <container id="cid114856" type="Folder" label="Mixed materials">38</container>
+                        <unitdate>1965</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref102" level="series">
+                <did>
+                    <unittitle>
+                        <title>The Drunkard</title> Materials</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref108">
+                    <head>Scope and Contents note</head>
+                    <p>The materials in this series document the production of 
+                        <title>The Drunkard</title> that Barbara Bogart and Anthony LoCicero performed in for many years all over the country. All scrapbooks and clippings are preservation photocopies. To use the original materials please contact the Curator of the Curtis Theatre Collection.</p>
+                </scopecontent>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Scrapbook 1</unittitle>
+                        <container id="cid114855" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid114855" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Scrapbook 2</unittitle>
+                        <container id="cid114854" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Misc. newspaper clippings</unittitle>
+                        <container id="cid114853" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Programs</unittitle>
+                        <container id="cid114852" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Music score</unittitle>
+                        <container id="cid114851" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref109" level="series">
+                <did>
+                    <unittitle>Oversize Materials</unittitle>
+                    <unitid>VI.</unitid>
+                </did>
+                <scopecontent id="ref114">
+                    <head>Scope and Contents note</head>
+                    <p>Series VI is made up of oversized illustrations and photographs.</p>
+                </scopecontent>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Pastel caricature of A. LoCicero</unittitle>
+                        <container id="cid114850" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Pen and ink drawing of A. LoCicero,</unittitle>
+                        <container id="cid114849" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Photo of Bogart and LoCicero from 
+                            <title>The Drunkard</title></unittitle>
+                        <container id="cid114848" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Photo of B. Bogart</unittitle>
+                        <container id="cid114847" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Papers of the McHugh family, 1909-1930</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>McHugh family papers, 1909-1930</title>
+  </titleInfo>
+  <name type="family" usage="primary">
+    <namePart>McHugh family.</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1909-1930.</dateOther>
+    <dateIssued encoding="marc" point="start">1909</dateIssued>
+    <dateIssued encoding="marc" point="end">1930</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft.">1</extent>
+  </physicalDescription>
+  <abstract type="Scope and content">Materials in the McHugh family collection chiefly represent Frank McHugh's early theater days. Frank McHugh's scrapbook contains clippings and programs from McHugh family performances 1917-1920. Also in the collection are twenty-two daily planners that belonged to Frank. These date from 1909-1930, and trace Frank's travels around the country with his family and with touring companies. The earliest of these are particularly interesting because Frank would have been only eleven years old at the time of their writing. Of chief interest in the collection are Ed McHugh's memoirs, which were discovered then researched, edited and published by family members. The memoirs, given the title Human Hearts: Episodes in the Life of the McHugh Theatrical Family, chronicle the entire family history and give a remarkable insight into theater life.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Papers of the McHugh Family, 1909-1930, CTC.2001.01, Curtis Theatre Collection, Special Collections Dept., University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Patricia McHugh, 2001.</note>
+  <note type="biographical/historical">The McHugh family were well-known performers in Pittsburgh theater in the early years of the twentieth century, and several family members went on to successes elsewhere. Originally from the Connellsville, PA area, family patriarch Aristide "Cutie" McHugh (who went by the stage name Edward A. McHugh) moved his family to Homestead, Pa. just outside of Pittsburgh in 1897. Cutie was best known for his comedic roles, especially the role of the tramp in the popular melodrama Human Hearts. He was to play this role regularly in touring productions for seventeen years beginning in 1896. Shortly after moving to Homestead, the elder McHugh enlisted the rest of his family into show business, finding parts for his wife and children in the cast of Human Hearts. During the many periods when the family could not find theater work, the older sons and sometimes Cutie worked in the steel mills. In 1910, some of the family joined the popular Harry Davis Stock Company in Pittsburgh. Ed McHugh, one of the older sons, became a stage manager with the company. Other family members joined travelling stock companies and toured the West and Midwest. In 1921 Ed got a job stage managing on Broadway and continued working there for the remainder of his career. During this time he worked on productions with Ethel Barrymore, Eva LeGallienne, Spencer Tracy, Humphrey Bogart, and many others. Meanwhile, in the 1930s, younger brother Frank McHugh signed a film contract and worked steadily in Hollywood, appearing in many films and, later, television programs. He made several films with James Cagney, and also starred with Errol Fynn, Olivia deHaviland, and Humphrey Bogart, to name a few. Shortly after beginning his film career, Frank moved his parents to Los Angeles. Several of the other siblings remained active in the theater, and almost the whole family were active participants in the USO tours and programs during WWII.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc200101">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc200101</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>McHugh family</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>McHugh, Edward A</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">Jr</namePart>
+      <namePart>McHugh, Edward A</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>McHugh, Frank</namePart>
+      <namePart type="date">1899-1981</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Entertainers</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theatrical companies</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Vaudeville</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm65517103</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc200101</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">060405</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131835.0</recordChangeDate>
+    <recordIdentifier>4640476</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc200101</identifier></mods>

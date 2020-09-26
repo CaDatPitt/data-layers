@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Peter Gregg papers, 1937-1995</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Gregg papers, 1937-1995</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Papers of Peter Gregg, 1937-1995</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Gregg, Peter.</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Correspondence.</genre>
+  <genre authority="aat">Legal documents.</genre>
+  <genre authority="aat">Personal papers.</genre>
+  <genre authority="aat">Photographs.</genre>
+  <genre authority="aat">Reviews (Document genre).</genre>
+  <genre authority="aat">Scripts (Documents).</genre>
+  <genre authority="aat">Scrapbooks.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1937-1995.</dateOther>
+    <dateIssued encoding="marc" point="start">1937</dateIssued>
+    <dateIssued encoding="marc" point="end">1995</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft.">3.0</extent>
+    <note type="arrangement">Organized into 4 series: I. Play Scripts and Plot Synopses; II. Correspondence, 1946-1995; III. Book Reviews, 1961-1974; IV. Legal Documents and Miscellaneous Memorabilia.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">This collection contains the papers of actor and playwright Peter Gregg. It includes play scripts, correspondence, book reviews, photographs, and a scrapbook. Also included are a sampling of Mr. Gregg's business contracts and copyrights. The materials date from the 1930s through the 1990s.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Peter Gregg Papers, 1937-1995, CTC.1979.01, Curtis Theatre Collection, ULS Special Collections Department, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Peter Gregg in 1979; additional materials were donated in 1982.</note>
+  <note type="biographical/historical">Playwright and former actor, Peter Gregg, born Joseph Peter Crocco, is a native of western Pennsylvania. He began his theatrical career at the Carnegie Institute of Technology, where he was enrolled in the Drama Department from 1934 to 1937. Mr. Gregg moved to New York in 1937 and won his first professional part a year later in Cry for Passion, an off-Broadway production. He continued to work off-Broadway for the next few years, both as an actor and stage manager. In 1941, he earned a part in the successful Broadway play The Doughgirls, produced by Max Gordon and George S. Kaufman, and he later served as a stage manager, director, and actor in The Doughgirls touring company. After World War II, Mr. Gregg returned to the New York stage, and for the next nine years, he worked in theater, radio, and films. He gave up his pursuit of an acting career in 1954 when he returned to Pittsburgh. Mr. Gregg wrote his first play, Sweet Delirium, in 1946. It was seriously considered for production by Forest Haring but was eventually dropped. Some years later, Mr. Gregg sold another play to Broadway producers, but it was also not produced. He continued to write plays until his death.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197901">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197901</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Gregg, Peter</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Kaufman, George S. (George Simon)</namePart>
+      <namePart type="date">1889-1961</namePart>
+    </name>
+    <genre>Correspondence</genre>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Carnegie Institute of Technology.</namePart>
+      <namePart>Department of Drama.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dramatists</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Actors and actresses</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="aat">
+    <occupation>Playwrights</occupation>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm31111222</identifier>
+  <identifier type="oclc">31111222</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197901</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940914</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131820.0</recordChangeDate>
+    <recordIdentifier>1470403</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc197901</identifier></mods>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc200101</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the McHugh Family Papers, 1909-1930
+                    <num>CTC.2001.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Cheryl Greer.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>April 2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>McHugh Family Papers</unittitle>
+            <unitid>CTC.2001.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1909/1930" type="inclusive">1909-1930</unitdate>
+            <abstract id="ref2" label="Abstract">The McHugh family were well-known performers in Pittsburgh theater in the early years of the twentieth century, and several family members went on to achieve great success elsewhere. This collection contains scrapbook, memoirs, and diaries from members of the McHugh family.</abstract>
+            <origination label="creator">
+                <famname source="naf">McHugh family</famname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>The McHugh family were well-known performers in Pittsburgh theater in the early years of the twentieth century, and several family members went on to achieve great success elsewhere. Originally from the Connellsville, Pennsylvania area, family patriarch Aristide "Cutie" McHugh (who went by the stage name Edward A. McHugh) moved his family to Homestead, Pennsylvania just outside of Pittsburgh in 1897.</p>
+            <p>Cutie was best known for his comedic roles, especially the role of the tramp in the popular melodrama 
+                <title>Human Hearts</title>. Beginning in 1896, he regularly performed in this role for seventeen years in touring productions. Shortly after moving to Homestead, the elder McHugh enlisted the rest of his family into show business, finding parts for his wife and children in the cast of 
+                <title>Human Hearts</title>. During the many periods when the family could not find theater work, the older sons and sometimes Cutie worked in the steel mills.</p>
+            <p>In 1910, some of the family joined the popular Harry Davis Stock Company in Pittsburgh. Ed McHugh, one of the older sons, became a stage manager with the company. Other family members joined travelling stock companies and toured the West and Midwest.</p>
+            <p>In 1921 Ed got a job stage managing on Broadway and continued working there for the remainder of his career. During this time he worked on productions with Ethel Barrymore, Eva LeGallienne, Spencer Tracy, Humphrey Bogart, and many others. Meanwhile, in the 1930's, younger brother Frank McHugh signed a film contract and worked steadily in Hollywood, appearing in many films and, later, television programs. He made several films with James Cagney, and also starred with Errol Fynn, Olivia deHaviland, and Humphrey Bogart, to name a few. Shortly after beginning his film career, Frank moved his parents to Los Angeles. Several of the other siblings remained active in the theater, and almost the whole family were active participants in the USO tours and programs during World War II.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>Materials in the McHugh family collection chiefly represent Frank McHugh's early theater days. Frank McHugh's scrapbook contains clippings and programs from McHugh family performances from 1917-1920. Also in the collection are twenty-two daily planners that belonged to Frank. These date from 1909-1930, and document Frank's travels around the country with his family and with touring companies. The earliest of these are particularly interesting because Frank would have been only eleven years old at the time of their writing. Of chief interest in the collection are Ed McHugh's memoirs, which were discovered then researched, edited and published by family members. The memoirs, given the title 
+                <title>Human Hearts: Episodes in the Life of the McHugh Theatrical Family</title>, chronicle the entire family history and give a remarkable insight into theater life.</p>
+            <p>This collection would be of great value to any researcher interested in vaudeville and Western Pennsylvania theater history.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were a gift of Patricia McHugh in 2001.</p>
+        </acqinfo>
+        <odd id="ref19">
+            <head>Previous Citation</head>
+            <p>McHugh Family Papers, 1909-1930, CTC.2001.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>McHugh Family Papers, 1909-1930, CTC.30, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>McHugh Family Papers, 1909-1930, CTC.2001.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Cheryl Greer in 2001. Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in November 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 4640476.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <famname source="naf">McHugh family</famname>
+            <persname rules="aacr" source="local">McHugh, Edward A., Jr.</persname>
+            <persname rules="aacr" source="local">McHugh, Edward A.</persname>
+            <persname source="naf">McHugh, Frank, 1899-1981</persname>
+            <subject source="lcsh">Entertainers -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Theatrical companies -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Vaudeville -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>
+                        <title>Human Hearts: Episodes in the Life of the McHugh Theatrical Family</title>, by Edward A. McHugh Jr.</unittitle>
+                    <container id="cid115009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid115009" type="Folder">1</container>
+                </did>
+            </c01>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>Scrapbook,</unittitle>
+                    <container id="cid115008" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1917-1920</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>Datebooks,</unittitle>
+                    <container id="cid566003" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1909-1913</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Datebooks,</unittitle>
+                    <container id="cid566001" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1914-1917</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Datebooks,</unittitle>
+                    <container id="cid566002" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1918-1920</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>Datebooks,</unittitle>
+                    <container id="cid566004" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1921-1924</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Datebooks,</unittitle>
+                    <container id="cid566005" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1925-1927</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Datebooks,</unittitle>
+                    <container id="cid566006" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1928-1930</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

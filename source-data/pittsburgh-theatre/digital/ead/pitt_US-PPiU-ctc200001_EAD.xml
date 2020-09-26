@@ -1,0 +1,2371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc200001</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Fulton Theater Records, 1934-1963
+                    <num>CTC.2000.01</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>2005-2006</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fulton Theater Records</unittitle>
+            <unitid>CTC.2000.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>19.5 linear feet</extent>
+                <extent>(43 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1934/1963" type="inclusive">1934-1963</unitdate>
+            <abstract id="ref2" label="Abstract">The Fulton Theater showed major motion pictures and operated in downtown Pittsburgh during the 1930's through the 1980's. The materials in this collection consist of operational and business files that contain financial reports, promotional materials, ledgers, correspondence, box office reports, and other materials related to the operation of the theater.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Fulton Theater (Pittsburgh, Pa.).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>The Fulton Theater was located in Pittsburgh on the corner of Sixth Street and Fort Duquesne Boulevard from 1930's-1995. The theater was originally called the Gayety Theater. Built in 1903, it ran for thirty years as one of Pittsburgh's foremost stage and vaudeville houses. In the 1930's, the theater was renamed the Fulton and became a full time motion picture theater. The theater was purchased by the Pittsburgh Cultural Trust in 1990 and the Fulton was renovated and reopened in 1991. It was later renamed the Byham Theater through a naming right from the Byham family in 1995. The Fulton neon sign that had been displayed above the theater has been restored by the State Museum of Pennsylvania in Harrisburg and is installed there as part of a theater exhibit.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains the records of the Fulton Theater during the years of 1934-1963, but the majority of the collection dates from 1938-1951. The correspondence and motion picture files make up the majority of the collection. Films that are particularly well documented are Disney's 
+                <title render="italic">Fantasia</title>, 
+                <title render="italic">Lawrence of Arabia</title>, and 
+                <title render="italic">The Best Years of Our Lives</title>. Separate statistics for tickets sold and labor hours were kept during the film runs at the Fulton. Fastasia payroll information is located with the other payroll information in Series II and the statistics for the film ticket sales are kept with the box office statements in Series III. The collection has been arranged into the following series. Additional scope and content notes are available at the series level.</p>
+        </scopecontent>
+        <arrangement id="ref5">
+            <head>Arrangement</head>
+            <p>Series I. Correspondence, 1938-1951</p>
+            <p>Series II. Theater Operations, 1934-1951</p>
+            <p>Series III. Film Companies and Box Office records, 1930-1963</p>
+            <p>Series IV. Movie Files and Promotional Materials, 1944-1963</p>
+        </arrangement>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>The collection was gifted to the University of Pittsburgh in two parts. In 1968, the first materials were given to the Archives Service Center. The Pittsburgh Cultural Trust donated more materials in May of 2000. The Archives Service Center transferred the Fulton records that were in their possession to the Ford E. and Harriet R. Curtis Theatre Collection in 2005.</p>
+        </acqinfo>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>Fulton Theater Records, 1934-1963, CTC.2000.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref9">
+            <head>Previous Citation</head>
+            <p>Fulton Theater Records, 1934-1963, CTC.2000.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Fulton Theater Records, 1934-1963, CTC.35, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Records of the Fulton Theater, 1962-1963, AIS 68:6a, Archives Service Center, University of Pittsburgh</p>
+        </odd>
+        <processinfo id="ref10">
+            <head>Processing Information note</head>
+            <p>This collection was processed by William Daw in 2005-2006.</p>
+        </processinfo>
+        <userestrict id="ref11">
+            <head>Copyright</head>
+            <p>Property rights reside with the University of Pittsburgh. For information about permission to reproduce or publish, please contact the Special Collections Department.</p>
+        </userestrict>
+        <relatedmaterial id="ref12">
+            <head>Related Material</head>
+            <p>Records of the Penn Theater, Pittsburgh, PA., 1927-1964, AIS.1968.06, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Fulton Theater Scrapbook, 1940-1943, Scrapbook Collection, Curtis Theatre Collection, University of Pittsburgh</p>
+        </relatedmaterial>
+        <separatedmaterial id="ref13">
+            <head>Separated Material</head>
+            <p>Items related to the Penn Theater or other Shea chain theatres have been removed from this collection. The Penn materials have been added to the Records of the Penn Theater. The other Shea materials might be assembled into their own smaller collection.</p>
+        </separatedmaterial>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Fulton Theater (Pittsburgh, Pa.).</corpname>
+            <corpname source="naf">Pittsburgh Cultural Trust.</corpname>
+            <subject source="lcsh">Amusements -- Pennsylvania -- Pittsburgh</subject>
+            <geogname source="lcsh">Byham Theater (Pittsburgh, Pa.)</geogname>
+            <geogname source="lcsh">Pittsburgh (Pa.) -- Social life and customs</geogname>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theaters -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1938-1951</unitdate>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>The correspondence of the Fulton Theater records contains letters and memos that help illustrate its day to day activities, operations, and business dealings with local advertisers, national film companies, competing movie houses, and other entities. The series has been arrainged into three parts. The first part contains internal correspondence and the second features external correspondence. The final part contains mass memos which were called "form letters".</p>
+                    <p>Within each part of the internal and external correspondence, the letters are then arranged chronologically. The majority of the internal correspondence is between the theatre managers and other Shea-Chain Inc. or Jamestown Amusement Company personnel. In these documents many business subjects are discussed, such as: staffing decisions, budgeting, and advertising. The external correspondence is between the theatre management and the various film companies with which they conducted business. These letters discuss individual and package film contracts, revenue, and advertising rates. The form letters are usually addressed to "all managers" and contain information that was pertinent to all members of the company. For example, a form letter would be issued to inform managers about a method to advertise a particular film that has been successful in other towns, or, to remind managers of certain procedures that are not being followed.</p>
+                </scopecontent>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115428" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid115428" type="Folder">1-15</container>
+                        <unitdate>1938 - March, 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115427" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid115427" type="Folder">1-10</container>
+                        <unitdate>April, 1942 - 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115426" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid115426" type="Folder">1-10</container>
+                        <unitdate>January, 1944 - 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115425" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid115425" type="Folder">1-12</container>
+                        <unitdate>January, 1946 - June, 1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115424" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid115424" type="Folder">1-10</container>
+                        <unitdate>July, 1948 - December, 1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115423" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid115423" type="Folder">1-13</container>
+                        <unitdate>1950 - May, 1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Best Years of Our Lives</title> A-H,</unittitle>
+                        <container id="cid115414" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid115414" type="Folder">1</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Best Years of Our Lives</title> I-Z,</unittitle>
+                        <container id="cid115422" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Song of Bernadette</title>,</unittitle>
+                        <container id="cid115421" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1938-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid115420" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Telegrams,</unittitle>
+                        <container id="cid115419" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Telegrams,</unittitle>
+                        <container id="cid115418" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1942-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Telegrams,</unittitle>
+                        <container id="cid115417" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1944-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Telegrams,</unittitle>
+                        <container id="cid115416" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1946-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Telegrams,</unittitle>
+                        <container id="cid115415" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1948-1949</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref31" level="series">
+                <did>
+                    <unittitle>Theater Operations,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1934-1951</unitdate>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains employee payroll records and materials, newspaper clippings, tax information, bank books, candy sales reports, invoices and receipts, inspection certificates and licenses, materials related to the sale of war bonds and stamps at the theater, insurance information, and materials related to the Variety Club of Pittsburgh. The invoices and receipts are arranged in alphabetical order by name of company. Next is a small group of reports that show how much candy was sold on a weekly and monthly basis. Next is a series of bills, invoices, and purchase orders that are in an alphabetical arrangement by subject. They illustrate all of the expenses and maintenance necessary to keep the Fulton operating. In box 20 are examples of different types of 3-D glasses used for films at the Fulton. Also in box 20 are several unidentified photographic printing plates that may be images of managers of the Fulton and other Shea chain theaters. Managers of the Fulton and other theatres were members of the Pittsburgh Variety Club; box 20 contains account statements, correspondence, invoices, membership applications and lists dating between 1943 and 1948.</p>
+                </scopecontent>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Payroll information,</unittitle>
+                        <container id="cid115413" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid115413" type="Folder">1-11</container>
+                        <unitdate>1941-1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Payroll information,</unittitle>
+                        <container id="cid115394" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid115394" type="Folder">1-8</container>
+                        <unitdate>1946-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Commonwealth of Pennsylvania, Department of Labor and Industry</unittitle>
+                        <container id="cid115412" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid115412" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Employee certificates,</unittitle>
+                        <container id="cid115411" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1944-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Employer's tax returns,</unittitle>
+                        <container id="cid115410" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1942-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Employment of minors,</unittitle>
+                        <container id="cid115409" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Federal taxes,</unittitle>
+                        <container id="cid115408" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1940-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Housing Authority of the City of Pittsburgh,</unittitle>
+                        <container id="cid115407" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Mercantile tax,</unittitle>
+                        <container id="cid115406" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1948-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>National War Labor Board,</unittitle>
+                        <container id="cid115405" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1943-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid115404" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>no date-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Payroll remittance vouchers</unittitle>
+                        <container id="cid115403" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Payroll stubs and envelopes</unittitle>
+                        <container id="cid115402" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Per capita tax returns,</unittitle>
+                        <container id="cid115401" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>School tax,</unittitle>
+                        <container id="cid115400" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>State Unemployment information,</unittitle>
+                        <container id="cid115399" type="Folder" label="Mixed materials">14-15</container>
+                        <unitdate>1937-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Taxable wages forms</unittitle>
+                        <container id="cid115398" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Timecards</unittitle>
+                        <container id="cid115397" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Withholding and Victory tax,</unittitle>
+                        <container id="cid115396" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Withholding tax,</unittitle>
+                        <container id="cid115395" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1945-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Bank books,</unittitle>
+                        <container id="cid115391" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid115391" type="Item">1</container>
+                        <unitdate>1934-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Weekly record of bills,1943-1946,</unittitle>
+                        <container id="cid115393" type="Item" label="Mixed materials">2</container>
+                        <unitdate>1962-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Deposit slips</unittitle>
+                        <container id="cid115392" type="Item" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Monthly concession reports,</unittitle>
+                        <container id="cid115338" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid115338" type="Folder">1</container>
+                        <unitdate>1940-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Weekly candy stand reports,</unittitle>
+                        <container id="cid115390" type="Folder" label="Mixed materials">3-5</container>
+                        <unitdate>1941-1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>American Society of Composers, Authors, and Publishers</unittitle>
+                        <container id="cid115389" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid115389" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Advertising</unittitle>
+                        <container id="cid115388" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Art and art supplies</unittitle>
+                        <container id="cid115387" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Automobile repair</unittitle>
+                        <container id="cid115386" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Bill posting</unittitle>
+                        <container id="cid115385" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Building / Construction</unittitle>
+                        <container id="cid115384" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Building materials</unittitle>
+                        <container id="cid115383" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Candy</unittitle>
+                        <container id="cid115382" type="Folder" label="Mixed materials">08-09</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Cleaning supplies</unittitle>
+                        <container id="cid115381" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Concessions</unittitle>
+                        <container id="cid115380" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Department stores</unittitle>
+                        <container id="cid115379" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid115379" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Donations and Gratuities</unittitle>
+                        <container id="cid115378" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Electric and Lighting supplies</unittitle>
+                        <container id="cid115377" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Electrical work</unittitle>
+                        <container id="cid115376" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Engraving</unittitle>
+                        <container id="cid115375" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Exterminator</unittitle>
+                        <container id="cid115374" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Fire safety</unittitle>
+                        <container id="cid115373" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Flowers</unittitle>
+                        <container id="cid115372" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Hotels</unittitle>
+                        <container id="cid115371" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Gun club</unittitle>
+                        <container id="cid115370" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Janitor's supplies</unittitle>
+                        <container id="cid115369" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Journal subscriptions</unittitle>
+                        <container id="cid115368" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Laundry and Tailoring</unittitle>
+                        <container id="cid115367" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Legal representation</unittitle>
+                        <container id="cid115366" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Lumber</unittitle>
+                        <container id="cid115365" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Message service and Telegrams</unittitle>
+                        <container id="cid115364" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Moving and Hauling</unittitle>
+                        <container id="cid115363" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Newspaper advertising</unittitle>
+                        <container id="cid115362" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Pittsburgh Post Gazette</title> advertising</unittitle>
+                        <container id="cid115361" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Pittsburgh Press</title> advertising</unittitle>
+                        <container id="cid115360" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">This Week in Pittsburgh</title> advertising</unittitle>
+                        <container id="cid115359" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid115359" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Office supplies and furniture</unittitle>
+                        <container id="cid115358" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Painting</unittitle>
+                        <container id="cid115357" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Phipps Properties-- electric, water, steam bills</unittitle>
+                        <container id="cid115356" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Photography</unittitle>
+                        <container id="cid115355" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Plumbing</unittitle>
+                        <container id="cid115354" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Printing</unittitle>
+                        <container id="cid115353" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Projector</unittitle>
+                        <container id="cid115352" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Radio advertising</unittitle>
+                        <container id="cid115351" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Refrigeration</unittitle>
+                        <container id="cid115350" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Security system</unittitle>
+                        <container id="cid115349" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Services rendered and miscellaneous</unittitle>
+                        <container id="cid115348" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Sign and display work</unittitle>
+                        <container id="cid115347" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Sound equipment</unittitle>
+                        <container id="cid115346" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Telephone</unittitle>
+                        <container id="cid115345" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Theatre Managers Association of Pittsburgh</unittitle>
+                        <container id="cid115344" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Tickets</unittitle>
+                        <container id="cid115343" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Typewriters</unittitle>
+                        <container id="cid115342" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Uniforms</unittitle>
+                        <container id="cid115341" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Upholstery</unittitle>
+                        <container id="cid115340" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Valances</unittitle>
+                        <container id="cid115339" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Manager's expense account,</unittitle>
+                        <container id="cid115327" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid115327" type="Folder">1-9</container>
+                        <unitdate>1941-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>City of Pittsburgh license receipts</unittitle>
+                        <container id="cid115337" type="Box" label="Mixed materials">17</container>
+                        <container parent="cid115337" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Department of Public Safety correspondence</unittitle>
+                        <container id="cid115336" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Department of Public Safety licenses</unittitle>
+                        <container id="cid115335" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Health Inspection certificates</unittitle>
+                        <container id="cid115334" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Other inspection certificates</unittitle>
+                        <container id="cid115333" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Board of Censors</unittitle>
+                        <container id="cid115332" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Sign Maintenance and Inspection Certificates</unittitle>
+                        <container id="cid115331" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>War bond information and account statements</unittitle>
+                        <container id="cid115330" type="Box" label="Mixed materials">18</container>
+                        <container parent="cid115330" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>War bond receipts,</unittitle>
+                        <container id="cid115329" type="Folder" label="Mixed materials">2-5</container>
+                        <unitdate>1942-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>War stamps</unittitle>
+                        <container id="cid115328" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Employee insurance files,</unittitle>
+                        <container id="cid115315" type="Box" label="Mixed materials">19</container>
+                        <container parent="cid115315" type="Folder">1</container>
+                        <unitdate>1930-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Hospital Service Association,</unittitle>
+                        <container id="cid115326" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1941-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Insurance accident reports,</unittitle>
+                        <container id="cid115325" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1937-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>London Guarantee and Accident Company Ltd.,</unittitle>
+                        <container id="cid115324" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>M.J. Callahan Insurance,</unittitle>
+                        <container id="cid115323" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1941-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Massachusetts Bonding and Insurance Company,</unittitle>
+                        <container id="cid115322" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Metropolitan Insurance,</unittitle>
+                        <container id="cid115321" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Traveler's Insurance Company,</unittitle>
+                        <container id="cid115320" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1945-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>3-D glasses</unittitle>
+                        <container id="cid115319" type="Box" label="Mixed materials">20</container>
+                        <container parent="cid115319" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Movie Theater related journals</unittitle>
+                        <container id="cid115318" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Photographic printing plates</unittitle>
+                        <container id="cid115317" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Variety Club materials,</unittitle>
+                        <container id="cid115316" type="Folder" label="Mixed materials">4-12</container>
+                        <unitdate>1943-1948</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref132" level="series">
+                <did>
+                    <unittitle>Film Companies and Box Office records,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1930-1963</unitdate>
+                </did>
+                <scopecontent id="ref133">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains the contracts and receipts from the motion picture studios, film time schedules, hourly ticket reports, examples of tickets and materials related to the tickets themselves, and the box office statements. These records are first arranged alphabetically by motion picture company and then by date. They contain receipts and contracts for the rentals of their films by the Fulton. The time schedules in this series document at exactly what times movies and their opening attractions started and finished for each showing on a particular day. The hourly ticket reports break-up the day by hour and list the amount sold in each price category. The box office statements that are included in this series are a daily record of a particular film title at the Fulton. They list the date, day of the week, title, how many matinee and evening tickets were sold, how many were adult tickets and how many were children. Also, on the statement is the weather and sometimes films that were playing at other theaters in the area.</p>
+                </scopecontent>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Columbia Pictures,</unittitle>
+                        <container id="cid115297" type="Box" label="Mixed materials">21</container>
+                        <container parent="cid115297" type="Folder">1</container>
+                        <unitdate>1941-1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Crown Film,</unittitle>
+                        <container id="cid115314" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1941-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>De Lux Labs, Inc, - "Football This Week"</unittitle>
+                        <container id="cid115313" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Film Classics Inc.,</unittitle>
+                        <container id="cid115312" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1949-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Franklin Film Exchange,</unittitle>
+                        <container id="cid115311" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>International Picture Distributing Company Inc.,</unittitle>
+                        <container id="cid115310" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Lux Film Distributing Company,</unittitle>
+                        <container id="cid115309" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Monarch,</unittitle>
+                        <container id="cid115308" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>MGM,</unittitle>
+                        <container id="cid115307" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1941-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>National Screen Service,</unittitle>
+                        <container id="cid115306" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1941-1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Paramount,</unittitle>
+                        <container id="cid115305" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1942-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Producer's Releasing Corp.,</unittitle>
+                        <container id="cid115304" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>RKO,</unittitle>
+                        <container id="cid115303" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1940-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Release Charts,</unittitle>
+                        <container id="cid115302" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Republic Pictures,</unittitle>
+                        <container id="cid115301" type="Folder" label="Mixed materials">15-16</container>
+                        <unitdate>1942-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Select Attractions,</unittitle>
+                        <container id="cid115300" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Short Subject Playoffs,</unittitle>
+                        <container id="cid115299" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1946-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>20th Century Fox,</unittitle>
+                        <container id="cid115298" type="Folder" label="Mixed materials">19-21</container>
+                        <unitdate>1939-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>20th Century Fox,</unittitle>
+                        <container id="cid115295" type="Box" label="Mixed materials">22</container>
+                        <container parent="cid115295" type="Folder">1-2</container>
+                        <unitdate>1945-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Universal,</unittitle>
+                        <container id="cid115296" type="Folder" label="Mixed materials">3-7</container>
+                        <unitdate>1938-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Universal,</unittitle>
+                        <container id="cid115292" type="Box" label="Mixed materials">23</container>
+                        <container parent="cid115292" type="Folder">1-4</container>
+                        <unitdate>1946-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>United Artists,</unittitle>
+                        <container id="cid115294" type="Folder" label="Mixed materials">5-6</container>
+                        <unitdate>1940, 1942-1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Vitagraph / Warner Bros.,</unittitle>
+                        <container id="cid115293" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1941-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Time schedules,</unittitle>
+                        <container id="cid115291" type="Box" label="Mixed materials">24</container>
+                        <container parent="cid115291" type="Folder">1-6</container>
+                        <unitdate>1938, 1942, 1945, 1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Hourly ticket reports,</unittitle>
+                        <container id="cid115290" type="Box" label="Mixed materials">25</container>
+                        <container parent="cid115290" type="Folder">1-4</container>
+                        <unitdate>1934 - 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Hourly ticket reports,</unittitle>
+                        <container id="cid115289" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid115289" type="Folder">1-4</container>
+                        <unitdate>1937 - 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Hourly ticket reports,</unittitle>
+                        <container id="cid115281" type="Box" label="Mixed materials">27</container>
+                        <container parent="cid115281" type="Folder">1-6</container>
+                        <unitdate>1940 - 1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Tickets</unittitle>
+                        <container id="cid115288" type="Box" label="Mixed materials">28</container>
+                        <container parent="cid115288" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Ticket refunds</unittitle>
+                        <container id="cid115287" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Price lists</unittitle>
+                        <container id="cid115286" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Schedules</unittitle>
+                        <container id="cid115285" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Service charges</unittitle>
+                        <container id="cid115284" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115283" type="Box" label="Mixed materials">29</container>
+                        <container parent="cid115283" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115282" type="Folder" label="Mixed materials">2-6</container>
+                        <unitdate>1930 - 1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115280" type="Box" label="Mixed materials">30</container>
+                        <container parent="cid115280" type="Folder">1-5</container>
+                        <unitdate>1934 -1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115279" type="Box" label="Mixed materials">31</container>
+                        <container parent="cid115279" type="Folder">1-4</container>
+                        <unitdate>1938 - 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115278" type="Box" label="Mixed materials">32</container>
+                        <container parent="cid115278" type="Folder">1-3</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Box Office statements, 
+                            <title ns2:type="simple" render="italic">Fantasia</title>,</unittitle>
+                        <container id="cid115276" type="Box" label="Mixed materials">33</container>
+                        <container parent="cid115276" type="Folder">1</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115277" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>Jan.-April, 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Box Office statements,</unittitle>
+                        <container id="cid115272" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid115272" type="Folder">1-3</container>
+                        <unitdate>May, 1941 - 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Box Office statements, 1942 - 1943</unittitle>
+                        <container id="cid115275" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid115275" type="Folder">1-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Box Office statements, 1943 - 1948</unittitle>
+                        <container id="cid115274" type="Box" label="Mixed materials">36</container>
+                        <container parent="cid115274" type="Folder">1-5</container>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Box Office statements, 1962 - 1963</unittitle>
+                        <container id="cid115273" type="Box" label="Mixed materials">37</container>
+                        <container parent="cid115273" type="Folder">1-5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref177" level="series">
+                <did>
+                    <unittitle>Movie Files and Promotional Materials,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1944-1963</unitdate>
+                </did>
+                <scopecontent id="ref178">
+                    <head>Scope and Contents note</head>
+                    <p>These files are arranged alphabetically by film title. These files represent most, but probably not all, of the films that were shown at the Fulton during the 1940's. They contain bills for advertisements in local newspapers, radio spots, etc. They also contain proof copies of the engraving advertisements that would appear in the newspapers. Box 43 contains press releases, synopsis, and other promotional materials for films that were featured at the Fulton.</p>
+                </scopecontent>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Abandoned</title>,</unittitle>
+                        <container id="cid115253" type="Box" label="Mixed materials">38</container>
+                        <container parent="cid115253" type="Folder">1</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Abbot and Costello Meet Frankenstein</title>, Universal,</unittitle>
+                        <container id="cid115271" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Abbot and Costello Meet the Killers</title>, Universal,</unittitle>
+                        <container id="cid115270" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">All My Sons</title>, Universal,</unittitle>
+                        <container id="cid115269" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Angel and the Bad Man</title>, Republic,</unittitle>
+                        <container id="cid115268" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Anna and the King of Siam</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115267" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Another Part of the Forest</title>, Universal,</unittitle>
+                        <container id="cid115266" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Apartment for Peggy</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115265" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Are You with It, Universal</title>,</unittitle>
+                        <container id="cid115264" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Belle Starr</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115263" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Belle Starr's Daughter</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115262" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">A Bell for Adono</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115261" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Best Years of Our Lives</title>, MGM and RKO,</unittitle>
+                        <container id="cid115260" type="Folder" label="Mixed materials">13-15</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Bill and Coo</title>, Republic,</unittitle>
+                        <container id="cid115259" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Bishop's Wife</title>, RKO,</unittitle>
+                        <container id="cid115258" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Black Gold</title>, Monogram,</unittitle>
+                        <container id="cid115257" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Blithe Spirit</title>, United Artists,</unittitle>
+                        <container id="cid115256" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Boomerang</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115255" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Brasher Boubloon</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115254" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Brute Force</title>, Universal,</unittitle>
+                        <container id="cid115222" type="Box" label="Mixed materials">39</container>
+                        <container parent="cid115222" type="Folder">1</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Calamity Jane and Samm Bass</title>, Universal,</unittitle>
+                        <container id="cid115252" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Canyon Passage</title>, Universal,</unittitle>
+                        <container id="cid115251" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Captain from Castille</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115250" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Christopher Columbus</title>, Republic,</unittitle>
+                        <container id="cid115249" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Climax</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115248" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Cobra Woman</title>, Universal,</unittitle>
+                        <container id="cid115247" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Countess of Monte Cristo</title>, Universal,</unittitle>
+                        <container id="cid115246" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Criss Cross</title>, Universal,</unittitle>
+                        <container id="cid115245" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Cry of the City</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115244" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Daisy Kenyon</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115243" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Dakota</title>, Republic,</unittitle>
+                        <container id="cid115242" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Daltons Ride Again</title>, Universal,</unittitle>
+                        <container id="cid115241" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Dark Corner</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115240" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Dark Mirror</title>, Universal,</unittitle>
+                        <container id="cid115239" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Dear Murderer and Maneater of Kumnam</title>, Universal,</unittitle>
+                        <container id="cid115238" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Deep Waters</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115237" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Diamond Horseshoe</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115236" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Diary of a Chambermaid</title>, United Artists,</unittitle>
+                        <container id="cid115235" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Doll Face</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115234" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Dolly Sisters</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115233" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Dragonwyck</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115232" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Earl Carroll's Sketchbook</title>, Republic,</unittitle>
+                        <container id="cid115231" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Earl Carroll's Vanities</title>, Republic,</unittitle>
+                        <container id="cid115230" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Egg and I, Universal</title>,</unittitle>
+                        <container id="cid115229" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Enchanted Forest</title>, PRC,</unittitle>
+                        <container id="cid115228" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Enchantment</title>, RKO,</unittitle>
+                        <container id="cid115227" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Fabulous Texan</title>, Republic,</unittitle>
+                        <container id="cid115226" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Father was a Fullback</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115225" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Fighting Kentuckian</title>, Republic,</unittitle>
+                        <container id="cid115224" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Fighting Man</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115223" type="Folder" label="Mixed materials">31</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Flame</title>, Republic,</unittitle>
+                        <container id="cid115190" type="Box" label="Mixed materials">40</container>
+                        <container parent="cid115190" type="Folder">1</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Flame of the Barbary Coast</title>, Republic,</unittitle>
+                        <container id="cid115221" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">For the Love of Many</title>, Universal,</unittitle>
+                        <container id="cid115220" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Frisco Sal</title>, Universal,</unittitle>
+                        <container id="cid115219" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Fury at Furnace Creek</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115218" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Gallant Legion</title>, Republic,</unittitle>
+                        <container id="cid115217" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Gal Who Took West</title>, Universal,</unittitle>
+                        <container id="cid115216" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Great Expectations</title>, Universal,</unittitle>
+                        <container id="cid115215" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Hangover Square</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115214" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Homestretch</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115213" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">House on 92nd Street</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115212" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Imitation of Life and East Side of Heaven</title>, Universal,</unittitle>
+                        <container id="cid115211" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">In Old Sacramento</title>, Republic,</unittitle>
+                        <container id="cid115210" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Iron Curtain</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115209" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">I've Always Loved You</title>, Republic,</unittitle>
+                        <container id="cid115208" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">I Wonder Who's Kissing Her Now</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115207" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">John Dillinger</title>, Monogram,</unittitle>
+                        <container id="cid115206" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Keys of the Kingdom</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115205" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Kid from Brooklyn</title>, RKO,</unittitle>
+                        <container id="cid115204" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Kid from Cleveland</title>, Republic,</unittitle>
+                        <container id="cid115203" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Kiss of Death</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115202" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Lady in Ermine</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115201" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Lady on a Train</title>, Universal,</unittitle>
+                        <container id="cid115200" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Lawrence of Arabia</title>, Columbia,</unittitle>
+                        <container id="cid115199" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Lost Moment</title>, Universal,</unittitle>
+                        <container id="cid115198" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Ma and Pa Kettle</title>, Universal,</unittitle>
+                        <container id="cid115197" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Male War Bride</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115196" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Mark of Zorro</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115195" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Men in Her Diary</title>, Universal,</unittitle>
+                        <container id="cid115194" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Mexican Hayride</title>, Universal,</unittitle>
+                        <container id="cid115193" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Mexicana</title>, Republic,</unittitle>
+                        <container id="cid115192" type="Folder" label="Mixed materials">31</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Mr. Emmanuel</title>, United Artists,</unittitle>
+                        <container id="cid115191" type="Folder" label="Mixed materials">32</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Mr. Peabody and the Mermaid</title>, Universal,</unittitle>
+                        <container id="cid115160" type="Box" label="Mixed materials">41</container>
+                        <container parent="cid115160" type="Folder">1</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Moonrise</title>, Republic,</unittitle>
+                        <container id="cid115189" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Mother is a Freshman</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115188" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">My Darling Clementine</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115187" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">My Pal Trigger and Rendezvous with Annie</title>, Republic,</unittitle>
+                        <container id="cid115186" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Ninotchka</title>, MGM,</unittitle>
+                        <container id="cid115185" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Oh, You Beautiful Doll</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115184" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Once More My Darling</title>, Universal,</unittitle>
+                        <container id="cid115183" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref269" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Outlaw</title>, United Artists,</unittitle>
+                        <container id="cid115182" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref270" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Panhandle</title>, Monogram,</unittitle>
+                        <container id="cid115181" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Pinocchio</title>, Disney,</unittitle>
+                        <container id="cid115180" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref272" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Plunderers</title>, Republic,</unittitle>
+                        <container id="cid115179" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref273" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Pride of the Yankees</title>, RKO,</unittitle>
+                        <container id="cid115178" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref274" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Rebecca</title>, United Artists,</unittitle>
+                        <container id="cid115177" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref275" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Red Canyon</title>, Universal,</unittitle>
+                        <container id="cid115176" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref276" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Red Menace</title>, Republic,</unittitle>
+                        <container id="cid115175" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref277" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Red Pony</title>, Republic,</unittitle>
+                        <container id="cid115174" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref278" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Ride the Pink Horse</title>, Universal,</unittitle>
+                        <container id="cid115173" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref279" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">River Lady</title>, Universal,</unittitle>
+                        <container id="cid115172" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref280" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Rosanna McCoy</title>, RKO,</unittitle>
+                        <container id="cid115171" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref281" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Runaround</title>, Universal,</unittitle>
+                        <container id="cid115170" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref282" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Sand</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115169" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref283" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Sands if Iwo Jima</title>, Republic,</unittitle>
+                        <container id="cid115168" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref284" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Saxon Charm</title>, Universal,</unittitle>
+                        <container id="cid115167" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref285" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Scarlet Street</title>, Universal,</unittitle>
+                        <container id="cid115166" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref286" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Scudda Ho, Scudda Hay! </title>, 20th Century Fox,</unittitle>
+                        <container id="cid115165" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref287" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Secret Behind the Door</title>, Universal,</unittitle>
+                        <container id="cid115164" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref288" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple">Secret Life of Walter Mitty</title>, RKO,</unittitle>
+                        <container id="cid115163" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref289" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Shocking Miss Pilgrim</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115162" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref290" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Smart Woman</title>, Monogram,</unittitle>
+                        <container id="cid115161" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref291" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">So Goes My Love</title>, Universal,</unittitle>
+                        <container id="cid115129" type="Box" label="Mixed materials">42</container>
+                        <container parent="cid115129" type="Folder">1</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref292" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Something in the Wind</title>, Universal,</unittitle>
+                        <container id="cid115159" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref293" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Song is Born</title>, RKO,</unittitle>
+                        <container id="cid115158" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref294" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Song of Bernadette</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115157" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">South Sea Sinner</title>, Universal,</unittitle>
+                        <container id="cid115156" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref296" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Stairway to Heaven</title>, Universal,</unittitle>
+                        <container id="cid115155" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref297" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Street with No Name</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115154" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref298" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Sudan</title>, Universal,</unittitle>
+                        <container id="cid115153" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref299" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple">Sunbonnet Sue</title>, Monogram,</unittitle>
+                        <container id="cid115152" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref300" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Suspect</title>, Universal,</unittitle>
+                        <container id="cid115151" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref301" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Suspense</title>, Monogram,</unittitle>
+                        <container id="cid115150" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref302" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Temptation</title>, Universal,</unittitle>
+                        <container id="cid115149" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref303" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">That Brennan Girl</title>, Republic,</unittitle>
+                        <container id="cid115148" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref304" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">That Night with You</title>, Universal,</unittitle>
+                        <container id="cid115147" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref305" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">That Wonderful Urge</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115146" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref306" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">That's the Spirit</title>, Universal,</unittitle>
+                        <container id="cid115145" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref307" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Thunderhead</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115144" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref308" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Time of their Lives</title>, Universal,</unittitle>
+                        <container id="cid115143" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref309" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">This Love of Ours</title>, Universal,</unittitle>
+                        <container id="cid115142" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref310" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Torrid Zone</title>, Warner Brothers,</unittitle>
+                        <container id="cid115141" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref311" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Undertow</title>, Universal,</unittitle>
+                        <container id="cid115140" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref312" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Wake Up and Dream</title>, 20th Century Fox,</unittitle>
+                        <container id="cid115139" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref313" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Wake of the Red Witch</title>, Republic,</unittitle>
+                        <container id="cid115138" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref314" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Without Honor</title>, United Artists,</unittitle>
+                        <container id="cid115137" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref315" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Wonder Man</title>, RKO,</unittitle>
+                        <container id="cid115136" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref316" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Wyoming</title>, Republic,</unittitle>
+                        <container id="cid115135" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref317" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Young Widow</title>, United Artists, 1946</unittitle>
+                        <container id="cid115134" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref318" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">You're My Everything</title>, 20th Century Fox, 1949</unittitle>
+                        <container id="cid115133" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref319" level="file">
+                    <did>
+                        <unittitle>Film summaries and reviews A-I</unittitle>
+                        <container id="cid115132" type="Box" label="Mixed materials">43</container>
+                        <container parent="cid115132" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref320" level="file">
+                    <did>
+                        <unittitle>Film summaries and reviews J-Z</unittitle>
+                        <container id="cid115131" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Film Service</title> press releases,</unittitle>
+                        <container id="cid115130" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1939-1940</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

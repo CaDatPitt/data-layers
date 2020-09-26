@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc200302</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Adrienne Keriotis Dickos Papers, 1986-1989
+                    <num>CTC.2003.02</num>
+                </titleproper>
+                <author>Finding aid prepared by Christie Graci in August 2010.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>June 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Adrienne Keriotis Dickos Papers</unittitle>
+            <unitid>CTC.2003.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 linear feet</extent>
+                <extent>(4 boxes)</extent>
+            </physdesc>
+            <unitdate>1986-1989</unitdate>
+            <abstract id="ref160" label="Abstract">This collection is comprised of the stage notebooks of Adrienne Keriotis Dickos, documenting plays she managed between 1986 and 1989 for several theater companies in the Pittsburgh area. The binders for each play contain materials such as annotated scripts, contact information for cast and crew members, promotional materials, stage and costume information, and stage diagrams.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Dickos, Adrienne</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Acquisition Information</head>
+            <p>Gift of Adrienne Keriotis Dickos in February 2003.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Adrienne Keriotis Dickos is an accomplished stage manager associated with a number of theatre tours and groups in the Pittsburgh area such as the Three Rivers Shakespeare Festival, the City Theatre Company, the American Ballet Theatre, the Pittsburgh Opera, and the Civic Light Opera, among others. Dickos is a native of Pittsburgh and received her M.A. from the University of Pittsburgh.</p>
+        </bioghist>
+        <prefercite id="ref163">
+            <head>Preferred Citation</head>
+            <p>Adrienne Keriotis Dickos Papers, 1986-1989, CTC.2003.02, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref157">
+            <head>Previous Citation</head>
+            <p>Adrienne Keriotis Dickos Papers, 1986-1989, CTC.2003.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <scopecontent id="ref158">
+            <head>Scope and Content Notes</head>
+            <p>The collection consists of eight stage manager’s books with handwritten notations: three from the Three River’s Shakespeare Festival (TRSF), two from the Pittsburgh Playhouse, two from the Studio Theatre, and one from the South Hills Theatre. The contents of each binder have been filed in their original order.</p>
+        </scopecontent>
+        <arrangement id="ref159">
+            <head>Arrangement</head>
+            <p>The collection is arranged in the following series:</p>
+            <p>Series I. Three Rivers Shakespeare Festival, 1988-1989</p>
+            <p>Series II. Pittsburgh Playhouse, 1989</p>
+            <p>Series III. Studio Theatre at the University of Pittsburgh, 1986</p>
+            <p>Series IV. South Hills Theatre, 1987</p>
+        </arrangement>
+        <processinfo id="ref161">
+            <head>Processing Information</head>
+            <p>This collection was processed by Christie Graci in August 2010.</p>
+        </processinfo>
+        <userestrict id="ref162">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="local">Dickos, Adrienne</persname>
+            <corpname rules="aacr" source="local">Pittsburgh Playhouse. School of the Theater.</corpname>
+            <corpname source="naf">Point Park College.</corpname>
+            <persname source="naf">Shakespeare, William, 1564-1616 -- Stage history -- Pennsylvania -- Pittsburgh</persname>
+            <corpname source="naf">Three Rivers Shakespeare Festival (Pittsburgh, Pa.).</corpname>
+            <corpname rules="rda" source="local">University of Pittsburgh. Department of Theatre Arts.</corpname>
+            <subject source="lcsh">College theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Stage management</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Three Rivers Shakespeare Festival,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1988-1989</unitdate>
+                </did>
+                <scopecontent id="ref6">
+                    <head>Scope and Content Notes</head>
+                    <p>Three stage manager’s books with handwritten notations from the 1989 tour of 
+                        <title render="italic">Hamlet</title>, the July/August 1989 production of 
+                        <title render="italic">Antony and Cleopatra</title>, and the June 1988 production of the 
+                        <title render="italic">Taming of the Shrew</title>.</p>
+                </scopecontent>
+                <c02 id="ref7" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hamlet</title>,</unittitle>
+                        <unitid>1.</unitid>
+                        <unitdate>1989</unitdate>
+                    </did>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Binder Notes and Attachments,</unittitle>
+                            <container id="cid881001" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid881001" type="Folder">1</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Script - Act I,</unittitle>
+                            <container id="cid881002" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Script - Act II,</unittitle>
+                            <container id="cid883054" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Script - Act III,</unittitle>
+                            <container id="cid883055" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Script - Act IV,</unittitle>
+                            <container id="cid883056" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Script - Act V,</unittitle>
+                            <container id="cid883057" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Notes / Memos / Meetings,</unittitle>
+                            <container id="cid883058" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>PR,</unittitle>
+                            <container id="cid883059" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Props,</unittitle>
+                            <container id="cid883060" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Costumes,</unittitle>
+                            <container id="cid883061" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Sets,</unittitle>
+                            <container id="cid883069" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Sound,</unittitle>
+                            <container id="cid883070" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Lights,</unittitle>
+                            <container id="cid883071" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Rehearsal and Performance Reports,</unittitle>
+                            <container id="cid883072" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Contact,</unittitle>
+                            <container id="cid883073" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Company Manual,</unittitle>
+                            <container id="cid883074" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Schedules,</unittitle>
+                            <container id="cid883075" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Blank Forms and Letterhead,</unittitle>
+                            <container id="cid883076" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Copy of Script for Sharon, Pennsylvania,</unittitle>
+                            <container id="cid883077" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Stage Map,</unittitle>
+                            <container id="cid883078" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Run Sheets,</unittitle>
+                            <container id="cid883079" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Tax Exemption Letter,</unittitle>
+                            <container id="cid883080" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref8" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anthony and Cleopatra</title>,</unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>July-August 1989</unitdate>
+                    </did>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Binder Labels and Attachments,</unittitle>
+                            <container id="cid883062" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Schedules,</unittitle>
+                            <container id="cid883063" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Script - Act I,</unittitle>
+                            <container id="cid883064" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Script - Act II,</unittitle>
+                            <container id="cid883065" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>Script - Act III,</unittitle>
+                            <container id="cid883066" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>Script - Act IV,</unittitle>
+                            <container id="cid883067" type="Folder" label="Mixed materials">28</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Script - Act V,</unittitle>
+                            <container id="cid883068" type="Folder" label="Mixed materials">29</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Notes,</unittitle>
+                            <container id="cid883081" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid883081" type="Folder">1</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Meetings and Memos,</unittitle>
+                            <container id="cid883082" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>PR,</unittitle>
+                            <container id="cid883083" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Props,</unittitle>
+                            <container id="cid883084" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Costumes,</unittitle>
+                            <container id="cid883085" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Sets,</unittitle>
+                            <container id="cid883086" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Sound / Lights,</unittitle>
+                            <container id="cid883087" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Rehearsal and Performance Reports,</unittitle>
+                            <container id="cid883088" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Contact,</unittitle>
+                            <container id="cid883089" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Tax Exemption Letter,</unittitle>
+                            <container id="cid883090" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Blank Forms and Letterhead,</unittitle>
+                            <container id="cid883091" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>10th Anniversary Program,</unittitle>
+                            <container id="cid883092" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref9" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Taming of the Shrew</title>,</unittitle>
+                        <unitid>3.</unitid>
+                        <unitdate>June 1988</unitdate>
+                    </did>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Stage Diagrams,</unittitle>
+                            <container id="cid883093" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Script - Act I,</unittitle>
+                            <container id="cid883094" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Script - Act II,</unittitle>
+                            <container id="cid883095" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Script - Act III,</unittitle>
+                            <container id="cid883096" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Script - Act IV,</unittitle>
+                            <container id="cid883097" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Script - Act V,</unittitle>
+                            <container id="cid883098" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Contact,</unittitle>
+                            <container id="cid883099" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Schedules,</unittitle>
+                            <container id="cid883100" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Rehearsal and Performance Reports,</unittitle>
+                            <container id="cid883101" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Memos and Meetings,</unittitle>
+                            <container id="cid883102" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Cue Sheets,</unittitle>
+                            <container id="cid883103" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>PR,</unittitle>
+                            <container id="cid883104" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Tour,</unittitle>
+                            <container id="cid883105" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Company Manual,</unittitle>
+                            <container id="cid883106" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Blank Forms,</unittitle>
+                            <container id="cid883107" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Equity,</unittitle>
+                            <container id="cid883108" type="Folder" label="Mixed materials">28</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Scene / Character Breakdown,</unittitle>
+                            <container id="cid883109" type="Folder" label="Mixed materials">29</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Program,</unittitle>
+                            <container id="cid883110" type="Folder" label="Mixed materials">30</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Stage Diagram,</unittitle>
+                            <container id="cid883111" type="Folder" label="Mixed materials">31</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Recipt for Borrowed Equipment,</unittitle>
+                            <container id="cid883112" type="Folder" label="Mixed materials">32</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Two Gentlemen of Verona Chart,</unittitle>
+                            <container id="cid883113" type="Folder" label="Mixed materials">33</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Pittsburgh Playhouse,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1989</unitdate>
+                </did>
+                <scopecontent id="ref11">
+                    <head>Scope and Content Notes</head>
+                    <p>Two stage manager’s books with handwritten notations from the October/November 1989 production of the 
+                        <title render="italic">Mystery of Edwin Drood</title> and the March 1989 production of 
+                        <title render="italic">Chicago</title>.</p>
+                </scopecontent>
+                <c02 id="ref12" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Mystery of Edwin Drood</title>,</unittitle>
+                        <unitid>1.</unitid>
+                        <unitdate>October-November 1989</unitdate>
+                    </did>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Binder Notes and Attachments,</unittitle>
+                            <container id="cid883114" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Schedules,</unittitle>
+                            <container id="cid883115" type="Folder" label="Mixed materials">35</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>Script Notes,</unittitle>
+                            <container id="cid883116" type="Folder" label="Mixed materials">36</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Script - Prologue,</unittitle>
+                            <container id="cid883117" type="Folder" label="Mixed materials">37</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>Script - Act I,</unittitle>
+                            <container id="cid883118" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid883118" type="Folder">1</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>Script - Act II,</unittitle>
+                            <container id="cid883119" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>APN,</unittitle>
+                            <container id="cid883120" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Contact,</unittitle>
+                            <container id="cid883121" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Rehearsal and Performance Reports,</unittitle>
+                            <container id="cid883122" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Auditions,</unittitle>
+                            <container id="cid883123" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Memos and Meetings,</unittitle>
+                            <container id="cid883124" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Sets and Props,</unittitle>
+                            <container id="cid883125" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Costumes,</unittitle>
+                            <container id="cid883126" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>Lights / Sound / Music,</unittitle>
+                            <container id="cid883127" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>Blank Forms and Letterhead,</unittitle>
+                            <container id="cid883128" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Stage Map,</unittitle>
+                            <container id="cid883129" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Equity,</unittitle>
+                            <container id="cid883130" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>Tax Exemption Certificate,</unittitle>
+                            <container id="cid883131" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1989-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Script Excerpts,</unittitle>
+                            <container id="cid883132" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref13" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Chicago</title>,</unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>March 1989</unitdate>
+                    </did>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Binder Photocopies and Attachments,</unittitle>
+                            <container id="cid883133" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Script - Act I,</unittitle>
+                            <container id="cid883134" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Script - Act II,</unittitle>
+                            <container id="cid883135" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Contact,</unittitle>
+                            <container id="cid883136" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Rehearsal and Performance Reviews,</unittitle>
+                            <container id="cid883137" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>Memos and Meetings,</unittitle>
+                            <container id="cid883138" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Props,</unittitle>
+                            <container id="cid883139" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>Cue Sheets,</unittitle>
+                            <container id="cid883140" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>Ground Plans,</unittitle>
+                            <container id="cid883141" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>Schedules,</unittitle>
+                            <container id="cid883142" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Equity,</unittitle>
+                            <container id="cid883143" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>Auditions,</unittitle>
+                            <container id="cid883144" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Cast List,</unittitle>
+                            <container id="cid883145" type="Folder" label="Mixed materials">28</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Attendance Charts,</unittitle>
+                            <container id="cid883146" type="Folder" label="Mixed materials">29</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>Tax Exemption Certificate,</unittitle>
+                            <container id="cid883147" type="Folder" label="Mixed materials">30</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Blank Forms and Letterhead,</unittitle>
+                            <container id="cid884001" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid884001" type="Folder">1</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>Stage and Sound Diagrams,</unittitle>
+                            <container id="cid884006" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>Scene Breakdowns,</unittitle>
+                            <container id="cid884007" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Rehearsal Signs,</unittitle>
+                            <container id="cid884008" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Studio Theatre at the University of Pittsburgh,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1986</unitdate>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Content Notes</head>
+                    <p>Two stage manager’s books with handwritten notations from the March 1986 production of 
+                        <title render="italic">Betrayal</title> and the November 1986 production of 
+                        <title render="italic">Grease</title>.</p>
+                </scopecontent>
+                <c02 id="ref16" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Betrayal</title>,</unittitle>
+                        <unitid>1.</unitid>
+                        <unitdate>March 1986</unitdate>
+                    </did>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Annotated Script,</unittitle>
+                            <container id="cid884002" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>Newspaper Articles,</unittitle>
+                            <container id="cid884003" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Prop List / Costume Plot / Stage Diagrams,</unittitle>
+                            <container id="cid884004" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Program,</unittitle>
+                            <container id="cid884005" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref17" level="subseries">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Grease</title>,</unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>November 1986</unitdate>
+                    </did>
+                    <c03 id="ref134" level="file">
+                        <did>
+                            <unittitle>Score with Choreography,</unittitle>
+                            <container id="cid884009" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>Contacts,</unittitle>
+                            <container id="cid884010" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>PR,</unittitle>
+                            <container id="cid884011" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid884012" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>Rehearsal and Performance Reviews,</unittitle>
+                            <container id="cid884013" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>Schedules,</unittitle>
+                            <container id="cid884014" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Lists,</unittitle>
+                            <container id="cid884015" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>Script,</unittitle>
+                            <container id="cid884016" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>Props,</unittitle>
+                            <container id="cid884017" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>Script with Sound Notations,</unittitle>
+                            <container id="cid884018" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Set,</unittitle>
+                            <container id="cid884019" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Tech,</unittitle>
+                            <container id="cid884020" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>South Hills Theatre,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1987</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Content Notes</head>
+                    <p>One stage manager’s book with handwritten notations from the October 1987 production of 
+                        <title render="italic">Musical Feat</title>.</p>
+                </scopecontent>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Binder Photocopies and Attachments,</unittitle>
+                        <container id="cid884021" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Annotated Script,</unittitle>
+                        <container id="cid884022" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Promotional Flyers,</unittitle>
+                        <container id="cid884023" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Contact,</unittitle>
+                        <container id="cid884024" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Program,</unittitle>
+                        <container id="cid884025" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Current Running Order,</unittitle>
+                        <container id="cid884026" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Feat</title> - Notes,</unittitle>
+                        <container id="cid884027" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

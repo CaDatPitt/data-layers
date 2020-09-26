@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oliver P. Merriman scrapbook collection, 1825-1942, 1870 - 1942</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Merriman, Oliver P.</namePart>
+    <role>
+      <roleTerm type="text">collector.</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Bowman, Ned A.</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="rdacontent">text</genre>
+  <genre authority="rdacontent">still image</genre>
+  <genre authority="lcgft">Theater programs.</genre>
+  <genre authority="lcgft">Finding aids.</genre>
+  <genre authority="fast">Finding aids</genre>
+  <genre authority="fast">Theater programs</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <dateOther>1825-1942,</dateOther>
+    <dateIssued encoding="marc" point="start">1870</dateIssued>
+    <dateIssued encoding="marc" point="end">1930</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear feet (31 document boxes)">14.00</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">other</form>
+    <note type="arrangement">Organized into 7 series.</note>
+  </physicalDescription>
+  <abstract type="Summary">Oliver P. Merriman was an avid follower of Pittsburgh theatre.  He built a large scrapbook collection that documents the history of the performing arts in Pittsburgh from the 1870s through the 1930s.  It is organized into several broad categories and contains thousands of theatre programs, clippings, photographs, and other ephemera.</abstract>
+  <tableOfContents>Series I. Lettered Scrapbooks, 1870-1940 -- Series II. Numbered Scrapbooks, 1825-1942 -- Series III. Dated Scrapbooks, 1859-1942 -- Series IV. Coded Scrapbooks, 1866-1941 -- Series V. Scrapbook Stg. Stars - Stage and Its Stars, Past and Present, 1887 -- Series VI. Obituary Scrapbooks - "Final Curtain", 1894-1941 -- Series VII. Addenda Items List, 1880-1942.</tableOfContents>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <accessCondition type="use and reproduction">The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</accessCondition>
+  <note>Processing Information: This collection was processed by Curtis Collection staff in the Spring of 1974.</note>
+  <note type="preferred citation">Oliver P. Merriman Scrapbook Collection, 1825-1942, CTC.1964.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</note>
+  <note type="acquisition">Gift; Carnegie Library of Pittsburgh; 1964.</note>
+  <note type="biographical/historical">Oliver P. Merriman, 1866-1942, was a theater enthusiast who solicited materials and compiled a comprehensive and well organized collection of over 160 scrapbooks.  The vast majority of these scrapbooks documented nearly a century of the performing arts in Pittsburgh.  Merriman befriended theatre managers to help him collect programs for the performances that he could not attend and was also able to obtain programs from productions dating back to before the Civil War.</note>
+  <note>Inventory in the theater collection.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc196401">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc196401</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    <geographicCode authority="marcgac">n-us-ny</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Merriman, Oliver P</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>New York</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater programs</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>New York</geographic>
+  </subject>
+  <subject authority="fast">
+    <topic>Performing arts</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Theater</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Theater programs</topic>
+  </subject>
+  <subject authority="fast">
+    <geographic>New York (State)</geographic>
+    <geographic>New York</geographic>
+  </subject>
+  <subject authority="fast">
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <relatedItem>
+    <titleInfo>
+      <title>Comprehensive index to the Merriman scrapbook collection</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Bowman, Ned A.</namePart>
+    </name>
+  </relatedItem>
+  <identifier type="oclc">ocm31151658</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid:" note="Further accessions possible. Click here for current information.">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc196401</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940921</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131839.0</recordChangeDate>
+    <recordIdentifier>1471900</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc196401</identifier></mods>

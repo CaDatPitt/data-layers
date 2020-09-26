@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc196201</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Radovic Collection of Pittsburgh Theatre Programs, 1927-1931
+                    <num>CTC.1962.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Colleen Reilly.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>February 2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:57-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>March 24, 21010</date>
+                <item></item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Radovic Collection of Pittsburgh Theatre Programs</unittitle>
+            <unitid>CTC.1962.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 linear feet</extent>
+                <extent>(3 boxes, 28 folders)</extent>
+            </physdesc>
+            <unitdate normal="1927/1931" type="inclusive">1927-1931</unitdate>
+            <abstract id="ref2" label="Abstract">This collection contains a nearly complete record of the George Sharp Players, a Pittsburgh stock company, as well as additional materials on other Pittsburgh stock companies compiled by John M. Radovic and his sister Dorothy.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Radovic, John M.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>This collection of Pittsburgh theatre programs and related clippings was compiled almost entirely by John M. Radovic, who attended Pittsburgh theatre regularly from 1916 until his untimely death in 1931 at age 31. The collection is of particular interest because it represents an almost complete record of the George Sharp Players, by far the best and most durable of Pittsburgh's stock companies.</p>
+            <p>The George Sharp Players enjoyed five consecutive seasons in Pittsburgh from 1927 to 1931, offering the typical stock company bill -- melodrama, light comedy, mystery, and farce. Among performers who went on to national stardom are Paul McGrath, Alexander Kirkland, Ralph Morgan, Anne Forrest, and Ann Harding. Leading lady Ann Harding, with her husband, Harry Bannister, broke away in 1928 to form a rival company, the Nixon Players, taking their name from the theatre in which they played; the company lasted only one season. The George Sharp Players performed at the Pitt Shubert until their final month in 1931 at the Pitt Alvin. Similar to other stock companies throughout the country, the George Sharp Players were forced to close because of the increasing popularity of motion pictures.</p>
+            <p>George Sharp returned to Pittsburgh for a brief season late in 1932, to manage the Edwin Vail Players, which then changed its name to the George Sharp Players. In 1934 he came again, to stage a few plays at the Fort Pitt Hotel. He died in Los Angeles in 1951.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>The collection is comprised mainly of programs and clippings, and is divided into two series. Series I contains the bulk of the collection including programs and clippings relating to the George Sharp Players. Series II holds programs and clippings for the Nixon Players and various stock companies in Pittsburgh theatres.</p>
+        </scopecontent>
+        <arrangement id="ref5">
+            <head>Arrangement</head>
+            <p>Series I. George Sharp Players</p>
+            <p>Series II. Various Stock Companies in Pittsburgh Theatres</p>
+        </arrangement>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of Dorothy B. Radovic in 1962.</p>
+        </acqinfo>
+        <odd id="ref38">
+            <head>Previous Citation</head>
+            <p>Radovic Collection of Pittsburgh Theatre Programs, 1927-1931, CTC.1962.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Radovic Collection of Pittsburgh Theatre Programs, 1927-1931, CTC.09, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>Radovic Collection of Pittsburgh Theatre Programs, 1927-1931, CTC.1962.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>This collection was processed by Ford E. Curtis in 1962. Collection inventory re-processed by Colleen Reilly in February 2007.</p>
+        </processinfo>
+        <userestrict id="ref10">
+            <head>Copyright</head>
+            <p>Property rights reside with the University of Pittsburgh. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <relatedmaterial id="ref11">
+            <head>Related Material</head>
+            <p>Pitt Theatre materials, Ford E. and Harriet R. Curtis Theatre Collection of Pittsburgh Theatre Programs, 1840-present, CTC.1966.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Fort Pitt Hotel, Curtis Pittsburgh Performing Arts Information Files</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Edwin Vail Players (Theater company).</corpname>
+            <corpname rules="aacr" source="local">George Sharp Players (Theater company).</corpname>
+            <corpname rules="aacr" source="local">Nixon Players (Theater company).</corpname>
+            <persname rules="aacr" source="local">Radovic, Dorothy B.</persname>
+            <persname rules="aacr" source="local">Radovic, John M.</persname>
+            <persname rules="aacr" source="local">Sharp, George</persname>
+            <geogname source="lcsh">Alvin Theatre (Pittsburgh, Pa.)</geogname>
+            <subject source="lcsh">Comedy</subject>
+            <geogname source="local">Davis Theatre (Pittsburgh, Pa.)</geogname>
+            <geogname source="local">Duquesne Theatre (Pittsburgh, Pa.)</geogname>
+            <subject source="lcsh">Farce</subject>
+            <geogname source="local">Gayety Theatre (Pittsburgh, Pa.)</geogname>
+            <geogname source="local">Heinz House (Pittsburgh, Pa.).</geogname>
+            <geogname source="local">Lyceum Theatre (Pittsburgh, Pa.)</geogname>
+            <subject source="lcsh">Melodrama</subject>
+            <subject source="lcsh">Mystery</subject>
+            <geogname source="local">Nixon Theatre (Pittsburgh, Pa.)</geogname>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.)</geogname>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>George Sharp Players</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Contents note</head>
+                    <p>Series I contains the bulk of the collection including programs and clippings relating to the George Sharp Players. 
+                        <title render="italic">Sharp Points</title> is a small weekly circular that advertised the George Sharp Players' current and future performances. The newspaper clippings are undated, but are contemporary to the programs and other Sharp materials. The reviews are clipped from newspapers and are also undated. They are arranged alphabetically by title of production.</p>
+                </scopecontent>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid111426" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid111426" type="Folder">1</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid111436" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid111435" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid111434" type="Folder" label="Mixed materials">4-5</container>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid111433" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>
+                            <title ns2:type="simple" render="italic">Sharp Points</title>,</unittitle>
+                        <container id="cid111432" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Clippings, General</unittitle>
+                        <container id="cid111431" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Clippings, Pictures</unittitle>
+                        <container id="cid111430" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Clippings, Anne Forrest</unittitle>
+                        <container id="cid111429" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Clippings, Ads</unittitle>
+                        <container id="cid111428" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Reviews, A-Z</unittitle>
+                        <container id="cid111427" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid111427" type="Folder">1-8</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref36" level="series">
+                <did>
+                    <unittitle>Various Stock Companies in Pittsburgh Theatres</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Programs, Nixon Players,</unittitle>
+                        <container id="cid111420" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid111420" type="Folder">1</container>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Clippings, Nixon Players</unittitle>
+                        <container id="cid111425" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Reviews, Nixon Players</unittitle>
+                        <container id="cid111424" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Clippings, Ann Harding, Harry Bannister</unittitle>
+                        <container id="cid111423" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Clippings, "Showstops" Columns by Karl Krug on Pittsburgh Stock Theatre</unittitle>
+                        <container id="cid111422" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Clippings, Pittsburgh Stock Companies</unittitle>
+                        <container id="cid111421" type="Folder" label="Mixed materials">6-8</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

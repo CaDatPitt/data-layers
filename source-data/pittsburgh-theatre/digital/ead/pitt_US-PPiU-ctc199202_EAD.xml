@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="On_Hold" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199202</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Steel/City Production Records, 1974-1977
+                    <num>CTC.1992.02</num>
+                </titleproper>
+                <author>Finding aid prepared by Cheryl Greer. Revisions occurred to the finding aid as a part of the encoding process in 2004.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collectons</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-29T09:34-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>
+                <title render="italic">Steel/City</title> Production Records</unittitle>
+            <unitid>CTC.1992.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 linear feet</extent>
+                <extent>(6 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1983/1992" type="inclusive">1983-1992</unitdate>
+            <abstract id="ref2" label="Abstract">
+                <title render="italic">Steel/City</title> was a University of Pittsburgh documentary theater production written for the Bicentennial in 1976, portraying the social and industrial history of Pittsburgh. This collection contains records from the development and production of the play and the audio cassettes of the post-play discussions and town meetings.</abstract>
+        </did>
+        <relatedmaterial id="ref99">
+            <head>Related Material</head>
+            <p>University of Pittsburgh Theatre Arts Department Records, 1960-1986, CTC.1974.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>
+                <title render="italic">Steel/City</title> was conceived and written by University of Pittsburgh Department of Theatre Arts professors Gil Elvgren and Attillio Favorini in the mid 1970's as part of the city's (and nation's) Bicentennial activities planned for 1976. Working from a concept of documentary theater with strong social relevance to the community, 
+                <title render="italic">Steel/City</title>'s script was entirely composed of words actually spoken by real individuals. None of the dialog was created by the authors. In addition to extensive research on the history of Pittsburgh, its magnates and distant past, the authors also utilized oral history interviews conducted with retired steel workers and their families at the time the play was being composed. Their reminiscences were used to provide the dialog for Act III of the play, which takes place at a pensioners' picnic.</p>
+            <p>
+                <title render="italic">Steel/City</title> was produced by the University of Pittsburgh Department of Theatre Arts in the spring and summer of 1976. It toured the region, and also was performed at the Smithsonian Institution's American Folklife Festival. In keeping with the authors' goal of relevance to the community, the audience was given the opportunity to discuss the play and the issues that it raised in several discussion sessions. These ranged from informal discussion groups held immediately after the performances, to more structured "town meetings" with a panel of local authorities on hand.</p>
+        </bioghist>
+        <arrangement id="ref97">
+            <head>Arrangement</head>
+            <p>The collection is organized into three series:</p>
+            <p>Series I. Production Files</p>
+            <p>Series II. Research Files</p>
+            <p>Series III. Audio Cassettes</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>This collection consists of materials directly related to the production of the play, including grant applications, budget reports and scripts, as well as material generated during the process of research for the play. This includes photos, information on Pittsburgh and its steel industry history, oral interviews, etc. These materials are grouped by topic. Also included are recordings of the post-play discussion sessions and town meetings.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were gift of Attillio Favorini in 1992.</p>
+        </acqinfo>
+        <odd id="ref98">
+            <head>Previous Citation</head>
+            <p>
+                <title render="italic">Steel/City</title> Production Records, 1974-1977, CTC.1992.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>"Steel/City" Production Records, 1974-1977, CTC.31, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>
+                <title render="italic">Steel/City</title> Production Records, 1974-1977, CTC.1992.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Cheryl Greer in 2002.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Willaim Daw in March, 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 4640497.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <persname source="naf">Elvgren, Gillette, 1942-</persname>
+            <persname source="naf">Favorini, Attilio, 1943-</persname>
+            <corpname source="naf">University of Pittsburgh. Department of Speech and Theatre Arts.</corpname>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.) -- History -- Drama</geogname>
+            <subject source="lcsh">Steel industry and trade -- Pennsylvania -- Pittsburgh Region -- History -- Drama</subject>
+            <subject source="ulstag">Theater</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Production Files</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref49">
+                    <head>Scope and Contents note</head>
+                    <p>Materials directly related to the production of the play. Incudes grant applications, budget reports, scripts.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>American Revolution Bicentennial Administration grant request</unittitle>
+                        <container id="cid115084" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid115084" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Audience survey</unittitle>
+                        <container id="cid115083" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Audience notes</unittitle>
+                        <container id="cid115082" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Barge productions</unittitle>
+                        <container id="cid115081" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Cast lists</unittitle>
+                        <container id="cid115080" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Correspondence - Budget</unittitle>
+                        <container id="cid115079" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Correspondence - Cast</unittitle>
+                        <container id="cid115078" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Correspondence - City of Pittsburgh Bicentennial Committee</unittitle>
+                        <container id="cid115077" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Correspondence - Miscellaneous</unittitle>
+                        <container id="cid115076" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Correspondence - Pennsylvania Bicentennial Commission</unittitle>
+                        <container id="cid115075" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Correspondence - Public relations</unittitle>
+                        <container id="cid115074" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Correspondence - United Steel Workers</unittitle>
+                        <container id="cid115073" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Documentary theater background</unittitle>
+                        <container id="cid115072" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Documentary theater sample script: "Bread and Roses"</unittitle>
+                        <container id="cid115071" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Essays</unittitle>
+                        <container id="cid115070" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Fact sheets</unittitle>
+                        <container id="cid115069" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Financial reports</unittitle>
+                        <container id="cid115068" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Grants and awards</unittitle>
+                        <container id="cid115067" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Individual or corporate contributors</unittitle>
+                        <container id="cid115066" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Meeting minutes</unittitle>
+                        <container id="cid115065" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Mini-festival</unittitle>
+                        <container id="cid115064" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes</unittitle>
+                        <container id="cid115063" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Oral history projects</unittitle>
+                        <container id="cid115062" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>"Pittsburgh, Ho!" project</unittitle>
+                        <container id="cid115061" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid115061" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Polish Hill controversy</unittitle>
+                        <container id="cid115060" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Press releases</unittitle>
+                        <container id="cid115059" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Proposals</unittitle>
+                        <container id="cid115058" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Public Committee on the Humanities grant</unittitle>
+                        <container id="cid115057" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Reviews</unittitle>
+                        <container id="cid115056" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Scene research development - Andrew Carnegie</unittitle>
+                        <container id="cid115055" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Scene research development - Miscellaneous</unittitle>
+                        <container id="cid115054" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Smithsonian American Folklife Festival</unittitle>
+                        <container id="cid115053" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Steel/City</title> scripts</unittitle>
+                        <container id="cid115052" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Teaching packet</unittitle>
+                        <container id="cid115051" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Testimonials</unittitle>
+                        <container id="cid115050" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Touring script</unittitle>
+                        <container id="cid115049" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Town meetings</unittitle>
+                        <container id="cid115048" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref50" level="series">
+                <did>
+                    <unittitle>Research Files</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref91">
+                    <head>Scope and Contents note</head>
+                    <p>These materials were generated during the research process for the play. They includes photos, information on Pittsburgh and it's steel industry history, oral interviews, etc. The materials are sub-divided by topic.</p>
+                </scopecontent>
+                <c02 id="ref51" level="subseries">
+                    <did>
+                        <unittitle>Labor</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>12 hour day</unittitle>
+                            <container id="cid115047" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid115047" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Strike,</unittitle>
+                            <container id="cid115046" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1909</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Strike,</unittitle>
+                            <container id="cid115045" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>1919</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>1930s mill towns</unittitle>
+                            <container id="cid115044" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>1930s union struggles</unittitle>
+                            <container id="cid115043" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Strike,</unittitle>
+                            <container id="cid115042" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1959</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>1970s No Strike agreements</unittitle>
+                            <container id="cid115041" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Grievance handling</unittitle>
+                            <container id="cid115040" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Union newspapers</unittitle>
+                            <container id="cid115039" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Union speeches</unittitle>
+                            <container id="cid115038" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>
+                                <title>Voice of Labor</title> pamphlet</unittitle>
+                            <container id="cid115037" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref96" level="subseries">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Oral History interviews</unittitle>
+                            <container id="cid115036" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Pittsburgh - Facts and figures,</unittitle>
+                            <container id="cid115035" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1918</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Pittsburgh - Letters to the editor,</unittitle>
+                            <container id="cid115034" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Research photos - 4x5</unittitle>
+                            <container id="cid1919002" type="Folder" label="Photographic images">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Research photos - 8x10</unittitle>
+                            <container id="cid1919001" type="Folder" label="Photographic images">17-18</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref68" level="subseries">
+                    <did>
+                        <unittitle>Society</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Depression</unittitle>
+                            <container id="cid115031" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Ethnological research</unittitle>
+                            <container id="cid115030" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid115030" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Industrial philosophies</unittitle>
+                            <container id="cid115029" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Immigration</unittitle>
+                            <container id="cid115028" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Poles</unittitle>
+                            <container id="cid115027" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref74" level="subseries">
+                    <did>
+                        <unittitle>Song research</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Minstrel songs</unittitle>
+                            <container id="cid115026" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Miscellaneous</unittitle>
+                            <container id="cid115025" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Union songs</unittitle>
+                            <container id="cid115024" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref78" level="subseries">
+                    <did>
+                        <unittitle>Steel</unittitle>
+                        <unitid>5.</unitid>
+                    </did>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>African-American steelworkers</unittitle>
+                            <container id="cid115023" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Carnegie Steel Co. newsletter</unittitle>
+                            <container id="cid115022" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Child labor</unittitle>
+                            <container id="cid115021" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Mill towns</unittitle>
+                            <container id="cid115020" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Post WWII</unittitle>
+                            <container id="cid115019" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Technical information</unittitle>
+                            <container id="cid115018" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Unemploymemt</unittitle>
+                            <container id="cid115017" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>U.S. Steel Corp. history</unittitle>
+                            <container id="cid115016" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>WWII production</unittitle>
+                            <container id="cid115015" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Wages</unittitle>
+                            <container id="cid115014" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Women in steel</unittitle>
+                            <container id="cid115013" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Work accidents</unittitle>
+                            <container id="cid115012" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref92" level="series">
+                <did>
+                    <unittitle>Audio Cassettes</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref95">
+                    <head>Scope and Contents note</head>
+                    <p>Recordings of the post-play discussion sessions and town meetings.</p>
+                </scopecontent>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Post-play discussions,</unittitle>
+                        <container id="cid115011" type="Box" label="Mixed materials">5</container>
+                        <unitdate>July 8 - August 5, 1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Post-play discussions and town meetings,</unittitle>
+                        <container id="cid115010" type="Box" label="Mixed materials">6</container>
+                        <unitdate>July 18 - August 15, 1976</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

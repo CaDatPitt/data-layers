@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199203</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Four Evans Family Papers, 1908-1989
+                    <num>CTC.1992.03</num>
+                </titleproper>
+                <author>Finding aid prepared by Colleen Reilly. Revisions occurred to the finding aid as a part of the encoding process in March 2006.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>Fall 2004</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Four Evans Family Papers</unittitle>
+            <unitid>CTC.1992.03</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1934/1958" type="bulk">Bulk, 1934-1958</unitdate>
+            <unitdate normal="1908/1989" type="inclusive">1908-1989</unitdate>
+            <abstract id="ref2" label="Abstract">The Pittsburgh-based Evans family headlined USO tours and professional circuits from 1942-1960 with their variety act and dance revue, "The Four Evans- Two Generations of Dance." This collection contains clippings, papers, programs, scrapbooks and photos relating to the family's dance career.</abstract>
+            <origination label="creator">
+                <famname source="naf">Evans family</famname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Vaudeville team Evan E. Evans (1889-1962) and Helen Hartz (1894-1974) of Pittsburgh, Pennsylvania were married in 1910. They continued touring the vaudeville circuits through the birth of their first child Maryetta Evans (1912-? ), but with the arrival of their second child, Lester Evans (1919-1989) the family returned to Pittsburgh. While Maryetta and Lester pursued an education at the Pittsburgh Art Institute and the University of Pittsburgh respectively, Evan and Helen conducted a dance studio. After a year of college, the Evans family returned to the stage as the "Four Evans: Two Generations of Dance." They were scouted by the USO in 1942 and became the only complete family in the war zone. From 1942-1953 the Four Evans completed USO tours of Europe, Africa, Japan, Korea, Greenland, and the United States. The Four Evans were at Bastogne when the Battle of the Bulge took place (1942) and survived a plane crash in the sea of Japan (1953). Honored by the Commonwealth of Pennsylvania; the American Legion, and the Special Service of the U.S. Army, the Evans were also invited to provide command performances for the Lord Mayor of London, England (1944) and the Premier of Canada (1947). Their success as USO entertainers was paralleled on the professional stage. From 1946-1960 the Four Evans appeared in every major city in the United States including extended engagements at New York's Paramount Theatre. The Four Evans also appeared on pioneering television programs, including an appearance in 1949 on WDTV, Pittsburgh's first television show, and a guest appearance on Mister Rogers' Neighborhood in 1974. By 1960, the Four Evans had returned home to Pittsburgh and opened a second dance studio in Homestead. Lester and Maryetta were invited to join the faculty at Point Park College and C.A.P.A. High School. In the 1980's Lester and Maryetta toured again under the auspices of the "Four Evans" taking the place of their parents while a younger generation of Evans took their own. Maryetta's hand-written family history supplied much of the detail for this biographical note.</p>
+        </bioghist>
+        <arrangement id="ref44">
+            <head>Arrangement</head>
+            <p>The materials in this collection have been divided into five series:</p>
+            <p>Series I. Scrapbooks - Photographs and Newspaper Clippings</p>
+            <p>Series II. Clippings - Articles, Reviews, and Advertisements from Pittsburgh, national, and international press</p>
+            <p>Series III. Correspondence - Letters, Commendations, and Travel Itineraries</p>
+            <p>Series IV. Programs - Pittsburgh, National, and International Theatrical Programs</p>
+            <p>Series V. Ephemera</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains clippings, papers, programs, scrapbooks and photos relating to the dance career of the Pittsburgh-based Evans family. There are memorabilia relating to the Evans' variety act and dance revue, "The Four Evans- Two Generations of Dance," which headlined USO tours and professional circuits from 1942-1960; press and marquee photographs and production stills; theatrical programs; press materials, including clippings from Pittsburgh, National, and International newspapers; in addition to correspondence regarding their military and public service. One notable item is a Certificate of Commendation from the Commonwealth of Pennsylvania for the Evans family's contribution to USO efforts, as well as various programs and souveniers of their travels. Many of the items in this collection have hand-written notations by Maryetta Evans.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were a gift of Maryetta Evans in 1992.</p>
+        </acqinfo>
+        <odd id="ref45">
+            <head>Previous Citation</head>
+            <p>"Four Evans" Family Papers, 1908-1989, CTC.1992.03, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>"Four Evans" Family Papers, 1908-1989, CTC.33, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>"Four Evans" Family Papers, 1908-1989, CTC.1992.03, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Colleen Reilly in 2004.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in November 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 4637673.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="local">Evans, Evan E., 1889-1962</persname>
+            <persname rules="aacr" source="local">Evans, Helen, 1894-1974</persname>
+            <persname rules="aacr" source="local">Evans, Lester, 1919-1989</persname>
+            <persname rules="aacr" source="local">Evans, Maryetta</persname>
+            <corpname rules="aacr" source="local">Four Evans (Theatrical group).</corpname>
+            <corpname source="naf">United Service Organizations (U.S.).</corpname>
+            <subject source="lcsh">Entertainers -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Vaudeville -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Songs and music</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Theater and the war</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Scrapbooks</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes four scrapbooks. Scrapbook 1 (1908-1958) contains the Four Evans CV, press information, a hand-written family history, press photographs, production stills, and marquee photographs; Scapbook 2 (1942-1967) contains newspaper clippings, programs, awards, USO correspondence, press photographs, production stills, and marquee photographs; Scrapbook 3 (1944-1948) contains newspaper clippings and correspondence; Scrapbook 4 (1934-1936) contains miscellaneous pages of newspaper clippings similar to those found in the other scrapbooks, but of a different format. All scrapbooks have been disbound for press purposes and placed in folders. Arrangement reflects the order of the original scrapbooks created by the Evans family. Dates for each scrapbook were determined by notation on individual items, and may not reflect undated items.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Scrapbook 1</unittitle>
+                        <container id="cid115108" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid115108" type="Folder">1-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Scrapbook 2</unittitle>
+                        <container id="cid115107" type="Folder" label="Mixed materials">10-15</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Scrapbook 3</unittitle>
+                        <container id="cid115106" type="Folder" label="Mixed materials">16-18</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Scrapbook 4</unittitle>
+                        <container id="cid115105" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Clippings</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref22">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes newspaper reviews, articles, and display ads. Display ads are the advertisements placed by the theatres to promote daily or weekly events. Folders 1-3 contain clippings estimated to date from 1946-1960. Preservation photocopies have been made for use by researchers.</p>
+                </scopecontent>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Display Ads</unittitle>
+                        <container id="cid115104" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid115104" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>National</unittitle>
+                        <container id="cid115103" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Pittsburgh</unittitle>
+                        <container id="cid115102" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>National,</unittitle>
+                        <container id="cid115101" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1939-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Pittsburgh,</unittitle>
+                        <container id="cid115100" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1936-1979</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes travel documents, itinerary, letters of thanks, and general correspondence. FF 6 contains correspondence dated 1944-1961 to the Evans family (Lester and Maryetta) on behalf of the United States Army, the Military Transport Service, the American Red Cross, and the Commonwealth of Pennsylvania. FF7 contains correspondence dated 1962-1981 to Lester and Maryetta on behalf of Point Park College, Mister Rogers' Neighborhood, and the Homebuilders. FF8 contains undated correspondence to Lester and Maryetta included In-Flight Progress reports, personal cards, and silhouettes of Lester and Maryetta by fan Noel Wisdom.</p>
+                </scopecontent>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115099" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1944-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115098" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1962-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>No date</unittitle>
+                        <container id="cid115097" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref28" level="series">
+                <did>
+                    <unittitle>Programs</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains programs and publications from USO and Professional performances featuring the Four Evans.</p>
+                </scopecontent>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>International</unittitle>
+                        <container id="cid115096" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>National</unittitle>
+                        <container id="cid115095" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Pittsburgh</unittitle>
+                        <container id="cid115094" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref33" level="series">
+                <did>
+                    <unittitle>Ephemera</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref43">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains awards, souveniers, and memorabilia from the career of the "Four Evans." FF12 contains souveniers from the USO tours. Oversize materials consist of 3 posters advertising the "Four Evans," and in tact newspapers collected by the Evans family from 1943-1954.</p>
+                </scopecontent>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Memorabilia</unittitle>
+                        <container id="cid115093" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Certificate of Award from the American Legion</unittitle>
+                        <container id="cid115092" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Daily Telegraph</title>, December 10,</unittitle>
+                        <container id="cid115091" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Daily Express</title>, January 31,</unittitle>
+                        <container id="cid115090" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Evening News</title>, June 6,</unittitle>
+                        <container id="cid115089" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Evening Standard</title>, June 6,</unittitle>
+                        <container id="cid115088" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Herald Tribune</title>, December 29,</unittitle>
+                        <container id="cid115087" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Times of Malta</title>, February 7,</unittitle>
+                        <container id="cid115086" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Northeast Guardian</title> April 30,</unittitle>
+                        <container id="cid115085" type="Oversize" label="Mixed materials"></container>
+                        <unitdate>1954</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

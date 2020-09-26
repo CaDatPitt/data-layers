@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Papers of Harvey J. Burgess, 1903-1934</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Burgess papers, 1903-1934</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Burgess, Harvey J.</namePart>
+    <namePart type="date">1886-1960</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1903-1934.</dateOther>
+    <dateIssued encoding="marc" point="start">1903</dateIssued>
+    <dateIssued encoding="marc" point="end">1934</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft. boxes)">4 (7</extent>
+    <note type="arrangement">Organized into 4 series: I. Juggling paraphernalia; II. Scrapbooks; III. Correspondence; IV. Ephemera.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">Materials in the Burgess Collection are chiefly drawn from Harvey J. Burgess's years as a vaudeville juggler, 1903-1913. This entails juggling paraphenalia such as tin plates, pins, and Burgess's makeup box, with some makeup still intact. Also included is a sampling of H.J.B.'s business contracts, correspondence with various vaudeville booking agents and theatrical suppliers, programs (many from little-known area theatres), letterheads and other promotional materials, and two scrapbooks, one containing many signed photos of vaudeville performers. Burgess's post-vaudeville years are represented by several photos, and a file of lengthy correspondence that H.J.B. maintained with U.S. Congressman Clyde Kelly concerning local postal issues.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Papers of Harvey J. Burgess, 1903-1934, CTC.1989.02, Curtis Theatre Collection, University of Pittsburgh</note>
+  <note type="acquisition">Gift of Mrs. Leroy McCleary, 1989.</note>
+  <note type="biographical/historical">Harvey J. Burgess was born in Wilkinsburg, PA in 1886 and lived there until his death in 1960. He performed in vaudeville from 1903-1913; before vaudeville he had been employed as a grocery store clerk. Billing himself as "The Clever Tossing Kid", his act combined skilled juggling with a comedic routine. He toured extensively throughout the Pittsburgh region (see Appendix for a list of regional theatres referenced) and in neighboring states, with many excursions into the Midwest as well. In 1913, he lost his eyesight and had to retire from the stage. His sight was eventually restored enough for him to obtain a job at the Swissvale post office, where he became Postmaster and worked for 27 years. In 1916 Harvey Burgess ran for Burgess of Wilkinsburg, but was unsuccessful because of his stage background. Although Burgess's theatrical career was short-lived it appeared to have been quite successful. In addition to his full performance schedule, his act garnered rave reviews from both the press and theatre managers.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198902">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198902</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Burgess, Harvey J</namePart>
+      <namePart type="date">1886-1960</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Kelly, Claude</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Jugglers</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Wilkinsburg</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Jugglers</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Vaudeville</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh Region</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm63205898</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198902</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">060201</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131826.0</recordChangeDate>
+    <recordIdentifier>4612844</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc198902</identifier></mods>

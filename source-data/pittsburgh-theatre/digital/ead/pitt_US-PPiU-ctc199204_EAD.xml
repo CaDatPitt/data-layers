@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199204</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Burton White Papers, 1983-1994
+                    <num>CTC.1992.04</num>
+                </titleproper>
+                <author>Finding aid prepared by David Sleasman.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>1992</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Burton White Papers</unittitle>
+            <unitid>CTC.1992.04</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.5 linear feet</extent>
+                <extent>(8 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1983/1994" type="inclusive">1983-1994</unitdate>
+            <abstract id="ref2" label="Abstract">Burton White was a stage manager, consultant, and producer for several different Pittsburgh theatre production companies in the 1980's. These papers reflect the early professional career of Burton White and consist of production books and notes, mostly from productions in the Pittsburgh area.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">White, Burton</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Burton White was a stage manager, consultant, and producer for several different Pittsburgh theatre production companies in the 1980's. Among the companies he worked with were the Three Rivers Shakespeare Festival, the Pittsburgh Playhouse, the University of Pittsburgh Theatre Arts Department, the Pittsburgh Savoyards, and the Opera Theatre of Pittsburgh. One notable variation was a production of 
+                <title render="italic">Dreamgirls</title> produced by the American Theatre Company in Hawaii which included several cast members who would go on to 
+                <title render="italic">Miss Saigon</title> on Broadway. In 1989, White produced 
+                <title render="italic">Joseph and the Technicolor Dreamcoat</title> with Ken Gargaro under the name Gargaro Productions. Among the notable persons Burton White has worked with are: Ken Gargaro of the Pittsburgh Playhouse and Gargaro Productions, Jerry Herman of the Pittsburgh Playhouse and the production of the American Theatre's production of 
+                <title render="italic">Dreamgirls</title>, Tony Aguilar of 
+                <title render="italic">Dreamgirls</title>, Nicolas Pennell of the Three Rivers Shakespeare Festival, and Mildred Miller Posvar of the Pittsburgh Opera Theatre.</p>
+        </bioghist>
+        <arrangement id="ref45">
+            <head>Arrangement</head>
+            <p>This collection is divided into two series. All production books are cross referenced in the Curtis Collection's Acting Edition and Script Inventory.</p>
+            <p>Series I. Career</p>
+            <p>Series II. Productions</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>These papers reflect the early professional career of Burton White and consist of production books and notes, mostly from productions in the Pittsburgh area.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were received as a gift of Burton White in July 1992 and in 1999.</p>
+        </acqinfo>
+        <odd id="ref46">
+            <head>Previous Citation</head>
+            <p>Burton White Papers, 1983-1994, CTC.1992.04, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Burton White Papers, 1983-1994, CTC.24, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Burton White Papers, 1983-1994, CTC.1992.04, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by David Sleasman in 1992. Revision and rearrangement for the encoded version of the finding aid provided by William Daw in January 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1471172.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Opera Theatre of  Pittsburgh.</corpname>
+            <corpname source="naf">Pittsburgh Playhouse.</corpname>
+            <corpname source="naf">Pittsburgh Public Theater.</corpname>
+            <corpname rules="aacr" source="local">Pittsburgh Savoyards.</corpname>
+            <corpname source="naf">Three Rivers Shakespeare Festival (Pittsburgh, Pa.).</corpname>
+            <corpname rules="rda" source="local">University of Pittsburgh. Department of Theatre Arts.</corpname>
+            <corpname rules="aacr" source="local">University of Pittsburgh. University Theatre.</corpname>
+            <persname rules="aacr" source="local">White, Burton</persname>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Stage management</subject>
+            <subject source="lcsh">Stage managers -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Theater -- Production and direction</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Career</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains items that apply to White's career in theatre, but not to specific productions on which he worked. They include interviews with local papers, reviews for local papers, correspondence, and one research file on Bob Fosse.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid112128" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid112128" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Bob Fosse (White's personal research file)</unittitle>
+                        <container id="cid112127" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Interviews with Burton White,</unittitle>
+                        <container id="cid112126" type="Folder" label="Mixed materials">3-4</container>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Resignation from Pittsburgh Playhouse,</unittitle>
+                        <container id="cid112125" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>July 3, 1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Local theatre reviews by Burton White for the 
+                            <title>Pitt News</title>,</unittitle>
+                        <container id="cid112124" type="Folder" label="Mixed materials">6-7</container>
+                        <unitdate>1984</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Productions</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>This series of files relates to the numerous productions of which Burton White was a part. The files, arranged alphabetically by title, contain production scripts, notes, programs, stage manager's books, newspaper clippings, and musical scores.</p>
+                </scopecontent>
+                <c02 id="ref52" level="subseries">
+                    <did>
+                        <unittitle>American Theatre Company of Hawaii</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dreamgirls</title> - American Theatre Company of Hawaii,</unittitle>
+                            <container id="cid112119" type="Folder" label="Mixed materials">8-10</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dreamgirls</title> - American Theatre Company of Hawaii,</unittitle>
+                            <container id="cid112118" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid112118" type="Folder">1-9</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref59" level="subseries">
+                    <did>
+                        <unittitle>Carnegie Mellon University Drama</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Two Women</title> - by Lisa Humbertson 1st Prize Bud Yorkin Playwrighting Contest, Carnegie Mellon University,</unittitle>
+                            <container id="cid112101" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid112101" type="Folder">1</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref49" level="subseries">
+                    <did>
+                        <unittitle>Gargaro Productions</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bye Bye Birdie</title> - Gargaro Productions,</unittitle>
+                            <container id="cid112123" type="Folder" label="Mixed materials">2-6</container>
+                            <unitdate>1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Joseph and the Amazing Technicolor Dreamcoat</title> - Gargaro Productions,</unittitle>
+                            <container id="cid112113" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid112113" type="Folder">1-3</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Joseph and the Amazing Technicolor Dreamcoat</title> - instrumental music,</unittitle>
+                            <container id="cid112098" type="Cassette" label="Mixed materials">1</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jesus Christ Superstar</title>,</unittitle>
+                            <container id="cid1398001" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref51" level="subseries">
+                    <did>
+                        <unittitle>Great American Melodrama &amp; Vaudeville</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Cinderella, or, the Show Must Go On</title> - Great American Melodrama &amp; Vaudeville,</unittitle>
+                            <container id="cid112121" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dead Pan Lost</title> - Great American Melodrama &amp; Vaudeville</unittitle>
+                            <container id="cid112120" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Perils of Pismo Peg</title> - Great American Melodrama &amp; Vaudeville,</unittitle>
+                            <container id="cid112107" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref50" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Opera Theater</unittitle>
+                        <unitid>5.</unitid>
+                    </did>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Orfeo and Euridice</title> - Pittsburgh Opera Theater,</unittitle>
+                            <container id="cid112108" type="Folder" label="Mixed materials">8-10</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref47" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Playhouse</unittitle>
+                        <unitid>6.</unitid>
+                    </did>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Chorus Line</title> - Pittsburgh Playhouse,</unittitle>
+                            <container id="cid112122" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid112122" type="Folder">1-6</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Godspell</title> - Pittsburgh Playhouse,</unittitle>
+                            <container id="cid112117" type="Folder" label="Mixed materials">7-8</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jesus Christ Superstar</title>,</unittitle>
+                            <container id="cid1398002" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid1398002" type="Folder">1</container>
+                            <unitdate>1985, 1992</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref55" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater</unittitle>
+                        <unitid>7.</unitid>
+                    </did>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Night of the Iguana</title> - Pittsburgh Public Theater,</unittitle>
+                            <container id="cid112111" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref54" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Savoyards</unittitle>
+                        <unitid>8.</unitid>
+                    </did>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Princess Ida</title> - Pittsburgh Savoyards,</unittitle>
+                            <container id="cid112105" type="Folder" label="Mixed materials">3-7</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref58" level="subseries">
+                    <did>
+                        <unittitle>Robert Morris Colonial Theatre</unittitle>
+                        <unitid>9.</unitid>
+                    </did>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Roar of the Greasepaint</title> - Robert Morris Colonial Theatre</unittitle>
+                            <container id="cid112103" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref48" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival</unittitle>
+                        <unitid>10.</unitid>
+                    </did>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">No Holds Bard</title> - Three Rivers Shakespeare Festival,</unittitle>
+                            <container id="cid112110" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Tammy Grimes</title> - Three Rivers Shakespeare Festival,</unittitle>
+                            <container id="cid112102" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid112102" type="Folder">1</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Variable Passion</title> - Three Rivers Shakespeare Festival,</unittitle>
+                            <container id="cid112099" type="Folder" label="Mixed materials">2-5</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref53" level="subseries">
+                    <did>
+                        <unittitle>University of Pittsburgh Theatre Arts Department</unittitle>
+                        <unitid>11.</unitid>
+                    </did>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Good/Windows of Heaven</title> - University of Pittsburgh Theatre Arts and the Jewish Playwrights Conference,</unittitle>
+                            <container id="cid112116" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">On Broadway</title> - University of Pittsburgh Theatre Arts</unittitle>
+                            <container id="cid112109" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref57" level="subseries">
+                    <did>
+                        <unittitle>Miscellaneous and Unidentified Productions</unittitle>
+                        <unitid>12.</unitid>
+                    </did>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Unidentified production notes</unittitle>
+                            <container id="cid112100" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid112100" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hair</title> - commercial score</unittitle>
+                            <container id="cid112115" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Leader of the Pack</title>,</unittitle>
+                            <container id="cid112112" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Pittsburgh Brewing Company - 125th Anniversary Project</unittitle>
+                            <container id="cid112106" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

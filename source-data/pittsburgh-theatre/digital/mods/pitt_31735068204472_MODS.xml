@@ -1,0 +1,35 @@
+
+<mods:mods xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:titleInfo>
+    <mods:title>Theatre program - Waddy, the Fat Boy!; Idiot Witness!,</mods:title>
+  </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre>archival document</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther type="display">December 4, 1875</mods:dateOther>
+  </mods:originInfo>
+  <mods:identifier type="pitt">31735068204472</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Ford E. and Harriet R. Curtis Theatre Collection of Pittsburgh Theatre Programs</mods:title>
+    </mods:titleInfo>
+    <mods:identifier type="local-asc">CTC.1966.01</mods:identifier>
+    <mods:originInfo>
+      <mods:dateCreated>1840-present</mods:dateCreated>
+    </mods:originInfo>
+    <mods:note type="series">I. 19th Century Pittsburgh Theatres, 1840-1935</mods:note>
+    <mods:note type="subseries">7. Klopfer&apos;s Hall, 1875-1878</mods:note>
+    <mods:note type="container"></mods:note>
+    <mods:note type="ownership">ULS Special Collections Department</mods:note>
+    <mods:note type="prefercite">Ford E. and Harriet R. Curtis Theatre Collection of Pittsburgh Theatre Programs, 1840-present, CTC.1966.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="unknown" publication.status="unknown"></copyrightMD:copyright>
+  </mods:accessCondition>
+</mods:mods>

@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197601</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Philip Hart Dunning Papers, 1915-1968
+                    <num>CTC.1976.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Christie Graci in June 2010.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>December 23, 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Philip Hart Dunning Papers</unittitle>
+            <unitid>CTC.1976.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.3 linear feet</extent>
+                <extent>(8 boxes)</extent>
+            </physdesc>
+            <unitdate>1915–1968</unitdate>
+            <abstract id="ref235" label="Abstract">Phillip Hart Dunning was a playwright, producer, director, stage manager, and as a young man also an actor. He is best known as the co-author and co-director, with George Abbott, of the 1926 hit, 
+                <title render="italic">Broadway</title>. The collection contains play, radio, TV, and film scripts, one novel, and a few short stories. There is a very small amount of related material such as preliminary notes, correspondence, contracts, clippings, etc. included in the collection and filed according to play title with the script.</abstract>
+            <origination label="creator">
+                <persname source="naf">Dunning, Philip, 1890-1968</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Acquisition Information</head>
+            <p>Gift of George J. Barrere, 1976.</p>
+        </acqinfo>
+        <arrangement id="ref4">
+            <head>Arrangement</head>
+            <p>The collection is organized into five series:</p>
+            <p>I. Philip Dunning as Sole Author</p>
+            <p>II. Phillip Dunning as Collaborator</p>
+            <p>III. Phillip Dunning as Adapter</p>
+            <p>IV. Phillip Dunning as Producer</p>
+            <p>V. Associated Scripts</p>
+            <p></p>
+        </arrangement>
+        <scopecontent id="ref3">
+            <head>Scope and Content Notes</head>
+            <p>The collection contains many of Philip Hart Dunning’s personal scripts which include play, radio, TV, and film scripts, one novel, and a few short stories. While the collection represents a large portion of his work, it is by no means complete. A small amount of related material such as preliminary notes, correspondence, contracts, clippings, etc. is included in the collection and filed according to play title with the script. In cases where there is no script, a title is represented only by a synopsis. The collection comprises 94 titles in all, including some associated items, at least one of which is dated after Dunning’s death. In a few cases there is more than one version of a given title. Many of the scripts are original typescripts, however, most are copies, and most have annotations.</p>
+        </scopecontent>
+        <relatedmaterial id="ref165">
+            <head>Related Material</head>
+            <p>Script for 
+                <title render="italic">Sequel to a Verdict</title> (1963) can be found in the Curtis Theater Collection, PS3507/U67854.</p>
+        </relatedmaterial>
+        <bioghist id="ref2">
+            <head>Biography</head>
+            <p>Phillip Hart Dunning [December 11, 1892 (One source, 
+                <title render="italic">The Biographical Encyclopedia </title> and 
+                <title render="italic">Who’s Who of the American Theatre</title>, 1966, lists 1891 as Dunning’s birth date.) – July 20, 1968], playwright, producer, director, stage manager, and as a young man also an actor, began a long theatrical career in 1910 as assistant manager with a small part in 
+                <title render="italic">Pomander Walk </title>(Script not included in Dunning collection.). He wrote his first play, 
+                <title render="italic">Dollar Bill</title>, in 1915. He is best known as the co-author and co-director, with George Abbott, of the 1926 hit, 
+                <title render="italic">Broadway</title>, and his collaboration as author, producer, or director with Abbott continues into the 1930s, including 
+                <title render="italic">Lilly Turner</title> (1932), the Hecht-MacArthur play, 
+                <title render="italic">Twentieth Century</title> (1932), 
+                <title render="italic">Heat Lightning</title> (1933), 
+                <title render="italic">The Drums Begin</title> (1933), and 
+                <title render="italic">Kill That Story</title> (1934) which he wrote with Harry Madden. Without Abbott, Dunning produced 
+                <title render="italic">Page Miss Glory</title> (1930), written with Joseph Schrank and produced with Lawrence Schwab, 
+                <title render="italic">Remember the Day</title> (1935), which he wrote and produced with Philo Higley, and his final Broadway production, 
+                <title render="italic">Schoolhouse on the Lot</title> (1938), which he also directed. Dunning had begun to write screen plays some ten years earlier, and he continues to write for the movies until at least 1948, adapting many of the Broadway plays with which he had been associated to the screen. In the 1950’s and 1960’s he turned his craftsmanship to television. He was also a regular 
+                <title render="italic">Variety</title> by-liner, and for a short time, 1960-1963, edited the 
+                <title render="italic">Dramatists Bulletin</title>, organ of the Dramatists Guild. Although a prolific writer, he published only one play, 
+                <title render="italic">Sequel to a Verdict</title> (1963). When he died in 1968 at age 76, he left a completed play, also with a courtroom setting, 
+                <title render="italic">A Fantastic Chain of Events</title>, based on the Kennedy assassination. Among his survivors was his brother, Caesar Dunn, also a playwright.</p>
+        </bioghist>
+        <userestrict id="ref230">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <processinfo id="ref231">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jean Blanco. It was entered into Archivists' Toolkit by Christie Graci in June 2010.</p>
+        </processinfo>
+        <prefercite id="ref232">
+            <head>Preferred Citation</head>
+            <p>Philip Hart Dunning Papers, 1915-1968, CTC.1976.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref233">
+            <head>Previous Citation</head>
+            <p>Philip Hart Dunning Papers, 1915-1968, CTC.1976.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Philip Hart Dunning Papers, 1915-1968, CTC.11, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <controlaccess>
+            <persname source="naf">Abbott, George, 1887-1995</persname>
+            <persname source="naf">Andrews, Charlton, 1878-1939</persname>
+            <corpname source="naf">Dramatists Guild.</corpname>
+            <persname rules="aacr" source="local">Dunning, Philip, 1890-1968.  Broadway</persname>
+            <persname rules="aacr" source="local">Dunning, Philip, 1890-1968.  Dollar bill.</persname>
+            <persname rules="aacr" source="local">Dunning, Philip, 1890-1968.  Fantastic chain of events</persname>
+            <persname rules="aacr" source="local">Dunning, Philip, 1890-1968.  Little ivory ball</persname>
+            <persname rules="aacr" source="local">Dunning, Philip, 1890-1968.  Sequel to a verdict</persname>
+            <persname source="naf">Dunning, Philip, 1890-1968</persname>
+            <persname source="naf">Hecht, Ben, 1893-1964</persname>
+            <persname source="naf">Higley, Philo</persname>
+            <persname source="naf">MacArthur, Charles, 1895-1956</persname>
+            <persname source="naf">Schrank, Joseph</persname>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <genreform source="aat">Contracts</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Dramatists</subject>
+            <title source="local">Dramatists bulletin</title>
+            <genreform source="aat">Notes</genreform>
+            <subject source="lcsh">Performing arts -- Production and direction</subject>
+            <subject source="lcsh">Performing arts -- United States</subject>
+            <genreform source="aat">Personal papers</genreform>
+            <genreform source="aat">Scripts (Documents)</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+            <genreform source="aat">Typescripts</genreform>
+            <title source="local">Variety</title>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref169" level="series">
+                <did>
+                    <unittitle>Philip Dunning as Sole Author,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1915-1968</unitdate>
+                </did>
+                <scopecontent id="ref170">
+                    <head>Scope and Content Notes</head>
+                    <p>This series is arranged alphabetically by script title. It includes Dunning’s first play, 
+                        <title render="italic">Dollar Bill</title>, and unpublished novel, 
+                        <title render="italic">Little Ivory Ball</title> (1947), and notes relating to 
+                        <title render="italic">Sequel to a Verdict</title>, also various scripts written under various pseudonyms.</p>
+                </scopecontent>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Biographical information,</unittitle>
+                        <container id="cid702001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid702001" type="Folder">1</container>
+                        <unitdate>1966-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Andy McGluke. Written for TV. Plays: 
+                            <title render="italic">Andy McGluke Quits College</title>, 
+                            <title render="italic">Andy McGluke’s Dress Suit</title>, 
+                            <title render="italic">Andy McGluke’s Ringside Seat</title>, 
+                            <title render="italic">Andy McGluke’s Birthday party</title></unittitle>
+                        <container id="cid702002" type="Folder" label="Mixed materials">2-3</container>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Andy McGluke. Five of the finest. Plays: 
+                            <title render="italic">The Old Gent’s Footsteps</title>, 
+                            <title render="italic">Almost Promoted</title>, 
+                            <title render="italic">Ringside Arrest</title>, 
+                            <title render="italic">Wild Goose Chase</title></unittitle>
+                        <container id="cid702003" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Away Up Yonder</title>; a new play. Registered under previous title: 
+                            <title render="italic">The Big Attraction</title>. Latest version July 1967. With revisions,</unittitle>
+                        <container id="cid702004" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Big Depression</title>. As presented at the Lambs Gambol, January 11, 1931. With penciled annotations and corrections,</unittitle>
+                        <container id="cid702005" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Big Puff</title>; a new comedy. With revisions</unittitle>
+                        <container id="cid702006" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Boy and Girl</title>,</unittitle>
+                        <container id="cid702007" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Colored Actress and the Nigger Porter</title> (water damaged),</unittitle>
+                        <container id="cid702008" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Copacabana</title>; a filmusical synopsis,</unittitle>
+                        <container id="cid702009" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Could I Borrow a Match?</title> A comedy in one act</unittitle>
+                        <container id="cid702010" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Crime of the Century</title>. Screen version. With revisions,</unittitle>
+                        <container id="cid702011" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                    <otherfindaid id="ref182">
+                        <head>See Also</head>
+                        <p>3:15.</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Curtain Going Up</title>; [film] treatment. Revised July 1948</unittitle>
+                        <container id="cid702012" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Curtain Going Up</title>. Miscellaneous notes and clippings</unittitle>
+                        <container id="cid702013" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Curtain Going Up</title>. Revised August 1948</unittitle>
+                        <container id="cid702014" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dollar Bill</title>; or, 
+                            <title render="italic">Spuds</title>. A farcical adventure. Dunning's 1st play,</unittitle>
+                        <container id="cid702015" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dollars and Horse Sense</title>. Mimeograph. Includes wardrobe, property, light, sound, and motion picture plots</unittitle>
+                        <container id="cid702016" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid702016" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dollars and Horse Sense</title>. Without plots</unittitle>
+                        <container id="cid702017" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Elmer Tosses a Party</title></unittitle>
+                        <container id="cid702018" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Happy Home</title></unittitle>
+                        <container id="cid702019" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Home and Mother</title>; or, 
+                            <title render="italic">Back to Earth</title>. Alternate title: 
+                            <title render="italic">Never Too Late</title>,</unittitle>
+                        <container id="cid702020" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Horses are Honest</title>; a television play</unittitle>
+                        <container id="cid702021" type="Folder" label="Mixed materials">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Jury Play</title>. Notes for play idea. Holograph,</unittitle>
+                        <container id="cid702022" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                    <otherfindaid id="ref194">
+                        <head>See Also</head>
+                        <p>3:11-13.</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Jury Play</title>. Clippings and data,</unittitle>
+                        <container id="cid702023" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">King of Coffee</title>; a musical play in two acts. Music by Brazilian composers [not included]</unittitle>
+                        <container id="cid702024" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Knee Deep in Diamonds</title>; a television play</unittitle>
+                        <container id="cid702025" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Last Rehearsal</title></unittitle>
+                        <container id="cid702026" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Let There be Light</title>; a new play. Mimeograph copy</unittitle>
+                        <container id="cid702027" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Brown Jug</title></unittitle>
+                        <container id="cid702028" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Ivory Ball</title>, a novel. Includes TLS rejection from Satevepost, 1947, and news clips</unittitle>
+                        <container id="cid702029" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Man in a High Hat</title>; a screen play. With penciled notes</unittitle>
+                        <container id="cid702030" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid702030" type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Tin Badge</title>. By William Miller and Ben Madden [pseudonyms for P. Dunning]</unittitle>
+                        <container id="cid702031" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Money Don’t Grow on Trees</title>; a comedy in one act. With inked revisions</unittitle>
+                        <container id="cid702032" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Mysterious Mystery</title>. With penciled notes</unittitle>
+                        <container id="cid702033" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Night Hostess</title>; scenario</unittitle>
+                        <container id="cid702034" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">One Born Every Minute</title></unittitle>
+                        <container id="cid702035" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pardon My Gun</title>; blood and thunder with music. Book by D.V. Hart. [Pseud. for P. Dunning.] With penciled notes</unittitle>
+                        <container id="cid702036" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Professional</title>,</unittitle>
+                        <container id="cid702037" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Run for Your Money</title>; a television play</unittitle>
+                        <container id="cid702038" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sequel to a Verdict</title>. Notes, outline, plots, ground plan, etc. (Play published by Dramatists Play Service, 1963. Previously referred to a 
+                            <title render="italic">Courtroom Play</title>; original title: 
+                            <title render="italic">Account of a Trial</title>),</unittitle>
+                        <container id="cid702039" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1963</unitdate>
+                    </did>
+                    <otherfindaid id="ref212">
+                        <head>See Also</head>
+                        <p>2:8-9</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sequel to a Verdict</title>. Background clippings and data</unittitle>
+                        <container id="cid702040" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sequel to a Verdict</title>. Correspondence,</unittitle>
+                        <container id="cid702041" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1959-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sh! Sh! Listen!</title> Alternate title on cover: 
+                            <title render="italic">Ether Waves</title></unittitle>
+                        <container id="cid702042" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Shadow of Doubt</title>; or, 
+                            <title render="italic">The Crime of the Century</title></unittitle>
+                        <container id="cid702043" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                    <otherfindaid id="ref217">
+                        <head>See Also</head>
+                        <p>1:12.</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Show Folks</title></unittitle>
+                        <container id="cid702044" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Show Beautiful Snow</title>. Version 1, 11p. With inked revisions</unittitle>
+                        <container id="cid702045" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Show Beautiful Snow</title>. Version 2, 20p</unittitle>
+                        <container id="cid702046" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Spontaneous Combustion</title>: a new play by David Hart and Mary Niles Van Loon [Pseuds. for P. Dunning]</unittitle>
+                        <container id="cid702047" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sweet Land of Liberty</title>. A new play in two acts</unittitle>
+                        <container id="cid702048" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sweet Land of Liberty</title>. A new play in three acts,</unittitle>
+                        <container id="cid702049" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The 13th Year of Abie and His Irish Rose</title>; a satirical burlesque</unittitle>
+                        <container id="cid702050" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">This is My girl</title>; screenplay treatment</unittitle>
+                        <container id="cid702051" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Too True</title>; or, 
+                            <title render="italic">Sock ‘em on the Bean</title>. With inked revisions</unittitle>
+                        <container id="cid702052" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Two Dollar Bettor</title>. [Short story] Alternate title inked on cover: 
+                            <title render="italic">Two Horse Parlay</title></unittitle>
+                        <container id="cid702053" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref77" level="series">
+                <did>
+                    <unittitle>Philip Dunning as Collaborator</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1927-1971</unitdate>
+                </did>
+                <scopecontent id="ref160">
+                    <head>Scope and Content Notes</head>
+                    <p>Series II is arranged alphabetically by the name of the co-author. It includes the final script, the tryout version, a television adaptation, and two later play adaptations by George Abbott, of the play 
+                        <title render="italic">Broadway</title>. Among the other collaborators are Charlton Andrews, Philo Higley (
+                        <title render="italic">Remember the Day</title> (1935) includes stage inventories, reviews, etc.), John Mcnulty, Harry Madden, and others.</p>
+                </scopecontent>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>With George Abbott. 
+                            <title render="italic">The Big Shot</title>. Book by George Abbot. Based on Broadway</unittitle>
+                        <container id="cid683033" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid683033" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>With George Abbott. 
+                            <title render="italic">Broadway</title>; a play in three acts. Tryout version</unittitle>
+                        <container id="cid683034" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>With George Abbott. 
+                            <title render="italic">Broadway</title>; a play in three acts. Adapted for television as a drama with music by P. Dunning</unittitle>
+                        <container id="cid683035" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>With George Abbott. 
+                            <title render="italic">A Party at the Paradise</title>; a two act play by George Abbott, based on 
+                            <title render="italic">Broadway</title></unittitle>
+                        <container id="cid683036" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>With George Abbott. 
+                            <title render="italic">Speak Easy</title>. Book by George Abbott. Inked on t.p.,</unittitle>
+                        <container id="cid683037" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>With Charlton Andrews. 
+                            <title render="italic">Hoky Hollywood</title>; a farce in three acts. With revisions,</unittitle>
+                        <container id="cid683039" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>With John Beane. 
+                            <title render="italic">Head over Heart</title>; a new comedy</unittitle>
+                        <container id="cid683038" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>With Curtis Benton. 
+                            <title render="italic">The late John Barleycorn; a Travesty on Prohibition</title>. Telephone business by P. Dunning</unittitle>
+                        <container id="cid685001" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>With Hal Borland. 
+                            <title render="italic">America is Americans; a Patriotic Playlet</title>. On cover: Corrected. Mimeograph copy</unittitle>
+                        <container id="cid685002" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>With Barton Browne. 
+                            <title render="italic">Royal Strings</title>,</unittitle>
+                        <container id="cid685003" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>With Jack Donahue. 
+                            <title render="italic">The Understudy</title>; a comedy in three acts</unittitle>
+                        <container id="cid685004" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>With Jo Eisinger and Stephen Van Gluck. 
+                            <title render="italic">Public Benefactor</title>; an original melodrama in three acts. Collaboration agreement with Philip Dunning and optioned by Dunning. Motion picture on theme made by MGM (stained),</unittitle>
+                        <container id="cid685005" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid685005" type="Folder">1</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>With Rita Q. Ford. 
+                            <title render="italic">Three Girls and a Pearl</title>; a new comedy,</unittitle>
+                        <container id="cid685006" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>With Milton Gropper. 
+                            <title render="italic">Anything for a Laugh</title>,</unittitle>
+                        <container id="cid685007" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>With Lawrence Gross. 
+                            <title render="italic">Face Values</title>; a new comedy in two acts,</unittitle>
+                        <container id="cid685011" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>With James Hagan. 
+                            <title render="italic">Double in Brass</title>; screen play scenario</unittitle>
+                        <container id="cid685012" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>With Sam Hellman and Abel Green. Notes and suggestions by P. Dunning on Mr. Broadway, screen play by Hellman and Green</unittitle>
+                        <container id="cid685013" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>With Philo Higley. 
+                            <title render="italic">Remember the Day</title>; a new play. Mimeograph copy,</unittitle>
+                        <container id="cid685014" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>With Philo Higley. 
+                            <title render="italic">Remember the Day</title>; a new play. Reviewed 1963. Includes theatre flyer,</unittitle>
+                        <container id="cid685015" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>With Philo Higley. 
+                            <title render="italic">Remember the Day</title>; a new play. Stage manager’s inventories; wardrobe, electrical materials, properties, scenery</unittitle>
+                        <container id="cid685016" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>With Philo Higley. 
+                            <title render="italic">Remember the Day</title>; a new play. Reviews of the production at the National Theatre, September,</unittitle>
+                        <container id="cid685017" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>With Philo Higley. 
+                            <title render="italic">Remember the Day</title>; a new play. Screen treatment for new ending, by P. Dunning</unittitle>
+                        <container id="cid685018" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>With N.C. Hunter. 
+                            <title render="italic">Palm Beach</title>; a comedy in three acts</unittitle>
+                        <container id="cid685019" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>With John McNulty. 
+                            <title render="italic">What Goes on Here</title>. Based on John McNulty’s New Yorker stories. April draft,</unittitle>
+                        <container id="cid685020" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>With John McNulty. 
+                            <title render="italic">What Goes on Here</title>. With penciled notes. September,</unittitle>
+                        <container id="cid685021" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>With John McNulty. 
+                            <title render="italic">What Goes on Here</title>. Stage diagrams</unittitle>
+                        <container id="cid685022" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>With John McNulty. 
+                            <title render="italic">What Goes on Here</title>. Dunning’s “Notes and rough layout” for McNulty’s stories. February,</unittitle>
+                        <container id="cid685023" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>With John McNulty. 
+                            <title render="italic">What Goes on Here</title>. Paramount contracts (movie title: 
+                            <title render="italic">Third Avenue</title>), signed and notarized carbon; TLS from Paramount,</unittitle>
+                        <container id="cid685024" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>With John McNulty. 
+                            <title render="italic">What Goes on Here</title>. 11 New Yorker stories. Clippings,</unittitle>
+                        <container id="cid685025" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1941-1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>With Harry Madden. 
+                            <title render="italic">Bedtime for Ali Baba</title>; a play in two acts and seven scenes. Mimeograph copy,</unittitle>
+                        <container id="cid685008" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid685008" type="Folder">1</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>With Harry Madden. 
+                            <title render="italic">Kill That Story</title>. MGM synopsis. Summer tryout, Langner’s Country Theatre, Westport. Mimeograph copy,</unittitle>
+                        <container id="cid685009" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>With Joseph Schrank. 
+                            <title render="italic">Page Miss Glory</title>; 2 plays in two acts. Mimeograph copy,</unittitle>
+                        <container id="cid685010" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>With Charles Sherman. 
+                            <title render="italic">A Thousand Times</title>, no. 1939. Mimeograph copy</unittitle>
+                        <container id="cid685027" type="Folder" label="Mixed materials">4-5</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>With Robert Wilder. A new play by P. Dunning and Robert Wilder. Dunning’s 1st draft of Act I, from Wilder’s novel, 
+                            <title render="italic">Flamingo Road</title></unittitle>
+                        <container id="cid685028" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>With Louis Wolheim. 
+                            <title render="italic">History Repeats Itself</title>; or, 
+                            <title render="italic">Even in Robe</title>. Talking picture scenario. 1st draft,</unittitle>
+                        <container id="cid685029" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref114" level="series">
+                <did>
+                    <unittitle>Philip Dunning as Adaptor</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1936-1944</unitdate>
+                </did>
+                <scopecontent id="ref162">
+                    <head>Scope and Content Notes</head>
+                    <p>This series is arranged alphabetically by the original author of the play.</p>
+                </scopecontent>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Farrago, Alexander. 
+                            <title render="italic">Playland</title> (working title). A play in three acts. Translated from Hungarian. P. Dunning’s version,</unittitle>
+                        <container id="cid685031" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Hagan, James, and P. Dunning. 
+                            <title render="italic">Reaching for a Star</title> [short story] by P. Dunning based on a play by Hagan and Dunning</unittitle>
+                        <container id="cid685032" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Mack, Willard. 
+                            <title render="italic">The Dove</title>. Dialogue adaptation by James Ashmore Creelman. Screen version of Broadway play [adapted by P. Dunning?] Mimeograph copy with penciled notes</unittitle>
+                        <container id="cid685033" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Wector, Dixon. 
+                            <title render="italic">Johnny Comes Marching Home</title>. Synopses of adaptations by P. Dunning. With notes</unittitle>
+                        <container id="cid685034" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Wector, Dixon. 
+                            <title render="italic">Johnny Comes Marching Home</title>. Armstrong’s Theatre of Today script. November 11. Mimeograph copy,</unittitle>
+                        <container id="cid685035" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Wector, Dixon. 
+                            <title render="italic">Johnny Comes Marching Home</title>. P. Dunning’s notes. Holograph</unittitle>
+                        <container id="cid685036" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref122" level="series">
+                <did>
+                    <unittitle>Philip Dunning as Producer</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1932-1945</unitdate>
+                </did>
+                <scopecontent id="ref163">
+                    <head>Scope and Content Notes</head>
+                    <p>This series is arranged alphabetically by author of the play. Includes the script, photographs, and stage inventories for the play 
+                        <title render="italic">Schoolhouse on the Lot</title> which had its Broadway premiere at the Ritz Theatre on March 22, 1938.</p>
+                    <p>Dunning was also the producer for the following productions - 
+                        <title render="italic">Broadway</title>, 
+                        <title render="italic">Night Hostess</title>, 
+                        <title render="italic">Sweet Land of Liberty</title>, 
+                        <title render="italic">Kill that Story</title>, 
+                        <title render="italic">Page Miss Glory</title>, 
+                        <title render="italic">Remember the Day</title>. The materials for these shows appear in the earlier series.</p>
+                </scopecontent>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Fields, Joseph A. and Jerome Comoro. 
+                            <title render="italic">Schoolhouse on the Lot</title>; a play,</unittitle>
+                        <container id="cid685037" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid685037" type="Folders">1-2</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Fields, Joseph A. and Jerome Comoro. 
+                            <title render="italic">Schoolhouse on the Lot</title>; a play. Photographs</unittitle>
+                        <container id="cid697001" type="Folder" label="Photographic images">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Fields, Joseph A. and Jerome Comoro. 
+                            <title render="italic">Schoolhouse on the Lot</title>; a play. Miscellany: 3TLS, flyers; clippings</unittitle>
+                        <container id="cid685040" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Ford, Rita Q. 
+                            <title render="italic">Some Like It Hot</title>. Contract for try-out at Pine Grove Playhouse, Cambridge Springs, Pennsylvania,</unittitle>
+                        <container id="cid685041" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Hecht, Ben and Charles MacArthur. 
+                            <title render="italic">Twentieth Century</title>. a new play based on a play by Charles Millholland. Property of Abbot-Dunning, Inc. Mimeograph copy with penciled notes. Includes ground plans and program,</unittitle>
+                        <container id="cid685042" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Klee, Lawrence. 
+                            <title render="italic">The Sergeant</title>. Victory players script. American Theatre Wing. Produced in Connecticut by P. Dunning. Mimeograph copy,</unittitle>
+                        <container id="cid685038" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref130" level="series">
+                <did>
+                    <unittitle>Associated Materials,</unittitle>
+                    <unitid>V.</unitid>
+                    <unitdate>1943-1959</unitdate>
+                </did>
+                <scopecontent id="ref164">
+                    <head>Scope and Content Notes</head>
+                    <p>This series collects the scripts of Dunning's brother, playwright and screen writer Caesar Dunn. All of the scripts in this series are undated. There is also one folder of newspaper clippings relating to Philip Dunning.</p>
+                </scopecontent>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Bridal Sweetie</title></unittitle>
+                        <container id="cid685043" type="Folder" label="Mixed materials">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Bridal Sweetie</title>. 
+                            <title render="italic">Broadway Bandits</title>; a tonsorial satire</unittitle>
+                        <container id="cid685044" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Caresses</title>; a continental comedy of the art studios</unittitle>
+                        <container id="cid685045" type="Folder" label="Mixed materials">11-12</container>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Count</title>; a play</unittitle>
+                        <container id="cid685046" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Gay Deceiver</title>. Transcript</unittitle>
+                        <container id="cid685047" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Jury Duty for Maggie</title>; a musical dream</unittitle>
+                        <container id="cid685048" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Love Doctor</title>. 2 copies. Includes published columns (clippings)</unittitle>
+                        <container id="cid685049" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Moral Man</title>; a financial farce</unittitle>
+                        <container id="cid685050" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Only a Husband</title></unittitle>
+                        <container id="cid685051" type="Folder" label="Mixed materials">18-19</container>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Silhouette</title></unittitle>
+                        <container id="cid685052" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid685052" type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The State Trooper</title></unittitle>
+                        <container id="cid685053" type="Folder" label="Mixed materials">3-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">What the Doctor Ordered</title>; a laughing prescription. Mimeograph</unittitle>
+                        <container id="cid685054" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Women at Races</title>. 2 copies. Includes published column (clipping)</unittitle>
+                        <container id="cid685055" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid960001" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1943-1959</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

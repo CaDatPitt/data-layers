@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>G. Norman Reis papers, 1909-1946</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Papers of G. Norman Reis, 1909-1946</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Reis papers, 1909-1946</title>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>University of Pittsburgh alumni review</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Reis, G. Norman</namePart>
+    <namePart type="date">1893-1958</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Reis, G. Norman</namePart>
+    <namePart type="date">1893-1958</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Kelly, Gene</namePart>
+    <namePart type="date">1912-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Toomey, Regis</namePart>
+    <namePart type="date">1898-1991</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Thompson, Woodman.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Pittsburgh Athletic Association</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Performing arts-Souvenirs.</genre>
+  <genre authority="aat">Performing arts-Programs.</genre>
+  <genre authority="aat">Performing arts-Photographs.</genre>
+  <genre authority="aat">Performing arts-Scripts.</genre>
+  <genre authority="aat">Performing arts-Music.</genre>
+  <genre authority="aat">Performing arts-Financial records-Pennsylvania-Pittsburgh.</genre>
+  <genre authority="aat">Performing arts-Correspondence.</genre>
+  <genre authority="aat">Performing arts-Motion pictures.</genre>
+  <genre authority="aat">Performing arts-Scrapbooks.</genre>
+  <genre authority="aat">Performing arts-Phonograph records.</genre>
+  <genre authority="aat">Performing arts-Songs.</genre>
+  <genre authority="aat">Performing arts-Clippings.</genre>
+  <genre authority="aat">Performing arts-Personal papers-Pennsylvania-Pittsburgh.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1909-1946.</dateOther>
+    <dateIssued encoding="marc" point="start">1909</dateIssued>
+    <dateIssued encoding="marc" point="end">1946</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft.">3.5</extent>
+    <note type="arrangement">Organized into 5 series: I. Personal Memorabilia; II. Dramatic Productions Other than Cap and Gown; III. Sheet Music; IV. Cap and Gown Productions; V. Cap and Gown Productions, Oversized Materials.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">The personal papers of G. Norman Reis pertain predominantly to the University of Pittsburgh's Cap and Gown Club, including souvenir and leaf programs, scripts, music, news clippings, financial records, correspondence, films, photographs, scrapbooks, and phonograph records. These categories are not complete in any of the cases. Besides individual music scores, music can also be found in some souvenir programs. Items not associated with the Cap and Gown Club include Reis' script, Harmony Island, the Pittsburgh Athletic Association's 1917 drama club presentation, and unidentified scripts. There are also materials on other all-male musical comedy groups such as Mask and Wig (University of Pennsylvania) and Triangle Club (Princeton University) programs and/or sheet music, University of Pittsburgh fight songs, including a victory song with words by Reis, miscellaneous music, as well as several issues of the Pitt Alumni Review for which Reis served as chairman and member of the editorial board.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">G. Norman Reis Papers, 1909-1946, CTC.1985.02, Curtis Theatre Collection, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Helen Whitlinger, 1985.</note>
+  <note type="biographical/historical">G. Norman Reis, born February 23, 1893 in Pittsburgh, Pa., was a member of the class of 1916 at the University of Pittsburgh. He was a veteran contributor to the university's Cap and Gown Club - an all male organization devoted to the production of annual musical comedy shows. Beginning with the 1913 show, Prince of Sham, Reis collaborated with men, such as Gus Schnabel and Louis Fushan, on the book of lyrics for many of the club's productions. In addition, he served on many committees and held offices in the club from the time of his earliest association until his death in 1958. These productions always used original books, lyrics, and music contributed by students at the University or by alumni members of the Cap and Gown Club. Many important figures had their earliest training and experience with the Cap and Gown, including Regis Toomey, motion picture and musical comedy star, Woodman Thompson, a scenic designer, and Gene Kelly, dancer, instructor and director. Reis was employed as a bacteriologist at U.S. Steel. He was an avid photographer, and, for a brief period, served as the official photographer for the Pitt Alumni Review as well as chairman and member of the editorial board. He died at the age of 65, three months after his retirement.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198502">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198502</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Reis, G. Norman</namePart>
+      <namePart type="date">1893-1958</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh.</namePart>
+      <namePart>Cap and Gown Club.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Mask and Wig Club.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Princeton University.</namePart>
+      <namePart>Triangle Club.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Bacteriologists</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>College theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>College and school drama, American</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Student activities</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>College theater</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Harmony Island</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Reis, G. Norman,</namePart>
+      <namePart type="date">1893-1958</namePart>
+    </name>
+  </relatedItem>
+  <identifier type="oclc">ocm31095687</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198501</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940913</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131822.0</recordChangeDate>
+    <recordIdentifier>1470176</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc198501</identifier></mods>

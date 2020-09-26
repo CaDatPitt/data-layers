@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc196101</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the J. Paul Scheetz Papers, 1953-1973
+                    <num>CTC.1961.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Jeanette Blanco</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>March 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:57-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>J. Paul Sheetz Papers</unittitle>
+            <unitid>CTC.1961.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate>1953-1973</unitdate>
+            <abstract id="ref1" label="Abstract">J. Paul Sheetz was a stockholder of the Edward Spector Productions, which was founded as Theater 200 in 1954. This collection of correspondence, financial statements and newspaper clippings details the history of the firm through its dissolution in 1972.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Sheetz, J. Paul</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>History</head>
+            <p>This collection of papers, as described by Mr. Sheetz, reveals "the building, development, and the eventual demise of an organization which was established to finance and promote new Broadway productions." Mr. Scheetz was a stockholder in Edward Spector Productions, which was founded as Theater 200 in 1954. The original capital of the firm was $500,000, and shares were offered in units of $2,500, for which the successful investments included 
+                <title render="italic">Gypsy</title>, 
+                <title render="italic">The Music Man, Any Wednesday</title>, and 
+                <title render="italic">Henry, Sweet Henry</title>. The company was dissoved on April 30, 1972 and its' remaining assets were assigned to Edward Spector. The company showed a deficit of $498,894.29 upon liquidation.</p>
+        </bioghist>
+        <scopecontent id="ref3">
+            <head>Scope and Content Notes</head>
+            <p>The files are arranged chronologically and contain correspondence to stockholders, correspondence to and from Mr. Scheetz, financial statements (both annual reports and reports for individual plays), as well as a few clippings and reviews of the successful plays that the company financed.</p>
+        </scopecontent>
+        <accessrestrict id="ref4">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <odd id="ref25">
+            <head>Previous Citation</head>
+            <p>J. Paul Scheetz Papers, 1953-1973, CTC.1961.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Papers of J. Paul Scheetz, 1953-1973, CTC.13, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>J. Paul Scheetz Papers, 1953-1973, CTC.1961.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref6">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jeanette Blanco in 1983.</p>
+        </processinfo>
+        <userestrict id="ref7">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <acqinfo id="ref10">
+            <head>Acquisition Information</head>
+            <p>Gifts of J. Paul Scheetz in 1961-1964, 1972, 1983.</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Edward Spector Productions. -- Records and correspondence</corpname>
+            <persname rules="aacr" source="local">Sheetz, J. Paul</persname>
+            <persname rules="aacr" source="local">Spector, Edward</persname>
+            <corpname rules="aacr" source="local">Theater 200. -- Records and correspondence</corpname>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Financial records</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- New York (State) -- New York -- Finance</subject>
+            <subject source="lcsh">Theater -- Production and direction -- New York (State) -- New York -- Finance</subject>
+            <subject source="lcsh">Theatrical producers and directors -- New York (State) -- New York</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Materials,</unittitle>
+                    <container id="cid325003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid325003" type="Folder">1-3</container>
+                    <unitdate>1953-1973</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

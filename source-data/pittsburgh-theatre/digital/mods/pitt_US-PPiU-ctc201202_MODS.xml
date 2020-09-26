@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Kathleen George Papers 1962-2014</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>George, Kathleen</namePart>
+    <namePart type="date">1943-</namePart>
+    <role>
+      <roleTerm type="text">creator.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Manuscripts for publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1962-2014</dateOther>
+    <dateIssued encoding="marc" point="start">1962</dateIssued>
+    <dateIssued encoding="marc" point="end">2014</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="(80 document boxes)">36.0 linear feet</extent>
+    <note type="arrangement">The papers are organized into four series.  Series I. Academic Career, 1978-2011  Series II. Correspondence and Other Materials, 1964-2009  Series III. Writing Career, 1961-2014  Series IV. Oversized Materials, 1979-2012</note>
+  </physicalDescription>
+  <abstract type="Summary">Kathleen George is a professor in the Theatre Arts Department at the University of Pittsburgh and an accomplished author.  This collection contains drafts of her books and short stories, along with the research and promotional materials related to these works.  Materials representing her 30 plus years of teaching can also be found in the collection.</abstract>
+  <abstract type="Summary">This collection documents Kathleen George's lifelong passion for teaching and creative writing. The papers include materials relating to the creation and publishing of all of her creative works, along with files related to her academic career, primarily at the University of Pittsburgh.  Related to her academic career, the collection contains materials on many of the courses that she taught.  There is also documentation for the Pitt theatre productions that she directed and her work with the Semester at Sea program.  The largest group of materials are related to Dr. George's literary works.  There are many different varieties of output for her writing-- academic articles, theatre reviews, book reviews, short fiction, academic and instructional text books, novels, etc.  All of Dr. George's unpublished works are also contained in the collection and are available for use.</abstract>
+  <accessCondition type="restriction on access">No restrictions other than Box 20, Folders 5-11 which will be closed until 2040.</accessCondition>
+  <accessCondition type="use and reproduction">The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</accessCondition>
+  <note>Processing Information: This collection was processed by William Daw, Claire Cohen, and Kaley Kilpatrick in 2013-2014.</note>
+  <note type="preferred citation">Kathleen George Papers, 1962-2014, CTC.2012.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note type="acquisition">Gifts donated by Kathleen George in 2012-2014.</note>
+  <note type="biographical/historical">Kathleen George was born in Johnstown, Pennsylvania, in 1943.  She attended college at the University of Pittsburgh's Johnstown campus for several years before transferring to Pitt's main campus in 1963.  She received  her bachelor of arts in English with an emphasis on creative writing in 1964, and her Master's degree in Theatre Arts in 1966.  Afterwards, she took an assistant professor position at Carlow College (1968-1976).  In 1975, she completed her PhD in Theatre from Pitt and the next year became an associate professor there.  Throughout the 1980s and 90s she directed many productions for the University of Pittsburgh Repertory Theatre and the Three Rivers Shakespeare Festival.  Also, during this time she published two academic works, her dissertation Rhythm in Drama and Playwriting: the First Workshop.    Kathleen had been writing since she was a teenager and in 1988, she completed a second Masters of Fine Arts degree in creative writing.  Her first of many published short stories was Country Tale in the journal Valhalla, in the fall of 1980.  Throughout the eighties and nineties, she continued to have her short fiction published in a variety of journals.  This culminated in the 1999 publication of a collection of these short stories, The Man in the Buick.  Since then, Kathleen has found great success with a series of novels featuring Pittsburgh Police detective Richard Christie.  The Odds, the fourth book in the series, was nominated for an Edgar award for best novel of 2009 by the Mystery Writers of America.</note>
+  <note>Three Rivers Shakespeare Festival Records, 1980-1995, CTC.1995.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.  University of Pittsburgh Theatre Arts Department Records, 1960-1986, CTC.1974.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>George, Kathleen</namePart>
+      <namePart type="date">1943-</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Shakespeare, William</namePart>
+      <namePart type="date">1564-1616</namePart>
+    </name>
+    <topic>Stage history</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh.</namePart>
+      <namePart>Department of Speech and Theatre Arts.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="conference">
+      <namePart>Three Rivers Shakespeare Festival (Pittsburgh, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>College theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Detective and mystery stories, American</topic>
+    <topic>Women authors</topic>
+  </subject>
+  <subject>
+    <topic>Faculty papers</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject>
+    <topic>Personal papers</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Women authors, American</topic>
+    <temporal>20th century</temporal>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocn922009991</identifier>
+  <relatedItem>
+    <location>
+      <url>http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?c=ascead;cc=ascead;q1=Kathleen%20George%20Papers;rgn=main;view=text;didno=US-PPiU-ctc201202</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">150924</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131838.0</recordChangeDate>
+    <recordIdentifier>8215443</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc201202</identifier></mods>

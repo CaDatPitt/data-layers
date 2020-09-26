@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197801</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Pitt Players Records, 1914-1961
+                    <num>CTC.1978.01</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>December 23, 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:59-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pitt Players Records</unittitle>
+            <unitid>CTC.1978.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(3 boxes)</extent>
+            </physdesc>
+            <unitdate>1914-1961</unitdate>
+            <abstract id="ref61" label="Abstract">The Pitt Players were a University of Pittsburgh student theatre group that operated between 1914-1960. This collection contains programs, photographs and other materials related to their performances. Digital reproductions of the Pitt Players programs and selected photographs are available online.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">University of Pittsburgh. Pitt Players.</corpname>
+            </origination>
+        </did>
+        <altformavail id="ref254">
+            <head>Existence and Location of Copies</head>
+            <p>Digital reproductions of the collection are available electronically. Links to digitized images of the individual programs are available in the Collection Inventory; 
+                <extref ns2:href="http://images.library.pitt.edu/cgi-bin/i/image/image-idx?q1=Pitt+players+records&amp;rgn1=hpicasc_cl&amp;type=simple&amp;c=hpicasc&amp;view=thumbnail">selected photographs</extref> were scanned and added to the University of Pittsburgh Historic Photographs collection.</p>
+        </altformavail>
+        <scopecontent id="ref255">
+            <head>Scope and Content Notes</head>
+            <p>The Pitt Players were a University of Pittsburgh student theatre group that operated between 1914-1960. This collection contains programs, photographs and other materials related to their performances.</p>
+        </scopecontent>
+        <prefercite id="ref63">
+            <head>Preferred Citation</head>
+            <p>Pitt Players Records, 1914-1961, CTC.1978.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref64">
+            <head>Previous Citation</head>
+            <p>Pitt Players Records, 1914-1961, CTC.1978.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Pitt Players Records, 1914-1961, CTC.05, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <accessrestrict id="ref79">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <arrangement id="ref78">
+            <head>Arrangement</head>
+            <p>I. Programs</p>
+            <p>II. Photographs</p>
+            <p>III. Newspaper clippings</p>
+            <p>IV. Marketing and other materials</p>
+        </arrangement>
+        <processinfo id="ref77">
+            <head>Processing Information</head>
+            <p>This collection was processed by William Daw and Kelsey Thayer in October 2010.</p>
+        </processinfo>
+        <bioghist id="ref65">
+            <head>History</head>
+            <p>The Pitt Players was a student theatre organization at the University of Pittsburgh. They evolved from the Thespian Society, which was the former theatre group before the University moved the campus to Oakland. The founder of the Pitt Players was faculty member George M .P. Baird. He financed, directed, and wrote several of the early plays. 
+                <title render="italic">Deirdre</title>, by William Butler Yeats, was their first production in 1914; it was performed in Trees gymnasium. The student members of the Players made their own costumes, built their own minimalist sets, and also helped to finance their shows. Their early performances were credited in the newspapers as some of the first experimental theatre productions in the city.</p>
+            <p>Each season, beginning in the fall, consisted of three or four plays. Each play would be performed between three to six times. Some performances were reserved for University of Pittsburgh students and faculty only. Occasionally, they would perform matinees for area high school students. Productions were halted during World War I, in part due to Baird's enlistment in the service. Pitt Players resumed in 1919 under the direction of Reginald Johnson. Starting in the 1930s, one or two additional productions were offered during the summer. Harvey J. Pope became the director of both the Cap and Gown Club and the Pitt Players in 1947. Before the construction of the Stephen Foster Memorial building, the Pitt Players performed at several locations and venues in Pittsburgh including the Irene Kaufmann Settlement, Heinz House, the Young Men's Hebrew Association, Falk School, Frick Training School, the Schenley Hotel's theater, and the Pittsburgh Playhouse. After 1937, nearly every performance was offered in the Stephen Foster Memorial building. When the Cap and Gown Club was disbanded in 1948, the Pitt Players began to incorporate the musical comedies that made the Cap and Gown Club so popular. The Department of Speech began offering theatre classes as part of their curriculum in 1960. As a result, the Pitt Players dissolved as an extracurricular student group and melded into the University's official theatre troupe. The student actors and actresses were still occasionally referred to as the Pitt Players, but soon even the name faded. In 1982 the Department of Theatre Arts was created and in 1999 the theatre company was named the University of Pittsburgh Repertory Theatre or Pitt Rep.</p>
+        </bioghist>
+        <relatedmaterial id="ref67">
+            <head>Related Material</head>
+            <p>Cap and Gown Club Records, 1908-1978, CTC.1980.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>George M.P. Baird Papers, ca. 1915-1960, CTC.1970.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>University of Pittsburgh Department of Theatre Arts Records, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <userestrict id="ref76">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname source="naf">University of Pittsburgh. Department of Speech and Theatre Arts.</corpname>
+            <corpname rules="aacr" source="local">University of Pittsburgh. Pitt Players.</corpname>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <subject source="lcsh">College and school drama, American -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">College theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Performing arts -- Study and teaching -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Study and teaching -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref40" level="series">
+                <did>
+                    <unittitle>Programs,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1916-1960</unitdate>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Content Notes</head>
+                    <p>The Pitt Players programs are arranged in chronological order. Starting with the 1940-1941 season, each season is housed in its' own individual folder.</p>
+                </scopecontent>
+                <c02 id="ref1" level="file">
+                    <did>
+                        <unittitle>Program chronology</unittitle>
+                        <container id="cid969001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid969001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref3" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid969002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1916-1925</unitdate>
+                    </did>
+                    <c03 id="ref109" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Marriage</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>April 1916</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973660">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref110" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">An English May Day</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>June 13, 1916</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973686">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref111" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Lovers of Allianora</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>April 27, 1917</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735044221632">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref113" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The New Poor</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>December 4, 1924</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973694">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref123" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Torch-Bearers</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>February 1925</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973777">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref112" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Dover Road</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>May 16, 1925</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973678">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279001" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1926-1930</unitdate>
+                    </did>
+                    <c03 id="ref115" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dulcy</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>March 1926 </unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973702">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref117" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Fashion</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>April 9, 1926</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program " ns2:href="31735037973710">
+                            <daodesc>
+                                <p>Program </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref118" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Best People</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>1928</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973728">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref119" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Pillars of Society</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>1929</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973736">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref120" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Cradle Song</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>1929</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973744">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref259" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Meanest Man in the World</title>,</unittitle>
+                            <unitdate>1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Truth About Blayds</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>March 13, 1930</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973751">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref122" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Whiteheaded Boy</title>,</unittitle>
+                            <unitid>7.</unitid>
+                            <unitdate>November 20, 1930</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973769">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279002" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1931-1940</unitdate>
+                    </did>
+                    <c03 id="ref141" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Captain Applejack</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>February 19, 1931</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973967">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref133" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Alice Sit By The Fire</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>May 14, 1931</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973876">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref138" level="item">
+                        <did>
+                            <unittitle>Four One Act Plays,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>July 29, 1931</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973926">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref132" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">He Who Gets Slapped</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>November 19, 1931</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973868">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref139" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Swan</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>February 17, 1932</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973934">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref128" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hay Fever</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>May 19, 1932</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973827">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref129" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Enter Madame</title>,</unittitle>
+                            <unitid>7.</unitid>
+                            <unitdate>November 17, 1932</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973835">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref124" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Craig's Wife</title>,</unittitle>
+                            <unitid>8.</unitid>
+                            <unitdate>February 16, 1933</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973785">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref131" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Minick</title>,</unittitle>
+                            <unitid>9.</unitid>
+                            <unitdate>April 6, 1933</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973850">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref130" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Queen's Husband</title>,</unittitle>
+                            <unitid>10.</unitid>
+                            <unitdate>November 16, 1933</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973843">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref137" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Torch-Bearers</title>,</unittitle>
+                            <unitid>11.</unitid>
+                            <unitdate>March 28, 1934</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973918">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref136" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Children of the Moon</title>,</unittitle>
+                            <unitid>12.</unitid>
+                            <unitdate>February 15, 1934</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973900">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref126" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">March Hares</title>,</unittitle>
+                            <unitid>13.</unitid>
+                            <unitdate>April 1935</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973801">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref257" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The First Mrs. Fraser</title>,</unittitle>
+                            <unitdate>November 1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Square Peg</title>,</unittitle>
+                            <unitdate>February 1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Holiday</title>,</unittitle>
+                            <unitid>14.</unitid>
+                            <unitdate>1938-1939</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974916">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref142" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ceiling Zero</title>,</unittitle>
+                            <unitid>15.</unitid>
+                            <unitdate>1938-1939</unitdate>
+                        </did>
+                        <dao ns2:actuate="onLoad" ns2:show="new" ns2:title="Program" ns2:href="31735037973959">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref127" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brother Rat</title>,</unittitle>
+                            <unitid>16.</unitid>
+                            <unitdate>1938-1939</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973819">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref134" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Our Town</title>,</unittitle>
+                            <unitid>17.</unitid>
+                            <unitdate>May 1939</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973884">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref140" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Three Men on a Horse</title>,</unittitle>
+                            <unitid>18.</unitid>
+                            <unitdate>November 1939</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973975">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref125" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Counsellor-At-Law</title>,</unittitle>
+                            <unitid>19.</unitid>
+                            <unitdate>December 1939</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973793">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref135" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">You Can't Take It With You</title>,</unittitle>
+                            <unitid>20.</unitid>
+                            <unitdate>May 1940</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973892">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid970002" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1940-1941</unitdate>
+                    </did>
+                    <c03 id="ref147" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">My Heart's in the Highlands</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1940</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735061845297">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref144" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">High Tor</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1940</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973942">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref146" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Golden Boy</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1941</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974007">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279003" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1941-1942</unitdate>
+                    </did>
+                    <c03 id="ref148" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Yellow Jacket</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1941</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974023">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref149" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Flight to the West</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1941</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973983">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref150" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Women</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1942</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037973991">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279004" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1942-1943</unitdate>
+                    </did>
+                    <c03 id="ref151" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Knickerbocker Holiday</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>March 1943</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974049">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref152" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Echoes of Other Years</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>August 5, 1943</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974031">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279005" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1943-1944</unitdate>
+                    </did>
+                    <c03 id="ref153" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Furlough, but not Furlong</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>May 1944</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974056">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref154" level="item">
+                        <did>
+                            <unittitle>Two One-Act Plays,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>July 27, 1944</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974064">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279006" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1944-1945</unitdate>
+                    </did>
+                    <c03 id="ref155" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hedda Gabler</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>March 1945</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974080">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref156" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Tonight at Eight</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>November-December 1944</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974072">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279007" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1945-1946</unitdate>
+                    </did>
+                    <c03 id="ref157" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jim Dandy</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>April 1946</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974098">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279008" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1946-1947</unitdate>
+                    </did>
+                    <c03 id="ref158" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Room Service</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>March 1947</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974106">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref159" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Joan of Lorraine</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>1947</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974114">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279009" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <c03 id="ref160" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">George Washington Slept Here</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1947</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974122">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref161" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Outward Bound</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>July 1948</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974130">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279010" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1948-1949</unitdate>
+                    </did>
+                    <c03 id="ref164" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">All My Sons</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>March 1948</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974163">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref169" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Curtain Time</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>April 1948</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974213">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref168" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Would-Be Gentleman</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>May 1948</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974205">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref167" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Philadelphia Story</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>October 1948</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974197">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref165" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Flies</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>December 1948</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974171">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref166" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Candida</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>March 1949</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974189">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref162" level="item">
+                        <did>
+                            <unittitle>Dark of the Moon</unittitle>
+                            <unitid>7.</unitid>
+                            <unitdate>May 1949</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974148">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref163" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Winslow Boy</title>,</unittitle>
+                            <unitid>8.</unitid>
+                            <unitdate>July 1949</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974155">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279011" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1949-1950</unitdate>
+                    </did>
+                    <c03 id="ref173" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Arsenic and Old Lace</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1949</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974254">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref172" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Caste</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1949</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974247">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref171" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Julius Caesar</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1950</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974239">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref174" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Connecticut Yankee</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>May 1950</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974262">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref170" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Glass Menagerie</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>August 1950</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974221">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid988005" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid988005" type="Folder">1</container>
+                        <unitdate>1950-1951</unitdate>
+                    </did>
+                    <c03 id="ref177" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">My Sister Eileen</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1950</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974296">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref175" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Beggar on Horseback</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>January 1951</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974270">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref178" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Suspect</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1951</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974304">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref260" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Gold in the Hills</title>,</unittitle>
+                            <unitdate>May 1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Henry IV</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>August 1951</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974312">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279012" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1951-1952</unitdate>
+                    </did>
+                    <c03 id="ref181" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">January Thaw</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1951</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974338">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref176" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Oedipus Rex</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1951</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974288">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref180" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">You Touched Me</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1952</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974320">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref182" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Come Back, Little Sheba</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>July-August 1952</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974346">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279013" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1952-1953</unitdate>
+                    </did>
+                    <c03 id="ref189" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Time of Your Life</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1952</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974395">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref184" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Heiress</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1952</unitdate>
+                        </did>
+                        <dao ns2:actuate="onLoad" ns2:show="new" ns2:title="Program" ns2:href="31735037974387">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref185" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Billy Budd</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1953</unitdate>
+                        </did>
+                        <dao ns2:actuate="onLoad" ns2:show="new" ns2:title="Program" ns2:href="31735037974379">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref186" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Blithe Spirit</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>May 1953</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974361">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref188" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Yes, M' Lord</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>July-August 1953</unitdate>
+                        </did>
+                        <dao ns2:actuate="onLoad" ns2:show="new" ns2:title="Program" ns2:href="31735037974353">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279014" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1953-1954</unitdate>
+                    </did>
+                    <c03 id="ref191" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Androcles and the Lion</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1953</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974411">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref192" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Male Animal</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1953</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974437">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref193" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Glass Harp</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1954</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974403">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref194" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Yes, M' Lord</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>May 1954</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974452">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref195" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Man</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>July 1954</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974445">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279015" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1954-1955</unitdate>
+                    </did>
+                    <c03 id="ref196" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Harvey</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1954</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974460">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref197" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Great Big Doorstep</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1954</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974478">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref198" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Innocents</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1955</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974502">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref199" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dark of the Moon</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>April 1955</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974494">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref200" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Corn is Green</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>August 1955</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974486">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279016" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1955-1956</unitdate>
+                    </did>
+                    <c03 id="ref201" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bernardine</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1955</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974551">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref202" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Madwoman of Chaillot</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>January 1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974577">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref203" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mister Roberts</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974544">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref204" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pygmalion</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>April 1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974569">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref205" level="item">
+                        <did>
+                            <unittitle>Pitt Players Award Banquet,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>May 23, 1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974510">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref206" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Picnic</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>August 1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974528">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref208" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Picnic</title>,</unittitle>
+                            <unitid>7.</unitid>
+                            <unitdate>1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974536">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279017" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1956-1957</unitdate>
+                    </did>
+                    <c03 id="ref209" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Man Who Came to Dinner</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>November 1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974619">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref210" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Taming of the Shrew</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>February 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974627">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref211" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Stalag 17</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974635">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref212" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brigadoon</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>April 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974585">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref213" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Chalk Garden</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>August 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974601">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref214" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Chalk Garden</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>August 24, 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974593">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279018" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1957-1958</unitdate>
+                    </did>
+                    <c03 id="ref215" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bus Stop</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974650">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref216" level="item">
+                        <did>
+                            <unittitle>Pitt Portraits,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>November 20, 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974676">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref217" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Skin of Our Teeth</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>December 1957</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974668">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref229" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Teahouse of the August Moon</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>March 1958</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974726">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref230" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Phoenix Too Frequent</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>May 1958</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974734">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref232" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Happy Time</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>August 1958</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974700">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref231" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Happy Time</title>,</unittitle>
+                            <unitid>7.</unitid>
+                            <unitdate>August 9, 1958</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974718">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1312041" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1958-1959</unitdate>
+                    </did>
+                    <c03 id="ref233" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Would-Be Invalid</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1958</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974684">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref234" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Rainmaker</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>December 1958</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974692">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref235" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Guys and Dolls</title>,</unittitle>
+                            <unitid>3.</unitid>
+                            <unitdate>March 1959</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974759">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref237" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Our Town</title>,</unittitle>
+                            <unitid>4.</unitid>
+                            <unitdate>May 1959</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974783">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref238" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Arms and the Man</title>,</unittitle>
+                            <unitid>5.</unitid>
+                            <unitdate>August 8, 1959</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974767">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref239" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Arms and the Man</title>,</unittitle>
+                            <unitid>6.</unitid>
+                            <unitdate>August 1959</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974791">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1279020" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1959-1960</unitdate>
+                    </did>
+                    <c03 id="ref242" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">My Three Angels</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>December 1959</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974841">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref245" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Pajama Game</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>March 1960</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974825">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid970027" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1960-1961</unitdate>
+                    </did>
+                    <c03 id="ref248" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Time of Your Life</title>,</unittitle>
+                            <unitid>1.</unitid>
+                            <unitdate>October 1960</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974908">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref249" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Boy Friend</title>,</unittitle>
+                            <unitid>2.</unitid>
+                            <unitdate>March 1961</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Program" ns2:href="31735037974882">
+                            <daodesc>
+                                <p>Program</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Programs - no dates</unittitle>
+                        <container id="cid1159001" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref41" level="series">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1933-1959</unitdate>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Content Notes</head>
+                    <p>This series of photographs is arranged in chronological order. They contain stage production photos, rehearsal photos, and headshots of the actors and actresses of the Pitt Players. Some were selected for digitization and are available 
+                        <extref ns2:href="http://images.library.pitt.edu/cgi-bin/i/image/image-idx?q1=Pitt+players+records&amp;rgn1=hpicasc_cl&amp;type=simple&amp;c=hpicasc&amp;view=thumbnail">online</extref> as part of the University of Pittsburgh Historic Photographs collection.</p>
+                </scopecontent>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Craig's Wife</title>,</unittitle>
+                        <container id="cid970003" type="Folder" label="Photographic images">13</container>
+                        <unitdate>February 1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Theta Alpha Phi,</unittitle>
+                        <container id="cid988003" type="Folder" label="Photographic images">14</container>
+                        <unitdate>1934-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Pitt Players,</unittitle>
+                        <container id="cid1162022" type="Folder" label="Photographic images">15</container>
+                        <unitdate>1935-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Buell Whitehill,</unittitle>
+                        <container id="cid1162019" type="Folder" label="Photographic images">16</container>
+                        <unitdate>ca. 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Ceiling Zero</unittitle>
+                        <container id="cid1162020" type="Folder" label="Photographic images">17</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Three Men on a Horse</title>,</unittitle>
+                        <container id="cid988001" type="Folder" label="Photographic images">18</container>
+                        <unitdate>November 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Counselor-at-Law</unittitle>
+                        <container id="cid1162021" type="Folder" label="Photographic images">19</container>
+                        <unitdate>December 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Brother Rat</title>,</unittitle>
+                        <container id="cid988002" type="Folder" label="Photographic images">20</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Adding Machine</unittitle>
+                        <container id="cid1162023" type="Folder" label="Photographic images">21</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">You Can't Take it With You</title>,</unittitle>
+                        <container id="cid1162003" type="Folder" label="Photographic images">22</container>
+                        <unitdate>May 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">My Heart's in the Highland</title>,</unittitle>
+                        <container id="cid1162002" type="Folder" label="Photographic images">23</container>
+                        <unitdate>November 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">High Tor</title>,</unittitle>
+                        <container id="cid1162001" type="Folder" label="Photographic images">24</container>
+                        <unitdate>December 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Golden Boy</title>,</unittitle>
+                        <container id="cid1162004" type="Folder" label="Photographic images">25</container>
+                        <unitdate>March 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Yellow Jacket</title>,</unittitle>
+                        <container id="cid1162006" type="Folder" label="Photographic images">26</container>
+                        <unitdate>October 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Christmas Pageant,</unittitle>
+                        <container id="cid1162007" type="Folder" label="Photographic images">27</container>
+                        <unitdate>December 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Flight to the West</title>,</unittitle>
+                        <container id="cid1162005" type="Folder" label="Photographic images">28</container>
+                        <unitdate>December 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Women</title>,</unittitle>
+                        <container id="cid970007" type="Folder" label="Photographic images">29</container>
+                        <unitdate>March 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hedda Gabler</title>,</unittitle>
+                        <container id="cid1162008" type="Folder" label="Photographic images">30</container>
+                        <unitdate>March 1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Photographs,</unittitle>
+                        <container id="cid970012" type="Folder" label="Photographic images">31</container>
+                        <unitdate>1948-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Philadelphia Story</title>,</unittitle>
+                        <container id="cid1162009" type="Folder" label="Photographic images">32</container>
+                        <unitdate>October 1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">the Flies</title>,</unittitle>
+                        <container id="cid1162012" type="Folder" label="Photographic images">33</container>
+                        <unitdate>December 1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Candida</title>,</unittitle>
+                        <container id="cid1162013" type="Folder" label="Photographic images">34</container>
+                        <unitdate>March 1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Dark of the Moon</title>,</unittitle>
+                        <container id="cid1162014" type="Folder" label="Photographic images">35</container>
+                        <unitdate>May 1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Julius Caesar</title>,</unittitle>
+                        <container id="cid1162015" type="Folder" label="Photographic images">36</container>
+                        <unitdate>March 1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Mr. Roberts</title>,</unittitle>
+                        <container id="cid1162011" type="Folder" label="Photographic images">37</container>
+                        <unitdate>March 1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Picnic</title>,</unittitle>
+                        <container id="cid1162010" type="Folder" label="Photographic images">38</container>
+                        <unitdate>August 1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Brigadoon</title>,</unittitle>
+                        <container id="cid1162018" type="Folder" label="Photographic images">39</container>
+                        <unitdate>April 1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Skin of Our Teeth</title>,</unittitle>
+                        <container id="cid1162016" type="Folder" label="Photographic images">40</container>
+                        <unitdate>December 1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Guys and Dolls</title>,</unittitle>
+                        <container id="cid1162017" type="Folder" label="Photographic images">41</container>
+                        <unitdate>March 1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Unidentified</unittitle>
+                        <container id="cid970010" type="Folder" label="Photographic images">42-45</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Unidentified headshots</unittitle>
+                        <container id="cid970021" type="Folder" label="Photographic images">46</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref58" level="series">
+                <did>
+                    <unittitle>Marketing and Other Materials,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1922-1961</unitdate>
+                </did>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Activities fair - advertisements,</unittitle>
+                        <container id="cid970025" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid970025" type="Folder">1</container>
+                        <unitdate>1958-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Awards,</unittitle>
+                        <container id="cid1159007" type="Folder" label="Mixed materials">2-3</container>
+                        <unitdate>1953-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Cartoons and other promotional materials,</unittitle>
+                        <container id="cid1159008" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1958-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Cecil B. DeMille visit - clippings and photographs,</unittitle>
+                        <container id="cid1159009" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>November 1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid970024" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1959-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Four Jacks and a Queen</title> script,</unittitle>
+                        <container id="cid1876001" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>May 15, 1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref4" level="file">
+                    <did>
+                        <unittitle>Notes on the dramatic activity of Pitt Players,</unittitle>
+                        <container id="cid970001" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1933-1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Press releases,</unittitle>
+                        <container id="cid970016" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1954-55</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid970017" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1947-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid970011" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1948-49</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Set designs - 
+                            <title render="italic">Adding Machine</title>,</unittitle>
+                        <container id="cid970005" type="Folder" label="Graphic materials">12</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref56" level="series">
+                <did>
+                    <unittitle>Newspaper Clippings,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1914-1960</unitdate>
+                </did>
+                <scopecontent id="ref75">
+                    <head>Scope and Content Notes</head>
+                    <p>The newspaper clippings in this series are arranged in chronological order by season. Clippings relating to the first thirty years of the Pitt Players are few, but starting with the 1947-1948 season, each season is housed in its' own individual folder. Unfortunately, many of the clippings are not properly labeled with the title of the newspaper that it was clipped from. It is believed that the majority of clippings came from the 
+                        <title render="italic">Pitt News</title>.</p>
+                </scopecontent>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Clippings,</unittitle>
+                        <container id="cid1180001" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1914-1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Clippings,</unittitle>
+                        <container id="cid970004" type="Folder" label="Mixed materials">14-17</container>
+                        <unitdate>1938-1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Clippings,</unittitle>
+                        <container id="cid970006" type="Folder" label="Mixed materials">18-29</container>
+                        <unitdate>1947-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Clippings - no dates</unittitle>
+                        <container id="cid970020" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

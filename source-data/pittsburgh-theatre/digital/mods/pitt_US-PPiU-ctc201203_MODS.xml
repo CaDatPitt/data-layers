@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Larry John Meyers papers, 1980-2015</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Meyers, Larry John</namePart>
+    <role>
+      <roleTerm type="text">creator.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="rdacontent">text</genre>
+  <genre authority="rdacontent">still image</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <dateOther>1980-2015.</dateOther>
+    <dateIssued encoding="marc" point="start">1980</dateIssued>
+    <dateIssued encoding="marc" point="end">2015</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear feet (22 document boxes)">10.0</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">other</form>
+    <note type="arrangement">Series; Organized into three series: I. Film Projects, 1984-2010.  II. Non-Pittsburgh Productions, 1985-2014. III. Pittsburgh Productions, 1980-2015.</note>
+  </physicalDescription>
+  <abstract type="Summary">This collection of Mr. Meyers' film and play scripts with related materials is broken into three main series: Film Projects, Non-Pittsburgh Productions, and Pittsburgh Productions. Both the Film and Non-Pittsburgh series are organized alphabetically by production title.  The Pittsburgh series is broken into a subseries for each production company and then alphabetically by production title.  The types of materals found in the collection includes promotional materials, rehearsal items, newspaper clippings, programs, and full or partial film and theatre scripts.</abstract>
+  <accessCondition type="use and reproduction">The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</accessCondition>
+  <note>Processing Information: This collection was processed by Reba Sell and Dominique Luster during 2014-2015.</note>
+  <note type="acquisition">Gift; Larry John Meyers; 2012.</note>
+  <note type="biographical/historical">Larry John Meyers has served as an actor, director, and instructor in the theatre community.  His regional acting credits include La Mama (NYC), Actors Theatre of Louisville, Alabama Shakespeare Festival, Berkeley Rep, Chester Theatre (Massachusetts), Dallas Theater Center, Florida Rep, Indianapolis Rep, Minneapolis Children's Theater, Syracuse Stage, and Weston Playhouse (Vermont). His film and television acting credits include, American Splendor, Up Close &amp; Personal, Runaway Train, Flashdance and Daddy Cool. Meyers has been an actor and director for over thirty years in Pittsburgh theater community as a founding company member of the New City Theatre (1981), member of the Three Rivers Shakespeare Festival, and many notable performances at the Pittsburgh Public Theater, City Theatre, Pittsburgh Irish &amp; Classical Theatre, Quantum Theatre, Playhouse Rep, CMU's New Play Festivals, Pittsburgh Symphony, and Hartwood Acres.</note>
+  <note>City Theatre Company Records, 1973-1993, CTC.1991.01; Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note>Iron Clad Agreement Records, 1975-1985, CTC.1990.01; Curtis Theatre Collection, University of Pittsburgh.</note>
+  <note>Pittsburgh Irish and Classical Theatre Records, 1997-2015, CTC.2009.02; Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note>Pittsburgh Playhouse School of the Theater Records, 1934-1994, CTC.1981.01; Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note>Three Rivers Shakespeare Festival Records, 1980-1995, CTC.1995.01; Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note>University of Pittsburgh Theatre Arts Department Records, 1960-1986, CTC.1974.02; Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc201203">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc201203</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Meyers, Larry John</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>City Theatre Company (Pittsburgh, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Pittsburgh Playhouse.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh.</namePart>
+      <namePart>Department of Speech and Theatre Arts.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="conference">
+      <namePart>Three Rivers Shakespeare Festival (Pittsburgh, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Actors</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>College theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Motion picture plays</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocn958839449</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc201203</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">160920</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131842.0</recordChangeDate>
+    <recordIdentifier>8592899</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc201203</identifier></mods>

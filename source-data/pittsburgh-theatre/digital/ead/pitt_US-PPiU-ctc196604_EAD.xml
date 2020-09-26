@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc196604</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Ford E. and Harriet R. Curtis Theatre Collection of Pennsylvania Theatre Programs, 1870-present
+                    <num>CTC.1966.04</num>
+                </titleproper>
+                <author>Finding aid prepared by Reba Sell.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>December 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ford E. and Harriet R. Curtis Theatre Collection of Pennsylvania Theatre Programs</unittitle>
+            <unitid>CTC.1966.04</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 linear feet</extent>
+                <extent>(14 mss boxes)</extent>
+            </physdesc>
+            <unitdate>1870-present</unitdate>
+            <abstract id="ref131" label="Abstract">The Ford E. and Harriet R. Curtis Theatre Collection consists of Pennsylvania theatre programs from the 1870's to the present. In some instances, newspaper clippings, marketing materials, photographs, and memorabilia related to the theatres and performing arts companies are stored with the programs.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Collector (col)">Curtis, Ford E., 1896-1979</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Collector (col)">Curtis, Harriet R., d. 1971</persname>
+            </origination>
+        </did>
+        <userestrict id="ref129">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that which goes beyond what is allowed by fair use.</p>
+        </userestrict>
+        <accessrestrict id="ref130">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref132">
+            <head>History</head>
+            <p>The Ford E. and Harriet R. Curtis Theatre Collection includes theatre programs collected by Dr. Ford E. Curtis and his wife, Harriet. Dr. Curtis began teaching drama in the English department at the University of Pittsburgh in 1924. He and his wife were avid theatre goers, attending performances every week. After his retirement in 1961, he began to add to their personal collection of playbills and programs in the hopes of building a collection to donate to Pitt.</p>
+            <p>The materials that Dr. Curtis amassed included his own collection and materials donated to him. In addition to Dr. Curtis' donation to the University of Pittsburgh, the Curtis Collection staff still acquires additional programs to add to this collection and help to document the history of theatre and the performing arts in Pittsburgh and western Pennsylvania.</p>
+        </bioghist>
+        <scopecontent id="ref133">
+            <head>Scope and Content Notes</head>
+            <p>This collection is separated into three series: Pennsylvania, Philadelphia, and the Theatre Association of Pennsylvania.</p>
+            <p>Individual programs in the Pennsylvania series are mostly organized by the theatre or venue where the production took place. These venues are arranged alphabetically by name, then chronologically. With each venue or group, the total number of document folders is listed. The folders are not numbered consecutively as found in other archival collections because these numbers regularly change with new donations. Typically, the collection's policy is to only keep two copies of a program, although exceptions to this include commemorative programs and programs that are autographed or contain marginalia.</p>
+            <p>The Philadelphia series of this collection are arranged chronologically by the year of the performance. The bulk of the programs are from 1950-1970. The same program collecting policies described above apply to the Philadelphia programs as well.</p>
+            <p>Please note that there is a separate collection guide for Pittsburgh theatre programs, see the related material section below.</p>
+        </scopecontent>
+        <arrangement id="ref137">
+            <head>Arrangement</head>
+            <p>This collection is divided into three series:</p>
+            <p>I. Pennsylvania Programs, 1877-</p>
+            <p>II. Philadelphia Programs, 1870-</p>
+            <p>III. Theatre Association of Pennsylvania, 1974-1990</p>
+        </arrangement>
+        <accruals id="ref136">
+            <head>Accruals</head>
+            <p>Donations are occasionally added to the collection; many of these donations come from the general public. If you are interested in donating theatre programs to the collection, please contact the Special Collections Department.</p>
+        </accruals>
+        <processinfo id="ref135">
+            <head>Processing Information</head>
+            <p>This collection was processed by Curtis Collection staff.</p>
+        </processinfo>
+        <prefercite id="ref162">
+            <head>Preferred Citation</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of Pennsylvania Theatre Programs, 1870-present, CTC.1966.04, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref134">
+            <head>Previous Citation</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of Pennsylvania Theatre Programs, 1870-present, CTC.1966.04, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <relatedmaterial id="ref151">
+            <head>Related Material</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of Pittsburgh Theatre Programs, 1840-present, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Michael Ellis Papers, 1937-1985, CTC.1977.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="naf">Academy of Music (Scranton, Pa.).</corpname>
+            <corpname source="naf">Berks Summer Theater (Program : Reading, Pa.).</corpname>
+            <corpname source="naf">Bloombsburg Theatre Ensemble (Bloomsburg, Pa.).</corpname>
+            <corpname source="naf">Broad Street Theatre (Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Bucks County Playhouse (Organization).</corpname>
+            <corpname source="naf">Chestnut Street Opera House (Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Chestnut Street Theatre (Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Erlanger Theatre (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Forrest Theatre (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Fulton Opera House.</corpname>
+            <corpname source="naf">Garrick Theatre (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Grand Opera House (Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Hedgerow Theatre (Organization : Rose Valley, Pa.).</corpname>
+            <corpname source="naf">Independent Eye.</corpname>
+            <corpname source="naf">Lyric Theatre (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Metropolitan Opera House (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Orpheum Theatre (Philadelphia, Pa.).</corpname>
+            <corpname source="naf">People's Light &amp; Theatre Company.</corpname>
+            <corpname source="naf">Pocono Playhouse (Organization : Mountainhome, Pa.).</corpname>
+            <corpname source="naf">Shubert Theatre (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Swarthmore Chautauqua Association.</corpname>
+            <corpname source="naf">Tamiment Playhouse.</corpname>
+            <corpname source="naf">Theatre Association of Pennsylvania.</corpname>
+            <corpname source="naf">Theatre of the Living Arts (Organization : Philadelphia, Pa.).</corpname>
+            <corpname source="naf">Valley Forge Music Fair (Organization : Devon, Pa.).</corpname>
+            <corpname source="naf">Walnut Street Theatre (Philadelphia, Pa.).</corpname>
+            <subject source="lcsh">Performing arts -- Pennsylvania</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Bucks County</subject>
+            <subject source="lcsh">Theater -- Pennsylvania</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Bucks County</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Philadelphia</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Philadelphia -- History -- 19th century</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Pennsylvania,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1877-</unitdate>
+                </did>
+                <scopecontent id="ref146">
+                    <head>Scope and Content Notes</head>
+                    <p>The Pennsylvania series of this collection is arranged alphabetically by the title of the venue or performing arts group. Much of the Bucks County Playhouse materials were donated along with the Michael Ellis Papers.</p>
+                </scopecontent>
+                <c02 id="ref3" level="item">
+                    <did>
+                        <unittitle>Academy of Music - Scranton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1878-1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="item">
+                    <did>
+                        <unittitle>Actors Company of Pennsylvania - Lancaster,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref4" level="item">
+                    <did>
+                        <unittitle>Allenberry Playhouse - Boiling Springs,</unittitle>
+                        <physdesc>
+                            <extent>6.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1959-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref5" level="item">
+                    <did>
+                        <unittitle>Allentown Society of Magicians - Northampton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref6" level="item">
+                    <did>
+                        <unittitle>Arena House - Harrisburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1965-1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="item">
+                    <did>
+                        <unittitle>Arena Summer Theatre - State College,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>Bedford Springs Playhouse - Bedford,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1954-1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>Berks Players - Reading,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>Berwyn Playhouse - Berwyn,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Blaney Players - Wilkes-Barre</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>Bloomfield Civic Playhouse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Bloomsburg Theatre Ensemble - Bloomsburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Bradford Summer Theatre - Bradford,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="item">
+                    <did>
+                        <unittitle>Brandywine Music Circus - Concordville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Broadway Theatre League - Scranton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Brookside Playhouse - Shamokin Dam</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="item">
+                    <did>
+                        <unittitle>Brownsville Summer Playhouse - Brownsville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Buck Hill Players,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Bucks County Playhouse - New Hope,</unittitle>
+                        <physdesc>
+                            <extent>3.0 box</extent>
+                        </physdesc>
+                        <unitdate>1939-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Bushkill Playhouse - Bushkill,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Business and Professional Women's Club - Columbia,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>By Hex Playhouse - Lancaster,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Capitol Theatre - Reading,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1934-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Cherry Lane Playhouse - Tannersville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Chestnut Street Theatre - Sunbury,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Choral Hall - Sewickley,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1877</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>Civic Little Theatre - Allentown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Cobweb Theatre - Yardley,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Cochran Auditorium - Johnstown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Comerford Theatres - Scranton</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Cresson Lake Playhouse - Spangler,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1974-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>Dauphin County Folk Festival - Harrisburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>David Copperfield Theatre - Shawnee on Delaware</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>Deer Lake Theatre - Deer Lake,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1937-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Dixie Theatre - Uniontown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Drexel Hill Playhouse - Drexel Hill</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Dutch Country Players - East Greenville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>Ephrata Legion Star Playhouse - Ephrata,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1959-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>Erie Philharmonic - Erie,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>Erie Playhouse - Erie,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1985-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Erie Theatre - Erie,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Footlight Players - Wayne,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1958-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>Four Mile Creek Park Theatre - Erie,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>Fulton Opera House - Lancaster,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1917-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>Gettysburg Civic Chorus - Gettysburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>Gettysburg Summer Theatre - Gettysburg,</unittitle>
+                        <physdesc>
+                            <extent>4.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>Gilded Cage Theatre - Lancaster,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>Globe Theater - Bethlehem,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Grand Opera House - Wilkes-Barre,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Grand Theatre - Reading,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1913</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>Green Gables Playhouse - Drums,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>Green Hills Playhouse - Reading,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Gretna Playhouse - Mt. Gretna,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1937-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Grove Theatre - Nuangola,</unittitle>
+                        <physdesc>
+                            <extent>2.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Guthsville Playhouse - Allentown</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Hall Players - Harrisburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1915-1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Hanover Community Players - Hanover,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1937-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>Hanover Opera House - Hanover,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1919-1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>Harrisburg Community Theatre - Harrisburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1941-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Harvey's Lake Theatre - Alderson</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Haubert Theatre - Newfoundland,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>Hayloft Theatre - Allentown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Hedgerow Theatre - Moylan-Rose Valley,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Hellenic Youth Federation</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>Hershey Community Theatre - Hershey,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1930-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Hippodrome - Pottsville</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>Host Inn Theatre - Harrisburg</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>Independent Eye - Lancaster,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>Irving Theatre - Wilkes-Barre,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1926</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Kenley Deer Lake Theatre - Deer Lake,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Kenley Players - Lakewood,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1949-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>Kenley Players - York,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>Keystone Repertory Theater - Indiana,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="item">
+                    <did>
+                        <unittitle>Kilbuck Players - Kilbuck,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>King-Woodhull Summer Theatre - South Williamsport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>Knickerbocker Summer Theatre - South Williamsport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>Lakemont Theatre - Lakemont Landing</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>Lakewood Summer Playhouse - Barnesville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1956-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>Lambs Theatre - Pithole,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>Legion Star Playhouse - Ephrata,</unittitle>
+                        <physdesc>
+                            <extent>3.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1956-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="item">
+                    <did>
+                        <unittitle>Lewisburg Drama Club - Lewisburg</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Little Theatre - Wilkes-Barre,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1933-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>Lycoming County Playhouse - South Williamsport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>Lyric Theatre - Allentown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1905-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Lytle Opera House - Braddock</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="item">
+                    <did>
+                        <unittitle>Majestic Theatre - Williamsport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1915-1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>Mateer Playhouse - State College,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Milford Theatre - Milford,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>Mishler Theatre - Altoona</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="item">
+                    <did>
+                        <unittitle>Neshaminy Valley Music Theater - Horsham,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>New Hope Academy of the Arts - New Hope,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Olde Trail Playhouse - Richeyville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>Orpheum - Esterly</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="item">
+                    <did>
+                        <unittitle>Orpheum - York,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1924-1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>Orpheum Theatre - Easton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>Paint Shop Theatre - Somerset,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>Park Opera House - Erie</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="item">
+                    <did>
+                        <unittitle>Park Theatre - Hanover,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1931-1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="item">
+                    <did>
+                        <unittitle>Penn Playhouse - Meadville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Pennsylvania Playhouse - Bethlehem,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>People's Light &amp; Theatre Company</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1997-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="item">
+                    <did>
+                        <unittitle>Pine Grove Playhouse - Cambridge Springs,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940-1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>Playhouse - Eagles Mere</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="item">
+                    <did>
+                        <unittitle>Playhouse - Erie,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1932-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="item">
+                    <did>
+                        <unittitle>Playhouse - McConnellstown</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Playhouse - Reading,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="item">
+                    <did>
+                        <unittitle>Plaza Theatre - Reading,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>Pocono Playhouse - Mountainhome,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1949-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="item">
+                    <did>
+                        <unittitle>Poli's Theatre - Scranton</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="item">
+                    <did>
+                        <unittitle>Public Auditorium - Erie,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>Quota Club - Lancaster,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="item">
+                    <did>
+                        <unittitle>Riverside Inn Dinner Theatre - Riverside</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="item">
+                    <did>
+                        <unittitle>Rolling Green Park Theatre - Sunbury</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="item">
+                    <did>
+                        <unittitle>Shawnee Summer Theater - Shawnee on Delaware,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="item">
+                    <did>
+                        <unittitle>Soisson Theatre - Connellsville</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="item">
+                    <did>
+                        <unittitle>St. John Studio Theatre - Clearfield,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="item">
+                    <did>
+                        <unittitle>St. Matthew's Methodist Church - Valley Forge,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="item">
+                    <did>
+                        <unittitle>Swarthmore Chautauqua Association - Swarthmore</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>Tamiment Playhouse - Tamiment</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="item">
+                    <did>
+                        <unittitle>Temple Judea of Bucks County - Doyestown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="item">
+                    <did>
+                        <unittitle>Temple of Music - Conneaut Lake</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="item">
+                    <did>
+                        <unittitle>Theatre Royal - York,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="item">
+                    <did>
+                        <unittitle>Totem Pole Playhouse - Fayetteville,</unittitle>
+                        <physdesc>
+                            <extent>5.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1956-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="item">
+                    <did>
+                        <unittitle>Tracy Hall - Harrisburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="item">
+                    <did>
+                        <unittitle>Trevose Summer Theatre - Trevose,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="item">
+                    <did>
+                        <unittitle>Valley Forge Music Fair - Valley Forge,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1961-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="item">
+                    <did>
+                        <unittitle>Victory Players - Hanover</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="item">
+                    <did>
+                        <unittitle>William Penn Auditorium - Harrisburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="item">
+                    <did>
+                        <unittitle>Williamsport Summer Theatre - Williamsport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="item">
+                    <did>
+                        <unittitle>York Little Theatre - York,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Philadelphia,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1870-</unitdate>
+                </did>
+                <scopecontent id="ref147">
+                    <head>Scope and Content Notes</head>
+                    <p>The Philadelphia theatre programs are arranged chronologically by the year of the performance.</p>
+                </scopecontent>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid3931002" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid3931002" type="Folder">1-25</container>
+                        <unitdate>1870-1909</unitdate>
+                    </did>
+                    <scopecontent id="ref153">
+                        <head>Scope and Content Notes</head>
+                        <p>This box also includes twelve folders of programs with no dates. They are arranged alphabetically by the play's title.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid3939001" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid3939001" type="Folder">1-14</container>
+                        <unitdate>1910-1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid3931004" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid3931004" type="Folder">1-4</container>
+                        <unitdate>1926-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid3931005" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid3931005" type="Folder">1-14</container>
+                        <unitdate>1930-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid3937011" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid3937011" type="Folder">1-12</container>
+                        <unitdate>1950-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid3931007" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid3931007" type="Folder">1-8</container>
+                        <unitdate>1964-</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref148" level="series">
+                <did>
+                    <unittitle>Theatre Association of Pennsylvania,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1974-1990</unitdate>
+                </did>
+                <scopecontent id="ref159">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains press releases, meeting minutes, by-laws and the constitution of the Theatre Association of Pennsylvania. The materials are organized chronologically.</p>
+                </scopecontent>
+                <c02 id="ref149" level="item">
+                    <did>
+                        <unittitle>Constitution and By-laws,</unittitle>
+                        <container id="cid3937008" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid3937008" type="Folder">1</container>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>April 1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="item">
+                    <did>
+                        <unittitle>Press Releases and Membership Information,</unittitle>
+                        <container id="cid3937009" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid3937009" type="Folder">2-7</container>
+                        <unitdate>1978-1990</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

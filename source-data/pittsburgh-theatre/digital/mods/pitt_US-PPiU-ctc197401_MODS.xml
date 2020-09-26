@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pittsburgh Savoyards records, 1939-1975</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Records of Pittsburgh Savoyards, 1939-1975</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Pittsburgh Savoyards</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Gilbert, W. S. (William Schwenck)</namePart>
+    <namePart type="date">1836-1911</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Sullivan, Arthur</namePart>
+    <namePart type="date">1842-1900</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Scrapbooks.</genre>
+  <genre authority="aat">Newsletters.</genre>
+  <genre authority="aat">Photographs.</genre>
+  <genre authority="aat">Theater programs.</genre>
+  <genre authority="aat">Correspondence.</genre>
+  <genre authority="aat">Constitutions.</genre>
+  <genre authority="aat">Press releases.</genre>
+  <genre authority="aat">Clippings (Information artifacts).</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1939-1975.</dateOther>
+    <dateIssued encoding="marc" point="start">1939</dateIssued>
+    <dateIssued encoding="marc" point="end">1975</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft.">3</extent>
+    <note type="arrangement">Organized into 7 series: I. Constitution; II. Correspondence; III. Programs; IV. Publicity and Newspaper Clippings; V. Photographs; VI. Scrapbooks and Ephemera; VII. Oversize Materials.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">The Pittsburgh Savoyards records are incomplete and, for the most part, constitute memorabilia. Programs and photographs (1939-1974) are the most extensive for the 1940s and 1950s. Eight scrapbooks, containing chiefly newspaper clippings, some programs, issues of the company newsletter, and miscellany, cover between 1939-1951 and 1964-1980 in great detail; additional clippings cover between 1946-1962. A small amount of correspondence is chiefly personal. Other items of note include the organization's constitution (probable date of 1973), new releases, and five libretti. A few items from the Curtis Theatre Collection's Pittsburgh vertical files were integrated with the Savoyards Records.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Pittsburgh Savoyards Records, 1939-1975, CTC.1974.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of the Pittsburgh Savoyards in 1974.</note>
+  <note type="biographical/historical">Established in 1938, the Pittsburgh Savoyards is the fourth oldest Gilbert and Sullivan Company in the United States. Its origins are described in a tenth anniversary program: "In the fall of 1938 the adult choirs of Calvary Episcopal Church and their friends began rehearsal of Gilbert and Sullivan's 'Pirates of Penzance' as a choir camp benefit. Directors were George M. Rowland, Jr. and the late Dr. Harvey Gaul, then organist and choirmaster of Calvary Church. In May 1939 after a successful two-night run of 'The Pirates' at the Twentieth Century Club, the directors founded the Pittsburgh Savoyards, the charter membership being drawn from T̀he Pirates' company. The group's purpose was to produce Gilbert and Sullivan and other light operas on a non-profit basis for the enjoyment and education of the membership."  Since 1938-1939, the Pittsburgh Savoyards has presented several Gilbert and Sullivan operas each season, performing in various local theatres and auditoriums. Other works presented infrequently are The Devil and Daniel Webster, Die Fledermaus, and Amahl and the Night Visitors. The Savoyards have also sung occasionally at concerts and as an opera chorus. Burt Mustin, a native Pittsburgher who was later to achieve fame as an actor in national television situation comedies, was active in the organization in the 1940s, singing such roles as the Judge in "Trial by Jury", Poo-Bah in "The Mikado", and Sir Joseph Porter in "H.M.S. Pinafore."</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197401">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197401</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Pittsburgh Savoyards.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Operetta</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Musical theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Choruses</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theatrical companies</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm31129623</identifier>
+  <identifier type="oclc">31129623</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197401</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940916</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131815.0</recordChangeDate>
+    <recordIdentifier>1470941</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc197401</identifier></mods>

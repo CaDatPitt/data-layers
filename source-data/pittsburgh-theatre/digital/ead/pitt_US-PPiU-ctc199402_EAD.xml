@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199402</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Pittsburgh International Lesbian and Gay Film Festival Records, 1980-1994
+                    <num>CTC.1994.02</num>
+                </titleproper>
+                <author>Finding aid prepared by Ashley Palchak.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>April 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pittsburgh International Lesbian and Gay Film Festival Records</unittitle>
+            <unitid>CTC.1994.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 linear feet</extent>
+                <extent>(3 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1987/1994" type="bulk">Bulk, 1987-1994</unitdate>
+            <unitdate normal="1980/1994" type="inclusive">1980-1994</unitdate>
+            <abstract id="ref7" label="Abstract">The Pittsburgh International Lesbian and Gay Film Festival is an annually held educational and cultural complement to the Pittsburgh Lesbian and Gay Film Society’s year round program meant to foster appreciation and visibility through film media. The Festival hosts members of the film industry from Pittsburgh, Ohio, and West Virginia; it aims to educate, enlighten, and entertain audiences while increasing unity, community, and pride among lesbians and gay men of the tri-state region. The collection primarily comprises budgeting and programming plans, Festival bylaws, grant applications, press coverage, and information on other gay and lesbian film festivals in the United States between 1980 and 1992.</abstract>
+            <langmaterial id="ref68" label="Language">The material in this collection is in English.</langmaterial>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Pittsburgh International Lesbian and Gay Film Festival.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref2">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref3">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <processinfo id="ref4">
+            <head>Processing Information</head>
+            <p>This collection was processed by Ashley Palchak in March 2010.</p>
+        </processinfo>
+        <prefercite id="ref69">
+            <head>Preferred Citation</head>
+            <p>Pittsburgh International Lesbian and Gay Film Festival Records, 1983-1994, CTC.1994.02, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref5">
+            <head>Previous Citation</head>
+            <p>Pittsburgh International Lesbian and Gay Film Festival Records, 1983-1994, CTC.1994.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <scopecontent id="ref9">
+            <head>Scope and Content Notes</head>
+            <p>The Pittsburgh International Lesbian and Gay Film Festival (PILGFS) collection is composed of bill receipts, programming information, public and private grant applications, and information on other gay and lesbian film festivals in the United States between 1988 and 1994. The first series comprises budgeting plans, Festival bylaws, billing invoices and receipts, programming information, public and private grant applications, as well as correspondence between Richard Cummings and festival personnel. Included in this series are detailed reports on the Festival’s application and receipt of funding and grants from the Chicago Resource Center, the Lambda Foundation, and the Pennsylvania Council on the Arts. Media coverage on the Festival is included from several local Pittsburgh publications. Finally, the Film Festival’s grant application and lawsuit with the National Alliance for Media Arts and Culture in 1993 are present. The second series includes programs and press coverage on other gay and lesbian film festivals collected by the PILGFS. These materials often make mention of the Film Festival in Pittsburgh, as well as served as tools for planning in the early years of the PILGFS.</p>
+        </scopecontent>
+        <bioghist id="ref8">
+            <head>History</head>
+            <p>The Pittsburgh International Lesbian and Gay Film Festival (PILGFF) began in 1982 as the Lesbian and Gay Film Series, a project of the Pittsburgh’s Lesbian and Gay Community Center, with the goal of providing opportunities for viewing media by and about lesbian and gay people and their experiences. In partnership with the University of Pittsburgh’s Gay and Lesbian Alliance, the Film Series was stationed in Oakland. In 1985 the Film Series moved off-campus and became a separate event, formed its own Board of Directors, and launched the first film festival in 1986 with the cooperation of Pittsburgh Filmmakers.</p>
+            <p>In 1987, with Richard Cummings as Executive Director, the Film Festival incorporated, was granted non-profit status, and applied for funding as a major presenter of lesbian and gay media in Pennsylvania and the nation. The annual Film Festival has grown to a ten-day program each October presenting over fifty films and videos in a number of venues, as well as producing, hosting, and participating in a wide array of cultural and community events throughout the year. Originally only hosting audiences at the Pittsburgh Filmmakers’ Oakland Screening Room and Fulton Theatre, the Film Festival has expanded into a multi-venue event and presents at several theatres, including Pittsburgh’s Byham and South Side Works theatres. With an increase in programming and attendance, the Film Festival has continued to augment funding and media coverage, receiving grants from the Chicago resource Center, the Pennsylvania Council on the Arts, and the Lambda Foundation.</p>
+            <p>The Pittsburgh International Lesbian and Gay Film Festival highlights major feature films of interest to the lesbian and gay community, as well as provides a venue for independent film and video from the United States and abroad. The Film Festival also sponsors an educational symposium featuring an internationally acclaimed figure in lesbian and gay media. Past speakers have included independent filmmakers Isaac Julien, Peggy Gilpin, Cheryl Dunye, Rob Marshall, and art critic and AIDS activist Douglas Crimp.</p>
+            <p>In 2006, the organization changed its corporate name to the Pittsburgh Lesbian and Gay Film Society in order to show its dedicated commitment to become an organization that provides year round activities. The Pittsburgh Lesbian and Gay Film Society is now the presenter of the Annual Pittsburgh International Lesbian and Gay Film Festival.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Gay &amp; Lesbian  Community Center  of Pittsburgh (Pa.).</corpname>
+            <corpname rules="aacr" source="local">Pittsburgh International Lesbian and Gay Film Festival.</corpname>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <subject source="lcsh">Film festivals -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Gay and lesbian film festivals -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Gay and lesbian film festivals -- United States</subject>
+            <subject source="lcsh">Gay culture -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Gays -- Social life and customs</subject>
+            <occupation source="lcsh">Gays in motion pictures</occupation>
+            <genreform source="aat">Grant proposals</genreform>
+            <genreform source="aat">Grants</genreform>
+            <subject source="lcsh">Homosexuality in motion pictures</subject>
+            <subject source="lcsh">Lesbians -- Social life and customs</subject>
+            <subject source="lcsh">Lesbians in motion pictures</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.) -- Popular culture</geogname>
+            <genreform source="aat">Programs (Documents)</genreform>
+            <subject source="ulstag">Theater</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Office files,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1984-1994</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Content Notes</head>
+                    <p>The first series comprises budgeting plans, Festival bylaws, billing invoices and receipts, programming information, public and private grant applications, as well as correspondence between Richard Cummings and festival personnel. Included in this series are detailed reports on the Festival’s application and receipt of funding and grants from the Chicago Resource Center, the Lambda Foundation, and the Pennsylvania Council on the Arts. Media coverage on the Festival is included from several local publications, including Pittsburgh’s Out Magazine and City Paper. Their grant application and lawsuit with the National Alliance for Media Arts and Culture in 1993 are present. The materials are arranged in chronological order by festival year.</p>
+                </scopecontent>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Gay &amp; Lesbian Community Center Film Series,</unittitle>
+                        <container id="cid883001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid883001" type="Folder">1</container>
+                        <unitdate>1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Film Festival - invoices and correspondence,</unittitle>
+                        <container id="cid883002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Film Festival - invoices,</unittitle>
+                        <container id="cid883003" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Film Festival - programs,</unittitle>
+                        <container id="cid883004" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883005" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Lambda Foundation -grant,</unittitle>
+                        <container id="cid883006" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Film Festival -bylaws,</unittitle>
+                        <container id="cid883007" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Film Festival - tax information,</unittitle>
+                        <container id="cid883008" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Film Festival -press clippings,</unittitle>
+                        <container id="cid883009" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Film Festival - programs,</unittitle>
+                        <container id="cid883010" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Chicago Resource Center -grant,</unittitle>
+                        <container id="cid883011" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - grant,</unittitle>
+                        <container id="cid883012" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Film Festival - invoices,</unittitle>
+                        <container id="cid883013" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883014" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Film Festival -programs,</unittitle>
+                        <container id="cid883015" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Chicago Resource Center - grant,</unittitle>
+                        <container id="cid883016" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - grant,</unittitle>
+                        <container id="cid883017" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Film Festival - invoices,</unittitle>
+                        <container id="cid883018" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883019" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Film Festival - programs,</unittitle>
+                        <container id="cid883020" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Chicago Resource Center - grant,</unittitle>
+                        <container id="cid883021" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Lambda Foundation - grant,</unittitle>
+                        <container id="cid883022" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid883022" type="Folder">1</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - grant,</unittitle>
+                        <container id="cid883023" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Film Festival - invoices,</unittitle>
+                        <container id="cid883024" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883025" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Film Festival - programs,</unittitle>
+                        <container id="cid883026" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Film Festival - report,</unittitle>
+                        <container id="cid883027" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Chicago Resource Center - grant,</unittitle>
+                        <container id="cid883028" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts – grant and press clippings,</unittitle>
+                        <container id="cid883029" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Humanities Council - grant,</unittitle>
+                        <container id="cid883030" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Foundation - grant,</unittitle>
+                        <container id="cid883031" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Film Festival - invoices,</unittitle>
+                        <container id="cid883032" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883033" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Film Festival - programs,</unittitle>
+                        <container id="cid883034" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Chicago Resource Center - grant,</unittitle>
+                        <container id="cid883035" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>National Alliance for Media Arts and Culture - grant,</unittitle>
+                        <container id="cid883036" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - grant,</unittitle>
+                        <container id="cid883037" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883038" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Film Festival - programs,</unittitle>
+                        <container id="cid883039" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>National Alliance for Media Arts and Culture - grant,</unittitle>
+                        <container id="cid883040" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>National Alliance for Media Arts and Culture - lawsuit,</unittitle>
+                        <container id="cid883041" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts - grant,</unittitle>
+                        <container id="cid883042" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Foundation - grant,</unittitle>
+                        <container id="cid883043" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Film Festival - press clippings,</unittitle>
+                        <container id="cid883044" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Lambda Foundation - grant,</unittitle>
+                        <container id="cid883045" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>National Alliance for Media Arts and Culture - grant,</unittitle>
+                        <container id="cid883046" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council for the Arts - grant,</unittitle>
+                        <container id="cid883047" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Other Lesbian and Gay film festivals in the United States,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1980-1992</unitdate>
+                </did>
+                <scopecontent id="ref12">
+                    <head>Scope and Content Notes</head>
+                    <p>The second series includes information on other gay and lesbian film festivals collected by the PILGFS. The information collected consists of programs and press coverage. These materials often make mention of the Film Festival in Pittsburgh, as well as served as tools for planning in the early years of the PILGFS.</p>
+                </scopecontent>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Chicago International Lesbian &amp; Gay Film Festival,</unittitle>
+                        <container id="cid883048" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid883048" type="Folder">1</container>
+                        <unitdate>1988-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Los Angeles International Lesbian &amp; Gay Film Festival,</unittitle>
+                        <container id="cid883049" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1988-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Miscellaneous film festivals,</unittitle>
+                        <container id="cid883050" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>New York International Festival of Lesbian &amp; Gay Film,</unittitle>
+                        <container id="cid883051" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1980-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>San Francisco International Lesbian &amp; Gay Film Festival,</unittitle>
+                        <container id="cid883052" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1986-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Washington D.C. International Lesbian &amp; Gay Film Festival,</unittitle>
+                        <container id="cid883053" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197901</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Peter Gregg Papers, 1937-1995
+                    <num>CTC.1979.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Jodie Childers.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>June 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:59-0400</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Peter Gregg Papers</unittitle>
+            <unitid>CTC.1979.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 linear feet</extent>
+            </physdesc>
+            <unitdate>1937-1995</unitdate>
+            <abstract id="ref85" label="Abstract">Peter Gregg was a Pittsburgh area actor and playwright. This collection includes his play scripts, correspondence, memorabilia, employment records, book reviews, and photographs.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Gregg, Peter</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref100">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains the papers of actor and playwright Peter Gregg. It includes play scripts, correspondence, book reviews, photographs, and a scrapbook. Also included are a sampling of Mr. Gregg's business contracts and copyrights. The materials date from the 1930s through the 1990s.</p>
+        </scopecontent>
+        <processinfo id="ref81">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jodie Childers in the spring of 2004.</p>
+        </processinfo>
+        <userestrict id="ref78">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <acqinfo id="ref79">
+            <head>Acquisition Information</head>
+            <p>Gift of Peter Gregg in 1979, additional materials were donated in 1982.</p>
+        </acqinfo>
+        <bioghist id="ref80">
+            <head>Biography</head>
+            <p>Playwright and former actor, Peter Gregg, born Joseph Peter Crocco, is a native of western Pennsylvania. He began his theatrical career at the Carnegie Institute of Technology, where he was enrolled in the Drama Department from 1934 to 1937.</p>
+            <p>Mr. Gregg moved to New York in 1937 and won his first professional part a year later in 
+                <title render="italic">Cry for Passion</title>, an off-Broadway production. He continued to work off-Broadway for the next few years both as an actor and stage manager. In 1941, he earned a part in the successful Broadway play 
+                <title render="italic">The Doughgirls</title>, produced by Max Gordon and George S. Kaufman, and he later served as a stage manager, director, and actor in 
+                <title render="italic">The Doughgirls</title> touring company. After World War II, Mr. Gregg returned to the New York stage, and for the next nine years, he worked in theater, radio, and films. He gave up his pursuit of an acting career in 1954 when he returned to Pittsburgh.</p>
+            <p>Mr. Gregg wrote his first play, 
+                <title render="italic">Sweet Delirium</title>, in 1946. It was seriously considered for production by Forest Haring but was eventually dropped. Some years later, Mr. Gregg sold another play to Broadway producers, but it was also not produced. He continued to write plays until his death.</p>
+        </bioghist>
+        <accessrestrict id="ref84">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <odd id="ref83">
+            <head>Previous Citation</head>
+            <p>Peter Gregg Papers, 1937-1995, CTC.1979.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Peter Gregg Papers, 1937-1995, CTC.14, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref82">
+            <head>Preferred Citation</head>
+            <p>Peter Gregg Papers, 1937-1995, CTC.1979.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <arrangement id="ref99">
+            <head>Arrangement</head>
+            <p>The collection is arranged in the following series:</p>
+            <p>Series I. Play Scripts and Plot Synopses</p>
+            <p>Series II. Correspondence, 1946-1995</p>
+            <p>Series III. Book Reviews, 1961-1974</p>
+            <p>Series IV. Legal Documents and Miscellaneous Memorabilia</p>
+        </arrangement>
+        <controlaccess>
+            <corpname rules="rda" source="local">Carnegie Institute of Technology. Department of Drama.</corpname>
+            <persname rules="aacr" source="local">Gregg, Peter</persname>
+            <persname source="naf">Kaufman, George S. (George Simon), 1889-1961 -- Correspondence</persname>
+            <subject source="lcsh">Actors and actresses</subject>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Dramatists</subject>
+            <genreform source="aat">Legal documents</genreform>
+            <subject source="lcsh">Performing arts -- United States</subject>
+            <genreform source="aat">Personal papers</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Reviews (Document genre)</genreform>
+            <genreform source="aat">Scrapbooks</genreform>
+            <genreform source="aat">Scripts (Documents)</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Play Scripts and Plot Synopses</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref90">
+                    <head>Scope and Content Notes</head>
+                    <p>Within this series are eight typed play scripts, three synopses, and three ideas for television productions. Some folders contain lists of persons for whom plays were sent for consideration. In one case, there is only a list of persons to whom the script was sent.</p>
+                </scopecontent>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ad Cats and Goose Liver</title></unittitle>
+                        <container id="cid1417003" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid1417003" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Apollo Wears a Davy Lamp</title></unittitle>
+                        <container id="cid1417001" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - final copy</unittitle>
+                        <container id="cid1417004" type="Folder" label="Mixed materials">3-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - Act I version one draft</unittitle>
+                        <container id="cid1417005" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - Act I version two draft</unittitle>
+                        <container id="cid1417006" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - Acts II and III drafts</unittitle>
+                        <container id="cid1417007" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - miscellaneous pages</unittitle>
+                        <container id="cid1417008" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - preface</unittitle>
+                        <container id="cid1417009" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bard from Ludlow</title> - notes</unittitle>
+                        <container id="cid1417010" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bring in Blotz</title> - script</unittitle>
+                        <container id="cid1417011" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid1417011" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Fatal Haircut - T.V. idea</unittitle>
+                        <container id="cid1417012" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Guess the Address - synopsis</unittitle>
+                        <container id="cid1417013" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Holiday for Mary - script</unittitle>
+                        <container id="cid1417014" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Innocent Wine - script</unittitle>
+                        <container id="cid1417015" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Matches That Matched - T.V. idea</unittitle>
+                        <container id="cid1417016" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Of Thee We Sing - synopsis</unittitle>
+                        <container id="cid1417018" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Operation Vacation</title> - script</unittitle>
+                        <container id="cid1417019" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Operation Vacation</title> - rewrites</unittitle>
+                        <container id="cid1417020" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Playboy Blue</title> - script</unittitle>
+                        <container id="cid1417021" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Sweet Delirium - script</unittitle>
+                        <container id="cid1417022" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid1417022" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>This Day's Madness - submission list only</unittitle>
+                        <container id="cid1417023" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Those Who Made History Meet Their Critics - T.V. idea</unittitle>
+                        <container id="cid1417024" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Whose Tomorrow - script</unittitle>
+                        <container id="cid1417025" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Miscellaneous - entitled</unittitle>
+                        <container id="cid1417026" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes</unittitle>
+                        <container id="cid1417027" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1946-1995</unitdate>
+                </did>
+                <scopecontent id="ref91">
+                    <head>Scope and Content Notes</head>
+                    <p>This series of correspondence contains both personal and work related materials. The folders that are labeled miscellaneous incoming letters are mainly letters that relate to Gregg’s play scripts, replies from agencies and persons to whom he sent scripts for consideration. There is also a large amount of correspondence with friend Stephen Radkey. Finally, there is one folder each of letters from George S. Kaufman, copies of outgoing letters, and letters about the 
+                        <title render="italic">Bard from Ludlow</title>.</p>
+                </scopecontent>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Letters from George S. Kaufman</unittitle>
+                        <container id="cid1417028" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417029" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417030" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417031" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417032" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417033" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417034" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417035" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417036" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417037" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters,</unittitle>
+                        <container id="cid1417038" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1957-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Miscellaneous incoming letters - no dates</unittitle>
+                        <container id="cid1417039" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417040" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid1417040" type="Folder">1</container>
+                        <unitdate>1974-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417041" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1980-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417042" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417043" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417044" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417045" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417046" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417047" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417048" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid1417048" type="Folder">1</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417049" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417050" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey,</unittitle>
+                        <container id="cid1417051" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Incoming letters from Stephen Radkey - no dates</unittitle>
+                        <container id="cid1417052" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Incoming correspondence concerning 
+                            <title render="italic">Bard from Ludlow</title></unittitle>
+                        <container id="cid1417053" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Outgoing letters,</unittitle>
+                        <container id="cid1417054" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1946-1995</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref61" level="series">
+                <did>
+                    <unittitle>Book Reviews,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1961-1974</unitdate>
+                </did>
+                <scopecontent id="ref88">
+                    <head>Scope and Content Notes</head>
+                    <p>These reviews were published in the Sunday edition of the Pittsburgh Press, and are mainly of books about theater but include some contemporary fiction and literary criticism. The original clippings have been xeroxed.</p>
+                </scopecontent>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Book reviews,</unittitle>
+                        <container id="cid1417055" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1961-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Book reviews,</unittitle>
+                        <container id="cid1417056" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1966-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Book reviews - no dates</unittitle>
+                        <container id="cid1417058" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref66" level="series">
+                <did>
+                    <unittitle>Legal Documents and Miscellaneous Materials</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref92">
+                    <head>Scope and Content Notes</head>
+                    <p>Series includes legal materials, employment records, photographs, etc. The scrapbook covers Peter Gregg’s acting career. It includes Carnegie Tech, Off-Broadway, and Broadway programs, photographs, Equity Contracts, clippings, etc. Also contains several Pittsburgh articles that summarize Gregg’s years in New York. There are two tape recordings of a Pittsburgh Ad Club production, 
+                        <title render="italic">Ad Cats and Goose Livers</title>, written by Mr. Gregg. Also includes programs from the Ad Club, Lemonade Opera, and some material relating to Mr. Gregg’s radio days. There are several newsletters and other publications from the Dramatist’s Guild, The Lions Club of Pittsburgh, and the Pittsburgh Ad Club.</p>
+                </scopecontent>
+                <c02 id="ref6" level="series">
+                    <did>
+                        <unittitle>Personal history and resumes</unittitle>
+                        <container id="cid1417002" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid1417002" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Copyrights,</unittitle>
+                        <container id="cid1417059" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1946-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Theatrical contracts,</unittitle>
+                        <container id="cid1417060" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1947-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Employment records,</unittitle>
+                        <container id="cid1417061" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1946-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <container id="cid1419001" type="Folder" label="Photographic images">5</container>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Content Notes</head>
+                        <p>The photographs, a gift from Lester Sweyd, include pictures of Moss Hart and Cary Grant. In addition, there are photos of Greg, himself, as well as three strips of negatives.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1431004" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1943-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Audio recordings of Ad Club Shows</unittitle>
+                        <container id="cid1431003" type="Folder" label="Audio">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Kenny and Penny milk commercial</unittitle>
+                        <container id="cid1431005" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings, newsletters, etc.,</unittitle>
+                        <container id="cid1431006" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1950-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Comedy and Tragedy plaster wall masks</unittitle>
+                        <container id="cid1431007" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid1431007" type="Folder">1</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

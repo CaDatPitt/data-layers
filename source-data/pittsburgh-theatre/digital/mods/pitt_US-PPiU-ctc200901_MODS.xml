@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mildred Miller Posvar papers, 1939-2008</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Mildred Posvar papers, 1939-2008</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Papers of Mildred Miller Posvar, 1939-2008</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Miller, Mildred</namePart>
+    <namePart type="date">1924-</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Audiocassettes.</genre>
+  <genre authority="aat">Audiotapes.</genre>
+  <genre authority="aat">Clippings (Information artifacts).</genre>
+  <genre authority="aat">Ephemera.</genre>
+  <genre authority="aat">Long-playing records.</genre>
+  <genre authority="aat">Photographs.</genre>
+  <genre authority="aat">Scrapbooks.</genre>
+  <genre authority="aat">Sound recordings.</genre>
+  <genre authority="aat">Theater programs.</genre>
+  <genre authority="aat">Videocassettes.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1939-2008.</dateOther>
+    <dateIssued encoding="marc" point="start">1939</dateIssued>
+    <dateIssued encoding="marc" point="end">2008</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft. boxes + scrapbooks)">15 (23 15</extent>
+    <note type="arrangement">Organized into 7 series: I. Programs, 1944-2004; II. Ephemera, 1942-2008; III. Newspaper Clippings, 1949-2008; IV. Photographs, 1947-2008; V. Audio/Visual Recordings, 1953-1965; VI. Scrapbooks, 1939-1973; VII. Oversized Materials, 1952-1972.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">The Mildred Miller Posvar Papers are arranged into seven series. The single largest portion of the collection is the audio recordings. These recordings were on cassette tapes, reel to reel, and vinyl records. Since the donation, they have been transferred to compact discs. Other items in the collection include photographs, programs, newspaper clippings, scrapbooks, and a small amount of correspondence. The majority of the materials focus on her performing career, however there are some items that relate to her position as the University of Pittsburgh's First Lady and her involvement in the Opera Theatre of Pittsburgh.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Mildred Miller Posvar Papers, 1939-2008, CTC.2009.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Mildred Miller Posvar in 1978 and June 2009.</note>
+  <note type="biographical/historical">Mildred Miller Posvar, known professionally as Mildred Miller, is a classical mezzo-soprano who had a career performing in operas, concerts, and recitals beginning in the 1940s. She made her opera debut in 1946 at the Tanglewood Music Festival. She was a principal artist at the Metropolitan Opera in New York from 1951 through 1974. In 1978 she founded the Opera Theater of Pittsburgh and served as its Artistic Director until 1999. She taught music and voice first at the University of Pittsburgh and presently teaches at Carnegie Mellon University. She has also taught master classes in many other institutions. She was born Mildred Müller on December 16, 1924 in Cleveland, Ohio and attended the Cleveland Metropolitan School District graduating from West High School 1942. She entered the Cleveland Institute of Music where she was a voice student of Marie Simmelink Kraft. After graduating in 1946, she entered the New England Conservatory where she earned her Artist Diploma in 1948. After studying and performing abroad she met up with Wesley Wentz Posvar, a schoolmate from her high school in Cleveland. Wesley and Mildred were married on June 13, 1950. After her marriage, she continued to use the stage name of Mildred Miller in all matters and materials that related to her performing career. Her 1951 debut at the Metropolitan Opera House in the role of Cherubino, in Mozart's Le nozze di Figero, began a string of 24 consecutive years of performing at the Met. Mrs. Posvar was also mentored by Lotte Lehmann (1888-1976) and became a prominent Lieder singer. She performed in Italy, Germany, Austria, Japan, the Philippines, Singapore, China, and all over the United States. She was also a frequent featured guest on radio and television shows like the Voice of Firestone, the Bell Telephone Hour, and the Ed Sullivan Show. In 1967, Wesley Posvar became the Chancellor of the University of Pittsburgh. During her time as First Lady of Pitt, she continued to perform at the Met and toured regularly. Mrs. Posvar also gave the first performance by a musician at the Nixon White House for the retirement of Chief Justice Earl Warren in 1969.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc200901">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc200901</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Miller, Mildred</namePart>
+      <namePart type="date">1924-</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Lehmann, Lotte</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Posvar, Wesley</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Metropolitan Opera (New York, N.Y.).</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Opera Theatre of Pittsburgh.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh</namePart>
+    </name>
+    <topic>Administration</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Mezzo-sopranos</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>New York</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Opera</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>New York</geographic>
+    <temporal>20th century</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Opera</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+    <temporal>20th century</temporal>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocn793750981</identifier>
+  <identifier type="oclc">793750981</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc200901</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">120516</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131837.0</recordChangeDate>
+    <recordIdentifier>6981369</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc200901</identifier></mods>

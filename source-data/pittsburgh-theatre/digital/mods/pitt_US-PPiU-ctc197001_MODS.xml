@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Papers of George M. P. Baird, ca. 1915-ca. 1960</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Baird papers, ca. 1915-ca. 1960</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Collection of materials relating to the performing arts, ca. 1915-ca. 1960</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Baird, George M. P. (George Mahaffey Patterson)</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Performing arts-Clippings.</genre>
+  <genre authority="aat">Performing arts-Files.</genre>
+  <genre authority="aat">Performing arts-Slides.</genre>
+  <genre authority="aat">Performing arts-Collections.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xxu</placeTerm>
+    </place>
+    <dateOther>ca. 1915-ca. 1960.</dateOther>
+    <dateIssued encoding="marc" point="start" qualifier="questionable">1915</dateIssued>
+    <dateIssued encoding="marc" point="end" qualifier="questionable">1960</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear feet ( folders + slides)">10.5 387 282</extent>
+    <note type="arrangement">Organized into 2 series: I. Clippings and Papers; II. Lantern Slides.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">The clippings file is presently maintained largely as Mr. Baird had it, although a new classification, Names, has been added and some subject headings have been combined. Mr. Baird's headings and spelling have been retained on new folders, but in some cases revised in the inventory list following, for reasons of consistency, clarity and conformity. Included with the clippings are Mr. Baird's notes, papers and lectures. Also in the collection are lantern slides utilized by George M. Baird in his lectures on theater history and production.</abstract>
+  <note type="preferred citation">Papers of George M. P. Baird, ca. 1915-ca. 1960, CTC.1970.01, Curtis Theatre Collection, Special Collections Dept., University of Pittsburgh.</note>
+  <note type="acquisition">Gift of the Estate of George M. P. Baird, 1970.</note>
+  <note type="biographical/historical">George M. P. Baird, 1887-1970, B.A. University of Pittsburgh, 1909, made varied and lasting contributions to the University. He wrote the lyrics of the Alma Mater, suggested the Panthers as the name of the football team, and was actively associated with the Scottish Room Committee. He left his teaching position at Pitt for the Army in 1917. Upon his return he began a new career in government service in the city of Pittsburgh, and was senior research analyst for the Department of City Planning when he retired in 1961. Throughout his life he maintained a strong interest in the theater. He wrote and produced several one-act plays, directed, served as a theater consultant and lectured on the theater.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197001">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197001</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Baird, George M. P. (George Mahaffey Patterson)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Drama</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Acting</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Greek drama</topic>
+    <genre>Pictorial works</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Greek drama, Modern</topic>
+    <genre>Pictorial works</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Drama, Medieval</topic>
+    <genre>Pictorial works</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Drama</topic>
+    <topic>Origin</topic>
+    <genre>Pictorial works</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>European drama</topic>
+    <temporal>Renaissance, 1450-1600</temporal>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm31043595</identifier>
+  <identifier type="oclc">31043595</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc197001</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940901</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131812.0</recordChangeDate>
+    <recordIdentifier>1468144</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc197001</identifier></mods>

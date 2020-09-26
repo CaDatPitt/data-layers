@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197902</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Federal Theatre Project Collection, 1936-1939
+                    <num>CTC.1979.02</num>
+                </titleproper>
+                <author>Finding aid prepared by Margaret Huang.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>October 2013</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:59-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Federal Theatre Project Collection</unittitle>
+            <unitid>CTC.1979.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 linear feet</extent>
+                <extent>(12 document boxes)</extent>
+            </physdesc>
+            <unitdate>1936-1939</unitdate>
+            <abstract id="ref229" label="Abstract">The Federal Theatre Project was a New Deal initiative established in 1935 within the Work Projects Administration (WPA). It aimed to provide employment for out-of-work theatre professionals including actors, writers, directors, and designers. Under the dynamic direction of Hallie Flanagan, the project encouraged experimental work in theatres across the country and also staged revivals of European and American classics in regional theatres, attracting large new theatre audiences as a result. The left-leaning political tone of some of the plays drew the attention of the House on Un-American Activities Committee, which prompted an investigation of the Federal Theatre Project that led to its dissolution on July 30, 1939. The Federal Theatre Project Collection includes publications, reports, and programs that reflect the activities of the project between the years of 1936-1939.</abstract>
+            <origination label="creator">
+                <corpname source="naf">Federal Theatre Project (U.S.).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref230">
+            <head>History</head>
+            <p>The Federal Theatre Project was a New Deal initiative established in 1935 within the Work Projects Administration (WPA). Under President Franklin Delano Roosevelt’s Administration, the Federal Theatre Project aimed to provide employment for out-of-work theatre professionals including actors, writers, directors, and designers during the Great Depression as well as reinvigorating theatre and providing entertainment for a despondent nation.</p>
+            <p>Under the dynamic direction of Hallie Flanagan, the project encouraged experimental, uncensored, and unrestricted work in theatres across the country and also staged revivals of European and American classics in regional theatres, attracting large new theatre audiences as a result. The plays often reflected current events and controversial issues such as farm-aid policy, syphilis testing, and housing inequity and were extremely popular with audiences. The left leaning political tone of some of the plays drew the attention of the House on Un-American Activities Committee, which prompted an investigation of the Federal Theatre Project that led to its dissolution on July 30, 1939.</p>
+            <p>The Federal Theatre Project Collection includes publications, reports, and programs that reflect the activities of the project between the years of 1936-1939. The Federal Theatre Project was the first and only initiative of its’ kind instituted by the Federal Government to execute the production and administration of theatre on a national scale. Consequently, this program introduced European epic theatre to new audiences never before exposed to live performance and was instrumental in creating socially significant and influential works.</p>
+        </bioghist>
+        <scopecontent id="ref231">
+            <head>Scope and Content Notes</head>
+            <p>The Federal Theatre Project Collection consists of various Federal Theatre Project materials such as scripts, programs, reports, and meeting agendas dating between 1935 and 1939. The collection offers a variety of information reflecting the administrative, legal, operational, and live performance activities of the Federal Theatre Project.</p>
+        </scopecontent>
+        <accessrestrict id="ref232">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <odd id="ref244">
+            <head>Previous Citation</head>
+            <p>Federal Theatre Project Collection, 1936-1939, CTC.1979.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Federal Theatre Project Collection, 1935-1939, CTC.03, The Ford E. and Harriet R. Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref233">
+            <head>Preferred Citation</head>
+            <p>Federal Theatre Project Collection, 1936-1939, CTC.1979.02, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <relatedmaterial id="ref240">
+            <head>Related Material</head>
+            <p>The following two journal titles are a part of the journal holdings of the Curtis Theatre Collection:</p>
+            <p>
+                <title render="italic">Federal Theatre Bulletin</title>: v. 1, no. 2, 5, 6; v.2, no. 1-4 [currently in process of being catalogued].</p>
+            <p>
+                <title render="italic">The Living Newspaper</title>: v. 1. no. 1-3; v.2, no. 1; v. 3, no. 1; v. 5, no. 5, 9, 18 [currently in process of being catalogued].</p>
+        </relatedmaterial>
+        <custodhist id="ref238">
+            <head>Custodial History</head>
+            <p>The Federal Theatre Project Collection was under the stewardship of the New York Public Library until it was gifted to the Special Collections Department at the University of Pittsburgh in 1979.</p>
+        </custodhist>
+        <acqinfo id="ref237">
+            <head>Acquisition Information</head>
+            <p>Gift of the New York Public Library in 1979.</p>
+        </acqinfo>
+        <arrangement id="ref236">
+            <head>Arrangement</head>
+            <p>The Federal Theatre Project Collection is arranged by the following series:</p>
+            <p>Series I. National Service Bureau publications, 1936-1939</p>
+            <p>Series II. Reports, 1938</p>
+            <p>Series III. Programs</p>
+        </arrangement>
+        <userestrict id="ref235">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <processinfo id="ref234">
+            <head>Processing Information</head>
+            <p>This collection was reprocessed by Margaret Huang in March 2013.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname source="naf">Federal Theatre Project (U.S.).</corpname>
+            <corpname source="naf">Federal Theatre Project (U.S.). -- History</corpname>
+            <corpname rules="dacs" source="local">National Service Bureau (U.S.).</corpname>
+            <genreform source="aat">Bibliographies</genreform>
+            <subject source="lcsh">Experimental theater -- United States</subject>
+            <subject source="lcsh">Living newspaper</subject>
+            <genreform source="aat">Newsletters</genreform>
+            <genreform source="aat">Newspapers</genreform>
+            <subject source="lcsh">Performing arts -- United States</subject>
+            <genreform source="aat">Scripts (Documents)</genreform>
+            <subject source="lcsh">Theater -- United States</subject>
+            <subject source="lcsh">Theater and society -- United States -- 20th century</subject>
+            <subject source="lcsh">Theater and state -- United States -- 20th century</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>National Service Bureau publications,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1936-1939</unitdate>
+                </did>
+                <scopecontent id="ref241">
+                    <head>Scope and Content Notes</head>
+                    <p>This series of National Service Bureau publications includes bibliographies, synopses with production notes, and play scripts covering political, ethnic, holiday, historical, religious, children’s and marionette plays. The National Service Bureau was officially established in 1937 by combining the Federal Theatre Project's Play Bureau and Play Policy Board. The National Service Bureau was headquartered in New York City where it supported regional Federal Theatre Project units by providing research material, consultation services, and publications such as those found within this series.</p>
+                </scopecontent>
+                <c02 id="ref2" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anglo-Jewish Full Length Plays in English and Yiddish</title>,</unittitle>
+                        <container id="cid2864001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid2864001" type="Folder">1</container>
+                        <unitdate>January 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref3" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anti-war Plays, Anglo-Jewish Part 2 in Yiddish</title>,</unittitle>
+                        <container id="cid2864002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>July 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anti-war Plays, Foreign and Anglo-Jewish Lists</title>,</unittitle>
+                        <container id="cid2895002" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>October 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anti-war Plays for Community Theatres</title>,</unittitle>
+                        <container id="cid2895003" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>October 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref4" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anti-war Plays, Royalty List</title>,</unittitle>
+                        <container id="cid2895001" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>November 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Barnum Returns</title> or 
+                            <title render="italic">The New American Museum</title>,</unittitle>
+                        <container id="cid2895004" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>May 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Bibliography of Marionette Plays</title>,</unittitle>
+                        <container id="cid2895005" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Brother Mose, A Comedy of Negro Life with Music and Spirituals</title>,</unittitle>
+                        <container id="cid2895006" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>September 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Better Sort</title> or 
+                            <title render="italic">A Girl of Spirit: An Operatical, Comical Farce</title>,</unittitle>
+                        <container id="cid2895007" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Catholic Plays, Part 1: For Advanced Groups</title>,</unittitle>
+                        <container id="cid2895008" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>November 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Catholic Plays, Part 2 and 3: For Intermediate and Junior Groups</title>,</unittitle>
+                        <container id="cid2895009" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>February 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Children’s Operettas</title>,</unittitle>
+                        <container id="cid2895010" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid2895010" type="Folder">1</container>
+                        <unitdate>June 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Children’s Plays</title></unittitle>
+                        <container id="cid2895011" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Children of Salem</title>,</unittitle>
+                        <container id="cid2895013" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>January 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Christmas Plays</title>,</unittitle>
+                        <container id="cid2895012" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>November 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Copy of Card File of Commercial Phonograph Recordings on Deposit at the Archive of American Folk Song</title>,</unittitle>
+                        <container id="cid2895014" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>February 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Disappointment</title> or 
+                            <title render="italic">The Force of Credulity</title>,</unittitle>
+                        <container id="cid2895015" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>May 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Death Takes the Wheel, Adapted for Buffalo Historical Marionette Theatre</title></unittitle>
+                        <container id="cid2895016" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Donogoo</title>,</unittitle>
+                        <container id="cid2895017" type="Folder" label="Mixed materials">8-9</container>
+                        <unitdate>September 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Don Quixote, Adapted for the Marionette Theatre</title>,</unittitle>
+                        <container id="cid2895018" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Dragon Znee Zee, A Play for Chinese Marionettes</title>,</unittitle>
+                        <container id="cid2895019" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Early Spanish One-act Plays in English Translation</title></unittitle>
+                        <container id="cid2895020" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid2895020" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Easter Plays: Biblical Dramas, Modern Dramas, Service Dramas for Churches and Schools</title>,</unittitle>
+                        <container id="cid2895021" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>March 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">50 Non-royalty Plays, Part 1: One-act Plays</title>,</unittitle>
+                        <container id="cid2895022" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>October 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">50 Non-royalty Plays, Part 2: Full-length Plays</title>,</unittitle>
+                        <container id="cid2895023" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>April 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">59 Monologues</title>,</unittitle>
+                        <container id="cid2895024" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>December 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">56 Minstrels</title>,</unittitle>
+                        <container id="cid2895025" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid2895025" type="Folder">1</container>
+                        <unitdate>February 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The First Comic Opera in America</title>,</unittitle>
+                        <container id="cid2895026" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>November 1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Full Length Plays</title>,</unittitle>
+                        <container id="cid2895027" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>October 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Haven</title> or 
+                            <title render="italic">The Merited Gallows</title>,</unittitle>
+                        <container id="cid2895028" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Highlights of the First Production Conference of the New York City Unit of the Federal Theatre</title>,</unittitle>
+                        <container id="cid2895029" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>July 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">His Majesty the Microbe</title> or 
+                            <title render="italic">The Microbe Universe, a Marionette Play in No Acts with Ten Scenes</title></unittitle>
+                        <container id="cid2895030" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Holy Night</title>,</unittitle>
+                        <container id="cid2895031" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>October 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Injunction Granted,</title></unittitle>
+                        <container id="cid2895032" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Injunction Granted,</title></unittitle>
+                        <container id="cid3341001" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Irish Plays</title>,</unittitle>
+                        <container id="cid2895033" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>August 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">It Can’t Happen Here</title>,</unittitle>
+                        <container id="cid2895034" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid2895034" type="Folder">1</container>
+                        <unitdate>September 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Jellico an’ de Critters</title></unittitle>
+                        <container id="cid2895035" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Jewish Non-royalty Plays and Pageants: Holiday, Historical, General</title>,</unittitle>
+                        <container id="cid2895036" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>January 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">John Henry, Steel-driving Man</title>,</unittitle>
+                        <container id="cid2895037" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>January 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Juvenile Operettas, Part 2</title></unittitle>
+                        <container id="cid2895038" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>May 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Katcha and the Devil</title>,</unittitle>
+                        <container id="cid2895039" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>July 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Late Primitive</title>,</unittitle>
+                        <container id="cid2895040" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Lists of Little Known One-act Plays</title>,</unittitle>
+                        <container id="cid2895041" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">List of Negro Plays</title>,</unittitle>
+                        <container id="cid2895042" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>March 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Little Crab</title>,</unittitle>
+                        <container id="cid2895043" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>November 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Lost Generation, A Play about Youth</title>,</unittitle>
+                        <container id="cid2895044" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Lucy Moore, the Prune Hater’s Daughter</title></unittitle>
+                        <container id="cid2895045" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Man of the Times</title> or 
+                            <title render="italic">A Scarcity of Cash</title></unittitle>
+                        <container id="cid2895046" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid2895046" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Modern Miscellany</title></unittitle>
+                        <container id="cid2895047" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Morning Paper, A Play about Newsboys</title>,</unittitle>
+                        <container id="cid2895048" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Most Wicked Pirate</title>,</unittitle>
+                        <container id="cid2895049" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>September 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Mr. Cold, You Can’t Catch Me</title>,</unittitle>
+                        <container id="cid2895050" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>September 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Musical Plays</title>,</unittitle>
+                        <container id="cid2895051" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>December 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Nathan Hale, A Marionette Play in 5 Scenes</title>,</unittitle>
+                        <container id="cid2895052" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>June 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">National Play Bureau Publications: A Catalog</title>,</unittitle>
+                        <container id="cid2895055" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Nativity</title>,</unittitle>
+                        <container id="cid2895056" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>November 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Negro Plays</title></unittitle>
+                        <container id="cid2895057" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Nelagony</title>,</unittitle>
+                        <container id="cid2895058" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>November 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">1935,</title></unittitle>
+                        <container id="cid2895059" type="Folders" label="Mixed materials">12-13</container>
+                        <unitdate>1936-1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">90 New Plays</title>,</unittitle>
+                        <container id="cid2895060" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>December 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">No More Peace</title></unittitle>
+                        <container id="cid2895061" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Non-royalty Plays for Halloween, Thanksgiving, Plymouth Days</title>,</unittitle>
+                        <container id="cid2895062" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid2895062" type="Folder">1</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Oliver Twist, Adapted for Marionettes</title>,</unittitle>
+                        <container id="cid2895063" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">One-act Negro Plays</title>,</unittitle>
+                        <container id="cid2895064" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>October 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">One-act Plays of Moliere</title></unittitle>
+                        <container id="cid2895065" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">One Third of a Nation, Volume 1</title>,</unittitle>
+                        <container id="cid2895066" type="Folder" label="Mixed materials">5-6</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">One Third of a Nation, Volume 2</title>,</unittitle>
+                        <container id="cid2895067" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>April 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Operettas</title>,</unittitle>
+                        <container id="cid2895068" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>November 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Pagent of the Sherman and the Tailors</title>,</unittitle>
+                        <container id="cid3393001" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>October 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Patriotic Plays Non-royalty, Part 1: Abraham Lincoln, George Washington</title>,</unittitle>
+                        <container id="cid2895069" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>January 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Patriotic Plays Non-royalty, Part 2: Memorial Day, Flag Day, Fourth of July</title>,</unittitle>
+                        <container id="cid2895070" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>April 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Plays Available for Amateur Production</title></unittitle>
+                        <container id="cid2895071" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Plays Suggested for Consideration by the Federal Theatre Project</title></unittitle>
+                        <container id="cid2895072" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid2895072" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Power</title>,</unittitle>
+                        <container id="cid2895073" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>September 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Precious Laura</title>,</unittitle>
+                        <container id="cid2895074" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>February 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Prologue to Glory</title>,</unittitle>
+                        <container id="cid2895075" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>May 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Puppet Teaching, Weekly News Bulletin</title>: v.1, no. 1; v.2, no.1. Additional copies of v. 1, no. 12, 14, 15, 17</unittitle>
+                        <container id="cid2895083" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>June 1937-January 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">R.U.R., Adapted for the Marionette Theatre</title></unittitle>
+                        <container id="cid2895076" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rural Plays, Part 1: Dramas, Comedies, Tragedies</title>,</unittitle>
+                        <container id="cid2895077" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rural Plays, Part 2: Dramas, Comedies, Farces</title>,</unittitle>
+                        <container id="cid2895078" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rural Plays, Part 3: Drama, Comedy, Farce and Burlesque, Pageant, Collections</title>,</unittitle>
+                        <container id="cid2895079" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Russian Plays: A Preliminary Catalogue</title></unittitle>
+                        <container id="cid2895080" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sancho Panza</title></unittitle>
+                        <container id="cid2895081" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Series of Children’s Non-royalty Plays, Part 1: Health, Safety, Humane</title>,</unittitle>
+                        <container id="cid2895082" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>December 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">72 Vaudeville Sketches Non-royalty, Part 1</title>,</unittitle>
+                        <container id="cid2895084" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">72 Vaudeville Sketches Non-royalty, Part 2</title>,</unittitle>
+                        <container id="cid2905001" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>March 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sherlock Holmes, Adapted for Marionettes in Four Scenes</title>,</unittitle>
+                        <container id="cid2905002" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid2905002" type="Folder">1</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Some Irish Plays</title>,</unittitle>
+                        <container id="cid2905003" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>April 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Some New Unpublished One-act Plays Royalty Plays, Part 1</title>,</unittitle>
+                        <container id="cid2905004" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Spanish Miracles and Moralities Available in English Translation</title></unittitle>
+                        <container id="cid2905005" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Spirochete</title>,</unittitle>
+                        <container id="cid2905006" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>January 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Production List of 15 One-act Negro Plays</title></unittitle>
+                        <container id="cid2905007" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Production List of Non-royalty Christmas Plays, Part 1: Children’s Plays Secular</title>,</unittitle>
+                        <container id="cid2905008" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>November 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Production List of Non-royalty Plays, Part 1: One-act Plays</title></unittitle>
+                        <container id="cid2905009" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>October 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Production List of Non-royalty Plays, Part 2: Full-length Plays</title></unittitle>
+                        <container id="cid2905010" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>October 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Production List of Plays for a Marionette Theatre</title></unittitle>
+                        <container id="cid2905011" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Repertory of American, English, and Irish Plays</title></unittitle>
+                        <container id="cid2905012" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Repertory of Classic English Plays</title></unittitle>
+                        <container id="cid2905013" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Suggested Repertory of Modern Continental Plays</title></unittitle>
+                        <container id="cid2905014" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Theatre Technique No. 3: Puppets and Masks</title>,</unittitle>
+                        <container id="cid2905015" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid2905015" type="Folder">1</container>
+                        <unitdate>December 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">34 Old and New Spanish Plays</title>,</unittitle>
+                        <container id="cid2905016" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>January 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Threnody-American, A Radio Drama about Youth</title>,</unittitle>
+                        <container id="cid2905017" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>June 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Toby Tyler with the Circus</title>,</unittitle>
+                        <container id="cid2905018" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>July 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Totem</title></unittitle>
+                        <container id="cid3393002" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Triple-A Plowed Under</title>,</unittitle>
+                        <container id="cid2905019" type="Folders" label="Mixed materials">6-7</container>
+                        <unitdate>1936-1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Treasure Island</title>,</unittitle>
+                        <container id="cid2905020" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>November 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">22 English Mysteries, Miracles, Moralities</title>,</unittitle>
+                        <container id="cid2905021" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>April 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Valiant Little Tailor</title>,</unittitle>
+                        <container id="cid2905022" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>July 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">We Are the Future, A Play of Rural Youth</title>,</unittitle>
+                        <container id="cid2905023" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">We Produce a Puppet Show</title></unittitle>
+                        <container id="cid2905024" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Wildcats, A Play about Youth</title>,</unittitle>
+                        <container id="cid2905025" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>July 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">WPA Circus, The Route Book for the 1937 Season of the WPA Circus</title></unittitle>
+                        <container id="cid2905026" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref118" level="series">
+                <did>
+                    <unittitle>Reports,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1938</unitdate>
+                </did>
+                <scopecontent id="ref242">
+                    <head>Scope and Content Notes</head>
+                    <p>This series reflects the administrative and operational activities of the Federal Theatre Project through reports and meeting agendas.</p>
+                </scopecontent>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>First Federal Summer Theatre...A Report,</unittitle>
+                        <container id="cid2905027" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid2905027" type="Folder">1</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Summary of Federal Theatre Activities,</unittitle>
+                        <container id="cid2905028" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>September 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>National Policy Board: Agenda,</unittitle>
+                        <container id="cid2905029" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>April 12-14, 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>National Policy Board: Agenda,</unittitle>
+                        <container id="cid2905030" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>August 11-13, 1938</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref119" level="series">
+                <did>
+                    <unittitle>Programs</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref243">
+                    <head>Scope and Content Notes</head>
+                    <p>This series consists of the programs of Federal Theatre Project productions. They mostly reflect performances in the New York City region and are undated.</p>
+                </scopecontent>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Programs A-D</unittitle>
+                        <container id="cid2905031" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid2905031" type="Folder">1</container>
+                    </did>
+                    <c03 id="ref121" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Adelante</title></unittitle>
+                            <unitid>1.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">American Holiday</title></unittitle>
+                            <unitid>2.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Androcles and the Lion</title></unittitle>
+                            <unitid>3.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Die Apostel</title> (
+                                <title render="italic">The Apostles</title>)</unittitle>
+                            <unitid>4.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Arms and the Man</title></unittitle>
+                            <unitid>5.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Around the Corner</title></unittitle>
+                            <unitid>6.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Around the World in 80 Days</title></unittitle>
+                            <unitid>7.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Backwash</title></unittitle>
+                            <unitid>8.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Ballad of Davy Crockett</title></unittitle>
+                            <unitid>9.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Barker</title></unittitle>
+                            <unitid>10.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bassa Moona</title></unittitle>
+                            <unitid>11.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Bat</title></unittitle>
+                            <unitid>12.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Battle Hymn</title></unittitle>
+                            <unitid>13.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Blow</title></unittitle>
+                            <unitid>14.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Chalk Dust</title></unittitle>
+                            <unitid>15.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Chamber Opera in English</title></unittitle>
+                            <unitid>16.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Chocolate Soldier</title></unittitle>
+                            <unitid>17.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Christmas Carol</title></unittitle>
+                            <unitid>18.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Class of '29</title></unittitle>
+                            <unitid>19.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Community Sing</title></unittitle>
+                            <unitid>20.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Coriolanus</title></unittitle>
+                            <unitid>21.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Cradle Will Rock</title></unittitle>
+                            <unitid>22.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Craig's Wife</title></unittitle>
+                            <unitid>23.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Dance of Death</title></unittitle>
+                            <unitid>24.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Dark Tower</title></unittitle>
+                            <unitid>25.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Devil Passes</title></unittitle>
+                            <unitid>26.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Devil's Disciple</title></unittitle>
+                            <unitid>27.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Doctor Faustus</title></unittitle>
+                            <unitid>28.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Double Door</title></unittitle>
+                            <unitid>29.</unitid>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Programs E-H</unittitle>
+                        <container id="cid2905032" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                    <c03 id="ref151" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Emperor's New Clothes</title></unittitle>
+                            <unitid>1.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">An Enemy of the People</title></unittitle>
+                            <unitid>2.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Eternal Prodigal</title></unittitle>
+                            <unitid>3.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Eugene O'Neill's One-Act Plays of the Sea</title></unittitle>
+                            <unitid>4.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Excursion</title></unittitle>
+                            <unitid>5.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Farmer's Wife</title></unittitle>
+                            <unitid>6.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The First Legion</title></unittitle>
+                            <unitid>7.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Flight</title></unittitle>
+                            <unitid>8.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Four American One-Act Plays</title></unittitle>
+                            <unitid>9.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Haiti</title></unittitle>
+                            <unitid>10.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Help Yourself!</title></unittitle>
+                            <unitid>11.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Hero is Born</title></unittitle>
+                            <unitid>12.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Holy Night</title></unittitle>
+                            <unitid>13.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Horse Eats Hat</title></unittitle>
+                            <unitid>14.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Horse Play</title></unittitle>
+                            <unitid>15.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">How Long Brethren?</title></unittitle>
+                            <unitid>16.</unitid>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Programs I-M</unittitle>
+                        <container id="cid2905033" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                    <c03 id="ref167" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">In Heaven and Earth</title></unittitle>
+                            <unitid>1.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">In Praise of Husbands</title></unittitle>
+                            <unitid>2.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Iolanthe</title></unittitle>
+                            <unitid>3.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">It Can't Happen Here</title></unittitle>
+                            <unitid>4.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jefferson Davis</title></unittitle>
+                            <unitid>5.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Life and Death of an American</title></unittitle>
+                            <unitid>6.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Lights o' London</title></unittitle>
+                            <unitid>7.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Love in Humble Life</title></unittitle>
+                            <unitid>8.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Macbeth</title></unittitle>
+                            <unitid>9.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Mikado</title></unittitle>
+                            <unitid>10.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mr. Jiggins of Jigginstown</title></unittitle>
+                            <unitid>11.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Murder in the Cathedral</title></unittitle>
+                            <unitid>12.</unitid>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Programs N-P</unittitle>
+                        <container id="cid2905034" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                    <c03 id="ref180" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Native Ground</title></unittitle>
+                            <unitid>1.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">New York Civic Orchestra</title></unittitle>
+                            <unitid>2.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Noah</title></unittitle>
+                            <unitid>3.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">On the Rocks</title></unittitle>
+                            <unitid>4.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Path of Flowers</title></unittitle>
+                            <unitid>5.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pinocchio</title></unittitle>
+                            <unitid>6.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pins &amp; Needles</title></unittitle>
+                            <unitid>7.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Playboy of the Western World</title></unittitle>
+                            <unitid>8.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Processional</title></unittitle>
+                            <unitid>9.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Professor Mamlock</title></unittitle>
+                            <unitid>10.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Prologue to Glory</title></unittitle>
+                            <unitid>11.</unitid>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Programs Q-S</unittitle>
+                        <container id="cid2905035" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                    <c03 id="ref193" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Repertory of Important Plays</title></unittitle>
+                            <unitid>1.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Shanghai Sal</title></unittitle>
+                            <unitid>2.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Shining Hour</title></unittitle>
+                            <unitid>3.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Showing Off</title></unittitle>
+                            <unitid>4.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sing for Your Supper</title></unittitle>
+                            <unitid>5.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Solitaire Man</title></unittitle>
+                            <unitid>6.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Spirochete</title></unittitle>
+                            <unitid>7.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Spread Eagle</title></unittitle>
+                            <unitid>8.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Street Scene</title></unittitle>
+                            <unitid>9.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Sun and I</title></unittitle>
+                            <unitid>10.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sweet Land</title></unittitle>
+                            <unitid>11.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Swing It</title></unittitle>
+                            <unitid>12.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Swing Mikado</title></unittitle>
+                            <unitid>13.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Swing Parade</title></unittitle>
+                            <unitid>14.</unitid>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Programs T-Z</unittitle>
+                        <container id="cid2905036" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                    <c03 id="ref210" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Tailor Becomes a Store Keeper</title></unittitle>
+                            <unitid>1.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Take It or Leave It</title></unittitle>
+                            <unitid>2.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Tamed and How</title></unittitle>
+                            <unitid>3.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Tavern</title></unittitle>
+                            <unitid>4.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ten Minute Alibi</title></unittitle>
+                            <unitid>5.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Three One Act Plays</title></unittitle>
+                            <unitid>6.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Treasure Island</title></unittitle>
+                            <unitid>7.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Trial of Doctor Beck</title></unittitle>
+                            <unitid>8.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Trojan Incident</title></unittitle>
+                            <unitid>9.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Turpentine</title></unittitle>
+                            <unitid>10.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Twelfth Night</title></unittitle>
+                            <unitid>11.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Two-A-Day</title></unittitle>
+                            <unitid>12.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Unto Such Glory</title> and 
+                                <title render="italic">Hymn to the Rising Sun</title></unittitle>
+                            <unitid>13.</unitid>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Woman of Destiny</title></unittitle>
+                            <unitid>14.</unitid>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

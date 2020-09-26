@@ -1,0 +1,2059 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc201203</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Larry John Meyers Papers, 1980-2015
+                    <num>CTC.2012.03</num>
+                </titleproper>
+                <author>Finding aid prepared by Reba Sell.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>August 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:03-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Larry John Meyers Papers</unittitle>
+            <unitid>CTC.2012.03</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>10.0 linear feet</extent>
+                <extent>(22 document boxes)</extent>
+            </physdesc>
+            <unitdate>1980-2015</unitdate>
+            <abstract id="ref343" label="Abstract">Larry John Meyers has been an actor and director in the Pittsburgh performing arts community for over 30 years. He has worked extensively with the City Theatre, the Pittsburgh Public Theatre, The Pittsburgh Irish &amp; Classical Theatre, and the University of Pittsburgh Repertory Theatre. This collection contains film and play scripts, programs, promotional materials, rehearsal items, and newspaper clippings.</abstract>
+            <origination label="creator">
+                <persname source="local">Meyers, Larry John</persname>
+            </origination>
+        </did>
+        <bioghist id="ref293">
+            <head>Biography</head>
+            <p>Larry John Meyers graduated from Luther College in Decorah, Iowa with a Bachelor of Arts in Speech and Theatre in 1972. He obtained his Master of Fine Arts degree in Acting from New York University’s School of the Arts in 1979. Meyers has served as an actor, director, and instructor in the theatre community. His regional acting credits include La Mama (NYC), Actors Theatre of Louisville, Alabama Shakespeare Festival, Berkeley Rep, Chester Theatre (Massachusetts), Dallas Theater Center, Florida Rep, Indianapolis Rep, Minneapolis Children’s Theater, Syracuse Stage, and Weston Playhouse (Vermont). His film and television acting credits include, 
+                <title render="italic">American Splendor</title>, 
+                <title render="italic">Up Close &amp; Personal</title>, 
+                <title render="italic">Runaway Train</title>, 
+                <title render="italic">Flashdance</title> and 
+                <title render="italic">Daddy Cool</title>. Meyers has been an actor and director for over thirty years in Pittsburgh theater community as a founding company member of the New City Theatre (1981), member of the Three Rivers Shakespeare Festival, and many notable performances at the Pittsburgh Public Theater, City Theatre, Pittsburgh Irish &amp; Classical Theatre, Quantum Theatre, Playhouse Rep, CMU’s New Play Festivals, Pittsburgh Symphony, and Hartwood Acres. He served as a guest artist/teacher at Carnegie Mellon University, University of Pittsburgh, and Point Park College where he directed the critically acclaimed productions of 
+                <title render="italic">Pericles</title> (University of Pittsburgh), 
+                <title render="italic">The Heiress</title> (Point Park College), and for City Theatre: 
+                <title render="italic">Bricklayers</title>, 
+                <title render="italic">Ladyhouse Blues</title>, and 
+                <title render="italic">The Road to Mecca</title> (“Best Production of the Decade,” Pittsburgh Post-Gazette, 1999). Meyers has won several awards and citations including the Bodensteiner Award at Luther College for Best Graduating Actor (1972), the Seidman Award at NYU for Best Graduating Actor (1979), the Pittsburgh Post-Gazette Performer of the Year (1992), three-time nominee for Creative Achievement award from the Pittsburgh Cultural Trust, and was the first recipient of Pittsburgh Foundation’s Individual Artist Award in the Performing Arts (1998).</p>
+        </bioghist>
+        <accessrestrict id="ref294">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref296">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <prefercite id="ref347">
+            <head>Preferred Citation</head>
+            <p>Larry John Meyers Papers, 1980-2015, CTC.2012.03, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref297">
+            <head>Processing Information</head>
+            <p>This collection was processed by Reba Sell and Dominique Luster during 2014-2015.</p>
+        </processinfo>
+        <acqinfo id="ref338">
+            <head>Acquisition Information</head>
+            <p>Gift of Larry John Meyers in 2012.</p>
+        </acqinfo>
+        <relatedmaterial id="ref340">
+            <head>Related Material</head>
+            <p>City Theatre Company Records, 1973-1993, CTC.1991.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Iron Clad Agreement Records, 1975-1985, CTC.1990.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Pittsburgh Irish and Classical Theatre Records, 1997-2015, CTC.2009.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Pittsburgh Playhouse School of the Theater Records, 1934-1994, CTC.1981.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>Three Rivers Shakespeare Festival Records, 1980-1995, CTC.1995.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+            <p>University of Pittsburgh Theatre Arts Department Records, 1960-1986, CTC.1974.02, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <arrangement id="ref341">
+            <head>Arrangement</head>
+            <p>The papers are organized into three series.</p>
+            <p>Series I. Film Projects, 1984-2010</p>
+            <p>Series II. Non-Pittsburgh Productions, 1985-2014</p>
+            <p>Series III. Pittsburgh Productions, 1980-2015</p>
+        </arrangement>
+        <scopecontent id="ref342">
+            <head>Scope and Content Notes</head>
+            <p>This collection of Mr. Meyers' film and play scripts with related materials is broken into three main series: Film Projects, Non-Pittsburgh Productions, and Pittsburgh Productions. Both the Film and Non-Pittsburgh series are organized alphabetically by production title. The Pittsburgh series is broken into a subseries for each production company and then alphabetically by production title. The types of materals found in the collection includes promotional materials, rehearsal items, newspaper clippings, programs, and full or partial film and theatre scripts.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="aacr" source="local">City Players (Pittsburgh, Pa.).</corpname>
+            <corpname source="naf">City Theatre Company (Pittsburgh, Pa.).</corpname>
+            <persname source="local">Meyers, Larry John</persname>
+            <corpname rules="aacr" source="local">Pittsburgh Playhouse. School of the Theater.</corpname>
+            <corpname source="naf">Three Rivers Shakespeare Festival (Pittsburgh, Pa.).</corpname>
+            <corpname rules="rda" source="local">University of Pittsburgh. Department of Theatre Arts.</corpname>
+            <subject source="lcsh">Actors and actresses</subject>
+            <subject source="lcsh">College theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Motion picture scripts</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref3" level="series">
+                <did>
+                    <unittitle>Film Projects,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1984-2010</unitdate>
+                </did>
+                <scopecontent id="ref332">
+                    <head>Scope and Content Notes</head>
+                    <p>This series collects the materials related to Meyers' film projects. The folders are arranged alphabetically by the film's title. Some of the materials included are call sheets, newspaper clippings, and production information. The majority also include a copy of scripts, excluding 
+                        <title render="italic">Breathing Lessons</title>, 
+                        <title render="italic">Criminal Justice</title>, and 
+                        <title render="italic">The Dream Catcher</title>. The last folder of the series contains call sheets for films for which there were no other accompanying materials.</p>
+                </scopecontent>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Breathing Lessons</title>,</unittitle>
+                        <container id="cid4696001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid4696001" type="Folder">1</container>
+                        <unitdate>June 1993</unitdate>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: John Erman</p>
+                        <p>Writers: Anne Tyler and Robert Lenski</p>
+                        <p>Production Company: Hallmark Hall of Fame Productions</p>
+                        <p>Release Date: 1994</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Criminal Justice</title>,</unittitle>
+                        <container id="cid4696002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>March 1990</unitdate>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Andy Wolk Writer: Andy Wolk Production Company: Elysian Films and Home Box Office Released: 1990</p>
+                        <p>This folder also contains an invitation to Pittsburgh premiere of 
+                            <title render="italic">Criminal Justice</title>.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Daddy Cool</title>,</unittitle>
+                        <container id="cid4721001" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1996-1997</unitdate>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Brady Lewis Writer: Brady Lewis Production Company: Independent Release Date: 2002</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Dark Half</title>,</unittitle>
+                        <container id="cid4737002" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: George Romero Writer: George Romero Production Company: Orion Pictures Corporation Release Date: 1993</p>
+                        <p>This folder also contains the January 1991 edition of 
+                            <title render="italic">Pittsburgh</title> featuring George Romero as "Pittsburgher of the Year".</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Darrow</title>,</unittitle>
+                        <container id="cid4737001" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                    <scopecontent id="ref7">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: John David Coles Writers: William Schmidt and Stephen Stept Production Company: Atlantis Films Release Date: 1991</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Dream Catcher</title>,</unittitle>
+                        <container id="cid4737005" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Ed Radtke Writers: M.S. Nieson and Ed Radtke Production Company: Film Society of Lincoln Center Release Date: 1999</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Graduation</title>,</unittitle>
+                        <container id="cid4737003" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Mike Mayer Writer: D. Cory Turner Production Company: Blumhouse Productions Release Date: 2007</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Maria's Lovers</title>,</unittitle>
+                        <container id="cid4737004" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1983</unitdate>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Andrei Konchalovsky Writers: Gerard Brach, Andrei Konchalovsky, Paul Zindel, Marjorie David, and Floyd Byars Production Company: MGM Release Date: 1984</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Milk Crate</title>,</unittitle>
+                        <container id="cid4737009" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: John Rice Writer: John Rice Production Company: Pittsburgh 250 Celebration Release Date: 2008</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Murder</title>,</unittitle>
+                        <container id="cid4737007" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref15">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Greg Rempel Writer: Greg Rempel Production Company: Greg Rempel Productions, Inc. Release Date: 2002</p>
+                        <p>This folder also contains a letter from Greg Rempel Productions about the filming.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">No Pets</title>,</unittitle>
+                        <container id="cid4737006" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1992-1994</unitdate>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Tony Buba Writer: Jim Daniels Production Company: Braddock Films Release Date: 1994</p>
+                        <p>This folder also contains a letter from Tony Buba (director) to Larry John Meyers.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref333" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">No Place Like Home</title>,</unittitle>
+                        <container id="cid4737011" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                    <scopecontent id="ref334">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Lee Grant Writers: Ara Watson and Sam Blackwell Production Company: Columbia Broadcasting System (CBS) Release Date: 1989</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Passed Away</title>,</unittitle>
+                        <container id="cid4737008" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1991</unitdate>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Charlie Peters Writer: Charlie Peters Production Company: Hollywood Pictures Release Date: 1992</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref276" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Resurrection</title>,</unittitle>
+                        <container id="cid4737010" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid4737010" type="Folder">1</container>
+                        <unitdate>2010</unitdate>
+                    </did>
+                    <scopecontent id="ref277">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Matthew Orlando Writer: Matthew Orlando Production Company: Levine Pictures Release Date: 2013</p>
+                        <p>The paperwork / script are from when the film was titled 
+                            <title render="italic">The Sibling</title>. The film name changed to 
+                            <title render="italic">A Resurrection</title> prior to release.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Runaway Train</title>,</unittitle>
+                        <container id="cid4737013" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Content Notes</head>
+                        <p>Director: Andrei Konchalovsky Writers: Djordje Milicevic and Edward Bunker Production Company: Northbrook Films Release Date: 1985</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref4" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Two Evil Eyes</title>,</unittitle>
+                        <container id="cid4737012" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1989</unitdate>
+                    </did>
+                    <scopecontent id="ref5">
+                        <head>Scope and Content Notes</head>
+                        <p>Directors: Dario Argento and George A. Romero Writers: Dario Argento, Franco Ferrini, Peter Koper, and George A. Romero Production Company: ADC Films Release Date: 1990</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The War that Made America</title>,</unittitle>
+                        <container id="cid4737014" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>2004</unitdate>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Content Notes</head>
+                        <p>Directors: Ben Loeterman and Eric Stange Writers: Ben Loeterman and Eric Stange Production Company: PBS - WQED Pittsburgh Release Date: 2006</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Call Sheets for Various Films</unittitle>
+                        <container id="cid4737015" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1988-1991</unitdate>
+                    </did>
+                    <scopecontent id="ref335">
+                        <head>Scope and Content Notes</head>
+                        <p>Call sheets are included for 
+                            <title render="italic">See No Evil, Hear No Evil</title> (1988), 
+                            <title render="italic">Presumed Guilty</title> (1991), 
+                            <title render="italic">Mob Justice</title> (1991), and 
+                            <title render="italic">Equal Justice</title> (1991).</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Non-Pittsburgh Productions,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1985-2014</unitdate>
+                </did>
+                <scopecontent id="ref336">
+                    <head>Scope and Content Notes</head>
+                    <p>This series collects the materials related to productions Meyer's was involved in outside of Pittsburgh, PA. The folders are arranged alphabetically by the production's title. Some of the materials included are personal cards and letters (from fans, friends, and colleagues), promotional materials, rehearsal items, and news clippings. Approximately half of the production files contain scripts. All of the productions, excluding 
+                        <title render="italic">A Lesson Before Dying</title>, 
+                        <title render="italic">Pure Confidence</title>, 
+                        <title render="italic">The Shaker Chair</title>, and 
+                        <title render="italic">Wild Blessings</title> (Perry Mansfield New Works Festival), contain programs.</p>
+                </scopecontent>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bang the Drum Slowly</title>,</unittitle>
+                        <container id="cid4737025" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid4737025" type="Folder">1</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Mark Harris Director: Eric Simonson Company: Huntington Theatre Company Performance Dates: March 11 - April 10, 1994</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Christmas Carol</title>,</unittitle>
+                        <container id="cid4737024" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Charles Dickens Adapted by: Adrian Hall and Richard Cumming Director: Martin Rayner Company: Dallas Theater Center Performance Dates: November 29 - December 27, 1987</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref298" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Clybourne Park</title>,</unittitle>
+                        <container id="cid4737038" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>2014</unitdate>
+                    </did>
+                    <scopecontent id="ref299">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Bruce Norris Director: Robert Cacioppo Company: Florida Repertory Theatre Performance Dates: March 22 - April 9, 2014</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Communicating Doors</title>,</unittitle>
+                        <container id="cid4737028" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Alan Ayckbourn Director: Richard Keitel Company: Saint Michael's Playhouse Performance Dates: July 18 - 29, 2000</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Crucible</title> - Actors Theatre of Louisville,</unittitle>
+                        <container id="cid4737019" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Arthur Miller Director: Marc Masterson Company: Actors Theatre of Louisville Performance Dates: October 25 - November 19, 2005</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Crucible</title> - Syracuse Stage,</unittitle>
+                        <container id="cid4737031" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>2003</unitdate>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Arthur Miller Director: Timothy Douglas Company: Syracuse Stage Performance Dates: February 19 - March 22, 2003</p>
+                        <p>This folder also contains photographs from the production.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Fatal Attraction</title>,</unittitle>
+                        <container id="cid4737027" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Bernard Slade Director: Roger Hendricks Simon Company: Montclair State College Theatrefest</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Front Page</title>,</unittitle>
+                        <container id="cid4737034" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <scopecontent id="ref146">
+                        <head>Scope and Content Notes</head>
+                        <p>Authors: Ben Hecht and Charles MacArthur Director: Tom Haas Company: Indiana Repertory Theatre Performance Dates: October 25 - November 16, 1985</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gem of the Ocean</title> - Actors Theatre of Louisville,</unittitle>
+                        <container id="cid4737020" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid4737020" type="Folder">1-2</container>
+                        <unitdate>2006</unitdate>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: August Wilson</p>
+                        <p>Director: Ron OJ Parson</p>
+                        <p>Company: Actors Theatre of Louisville</p>
+                        <p>Performance Dates: March 3 - 28, 2006</p>
+                        <p>This folder also contains CDs from the production.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gershwin!</title>,</unittitle>
+                        <container id="cid4737022" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1998</unitdate>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Jack Everly Music Director Designate: Yur Temirkanov Company: Baltimore Symphony Orchestra Performance Dates: October 1 - 4, 1998</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Glengarry Glen Ross</title>,</unittitle>
+                        <container id="cid4737021" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: David Mamet Director: Marc Masterson Company: Actors Theatre of Louisville Performance Dates: August 26 - September 20, 2008</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref290" level="file">
+                    <did>
+                        <unittitle>Humana Festival,</unittitle>
+                        <container id="cid4737037" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref291">
+                        <head>Scope and Content Notes</head>
+                        <p>Plays Performed: 
+                            <title render="italic">Memory House</title>, 
+                            <title render="italic">Pure Confidence</title>, 
+                            <title render="italic">Hazard County</title>, 
+                            <title render="italic">A Nervous Smile</title>, 
+                            <title render="italic">The Shaker Chair</title>, 
+                            <title render="italic">Moot the Messenger</title> Company: Actors Theatre of Louisville Festival Dates: April 2 - 30, 2005</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">I'm Getting My Act Together and Taking it on the Road</title>,</unittitle>
+                        <container id="cid4737026" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref65">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Gretchen Cryer Director: Tom Carroll Company: Montclair State College Summerfest Performance Dates: July 21 - August 1, 1987</p>
+                        <p>This folder also contains photographs from the production.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Lesson Before Dying</title>,</unittitle>
+                        <container id="cid4737030" type="Folder" label="Mixed materials">7-8</container>
+                        <unitdate>2002</unitdate>
+                    </did>
+                    <scopecontent id="ref75">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Romulus Linney Director: Timothy Douglas Company: Syracuse Stage Performance Dates: February 14 - March 9, 2002</p>
+                        <p>This folder also contains a floppy disk and an autographed photograph from the production.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Line in the Sand</title>,</unittitle>
+                        <container id="cid4737032" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Chris Hanna Director: Timothy Douglas Company: Virginia Stage Company Performance Date: May 10, 2008</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref281" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Lovers and Other Strangers</title>,</unittitle>
+                        <container id="cid4737035" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref282">
+                        <head>Scope and Content Notes</head>
+                        <p>Authors: Renee Taylor and Joseph Bologna Director: Laurence Gewirtz Company: Liberty Stage Company</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Molly Sweeney</title>,</unittitle>
+                        <container id="cid4737033" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid4737033" type="Folder">1</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Brian Friel Director: Steve Stettler Company: Weston Playhouse Performance Dates: October 12 - 15, 2000</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Noises Off</title>,</unittitle>
+                        <container id="cid4737023" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Michael Frayn Director: Ken Bryant Company: Dallas Theater Center Performance Dates: October 7 - 26, 1986</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref300" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Number</title>,</unittitle>
+                        <container id="cid4737039" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>2014</unitdate>
+                    </did>
+                    <scopecontent id="ref301">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Caryl Churchill Director: Byam Stevens Company: Chester Theatre Company Performance Dates: July 30 - August 10, 2014</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref302" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">O Beautiful</title>,</unittitle>
+                        <container id="cid4737040" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>2014</unitdate>
+                    </did>
+                    <scopecontent id="ref303">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Theresa Rebeck Director: Dan Carter Company: Penn State Centre Stage Performance Dates: October 7 - 18, 2014</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref285" level="file">
+                    <did>
+                        <unittitle>Perry-Mansfield New Works Festival,</unittitle>
+                        <container id="cid4737036" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref286">
+                        <head>Scope and Content Notes</head>
+                        <p>Company: Perry-Mansfield Performing Arts School and Camp Festival Dates: June 11 - 22, 2008</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pure Confidence</title> - Actors Theatre of Louisville,</unittitle>
+                        <container id="cid4737017" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Carlyle Brown Director: Clinton Turner Davis Company: Actors Theatre of Louisville Performance Dates: March 17 - April 9, 2005</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pure Confidence</title> - Alabama Shakespeare Festival,</unittitle>
+                        <container id="cid4737018" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>2006</unitdate>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Carlyle Brown Director: Clinton Turner Davis Company: Alabama Shakespeare Festival Performance Dates: January 22 - February 19, 2006</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Shaker Chair</title>,</unittitle>
+                        <container id="cid4737016" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Adam Bock Director: Marc Masterson Company: Actors Theatre of Louisville Performance Dates: March 8 - April 2, 2005</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Small Legacy</title>,</unittitle>
+                        <container id="cid4737029" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid4737029" type="Folder">1-2</container>
+                        <unitdate>2009</unitdate>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Todd Kreidler Director: Todd Kreidler Company: Sparkly Productions Festival: Telluride Playwrights Festival Performance Date: July 14, 2009</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Three Sisters</title>,</unittitle>
+                        <container id="cid4737043" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Anton Chekov Director: Rena Down Company: Equity Library Theatre Performance Dates: April 17 - May 4, 1986</p>
+                        <p>This folder also contains photographs from the production.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">To Gillian on her 37th Birthday</title>,</unittitle>
+                        <container id="cid4737044" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Michael Brady Director: Robert Spera Company: Montclair State College Summerfest Performance Dates: July 4 - 26, 1986</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Variations on America - A Work in Progress</title>,</unittitle>
+                        <container id="cid4737045" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>2004</unitdate>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: John Conklin Director: John Conklin Company: National Performing Arts Convention Performance Dates: June 8 - 13, 2004</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wild Blessings</title> - Humana Festival,</unittitle>
+                        <container id="cid4737042" type="Folder" label="Mixed materials">6-8</container>
+                        <unitdate>2009</unitdate>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Marc Masterson and Adrien-Alice Hansel Director: Marc Masterson Company: Actors Theatre of Louisville Festival: Humana Festival Performance Dates: March 26 - April 11, 2009</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wild Blessings</title> - Perry Mansfield New Works Festival,</unittitle>
+                        <container id="cid4737041" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>2008</unitdate>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Content Notes</head>
+                        <p>Author: Marc Masterson and Adrien-Alice Hansel Director: Marc Masterson Company: Actors Theatre of Louisville Festival: Perry Mansfield New Works Festival Performance Dates: June 20 - 22, 2008</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Pittsburgh Productions,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1980-2015</unitdate>
+                </did>
+                <scopecontent id="ref337">
+                    <head>Scope and Content Notes</head>
+                    <p>This series collects the materials related to Pittsburgh productions Meyer's was involved in. The folders are arranged alphabetically by the production title for each Pittsburgh company. Some of the materials included are personal cards and letters (from fans, friends, and colleagues), promotional materials, rehearsal items, and news clippings. Approximately half of the production files contain programs. The majority of the productions contain full or partial scripts.</p>
+                </scopecontent>
+                <c02 id="ref83" level="subseries">
+                    <did>
+                        <unittitle>Carnegie Mellon School of Drama,</unittitle>
+                        <unitdate>1988-2008</unitdate>
+                    </did>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Carnegie Mellon Drama's Showcase of New Plays,</unittitle>
+                            <container id="cid4737047" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid4737047" type="Folder">1</container>
+                            <unitdate>1989-1991</unitdate>
+                        </did>
+                        <scopecontent id="ref102">
+                            <head>Scope and Content Notes</head>
+                            <p>Productions: 
+                                <title render="italic">By Reason of an Act of God</title>, 
+                                <title render="italic">Love and Murder</title>, 
+                                <title render="italic">The Duck Sisters</title>, 
+                                <title render="italic">The Closer</title>, 
+                                <title render="italic">Spinning Into Blue</title>, 
+                                <title render="italic">Steel Kiss</title>, 
+                                <title render="italic">The Gravity of Honey</title>, 
+                                <title render="italic">The Battle of Shallowford</title>, 
+                                <title render="italic">Accelerando</title>, 
+                                <title render="italic">Connemara Dreaming</title></p>
+                            <p>Authors: Brent London, Arthur Giron, Sheldon Rosen, Willy Holtzman, Sally Nemeth, Robin Fulford, Bruce Rogers, Ed Simpson, Lisa Loomer, Jack Gilhooley</p>
+                            <p>Directors: Jed Allen Harris, Scott Cummings, Michelle Macau, Brian Kulick, Rick Davis, Jed Allen Harris, Brian Kulick, Mary Guaraldi, Jed Allen Harris, Bob Hofmann</p>
+                            <p>Performance Dates: 1988-1990</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref344" level="file">
+                        <did>
+                            <unittitle>George Westinghouse project,</unittitle>
+                            <container id="cid4964001" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>March 2008</unitdate>
+                        </did>
+                        <scopecontent id="ref345">
+                            <head>Scope and Content Notes</head>
+                            <p>Larry John Meyers portrayed George Westinghouse as part of an interactive exhibit on the historical figure at the Heinz History Center. The performance was produced by and filmed at Carnegie Mellon University's Entertainment Technology Center.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref84" level="subseries">
+                    <did>
+                        <unittitle>City Theatre,</unittitle>
+                        <unitdate>1981-2007</unitdate>
+                    </did>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Acting Up!</title>,</unittitle>
+                            <container id="cid4737054" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                        <scopecontent id="ref134">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: City Theatre Group Director: Marc Masterson Performance Dates: Touring Performances, 1983</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Below the Belt</title>,</unittitle>
+                            <container id="cid4737049" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1997</unitdate>
+                        </did>
+                        <scopecontent id="ref114">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Richard Dresser Director: Marc Masterson Performance Dates: February 21 - March 16, 1997</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bricklayers</title>,</unittitle>
+                            <container id="cid4737048" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1991</unitdate>
+                        </did>
+                        <scopecontent id="ref107">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Elvira DiPaolo Director: Larry John Meyers Performance Dates: November 30 - December 22, 1991</p>
+                            <p>This folder also contains audition materials and stage designs.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Curse of the Starving Class</title>,</unittitle>
+                            <container id="cid4737052" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                        <scopecontent id="ref128">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Sam Shepard Director: Jed Allen Harris Performance Dates: November 7 - 29, 1981</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">How I Got That Story</title>,</unittitle>
+                            <container id="cid4737056" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                        <scopecontent id="ref140">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Amlin Gray Director: Jed Allen Harris Performance Dates: January 13 - February 6, 1983</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Indians</title>,</unittitle>
+                            <container id="cid4737051" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                        <scopecontent id="ref126">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Author Kopit Director: Marc Masterson Performance Dates: February 11 - March 7, 1982</p>
+                            <p>This folder also contains a program and news articles for the "Buffalo Bill and the Wild West" exhibit at the Carnegie Museum of Art.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Inventing Van Gogh</title>,</unittitle>
+                            <container id="cid4737050" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                        <scopecontent id="ref122">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Steven Dietz Director: Neel Keller Performance Dates: September 19 - October 20, 2002</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ladyhouse Blues</title>,</unittitle>
+                            <container id="cid4737055" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                        <scopecontent id="ref136">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Kevin O'Morrison Director: Larry John Meyers Performance Dates: February 17 - March 13, 1983</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Loose Ends</title>,</unittitle>
+                            <container id="cid4737053" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                        <scopecontent id="ref130">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Michael Weller Director: Larry John Meyers Performance Dates: March 25 - April 18, 1982</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref274" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Louder Faster</title>,</unittitle>
+                            <container id="cid4737057" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>2010</unitdate>
+                        </did>
+                        <scopecontent id="ref275">
+                            <head>Scope and Content Notes</head>
+                            <p>Authors: Eric Simonson and Jeffrey Hatcher Performance Dates: Stage Reading May 7 - 29, 2011</p>
+                            <p>This folder contains the script for the stage reading of 
+                                <title render="italic">Louder Faster</title> at 
+                                <title render="italic">Momentum 11</title>.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mezzulah, 1946</title>,</unittitle>
+                            <container id="cid4737046" type="Folder" label="Mixed materials">13-14</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                        <scopecontent id="ref103">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Michele Lowe Director: Erica Schmidt Performance Dates: March 14 - April 1, 2007</p>
+                            <p>This folder also contains photographs from this production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mobile Hymn</title>,</unittitle>
+                            <container id="cid4737064" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid4737064" type="Folder">1</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                        <scopecontent id="ref132">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Robert Litz Director: Jed Allen Harris Performance Dates: March 24 - April 16, 1983</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Molly Sweeney</title>,</unittitle>
+                            <container id="cid4737060" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1997</unitdate>
+                        </did>
+                        <scopecontent id="ref112">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Brian Friel Director: Lee Sankowich Performance Dates: April 11 - May 4, 1997</p>
+                            <p>This folder also contains photographs from this production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mrs. Bob Cratchit's Wild Christmas Binge</title>,</unittitle>
+                            <container id="cid4737062" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                        <scopecontent id="ref120">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Christopher Durang Director: Tracy Brigden Performance Dates: November 7 - December 15, 2002</p>
+                            <p>This folder also contains photographs from this production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Road to Mecca</title>,</unittitle>
+                            <container id="cid4737058" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1991</unitdate>
+                        </did>
+                        <scopecontent id="ref105">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Athol Fuggard Director: Larry John Meyers Performance Dates: March 20 - April 21, 1991</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Shakespeare's Swashbuckler's</title></unittitle>
+                            <container id="cid4737063" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                        <scopecontent id="ref124">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: City Theatre Company Director: W. Stephen Coleman Performance Dates: Touring Performance, 1981</p>
+                            <p>This folder contains a handwritten script to describe swashbuckling and scripts from Shakespearean swashbuckling scenes including 
+                                <title render="italic">Romeo &amp; Juliet</title>, 
+                                <title render="italic">Henry IV</title>, 
+                                <title render="italic">Twelfth Night</title>, 
+                                <title render="italic">King Lear</title>, and 
+                                <title render="italic">Hamlet</title>.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Side Man</title>,</unittitle>
+                            <container id="cid4737061" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                        <scopecontent id="ref118">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Warren Leight Director: Mladen Kiselov Performance Dates: November 10 - December 10, 2000</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Temptation</title>,</unittitle>
+                            <container id="cid4737059" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1993</unitdate>
+                        </did>
+                        <scopecontent id="ref110">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Václav Havel Director: Mladen Kiselov Performance Dates: April 16 - May 16, 1993</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Working</title>,</unittitle>
+                            <container id="cid4737065" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                        <scopecontent id="ref138">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Studs Terkel Adaptation by: Stephen Schwartz and Nina Faso Directors: Marc Masteron and Ken Gargaro Performance Dates: October 7 - 31, 1982</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref309" level="subseries">
+                    <did>
+                        <unittitle>International Poetry Forum</unittitle>
+                    </did>
+                    <c03 id="ref310" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sexes: The Marriage Dialogues</title>,</unittitle>
+                            <container id="cid4737067" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid4737067" type="Folder">1</container>
+                            <unitdate>2008</unitdate>
+                        </did>
+                        <scopecontent id="ref311">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Hazo Director: Samuel Hazo Performance Dates: October 15, 2008</p>
+                            <p>This folder contains the 
+                                <title render="italic">Sexes: The Marriage Dialogues</title> book.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref96" level="subseries">
+                    <did>
+                        <unittitle>Iron Clad Agreement,</unittitle>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                    <c03 id="ref253" level="file">
+                        <did>
+                            <unittitle>Various Productions</unittitle>
+                            <container id="cid4737066" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                        <scopecontent id="ref254">
+                            <head>Scope and Content Notes</head>
+                            <p>This folder contains a program for 
+                                <title render="italic">Gift to America</title> (1980) and 
+                                <title render="italic">The Spirit of Mercy</title> (1981), 1981 promotional mailings and employment letters, 
+                                <title render="italic">The Iron Clad Rag</title> (the Iron Clad Agreement Newsletter), news clippings and flyer for 
+                                <title render="italic">Interchangeable Parts</title>, news clippings for 
+                                <title render="italic">Art/Work</title>, promotional mailings and lyrics for 
+                                <title render="italic">Toymaker</title>, and a cast photograph</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref82" level="subseries">
+                    <did>
+                        <unittitle>Off the Record,</unittitle>
+                        <unitdate>2003-2011</unitdate>
+                    </did>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Off the Record III: Lights! Pittsburgh! Action!</title>,</unittitle>
+                            <container id="cid4737070" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>2003</unitdate>
+                        </did>
+                        <scopecontent id="ref100">
+                            <head>Scope and Content Notes</head>
+                            <p>Authors: Gary Rotstein and Dan Kamin Company: Off the Record; collaboration of unionized members of Southwestern Pennsylvania's media and theater worlds Director: Gregory Lehane Performance Dates: October 2, 2003 Performed at the Byham Theatre</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Off the Record XI: No Fracking Way!</title>,</unittitle>
+                            <container id="cid4737072" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>2011</unitdate>
+                        </did>
+                        <scopecontent id="ref150">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Gary Rotstein Company: Off the Record; collaboration of unionized members of Southwestern Pennsylvania's media and theater worlds Director: Gregory Lehane Performance Dates: October 6, 2011 Performed at the Byham Theatre</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref161" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Chamber Music Society,</unittitle>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bartók Night</title>,</unittitle>
+                            <container id="cid4943001" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                        <scopecontent id="ref163">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Lynne Conner Director: Lynne Conner Performance Dates: October 29, 2005</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref287" level="series">
+                    <did>
+                        <unittitle>The Pittsburgh Cleric,</unittitle>
+                        <unitdate>2005</unitdate>
+                    </did>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">As Heaven Intends or Hell Designs</title>,</unittitle>
+                            <container id="cid4737093" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                        <scopecontent id="ref289">
+                            <head>Scope and Content Notes</head>
+                            <p>Adaptation by: George Bernard Shaw Director: Larry John Meyers Performance Date: May 9, 2005 Performed at the Shadyside Presbyterian Church</p>
+                            <p>Larry John Meyers: Narrator, Devil</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref89" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Irish &amp; Classical Theatre,</unittitle>
+                        <unitdate>2002-2014</unitdate>
+                    </did>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Aristocrats</title>,</unittitle>
+                            <container id="cid4737089" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                        <scopecontent id="ref198">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Brian Friel Director: Andrew S. Paul Performance Dates: August 8 - 24, 2002</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Copenhagen</title>,</unittitle>
+                            <container id="cid4737087" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>2003</unitdate>
+                        </did>
+                        <scopecontent id="ref194">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Michael Frayn Director: Gregory Lehane Performance Dates: June 10 - August 2, 2003 and November 7 - 23, 2003</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Crime and Punishment</title>,</unittitle>
+                            <container id="cid4737080" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>2009</unitdate>
+                        </did>
+                        <scopecontent id="ref180">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Fyodor Dostoevsky Adapted by: Marilyn Campbell and Curt Columbus Director: Matthew Gray Performance Dates: September 10 - October 3, 2009</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Cripple of Inishmaan</title>,</unittitle>
+                            <container id="cid4737071" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid4737071" type="Folder">1</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                        <scopecontent id="ref116">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Martin McDonagh Director: Timothy Douglas Performance Dates: June 8 - 24, 2000</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Dead</title>,</unittitle>
+                            <container id="cid4737082" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref184">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: James Joyce Director: Scott Wise Performance Dates: December 2 - 18, 2004</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Dublin Carol</title>,</unittitle>
+                            <container id="cid4737069" type="Folder" label="Mixed materials">3-5</container>
+                            <unitdate>2008</unitdate>
+                        </did>
+                        <scopecontent id="ref164">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Conor McPherson Director: Jackie Maxwell Performance Dates: December 6 - 20, 2008</p>
+                            <p>These folders also contain Meyers' personal notebooks with handwritten lines from the script for memorization.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The End</title>,</unittitle>
+                            <container id="cid4737085" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref190">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Beckett Performance Dates: Staged Reading, June 13 - 14, 2004</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Endgame</title>,</unittitle>
+                            <container id="cid4737076" type="Folder" label="Mixed materials">7-8</container>
+                            <unitdate>2006</unitdate>
+                        </did>
+                        <scopecontent id="ref172">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Beckett Director: Tadeusz Bradecki Performance Dates: August 17 - September 10, 2006</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">First Love</title>,</unittitle>
+                            <container id="cid4737088" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                        <scopecontent id="ref196">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Beckett Performance Dates: Stage Reading June 9 - 10, 2002</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Gigli Concert</title>,</unittitle>
+                            <container id="cid4737090" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid4737090" type="Folder">1</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                        <scopecontent id="ref200">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Tom Murphy Director: Andrew S. Paul Performance Dates: May 30 - June 15, 2002</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref346" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Great Expectations</title>,</unittitle>
+                            <container id="cid4964003" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2014</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Heartbreak House</title>,</unittitle>
+                            <container id="cid4964002" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                        <scopecontent id="ref160">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: George Bernard Shaw Director: George Lehane Performance Dates: June 2 - 25, 2005</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Henry</title>,</unittitle>
+                            <container id="cid4737083" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref186">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Thomas Kilroy Performance Dates: Stage Reading October 11 - 12, 2004</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Henry</title>,</unittitle>
+                            <container id="cid4737077" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                        <scopecontent id="ref174">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Thomas Kilroy Director: Andrew S. Paul Performance Dates: August 31 - September 24, 2005</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Hot House</title>,</unittitle>
+                            <container id="cid4737079" type="Box" label="Mixed materials">12</container>
+                            <container parent="cid4737079" type="Folder">1-3</container>
+                            <unitdate>2010</unitdate>
+                        </did>
+                        <scopecontent id="ref178">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Harold Pinter Director: Matthew Gray Performance Dates: July 22 - August 22, 2021</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jane Eyre</title>,</unittitle>
+                            <container id="cid4737081" type="Box" label="Mixed materials">13</container>
+                            <container parent="cid4737081" type="Folder">1</container>
+                            <unitdate>2009</unitdate>
+                        </did>
+                        <scopecontent id="ref182">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Charlotte Bronte Adapted by: Alan Stanford Director: Scott Wise Performance Dates: December 3 - 20, 2009</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Julius Caesar</title>,</unittitle>
+                            <container id="cid4737074" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                        <scopecontent id="ref168">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Shakespeare Director: Andrew S. Paul Performance Dates: April 11 - 28, 2007</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">King Lear</title>,</unittitle>
+                            <container id="cid4737073" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2008</unitdate>
+                        </did>
+                        <scopecontent id="ref166">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: William Shakespeare Director: James Christy Performance Dates: April 12 - 26, 2008</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Othello</title>,</unittitle>
+                            <container id="cid4737078" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>2010</unitdate>
+                        </did>
+                        <scopecontent id="ref176">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: William Shakespeare Director: Andrew S. Paul Performance Dates: May 22 - June 12, 2010</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref312" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pitmen Painters</title>,</unittitle>
+                            <container id="cid4737094" type="Folder" label="Mixed materials">6-7</container>
+                            <unitdate>2012</unitdate>
+                        </did>
+                        <scopecontent id="ref313">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Lee Hall Director: Andrew S. Paul Performance Dates: May 31 - June 23, 2012</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Stuff Happens</title>,</unittitle>
+                            <container id="cid4737075" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                        <scopecontent id="ref170">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: David Hare Director: Andrew S. Paul Performance Dates: May 12 - June 2, 2007</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref314" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">That Time</title>,</unittitle>
+                            <container id="cid4737095" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>2006</unitdate>
+                        </did>
+                        <scopecontent id="ref315">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Beckett Director: Andrew S. Paul Performance Dates: September 10, 2006</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref316" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Three Sisters</title>,</unittitle>
+                            <container id="cid4737096" type="Box" label="Mixed materials">14</container>
+                            <container parent="cid4737096" type="Folder">1-2</container>
+                            <unitdate>2012</unitdate>
+                        </did>
+                        <scopecontent id="ref317">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Anton Chekhov Director: Harriet Power Performance Dates: July 19 - August 26, 2012</p>
+                            <p>This folder includes promotional materials and reviews from 
+                                <title render="italic">Funny Chekhov</title> and 
+                                <title render="italic">Ivanov</title>.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Travesties</title>,</unittitle>
+                            <container id="cid4737086" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref192">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Tom Stoppard Director: Gregory Lehane Performance Dates: June 3 - 19, 2004</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Uncle Vanya</title>,</unittitle>
+                            <container id="cid4737084" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref188">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Anton Chekhov Director: Andrew S. Paul Performance Dates: August 12 - September 4, 2004</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref92" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Playhouse,</unittitle>
+                        <unitdate>1999-2012</unitdate>
+                    </did>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ah, Wilderness</title>,</unittitle>
+                            <container id="cid4737092" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                        <scopecontent id="ref212">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Eugene O'Neill Director: Robert A. Miller Performance Dates: September 6 - 23, 2007</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Halcyon Days</title>,</unittitle>
+                            <container id="cid4737091" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>2003</unitdate>
+                        </did>
+                        <scopecontent id="ref210">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Steven Dietz Director: David Wheeler Performance Dates: September 2 - 21, 2003</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hamlet</title>,</unittitle>
+                            <container id="cid4737100" type="Box" label="Mixed materials">15</container>
+                            <container parent="cid4737100" type="Folder">1</container>
+                            <unitdate>2003</unitdate>
+                        </did>
+                        <scopecontent id="ref208">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Shakespeare Director: Rick Kemp Performance Dates: May 9 - June 1, 2003</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Heiress</title>,</unittitle>
+                            <container id="cid4737101" type="Folder" label="Mixed materials">2-3</container>
+                            <unitdate>1997</unitdate>
+                        </did>
+                        <scopecontent id="ref214">
+                            <head>Scope and Content Notes</head>
+                            <p>Authors: Ruth Goetz and Augustus Goetz Director: Larry John Meyers Performance Dates: January 22 - February 9, 1997</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ithaka</title>,</unittitle>
+                            <container id="cid4737098" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                        <scopecontent id="ref204">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Botho Straus Translated by: Howard Burman Director: Ronald Allan-Lindblom Performance Dates: January 16 - February 13, 2000</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref318" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">MIA: Missing in Action</title>,</unittitle>
+                            <container id="cid4737120" type="Folder" label="Mixed materials">5-6</container>
+                            <unitdate>2012</unitdate>
+                        </did>
+                        <scopecontent id="ref319">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Bruce J. Robinson Director: John Amplas Performance Dates: March 23 - April 7, 2012</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">On the Beach</title>,</unittitle>
+                            <container id="cid4737097" type="Box" label="Mixed materials">16</container>
+                            <container parent="cid4737097" type="Folder">1</container>
+                            <unitdate>1999</unitdate>
+                        </did>
+                        <scopecontent id="ref202">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Howard Burman Director: Ronald Allan-Lindblom Performance Dates: September 15 - October 3, 1999</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Undoing Salk</title>,</unittitle>
+                            <container id="cid4737099" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref206">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Robert Benedetti Director: Robert Benedetti Performance Dates: February 3 - 22, 2004</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref93" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Public Theater,</unittitle>
+                        <unitdate>1983-2015</unitdate>
+                    </did>
+                    <c03 id="ref320" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">1776</title>,</unittitle>
+                            <container id="cid4737121" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2013</unitdate>
+                        </did>
+                        <scopecontent id="ref321">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Peter Stone Music and Lyrics: Sherman Edwards Director: Ted Pappas Performance Dates: January 24 - February 24, 2013</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref215" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Amadeus</title>,</unittitle>
+                            <container id="cid4737102" type="Folder" label="Mixed materials">5-6</container>
+                            <unitdate>2008</unitdate>
+                        </did>
+                        <scopecontent id="ref216">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Peter Shaffer Director: Ted Pappas Performance Dates: January 24 - February 24, 2008</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref235" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Amazing Grace</title>,</unittitle>
+                            <container id="cid4737112" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1995</unitdate>
+                        </did>
+                        <scopecontent id="ref236">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Michael Cristofer Director: Edward Gilbert Performance Dates: October 12 - November 19, 1995</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref239" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Awake and Sing!</title>,</unittitle>
+                            <container id="cid4737114" type="Box" label="Mixed materials">17</container>
+                            <container parent="cid4737114" type="Folder">1</container>
+                            <unitdate>2002</unitdate>
+                        </did>
+                        <scopecontent id="ref240">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Clifford Odets Director: Elina de Santos Performance Dates: April 25 - May 26, 2002</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref322" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Born Yesterday</title>,</unittitle>
+                            <container id="cid4737122" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2012</unitdate>
+                        </did>
+                        <scopecontent id="ref323">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Garson Kanin Director: Ted Pappas Performance Dates: September 27 - October 28, 2012</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Broadway: The Play</title>,</unittitle>
+                            <container id="cid4737113" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>2004</unitdate>
+                        </did>
+                        <scopecontent id="ref238">
+                            <head>Scope and Content Notes</head>
+                            <p>Authors: George Abbott and Philip Dunning Director: Ted Pappas Performance Dates: September 23 - October 24, 2004</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref217" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Gem of the Ocean</title>,</unittitle>
+                            <container id="cid4737103" type="Folder" label="Mixed materials">5-6</container>
+                            <unitdate>2006</unitdate>
+                        </did>
+                        <scopecontent id="ref218">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: August Wilson Director: Reggie Life Performance Dates: May 25 - June 25, 2006</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref227" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Harry's Friendly Service</title>,</unittitle>
+                            <container id="cid4737108" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid4737108" type="Folder">1-2</container>
+                            <unitdate>2009</unitdate>
+                        </did>
+                        <scopecontent id="ref228">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Rob Zellars Director: Ted Pappas Performance Dates: May 28 - June 28, 2009</p>
+                            <p>This folder also contains CDs and photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref241" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A History of the American Film</title>,</unittitle>
+                            <container id="cid4737115" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                        <scopecontent id="ref242">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Christopher Durang Director: Larry Arrick Performance Dates: October 28 - December 11, 1983</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Joe Turner's Come and Gone</title>,</unittitle>
+                            <container id="cid4737118" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1989</unitdate>
+                        </did>
+                        <scopecontent id="ref248">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: August Wilson Director: Claude Purdy Performance Dates: September 7 - October 22, 1989</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref223" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ma Rainey's Black Bottom</title>,</unittitle>
+                            <container id="cid4737106" type="Folder" label="Mixed materials">5-6</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                        <scopecontent id="ref224">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: August Wilson Director: Claude Purdy Performance Dates: September 17 - November 1, 1992</p>
+                            <p>This production also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref233" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mad Forest: A Play from Romania</title>,</unittitle>
+                            <container id="cid4737111" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid4737111" type="Folders">1-2</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                        <scopecontent id="ref234">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Caryl Churchill Director: Mark Wing-Davey Performance Dates: December 30, 1992 - February 7, 1993</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref229" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">A Moon for the Misbegotten</title>,</unittitle>
+                            <container id="cid4737109" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                        <scopecontent id="ref230">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Eugene O'Neill Director: Lee Sankowich Performance Dates: April 23 - May 31, 1992</p>
+                            <p>This folder contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Night of the Iguana</title>,</unittitle>
+                            <container id="cid4737104" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                        <scopecontent id="ref220">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Tennessee Williams Director: Claude Purdy Performance Dates: September 27 - November 4, 1990</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Nora-Julie</title>,</unittitle>
+                            <container id="cid4737116" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                        <scopecontent id="ref244">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Ingmar Bergman Director: Larry Arrick Performance Dates: February 17 - April 1, 1984</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref324" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Othello</title>,</unittitle>
+                            <container id="cid4737123" type="Folder" label="Mixed materials">7-8</container>
+                            <unitdate>2015</unitdate>
+                        </did>
+                        <scopecontent id="ref325">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: William Shakespeare Director: Ted Pappas Performance Dates: April 16 - May 17, 2015</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref221" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Our Town</title>,</unittitle>
+                            <container id="cid4737105" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid4737105" type="Folder">1-2</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                        <scopecontent id="ref222">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Thornton Wilder Director: Robert Allan Ackerman Performance Dates: November 12 - December 23, 1990</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref326" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Our Town</title>,</unittitle>
+                            <container id="cid4737124" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>2013</unitdate>
+                        </did>
+                        <scopecontent id="ref327">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Thronton Wilder Director: Ted Pappas Performance Dates: September 26 - October 27, 2013</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref225" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Royal Family</title>,</unittitle>
+                            <container id="cid4737107" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>2010</unitdate>
+                        </did>
+                        <scopecontent id="ref226">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: George S. Kaufman Director: Ted Pappas Performance Dates: September 30 - October 31, 2010</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref272" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Stayers and Goers</title></unittitle>
+                            <container id="cid4737119" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                        <scopecontent id="ref273">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Todd Kreidler Director: Larry John Meyers Performance Dates: November 17, 2008</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref231" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Three Sisters</title>,</unittitle>
+                            <container id="cid4737110" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                        <scopecontent id="ref232">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Anton Chekhov Adapted by: Corinne Jacker Director: Bill Gardner Performance Dates: January 23 - March 1, 1992</p>
+                            <p>This folder also contains photographs from the production.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref245" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Waiting for Godot</title>,</unittitle>
+                            <container id="cid4737117" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                        <scopecontent id="ref246">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Beckett Director: Larry Arrick Performance Dates: April 6 - May 20, 1984</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref94" level="subseries">
+                    <did>
+                        <unittitle>Pittsburgh Symphony Orchestra,</unittitle>
+                        <unitdate>1998</unitdate>
+                    </did>
+                    <c03 id="ref249" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Gershwin!</title>,</unittitle>
+                            <container id="cid4742007" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1998</unitdate>
+                        </did>
+                        <scopecontent id="ref250">
+                            <head>Scope and Content Notes</head>
+                            <p>Text by: Jonathan Bolt Conductor: Marvin Hamlisch Performance Dates: June 11 - 14, 1998</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref95" level="subseries">
+                    <did>
+                        <unittitle>Quantum Theatre,</unittitle>
+                        <unitdate>2010-2014</unitdate>
+                    </did>
+                    <c03 id="ref328" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Madagascar</title>,</unittitle>
+                            <container id="cid4742013" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid4742013" type="Folder">1</container>
+                            <unitdate>2014</unitdate>
+                        </did>
+                        <scopecontent id="ref329">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: J.T. Rogers Director: Sheila McKenna Performance Dates: January 31 - February 16, 2014</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref251" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Task</title>,</unittitle>
+                            <container id="cid4742008" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2010</unitdate>
+                        </did>
+                        <scopecontent id="ref252">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Heiner Müller Translated by: Carl Weber Director: Jed Allen Harris Performance Dates: April 22 - May 9, 2010</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref98" level="subseries">
+                    <did>
+                        <unittitle>Three Rivers Shakespeare Festival,</unittitle>
+                        <unitdate>1981-1990</unitdate>
+                    </did>
+                    <c03 id="ref262" level="file">
+                        <did>
+                            <unittitle>1981 TRSF,</unittitle>
+                            <container id="cid4742009" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                        <scopecontent id="ref263">
+                            <head>Scope and Content Notes</head>
+                            <p>Productions: 
+                                <title render="italic">The Comedy of Errors</title>, 
+                                <title render="italic">The Winters Tale</title>, 
+                                <title render="italic">As You Like It</title> Author: Shakespeare Directors: Gillette A. Elvgren, Jr., Kathleen E. George, Kathleen Conlin Performance Dates: June 18 - August 16, 1981</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref264" level="file">
+                        <did>
+                            <unittitle>1982 TRSF,</unittitle>
+                            <container id="cid4742010" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                        <scopecontent id="ref265">
+                            <head>Scope and Content Notes</head>
+                            <p>Productions: 
+                                <title render="italic">The Tragedy of Hamlet: Prince of Denmark</title>, 
+                                <title render="italic">The Merry Wives of Windsor</title>, 
+                                <title render="italic">The Tempest</title> Author: Shakespeare Directors: Kathleen E. George, Marc Masterson, Jed Allen Harris Performance Dates: June 17 - August 15, 1982</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref266" level="file">
+                        <did>
+                            <unittitle>1983 TRSF,</unittitle>
+                            <container id="cid4742011" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1983</unitdate>
+                        </did>
+                        <scopecontent id="ref267">
+                            <head>Scope and Content Notes</head>
+                            <p>Productions: 
+                                <title render="italic">Henry the Fourth</title>, 
+                                <title render="italic">Much Ado About Nothing</title>, 
+                                <title render="italic">Othello</title> Author: Shakespeare Directors: W. Stephen Coleman, Gillette A. Elvgren, Jr., Marc Masterson Performance Dates: June 16 - August 14, 1983</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>1990 TRSF,</unittitle>
+                            <container id="cid4742012" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                        <scopecontent id="ref284">
+                            <head>Scope and Content Notes</head>
+                            <p>Production: 
+                                <title render="italic">Richard II</title> Author: Shakespeare Director: Stephen Coleman Performance Dates: June 22 - July 14, 1990</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref152" level="subseries">
+                    <did>
+                        <unittitle>University of Pittsburgh Repertory Theatre,</unittitle>
+                        <unitdate>1998-2012</unitdate>
+                    </did>
+                    <c03 id="ref330" level="item">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Gammage Project</title>,</unittitle>
+                            <container id="cid4742014" type="Folder" label="Mixed materials">7-8</container>
+                            <unitdate>2012</unitdate>
+                        </did>
+                        <scopecontent id="ref331">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Attilio Favorini Director: Mark Clayton Southers Performance Dates: February 9 - 19, 2012</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Hudsucker Proxy</title>,</unittitle>
+                            <container id="cid4742005" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid4742005" type="Folder">1</container>
+                            <unitdate>1999</unitdate>
+                        </did>
+                        <scopecontent id="ref158">
+                            <head>Scope and Content Notes</head>
+                            <p>Authors: Joel Coen, Ethan Coen, and Sam Raimi Director: Robert C.T. Steele Performance Dates: November 3 - 21, 1999</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Moby Dick</title>,</unittitle>
+                            <container id="cid4742002" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>2001</unitdate>
+                        </did>
+                        <scopecontent id="ref144">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Orson Welles Director: Robert C.T. Steele Performance Dates: March 28 - April 15, 2001</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref155" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Our Town</title>,</unittitle>
+                            <container id="cid4742004" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1999</unitdate>
+                        </did>
+                        <scopecontent id="ref156">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Thornton Wilder Director: Kathleen E. George Performance Dates: March 31 - April 18, 1999</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pericles</title>,</unittitle>
+                            <container id="cid4742003" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1998</unitdate>
+                        </did>
+                        <scopecontent id="ref154">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: William Shakespeare Director: Larry John Meyers Performance Dates: February 11 - 22, 1998</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Waiting for Godot</title>,</unittitle>
+                            <container id="cid4742001" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>2001</unitdate>
+                        </did>
+                        <scopecontent id="ref142">
+                            <head>Scope and Content Notes</head>
+                            <p>Author: Samuel Beckett Director: W. Stephen Coleman Performance Dates: September 19 - October 7, 2001</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc200402</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Sherwood Forest Theatre Records, 1950-1995
+                    <num>CTC.2004.02</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>2005</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:02-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>December 23, 2010</date>
+                <item></item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sherwood Forest Theatre Records</unittitle>
+            <unitid>CTC.2004.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.5 linear feet</extent>
+                <extent>(4 boxes and 12 scrapbooks)</extent>
+            </physdesc>
+            <unitdate>1950-1995</unitdate>
+            <abstract id="ref2" label="Abstract">The Sherwood Forest Theatre operated in the New Kensington/Murrysville (Pa.) community from 1950 to 1994. The materials in this collection consist of operational files that contain programs, newspaper clippings, photographs, slides, financial reports, promotional materials, and a series of twelve scrapbooks that contain newspaper clippings and photographs. These materials cover the entire span of the theatre's existence.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Sherwood Forest Theatre (Murrysville, Pa.).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>The Sherwood Forest Theatre was founded in Murrysville, Pa., in 1950. The Theatre's productions were staged in a 100-year-old barn on the property of its founders, Joseph and Alphretta DeSimone. Throughout its years, Sherwood performed small, but quality community theatre. Each season consisted of six to nine productions which were performed over the summer months and ranged from light-hearted comedies and musicals to serious drama and politically themed plays. Sherwood became a non-profit incorporation in 1958. In 1973, the daughter of the De Simones, Joy Tobin, became the producing director. She began the process of applying for and receiving state and federal funding for the theatre, which paid for staffing and production costs.</p>
+            <p>In 1980, the Theatre's Board of Trustees created Sherwood's mission statement: "The Sherwood Forest Theatre is a not-for-profit, incorporated community theatre committed to providing, through professional leadership: 1. Quality theatre for its audiences. 2. The opportunity for participation by all members of our community without regard to age, sex, race, or religion. 3. Additional educational experiences in theatre arts for all ages. 4. The enhancement of the cultural growth of the area population." In the late 1980s, federal funding became more scarce as the United States slipped into a recession. The Sherwood Forest Theatre ceased operations at the end of its 1994 season due to financial difficulties.</p>
+        </bioghist>
+        <arrangement id="ref34">
+            <head>Arrangement</head>
+            <p>The collection is arranged into the following two series:</p>
+            <p>Series I. Operational Files, 1950-1995</p>
+            <p>Series II. Scrapbooks, 1950-1986</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>This collection includes two series of materials. The first is a set of operational files that are arranged chronologically from 1950 to 1995. There are a few years in the 1950s and 1960s that do not have any records attributed to them. Each yearly file of records contains some or all of the following materials: programs, newspaper clippings, photographs, slides, financial reports, press releases, and promotional materials. The second series consists of twelve scrapbooks that contain newspaper clippings and photographs from the period of 1950 to 1986. Some of the newspaper clippings, photographs, and programs are duplicated in the two series. Other times there is only information on a given year or production in one of the series and not the other.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Gift of Joy Tobin in September 2004.</p>
+        </acqinfo>
+        <odd id="ref35">
+            <head>Previous Citation</head>
+            <p>Sherwood Forest Theatre Records, 1950-1995, CTC.2004.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Sherwood Forest Theatre Records, 1950-1995, CTC.34, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Sherwood Forest Theatre Records, 1950-1995, CTC.2004.02, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by William Daw in February 2005.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Property rights reside with the University of Pittsburgh. For information about permission to reproduce or publish, please contact the Special Collections Department.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="local">DeSimone, Alphretta</persname>
+            <persname rules="aacr" source="local">DeSimone, Joseph</persname>
+            <corpname rules="aacr" source="local">Sherwood Center for the Creative Arts.</corpname>
+            <corpname rules="aacr" source="local">Sherwood Forest Theatre (Murrysville, Pa.).</corpname>
+            <corpname rules="aacr" source="local">Small Friar's Club.</corpname>
+            <persname rules="aacr" source="local">Tobin, Joy</persname>
+            <subject source="lcsh">Children's theater -- Pennsylvania -- Murrysville</subject>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <subject source="lcsh">Community theater -- Pennsylvania -- Murrysville</subject>
+            <genreform source="aat">Financial records</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Press releases</genreform>
+            <genreform source="aat">Scrapbooks</genreform>
+            <genreform source="aat">Slides (Photographs)</genreform>
+            <subject source="lcsh">Summer theater -- Pennsylvania -- Murrysville</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theaters -- Pennsylvania -- Murrysville</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Operational Files,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1950-1995</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains operational files, arranged chronologically, that contain some or all of the following materials for a specific year: programs, newspaper clippings, photographs, slides, financial reports, press releases, and other promotional materials. Not all of the years of the Sherwood's existence are covered in these files. For information from these years, consult the scrapbooks series. Three other folders that are included in this series contain several short histories of the Sherwood Forest Theatre, photographs, production histories for both the Sherwood Forest Theatre and its children's theatre known as the 
+                        <emph>Small Friar’s Club</emph>, and a folder with the documents pertaining to the incorporation of the Theatre and its constitution. Finally there is one small box of plaques that contain certificates and ciatations given to the Sherwood.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Sherwood's Story</unittitle>
+                        <container id="cid115128" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid115128" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Production History</unittitle>
+                        <container id="cid115127" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Sherwood Incorporation</unittitle>
+                        <container id="cid115126" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115125" type="Folder" label="Mixed materials">4-10</container>
+                        <unitdate>1950-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115124" type="Folder" label="Mixed materials">11-20</container>
+                        <unitdate>1963-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115123" type="Folder" label="Mixed materials">21-33</container>
+                        <unitdate>1973-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115122" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid115122" type="Folder">1-7</container>
+                        <unitdate>1985-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115121" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid115121" type="Folder">1-8</container>
+                        <unitdate>1990-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Plaques,</unittitle>
+                        <container id="cid718001" type="Box" label="Realia">4</container>
+                        <unitdate>1989-1994</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Scrapbooks,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1950-1986</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Contents note</head>
+                    <p>The second series consists of twelve scrapbooks that contain newspaper clippings and photographs from the period of 1950 to 1986, with the exception of 1983. There are also two scrapbooks that deal with specific topics. Scrapbook nine deals with the opening of the Sherwood Center for the Creative Arts in 1974 and Sherwood's seminar that involved the staging of several politically themed plays. Scrapbook ten includes clippings and photographs about the 1976 seminar 
+                        <emph>Time on Your Hands</emph>, which is about enforced leisure.</p>
+                </scopecontent>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115120" type="Volume" label="Mixed materials">1</container>
+                        <unitdate>1950-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115119" type="Volume" label="Mixed materials">2</container>
+                        <unitdate>1956-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115118" type="Volume" label="Mixed materials">3</container>
+                        <unitdate>1959-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115117" type="Volume" label="Mixed materials">4</container>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115115" type="Volume" label="Mixed materials">6</container>
+                        <unitdate>1968-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115116" type="Volume" label="Mixed materials">5</container>
+                        <unitdate>1963-1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115114" type="Volume" label="Mixed materials">7</container>
+                        <unitdate>1973-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Theatre Courses and 
+                            <title render="italic">Adventure in Politics</title>,</unittitle>
+                        <container id="cid115113" type="Volume" label="Mixed materials">8</container>
+                        <unitdate>1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Time on Your Hands</title>,</unittitle>
+                        <container id="cid115112" type="Volume" label="Mixed materials">9</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115111" type="Volume" label="Mixed materials">10</container>
+                        <unitdate>1979-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115110" type="Volume" label="Mixed materials">11</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid115109" type="Volume" label="Mixed materials">12</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,2911 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc198601</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Lovelace Marionette Theatre Company Records, 1952-1984
+                    <num>CTC.1986.01</num>
+                </titleproper>
+                <author>Finding aid prepared by David Sleasman.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>June 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Lovelace Marionette Theatre Company Records</unittitle>
+            <unitid>CTC.1986.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>14.0 linear feet</extent>
+                <extent>(21 boxes)</extent>
+            </physdesc>
+            <unitdate>1952-1984</unitdate>
+            <abstract id="ref381" label="Abstract">The Lovelace Marionette Theatre Company was created by Margo Lovelace in 1949. This collection contains the records of the award winning Pittsburgh area puppet theatre company. Included are photographs, performance films, scripts, newspaper clippings, business files, and sound recordings.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Lovelace Marionette Theatre Company.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Acquisition Information</head>
+            <p>Gift of The Pittsburgh Children's Museum and Mrs. Margo Lovelace Visser, 1986.</p>
+        </acqinfo>
+        <accessrestrict id="ref10">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref12">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <processinfo id="ref13">
+            <head>Processing Information</head>
+            <p>This collection was processed by David Sleasman in 1993.</p>
+        </processinfo>
+        <bioghist id="ref15">
+            <head>Biography</head>
+            <p>The Lovelace Marionette Theatre Company (also known as Rikes's Puppets, Lazarus Puppets and Margo's Moppets) was formed in 1949 by Margo Lovelace Visser as a traveling forum for her interest in puppet theatre. In 1964 a permanent home for the company was established--the first such permanent home for a puppet theatre company in the United States. Located at 5888.5 Ellsworth Avenue in Pittsburgh’s Shadyside neighborhood, this professional puppet theater specialized in performing their own adaptations of classic and folk tales as well as their own original stories for both children and adults. They also pioneered the experimental theatre programs of Jean Cocteau, Jean Giraudoux and Moliere using rod puppets and Japanese-style bunraku figures. Having outgrown its facilities on Ellsworth Avenue, in 1977 they shifted the stage to the Carnegie Museum of Art Theater offering a full subscription season of puppet theater. The Theatre collaborated with New York-based Mabou Mines--training their actors on the use of bunraku figures; Pittsburgh’s Ironclad Agreement Theatre Co.--on the American Premiere of Gov't Owned Apples; and the Pittsburgh Public Theatre--in a 1978 production of Balyasnikov. Other noteworthy performances have included a 3-week residency at the Smithsonian Institute; selection by Theatre Association of Pennsylvania (1977 - 1981) for an annual showcase of Pennsylvania's finest professional theatre; at the Union Internationale de la Marionette Festival Mondial in France and the Three Rivers Arts Festivals.</p>
+            <p>Among its other activities, the Lovelace Marionette Theatre Company also provided training and apprentice programs for young people, including the noted American theatre director, Peter Sellars. They developed a cultural enrichment program in 1970 for Pittsburgh Public Schools eventually expanding to 145 schools in Western Pennsylvania. Instruction has played a major role in its activities. The company developed a residency program in which students spend time in workshops learning about all aspects of puppet theater in a direct hands-on approach. Also offered were workshops for teachers to learn puppetry skills for integration into the classroom. The regular staff of LMT Co. has included David Visser, Heather Mathieson and Pamela Zarra. The creative driving force behind this venture has been its founder Margo Lovelace Visser. She studied at Carnegie Institute of Technology (now Carnegie Mellon University), and with Cedric Head's Kingsland Marionettes, the German puppeteer--Erhard Reis, and Moscow's Central Puppet Theatre (Lovelace Puppets have been on displayed in the museum from 1966-1981) at the request of Sergei Obraztsov. She has also traveled widely exploring puppet theaters around the world and collecting masks and puppets. Her collection is presently on deposit with the Children's Museum of Pittsburgh. Ms. Lovelace was an active member of the American Marionettes Council, the Union Internationale de la Marionette, a member of committees for both Pennsylvania Council on the Arts and the National Endowment for the Arts. She produced a short subject film in 1978, Museum Piece, which was nominated for an Academy Award by the Academy of Motion Picture Arts and Sciences. Other awards include a bronze medal from the Union Internationale de la Marionette, a finalist in the American Film Festival and a Golden Eagle Award for another Film, The Puppet Proposition. In 1981 she was awarded the Theodore A. Hazlett Governor's Award for Excellence in the Theatre Arts.</p>
+            <p>During the last years of the Lovelace Marionette Theatre Company an umbrella organization, The Marionette Theatre Arts Council, was formed to administer the Lovelace Theatre programs as well as providing educational opportunities and cultural enrichment through the medium of puppet theatre. Among the most noteworthy endeavors was the sponsorship of performances of the Drak Puppet Theater of Czechoslovakia and Das Puppenspiel Theatre of Germany. The organization ended operations in 1983.</p>
+        </bioghist>
+        <odd id="ref383">
+            <head>Previous Citation</head>
+            <p>Lovelace Marionette Theatre Company Records, 1952-1984, CTC.1986.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Lovelace Marionette Theatre Records, 1952-1984, CTC.18, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref382">
+            <head>Preferred Citation</head>
+            <p>Lovelace Marionette Theatre Company Records, 1952-1984, CTC.1986.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <arrangement id="ref384">
+            <head>Arrangement</head>
+            <p>The collection is organized into seven series:</p>
+            <p>Series I. General Operation Files, 1950-1985</p>
+            <p>Series II. Newspaper Clippings and Press Releases, 1955-1985</p>
+            <p>Series III. Diaries, 1952-1983</p>
+            <p>Series IV. Scripts</p>
+            <p>Series V. Photographs and Artwork</p>
+            <p>Series VI. Audio Recordings, 1967-1972</p>
+            <p>Series VII. Video Recordings, 1956-1970</p>
+        </arrangement>
+        <scopecontent id="ref386">
+            <head>Scope and Content Notes</head>
+            <p>The Lovelace Marionette Theatre Company Records are arranged into seven series. The first four series are all paper based and make up the bulk of the collection. The Photographs and Artwork Series is divided into four subseries - Photographs, Negatives, Slides, and Artwork. Series VI-VII are audio recordings and video recordings, most of which are on obsolete formats.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Iron Clad Agreement (Theatrical company).</corpname>
+            <corpname rules="aacr" source="local">Lovelace Marionette Theatre Company.</corpname>
+            <persname source="naf">Lovelace, Margo</persname>
+            <persname source="naf">Obrazt︠s︡ov, S. V. (Sergeĭ Vladimirovich), 1901-</persname>
+            <corpname source="naf">Pennsylvania Council on the Arts.</corpname>
+            <corpname source="naf">Pittsburgh Children's Museum.</corpname>
+            <corpname source="naf">Three Rivers Arts Festival (Pittsburgh, Pa.).</corpname>
+            <genreform source="aat">Audiotapes</genreform>
+            <subject source="lcsh">Bunraku puppets</subject>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <genreform source="aat">Diaries</genreform>
+            <subject source="lcsh">Marionettes</subject>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Puppet theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Puppet theater companies -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Puppets</subject>
+            <subject source="lcsh">Rod puppets</subject>
+            <genreform source="aat">Scripts (Documents)</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="lcgft">Video recordings</genreform>
+            <genreform source="aat">Videotapes</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>General Operation Files,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1950-1985</unitdate>
+                </did>
+                <scopecontent id="ref96">
+                    <head>Scope and Content Notes</head>
+                    <p>These files contain the office files, correspondence, minutes, account books, etc. for the operation and organization of the career of Margo Lovelace. The files are in chronological order. Box five contains oversized materials that are out of order due to their large format.</p>
+                </scopecontent>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Address book</unittitle>
+                        <container id="cid1462001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid1462001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Art and Lore of Puppets - manuscript</unittitle>
+                        <container id="cid1462002" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Awards</unittitle>
+                        <container id="cid1462003" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Cartoons</unittitle>
+                        <container id="cid1462004" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Contracts</unittitle>
+                        <container id="cid1462005" type="Folder" label="Mixed materials">5-6</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid1462006" type="Folder" label="Mixed materials">7-10</container>
+                        <unitdate>1950-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Correspondence - undated</unittitle>
+                        <container id="cid1462007" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Drak: Czechoslovakian Puppet Theater</unittitle>
+                        <container id="cid1462008" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Financial account books,</unittitle>
+                        <container id="cid1462009" type="Folder" label="Mixed materials">13-16</container>
+                        <unitdate>1965-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Financial account books - undated</unittitle>
+                        <container id="cid1462010" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Financial account book,</unittitle>
+                        <container id="cid1462011" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid1462011" type="Folder">1</container>
+                        <unitdate>1969-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Financial account book,</unittitle>
+                        <container id="cid1462012" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Financial - miscellaneous materials</unittitle>
+                        <container id="cid1462013" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gov't Owned Apples</title></unittitle>
+                        <container id="cid1462014" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Greeting cards</unittitle>
+                        <container id="cid1462015" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Head, Cedric</unittitle>
+                        <container id="cid1462016" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Heinz Endowment</unittitle>
+                        <container id="cid1462017" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>History - Lovelace Marionettes</unittitle>
+                        <container id="cid1462018" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Idea for a Puppet Theater at a Summer Colony - manuscript</unittitle>
+                        <container id="cid1462019" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Insurance</unittitle>
+                        <container id="cid1462020" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Japan - Letters and programs</unittitle>
+                        <container id="cid1462021" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Lazarus puppets</unittitle>
+                        <container id="cid1462022" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>McMillan, W.G.</unittitle>
+                        <container id="cid1462023" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Mailing Lists</unittitle>
+                        <container id="cid1462024" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Manual of simple puppetry</unittitle>
+                        <container id="cid1462025" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Margo on Margo</unittitle>
+                        <container id="cid1462026" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - Correspondence</unittitle>
+                        <container id="cid1462027" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - Board minutes</unittitle>
+                        <container id="cid1462028" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - By-laws</unittitle>
+                        <container id="cid1462029" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - Positively Puppets</unittitle>
+                        <container id="cid1462030" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - Positively puppets</unittitle>
+                        <container id="cid1462031" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - Promotional material</unittitle>
+                        <container id="cid1462032" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Marionette Theatre Arts Council - Report</unittitle>
+                        <container id="cid1462033" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Membership cards</unittitle>
+                        <container id="cid1462034" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Music for the puppet show</unittitle>
+                        <container id="cid1462035" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Notebook</unittitle>
+                        <container id="cid1462036" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Notebooks</unittitle>
+                        <container id="cid1462037" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid1462037" type="Folder">1-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Notes - miscellaneous</unittitle>
+                        <container id="cid1462038" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Notes for lecture on Children's Response</unittitle>
+                        <container id="cid1462039" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Obratsov, Sergei</unittitle>
+                        <container id="cid1462040" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Passport - Margo Lovelace</unittitle>
+                        <container id="cid1462041" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council of the Arts</unittitle>
+                        <container id="cid1462042" type="Folder" label="Mixed materials">9-10</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Practical Puppets by Everyone - manuscript</unittitle>
+                        <container id="cid1462043" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Architruc</title></unittitle>
+                        <container id="cid1462044" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid1462044" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Aria da Capo</title></unittitle>
+                        <container id="cid1462045" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Balyashnikov</title> at the Pittsburgh Public Theatre,</unittitle>
+                        <container id="cid1462046" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Beauty and the Beast</title> at the Carnegie Museum of Art,</unittitle>
+                        <container id="cid1462047" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Drak</title>,</unittitle>
+                        <container id="cid1462048" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>June 1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Fire Boy</title></unittitle>
+                        <container id="cid1462049" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Four and One</title></unittitle>
+                        <container id="cid1462050" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Program - Fourth grade assembly</unittitle>
+                        <container id="cid1462051" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Jack and the Beanstalk</title>,</unittitle>
+                        <container id="cid1462052" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Happy Birthday</title> at the Pittsburgh Playhouse,</unittitle>
+                        <container id="cid1462053" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Love's the Best Doctor</title> at the Carnegie Museum of Art,</unittitle>
+                        <container id="cid1462054" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">The Magical Kingdom</title>,</unittitle>
+                        <container id="cid1462055" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Punch and Judy</title> at the Grandview Theatre</unittitle>
+                        <container id="cid1462056" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Ragtime and All That Jazz</title> at the Carnegie Museum of Art,</unittitle>
+                        <container id="cid1462057" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">The Reluctant Dragon</title></unittitle>
+                        <container id="cid1462058" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Top Notch Hopscotch</title></unittitle>
+                        <container id="cid1462059" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Program - 
+                            <title render="italic">Winnie the Pooh</title> at the Carnegie Museum of Art,</unittitle>
+                        <container id="cid1462060" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Promotional materials,</unittitle>
+                        <container id="cid1462061" type="Folder" label="Mixed materials">18-19</container>
+                        <unitdate>1965-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Proposal for Carnegie Institute</unittitle>
+                        <container id="cid1462062" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Puppet Workshop - Handouts</unittitle>
+                        <container id="cid1462063" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Puppet Workshop - Promotional material,</unittitle>
+                        <container id="cid1462064" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Puppet Workshop - Scheduling notebook,</unittitle>
+                        <container id="cid1462065" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Puppeteers of America,</unittitle>
+                        <container id="cid1462066" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1980-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Resume - Margo Lovelace</unittitle>
+                        <container id="cid1462067" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Sarg, Tony</unittitle>
+                        <container id="cid1462068" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Sherlock</unittitle>
+                        <container id="cid1462069" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Smithsonian Institution,</unittitle>
+                        <container id="cid1462070" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Union International de la Marionette - Newspaper clippings,</unittitle>
+                        <container id="cid1462071" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Union International de la Marionette - Correspondence,</unittitle>
+                        <container id="cid1462072" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1966-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Union International de la Marionette - Receipts</unittitle>
+                        <container id="cid1462073" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Villa Maria College,</unittitle>
+                        <container id="cid1462074" type="Folder" label="Mixed materials">32</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Architruc</title> - Poster</unittitle>
+                        <container id="cid1466001" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid1466001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Daily News Ad Proof</unittitle>
+                        <container id="cid1466002" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Plan of set-up puppet stage area</unittitle>
+                        <container id="cid1466003" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Puppets: Past and Present - Poster</unittitle>
+                        <container id="cid1466004" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Puppet clothing patterns</unittitle>
+                        <container id="cid1466005" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Newspaper Clippings and Press Releases,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1955-1985</unitdate>
+                </did>
+                <scopecontent id="ref159">
+                    <head>Scope and Content Notes</head>
+                    <p>Contained in this series are newspaper clippings, magazine articles, etc. relating to the productions of the Lovelace Marionette Theatre Company and its general activities. Also included are press releases used by the company. All files in this series are in chronological order.</p>
+                </scopecontent>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings - undated</unittitle>
+                        <container id="cid1466006" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid1466006" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid1466007" type="Folder" label="Mixed materials">2-22</container>
+                        <unitdate>1955-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Press releases,</unittitle>
+                        <container id="cid1466008" type="Folder" label="Mixed materials">23-24</container>
+                        <unitdate>1976-1983</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref3" level="series">
+                <did>
+                    <unittitle>Diaries,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1952-1983</unitdate>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Content Notes</head>
+                    <p>These are the daily diaries and appointment books kept by Margo Lovelace Visser. Although incomplete they offer a general guide to the daily activities of the Mrs. Visser and her theater company. The diaries are in chronological order.</p>
+                </scopecontent>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Diaries,</unittitle>
+                        <container id="cid1466009" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid1466009" type="Volume">1-12</container>
+                        <unitdate>1952-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Diaries,</unittitle>
+                        <container id="cid1466010" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid1466010" type="Volume">13-23</container>
+                        <unitdate>1965-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Diaries,</unittitle>
+                        <container id="cid1466011" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid1466011" type="Volume">24-33</container>
+                        <unitdate>1973-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Diaries,</unittitle>
+                        <container id="cid1466012" type="Volume" label="Mixed materials">34-38</container>
+                        <unitdate>1980-1983</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Scripts</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref160">
+                    <head>Scope and Content Notes</head>
+                    <p>Included in this series are adaptations of classic, folk, and contemporary plays as well as the Lovelace Company's original works. The vast majority of the scripts are undated. These materials are arranged in alphabetical order by title.</p>
+                </scopecontent>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Aladdin</title></unittitle>
+                        <container id="cid1466013" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid1466013" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Alice in Wonderland</title></unittitle>
+                        <container id="cid1466014" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Alice in Wonderland: Tweedledum and Tweedledee</title></unittitle>
+                        <container id="cid1466015" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Anansi</title></unittitle>
+                        <container id="cid1466016" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Architruc</title></unittitle>
+                        <container id="cid1466017" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Beauty and the Beast</title></unittitle>
+                        <container id="cid1466018" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Bicentennial Show</title></unittitle>
+                        <container id="cid1466019" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Brave Little Tailor</title></unittitle>
+                        <container id="cid1466020" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Carnival in Rio</title></unittitle>
+                        <container id="cid1466021" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Carnival of the Seventh Moon</title></unittitle>
+                        <container id="cid1466022" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Christmas Carol</title></unittitle>
+                        <container id="cid1466023" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Christopher Columbus</title></unittitle>
+                        <container id="cid1466024" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cinderella</title></unittitle>
+                        <container id="cid1466025" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Commedia Circus Varieties</title></unittitle>
+                        <container id="cid1466026" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Crackerjack Clowns</title></unittitle>
+                        <container id="cid1466027" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Divine Comedy</title> - Original Translation</unittitle>
+                        <container id="cid1466028" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Days of the Great Buffalo</title></unittitle>
+                        <container id="cid1466029" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Easter Basket</title></unittitle>
+                        <container id="cid1466030" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Emperor's New Clothes</title></unittitle>
+                        <container id="cid1466031" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Emperor's Nightingale</title></unittitle>
+                        <container id="cid1466032" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gov't Owned Apples</title></unittitle>
+                        <container id="cid1466033" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hansel and Gretel</title></unittitle>
+                        <container id="cid1466034" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Huck Finn and Tom Sawyer</title></unittitle>
+                        <container id="cid1466035" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Humbles of Hogback Hill</title></unittitle>
+                        <container id="cid1466036" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Incredible Holiday Machine</title></unittitle>
+                        <container id="cid1466037" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Jack and the Beanstalk</title></unittitle>
+                        <container id="cid1466038" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Prince</title></unittitle>
+                        <container id="cid1466039" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Red Ridinghood</title></unittitle>
+                        <container id="cid1466040" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Little Scarface</title></unittitle>
+                        <container id="cid1466041" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid1466041" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Love's the Best Doctor</title></unittitle>
+                        <container id="cid1468001" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Lucis Toyshop</title></unittitle>
+                        <container id="cid1468002" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Momotaro</title></unittitle>
+                        <container id="cid1468003" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Musicians of Bremen</title></unittitle>
+                        <container id="cid1468004" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Naropa</title></unittitle>
+                        <container id="cid1468005" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Nativity</title></unittitle>
+                        <container id="cid1468006" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Peter Pan</title></unittitle>
+                        <container id="cid1468007" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pinoccio</title></unittitle>
+                        <container id="cid1468008" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Princess and the Pea</title></unittitle>
+                        <container id="cid1468009" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Puss in Boots</title></unittitle>
+                        <container id="cid1468010" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Quacks</title></unittitle>
+                        <container id="cid1468011" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ragtime and All That Jazz</title></unittitle>
+                        <container id="cid1468012" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rapunzel</title></unittitle>
+                        <container id="cid1468013" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Reluctant Dragon</title></unittitle>
+                        <container id="cid1468014" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rumpelstiltskin</title></unittitle>
+                        <container id="cid1468015" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sleeping Beauty</title></unittitle>
+                        <container id="cid1468016" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Story of Joseph</title></unittitle>
+                        <container id="cid1468017" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Three Billy Goats Gruff</title></unittitle>
+                        <container id="cid1468018" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Three Wishes</title></unittitle>
+                        <container id="cid1468019" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Upset the Fruitbasket</title></unittitle>
+                        <container id="cid1468020" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Tsar Trajan</title></unittitle>
+                        <container id="cid1468021" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Top Notch - Hopscotch</title></unittitle>
+                        <container id="cid1468022" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Toby and the Adult</title></unittitle>
+                        <container id="cid1468023" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Winnie the Pooh</title></unittitle>
+                        <container id="cid1468024" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Wizard of Oz</title></unittitle>
+                        <container id="cid1468025" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Scripts - Unidentified</unittitle>
+                        <container id="cid1468026" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Photographs and Artwork</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref377">
+                    <head>Scope and Content Notes</head>
+                    <p>The Photographs and Artwork series is divided into 4 subseries - photographs, negatives, slides, and artwork. Within each subseries, the files are arranged in alphabetical order.</p>
+                </scopecontent>
+                <c02 id="ref161" level="subseries">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Aladdin</title></unittitle>
+                            <container id="cid1468027" type="Box" label="Photographic images">12</container>
+                            <container parent="cid1468027" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Alice in Wonderland</title></unittitle>
+                            <container id="cid1468028" type="Folder" label="Photographic images">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Apollo of Bellac</title></unittitle>
+                            <container id="cid1468029" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Aria di Capo</title></unittitle>
+                            <container id="cid1468030" type="Folder" label="Photographic images">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>Audiences</unittitle>
+                            <container id="cid1468031" type="Folder" label="Photographic images">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>Audience - Carnegie Institute Museum of Art Theatre</unittitle>
+                            <container id="cid1468032" type="Folder" label="Photographic images">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>Baker, Danny</unittitle>
+                            <container id="cid1468033" type="Folder" label="Photographic images">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Beauty and the Beast</title></unittitle>
+                            <container id="cid1468034" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>Behind the Scenes</unittitle>
+                            <container id="cid1468035" type="Folder" label="Photographic images">9-10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>Behind the Scenes - Afternoon Conference</unittitle>
+                            <container id="cid1468036" type="Folder" label="Photographic images">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>Behind the Scenes - George pulls some strings</unittitle>
+                            <container id="cid1468037" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Behind the Scenes - Norman graduates</unittitle>
+                            <container id="cid1468038" type="Folder" label="Photographic images">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>Behind the Scenes - Sunny Builds a Mountain</unittitle>
+                            <container id="cid1468039" type="Folder" label="Photographic images">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brave Little Tailor</title></unittitle>
+                            <container id="cid1468040" type="Folder" label="Photographic images">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>Bunraku</unittitle>
+                            <container id="cid1468041" type="Folder" label="Photographic images">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Carnival in Rio</title></unittitle>
+                            <container id="cid1468042" type="Folder" label="Photographic images">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Coat of Many Colors</title></unittitle>
+                            <container id="cid1468043" type="Folder" label="Photographic images">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Christmas if for Children - NBC New York City,</unittitle>
+                            <container id="cid1468044" type="Folder" label="Photographic images">19</container>
+                            <unitdate>1956</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Christmas Carol</title></unittitle>
+                            <container id="cid1468045" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Christopher Columbus</title></unittitle>
+                            <container id="cid1468046" type="Folder" label="Photographic images">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Days of the Great Buffalo</title></unittitle>
+                            <container id="cid1468047" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>Drak - Czechoslovakian Puppet Theatre</unittitle>
+                            <container id="cid1468048" type="Folder" label="Photographic images">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Emperor's New Clothes</title></unittitle>
+                            <container id="cid1468049" type="Folder" label="Photographic images">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>Faust, Johnny</unittitle>
+                            <container id="cid1468050" type="Folder" label="Photographic images">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Gov't Owned Apples</title></unittitle>
+                            <container id="cid1468051" type="Folder" label="Photographic images">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Grand Turk</title></unittitle>
+                            <container id="cid1468052" type="Folder" label="Photographic images">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Guignol</title></unittitle>
+                            <container id="cid1468053" type="Folder" label="Photographic images">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hammock Room</title></unittitle>
+                            <container id="cid1468054" type="Folder" label="Photographic images">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hansel and Gretel</title></unittitle>
+                            <container id="cid1468055" type="Folder" label="Photographic images">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Huck Finn and Tom Sawyer</title></unittitle>
+                            <container id="cid1468056" type="Box" label="Photographic images">13</container>
+                            <container parent="cid1468056" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Incredible Holiday Machine</title></unittitle>
+                            <container id="cid1468057" type="Folder" label="Photographic images">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>Ironclad Agreement</unittitle>
+                            <container id="cid1468058" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jack and the Beanstalk</title></unittitle>
+                            <container id="cid1468059" type="Folder" label="Photographic images">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Keystone Cop</unittitle>
+                            <container id="cid1468060" type="Folder" label="Photographic images">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Kingsland Marionette Collection</unittitle>
+                            <container id="cid1468061" type="Folder" label="Photographic images">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>Kingsland Marionette Summer Camp</unittitle>
+                            <container id="cid1468062" type="Folder" label="Photographic images">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Lazarus Puppet Theatre</unittitle>
+                            <container id="cid1468063" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="file">
+                        <did>
+                            <unittitle>Lincoln Elementary School Students</unittitle>
+                            <container id="cid1468064" type="Folder" label="Photographic images">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Little Red Ridinghood</title></unittitle>
+                            <container id="cid1468065" type="Folder" label="Photographic images">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="file">
+                        <did>
+                            <unittitle>London Puppet exhibit,</unittitle>
+                            <container id="cid1468066" type="Folder" label="Photographic images">11</container>
+                            <unitdate>April 1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Love's the Best Doctor</title></unittitle>
+                            <container id="cid1468067" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Lovelace family</unittitle>
+                            <container id="cid1468068" type="Folder" label="Photographic images">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>Lovelace, Margo</unittitle>
+                            <container id="cid1468069" type="Folder" label="Photographic images">14-15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>Lovelace Marionette Theatre - The 'Cave'</unittitle>
+                            <container id="cid1468070" type="Folder" label="Photographic images">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>Lovelace Marionette Theatre - Exterior</unittitle>
+                            <container id="cid1468071" type="Folder" label="Photographic images">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>Lovelace Marionette Theatre - Interior</unittitle>
+                            <container id="cid1468072" type="Folder" label="Photographic images">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>Lovelace Marionette Theatre - The workroom</unittitle>
+                            <container id="cid1468073" type="Folder" label="Photographic images">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>'Mad' workshop for the Masses</unittitle>
+                            <container id="cid1468074" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>Mathieson, Heather</unittitle>
+                            <container id="cid1468075" type="Folder" label="Photographic images">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="file">
+                        <did>
+                            <unittitle>McMillan, W.G.</unittitle>
+                            <container id="cid1468076" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="file">
+                        <did>
+                            <unittitle>Ozanam Puppets</unittitle>
+                            <container id="cid1468077" type="Folder" label="Photographic images">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="file">
+                        <did>
+                            <unittitle>Performances - Miscellaneous</unittitle>
+                            <container id="cid1468078" type="Folder" label="Photographic images">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="file">
+                        <did>
+                            <unittitle>Performances - On tour</unittitle>
+                            <container id="cid1468079" type="Folder" label="Photographic images">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="file">
+                        <did>
+                            <unittitle>Performances - Point State Park,</unittitle>
+                            <container id="cid1468080" type="Folder" label="Photographic images">26</container>
+                            <unitdate>1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>Peter and the Wolf</unittitle>
+                            <container id="cid1468081" type="Folder" label="Photographic images">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="file">
+                        <did>
+                            <unittitle>Peter Pan</unittitle>
+                            <container id="cid1468082" type="Folder" label="Photographic images">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="file">
+                        <did>
+                            <unittitle>Pierrot</unittitle>
+                            <container id="cid1468083" type="Folder" label="Photographic images">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="file">
+                        <did>
+                            <unittitle>Puppets</unittitle>
+                            <container id="cid1468084" type="Box" label="Photographic images">14</container>
+                            <container parent="cid1468084" type="Folder">1-3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="file">
+                        <did>
+                            <unittitle>Puppets - Shadow</unittitle>
+                            <container id="cid1468085" type="Folder" label="Photographic images">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="file">
+                        <did>
+                            <unittitle>Pictures at an Exhibition - Das Puppenspiel</unittitle>
+                            <container id="cid1468086" type="Folder" label="Photographic images">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref225" level="file">
+                        <did>
+                            <unittitle>The Puppet Proposition</unittitle>
+                            <container id="cid1468087" type="Folder" label="Photographic images">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref226" level="file">
+                        <did>
+                            <unittitle>The Puppet Proposition - Penn State,</unittitle>
+                            <container id="cid1468088" type="Folder" label="Photographic images">7</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="file">
+                        <did>
+                            <unittitle>Puppet Workshop - Erie,</unittitle>
+                            <container id="cid1468089" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All That Jazz</title></unittitle>
+                            <container id="cid1468090" type="Folder" label="Photographic images">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Reluctant Dragon</title></unittitle>
+                            <container id="cid1468091" type="Folder" label="Photographic images">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="file">
+                        <did>
+                            <unittitle>Rike's Puppet Theatre</unittitle>
+                            <container id="cid1468092" type="Folder" label="Photographic images">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Rumpelstiltskin</title></unittitle>
+                            <container id="cid1468093" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="file">
+                        <did>
+                            <unittitle>Scrub Brushes</unittitle>
+                            <container id="cid1468094" type="Folder" label="Photographic images">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="file">
+                        <did>
+                            <unittitle>Smithsonian Institute - with Senator John Heinz</unittitle>
+                            <container id="cid1468095" type="Folder" label="Photographic images">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="file">
+                        <did>
+                            <unittitle>Soviet Union</unittitle>
+                            <container id="cid1468096" type="Folder" label="Photographic images">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref235" level="file">
+                        <did>
+                            <unittitle>Tales Told Round the Fire - Tzar Trajan</unittitle>
+                            <container id="cid1468097" type="Folder" label="Photographic images">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="file">
+                        <did>
+                            <unittitle>Teacher Workshop - Pittsburgh,</unittitle>
+                            <container id="cid1468098" type="Folder" label="Photographic images">17</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle>Toby</unittitle>
+                            <container id="cid1468099" type="Folder" label="Photographic images">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Trick Skeleton</title></unittitle>
+                            <container id="cid1468100" type="Folder" label="Photographic images">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Wedding on the Eiffel Tower</title></unittitle>
+                            <container id="cid1468101" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Wizard</title></unittitle>
+                            <container id="cid1468102" type="Folder" label="Photographic images">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1468103" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref162" level="subseries">
+                    <did>
+                        <unittitle>Negatives</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref242" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Aladdin</title> - School show</unittitle>
+                            <container id="cid1472034" type="Box" label="Photographic images">15</container>
+                            <container parent="cid1472034" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Alice in Wonderland</title></unittitle>
+                            <container id="cid1472001" type="Folder" label="Photographic images">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="file">
+                        <did>
+                            <unittitle>Audiences</unittitle>
+                            <container id="cid1472002" type="Folder" label="Photographic images">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Beauty and the Beast</title></unittitle>
+                            <container id="cid1472003" type="Folder" label="Photographic images">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="file">
+                        <did>
+                            <unittitle>Behind the Scenes</unittitle>
+                            <container id="cid1472004" type="Folder" label="Photographic images">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle>Bunraku</unittitle>
+                            <container id="cid1472005" type="Folder" label="Photographic images">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="file">
+                        <did>
+                            <unittitle>Drak</unittitle>
+                            <container id="cid1472006" type="Folder" label="Photographic images">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="file">
+                        <did>
+                            <unittitle>Ellsworth Avenue</unittitle>
+                            <container id="cid1472007" type="Folder" label="Photographic images">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Gov't Owned Apples</title></unittitle>
+                            <container id="cid1472008" type="Folder" label="Photographic images">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Incredible Holiday Machine</title></unittitle>
+                            <container id="cid1472009" type="Folder" label="Photographic images">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jack and the Beanstalk</title></unittitle>
+                            <container id="cid1472010" type="Folder" label="Photographic images">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Keystone Cop</title></unittitle>
+                            <container id="cid1472011" type="Folder" label="Photographic images">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Love's the Best Doctor</title></unittitle>
+                            <container id="cid1472012" type="Folder" label="Photographic images">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="file">
+                        <did>
+                            <unittitle>Lovelace Home/Workshop</unittitle>
+                            <container id="cid1472013" type="Folder" label="Photographic images">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="file">
+                        <did>
+                            <unittitle>Lovelace, Margo</unittitle>
+                            <container id="cid1472014" type="Folder" label="Photographic images">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="file">
+                        <did>
+                            <unittitle>McMillan, W. G.</unittitle>
+                            <container id="cid1472015" type="Folder" label="Photographic images">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="file">
+                        <did>
+                            <unittitle>Munich collection</unittitle>
+                            <container id="cid1472016" type="Folder" label="Photographic images">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="file">
+                        <did>
+                            <unittitle>Performances</unittitle>
+                            <container id="cid1472017" type="Folder" label="Photographic images">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="file">
+                        <did>
+                            <unittitle>Performances - Three Rivers Arts Festival,</unittitle>
+                            <container id="cid1472018" type="Folder" label="Photographic images">19</container>
+                            <unitdate>1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pierrot</title></unittitle>
+                            <container id="cid1472019" type="Folder" label="Photographic images">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="file">
+                        <did>
+                            <unittitle>The Puppet Proposition</unittitle>
+                            <container id="cid1472020" type="Folder" label="Photographic images">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="file">
+                        <did>
+                            <unittitle>Puppets</unittitle>
+                            <container id="cid1472021" type="Folder" label="Photographic images">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="file">
+                        <did>
+                            <unittitle>Das Puppenspiel - A Christmas Carol</unittitle>
+                            <container id="cid1472022" type="Folder" label="Photographic images">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All that Jazz</title> - Mime</unittitle>
+                            <container id="cid1472023" type="Folder" label="Photographic images">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All that Jazz</title> - Mime</unittitle>
+                            <container id="cid1472024" type="Folder" label="Photographic images">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All That Jazz</title> - Scrub Brush</unittitle>
+                            <container id="cid1472025" type="Folder" label="Photographic images">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All That Jazz</title> - Tap Dancer</unittitle>
+                            <container id="cid1472026" type="Folder" label="Photographic images">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All That Jazz</title> - 'Lollipop' (also Keystone Cop)</unittitle>
+                            <container id="cid1472027" type="Folder" label="Photographic images">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="file">
+                        <did>
+                            <unittitle>Puppet Proposition</unittitle>
+                            <container id="cid1472028" type="Folder" label="Photographic images">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Tales Told Round The Fire</title> - Tzar Trajan</unittitle>
+                            <container id="cid1472029" type="Folder" label="Photographic images">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Tales Told Round The Fire</title> - Little Scar Face</unittitle>
+                            <container id="cid1472030" type="Folder" label="Photographic images">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="file">
+                        <did>
+                            <unittitle>Toby</unittitle>
+                            <container id="cid1472031" type="Folder" label="Photographic images">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="file">
+                        <did>
+                            <unittitle>Visser, David</unittitle>
+                            <container id="cid1472032" type="Folder" label="Photographic images">33</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1472033" type="Folder" label="Photographic images">34</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref163" level="subseries">
+                    <did>
+                        <unittitle>Slides</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref276" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Beauty and the Beast</title></unittitle>
+                            <container id="cid1472035" type="Folder" label="Photographic images">35</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Carnival in Rio</unittitle>
+                            <container id="cid1472036" type="Folder" label="Photographic images">36</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Emporer's New Clothes</title></unittitle>
+                            <container id="cid1472037" type="Folder" label="Photographic images">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jack and the Beanstalk</title> - David Visser's Hawaii production</unittitle>
+                            <container id="cid1472038" type="Folder" label="Photographic images">38</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Punch and Judy</title> - Hartwood Acres,</unittitle>
+                            <container id="cid1472039" type="Folder" label="Photographic images">39</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="file">
+                        <did>
+                            <unittitle>Scenery - Miscelaneous</unittitle>
+                            <container id="cid1472040" type="Folder" label="Photographic images">40</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>U.S.S.R.,</unittitle>
+                            <container id="cid1472041" type="Folder" label="Photographic images">41</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1472042" type="Folder" label="Photographic images">42</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref164" level="subseries">
+                    <did>
+                        <unittitle>Artwork</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>Betsinda</unittitle>
+                            <container id="cid1472066" type="Box" label="Graphic materials">16</container>
+                            <container parent="cid1472066" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="file">
+                        <did>
+                            <unittitle>Bicentennial Show Costume Plates</unittitle>
+                            <container id="cid1472043" type="Folder" label="Graphic materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="file">
+                        <did>
+                            <unittitle>Children</unittitle>
+                            <container id="cid1472044" type="Folder" label="Graphic materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="file">
+                        <did>
+                            <unittitle>Clowns</unittitle>
+                            <container id="cid1472045" type="Folder" label="Graphic materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>Commedia della Arte</unittitle>
+                            <container id="cid1472046" type="Folder" label="Graphic materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="file">
+                        <did>
+                            <unittitle>Costuming notes</unittitle>
+                            <container id="cid1472047" type="Folder" label="Graphic materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="file">
+                        <did>
+                            <unittitle>Dancers</unittitle>
+                            <container id="cid1472048" type="Folder" label="Graphic materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="file">
+                        <did>
+                            <unittitle>Fairy Blackstick</unittitle>
+                            <container id="cid1472049" type="Folder" label="Graphic materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="file">
+                        <did>
+                            <unittitle>House</unittitle>
+                            <container id="cid1472050" type="Folder" label="Graphic materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="file">
+                        <did>
+                            <unittitle>How puppets pick up - Chinese</unittitle>
+                            <container id="cid1472051" type="Folder" label="Graphic materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="file">
+                        <did>
+                            <unittitle>King Julio</unittitle>
+                            <container id="cid1472052" type="Folder" label="Graphic materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="file">
+                        <did>
+                            <unittitle>Man with Beret</unittitle>
+                            <container id="cid1472053" type="Folder" label="Graphic materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="file">
+                        <did>
+                            <unittitle>Molly - 
+                                <title render="italic">Days of the Great Buffalo</title></unittitle>
+                            <container id="cid1472054" type="Folder" label="Graphic materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="file">
+                        <did>
+                            <unittitle>More of 
+                                <title render="italic">Winnie the Pooh</title></unittitle>
+                            <container id="cid1472055" type="Folder" label="Graphic materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="file">
+                        <did>
+                            <unittitle>Mrs. Gruffanuff</unittitle>
+                            <container id="cid1472056" type="Folder" label="Graphic materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="file">
+                        <did>
+                            <unittitle>Naropa</unittitle>
+                            <container id="cid1472057" type="Folder" label="Graphic materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="file">
+                        <did>
+                            <unittitle>Noh Masks</unittitle>
+                            <container id="cid1472058" type="Folder" label="Graphic materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="file">
+                        <did>
+                            <unittitle>Notebook</unittitle>
+                            <container id="cid1472059" type="Folder" label="Graphic materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="file">
+                        <did>
+                            <unittitle>Pinoccio, Fox, and Fish</unittitle>
+                            <container id="cid1472060" type="Folder" label="Graphic materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="file">
+                        <did>
+                            <unittitle>Prince Bulbo</unittitle>
+                            <container id="cid1472061" type="Folder" label="Graphic materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="file">
+                        <did>
+                            <unittitle>Puppets - Miscellaneous</unittitle>
+                            <container id="cid1472062" type="Folder" label="Graphic materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="file">
+                        <did>
+                            <unittitle>Sets - Miscellaneous</unittitle>
+                            <container id="cid1472063" type="Folder" label="Graphic materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Rumpelstiltskin</title></unittitle>
+                            <container id="cid1472064" type="Folder" label="Graphic materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Wedding on the Eiffel Tower</title></unittitle>
+                            <container id="cid1472065" type="Folder" label="Graphic materials">24</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Video Recordings,</unittitle>
+                    <unitid>VII.</unitid>
+                    <unitdate>1956-1970</unitdate>
+                </did>
+                <scopecontent id="ref380">
+                    <head>Scope and Content Notes</head>
+                    <p>The video recordings in this series are in alphabetical order by title of producition. There are three subseries - 16 MM, 8 MM, and videotape. The videotape cassettes in this series are Umatic format, which can be viewed on the ground floor of the Hillman Library.</p>
+                </scopecontent>
+                <c02 id="ref368" level="subseries">
+                    <did>
+                        <unittitle>16mm</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref357" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Little Prince</title> - Outdoor performance</unittitle>
+                            <container id="cid1475002" type="Reel" label="Moving Images">1</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="The Little Prince - Outdoor performance" ns2:href="31735061842559">
+                            <daodesc>
+                                <p>The Little Prince - Outdoor performance</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref358" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Princess Snowflake and Her Friends</title> - American Inventory,</unittitle>
+                            <container id="cid1475003" type="Reel" label="Moving Images">2</container>
+                            <unitdate>1956</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Princess Snowflake and Her Friends - American Inventory," ns2:href="31735061842591">
+                            <daodesc>
+                                <p>Princess Snowflake and Her Friends - American Inventory,, 1956 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref356" level="file">
+                        <did>
+                            <unittitle>Promotional Film - Miscelaneous footage of performances, etc.</unittitle>
+                            <container id="cid1475001" type="Box" label="Moving Images">21</container>
+                            <container parent="cid1475001" type="Reel">3-5</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Promotional Film - Miscelaneous footage of performances, etc." ns2:href="31735061842914">
+                            <daodesc>
+                                <p>Promotional Film - Miscelaneous footage of performances, etc.</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref359" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Puss in Boots</title></unittitle>
+                            <container id="cid1475004" type="Reel" label="Moving Images">6</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Puss in Boots" ns2:href="31735061843037">
+                            <daodesc>
+                                <p>Puss in Boots</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref360" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Space Place</title></unittitle>
+                            <container id="cid1475005" type="Reel" label="Moving Images">7-8</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Space Place" ns2:href="31735061842997">
+                            <daodesc>
+                                <p>Space Place</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref361" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Three Billy Goats Gruff</title></unittitle>
+                            <container id="cid1475006" type="Reel" label="Moving Images">9</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Three Billy Goats Gruff" ns2:href="31735061842955">
+                            <daodesc>
+                                <p>Three Billy Goats Gruff</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref388" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Three Billy Goats Gruff</title> - School</unittitle>
+                            <container id="cid2927002" type="Reel" label="Moving Images">10-12</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Three Billy Goats Gruff" ns2:href="31735061842641">
+                            <daodesc>
+                                <p>Three Billy Goats Gruff</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref369" level="subseries">
+                    <did>
+                        <unittitle>8mm</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref362" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Balyashnikov</title> - Pittsburgh Public Theatre</unittitle>
+                            <container id="cid1475007" type="Reel" label="Moving Images">13</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Balyashnikov - Pittsburgh Public Theatre" ns2:href="31735061842872">
+                            <daodesc>
+                                <p>Balyashnikov - Pittsburgh Public Theatre</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref363" level="file">
+                        <did>
+                            <unittitle>Bicenntennial Show - Frick Park</unittitle>
+                            <container id="cid1475008" type="Reel" label="Moving Images">14-17</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Bicenntennial Show - Frick Park" ns2:href="31735061842831">
+                            <daodesc>
+                                <p>Bicenntennial Show - Frick Park</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref364" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jack and the Beanstalk</title> - Carnegie Museum of Art</unittitle>
+                            <container id="cid1475009" type="Reel" label="Moving Images">18</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Jack and the Beanstalk - Carnegie Museum of Art" ns2:href="31735061842799">
+                            <daodesc>
+                                <p>Jack and the Beanstalk - Carnegie Museum of Art</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref365" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ragtime and All That Jazz </title>- Extra footage</unittitle>
+                            <container id="cid1475010" type="Reel" label="Moving Images">19-24</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ragtime and All That Jazz - Extra footage" ns2:href="31735061842757">
+                            <daodesc>
+                                <p>Ragtime and All That Jazz - Extra footage</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref366" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Tales Told Round the Fire</title></unittitle>
+                            <container id="cid1475011" type="Reel" label="Moving Images">25-26</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tales Told Round the Fire" ns2:href="31735061842716">
+                            <daodesc>
+                                <p>Tales Told Round the Fire</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref367" level="file">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <container id="cid1475012" type="Reel" label="Moving Images">27</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Unidentified" ns2:href="31735061842674">
+                            <daodesc>
+                                <p>Unidentified</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref370" level="subseries">
+                    <did>
+                        <unittitle>Videotape</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref371" level="file">
+                        <did>
+                            <unittitle>Christopher Columbus,</unittitle>
+                            <container id="cid1475013" type="Reel" label="Moving Images">1</container>
+                            <unitdate>May 6, 1969</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Christopher Columbus," ns2:href="31735061842633">
+                            <daodesc>
+                                <p>Christopher Columbus,, May 1969 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref387" level="file">
+                        <did>
+                            <unittitle>Christopher Columbus,</unittitle>
+                            <container id="cid2925001" type="Reel" label="Moving Images">2</container>
+                            <unitdate>May 9, 1969</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Christopher Columbus," ns2:href="31735061842609">
+                            <daodesc>
+                                <p>Christopher Columbus,, May 9, 1969 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref372" level="file">
+                        <did>
+                            <unittitle>Lovelace Marionettes,</unittitle>
+                            <container id="cid1475014" type="Reel" label="Moving Images">3</container>
+                            <unitdate>May 1, 1970</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Lovelace Marionettes," ns2:href="31735061842567">
+                            <daodesc>
+                                <p>Lovelace Marionettes,, May 1, 1970 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref373" level="file">
+                        <did>
+                            <unittitle>Unidentified - Two-inch videotape</unittitle>
+                            <container id="cid1475015" type="Reel" label="Moving Images">4</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Unidentified - Two-inch videotape
+" ns2:href="31735061842518">
+                            <daodesc>
+                                <p>Unidentified - Two-inch videotape
+</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref374" level="file">
+                        <did>
+                            <unittitle>Children's Public Service Announcements</unittitle>
+                            <container id="cid1475016" type="Cassette" label="Moving Images">1</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Children's Public Service Announcements" ns2:href="31735061842476">
+                            <daodesc>
+                                <p>Children's Public Service Announcements</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref375" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Days of the Great Buffalo</title> - Commercial,</unittitle>
+                            <container id="cid1475017" type="Cassette" label="Moving Images">2</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Lovelace Marionette advertisement" ns2:href="31735061842484">
+                            <daodesc>
+                                <p>Lovelace Marionette advertisement</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref376" level="file">
+                        <did>
+                            <unittitle>Magic of The Lovelace Theatre</unittitle>
+                            <container id="cid1475018" type="Cassette" label="Moving Images">3</container>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Magic of The Lovelace Theatre" ns2:href="31735061842526">
+                            <daodesc>
+                                <p>Magic of The Lovelace Theatre</p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio Recordings,</unittitle>
+                    <unitid>VI.</unitid>
+                    <unitdate>1967-1972</unitdate>
+                </did>
+                <scopecontent id="ref379">
+                    <head>Scope and Content Notes</head>
+                    <p>The audio recordings in this series are in alphabetical order by title of production. All the materials in this series are reel to reel audio tape, with the exception of the last item - an interivew with Margo Lovelace. This interview is on audio cassettes.</p>
+                </scopecontent>
+                <c02 id="ref308" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Alice in Blunderland</title></unittitle>
+                        <container id="cid1472067" type="Box" label="Audio">17</container>
+                        <container parent="cid1472067" type="Reel">1</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Alice in Blunderland" ns2:href="31735061817205">
+                        <daodesc>
+                            <p>Alice in Blunderland</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref309" level="file">
+                    <did>
+                        <unittitle>Apollo of Bellac</unittitle>
+                        <container id="cid1472068" type="Reel" label="Audio">2</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Apollo of Bellac" ns2:href="31735061817247">
+                        <daodesc>
+                            <p>Apollo of Bellac</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref310" level="file">
+                    <did>
+                        <unittitle>Apollo of Bellac - Live performance,</unittitle>
+                        <container id="cid1472069" type="Reel" label="Audio">3</container>
+                        <unitdate>May 12, 1972</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Apollo of Bellac - Live performance," ns2:href="31735061817197">
+                        <daodesc>
+                            <p>Apollo of Bellac - Live performance,, May 12, 1972 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref311" level="file">
+                    <did>
+                        <unittitle>Beauty and the Beast,</unittitle>
+                        <container id="cid1472070" type="Reel" label="Audio">4</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Beauty and the Beast," ns2:href="31735061817239">
+                        <daodesc>
+                            <p>Beauty and the Beast,, 1971 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref312" level="file">
+                    <did>
+                        <unittitle>Before Divertisement</unittitle>
+                        <container id="cid1472071" type="Reel" label="Audio">5</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Before Divertisement" ns2:href="31735061842450">
+                        <daodesc>
+                            <p>Before Divertisement</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref313" level="file">
+                    <did>
+                        <unittitle>Brave Little Tailor,</unittitle>
+                        <container id="cid1472072" type="Reel" label="Audio">6</container>
+                        <unitdate>January 5, 1972</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Brave Little Tailor," ns2:href="31735061842492">
+                        <daodesc>
+                            <p>Brave Little Tailor,, January 5, 1972 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref314" level="file">
+                    <did>
+                        <unittitle>Bremen</unittitle>
+                        <container id="cid1472073" type="Reel" label="Audio">7</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Bremen" ns2:href="31735061842534">
+                        <daodesc>
+                            <p>Bremen</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref315" level="file">
+                    <did>
+                        <unittitle>Christopher Columbus?</unittitle>
+                        <container id="cid1472074" type="Reel" label="Audio">8</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Christopher Columbus?" ns2:href="31735061842575">
+                        <daodesc>
+                            <p>Christopher Columbus?</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref316" level="file">
+                    <did>
+                        <unittitle>Emperor's New Clothes - Lazarus,</unittitle>
+                        <container id="cid1472075" type="Reel" label="Audio">9</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Emperor's New Clothes - Lazarus," ns2:href="31735061842617">
+                        <daodesc>
+                            <p>Emperor's New Clothes - Lazarus,, 1971 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref317" level="file">
+                    <did>
+                        <unittitle>Emperor's New Clothes,</unittitle>
+                        <container id="cid1472076" type="Reel" label="Audio">10</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Emperor's New Clothes," ns2:href="31735061842658">
+                        <daodesc>
+                            <p>Emperor's New Clothes,, 1971 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref318" level="file">
+                    <did>
+                        <unittitle>Fanto - College tour</unittitle>
+                        <container id="cid1472077" type="Reel" label="Audio">11</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Fanto - College tour" ns2:href="31735061842690">
+                        <daodesc>
+                            <p>Fanto - College tour</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref319" level="file">
+                    <did>
+                        <unittitle>Hansel and Gretel music</unittitle>
+                        <container id="cid1472078" type="Reel" label="Audio">12</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Hansel and Gretel music" ns2:href="31735061842732">
+                        <daodesc>
+                            <p>Hansel and Gretel music</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref320" level="file">
+                    <did>
+                        <unittitle>Hansel and Gretel,</unittitle>
+                        <container id="cid1472079" type="Reel" label="Audio">13-14</container>
+                        <unitdate>1967-1968</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Hansel and Gretel," ns2:href="31735061842773">
+                        <daodesc>
+                            <p>Hansel and Gretel,, 1967-1968 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref321" level="file">
+                    <did>
+                        <unittitle>Jack and the Beanstalk - Theatre version</unittitle>
+                        <container id="cid1472080" type="Reel" label="Audio">15</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Jack and the Beanstalk - Theatre version" ns2:href="31735061842856">
+                        <daodesc>
+                            <p>Jack and the Beanstalk - Theatre version</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref322" level="file">
+                    <did>
+                        <unittitle>Jack and the Beanstalk - Lazarus,</unittitle>
+                        <container id="cid1472081" type="Reel" label="Audio">16</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Jack and the Beanstalk - Lazarus," ns2:href="31735061842898">
+                        <daodesc>
+                            <p>Jack and the Beanstalk - Lazarus,, 1969 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref323" level="file">
+                    <did>
+                        <unittitle>Love's the Best Doctor</unittitle>
+                        <container id="cid1472082" type="Reel" label="Audio">17</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Love's the Best Doctor" ns2:href="31735061842930">
+                        <daodesc>
+                            <p>Love's the Best Doctor</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref324" level="file">
+                    <did>
+                        <unittitle>Mask, Mime, and Marionette</unittitle>
+                        <container id="cid1472083" type="Reel" label="Audio">18</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Mask, Mime, and Marionette" ns2:href="31735061842971">
+                        <daodesc>
+                            <p>Mask, Mime, and Marionette</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref325" level="file">
+                    <did>
+                        <unittitle>Peter Pan</unittitle>
+                        <container id="cid1472084" type="Reel" label="Audio">19</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Peter Pan" ns2:href="31735061843011">
+                        <daodesc>
+                            <p>Peter Pan</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref326" level="file">
+                    <did>
+                        <unittitle>Peter Pan - Lazarus,</unittitle>
+                        <container id="cid1472085" type="Reel" label="Audio">20</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Peter Pan - Lazarus," ns2:href="31735061843052">
+                        <daodesc>
+                            <p>Peter Pan - Lazarus,, 1969 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref327" level="file">
+                    <did>
+                        <unittitle>Pinoccio,</unittitle>
+                        <container id="cid1472086" type="Reel" label="Audio">21</container>
+                        <unitdate>1968</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pinoccio," ns2:href="31735061842468">
+                        <daodesc>
+                            <p>Pinoccio,, 1969 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref328" level="file">
+                    <did>
+                        <unittitle>Pinoccio - Gimbel's,</unittitle>
+                        <container id="cid1472087" type="Reel" label="Audio">22</container>
+                        <unitdate>1968</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pinoccio - Gimbel's," ns2:href="31735061842500">
+                        <daodesc>
+                            <p>Pinoccio - Gimbel's,, 1968 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref329" level="file">
+                    <did>
+                        <unittitle>Pooh</unittitle>
+                        <container id="cid1472088" type="Reel" label="Audio">23</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pooh" ns2:href="31735061842542">
+                        <daodesc>
+                            <p>Pooh</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref330" level="file">
+                    <did>
+                        <unittitle>Pooh,</unittitle>
+                        <container id="cid1472089" type="Reel" label="Audio">24</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pooh," ns2:href="31735061842583">
+                        <daodesc>
+                            <p>Pooh,, 1972 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref331" level="file">
+                    <did>
+                        <unittitle>Pooh - School show</unittitle>
+                        <container id="cid1472090" type="Reel" label="Audio">25</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pooh - School show" ns2:href="31735061842625">
+                        <daodesc>
+                            <p>Pooh - School show</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref332" level="file">
+                    <did>
+                        <unittitle>Princess and the Pea - Theatre version</unittitle>
+                        <container id="cid1472091" type="Reel" label="Audio">26</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Princess and the Pea - Theatre version" ns2:href="31735061842666">
+                        <daodesc>
+                            <p>Princess and the Pea - Theatre version</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref333" level="file">
+                    <did>
+                        <unittitle>Princess and the Pea</unittitle>
+                        <container id="cid1472092" type="Reel" label="Audio">27</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Princess and the Pea" ns2:href="31735061842708">
+                        <daodesc>
+                            <p>Princess and the Pea</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref334" level="file">
+                    <did>
+                        <unittitle>Princess and the Pea - School show</unittitle>
+                        <container id="cid1472093" type="Reel" label="Audio">28</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Princess and the Pea - School show" ns2:href="31735061842740">
+                        <daodesc>
+                            <p>Princess and the Pea - School show</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref335" level="file">
+                    <did>
+                        <unittitle>Punchinello's Past</unittitle>
+                        <container id="cid1472094" type="Reel" label="Audio">29</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Punchinello's Past" ns2:href="31735061842781">
+                        <daodesc>
+                            <p>Punchinello's Past</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref336" level="file">
+                    <did>
+                        <unittitle>Puppet Proposition</unittitle>
+                        <container id="cid1472095" type="Reel" label="Audio">30</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Puppet Proposition" ns2:href="31735061842823">
+                        <daodesc>
+                            <p>Puppet Proposition</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref337" level="file">
+                    <did>
+                        <unittitle>Puss in Boots</unittitle>
+                        <container id="cid1472096" type="Reel" label="Audio">31-32</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Puss in Boots
+" ns2:href="31735061842864">
+                        <daodesc>
+                            <p>Puss in Boots
+</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref338" level="file">
+                    <did>
+                        <unittitle>Puss in Boots,</unittitle>
+                        <container id="cid1472097" type="Box" label="Audio">18</container>
+                        <container parent="cid1472097" type="Reel">33</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Puss in Boots," ns2:href="31735061842906">
+                        <daodesc>
+                            <p>Puss in Boots,, 1971 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref339" level="file">
+                    <did>
+                        <unittitle>Rapunzel</unittitle>
+                        <container id="cid1472098" type="Reel" label="Audio">34</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Rapunzel" ns2:href="31735061816926">
+                        <daodesc>
+                            <p>Rapunzel</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref340" level="file">
+                    <did>
+                        <unittitle>Red Ridinghood - Lazarus,</unittitle>
+                        <container id="cid1472099" type="Reel" label="Audio">35</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Red Ridinghood - Lazarus," ns2:href="31735061816918">
+                        <daodesc>
+                            <p>Red Ridinghood - Lazarus,, 1972 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref341" level="file">
+                    <did>
+                        <unittitle>Reluctant Dragon</unittitle>
+                        <container id="cid1472100" type="Reel" label="Audio">36</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Reluctant Dragon" ns2:href="31735061816959">
+                        <daodesc>
+                            <p>Reluctant Dragon</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref342" level="file">
+                    <did>
+                        <unittitle>Rumpelstiltskin</unittitle>
+                        <container id="cid1472101" type="Reel" label="Audio">37</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Rumpelstiltskin" ns2:href="31735061816967">
+                        <daodesc>
+                            <p>Rumpelstiltskin</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref343" level="file">
+                    <did>
+                        <unittitle>Russian Dances</unittitle>
+                        <container id="cid1472102" type="Reel" label="Audio">38</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Russian Dances" ns2:href="31735061817049">
+                        <daodesc>
+                            <p>Russian Dances</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref344" level="file">
+                    <did>
+                        <unittitle>Sleeping Beauty - Theatre version</unittitle>
+                        <container id="cid1472103" type="Reel" label="Audio">39</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Sleeping Beauty - Theatre version" ns2:href="31735061817007">
+                        <daodesc>
+                            <p>Sleeping Beauty - Theatre version</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref345" level="file">
+                    <did>
+                        <unittitle>Three Billy Goats Gruff</unittitle>
+                        <container id="cid1472104" type="Reel" label="Audio">40-41</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Three Billy Goats Gruff" ns2:href="31735061816991">
+                        <daodesc>
+                            <p>Three Billy Goats Gruff</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref346" level="file">
+                    <did>
+                        <unittitle>Three Wishes</unittitle>
+                        <container id="cid1472105" type="Reel" label="Audio">42</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Three Wishes" ns2:href="31735061817080">
+                        <daodesc>
+                            <p>Three Wishes</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref347" level="file">
+                    <did>
+                        <unittitle>Three Wishes - Rike's,</unittitle>
+                        <container id="cid1472106" type="Reel" label="Audio">43</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Three Wishes - Rike's," ns2:href="31735061817072">
+                        <daodesc>
+                            <p>Three Wishes - Rike's,, 1969 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref348" level="file">
+                    <did>
+                        <unittitle>T.A.P. Conference</unittitle>
+                        <container id="cid1472107" type="Reel" label="Audio">44</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="T.A.P. Conference" ns2:href="31735061817122">
+                        <daodesc>
+                            <p>T.A.P. Conference</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref349" level="file">
+                    <did>
+                        <unittitle>Tom and Huck</unittitle>
+                        <container id="cid1472108" type="Reel" label="Audio">45</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tom and Huck" ns2:href="31735061817114">
+                        <daodesc>
+                            <p>Tom and Huck</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref350" level="file">
+                    <did>
+                        <unittitle>Variety Show Music</unittitle>
+                        <container id="cid1472109" type="Reel" label="Audio">46</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Variety Show Music" ns2:href="31735061817163">
+                        <daodesc>
+                            <p>Variety Show Music</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref351" level="file">
+                    <did>
+                        <unittitle>The Toymaker</unittitle>
+                        <container id="cid1472110" type="Reel" label="Audio">47</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="The Toymaker" ns2:href="31735061817155">
+                        <daodesc>
+                            <p>The Toymaker</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref352" level="file">
+                    <did>
+                        <unittitle>Wedding on the Eiffel Tower</unittitle>
+                        <container id="cid1472111" type="Box" label="Audio">19</container>
+                        <container parent="cid1472111" type="Reel">48</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Wedding on the Eiffel Tower" ns2:href="31735061842989">
+                        <daodesc>
+                            <p>Wedding on the Eiffel Tower</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref353" level="file">
+                    <did>
+                        <unittitle>Wizard of Oz</unittitle>
+                        <container id="cid1472112" type="Reel" label="Audio">49</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Wizard of Oz
+" ns2:href="31735061843029">
+                        <daodesc>
+                            <p>Wizard of Oz
+</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref354" level="file">
+                    <did>
+                        <unittitle>Unidentified</unittitle>
+                        <container id="cid1472113" type="Reel" label="Audio">50-53</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Unidentified" ns2:href="31735061843060">
+                        <daodesc>
+                            <p>Unidentified</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref355" level="file">
+                    <did>
+                        <unittitle>Interview with Margo Lovelace</unittitle>
+                        <container id="cid1472114" type="Box" label="Audio">20</container>
+                        <container parent="cid1472114" type="Cassette">1-8</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interview with Margo Lovelace" ns2:href="31735061843078">
+                        <daodesc>
+                            <p>Interview with Margo Lovelace</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

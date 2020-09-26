@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Abe Laufe papers, 1937-1980</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Laufe papers, 1937-1980</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Papers of Abe Laufe, 1937-1980</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Laufe, Abe.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Laufe, Abe.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Laufe, Abe.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Laufe, Abe.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Laufe, Abe.</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Scrapbooks.</genre>
+  <genre authority="aat">Manuscripts (Document genre).</genre>
+  <genre authority="aat">Notes.</genre>
+  <genre authority="aat">Photographs.</genre>
+  <genre authority="aat">Publications.</genre>
+  <genre authority="aat">Memorabilia.</genre>
+  <genre authority="aat">Personal papers.</genre>
+  <genre authority="aat">Records (Documents).</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <dateOther>1937-1980.</dateOther>
+    <dateIssued encoding="marc" point="start">1937</dateIssued>
+    <dateIssued encoding="marc" point="end">1980</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft. boxes).">3.0 (8</extent>
+    <note type="arrangement">Organized into 5 series: I. Photographs; II. Scrapbooks; III. Miscellaneous Memorabilia; IV. Publications and Manuscripts; V. Lecture Notes.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">The Abe Laufe Papers pertain chiefly to English Professor Laufe's long career as a popular lecturer and author on musical and American theater. These papers document his interest in American popular music, Hollywood music, and Broadway musicals as well as his scholarly contributions. Included are five scrapbooks, additional memorabilia, manuscripts and publications (8 titles), and miscellaneous notes compiled by Dr. Laufe for his lectures. Publications include his own copy of the History of the School of Special Services, U.S. Army  1945, and  Easy Swing Time Novelties, 1945. Manuscripts include various drafts of two published works, Broadway's Greatest Musicals and The Wicked Stage, as well as four unpublished works.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Abe Laufe Papers, 1937-1980, CTC.1983.01, Curtis Theater Collection, Special Collections Department, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Abe Laufe between 1969-1983. Additional items added by Hannah E. Bechtel in 1984.</note>
+  <note type="biographical/historical">Dr. Abe Laufe was born on May 25, 1906 in Pittsburgh, Pennsylvania, and was educated at the University of Pittsburgh, earning a B.A. in 1928, an M.A. in 1935, and a Ph.D. in 1952. He was active as a public school educator in the Arnold, Pennsylvania, Public School System between 1928 and 1942. In 1942, he joined the United States Army, Special Services, and served with distinction until the end of the war in 1945. He was awarded the Legion of Merit in 1946. After the war he moved to New York City and worked as an editor between 1945 and 1947 and then returned to the University of Pittsburgh. Between 1947 and 1952, he served as a lecturer and then an instructor. In 1953 he was promoted to an Assistant Professor, Associate Professor in 1956, and eventually a full Professor in 1967, serving in that capacity until 1972. Dr. Laufe became a lecturer and radio speaker on theatre, musical comedy, and Hollywood music and continued in that capacity for many years. He was known as Pittsburgh's Victor Borge and authored numerous scholarly books and articles. Dr. Laufe died in Pittsburgh on February 9, 1984 after a long illness.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198301">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198301</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Laufe, Abe</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>College teachers</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Performing arts</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>Intellectual life</topic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>History of the School of Special Services</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Laufe, Abe.</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Easy swing time novelties</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Laufe, Abe.</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Broadway's greatest musicals</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Laufe, Abe.</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wicked stage</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Laufe, Abe.</namePart>
+    </name>
+  </relatedItem>
+  <identifier type="oclc">ocm31043631</identifier>
+  <identifier type="oclc">31043631</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc198301</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940901</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131821.0</recordChangeDate>
+    <recordIdentifier>1468147</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc198301</identifier></mods>

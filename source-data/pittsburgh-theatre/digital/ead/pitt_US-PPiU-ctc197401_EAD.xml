@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197401</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Pittsburgh Savoyards Records, 1939-1974
+                    <num>CTC.1974.01</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>May 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pittsburgh Savoyards Records</unittitle>
+            <unitid>CTC.1974.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 linear feet</extent>
+            </physdesc>
+            <unitdate>1939-1975</unitdate>
+            <abstract id="ref116" label="Abstract">The Pittsburgh Savoyards Records document a theatre company that began in 1938 and have continually performed Gilbert &amp; Sullivan comic operas since that year. The materials in this collection include programs, photos, scrapbooks, clippings, and newsletters.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Pittsburgh Savoyards.</corpname>
+            </origination>
+        </did>
+        <userestrict id="ref88">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <accessrestrict id="ref89">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref99">
+            <head>Acquisition Information</head>
+            <p>Gift of the Pittsburgh Savoyards in 1974.</p>
+        </acqinfo>
+        <arrangement id="ref102">
+            <head>Arrangement</head>
+            <p>The collection is arranged in the following seven series:</p>
+            <p>Series I. Constitution</p>
+            <p>Series II. Correspondence</p>
+            <p>Series III. Programs</p>
+            <p>Series IV. Publicity and Newspaper Clippings</p>
+            <p>Series V. Photographs</p>
+            <p>Series VI. Scrapbooks and Ephemera</p>
+            <p>Series VII. Oversize Materials</p>
+        </arrangement>
+        <scopecontent id="ref103">
+            <head>Scope and Content Notes</head>
+            <p>The Pittsburgh Savoyards Records are incomplete, and for the most part, constitute memorabilia. Programs and photographs (1939-1974) are the most extensive for the 1940’s and 1950’s. Eight scrapbooks, containing chiefly newspaper clippings, some programs, issues of the company newsletter, and miscellany, cover between 1939-1951 and 1964-1980 in great detail; additional clippings cover between 1946-1962. A small amount of correspondence is chiefly personal. Other items of note include the organization’s constitution (probable date of 1973), new releases, and five libretti. A few items from the Curtis Collection's Pittsburgh vertical files were integrated with the Savoyards Records.</p>
+        </scopecontent>
+        <prefercite id="ref110">
+            <head>Preferred Citation</head>
+            <p>Pittsburgh Savoyards Records, 1939-1975, CTC.1974.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <bioghist id="ref112">
+            <head>History</head>
+            <p>Established in 1938, the Pittsburgh Savoyards is the fourth oldest Gilbert and Sullivan Company in the United States. Its origins are described in a tenth anniversary program: “In the fall of 1938 the adult choirs of Calvary Episcopal Church and their friends began rehearsal of Gilbert and Sullivan’s ‘Pirates of Penzance’ as a choir camp benefit. Directors were George M. Rowland, Jr. and the late Dr. Harvey Gaul, then organist and choirmaster of Calvary Church. In May 1939 after a successful two-night run of ‘The Pirates’ company. The group’s purpose was to produce Gilbert and Sullivan and other light operas on a non-profit basis for the enjoyment and education of the membership.”</p>
+            <p>Since 1938-1939, the Pittsburgh Savoyards has presented several Gilbert and Sullivan operas each season, performing in various local theatres and auditoriums. Other works presented infrequently are 
+                <title render="italic">The Devil and Daniel Webster</title>, 
+                <title render="italic">Die Fledermaus</title>, and 
+                <title render="italic">Amahl and the Night Visitors</title>. The Savoyards have also sung occasionally at concerts and as an opera chorus.</p>
+            <p>Burt Mustin, a native Pittsburgher who was later to achieve fame as an actor in national television situation comedies, was active in the organization in the 1940’s, singing such roles as the Judge in 
+                <title render="italic">Trial by Jury</title>, Poo-Bah in 
+                <title render="italic">The Mikado</title>, and Sir Joseph Porter in 
+                <title render="italic">H.M.S. Pinafore</title>.</p>
+        </bioghist>
+        <odd id="ref109">
+            <head>Previous Citation</head>
+            <p>Pittsburgh Savoyards Records, 1939-1975, CTC.1974.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Pittsburgh Savoyards Records, 1939-1975, CTC.08, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <processinfo id="ref114">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jean Blanco in 1974.</p>
+        </processinfo>
+        <controlaccess>
+            <persname source="naf">Gilbert, W. S. (William Schwenck), 1836-1911</persname>
+            <corpname rules="aacr" source="local">Pittsburgh Savoyards.</corpname>
+            <persname source="naf">Sullivan, Arthur, 1842-1900</persname>
+            <subject source="lcsh">Choruses</subject>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <genreform source="aat">Constitutions</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Musical theater -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Newsletters</genreform>
+            <subject source="lcsh">Operetta -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Press releases</genreform>
+            <genreform source="aat">Scrapbooks</genreform>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Theater programs</genreform>
+            <subject source="lcsh">Theatrical companies -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Constitution</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref117">
+                    <head>Scope and Content Notes</head>
+                    <p>This series is comprised of one folder that contains the constitution and by-laws of the Pittsburgh Savoyards, Incorporated. The document is seven pages long and is undated; a note on the last page that states that "this printing of the Constitution and By-Laws incorporates the Amendments approved by the general membership at the Annual Meeting of May 29, 1973."</p>
+                </scopecontent>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Constitution of the Pittsburgh Savoyards Inc.</unittitle>
+                        <container id="cid1438002" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid1438002" type="Folder">1</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1945-1972</unitdate>
+                </did>
+                <scopecontent id="ref104">
+                    <head>Scope and Content Notes</head>
+                    <p>In this series are two folders of letters from Savoyards and their friends who served in World War II. There is also a folder of miscellaneous correspondence, chiefly thank you notes.</p>
+                </scopecontent>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>World War II service letters,</unittitle>
+                        <container id="cid1438001" type="Folder" label="Mixed materials">2-3</container>
+                        <unitdate>1942-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Miscellaneous correspondence,</unittitle>
+                        <container id="cid1438003" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1945-1972</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref3" level="series">
+                <did>
+                    <unittitle>Programs,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1940-1974</unitdate>
+                </did>
+                <scopecontent id="ref105">
+                    <head>Scope and Content Notes</head>
+                    <p>The programs in this series are filed in chronological order with some gaps. A few of the missing programs can be found in the scrapbooks.</p>
+                </scopecontent>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Programs,</unittitle>
+                        <container id="cid1438004" type="Folder" label="Mixed materials">5-16</container>
+                        <unitdate>1940-1974</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Publicity and Newspaper Clippings,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1946-1973</unitdate>
+                </did>
+                <scopecontent id="ref106">
+                    <head>Scope and Content Notes</head>
+                    <p>Within this series are news releases, flyers, and three issues of 
+                        <title render="italic">This Week in Pittsburgh</title>. The newspaper clippings (mostly reviews and publicity) are arranged chronologically and date between 1946 and 1962.</p>
+                </scopecontent>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>News releases and flyers</unittitle>
+                        <container id="cid1438005" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">This Week in Pittsburgh</title>,</unittitle>
+                        <container id="cid1438006" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1969-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid1438007" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1946-1962</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitid>V.</unitid>
+                    <unitdate>1939-1975</unitdate>
+                </did>
+                <scopecontent id="ref107">
+                    <head>Scope and Content Notes</head>
+                    <p>The photographs are filed alphabetically covering Savoyards history between 1939-1974, but most complete for the 1940’s and 1950’s. There are also rehearsal pictures and portraits, the latter filed by person’s name.</p>
+                </scopecontent>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Amahl and the Night Visitors</title>,</unittitle>
+                        <container id="cid1438054" type="Box" label="Photographic images">2</container>
+                        <container parent="cid1438054" type="Folder">1</container>
+                        <unitdate>1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Concerts - Schenley Hotel lawn</unittitle>
+                        <container id="cid1438055" type="Folder" label="Photographic images">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cox and Box</title>,</unittitle>
+                        <container id="cid1438056" type="Folder" label="Photographic images">3</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Devil and Daniel Webster</title>,</unittitle>
+                        <container id="cid1438057" type="Folder" label="Photographic images">4</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gondoliers</title>,</unittitle>
+                        <container id="cid1438058" type="Folder" label="Photographic images">5</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gondoliers</title>,</unittitle>
+                        <container id="cid1438059" type="Folder" label="Photographic images">6</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gondoliers</title>,</unittitle>
+                        <container id="cid1438060" type="Folder" label="Photographic images">7</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Iolanthe</title>,</unittitle>
+                        <container id="cid1438061" type="Folder" label="Photographic images">8</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Iolanthe</title>,</unittitle>
+                        <container id="cid1438062" type="Folder" label="Photographic images">9</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Iolanthe</title>,</unittitle>
+                        <container id="cid1438063" type="Folder" label="Photographic images">10</container>
+                        <unitdate>1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Mikado</title>,</unittitle>
+                        <container id="cid1438064" type="Folder" label="Photographic images">11-15</container>
+                        <unitdate>1943-1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Mikado</title></unittitle>
+                        <container id="cid1438065" type="Folder" label="Photographic images">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Patience</title>,</unittitle>
+                        <container id="cid1438066" type="Folder" label="Photographic images">17</container>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Patience</title>,</unittitle>
+                        <container id="cid1438067" type="Folder" label="Photographic images">18</container>
+                        <unitdate>1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Patience</title>,</unittitle>
+                        <container id="cid1438068" type="Folder" label="Photographic images">19</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">H.M.S. Pinafore</title>,</unittitle>
+                        <container id="cid1438069" type="Folder" label="Photographic images">20</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">H.M.S. Pinafore</title>,</unittitle>
+                        <container id="cid1438070" type="Folder" label="Photographic images">21</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">H.M.S. Pinafore</title>,</unittitle>
+                        <container id="cid1438071" type="Folder" label="Photographic images">22-23</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">H.M.S. Pinafore</title>,</unittitle>
+                        <container id="cid1438072" type="Box" label="Photographic images">3</container>
+                        <container parent="cid1438072" type="Folder">1</container>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">H.M.S. Pinafore</title>,</unittitle>
+                        <container id="cid1438073" type="Folder" label="Photographic images">2</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">H.M.S. Pinafore</title>,</unittitle>
+                        <container id="cid1438074" type="Folder" label="Photographic images">3</container>
+                        <unitdate>1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pirates of Penzance</title>,</unittitle>
+                        <container id="cid1438075" type="Folder" label="Photographic images">4</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pirates of Penzance</title>,</unittitle>
+                        <container id="cid1438076" type="Folder" label="Photographic images">5</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pirates of Penzance</title>,</unittitle>
+                        <container id="cid1438077" type="Folder" label="Photographic images">6</container>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pirates of Penzance</title>,</unittitle>
+                        <container id="cid1438078" type="Folder" label="Photographic images">7</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Pirates of Penzance</title> - no dates</unittitle>
+                        <container id="cid1438079" type="Folder" label="Photographic images">8-13</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Princess Ida</title>,</unittitle>
+                        <container id="cid1438080" type="Folder" label="Photographic images">14</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Rosalinda</title>,</unittitle>
+                        <container id="cid1438081" type="Folder" label="Photographic images">15</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ruddigore</title>,</unittitle>
+                        <container id="cid1438082" type="Folder" label="Photographic images">16-17</container>
+                        <unitdate>1940-1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ruddigore</title>,</unittitle>
+                        <container id="cid1438083" type="Folder" label="Photographic images">18-20</container>
+                        <unitdate>1951-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ruddigore</title>,</unittitle>
+                        <container id="cid1438084" type="Folder" label="Photographic images">21</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sorcerer</title>,</unittitle>
+                        <container id="cid1438085" type="Box" label="Photographic images">4</container>
+                        <container parent="cid1438085" type="Folder">1-3</container>
+                        <unitdate>1941-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sorcerer</title>,</unittitle>
+                        <container id="cid1438086" type="Folder" label="Photographic images">4</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sorcerer</title>,</unittitle>
+                        <container id="cid1438087" type="Folder" label="Photographic images">5</container>
+                        <unitdate>1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Trial by Jury</title>,</unittitle>
+                        <container id="cid1438088" type="Folder" label="Photographic images">6</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Trial by Jury</title>,</unittitle>
+                        <container id="cid1438089" type="Folder" label="Photographic images">7</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Yeoman of the Guard</title>,</unittitle>
+                        <container id="cid1438090" type="Folder" label="Photographic images">8</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Yeoman of the Guard</title>,</unittitle>
+                        <container id="cid1438091" type="Folder" label="Photographic images">9</container>
+                        <unitdate>1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Rehearsal - Unidentified production</unittitle>
+                        <container id="cid1438092" type="Folder" label="Photographic images">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Portraits - Identified A-Z</unittitle>
+                        <container id="cid1438093" type="Folder" label="Photographic images">11-16</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Portraits - Unidentified</unittitle>
+                        <container id="cid1438094" type="Folder" label="Photographic images">17-19</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Negatives</unittitle>
+                        <container id="cid1438095" type="Folder" label="Photographic images">20</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref56" level="series">
+                <did>
+                    <unittitle>Scrapbooks and Ephemera,</unittitle>
+                    <unitid>VI.</unitid>
+                    <unitdate>1939-1969</unitdate>
+                </did>
+                <scopecontent id="ref108">
+                    <head>Scope and Content Notes</head>
+                    <p>Most of the scrapbooks have been taken apart and placed in folders. They contain miscellaneous material, chief-reviews and publicity, also some programs, issues of the organizations newsletter, etc. The libretti titles are 
+                        <title render="italic">Ruddigore</title>, 
+                        <title render="italic">H.M.S. Pinafore</title>, 
+                        <title render="italic">The Sorcerer</title>, 
+                        <title render="italic">Iolanthe</title>, and 
+                        <title render="italic">Yeomen of the Guard</title>. Four are printed; the last is mimeographed and only one is dated.</p>
+                </scopecontent>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Yeomen of the Guard</title> scrapbook,</unittitle>
+                        <container id="cid1438050" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid1438050" type="Folder">1-8</container>
+                        <unitdate>1939-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Loose material from 
+                            <title render="italic">Yeomen of the Guard</title> scrapbook,</unittitle>
+                        <container id="cid1438051" type="Folder" label="Mixed materials">9-12</container>
+                        <unitdate>1939-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>“Miscellany” scrapbook,</unittitle>
+                        <container id="cid1438053" type="Folder" label="Mixed materials">13-15</container>
+                        <unitdate>1940-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>“Miscellany” scrapbook,</unittitle>
+                        <container id="cid1438096" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid1438096" type="Folder">1</container>
+                        <unitdate>1940-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1438097" type="Folder" label="Mixed materials">2-3</container>
+                        <unitdate>1945-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1438098" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1950-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1438099" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1964-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1438100" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1442003" type="Folder" label="Mixed materials">7-8</container>
+                        <unitdate>1969-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Posters - 
+                            <title render="italic">Princess Ida</title> and 
+                            <title render="italic">Mikado</title>,</unittitle>
+                        <container id="cid1442006" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1967-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid1442005" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid1442005" type="Folder">1</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Arthur Sullivan’s Vocal Album</title> book</unittitle>
+                        <container id="cid1442007" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Libretti</unittitle>
+                        <container id="cid1442008" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Post office permits,</unittitle>
+                        <container id="cid1442009" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Miscellaneous ephemera,</unittitle>
+                        <container id="cid1442010" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1945-1963</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Oversize Material</unittitle>
+                    <unitid>VII.</unitid>
+                </did>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Enlarged photographs and 
+                            <title render="italic">Mikado</title> poster,</unittitle>
+                        <container id="cid2278001" type="Map-case" label="Mixed materials">1</container>
+                        <container parent="cid2278001" type="Drawer">4</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

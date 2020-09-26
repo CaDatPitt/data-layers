@@ -1,0 +1,56 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1941-10</mods:dateCreated>
+    <mods:dateOther type="display">October 1941</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Oakland</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1941-10-01T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="unknown" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>The entire cast of the Pitt Players’ production of The Yellow Jacket, which was directed by Buell Whitehill, assembled on stage.  Whitehill was director of many Pitt Players theatre productions during the 1930s and 1940s. The play was presented by the Pitt Players and the University of Pittsburgh at the Stephen Foster Memorial October 29th and 31st during the 1941-1942 season.  The Pitt Players were a student theatre club at the University of Pittsburgh that was active from 1916 to 1960.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Whitehill, Buell B., Jr.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>University of Pittsburgh. Pitt Players.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>College theater</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Hazelton, George Cochrane, 1868-1921. Yellow jacket.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Oakland (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pitt Players Records</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pitt Players Records, 1914-1961, CTC.1978.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>The Yellow Jacket</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Oakland</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">4301 Forbes Avenue</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>8x10 Gelatin Silver Print</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">ctc00027</mods:identifier>
+</mods:mods>

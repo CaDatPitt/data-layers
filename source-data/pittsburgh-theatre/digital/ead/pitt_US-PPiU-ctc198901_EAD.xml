@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc198901</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Arthur Row Collection relating to Sarah Bernhardt, 1913-1921
+                    <num>CTC.1989.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Cheryl Greer. Revisions occurred to the finding aid as a part of the encoding process on March 28, 2006.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>1998</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Arthur Row Collection relating to Sarah Bernhardt</unittitle>
+            <unitid>CTC.1989.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 linear feet</extent>
+                <extent>(5 boxes)</extent>
+            </physdesc>
+            <unitdate>1913-1921</unitdate>
+            <abstract id="ref2" label="Abstract">Arthur Row was involved in theatre as an actor, a producer, and a journalist. He was also the press representative for Madame Sarah Bernhardt's 1916-17 'Farewell' American tour. This collection contains photographs, correspondence, press releases, scrapbooks, and magazine articles that Row amassed from his own career and during his time under Bernhardt's employment.</abstract>
+            <origination label="creator">
+                <persname source="naf">Row, Arthur William, 1878-1961</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Arthur William Row was a professional actor, writer, and producer with a lengthy career in the theater. Throughout his career, he associated himself with many legendary performers of the 19th and early 20th centuries. He was born in Montreal, Canada on June 12, 1878 and moved with his family to Boston in 1893. Row attended Tufts College in Massachusetts from 1897 to 1901, majoring in English, with the intention of becoming a writer. During college, he decided instead to become an actor and applied to Boston's Castle Square Theatre Stock Company.</p>
+            <p>Row achieved his first major production role in 1899 in Minnie Maddern Fiske's 
+                <title>Becky Sharp</title>. From that point forward, he was heavily involved with the theatre and performed with the Barrymores, Herbert Beerbohm Tree, Otis Skinner, and in more modern productions such as Orson Welles' 1937 production of 
+                <title>Julius Caesar</title>, and 
+                <title>A Streetcar Named Desire</title> with Uta Hagen. In 1919, Row helped found the Afternoon Theatre and produced several plays, most notably 
+                <title>Aglavaine and Selysette</title> starring Eva Le Gallienne.</p>
+            <p>Arthur Row's association with Sarah Bernhardt began in 1913 when he wrote an article about her for 
+                <title>The New Age</title>. Bernhardt enjoyed the piece and invited Row to meet her. Three years later, Bernhardt's manager William F. Connor asked Row to be the press representative for Madame Sarah's 1916-17 'Farewell' American tour. He published a great many articles about her and continued to do so after the tour was finished. He wrote a series called 'Memories of Sarah Bernhardt' for 
+                <title>The Younger Set</title> magazine and in the late 1940's wrote a book titled 
+                <title>Sarah The Divine</title>.</p>
+            <p>Arthur Row died in 1961.</p>
+            <p>For more detailed information about Row, consult:
+                <lb/> Personal file of Arthur Row clippings. (Courtesy of New York Public Library) In Curtis Vertical File.</p>
+            <p>For more information about Sarah Bernhardt, consult:
+                <list type="simple">
+                    <item>
+                        <title>The Oxford Companion to the Theatre</title>. PN2102 H333</item>
+                    <item>Skinner, Cornelia Otis. 
+                        <title>Madame Sarah</title>. PN2638 B5S62.</item>
+                    <item>Aston, Elaine. 
+                        <title>Sarah Bernhardt: a French Actress on the English Stage</title>. PN2638 B5A77 1989.</item>
+                    <item>Nadar, Felix. 
+                        <title>Sarah Bernhardt vue par les Nadar</title>. Curtis Collection. fPN2638 B5N32 1982.</item>
+                </list></p>
+        </bioghist>
+        <arrangement id="ref79">
+            <head>Arrangement</head>
+            <p>The collection has been divided into three separate sets of series to facilitate indexing. Additional scope and content notes are found at the series level.</p>
+            <p>Series I. Sarah Bernhardt</p>
+            <p>Series II. Arthur Row</p>
+            <p>Series III. Scrapbooks</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>Due to preservation concerns, most of the material in this collection has been photocopied onto acid-free paper - notably the scrapbooks in Series III. The original items have been housed seperately. If you would like to see original pieces, please ask the Curator of the Curtis Theatre Collection.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Received as gift collection prior to 1990.</p>
+        </acqinfo>
+        <odd id="ref81">
+            <head>Previous Citation</head>
+            <p>Arthur Row Collection relating to Sarah Bernhardt, CTC.1989.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Arthur Row Collection relating to Sarah Bernhardt, CTC.27, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Arthur Row Collection relating to Sarah Bernhardt, CTC.1989.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>This collection was processed by Cheryl Greer in 1998.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Charles Stanford on March 28, 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1402081.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <persname source="naf">Bernhardt, Sarah, 1844-1923</persname>
+            <persname source="naf">Row, Arthur William, 1878-1961</persname>
+            <subject source="lcsh">Actresses -- United States</subject>
+            <subject source="lcsh">Performing arts -- United States -- History -- 20th century</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Sarah Bernhardt</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>Series I contains materials pertaining to Sarah Bernhardt that Row either produced or compiled throughout his years of working with her. Folders 1-7 contain Bernhardt typescripts (ca. 1913-1921). The typescripts represent a selection of Row's articles about Sarah Bernhardt and many contain marginalia with author notes and corrections that range from his account of his first meeting with Bernhardt to articles written while he was in her employ, and later reminisences of the actress. Folders 8-19 include press releases(c.1913)comprised of proofs of human-interest articles on a variety of topics written by Sarah Berhnhardt for syndication to U.S. newspapers during her American tour of 1913. Lastly, folders 20-23 contains newspaper clippings, a photograph of Bernhardt, a program for the 1916-17 tour, and a note handwritten by Bernhardt on her stationary.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Biographical Material,</unittitle>
+                        <container id="cid114846" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid114846" type="Folder">1-7</container>
+                        <unitdate>ca. 1913-1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid114845" type="Folder" label="Mixed materials">8-19</container>
+                        <unitdate>June-July 1913</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Program, American Tour,</unittitle>
+                        <container id="cid114844" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1916-1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Photograph (Bernhardt with great-grandchildren),</unittitle>
+                        <container id="cid114843" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Clippings,</unittitle>
+                        <container id="cid114842" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>ca. 1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Letter from Bernhardt to Madame Rejane, not dated</unittitle>
+                        <container id="cid114841" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Arthur Row</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Series II consists of all material not directly related to Bernhardt. The first group of materials in Series II comprises Arthur Row's collection of photographs (some of which are autographed) featuring various people related to the theatre including Herbert Beerbohm Tree, the Barrymores, etc. Folders 1-35 contains coorrespondence(c.1913-1922)to Row from various individuals, including Eva La Gallienne, Ethel Barrymore, etc. Some authors are unknown. Finally, Folders 36-45 includes miscellaneous items such as typescripts of other writings by Row, playscripts, programs, theatre-related clippings, and a 1931 issue of Livingston's International Casting Directory, featuring Row and other actors, film studio personnel, etc..</p>
+                </scopecontent>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Barrymores</unittitle>
+                        <container id="cid114840" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Braley, Burton (S)</unittitle>
+                        <container id="cid114839" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Collier, Constance</unittitle>
+                        <container id="cid114838" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Gauthier, Eva (S)</unittitle>
+                        <container id="cid114837" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Harcourt, Cyril</unittitle>
+                        <container id="cid114836" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Richardson, Constance Stewart (S)</unittitle>
+                        <container id="cid114835" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Row, Arthur [3]</unittitle>
+                        <container id="cid114834" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Tree, Herbert Beerbohm [2] (S)</unittitle>
+                        <container id="cid114833" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Van Dresser, Marcia (S)</unittitle>
+                        <container id="cid114832" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Watson, Leona (S)</unittitle>
+                        <container id="cid114831" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>unidentified [5]</unittitle>
+                        <container id="cid114830" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114829" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid114829" type="Folder">1</container>
+                        <unitdate>1913</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114828" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1/22/1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Aldridge, Lewis,</unittitle>
+                        <container id="cid114827" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>6/9/1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Rives, Amelie (aka Princess Amelie Troubetzkoy),</unittitle>
+                        <container id="cid114826" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>5/2/1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114825" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1/1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114824" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1/10/1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Hull, Josephine,</unittitle>
+                        <container id="cid114823" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>4/6/1918</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>2nd Church of Christ, Scientist. New York, NY,</unittitle>
+                        <container id="cid114822" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>12/4/1918</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114821" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>3/2/1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Barrymore, Ethel,</unittitle>
+                        <container id="cid114820" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>3/25/19</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Edjett, Edwin F.,</unittitle>
+                        <container id="cid114819" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>11/6/1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Matthison, Edith,</unittitle>
+                        <container id="cid114818" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>2/23/1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114817" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>6/3/1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Carmichael, Leonard,</unittitle>
+                        <container id="cid114816" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>5/12/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Comstock, Elinor,</unittitle>
+                        <container id="cid114815" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>7/2/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Row, Arthur (to Leonard Carmichael),</unittitle>
+                        <container id="cid114814" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>7/8/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Le Gallienne, Eva,</unittitle>
+                        <container id="cid114813" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>11/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Brown, Charles,</unittitle>
+                        <container id="cid114812" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>11/22/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114811" type="Folder" label="Mixed materials">19-20</container>
+                        <unitdate>11/22/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Comstock, Elinor,</unittitle>
+                        <container id="cid114810" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>11/23/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Gillmore, Frank. Actor's Equity,</unittitle>
+                        <container id="cid114809" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>11/25/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Riggs, Francis Behn. Riggs School Inc.,</unittitle>
+                        <container id="cid114808" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>12/16/1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>n.a.,</unittitle>
+                        <container id="cid114807" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1/1/1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Arthur, Helen,</unittitle>
+                        <container id="cid114806" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1/4/1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Potter, Grace,</unittitle>
+                        <container id="cid114805" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1/9/1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Brown, Chamberlain</unittitle>
+                        <container id="cid114804" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Comstock, Elinor (2)</unittitle>
+                        <container id="cid114803" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Hull, Josephine</unittitle>
+                        <container id="cid114802" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Ivan, Rosalind</unittitle>
+                        <container id="cid114801" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Kamm, Philip Schuyler</unittitle>
+                        <container id="cid114800" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Richardson, Constance Stewart</unittitle>
+                        <container id="cid114799" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Theta Delta Chi fraternity</unittitle>
+                        <container id="cid114798" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Trader, Gertrude</unittitle>
+                        <container id="cid114797" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>18 Unidentified Letters</unittitle>
+                        <container id="cid114796" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Program: 
+                            <title>Milestones</title>, with A. Row,</unittitle>
+                        <container id="cid114795" type="Folder" label="Mixed materials">36</container>
+                        <unitdate>1914</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Clippings,</unittitle>
+                        <container id="cid114794" type="Folder" label="Mixed materials">37</container>
+                        <unitdate>ca. 1914-1921</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Playscript: 
+                            <title>Aglavaine Selysette</title> by Maurice Maeterlinck, with notes by Row. 49pp.</unittitle>
+                        <container id="cid114793" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Playscript (partial): 
+                            <title>Therese Raquin</title> by Emile Zola, with notes by Row. 21pp.</unittitle>
+                        <container id="cid114792" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Publications of the National Musical League of America/National Opera Companies. (2)</unittitle>
+                        <container id="cid114791" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>41 Typescript (partial): 
+                            <title>How a Folk Play is Produced</title>, article by Row. 1p.</unittitle>
+                        <container id="cid114790" type="Folder" label="Mixed materials">41</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Typescript: 
+                            <title>The Red Lights or the White Life</title>, article by Row. 7pp.</unittitle>
+                        <container id="cid114789" type="Folder" label="Mixed materials">42</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Typescript: 
+                            <title>Under Orders</title>, play review by Row. 2pp.</unittitle>
+                        <container id="cid114788" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Typescript: 
+                            <title>Home - As the Root of All Evil</title> article by Row. 4pp.</unittitle>
+                        <container id="cid114787" type="Folder" label="Mixed materials">44</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Livingston's International Casting Directory, 144pp.</unittitle>
+                        <container id="cid114786" type="Folder" label="Mixed materials">45</container>
+                        <unitdate>Oct., 1931.</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref75" level="series">
+                <did>
+                    <unittitle>Scrapbooks</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref78">
+                    <head>Scope and Contents note</head>
+                    <p>These three scrapbooks, compiled by Row, contain both general theatre material and Bernhardt material in the form of clippings, programs, and correspondence from Bernhardt's manager, William Connor, and others.</p>
+                </scopecontent>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Chiefly Bernhardt,</unittitle>
+                        <container id="cid114785" type="Volume" label="Mixed materials">1-2</container>
+                        <unitdate>ca. 1910-1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>General Theatre Material,</unittitle>
+                        <container id="cid114784" type="Volume" label="Mixed materials">3</container>
+                        <unitdate>ca. 1896-1905</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

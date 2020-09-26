@@ -1,0 +1,2326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc196605</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Ford E. and Harriet R. Curtis Theatre Collection of New York Theatre Programs, 1857-present
+                    <num>CTC.1966.05</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>May 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ford E. and Harriet R. Curtis Theatre Collection of New York Theatre Programs</unittitle>
+            <unitid>CTC.1966.05</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>156.0 linear feet</extent>
+                <extent>(336 mss boxes)</extent>
+            </physdesc>
+            <unitdate>1857-present</unitdate>
+            <abstract id="ref6" label="Abstract">The Ford E. and Harriet R. Curtis Theatre Collection contains tens of thousands of New York theatre programs from the 1850s to the present. They include productions that were performed on Broadway, Off-Broadway, and elsewhere in the state of New York. Sometimes newspaper clippings, marketing materials, and memorabilia related to the productions are stored with the programs.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Curtis, Ford E., 1896-1979</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Curtis, Harriet R., d. 1971</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <processinfo id="ref2">
+            <head>Processing Information</head>
+            <p>This collection was processed by Curtis Collection staff.</p>
+        </processinfo>
+        <userestrict id="ref3">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <prefercite id="ref289">
+            <head>Preferred Citation</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of New York Theatre Programs, 1857-present, CTC.1966.05, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref4">
+            <head>Previous Citation</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of New York Theatre Programs, 1857-present, CTC.1966.05, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <accruals id="ref5">
+            <head>Accruals</head>
+            <p>The Curtis Collection has a subscription to the opening night programs of Broadway productions through Playbill. In addition to the subscription, donations are added to the collection every few months. These donations are typically from the general public. If you are interested in donating theatre programs to the collection, please contact the Special Collections Department staff.</p>
+        </accruals>
+        <relatedmaterial id="ref272">
+            <head>Related Material</head>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of Performing Arts Posters (finding aid in-progress)</p>
+            <p>Ford E. and Harriet R. Curtis Theatre Collection of Performing Arts Photographs (finding aid in-progress)</p>
+        </relatedmaterial>
+        <arrangement id="ref273">
+            <head>Arrangement</head>
+            <p>This collection is arranged into two series.</p>
+            <p>Series I. New York City Theatre Programs, 1857-present</p>
+            <p>Series II. New York Theatre Programs, 1891-2003</p>
+        </arrangement>
+        <scopecontent id="ref285">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains nineteenth and twentieth century theatre programs from both New York City and elsewhere in the state of New York. The New York City programs are located in Series I and are filed chronologically. The New York state programs are filed alphabetically by theatre title in Series II.</p>
+            <p>Please note that this collection does not represent all of the New York theatre programs in the Curtis Collection. There are many New York City programs prior to 1930 in our scrapbook collection.</p>
+        </scopecontent>
+        <bioghist id="ref287">
+            <head>History</head>
+            <p>The Ford E. and Harriet R. Curtis Theatre Collection contains a fantastic collection of New York theatre programs. Dr. Ford E. Curtis began teaching drama in the English department at the University of Pittsburgh in 1924. He and his wife, Harriet, were avid theatre goers. They would take frequent trips to New York City to see Broadway shows.</p>
+            <p>In 1950, Dr. Curtis started a subscription to the opening night programs through 
+                <title render="italic">Playbill.</title> He then began to file the programs along with corresponding reviews, photographs, and other clippings. After his retirement in 1961, he began to add to their personal collection of playbills and programs in the hopes of building a collection to donate to Pitt. He solicited the help of the New York Public Library's Theatre Collection. For a period of about twelve years the Curtis Collection received fifteen to twenty boxes of duplicates from the NYPL. These contained programs, scrapbooks, photographs, journals, and scripts. Thousands of items in this and other Curtis collections are stamped DUPL NYPL.</p>
+            <p>The materials that Dr. Curtis amassed -- his own collection, materials donated to him, and the Curtis Collection staff's current efforts to acquire additional programs -- help to document the history of theatre and the performing arts.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <subject source="local">Performing arts--New York (State)--New York</subject>
+            <genreform source="aat">Theater programs</genreform>
+            <subject source="local">Theater programs--New York (State)</subject>
+            <subject source="local">Theater programs--New York (State)--New York</subject>
+            <subject source="lcsh">Theater--New York (State)</subject>
+            <subject source="lcsh">Theater--New York (State)--New York</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref69" level="series">
+                <did>
+                    <unittitle>New York City Theatre Programs,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1857-present</unitdate>
+                </did>
+                <scopecontent id="ref274">
+                    <head>Scope and Content Notes</head>
+                    <p>This series is composed of all the Curtis Collection's theatre programs from New York City. The series is separated into two series. The first being Broadway theatre programs and the second compiles Off-Broadway and the other boroughs of New York City.</p>
+                </scopecontent>
+                <c02 id="ref7" level="subseries">
+                    <did>
+                        <unittitle>Broadway,</unittitle>
+                        <unitid>1.</unitid>
+                        <unitdate>1857-present</unitdate>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Content Notes</head>
+                        <p>The Broadway programs collection is broken into three organizational schemes. There are two folders of programs without dates; these are filed alphabetically. The nineteenth century and early twentieth century programs are filed by the date printed in the program. From 1943 to the current Broadway season, all the programs of a specific production's run are filed chronologically by it's opening night date. These dates are usually printed in the program. When they are not, staff use 
+                            <title render="italic">Theatre World</title> and the 
+                            <extref ns2:href="http://www.ibdb.com/">Internet Broadway Database</extref> to determine a production's opening night. Finally, there is a small amount of programs without dates. These are primarily nineteenth century programs and they are filed at the start of the series alphabetically by their title.</p>
+                        <p>Supplementary to the programs, there are newspaper clippings, marketing materials, and memorabilia related to productions in the folders. These materials are available for the programs dating from the mid 1950s through the mid 1980s.</p>
+                    </scopecontent>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs - Undated</unittitle>
+                            <container id="cid4258005" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid4258005" type="Folder">1-2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258003" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1857</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258004" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1866-1889</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258006" type="Box" label="Mixed materials">2-3</container>
+                            <unitdate>1890-1899</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4298001" type="Box" label="Mixed materials">4-13</container>
+                            <unitdate>1900-1910</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4298002" type="Box" label="Mixed materials">14-28</container>
+                            <unitdate>1911-1920</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4298003" type="Box" label="Mixed materials">29-49</container>
+                            <unitdate>1921-1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4298004" type="Box" label="Mixed materials">50-101</container>
+                            <unitdate>1931-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs - 
+                                <title render="italic">Oklahoma</title>,</unittitle>
+                            <container id="cid4258007" type="Box" label="Mixed materials">102</container>
+                            <unitdate>March 31, 1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258008" type="Box" label="Mixed materials">103-127</container>
+                            <unitdate>1943-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs - 
+                                <title render="italic">South Pacific</title>,</unittitle>
+                            <container id="cid4258009" type="Box" label="Mixed materials">128</container>
+                            <unitdate>April 7, 1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258010" type="Box" label="Mixed materials">129-208</container>
+                            <unitdate>1949-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs - 
+                                <title render="italic">Chorus Line</title>,</unittitle>
+                            <container id="cid4258011" type="Box" label="Mixed materials">209</container>
+                            <unitdate>July 25, 1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258012" type="Box" label="Mixed materials">210-243</container>
+                            <unitdate>1975-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs - 
+                                <title render="italic">Les Misérables</title>,</unittitle>
+                            <container id="cid4258013" type="Box" label="Mixed materials">244</container>
+                            <unitdate>March 12, 1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Broadway theatre programs,</unittitle>
+                            <container id="cid4258014" type="Box" label="Mixed materials">245-288</container>
+                            <unitdate>1987-2016</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref8" level="subseries">
+                    <did>
+                        <unittitle>Off-Broadway,</unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>1875-present</unitdate>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Content Notes</head>
+                        <p>The Off-Broadway programs are filed chronologically by the date of the program. When there were no dates printed on the programs, the productions were researched to find out when the opening night was and filed under that date. The programs which we found no opening night information for are arranged in alphabetical order by the name of the venue they were performed at. Also filed in with the Off-Broadway materials were a small amount of programs from other New York City boroughs.</p>
+                    </scopecontent>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>Off-Broadway theatre programs,</unittitle>
+                            <container id="cid4258001" type="Box" label="Mixed materials">1-6</container>
+                            <unitdate>1875-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>Off-Broadway theatre programs,</unittitle>
+                            <container id="cid4298006" type="Box" label="Mixed materials">7-20</container>
+                            <unitdate>1950-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>Off-Broadway theatre programs,</unittitle>
+                            <container id="cid4298007" type="Box" label="Mixed materials">21-27</container>
+                            <unitdate>1970-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>Off-Broadway theatre programs,</unittitle>
+                            <container id="cid4298005" type="Box" label="Mixed materials">28-37</container>
+                            <unitdate>1980-present</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref12" level="file">
+                        <did>
+                            <unittitle>Off-Broadway theatre programs - Undated</unittitle>
+                            <container id="cid4258002" type="Box" label="Mixed materials">38-40</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>New York State Theatre Programs,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1891-2003</unitdate>
+                </did>
+                <scopecontent id="ref151">
+                    <head>Scope and Content Notes</head>
+                    <p>The theatre programs in this series are from the state of New York. Each file is labeled with the name of the theatre and the name of the city or town it is in. Also listed is the total number of folders for each theatre. The files are arranged alphabetically by the theatre's name. The boxes are not listed or numbered because these numbers change with new donations.</p>
+                </scopecontent>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Academy Theatre - Woodmere,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Adirondack Players - Saranac Lake,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1960</unitdate>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Content Notes</head>
+                        <p>Also includes the Adirondack Playhouse.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>Alden Theatre - Jamaica,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>June 29, 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>American Youth Theatre Guild - New Rochelle</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>Arena Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1951-1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Artpark Theater - Lewiston,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1974-1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Astor Theatre - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Auditorium Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1931-1964</unitdate>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Content Notes</head>
+                        <p>Also includes the Auditorium Permanent Players.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>Baker Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>January 1899</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>Banbox Players - Hempstead</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Bard Theatre - Red Hook,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>December 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Barnstormers Theatre - Cragsmoor</unittitle>
+                    </did>
+                    <otherfindaid id="ref42">
+                        <head>See Also</head>
+                        <p>Cragsmoor Players and Cragsmoor Theatre</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>Barn Playhouse - Bolton Landing</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="item">
+                    <did>
+                        <unittitle>Bay Street Theatre - Sag Harbor,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>Beechwood Theatre - Ossining,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1928-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>Beechwood Players - Scarborough,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1931-1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>Biltmore Theatre - Mount Vernon</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Blythewood Summer Theatre - Chestertown</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Bridgeport Playhouse - Bridgeport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>Brighton Theatre - Brighton Beach,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1930-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>Bristol Valley Playhouse - Bristol,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>August 1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Broadway Theatre - Nyack,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Bronxville Auditorium - Bronxville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1930-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Capital Theatre - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1929-1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Capri Theatre - Atlantic Beach,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1956-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Carlton Theatre - Jamaica</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>Castle Theatre - Long Beach,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1930-1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>Catholic Theatre of Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>May 1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Cecilwood Theatre - Fishkill,</unittitle>
+                        <physdesc>
+                            <extent>1.0 linear feet</extent>
+                        </physdesc>
+                        <unitdate>1949-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>Cedarhurst Playhouse - Cedarhurst,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1935-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Celoron Theatre - Jamestown</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Central Theatre - Cedarhurst,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Chapel Theatre - Great Neck,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>Chamberlain Brown Players - Mount Vernon,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>Chappaqua Drama Group - Chappaqua,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1985-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Chautauqua Conservatory Theater - Chautauqua,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>Civic Players - Schenectady,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>January 1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>Clare Tree Major Children's Theatre - Chautauqua,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Cliff Theatre - Sea Cliff</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>Coach House Players - Kingston,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1960-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>Collingwood Opera House - Poughkeepsie,</unittitle>
+                        <physdesc>
+                            <extent>3.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1895-1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>Colonial Theatre - Utica,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>Colonie Summer Theatre - Latham,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1961-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>Cook Opera House - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1911</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>Corinthian Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>November 1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>Corning Summer Theatre - Corning,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1957-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="item">
+                    <did>
+                        <unittitle>Cortland Repertory Theatre - Cortland,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="item">
+                    <did>
+                        <unittitle>County Center Theatre - White Plains,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1931-1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Country Playhouse - Fayetteville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1949-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>Country Theatre - East Islip</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>Country Theatre - Suffern,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1933-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Cragsmoor Theatre - Cragsmoor,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1941-1949</unitdate>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Content Notes</head>
+                        <p>Also includes Cragsmoor Players</p>
+                    </scopecontent>
+                    <otherfindaid id="ref85">
+                        <head>See Also</head>
+                        <p>See Barnstormers Theatre.</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Crandell Summer Theatre - Chatham,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>Crest Theatre - Long Beach,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="item">
+                    <did>
+                        <unittitle>Croton River Playhouse - Croton-on-Hudson</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Dewitt Theatre - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Drama Festival - Woodmere,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>Drew Theatre - East Hampton</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                    <otherfindaid id="ref92">
+                        <head>See Also</head>
+                        <p>See John Drew Theatre</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>Duke's Oak Theatre - Cooperstown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1936-1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>East Hampton Drama Festival,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>Eastman Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1928-1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="item">
+                    <did>
+                        <unittitle>Embassy Theatre - Port Chester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>September 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="item">
+                    <did>
+                        <unittitle>Empire Theatre - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>January 1900</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Empire Theatre - Glen Falls</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>Empire Theatre - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1916-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="item">
+                    <did>
+                        <unittitle>Empire State Music Festival - Ellenville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>Erie Theatre - Schenectady,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Erlanger Theatre - Buffalo,</unittitle>
+                        <physdesc>
+                            <extent>3.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1928-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="item">
+                    <did>
+                        <unittitle>Essex Players - Essex</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="item">
+                    <did>
+                        <unittitle>Famous Artists Playhouse - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1966-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>Finger Lakes Drama Festival - Ithaca,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="item">
+                    <did>
+                        <unittitle>Fisher Theatre - Seneca Falls,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>December 1916</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="item">
+                    <did>
+                        <unittitle>Fox Playhouse - Great Neck,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1929-1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>Freeport Theatre - Freeport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1928-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="item">
+                    <did>
+                        <unittitle>Gateway Playhouse - Bellport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>June 1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="item">
+                    <did>
+                        <unittitle>Goode Theatre - Clinton Hollow</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent id="ref111">
+                        <head>Scope and Content Notes</head>
+                        <p>Includes Reginald Goode Theatre programs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref112" level="item">
+                    <did>
+                        <unittitle>Great Neck Playhouse - Great Neck,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1927-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="item">
+                    <did>
+                        <unittitle>Greenbush Theatre - Blauvelt,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="item">
+                    <did>
+                        <unittitle>Griswold Opera House - Troy,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>January 1900</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>Hampton Summer Theatre - Bridgehampton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="item">
+                    <did>
+                        <unittitle>Hamptons Theatre - Southampton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1937</unitdate>
+                    </did>
+                    <scopecontent id="ref217">
+                        <head>Scope and Content Notes</head>
+                        <p>Includes program starring the Southampton Players.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref116" level="item">
+                    <did>
+                        <unittitle>Harmanus Bleecker Hall - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1912-1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="item">
+                    <did>
+                        <unittitle>Hempstead Art Theatre - Hempstead,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="item">
+                    <did>
+                        <unittitle>Hendrick Hudson Theatre - Hudson,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>June 1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="item">
+                    <did>
+                        <unittitle>Highland New Paltz Summer Theatre - Highland,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>August 1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="item">
+                    <did>
+                        <unittitle>Hudson Theatre - Schenectady,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1927-1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="item">
+                    <did>
+                        <unittitle>Hyde Park Playhouse - Hyde Park,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1956-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="item">
+                    <did>
+                        <unittitle>International Theatre - Niagara Falls,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1914</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="item">
+                    <did>
+                        <unittitle>Jacoby Playhouse - Cedarhurst,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="item">
+                    <did>
+                        <unittitle>John Drew Theatre - East Hampton,</unittitle>
+                        <physdesc>
+                            <extent>4.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1940-1983</unitdate>
+                    </did>
+                    <otherfindaid id="ref125">
+                        <head>See Also</head>
+                        <p>See also the Drew Theatre.</p>
+                    </otherfindaid>
+                    <scopecontent id="ref126">
+                        <head>Scope and Content Notes</head>
+                        <p>Also includes programs from the John Drew Theatre of Guild Hall.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref127" level="item">
+                    <did>
+                        <unittitle>Jones Beach Marine Theatre - Wantagh,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1954-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="item">
+                    <did>
+                        <unittitle>Keith's Theatre - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1923-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="item">
+                    <did>
+                        <unittitle>Kleinhans Auditorium - Buffalo,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                    </did>
+                    <scopecontent id="ref257">
+                        <head>Scope and Content Notes</head>
+                        <p>Also listed as Kleinhans Music Hall.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref130" level="item">
+                    <did>
+                        <unittitle>KRNT Radio Theatre - Utica,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>November 1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="item">
+                    <did>
+                        <unittitle>Lake George Playhouse - Lake George,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="item">
+                    <did>
+                        <unittitle>Lake Luzerne Playhouse - Lake Luzerne</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="item">
+                    <did>
+                        <unittitle>Lake Mahopac Playhouse - Lake Mahopac,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="item">
+                    <did>
+                        <unittitle>Lake Placid Playhouse - Lake Placid</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="item">
+                    <did>
+                        <unittitle>Lake Shore Playhouse - Derby,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="item">
+                    <did>
+                        <unittitle>Lakeside Theatre - Lake Placid,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="item">
+                    <did>
+                        <unittitle>League Theatre - Flushing</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref288" level="item">
+                    <did>
+                        <unittitle>Liberty Theatre - Camp Upton</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="item">
+                    <did>
+                        <unittitle>Little Theatre - Jamestown</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="item">
+                    <did>
+                        <unittitle>Lyceum Theatre - Elmira,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="item">
+                    <did>
+                        <unittitle>Lyceum Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1902-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="item">
+                    <did>
+                        <unittitle>Lyceum Theatre - Troy,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1918-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="item">
+                    <did>
+                        <unittitle>Lyric Circus Light Opera - Skaneateles,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="item">
+                    <did>
+                        <unittitle>Lyric Circus Light Opera - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="item">
+                    <did>
+                        <unittitle>Majestic Theatre - Buffalo,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1920-1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="item">
+                    <did>
+                        <unittitle>Majestic Theatre - Elmira,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1927-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="item">
+                    <did>
+                        <unittitle>Majestic Theatre - Utica</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="item">
+                    <did>
+                        <unittitle>Malden Bridge Playhouse - Malden Bridge,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="item">
+                    <did>
+                        <unittitle>Mamaroneck Playhouse - Mamaroneck,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="item">
+                    <did>
+                        <unittitle>Manor Theatre - Pelham Manor</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="item">
+                    <did>
+                        <unittitle>Maverick Theatre - Woodstock,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1933-1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="item">
+                    <did>
+                        <unittitle>Millbrook Theatre - Millbrook,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="item">
+                    <did>
+                        <unittitle>Millpond Playhouse - Roslyn,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="item">
+                    <did>
+                        <unittitle>Mineola Theatre - Mineola,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="item">
+                    <did>
+                        <unittitle>Mirror Players - Buffalo</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="item">
+                    <did>
+                        <unittitle>Mozart Players - Elmira,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="item">
+                    <did>
+                        <unittitle>Music Theatre - Westchester</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="item">
+                    <did>
+                        <unittitle>Nell Gwyn Theatre - Malden Bridge,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="item">
+                    <did>
+                        <unittitle>New Rochelle Playhouse - New Rochelle</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="item">
+                    <did>
+                        <unittitle>New Rochelle Theatre - New Rochelle,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1906-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="item">
+                    <did>
+                        <unittitle>North Shore Summer Theatre - Whitestone,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="item">
+                    <did>
+                        <unittitle>Old Carriage House Players - Lake Ronkonkoma,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="item">
+                    <did>
+                        <unittitle>Old Town Theatre - Smithtown Branch,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="item">
+                    <did>
+                        <unittitle>Oneida Area Arts Council - Smithtown Branch,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>November 1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="item">
+                    <did>
+                        <unittitle>Opera House - Glen Falls,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>August 1891</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="item">
+                    <did>
+                        <unittitle>Orange County Playhouse - Westtown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="item">
+                    <did>
+                        <unittitle>Palace Theatre - White Plains</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="item">
+                    <did>
+                        <unittitle>Pauls Players - Swan Lake,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="item">
+                    <did>
+                        <unittitle>Pine Bush Theatre - Pine Bush,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="item">
+                    <did>
+                        <unittitle>Pittsford Town Hall - Pittsford,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="item">
+                    <did>
+                        <unittitle>Players Company - Jamaica,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>May 1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="item">
+                    <did>
+                        <unittitle>Players Company - Manhasset,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="item">
+                    <did>
+                        <unittitle>Playhouse at the Cross Streams - Hopewell Junction,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>October 17, 1926</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="item">
+                    <did>
+                        <unittitle>Playhouse - Lawrence</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="item">
+                    <did>
+                        <unittitle>Playhouse Theatre - Cedarhurst,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="item">
+                    <did>
+                        <unittitle>Playhouse - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="item">
+                    <did>
+                        <unittitle>Princess Theatre - New Rochelle</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="item">
+                    <did>
+                        <unittitle>Proctor's Theatre - Schenectady</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="item">
+                    <did>
+                        <unittitle>Putnam County Playhouse - Mahopac,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1946-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="item">
+                    <did>
+                        <unittitle>Queensboro Theatre - Elmhurst</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="item">
+                    <did>
+                        <unittitle>Rand's Opera House - Troy,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>November 1911</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="item">
+                    <did>
+                        <unittitle>Red Barn Theatre - Locust Valley,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1934-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="item">
+                    <did>
+                        <unittitle>Red Men's Hall - New Salem,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>May 1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="item">
+                    <did>
+                        <unittitle>Redpath Chautauqua - White Plains,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="item">
+                    <did>
+                        <unittitle>Reginald Goode Theatre - Clinton Hallow</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                    <otherfindaid id="ref186">
+                        <head>See Also</head>
+                        <p>See Goode Theatre.</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref187" level="item">
+                    <did>
+                        <unittitle>Ridgeway Theatre - White Plains,</unittitle>
+                        <physdesc>
+                            <extent>2.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1940-1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="item">
+                    <did>
+                        <unittitle>Riverhead Summer Theatre - Riverhead,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="item">
+                    <did>
+                        <unittitle>Riverside Shakespeare Company,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="item">
+                    <did>
+                        <unittitle>RKO Theatre - White Plains,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>December 1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="item">
+                    <did>
+                        <unittitle>Rochester Civic Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1959-1969</unitdate>
+                    </did>
+                    <scopecontent id="ref192">
+                        <head>Scope and Content Notes</head>
+                        <p>Also includes programs by the Rochester Community Players.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref193" level="item">
+                    <did>
+                        <unittitle>Rockland Theatre - Nyack,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1942-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="item">
+                    <did>
+                        <unittitle>Rockland County Circle Theatre - Orangeburg,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>September 1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="item">
+                    <did>
+                        <unittitle>Rockridge Theatre - Carmel,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="item">
+                    <did>
+                        <unittitle>Rockwood Hall Theatre - North Tarrytown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="item">
+                    <did>
+                        <unittitle>Roosevelt Theatre - Beacon,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="item">
+                    <did>
+                        <unittitle>Rosedale Playhouse - Rosedale,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="item">
+                    <did>
+                        <unittitle>Sacandaga Theatre - Northville</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="item">
+                    <did>
+                        <unittitle>Sail Loft Theatre - Germantown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="item">
+                    <did>
+                        <unittitle>Saint Patrick's Institute Hall - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>February 1931</unitdate>
+                    </did>
+                    <scopecontent id="ref203">
+                        <head>Scope and Content Notes</head>
+                        <p>Includes program from the St. Patrick's Players.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref202" level="item">
+                    <did>
+                        <unittitle>Salt City Playhouse - Syracuse</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="item">
+                    <did>
+                        <unittitle>Sayville Playhouse - Sayville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="item">
+                    <did>
+                        <unittitle>Scarsdale Theatre - Scarsdale,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="item">
+                    <did>
+                        <unittitle>Schenectady Light Opera - Schenectady,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="item">
+                    <did>
+                        <unittitle>Schroon Lake Summer Theatre - Schroon Lake</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="item">
+                    <did>
+                        <unittitle>Sea Cliff Summer Theatre - Sea Cliff,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="item">
+                    <did>
+                        <unittitle>Shea's Court Street Theatre - Jamestown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1927-1929</unitdate>
+                    </did>
+                    <scopecontent id="ref210">
+                        <head>Scope and Content Notes</head>
+                        <p>Programs feature the Court Street Players.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref211" level="item">
+                    <did>
+                        <unittitle>Shelley Players - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="item">
+                    <did>
+                        <unittitle>Shubert Teck Theater - Buffalo,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="item">
+                    <did>
+                        <unittitle>Skaneateles Summer Theatre - Skaneateles,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1937-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="item">
+                    <did>
+                        <unittitle>Skouras Hempstead Theatre - Hempstead,</unittitle>
+                        <unitdate>August 1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="item">
+                    <did>
+                        <unittitle>Southampton Cabaret Theatre - Southampton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="item">
+                    <did>
+                        <unittitle>Southampton Playhouse - Southampton</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="item">
+                    <did>
+                        <unittitle>South Presbyterian Church - Dobbs Ferry</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="item">
+                    <did>
+                        <unittitle>Spa Theatre - Saratoga Springs,</unittitle>
+                        <physdesc>
+                            <extent>2.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1938-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref220">
+                        <head>Scope and Content Notes</head>
+                        <p>Includes programs labeled the New Spa Theatre.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref221" level="item">
+                    <did>
+                        <unittitle>Star Theatre - Buffalo,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1896-1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="item">
+                    <did>
+                        <unittitle>Starlight Theatre - Pawling,</unittitle>
+                        <physdesc>
+                            <extent>2.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1936-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="item">
+                    <did>
+                        <unittitle>Stone Theatre - Binghamton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>January 1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="item">
+                    <did>
+                        <unittitle>Strand Theatre - Albany,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="item">
+                    <did>
+                        <unittitle>Strand Theatre - Elmira,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>December 1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="item">
+                    <did>
+                        <unittitle>Strand Theatre - Syracuse</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="item">
+                    <did>
+                        <unittitle>Stratton Summer Playhouse - Middletown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="item">
+                    <did>
+                        <unittitle>Studio Arena Theatre - Buffalo,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1966-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="item">
+                    <did>
+                        <unittitle>Summer Theatre - Watkins Glen,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1948-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="item">
+                    <did>
+                        <unittitle>Summer Theatre - Southampton,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>June 1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="item">
+                    <did>
+                        <unittitle>Sunnyside Players - Sunnyside</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="item">
+                    <did>
+                        <unittitle>Syracuse Little Theatre - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="item">
+                    <did>
+                        <unittitle>Tamarack Playhouse - Lake Pleasant,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938-1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="item">
+                    <did>
+                        <unittitle>Tappan Zee Playhouse - Nyack,</unittitle>
+                        <physdesc>
+                            <extent>2.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1958-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="item">
+                    <did>
+                        <unittitle>Temple Theatre - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="item">
+                    <did>
+                        <unittitle>Theatre East - Rochester,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>January 1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="item">
+                    <did>
+                        <unittitle>Theatre Guild of Oceanside - Oceanside,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="item">
+                    <did>
+                        <unittitle>Theatre of the Four Seasons - Roslyn,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="item">
+                    <did>
+                        <unittitle>Thousand Island Playhouse - Alexandria Bay,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="item">
+                    <did>
+                        <unittitle>Threshold Playhouse - Pleasantville,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="item">
+                    <did>
+                        <unittitle>Tinkers Pond Theatre - Syosset</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="item">
+                    <did>
+                        <unittitle>Tivoli Theatre - East Northport,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="item">
+                    <did>
+                        <unittitle>Tower Bell Theatre - Nyack</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="item">
+                    <did>
+                        <unittitle>Town and Country Playhouse - Rochester</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="item">
+                    <did>
+                        <unittitle>University Regent Theatre - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1952-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="item">
+                    <did>
+                        <unittitle>Urban Playhouse - Yonkers</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="item">
+                    <did>
+                        <unittitle>Van Curler Theatre - Schenectady</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="item">
+                    <did>
+                        <unittitle>Vivian Theatre - Whitestone,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="item">
+                    <did>
+                        <unittitle>Warburton Theatre - Yonkers,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1920-1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="item">
+                    <did>
+                        <unittitle>Washington Irving Theatre - North Terrytown,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="item">
+                    <did>
+                        <unittitle>Washington Theatre - Dobbs Ferry,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="item">
+                    <did>
+                        <unittitle>Wedgeway Theatre - Schenectady,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1929</unitdate>
+                    </did>
+                    <scopecontent id="ref254">
+                        <head>Scope and Content Notes</head>
+                        <p>Several of the programs feature the Wilcox Players.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref255" level="item">
+                    <did>
+                        <unittitle>Westbury Music Fair - Westbury,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1959-1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="item">
+                    <did>
+                        <unittitle>Westbury Theatre - Westbury</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="item">
+                    <did>
+                        <unittitle>Westchester Broadway Theatre - Elmsford</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="item">
+                    <did>
+                        <unittitle>Westchester County Center - White Plains,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1930-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="item">
+                    <did>
+                        <unittitle>Westchester County Playhouse - Dobbs Ferry,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="item">
+                    <did>
+                        <unittitle>Westchester Playhouse - Mount Kisco,</unittitle>
+                        <physdesc>
+                            <extent>6.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1932-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="item">
+                    <did>
+                        <unittitle>Westchester Theatre - Mount Vernon,</unittitle>
+                        <physdesc>
+                            <extent>3.0 folders</extent>
+                        </physdesc>
+                        <unitdate>1914-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="item">
+                    <did>
+                        <unittitle>Westhampton Playhouse - Westhampton Beach</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="item">
+                    <did>
+                        <unittitle>White Plains Playhouse - White Plains,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>July 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="item">
+                    <did>
+                        <unittitle>Wieting Opera House - Syracuse,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1898-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref269" level="item">
+                    <did>
+                        <unittitle>Wilsker's Westchester Dinner Theatre</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref270" level="item">
+                    <did>
+                        <unittitle>Woodstock Playhouse - Woodstock,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>1938-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="item">
+                    <did>
+                        <unittitle>Yonkers Playhouse - Yonkers,</unittitle>
+                        <physdesc>
+                            <extent>1.0 folder</extent>
+                        </physdesc>
+                        <unitdate>February 1964</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

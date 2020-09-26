@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc199201</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Carol Doherty Papers, 1979-1981
+                    <num>CTC.1992.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Special Collections Staff.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>Spring 2006</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Carol Doherty Papers</unittitle>
+            <unitid>CTC.1992.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate>1979-1992</unitdate>
+            <abstract id="ref2" label="Abstract">Carol Doherty, as part of her studies at Duquesne University Law School, wanted to examine the comparative structures of three theatres (American Shakespeare Festival, Royal Shakespeare Company, and Stratford Festival) and develop a model administrative plan. This collection contains the research she conducted which includes interviews and correspondence with several artistic/administrative persons at all three companies.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Doherty, Carol</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Carol Doherty, a student at Duquesne University Law School, wanted to examine the comparative structures of three theatres: the American Shakespeare Festival, Royal Shakespeare Company, and Stratford Festival, in order to develop a model administrative plan. Her research included interviews and correspondence with several artistic/administrative persons at the companies, including most notably Peter Coe and Richard Bader of the American Shakespeare Theatre; David Brierly and Susan Fleetwood of the Royal Shakespeare Company; John Hays, Tom Patterson, and Rod Beattie of the Stratford Festival.</p>
+        </bioghist>
+        <arrangement id="ref64">
+            <head>Arrangement</head>
+            <p>The papers are organized into two series. Additional scope and content notes are found after the series titles.</p>
+            <p>Series I. Research</p>
+            <p>Series II. "A Model Theatre"</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>These papers are centered around the research and development of Doherty's research project and paper, "A Model Theatre." Interestingly, included are descriptions of the American Shakespeare Theatre before the organization's demise and the Stratford Festival's internal struggles between 1979-1981.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were a gift of Carol Doherty in 1992.</p>
+        </acqinfo>
+        <odd id="ref65">
+            <head>Previous Citation</head>
+            <p>Carol Doherty Papers, 1983-1992, CTC.1992.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh.</p>
+            <p>Carol Doherty Papers, 1983-1992, CTC.26, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Carol Doherty Papers, 1983-1992, CTC.1992.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Special Collections Staff. Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in November 2004 and by William Daw in March 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1468151.</p>
+        </processinfo>
+        <userestrict id="ref67">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname source="naf">American Shakespeare Festival Theatre and Academy. -- Management</corpname>
+            <corpname source="naf">American Shakespeare Theatre. -- Management</corpname>
+            <persname source="naf">Brierly, David</persname>
+            <persname source="naf">Coe, Peter, 1929-1987</persname>
+            <corpname source="naf">Duquesne University. School of Law.</corpname>
+            <persname source="naf">Patterson, Tom, 1920-</persname>
+            <corpname source="naf">Royal Shakespeare Company. -- Management</corpname>
+            <corpname rules="aacr" source="local">Stratford Festival (Stratford, Conn.). -- Management</corpname>
+            <subject source="lcsh">Arts administrators -- Correspondence</subject>
+            <subject source="lcsh">Arts administrators -- Interviews</subject>
+            <subject source="lcsh">Centers for the performing arts -- Management</subject>
+            <subject source="lcsh">Centers for the performing arts -- United States</subject>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Drafts (Documents)</genreform>
+            <genreform source="aat">Interviews</genreform>
+            <genreform source="aat">Notes</genreform>
+            <genreform source="aat">Records (Documents)</genreform>
+            <genreform source="aat">Reports</genreform>
+            <subject source="ulstag">Theater</subject>
+            <genreform source="aat">Transcripts</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Research</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref59">
+                    <head>Scope and Contents note</head>
+                    <p>This series holds correspondence, notes, interview transcripts, reports, etc. used to document the organization structures of the American Shakespeare Festival, the Stratford Festival, and the Royal Shakespeare Company. There is also one file containing research material sent from the Arts Council of Great Britain. This material was used to generate Ms. Doherty's paper "A Model Theatre".</p>
+                </scopecontent>
+                <c02 id="ref11" level="subseries">
+                    <did>
+                        <unittitle>American Shakespeare Theatre</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref12" level="file">
+                        <did>
+                            <unittitle>Bader, Richard (Executive Director)</unittitle>
+                            <container id="cid114783" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid114783" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>By-Laws,</unittitle>
+                            <container id="cid114782" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>December 1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>Campbell, Graeme (Actor)</unittitle>
+                            <container id="cid114781" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>Coe, Peter (Artistic Director)</unittitle>
+                            <container id="cid114780" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>Cooper, Roberta (Director of Planning)</unittitle>
+                            <container id="cid114779" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Coorman, William (Chairman, Board of Directors)</unittitle>
+                            <container id="cid114778" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid114777" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1981-82</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Dotrice, Roy (Actor)</unittitle>
+                            <container id="cid114776" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>Financial Statements,</unittitle>
+                            <container id="cid114775" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Misc. Notes and Organizational Chart,</unittitle>
+                            <container id="cid114774" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1981-82</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Newman, Ellen</unittitle>
+                            <container id="cid114773" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Patria, Joe (Technical Manager)</unittitle>
+                            <container id="cid114772" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Pheneger, Richard (Director of marketing and Public Relations)</unittitle>
+                            <container id="cid114771" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>Sheftis, Bob (Manager of Theatre Operations)</unittitle>
+                            <container id="cid114770" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Valente, Esther (Director of Financial Services)</unittitle>
+                            <container id="cid114769" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref27" level="subseries">
+                    <did>
+                        <unittitle>Arts Council of Great Britain</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Arts Council of Great Britain,</unittitle>
+                            <container id="cid1246001" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref28" level="subseries">
+                    <did>
+                        <unittitle>Royal Shakespeare Company</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Agreement with Actor Equity Association,</unittitle>
+                            <container id="cid114766" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Book Excerpt</unittitle>
+                            <container id="cid114765" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Bowler, Simon (Deputy Technical Manager),</unittitle>
+                            <container id="cid114764" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>September 1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Brierly, David (General Manager),</unittitle>
+                            <container id="cid114763" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Charter and By-laws</unittitle>
+                            <container id="cid114762" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid114761" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1981-82</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Godfrey, Derek</unittitle>
+                            <container id="cid114760" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>Fleetwood, Susan (Actress)</unittitle>
+                            <container id="cid114759" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Malcolmson, Carole (Deputy Planning Controller),</unittitle>
+                            <container id="cid114758" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Notes,</unittitle>
+                            <container id="cid114757" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Organizational tree,</unittitle>
+                            <container id="cid114756" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>May 1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Reports,</unittitle>
+                            <container id="cid114755" type="Folder" label="Mixed materials">28</container>
+                            <unitdate>1979-1981</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref41" level="subseries">
+                    <did>
+                        <unittitle>Stratford Festival, Canada</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Beattie, Rod (Actor)</unittitle>
+                            <container id="cid114754" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Benson, Susan (Head of Design)</unittitle>
+                            <container id="cid114753" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>By-laws</unittitle>
+                            <container id="cid114752" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Corner, Gerry (Box Office Manager)</unittitle>
+                            <container id="cid114751" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid114750" type="Folder" label="Mixed materials">33</container>
+                            <unitdate>1979-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Hays, John (Executive Producer),</unittitle>
+                            <container id="cid114749" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>August 1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Job Descriptions,</unittitle>
+                            <container id="cid114748" type="Folder" label="Mixed materials">35</container>
+                            <unitdate>1980-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Ladell, Dan (Archivist)</unittitle>
+                            <container id="cid114747" type="Folder" label="Mixed materials">36</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Lawson, John (Chairman, Board of Governors)</unittitle>
+                            <container id="cid114746" type="Folder" label="Mixed materials">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Misc. Notes and Reports,</unittitle>
+                            <container id="cid114745" type="Folder" label="Mixed materials">38-40</container>
+                            <unitdate>1979-1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Patterson, Tom (Founder),</unittitle>
+                            <container id="cid114744" type="Folder" label="Mixed materials">41</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Power Struggle - newspaper clippings and notes regarding internal disputes,</unittitle>
+                            <container id="cid114743" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid114743" type="Folder">1</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Sherrin, Muriel (Producer)</unittitle>
+                            <container id="cid114742" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Schonberg, Michal (Literary Manager)</unittitle>
+                            <container id="cid114741" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Selby, Anne (Director of Publications and Publicity)</unittitle>
+                            <container id="cid114740" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Thomas, Gary (General Manager),</unittitle>
+                            <container id="cid114739" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Uren, John (Director of Marketing),</unittitle>
+                            <container id="cid114738" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1981</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref60" level="series">
+                <did>
+                    <unittitle>"A Model Theatre"</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref63">
+                    <head>Scope and Contents note</head>
+                    <p>This series consists of drafts, revisions and notes of Doherty's paper, "A Model Theatre."</p>
+                </scopecontent>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>General Information,</unittitle>
+                        <container id="cid114737" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Drafts,</unittitle>
+                        <container id="cid114736" type="Folder" label="Mixed materials">8-12</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

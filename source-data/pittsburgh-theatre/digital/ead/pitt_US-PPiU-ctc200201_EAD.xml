@@ -1,0 +1,3191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc200201</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Don Brockett Papers, 1930-1998
+                    <num>CTC.2002.01</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>2004</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:01-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Don Brockett Papers</unittitle>
+            <unitid>CTC.2002.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>15.0 linear feet</extent>
+                <extent>(36 boxes)</extent>
+            </physdesc>
+            <unitdate>1930-1998</unitdate>
+            <abstract id="ref5" label="Abstract">The Don Brockett Papers contain scrapbooks, photographs, contracts, correspondence, and other types of materials relating to the stage productions from the career of entertainer, television, and film personality Don Brockett of Pittsburgh, Pennsylvania.</abstract>
+            <origination label="creator">
+                <persname source="naf">Brockett, Don</persname>
+            </origination>
+        </did>
+        <prefercite id="ref523">
+            <head>Preferred Citation</head>
+            <p>Don Brockett Papers, 1930-1995, CTC.2002.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref9">
+            <head>Previous Citation</head>
+            <p>Don Brockett Papers, 1930-1995, CTC.2002.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Don Brockett Papers, 1930-1995, CTC.32, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <userestrict id="ref53">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <processinfo id="ref3">
+            <head>Processing Information</head>
+            <p>This collection was processed by William Daw in 2003 and 2004.</p>
+        </processinfo>
+        <scopecontent id="ref7">
+            <head>Scope and Content Notes</head>
+            <p>Materials in the Brockett Papers date from his early years as an entertainer from the 1950s through 1995. This collection includes all types of materials, such as photographs, posters, scripts, scores, orchestrations, press clippings, programs, and other promotional materials. Also included are a sampling of Brockett's business contracts, copyrights, and correspondence with various friends, other entertainers, and booking agents.</p>
+        </scopecontent>
+        <accessrestrict id="ref4">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref52">
+            <head>Biography</head>
+            <p>Don Brockett was born in 1930 and lived in and around Pittsburgh, Pennsylvania, throughout his life. He produced, directed, wrote, composed, and usually performed in most of his own shows from the late 1950s until his sudden death in 1995. During his stage career, he also simultaneously managed several other entertainment acts such as Jack and Sally Jenkins and the popular Turtle Creek band, The Vogues. Mr. Brockett was nationally known due to his portrayal of Chef Brockett on the PBS children’s education series 
+                <title render="italic">Mr. Roger’s Neighborhood</title> for over thirty years.</p>
+            <p>What truly made Don Brockett unique were his stage productions performed in and around the city of Pittsburgh. Most of these productions also toured in neighboring states and several were performed throughout the country and Off-Broadway in New York City. A large number of his early shows were created for the duo of Brockett and Barbara Mazziotti, (later Russell), who performed musical revues to critical and commercial praise. In 1985 he premiered 
+                <title render="italic">Forbidden Pittsburgh,</title> which became a celebrated event that would run annually for the next decade. The show featured popular Broadway songs customized to poke fun at local topics, trends, and personalities. He once estimated that he had employed over one thousand Pittsburgh entertainers throughout his career, several of which went on to greater fame like Florence Lacy, Beth Austin, Lenora Nemetz, Rob Marshall, Pam Klinger, and Michael Keaton.</p>
+            <p>Later in Don Brockett’s career, he began to acquire supporting roles in film. He appeared in thirty-five films, many of which were filmed in the Pittsburgh area. His first film was 
+                <title render="italic">Flashdance</title> (1983). He then went on to appear in other major motion pictures, such as 
+                <title render="italic">Fletch Lives</title> with Chevy Chase and 
+                <title render="italic">Hoffa</title> with Jack Nicholson and Danny Devito. He also had a small role in the Academy Award winner for Best Picture of 1991, 
+                <title render="italic">The Silence of the Lambs.</title></p>
+        </bioghist>
+        <arrangement id="ref521">
+            <head>Arrangement</head>
+            <p>Series I. Personal Materials</p>
+            <p>Series II. Legal and Financial Materials</p>
+            <p>Series III. Career Related Materials</p>
+            <p>Series IV. Brockett Productions</p>
+            <p>Series V. Orchestrations</p>
+            <p>Series VI. Photographs</p>
+            <p>Series VII. Oversized and Miscellaneous Materials</p>
+        </arrangement>
+        <acqinfo id="ref522">
+            <head>Acquisition Information</head>
+            <p>Gift of Leslie Brockett in April 2002.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname source="naf">Brockett, Don</persname>
+            <subject source="lcsh">Actors and actresses -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Burlesque (Theater) -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Entertainers -- Pennsylvania -- Pittsburgh</subject>
+            <title source="lcnaf">Mister Rogers' neighborhood (Television program)</title>
+            <subject source="lcsh">Musical theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Musical theater producers and directors -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.)</geogname>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Theatrical companies -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Personal Materials,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1947-1991</unitdate>
+                </did>
+                <scopecontent id="ref11">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains a small amount of personal effects and other items. The awards that Brockett received include letters of acknowledgement from U.S. Senator John Heinz, and both the Senate and House of Representatives of Pennsylvania. The notebooks and journals contain Brockett's notes, thoughts, and experiences during the planning of the Off-Broadway debut of 
+                        <title render="italic">Big Bad Burlesque.</title></p>
+                </scopecontent>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Awards,</unittitle>
+                        <container id="cid318001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid318001" type="Folder">1</container>
+                        <unitdate>1989-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>St. Mary of the Mount High School yearbook - graduating year,</unittitle>
+                        <container id="cid318002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Big Bad Burlesque</title> notebook/journal</unittitle>
+                        <container id="cid318003" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Legal and Financial Materials,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1963-1994</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains a small amount of various formal legal documents and materials.</p>
+                </scopecontent>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Copyrights,</unittitle>
+                        <container id="cid318015" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid318015" type="Folder">1</container>
+                        <unitdate>1963-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Contracts,</unittitle>
+                        <container id="cid318016" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1985-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Expenses while employed by 
+                            <title render="italic">T.V. Guide</title>,</unittitle>
+                        <container id="cid325001" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1960-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Writer/Publishers Clearance Forms,</unittitle>
+                        <container id="cid325002" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1965</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Career Related Materials,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1943-1998</unitdate>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Content Notes</head>
+                    <p>Items in this series relate to Brockett's career in general and not to any one specific production. Contained within are histories, correspondence, television and film scripts, and newsclippings, some of which were arranged into various scrapbooks. Some of the scrapbooks have been preservation photocopied; these copies are housed in the same folder as the original materials.</p>
+                </scopecontent>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Brockett and Barbara promotional materials,</unittitle>
+                        <container id="cid371001" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid371001" type="Folder">1</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Chronology and history of Brockett productions,</unittitle>
+                        <container id="cid371002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Correspondence,</unittitle>
+                        <container id="cid371003" type="Folder" label="Mixed materials">3-4</container>
+                        <unitdate>1960-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Correspondence undated</unittitle>
+                        <container id="cid371004" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Correspondence with Phyllis Diller,</unittitle>
+                        <container id="cid371005" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1964-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Don Brockett's Pittsburgh - the Video,</unittitle>
+                        <container id="cid371008" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Miscellaneous film and television scripts - Brockett scenes only,</unittitle>
+                        <container id="cid371007" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Miscellaneous promotional materials</unittitle>
+                        <container id="cid371006" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1964-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid530001" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid530001" type="Folder">1</container>
+                        <unitdate>1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid530002" type="Folder" label="Mixed materials">2-5</container>
+                        <unitdate>1970-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid530003" type="Folder" label="Mixed materials">6-7</container>
+                        <unitdate>1977-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings,</unittitle>
+                        <container id="cid530004" type="Folder" label="Mixed materials">8-16</container>
+                        <unitdate>1981-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings - undated</unittitle>
+                        <container id="cid530005" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Scrapbook loose pages 1-96,</unittitle>
+                        <container id="cid530006" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid530006" type="Folder">1-10</container>
+                        <unitdate>1943-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Scrapbook - fragments,</unittitle>
+                        <container id="cid530007" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1968-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid530008" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid530008" type="Folder">1</container>
+                        <unitdate>1973-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid530009" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid530010" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid530011" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Script - 
+                            <title render="italic">Flashdance</title>,</unittitle>
+                        <container id="cid530012" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid530012" type="Folder">1</container>
+                        <unitdate>1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Script - 
+                            <title render="italic">Fletch II</title>,</unittitle>
+                        <container id="cid530013" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Script - 
+                            <title render="italic">The Nobodies</title> television pilot,</unittitle>
+                        <container id="cid530014" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Script - 
+                            <title render="italic">Picking Up the Pieces</title>,</unittitle>
+                        <container id="cid530015" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Stouffer's Lean Cuisine jingle lyrics,</unittitle>
+                        <container id="cid530016" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Brockett Productions,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1962-1994</unitdate>
+                </did>
+                <scopecontent id="ref100">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains materials that relate to specific productions of Brockett's. It is divided into three subseries: Scripts, Scores, and Skits / Other materials.</p>
+                </scopecontent>
+                <c02 id="ref120" level="subseries">
+                    <did>
+                        <unittitle>Scripts,</unittitle>
+                        <unitid>1.</unitid>
+                        <unitdate>1969-1994</unitdate>
+                    </did>
+                    <scopecontent id="ref386">
+                        <head>Scope and Content Notes</head>
+                        <p>Boxes 8-14 are production scripts to many of Brockett’s shows, which are arranged alphabetically by title. For some titles the folder not only contains the script, but also other items that pertain to the production, such as music orchestrations and correspondence.</p>
+                    </scopecontent>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Amen, Amen Etc.</title> script</unittitle>
+                            <container id="cid330045" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid330045" type="Folder">1-2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Beads</title> script,</unittitle>
+                            <container id="cid330046" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1970-1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bicentennial Wagon Train Show</title> script,</unittitle>
+                            <container id="cid330047" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> script - Orpheum Theatre / office copy</unittitle>
+                            <container id="cid389001" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> script - lighting cues for club date version</unittitle>
+                            <container id="cid389002" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> script - revised,</unittitle>
+                            <container id="cid389003" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>November 1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> script - office copy,</unittitle>
+                            <container id="cid389004" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>April 1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bless My Soul</title> script</unittitle>
+                            <container id="cid389005" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bring on the Broads</title> script,</unittitle>
+                            <container id="cid389006" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Broadway Big Top</title></unittitle>
+                            <container id="cid389007" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Broadway Tonight</title> - Heinz Hall,</unittitle>
+                            <container id="cid389008" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>November 12 1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brockett and Barbara and Friends</title> - Marriott,</unittitle>
+                            <container id="cid389009" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brockett and Barbara in Trashdance</title>,</unittitle>
+                            <container id="cid389010" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid389010" type="Folder">1</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brockett and Barbara at 104</title></unittitle>
+                            <container id="cid389011" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brockett and Barbara in Sixtysomething</title></unittitle>
+                            <container id="cid389012" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Brockett and Barbara's 25th Anniversary</unittitle>
+                            <container id="cid389013" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Burlesqapade</title> - copies of scripts</unittitle>
+                            <container id="cid389014" type="Folder" label="Mixed materials">5-6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Burlesque Gaieties</title> script,</unittitle>
+                            <container id="cid389015" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1974</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Cat Cay</title>,</unittitle>
+                            <container id="cid389016" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>March 10 1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Celebration '76</title> script and promotional materials,</unittitle>
+                            <container id="cid389017" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Commercials scripts</unittitle>
+                            <container id="cid389018" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Cowardly Way Out</title> script</unittitle>
+                            <container id="cid389019" type="Folder" label="Mixed materials">11-12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Desdamona Fink Meets Son of Stage Struck</title></unittitle>
+                            <container id="cid389020" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Don Brockett with Champagne</unittitle>
+                            <container id="cid389021" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don't Feed the Crockagators</title> script,</unittitle>
+                            <container id="cid389022" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid389022" type="Folder">1</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '85</title> script - original office copy</unittitle>
+                            <container id="cid389023" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '86</title> script,</unittitle>
+                            <container id="cid389024" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>April 1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '86</title> script - office copy</unittitle>
+                            <container id="cid389025" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '87</title> script</unittitle>
+                            <container id="cid389026" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '88</title> script</unittitle>
+                            <container id="cid389027" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '89</title> script</unittitle>
+                            <container id="cid389028" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '90</title> script,</unittitle>
+                            <container id="cid389029" type="Folder" label="Mixed materials">8-9</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '92</title> script,</unittitle>
+                            <container id="cid389030" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>July 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '93</title> script,</unittitle>
+                            <container id="cid389031" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1992-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '94</title> script</unittitle>
+                            <container id="cid393001" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid393001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Don Brockett's Forbidden Pittsburgh '95</title> script</unittitle>
+                            <container id="cid393002" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Fred Rogers 25th anniversary special script,</unittitle>
+                            <container id="cid393003" type="Folder" label="Mixed materials">3-4</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Gimbels Bunny Breakfast script,</unittitle>
+                            <container id="cid393004" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Gimbels Christmas show script,</unittitle>
+                            <container id="cid393005" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Go Pound Salt</title> script - Ben Gross restaurant,</unittitle>
+                            <container id="cid393006" type="Folder" label="Mixed materials">7-8</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Hello Tourists</title> script</unittitle>
+                            <container id="cid395001" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">How the West was Won</title> script,</unittitle>
+                            <container id="cid395002" type="Folder" label="Mixed materials">10-11</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Industrial Show</title> script and promotional materials</unittitle>
+                            <container id="cid395003" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ingersoll Rand</title> script - office copy with final changes</unittitle>
+                            <container id="cid395004" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Josephine the Short Neck Giraffe</title> the sequel! script,</unittitle>
+                            <container id="cid395005" type="Box" label="Mixed materials">12</container>
+                            <container parent="cid395005" type="Folder">1</container>
+                            <unitdate>1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Loveboat Follies</title> script</unittitle>
+                            <container id="cid395006" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Love Song</title> script</unittitle>
+                            <container id="cid395007" type="Folder" label="Mixed materials">3-4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Lyrics Verse</title> script</unittitle>
+                            <container id="cid395008" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">National Jewish Test</title> script</unittitle>
+                            <container id="cid395009" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">New Amen Show</title> script - Baltimore</unittitle>
+                            <container id="cid395010" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">New Amen Show</title> script - Marriott</unittitle>
+                            <container id="cid395011" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">New Amen Show</title> script with changes,</unittitle>
+                            <container id="cid395012" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="file">
+                        <did>
+                            <unittitle>NYC Update script</unittitle>
+                            <container id="cid395013" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Peaches and Bananas</title> script,</unittitle>
+                            <container id="cid395014" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>July 1 1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Peaches and Bananas</title> script office copy and score,</unittitle>
+                            <container id="cid395015" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>July 1 1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Show script,</unittitle>
+                            <container id="cid395016" type="Box" label="Mixed materials">13</container>
+                            <container parent="cid395016" type="Folder">1</container>
+                            <unitdate>November 17 1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Politics '72</title> script - Ben Gross restaurant,</unittitle>
+                            <container id="cid395017" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1972</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Poor Pitiful Pittsburgh</title> script - Ben Gross Restaurant,</unittitle>
+                            <container id="cid395018" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1969-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Places Please</title> script</unittitle>
+                            <container id="cid395019" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Places Please</title> script office copy</unittitle>
+                            <container id="cid395020" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pretty Please</title> script</unittitle>
+                            <container id="cid395021" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Riverboat Follies</title>,</unittitle>
+                            <container id="cid395022" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Santa's Workshop</title> script,</unittitle>
+                            <container id="cid395023" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>October 25 1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sights and Sounds of Pittsburgh</title> script,</unittitle>
+                            <container id="cid395024" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>November 1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Son of Stage Struck</title> script</unittitle>
+                            <container id="cid395025" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Stage Struck</title> script</unittitle>
+                            <container id="cid395026" type="Folder" label="Mixed materials">11-12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sweet Feet</title> script</unittitle>
+                            <container id="cid395027" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sweet Feet</title> - Cockeysville,</unittitle>
+                            <container id="cid395028" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>May 1974</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sweet Feet</title> script - Jennerstown Baltimore re-write</unittitle>
+                            <container id="cid399001" type="Box" label="Mixed materials">14</container>
+                            <container parent="cid399001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Symphony Cabaret</title> script - Duquesne Club</unittitle>
+                            <container id="cid399002" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>April 4 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>Tom Smith script,</unittitle>
+                            <container id="cid399003" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1974-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">TV or Not TV</title> script - Celestial,</unittitle>
+                            <container id="cid399030" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>March 11 1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>U.J.F. Show Full of Life,</unittitle>
+                            <container id="cid399004" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>October 1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Vintage Brockett and Barbara</title> script,</unittitle>
+                            <container id="cid399031" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Vintage Brockett and Barbara Again</title> script,</unittitle>
+                            <container id="cid399005" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>Wake Up Santa</unittitle>
+                            <container id="cid399006" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Who Needs a Showtrain?</title> script and early music and sketches</unittitle>
+                            <container id="cid399007" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">You Get Your Show</title> script</unittitle>
+                            <container id="cid399008" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref122" level="subseries">
+                    <did>
+                        <unittitle>Scores,</unittitle>
+                        <unitid>2.</unitid>
+                        <unitdate>1969-1994</unitdate>
+                    </did>
+                    <scopecontent id="ref387">
+                        <head>Scope and Content Notes</head>
+                        <p>Boxes 15-17 contain the production scores to several of Brockett’s shows; they are arranged alphabetically by the title of the production.</p>
+                    </scopecontent>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Amen, Amen, Etc.</title> score,</unittitle>
+                            <container id="cid399009" type="Box" label="Mixed materials">15</container>
+                            <container parent="cid399009" type="Folder">1-2</container>
+                            <unitdate>1973</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> full score,</unittitle>
+                            <container id="cid399010" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>January 1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> score</unittitle>
+                            <container id="cid399011" type="Folder" label="Mixed materials">4-5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> score</unittitle>
+                            <container id="cid399012" type="Box" label="Mixed materials">16</container>
+                            <container parent="cid399012" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> piano score,</unittitle>
+                            <container id="cid399013" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>January 1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> - Burlesque Gaieties score</unittitle>
+                            <container id="cid399014" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Bless My Soul</title> score</unittitle>
+                            <container id="cid399015" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Forbidden Pittsburgh ’85</title> score</unittitle>
+                            <container id="cid399016" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Forbidden Pittsburgh ’93</title> score</unittitle>
+                            <container id="cid399017" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Forbidden Pittsburgh ’94</title> score,</unittitle>
+                            <container id="cid399018" type="Box" label="Mixed materials">17</container>
+                            <container parent="cid399018" type="Folder">1</container>
+                            <unitdate>1993-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Industrial Show music,</unittitle>
+                            <container id="cid399019" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1969-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Ingersol Rand</title> score,</unittitle>
+                            <container id="cid399020" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1975-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Just for Openers</title> score</unittitle>
+                            <container id="cid399021" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Mister Roger’s Operas,</unittitle>
+                            <container id="cid399022" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1973-1974</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The New Amen Show</title> score</unittitle>
+                            <container id="cid399023" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Not Tonight I Have a Headache</title> score</unittitle>
+                            <container id="cid399024" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Sweet Feet</title> score,</unittitle>
+                            <container id="cid399025" type="Folder" label="Mixed materials">8-10</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Utopia 20</title> score,</unittitle>
+                            <container id="cid399026" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Unidentified scores</unittitle>
+                            <container id="cid399027" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref123" level="subseries">
+                    <did>
+                        <unittitle>Skits and other materials,</unittitle>
+                        <unitid>3.</unitid>
+                        <unitdate>1962-1978</unitdate>
+                    </did>
+                    <scopecontent id="ref388">
+                        <head>Scope and Content Notes</head>
+                        <p>Boxes 18 and 19 are an alphabetical arrangement by title prepared by Don Brockett of skits, comedic scenes, intros, medleys, and some lyrics to songs. Box 20 consists of miscellaneous materials including scrapbooks, programs, artwork, etc.</p>
+                    </scopecontent>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>Skits, intros, lyrics, etc "A-M"</unittitle>
+                            <container id="cid399028" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid399028" type="Folder">1-10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>Skits, intros, lyrics, etc "N-Z"</unittitle>
+                            <container id="cid399029" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid399029" type="Folder">1-7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Big Bad Burlesque</title> scrapbook</unittitle>
+                            <container id="cid530017" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid530017" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Brockett's Broadway Babes</title> planning</unittitle>
+                            <container id="cid530025" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>Fred Rogers 25th anniversary special planning</unittitle>
+                            <container id="cid530026" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>Industrial Show programs</unittitle>
+                            <container id="cid530019" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="file">
+                        <did>
+                            <unittitle>Miscellaneous artwork</unittitle>
+                            <container id="cid530022" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">N.Y.C.</title> stage manager's book</unittitle>
+                            <container id="cid530024" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Peaches and Bananas</title> artwork</unittitle>
+                            <container id="cid530023" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid530018" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1968-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>Special Material</unittitle>
+                            <container id="cid530020" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="file">
+                        <did>
+                            <unittitle>Tony Domino finale - rough draft</unittitle>
+                            <container id="cid530021" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Orchestrations</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref54">
+                    <head>Scope and Content Notes</head>
+                    <p>Within this series are song orchestrations that were used by Brockett for his multitude of stage productions. They are arranged into four subseries: Known composers, Brockett composed, Unknown composers, and Other orchestrations.</p>
+                </scopecontent>
+                <c02 id="ref25" level="subseries">
+                    <did>
+                        <unittitle>Known Composers</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <scopecontent id="ref389">
+                        <head>Scope and Content Notes</head>
+                        <p>Box 21 contains orchestrations by composers who are not Don Brockett and are clearly identified on the materials; they are arranged alphabetically by the song title.</p>
+                    </scopecontent>
+                    <c03 id="ref220" level="file">
+                        <did>
+                            <unittitle>Ac-cent-tchu-aate the Positive</unittitle>
+                            <container id="cid412001" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid412001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="file">
+                        <did>
+                            <unittitle>Almawhatsamater</unittitle>
+                            <container id="cid412002" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="file">
+                        <did>
+                            <unittitle>And All that Jazz</unittitle>
+                            <container id="cid412003" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="file">
+                        <did>
+                            <unittitle>And I’m Telling You I’m Not Going</unittitle>
+                            <container id="cid412004" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="file">
+                        <did>
+                            <unittitle>Before the Parade Passes By</unittitle>
+                            <container id="cid412005" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref225" level="file">
+                        <did>
+                            <unittitle>Can-Can</unittitle>
+                            <container id="cid412006" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref226" level="file">
+                        <did>
+                            <unittitle>Hawaiian War Chant</unittitle>
+                            <container id="cid412007" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="file">
+                        <did>
+                            <unittitle>Hello My Baby</unittitle>
+                            <container id="cid412008" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="file">
+                        <did>
+                            <unittitle>The Impossible Dream</unittitle>
+                            <container id="cid412009" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="file">
+                        <did>
+                            <unittitle>It’s You I Like</unittitle>
+                            <container id="cid412010" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="file">
+                        <did>
+                            <unittitle>Louise</unittitle>
+                            <container id="cid412011" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="file">
+                        <did>
+                            <unittitle>Men in My Little Girl’s Life</unittitle>
+                            <container id="cid412012" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="file">
+                        <did>
+                            <unittitle>Mimi</unittitle>
+                            <container id="cid412013" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="file">
+                        <did>
+                            <unittitle>Mr. Whipple’s Watching</unittitle>
+                            <container id="cid412014" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="file">
+                        <did>
+                            <unittitle>Night Fever</unittitle>
+                            <container id="cid412015" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref235" level="file">
+                        <did>
+                            <unittitle>Oh! You Beautiful Doll</unittitle>
+                            <container id="cid412016" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="file">
+                        <did>
+                            <unittitle>Rocky theme</unittitle>
+                            <container id="cid412017" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle>Swan Lake Ballet Suite</unittitle>
+                            <container id="cid412018" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="file">
+                        <did>
+                            <unittitle>Teen Angel</unittitle>
+                            <container id="cid412019" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="file">
+                        <did>
+                            <unittitle>Thank Heaven for Little Girls</unittitle>
+                            <container id="cid412020" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="file">
+                        <did>
+                            <unittitle>Thanks to You</unittitle>
+                            <container id="cid412021" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="file">
+                        <did>
+                            <unittitle>Tomorrow</unittitle>
+                            <container id="cid412022" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="file">
+                        <did>
+                            <unittitle>Union Label</unittitle>
+                            <container id="cid412023" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle>We Didn’t Start the Fire</unittitle>
+                            <container id="cid412024" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="file">
+                        <did>
+                            <unittitle>Welcome to Brockett’s Revue</unittitle>
+                            <container id="cid412025" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="file">
+                        <did>
+                            <unittitle>What I Did For Love</unittitle>
+                            <container id="cid412026" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="file">
+                        <did>
+                            <unittitle>Wilkommen</unittitle>
+                            <container id="cid412027" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle>Wonderful Night</unittitle>
+                            <container id="cid412028" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="file">
+                        <did>
+                            <unittitle>You Made Me Love You</unittitle>
+                            <container id="cid412029" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref26" level="subseries">
+                    <did>
+                        <unittitle>Brockett Composed</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <scopecontent id="ref390">
+                        <head>Scope and Content Notes</head>
+                        <p>Box 22 contains orchestrations labeled as being composed by Don Brockett; they are arranged alphabetically by the title of the piece.</p>
+                    </scopecontent>
+                    <c03 id="ref250" level="file">
+                        <did>
+                            <unittitle>Airport Polka</unittitle>
+                            <container id="cid414001" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid414001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="file">
+                        <did>
+                            <unittitle>All We Know is That She’s Here</unittitle>
+                            <container id="cid414002" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="file">
+                        <did>
+                            <unittitle>Bi-Centennial Production (community theatre)</unittitle>
+                            <container id="cid414003" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="file">
+                        <did>
+                            <unittitle>Big Old Lady</unittitle>
+                            <container id="cid414004" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="file">
+                        <did>
+                            <unittitle>Capital B</unittitle>
+                            <container id="cid414005" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="file">
+                        <did>
+                            <unittitle>Casey and Kildare</unittitle>
+                            <container id="cid414006" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="file">
+                        <did>
+                            <unittitle>Chickenanny</unittitle>
+                            <container id="cid414007" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="file">
+                        <did>
+                            <unittitle>Dirty Old Lady</unittitle>
+                            <container id="cid414008" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="file">
+                        <did>
+                            <unittitle>Fight Song</unittitle>
+                            <container id="cid414009" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="file">
+                        <did>
+                            <unittitle>How Do You Like It So Far?</unittitle>
+                            <container id="cid414010" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="file">
+                        <did>
+                            <unittitle>I Can’t Remember Her Name</unittitle>
+                            <container id="cid414011" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="file">
+                        <did>
+                            <unittitle>If That is the Kind of Woman He Wants</unittitle>
+                            <container id="cid414012" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="file">
+                        <did>
+                            <unittitle>I Want Me a Woman</unittitle>
+                            <container id="cid414013" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="file">
+                        <did>
+                            <unittitle>Jumbo</unittitle>
+                            <container id="cid414014" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="file">
+                        <did>
+                            <unittitle>Kuelling</unittitle>
+                            <container id="cid414015" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="file">
+                        <did>
+                            <unittitle>Last Night I Met Miss Right, Mom</unittitle>
+                            <container id="cid414016" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="file">
+                        <did>
+                            <unittitle>Last Polka in Pittsburgh</unittitle>
+                            <container id="cid414017" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="file">
+                        <did>
+                            <unittitle>Lord Sees Me</unittitle>
+                            <container id="cid414018" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="file">
+                        <did>
+                            <unittitle>Love Songs</unittitle>
+                            <container id="cid414019" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="file">
+                        <did>
+                            <unittitle>My Christmas Wish</unittitle>
+                            <container id="cid414020" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="file">
+                        <did>
+                            <unittitle>My Darling When You Go Away</unittitle>
+                            <container id="cid414021" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="file">
+                        <did>
+                            <unittitle>Nikita Cha-Cha</unittitle>
+                            <container id="cid414022" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="file">
+                        <did>
+                            <unittitle>Nose Touching Song</unittitle>
+                            <container id="cid414023" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="file">
+                        <did>
+                            <unittitle>Old Fashioned Good Night</unittitle>
+                            <container id="cid414024" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="file">
+                        <did>
+                            <unittitle>Old Prayer in a New Song</unittitle>
+                            <container id="cid414025" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="file">
+                        <did>
+                            <unittitle>Places Please</unittitle>
+                            <container id="cid414026" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="file">
+                        <did>
+                            <unittitle>Pretty Things</unittitle>
+                            <container id="cid414027" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Rich Kid, Poor Kid</unittitle>
+                            <container id="cid414028" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="file">
+                        <did>
+                            <unittitle>Santa</unittitle>
+                            <container id="cid414029" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="file">
+                        <did>
+                            <unittitle>Santa Claus Blues</unittitle>
+                            <container id="cid414030" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="file">
+                        <did>
+                            <unittitle>Sea Captain’s Daughter</unittitle>
+                            <container id="cid414031" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="file">
+                        <did>
+                            <unittitle>Sinatra Records</unittitle>
+                            <container id="cid414032" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>Sing a Song</unittitle>
+                            <container id="cid414033" type="Folder" label="Mixed materials">33</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>Song of Love</unittitle>
+                            <container id="cid414034" type="Folder" label="Mixed materials">34</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>Stage Struck</unittitle>
+                            <container id="cid414035" type="Folder" label="Mixed materials">35</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="file">
+                        <did>
+                            <unittitle>Subway</unittitle>
+                            <container id="cid414036" type="Folder" label="Mixed materials">36</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="file">
+                        <did>
+                            <unittitle>Sweet Feet</unittitle>
+                            <container id="cid414037" type="Folder" label="Mixed materials">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="file">
+                        <did>
+                            <unittitle>Tango de March</unittitle>
+                            <container id="cid414038" type="Folder" label="Mixed materials">38</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>To the Dentist</unittitle>
+                            <container id="cid414039" type="Folder" label="Mixed materials">39</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="file">
+                        <did>
+                            <unittitle>Two of Us</unittitle>
+                            <container id="cid414040" type="Folder" label="Mixed materials">40</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="file">
+                        <did>
+                            <unittitle>Wake Up Santa</unittitle>
+                            <container id="cid414041" type="Folder" label="Mixed materials">41</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="file">
+                        <did>
+                            <unittitle>We’re Both Twelve Now</unittitle>
+                            <container id="cid414042" type="Folder" label="Mixed materials">42</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="file">
+                        <did>
+                            <unittitle>Who Needs a Showtrain?</unittitle>
+                            <container id="cid414043" type="Folder" label="Mixed materials">43</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="file">
+                        <did>
+                            <unittitle>Who Will Finish the Season?</unittitle>
+                            <container id="cid414044" type="Folder" label="Mixed materials">44</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="file">
+                        <did>
+                            <unittitle>Wonderful Burlesque Days</unittitle>
+                            <container id="cid414045" type="Folder" label="Mixed materials">45</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="file">
+                        <did>
+                            <unittitle>You Can’t Poke Fun at the Palace</unittitle>
+                            <container id="cid414046" type="Folder" label="Mixed materials">46</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref28" level="subseries">
+                    <did>
+                        <unittitle>Unknown Composers</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <scopecontent id="ref391">
+                        <head>Scope and Content Notes</head>
+                        <p>Boxes 23-28 are orchestrations composed by miscellaneous composers (some of which are possibly Brockett and some that are popular famous composers) but the composer is not specifically identified on the materials; they are arranged alphabetically by the title of the piece.</p>
+                    </scopecontent>
+                    <c03 id="ref296" level="file">
+                        <did>
+                            <unittitle>A.M.</unittitle>
+                            <container id="cid414047" type="Box" label="Mixed materials">23</container>
+                            <container parent="cid414047" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="file">
+                        <did>
+                            <unittitle>Acts</unittitle>
+                            <container id="cid414048" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="file">
+                        <did>
+                            <unittitle>Ah Paris</unittitle>
+                            <container id="cid414049" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="file">
+                        <did>
+                            <unittitle>All of Me</unittitle>
+                            <container id="cid414050" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="file">
+                        <did>
+                            <unittitle>Amen</unittitle>
+                            <container id="cid414051" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="file">
+                        <did>
+                            <unittitle>Amen Commercials</unittitle>
+                            <container id="cid414052" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="file">
+                        <did>
+                            <unittitle>Anything Goes</unittitle>
+                            <container id="cid414053" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="file">
+                        <did>
+                            <unittitle>Application</unittitle>
+                            <container id="cid414054" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="file">
+                        <did>
+                            <unittitle>Applause</unittitle>
+                            <container id="cid414055" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="file">
+                        <did>
+                            <unittitle>Arnie Palmer</unittitle>
+                            <container id="cid414056" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="file">
+                        <did>
+                            <unittitle>Avon Beguine</unittitle>
+                            <container id="cid414057" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="file">
+                        <did>
+                            <unittitle>Back Home in Indiana</unittitle>
+                            <container id="cid414058" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="file">
+                        <did>
+                            <unittitle>Balloon</unittitle>
+                            <container id="cid414059" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="file">
+                        <did>
+                            <unittitle>Battle Hymn</unittitle>
+                            <container id="cid414060" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="file">
+                        <did>
+                            <unittitle>Big Bad Burlesque Bows</unittitle>
+                            <container id="cid414061" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="file">
+                        <did>
+                            <unittitle>Big Bad Burlesque Opening</unittitle>
+                            <container id="cid414062" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="file">
+                        <did>
+                            <unittitle>Big Spender</unittitle>
+                            <container id="cid414063" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="file">
+                        <did>
+                            <unittitle>Bill</unittitle>
+                            <container id="cid414064" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="file">
+                        <did>
+                            <unittitle>Bill Bailey</unittitle>
+                            <container id="cid414065" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref315" level="file">
+                        <did>
+                            <unittitle>The Birth of the Blues</unittitle>
+                            <container id="cid414066" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref316" level="file">
+                        <did>
+                            <unittitle>Bonnie and Clyde</unittitle>
+                            <container id="cid414067" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref317" level="file">
+                        <did>
+                            <unittitle>Boompies</unittitle>
+                            <container id="cid414068" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref318" level="file">
+                        <did>
+                            <unittitle>Broadway Tonight</unittitle>
+                            <container id="cid414069" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref319" level="file">
+                        <did>
+                            <unittitle>Brockett and Barbara Under Broadway</unittitle>
+                            <container id="cid414070" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref321" level="file">
+                        <did>
+                            <unittitle>Brockett’s Big Bad Burlesque</unittitle>
+                            <container id="cid414072" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref322" level="file">
+                        <did>
+                            <unittitle>Brockett Opening Number</unittitle>
+                            <container id="cid414073" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref323" level="file">
+                        <did>
+                            <unittitle>Brotherhood</unittitle>
+                            <container id="cid414074" type="Box" label="Mixed materials">24</container>
+                            <container parent="cid414074" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref324" level="file">
+                        <did>
+                            <unittitle>Bug Production</unittitle>
+                            <container id="cid414075" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref325" level="file">
+                        <did>
+                            <unittitle>Burlesque</unittitle>
+                            <container id="cid414076" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref326" level="file">
+                        <did>
+                            <unittitle>Burlesque Overture</unittitle>
+                            <container id="cid414077" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref327" level="file">
+                        <did>
+                            <unittitle>Cabaret</unittitle>
+                            <container id="cid414078" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref328" level="file">
+                        <did>
+                            <unittitle>Can I Take You Home</unittitle>
+                            <container id="cid414079" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref329" level="file">
+                        <did>
+                            <unittitle>Carioca</unittitle>
+                            <container id="cid414080" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref330" level="file">
+                        <did>
+                            <unittitle>Chair Commercial Chaser</unittitle>
+                            <container id="cid414081" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref331" level="file">
+                        <did>
+                            <unittitle>Chef Brockett Song</unittitle>
+                            <container id="cid414082" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref332" level="file">
+                        <did>
+                            <unittitle>Ching and Ling</unittitle>
+                            <container id="cid414083" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref333" level="file">
+                        <did>
+                            <unittitle>Christmas Wish</unittitle>
+                            <container id="cid414084" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref334" level="file">
+                        <did>
+                            <unittitle>Cinderella</unittitle>
+                            <container id="cid414085" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref335" level="file">
+                        <did>
+                            <unittitle>Clairol-Opener</unittitle>
+                            <container id="cid414086" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref336" level="file">
+                        <did>
+                            <unittitle>Clyde and Hortense</unittitle>
+                            <container id="cid414087" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref337" level="file">
+                        <did>
+                            <unittitle>Comatose or Death</unittitle>
+                            <container id="cid414088" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref338" level="file">
+                        <did>
+                            <unittitle>Commercials</unittitle>
+                            <container id="cid414089" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref339" level="file">
+                        <did>
+                            <unittitle>Community Songs</unittitle>
+                            <container id="cid414090" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref340" level="file">
+                        <did>
+                            <unittitle>The Company Way</unittitle>
+                            <container id="cid414091" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref341" level="file">
+                        <did>
+                            <unittitle>Diet Coke</unittitle>
+                            <container id="cid414092" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref342" level="file">
+                        <did>
+                            <unittitle>Dis-Done</unittitle>
+                            <container id="cid414093" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref343" level="file">
+                        <did>
+                            <unittitle>Doctor and the Lady</unittitle>
+                            <container id="cid414094" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref344" level="file">
+                        <did>
+                            <unittitle>Downtown</unittitle>
+                            <container id="cid414095" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref345" level="file">
+                        <did>
+                            <unittitle>Dry Bones</unittitle>
+                            <container id="cid414096" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref346" level="file">
+                        <did>
+                            <unittitle>Easy Credit</unittitle>
+                            <container id="cid414097" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref347" level="file">
+                        <did>
+                            <unittitle>Eat n Park</unittitle>
+                            <container id="cid414098" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref348" level="file">
+                        <did>
+                            <unittitle>Elf March</unittitle>
+                            <container id="cid414099" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="file">
+                        <did>
+                            <unittitle>Entertain</unittitle>
+                            <container id="cid414100" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="file">
+                        <did>
+                            <unittitle>Everybody’s Fancy</unittitle>
+                            <container id="cid414101" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="file">
+                        <did>
+                            <unittitle>Fiddler</unittitle>
+                            <container id="cid414102" type="Box" label="Mixed materials">25</container>
+                            <container parent="cid414102" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="file">
+                        <did>
+                            <unittitle>The First Time You Notice</unittitle>
+                            <container id="cid414103" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref353" level="file">
+                        <did>
+                            <unittitle>Football Production</unittitle>
+                            <container id="cid414104" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="file">
+                        <did>
+                            <unittitle>Five Growing Boys</unittitle>
+                            <container id="cid414105" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="file">
+                        <did>
+                            <unittitle>42nd Street</unittitle>
+                            <container id="cid414106" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="file">
+                        <did>
+                            <unittitle>Funs a Poppin’</unittitle>
+                            <container id="cid414107" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="file">
+                        <did>
+                            <unittitle>Gas: It’s Quite an Art</unittitle>
+                            <container id="cid414108" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="file">
+                        <did>
+                            <unittitle>Give My Regards to Broadway</unittitle>
+                            <container id="cid414109" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="file">
+                        <did>
+                            <unittitle>Glamour Girl</unittitle>
+                            <container id="cid414110" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="file">
+                        <did>
+                            <unittitle>Gunner</unittitle>
+                            <container id="cid414111" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref361" level="file">
+                        <did>
+                            <unittitle>Happy Days are Here Again</unittitle>
+                            <container id="cid414112" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="file">
+                        <did>
+                            <unittitle>Hard Time to Come Again No More</unittitle>
+                            <container id="cid414113" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="file">
+                        <did>
+                            <unittitle>Hats Off to Broadway</unittitle>
+                            <container id="cid414114" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="file">
+                        <did>
+                            <unittitle>Hello Dolly</unittitle>
+                            <container id="cid414115" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref365" level="file">
+                        <did>
+                            <unittitle>Here is Your Tent</unittitle>
+                            <container id="cid414116" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref366" level="file">
+                        <did>
+                            <unittitle>Home Show</unittitle>
+                            <container id="cid414117" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref367" level="file">
+                        <did>
+                            <unittitle>I am Taking Pictures</unittitle>
+                            <container id="cid414118" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref368" level="file">
+                        <did>
+                            <unittitle>I Can’t Apologize Enough</unittitle>
+                            <container id="cid414119" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref369" level="file">
+                        <did>
+                            <unittitle>I Could Have Danced All Night</unittitle>
+                            <container id="cid414120" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref370" level="file">
+                        <did>
+                            <unittitle>I Dig Rock and Roll Music</unittitle>
+                            <container id="cid414121" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref371" level="file">
+                        <did>
+                            <unittitle>I Don’t Know how to Love Him</unittitle>
+                            <container id="cid414122" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref372" level="file">
+                        <did>
+                            <unittitle>If I Were a Rich Man</unittitle>
+                            <container id="cid414123" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref373" level="file">
+                        <did>
+                            <unittitle>If Only Moderately</unittitle>
+                            <container id="cid414124" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref374" level="file">
+                        <did>
+                            <unittitle>If We Only Have Love</unittitle>
+                            <container id="cid414125" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref375" level="file">
+                        <did>
+                            <unittitle>I Just Can’t Wait</unittitle>
+                            <container id="cid414126" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref376" level="file">
+                        <did>
+                            <unittitle>Improvisations Chaser</unittitle>
+                            <container id="cid414127" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref377" level="file">
+                        <did>
+                            <unittitle>Inkka-dink-ka-dink</unittitle>
+                            <container id="cid414128" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref378" level="file">
+                        <did>
+                            <unittitle>Intro to BQ Days</unittitle>
+                            <container id="cid414129" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref379" level="file">
+                        <did>
+                            <unittitle>I Really Love it Up Here</unittitle>
+                            <container id="cid414130" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref380" level="file">
+                        <did>
+                            <unittitle>I Remember it Well</unittitle>
+                            <container id="cid414131" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref381" level="file">
+                        <did>
+                            <unittitle>I Ride My Horse</unittitle>
+                            <container id="cid414132" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref382" level="file">
+                        <did>
+                            <unittitle>It’s Quite an Act</unittitle>
+                            <container id="cid414133" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref383" level="file">
+                        <did>
+                            <unittitle>Jim and Tammy</unittitle>
+                            <container id="cid414134" type="Folder" label="Mixed materials">33</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref384" level="file">
+                        <did>
+                            <unittitle>John Wayne</unittitle>
+                            <container id="cid414135" type="Folder" label="Mixed materials">34</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref385" level="file">
+                        <did>
+                            <unittitle>K-I-D-S</unittitle>
+                            <container id="cid414136" type="Folder" label="Mixed materials">35</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref393" level="file">
+                        <did>
+                            <unittitle>Lakeview Sheraton</unittitle>
+                            <container id="cid418001" type="Box" label="Mixed materials">26</container>
+                            <container parent="cid418001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref394" level="file">
+                        <did>
+                            <unittitle>Lee Norse Commercial Jingle</unittitle>
+                            <container id="cid418002" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref395" level="file">
+                        <did>
+                            <unittitle>Let Us Entertain You</unittitle>
+                            <container id="cid418003" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref396" level="file">
+                        <did>
+                            <unittitle>Little Do They Know</unittitle>
+                            <container id="cid418004" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref397" level="file">
+                        <did>
+                            <unittitle>Little Rock</unittitle>
+                            <container id="cid418005" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref398" level="file">
+                        <did>
+                            <unittitle>Lizzie Borden</unittitle>
+                            <container id="cid418006" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref399" level="file">
+                        <did>
+                            <unittitle>Long Way to September</unittitle>
+                            <container id="cid418007" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref400" level="file">
+                        <did>
+                            <unittitle>Lord Be With You</unittitle>
+                            <container id="cid418008" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref401" level="file">
+                        <did>
+                            <unittitle>Lullaby of Broadway</unittitle>
+                            <container id="cid418009" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref402" level="file">
+                        <did>
+                            <unittitle>Mame</unittitle>
+                            <container id="cid418010" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref403" level="file">
+                        <did>
+                            <unittitle>Mary Poppins</unittitle>
+                            <container id="cid418011" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref404" level="file">
+                        <did>
+                            <unittitle>Maybe</unittitle>
+                            <container id="cid418012" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref405" level="file">
+                        <did>
+                            <unittitle>May Best</unittitle>
+                            <container id="cid418013" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref406" level="file">
+                        <did>
+                            <unittitle>Meet the Champion</unittitle>
+                            <container id="cid418014" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref407" level="file">
+                        <did>
+                            <unittitle>Miss America</unittitle>
+                            <container id="cid418015" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref408" level="file">
+                        <did>
+                            <unittitle>Mistaken Identity</unittitle>
+                            <container id="cid418016" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref409" level="file">
+                        <did>
+                            <unittitle>Mr. Foo</unittitle>
+                            <container id="cid418017" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref410" level="file">
+                        <did>
+                            <unittitle>Mr. Goldberg</unittitle>
+                            <container id="cid418018" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref411" level="file">
+                        <did>
+                            <unittitle>My Heart Belongs to Daddy</unittitle>
+                            <container id="cid418019" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref412" level="file">
+                        <did>
+                            <unittitle>Nepitism</unittitle>
+                            <container id="cid418020" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref413" level="file">
+                        <did>
+                            <unittitle>New Amen Show Opening</unittitle>
+                            <container id="cid418021" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref414" level="file">
+                        <did>
+                            <unittitle>New York, New York</unittitle>
+                            <container id="cid418022" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref415" level="file">
+                        <did>
+                            <unittitle>New York Chaser</unittitle>
+                            <container id="cid418023" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref416" level="file">
+                        <did>
+                            <unittitle>New York Opening</unittitle>
+                            <container id="cid418024" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref417" level="file">
+                        <did>
+                            <unittitle>Nights on Broadway</unittitle>
+                            <container id="cid418025" type="Box" label="Mixed materials">27</container>
+                            <container parent="cid418025" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref418" level="file">
+                        <did>
+                            <unittitle>The Nobodies</unittitle>
+                            <container id="cid418026" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref419" level="file">
+                        <did>
+                            <unittitle>Numero Uno</unittitle>
+                            <container id="cid418027" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref420" level="file">
+                        <did>
+                            <unittitle>Oh You Can’t Fly to Heaven</unittitle>
+                            <container id="cid418028" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref421" level="file">
+                        <did>
+                            <unittitle>Old Folks at Home</unittitle>
+                            <container id="cid418029" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref422" level="file">
+                        <did>
+                            <unittitle>Old Song</unittitle>
+                            <container id="cid418030" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref423" level="file">
+                        <did>
+                            <unittitle>Opening Talk</unittitle>
+                            <container id="cid418031" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref424" level="file">
+                        <did>
+                            <unittitle>Ooh My Feet</unittitle>
+                            <container id="cid418032" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref425" level="file">
+                        <did>
+                            <unittitle>Opera</unittitle>
+                            <container id="cid418033" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref426" level="file">
+                        <did>
+                            <unittitle>Orphan Annie</unittitle>
+                            <container id="cid418034" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref427" level="file">
+                        <did>
+                            <unittitle>Orphan Dolls</unittitle>
+                            <container id="cid418035" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref428" level="file">
+                        <did>
+                            <unittitle>Patriotic Production</unittitle>
+                            <container id="cid418036" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref429" level="file">
+                        <did>
+                            <unittitle>Paper Production</unittitle>
+                            <container id="cid418037" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref430" level="file">
+                        <did>
+                            <unittitle>Peaches and Bananas Opening</unittitle>
+                            <container id="cid418038" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref431" level="file">
+                        <did>
+                            <unittitle>Picture Production</unittitle>
+                            <container id="cid418039" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref432" level="file">
+                        <did>
+                            <unittitle>Pilgrim Indian</unittitle>
+                            <container id="cid418040" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref433" level="file">
+                        <did>
+                            <unittitle>Pittsburgh Opera</unittitle>
+                            <container id="cid418041" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref434" level="file">
+                        <did>
+                            <unittitle>Playmate</unittitle>
+                            <container id="cid418042" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref435" level="file">
+                        <did>
+                            <unittitle>Pledge of Allegiance</unittitle>
+                            <container id="cid418043" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref436" level="file">
+                        <did>
+                            <unittitle>Portia and Ben</unittitle>
+                            <container id="cid418044" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref437" level="file">
+                        <did>
+                            <unittitle>Pothole Polka</unittitle>
+                            <container id="cid418045" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref438" level="file">
+                        <did>
+                            <unittitle>Public TV</unittitle>
+                            <container id="cid418046" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref439" level="file">
+                        <did>
+                            <unittitle>Racing with the Clock</unittitle>
+                            <container id="cid418047" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref440" level="file">
+                        <did>
+                            <unittitle>Robert E. Lee</unittitle>
+                            <container id="cid418048" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref441" level="file">
+                        <did>
+                            <unittitle>Rolling Rolling</unittitle>
+                            <container id="cid418049" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref442" level="file">
+                        <did>
+                            <unittitle>Saintly Swinger</unittitle>
+                            <container id="cid418050" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref443" level="file">
+                        <did>
+                            <unittitle>Salvation</unittitle>
+                            <container id="cid418051" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref444" level="file">
+                        <did>
+                            <unittitle>Santa Claus March</unittitle>
+                            <container id="cid418052" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref445" level="file">
+                        <did>
+                            <unittitle>Sheboygan</unittitle>
+                            <container id="cid418053" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref446" level="file">
+                        <did>
+                            <unittitle>Shepard and Angel</unittitle>
+                            <container id="cid418054" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref447" level="file">
+                        <did>
+                            <unittitle>Shuffle off to Buffalo</unittitle>
+                            <container id="cid418055" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref448" level="file">
+                        <did>
+                            <unittitle>Sing Along</unittitle>
+                            <container id="cid418056" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref449" level="file">
+                        <did>
+                            <unittitle>Sisters</unittitle>
+                            <container id="cid418057" type="Folder" label="Mixed materials">33</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref450" level="file">
+                        <did>
+                            <unittitle>Six Months Out of Every Year</unittitle>
+                            <container id="cid418058" type="Folder" label="Mixed materials">34</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref451" level="file">
+                        <did>
+                            <unittitle>Some of These Days</unittitle>
+                            <container id="cid418059" type="Folder" label="Mixed materials">35</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref452" level="file">
+                        <did>
+                            <unittitle>Stewardess</unittitle>
+                            <container id="cid418060" type="Folder" label="Mixed materials">36</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref453" level="file">
+                        <did>
+                            <unittitle>String of Pearls</unittitle>
+                            <container id="cid418061" type="Folder" label="Mixed materials">37</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref454" level="file">
+                        <did>
+                            <unittitle>Strutaway</unittitle>
+                            <container id="cid418062" type="Folder" label="Mixed materials">38</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref455" level="file">
+                        <did>
+                            <unittitle>Susie</unittitle>
+                            <container id="cid418063" type="Folder" label="Mixed materials">39</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref456" level="file">
+                        <did>
+                            <unittitle>Swanee</unittitle>
+                            <container id="cid418064" type="Folder" label="Mixed materials">40</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref457" level="file">
+                        <did>
+                            <unittitle>Sweet Adeline</unittitle>
+                            <container id="cid418065" type="Folder" label="Mixed materials">41</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref458" level="file">
+                        <did>
+                            <unittitle>Sweet Georgia Brown</unittitle>
+                            <container id="cid418066" type="Folder" label="Mixed materials">42</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref459" level="file">
+                        <did>
+                            <unittitle>Tapflash</unittitle>
+                            <container id="cid418067" type="Folder" label="Mixed materials">43</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref460" level="file">
+                        <did>
+                            <unittitle>Telephone Number</unittitle>
+                            <container id="cid418068" type="Folder" label="Mixed materials">44</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref461" level="file">
+                        <did>
+                            <unittitle>TV Themes Game</unittitle>
+                            <container id="cid418069" type="Folder" label="Mixed materials">45</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref462" level="file">
+                        <did>
+                            <unittitle>Thanks</unittitle>
+                            <container id="cid418070" type="Folder" label="Mixed materials">46</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref463" level="file">
+                        <did>
+                            <unittitle>Thank You</unittitle>
+                            <container id="cid418071" type="Folder" label="Mixed materials">47</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref464" level="file">
+                        <did>
+                            <unittitle>This Time of Year</unittitle>
+                            <container id="cid418072" type="Folder" label="Mixed materials">48</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref465" level="file">
+                        <did>
+                            <unittitle>Tin Whistle</unittitle>
+                            <container id="cid418073" type="Folder" label="Mixed materials">49</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref466" level="file">
+                        <did>
+                            <unittitle>Toast of the Town</unittitle>
+                            <container id="cid418074" type="Folder" label="Mixed materials">50</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref467" level="file">
+                        <did>
+                            <unittitle>To Life</unittitle>
+                            <container id="cid418075" type="Folder" label="Mixed materials">51</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref468" level="file">
+                        <did>
+                            <unittitle>Tradition Vamp</unittitle>
+                            <container id="cid418076" type="Folder" label="Mixed materials">52</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref469" level="file">
+                        <did>
+                            <unittitle>Trees</unittitle>
+                            <container id="cid418077" type="Folder" label="Mixed materials">53</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref470" level="file">
+                        <did>
+                            <unittitle>We Beseech You</unittitle>
+                            <container id="cid419001" type="Box" label="Mixed materials">28</container>
+                            <container parent="cid419001" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref471" level="file">
+                        <did>
+                            <unittitle>We’re in the Money</unittitle>
+                            <container id="cid419002" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref472" level="file">
+                        <did>
+                            <unittitle>We’s be in da Moaney?</unittitle>
+                            <container id="cid419003" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref473" level="file">
+                        <did>
+                            <unittitle>Will You Still Love Me Tomorrow</unittitle>
+                            <container id="cid419004" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref474" level="file">
+                        <did>
+                            <unittitle>Winchester Cathedral</unittitle>
+                            <container id="cid419005" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref475" level="file">
+                        <did>
+                            <unittitle>WQED</unittitle>
+                            <container id="cid419006" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref476" level="file">
+                        <did>
+                            <unittitle>Yesterday He Asked Me</unittitle>
+                            <container id="cid419007" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref477" level="file">
+                        <did>
+                            <unittitle>You’re a Santa’s Helper</unittitle>
+                            <container id="cid419008" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref478" level="file">
+                        <did>
+                            <unittitle>You Can’t Miss It</unittitle>
+                            <container id="cid419009" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref479" level="file">
+                        <did>
+                            <unittitle>Misc./Unidentified Songs</unittitle>
+                            <container id="cid419010" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref29" level="subseries">
+                    <did>
+                        <unittitle>Other Orchestrations</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <scopecontent id="ref392">
+                        <head>Scope and Content Notes</head>
+                        <p>Boxes 29 and 30 are medley orchestrations and are in an alphabetical arrangement by title. Box 30 also consists of a number of items that are all assorted orchestrations and were grouped together by Brockett. For the most part, the orchestrations are not published materials, and sometimes are handwritten. Some of the song titles have very extensive orchestrations that include music for a full orchestra. Box 31 contains original Brockett orchestrations that are not available for access to patrons due to their condition, although copies have been made and are available for use with the other copies of music for that song title.</p>
+                    </scopecontent>
+                    <c03 id="ref480" level="file">
+                        <did>
+                            <unittitle>Medley Book #1 A-I</unittitle>
+                            <container id="cid419011" type="Box" label="Mixed materials">29</container>
+                            <container parent="cid419011" type="Folder">1-3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref481" level="file">
+                        <did>
+                            <unittitle>Medley Book #2 J-Z</unittitle>
+                            <container id="cid419012" type="Folder" label="Mixed materials">4-5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref482" level="file">
+                        <did>
+                            <unittitle>Broadway Medley</unittitle>
+                            <container id="cid419013" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref483" level="file">
+                        <did>
+                            <unittitle>Chevalier Medley</unittitle>
+                            <container id="cid419014" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref484" level="file">
+                        <did>
+                            <unittitle>Chuck’s Christmas Medley</unittitle>
+                            <container id="cid419015" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref485" level="file">
+                        <did>
+                            <unittitle>Commercial Medley II</unittitle>
+                            <container id="cid419016" type="Box" label="Mixed materials">30</container>
+                            <container parent="cid419016" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref486" level="file">
+                        <did>
+                            <unittitle>Commercial Medley No. 3</unittitle>
+                            <container id="cid419017" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref487" level="file">
+                        <did>
+                            <unittitle>Diet Medley</unittitle>
+                            <container id="cid419018" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref488" level="file">
+                        <did>
+                            <unittitle>The Don Brockett Memorial Medley</unittitle>
+                            <container id="cid419019" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref489" level="file">
+                        <did>
+                            <unittitle>Fiddler Medley</unittitle>
+                            <container id="cid419020" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref490" level="file">
+                        <did>
+                            <unittitle>Gospel Medley</unittitle>
+                            <container id="cid419021" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref491" level="file">
+                        <did>
+                            <unittitle>New York Medley</unittitle>
+                            <container id="cid419022" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref492" level="file">
+                        <did>
+                            <unittitle>Night Medley</unittitle>
+                            <container id="cid419023" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref493" level="file">
+                        <did>
+                            <unittitle>Patriotic Medley</unittitle>
+                            <container id="cid419024" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref494" level="file">
+                        <did>
+                            <unittitle>Patti Burns Medley</unittitle>
+                            <container id="cid419025" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref495" level="file">
+                        <did>
+                            <unittitle>Performance Medley</unittitle>
+                            <container id="cid419026" type="Folder" label="Mixed materials">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref496" level="file">
+                        <did>
+                            <unittitle>Romance Medley</unittitle>
+                            <container id="cid419027" type="Folder" label="Mixed materials">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref497" level="file">
+                        <did>
+                            <unittitle>Star Wars Medley</unittitle>
+                            <container id="cid419028" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref498" level="file">
+                        <did>
+                            <unittitle>Wonderful Night Medley</unittitle>
+                            <container id="cid419029" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref499" level="file">
+                        <did>
+                            <unittitle>Audition Music</unittitle>
+                            <container id="cid419030" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref500" level="file">
+                        <did>
+                            <unittitle>George Cohen Salute (w/medleys)</unittitle>
+                            <container id="cid419031" type="Folder" label="Mixed materials">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref501" level="file">
+                        <did>
+                            <unittitle>’93 Music</unittitle>
+                            <container id="cid419032" type="Folder" label="Mixed materials">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref502" level="file">
+                        <did>
+                            <unittitle>Pittsburgh Symphony Benefit (music/letters/program)</unittitle>
+                            <container id="cid419033" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref503" level="file">
+                        <did>
+                            <unittitle>“Special Music”</unittitle>
+                            <container id="cid419034" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref504" level="file">
+                        <did>
+                            <unittitle>Brockett written orchestrations A - Z (Restricted due to condition)</unittitle>
+                            <container id="cid419035" type="Box" label="Mixed materials">31</container>
+                            <container parent="cid419035" type="Folder">1-2</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>VI.</unitid>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Content Notes</head>
+                    <p>This series is arranged alphabetically by folder subject title. The folder subject titles are the same folder titles that were present on the folders when the collection was received; they were probably titled by Brockett.</p>
+                </scopecontent>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Brockett and Barbara photos</unittitle>
+                        <container id="cid330001" type="Box" label="Photographic images">32</container>
+                        <container parent="cid330001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Brockett and Barbara's 25th anniversary</unittitle>
+                        <container id="cid330002" type="Folder" label="Photographic images">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Burlesque pictures</unittitle>
+                        <container id="cid330003" type="Folder" label="Photographic images">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Celebration '76</title></unittitle>
+                        <container id="cid330004" type="Folder" label="Photographic images">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Celebrity photos</unittitle>
+                        <container id="cid330005" type="Folder" label="Photographic images">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Celebrities</unittitle>
+                        <container id="cid330006" type="Folder" label="Photographic images">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Don with celebs</unittitle>
+                        <container id="cid330007" type="Folder" label="Photographic images">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Don Brockett with friends</unittitle>
+                        <container id="cid330008" type="Folder" label="Photographic images">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Do Wah Diddy</title></unittitle>
+                        <container id="cid330009" type="Folder" label="Photographic images">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Early photos</unittitle>
+                        <container id="cid330010" type="Folder" label="Photographic images">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Forbidden Pittsburgh</title></unittitle>
+                        <container id="cid330011" type="Box" label="Photographic images">33</container>
+                        <container parent="cid330011" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Gimbel's</unittitle>
+                        <container id="cid330012" type="Folder" label="Photographic images">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Industrials</unittitle>
+                        <container id="cid330013" type="Folder" label="Photographic images">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Marriott shows</unittitle>
+                        <container id="cid330014" type="Folder" label="Photographic images">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Melodrama</title></unittitle>
+                        <container id="cid330015" type="Folder" label="Photographic images">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Mr. Rogers</unittitle>
+                        <container id="cid330016" type="Folder" label="Photographic images">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>X-Mas pictures</unittitle>
+                        <container id="cid330017" type="Folder" label="Photographic images">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Misc. labeled photos</unittitle>
+                        <container id="cid330018" type="Folder" label="Photographic images">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Unidentified</unittitle>
+                        <container id="cid330019" type="Folder" label="Photographic images">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Unidentified</unittitle>
+                        <container id="cid330020" type="Box" label="Photographic images">34</container>
+                        <container parent="cid330020" type="Folder">1-5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Oversized and Miscellaneous Materials,</unittitle>
+                    <unitid>VII.</unitid>
+                    <unitdate>1970-1998</unitdate>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Content Notes</head>
+                    <p>The final series in the collection contains items, information, and promotional materials with entertainers that Brockett managed and worked with, such as Jack and Sally Jenkins, The Vogues, and Father Tom Smith. The Index to Music in Theatre resource is a partial alphabetical list of Brockett productions along with cast lists and the song titles that were performed in the show. This series also contains some miscellaneous and/or oversized photos, art, and plaques.</p>
+                </scopecontent>
+                <c02 id="ref505" level="file">
+                    <did>
+                        <unittitle>Index to Music in Theatre</unittitle>
+                        <container id="cid419036" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid419036" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref506" level="file">
+                    <did>
+                        <unittitle>Jack and Sally Jenkins</unittitle>
+                        <container id="cid419037" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref507" level="file">
+                    <did>
+                        <unittitle>Father Tom Smith</unittitle>
+                        <container id="cid419038" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref508" level="file">
+                    <did>
+                        <unittitle>Before and After calendar with original artwork,</unittitle>
+                        <container id="cid419039" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref509" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Sweet Feet</title> plaque – autographed by cast</unittitle>
+                        <container id="cid419040" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref510" level="file">
+                    <did>
+                        <unittitle>Framed caricature of Brockett as Sophie Masloff</unittitle>
+                        <container id="cid419041" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref511" level="file">
+                    <did>
+                        <unittitle>Gold record plaque for 
+                            <title render="italic">Turn Around, Look at Me</title> by the Vogues</unittitle>
+                        <container id="cid419042" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref512" level="file">
+                    <did>
+                        <unittitle>Oversized and Miscellaneous Art and Extraman comic strip</unittitle>
+                        <container id="cid419043" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref513" level="file">
+                    <did>
+                        <unittitle>Oversized Photos</unittitle>
+                        <container id="cid419044" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref514" level="file">
+                    <did>
+                        <unittitle>Unused “Public Relations Consultant” Brockett letterhead</unittitle>
+                        <container id="cid419045" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref515" level="file">
+                    <did>
+                        <unittitle>Framed photo of Brockett balancing bottle on his head</unittitle>
+                        <container id="cid419046" type="Box" label="Mixed materials">36</container>
+                        <container parent="cid419046" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref516" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">New Forbidden Pittsburgh</title> 1998 laminated poster</unittitle>
+                        <container id="cid419047" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref517" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Framed Big Bad Burlesque</title> collage</unittitle>
+                        <container id="cid419048" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref518" level="file">
+                    <did>
+                        <unittitle>Big Plastic Don Brockett head</unittitle>
+                        <container id="cid419049" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref519" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Broadway Tonight</title> poster</unittitle>
+                        <container id="cid419050" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc198401</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Edith Warman Skinner Papers, 1902-1981
+                    <num>CTC.1984.01</num>
+                </titleproper>
+                <author>Finding aid prepared by David Sleasman. Revisions occurred to the finding aid as a part of the encoding process in 2005.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>1992</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Edith Warman Skinner Papers</unittitle>
+            <unitid>CTC.1984.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1902/1981" type="inclusive">1902-1981</unitdate>
+            <abstract id="ref2" label="Abstract">This collection relates to Edith Warman Skinner's career as a theatre coach and speech teacher for the performing arts at Carnegie Mellon University (formerly Carnegie Institute of Technology). The collection consists of clippings, papers, programs and photos ca. 1929 -ca. 1978.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Skinner, Edith Warman</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Edith Warman Skinner was born on September 22, 1902 in Moncton, New Brunswick, Canada. She was the third of four daughters born to Herbert Havelock Warman and Agnes Lynn (Orr) Warman. After graduating from high school, Edith moved to the United States and began working at the Beechwood School for Girls in Jenkintown, Pennsylvania. In 1923, she graduated from the Leland Powers School for the Spoken Word in Boston. During her time there, she met Margaret Prendergast McLean, disciple of phonetician William Tilly. Consequently, she became a student of Tilly's and his assistant in 1926. She received her bachelor's and master's degrees from Columbia in 1930 and 1931.</p>
+            <p>Beginning in 1928, Margaret Hewes (Edith's sister) produced professional summer seasons at the Wharf Theatre in Provincetown, Massachusetts where Skinner coached the company. After 1930, she also instructed apprentices in a full-scale training program - one of the first models for actor-training efforts within a professional company in the United States. In 1935 Hewes turned over control of the Wharf theatre to Skinner. During her tenure as producing director the training program expanded and they produced an acclaimed revival of 
+                <title>Ah Wilderness!</title>, starring Sinclair Lewis.</p>
+            <p>In 1937, Skinner joined the faculty of the Carnegie Institute of Technology (now Carnegie Mellon University) in Pittsburgh, Pennsylvania. While at Carnegie Institute of Technology, her teaching affected a generation of actors and their training, including William Ball and Ellis Raab. During her tenure at Carnegie Institute of Technology, she also continued her professional coaching work at the Pittsburgh Playhouse and later throughout the country as former student actors and directors required her skills.</p>
+            <p>She served as a speech consultant for William Ball's American Conservatory Theatre in 1965, during its' one season in Pittsburgh, before it relocated to San Francisco. In the late 1960's Skinner was invited by John Houseman to join the faculty of the soon-to-be-established Juilliard School of Drama. She accepted this appointment and for the next few years commuted between Pittsburgh and New York maintaining a full academic schedule at both schools. She also worked as speech consultant for McCarter Theatre, Princeton, and Ellis Raab's Lincoln Center Production of a 
+                <title render="italic">Streetcar Named Desire</title> during this time.</p>
+            <p>After retiring from the Carnegie Institute of Technology in 1974, she moved to New York City and continued her work at Julliard. She was also active with the Theatre Company of the Brooklyn Academy of Music. She died on July 25, 1981.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>The Edith Warman Skinner Collection consists of a single series of subject files that are arranged alphabetically. The files contain newspaper clippings, papers, programs, and photos that related to her speech instruction. In some cases preservation photocopies have been created for researcher use. The information on the Carnegie Institute of Technology in folders 14-17 contain newspaper clippings, grant applications, photographs, and programs. Folder 14 contains an example of the types of tests that Skinner distributed to her students, with notes and corrections on the student's performance. Folder 18 contains similar items for Carnegie Institute of Technology's Summer Drama School at Old Economy Village. The "Live with Distinction" manuscript in folder 55 is a summary of an interview with Skinner that a student completed for a journalism class. Folders 62-64 contain newspaper clippings, correspondence, and programs for several oratorical competitions. Newspaper clippings and correspondence relating to the Pittsburgh Playhouse are within folders 68-69. In box two, folders 12-15 contain newspaper clippings, a caricature, photographs, resumes, and itineraries pertaining to Edith Skinner.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were a gift to the University of Pittsburgh.</p>
+        </acqinfo>
+        <odd id="ref134">
+            <head>Previous Citation</head>
+            <p>Edith Warman Skinner Papers, 1902-1981, CTC.1984.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Edith Warman Skinner Papers, 1902-1981, CTC.20, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Edith Warman Skinner Papers, 1902-1981, CTC.1984.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by David Sleasman in 1992.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in November, 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1471177.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname source="naf">Brooklyn Academy of Music.</corpname>
+            <corpname rules="rda" source="local">Carnegie Institute of Technology. Department of Drama.</corpname>
+            <corpname rules="rda" source="local">Carnegie-Mellon University. Department of Drama.</corpname>
+            <persname source="naf">Houseman, John</persname>
+            <persname source="naf">Lewis, Sinclair, 1885-1951</persname>
+            <persname source="naf">O'Neill, Eugene, 1888-1953.  Ah, wilderness!</persname>
+            <corpname source="naf">Pittsburgh Playhouse.</corpname>
+            <persname rules="aacr" source="local">Skinner, Edith Warman</persname>
+            <persname source="naf">Williams, Tennessee, 1911-1983</persname>
+            <subject source="lcsh">Acting teachers -- United States</subject>
+            <subject source="lcsh">Performing arts -- Study and teaching -- United States</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Subject Files</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Accounting for Love Poster</unittitle>
+                        <container id="cid111603" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid111603" type="Oversize"></container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Alexander Technique</unittitle>
+                        <container id="cid111602" type="Folder" label="Mixed materials">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>American Conservatory Theatre (ACT)</unittitle>
+                        <container id="cid111601" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>American Educational Theatre Association Convention</unittitle>
+                        <container id="cid111600" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Andrews, Dana</unittitle>
+                        <container id="cid111599" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Andrews, Edward</unittitle>
+                        <container id="cid111598" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>ANTA - New York</unittitle>
+                        <container id="cid111597" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Associated Producing Artists (APA) Repertory Co.</unittitle>
+                        <container id="cid111596" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Auberjonois, Rene</unittitle>
+                        <container id="cid111595" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Ball, William</unittitle>
+                        <container id="cid111594" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Bates, Heddie</unittitle>
+                        <container id="cid111593" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Battles, Margie</unittitle>
+                        <container id="cid111592" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Boettcher, Henry</unittitle>
+                        <container id="cid111591" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Bucks Co. Playhouse</unittitle>
+                        <container id="cid111590" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Carnegie Institute of Technology (Carnegie-Mellon University) - General</unittitle>
+                        <container id="cid111589" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>CIT -- Clippings</unittitle>
+                        <container id="cid111588" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>CIT -- Grant Application</unittitle>
+                        <container id="cid111587" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>CIT -- Photographs</unittitle>
+                        <container id="cid111586" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>CIT -- Summer Drama School at Old Economy Village, Ambridge</unittitle>
+                        <container id="cid111585" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Carnegie Magazine, May</unittitle>
+                        <container id="cid111584" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Choder, Jill</unittitle>
+                        <container id="cid111583" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Clippings -- Misc</unittitle>
+                        <container id="cid111582" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Columbia University Teachers College</unittitle>
+                        <container id="cid111581" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Conte, Gino A.</unittitle>
+                        <container id="cid111580" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Cornish School, Seattle WA</unittitle>
+                        <container id="cid111579" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Correspondence -- Misc. (unidentified)</unittitle>
+                        <container id="cid111578" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Crise, George Cotton</unittitle>
+                        <container id="cid111577" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Dennis, Morgan</unittitle>
+                        <container id="cid111576" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Ebert, Joyce</unittitle>
+                        <container id="cid111575" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Ellenbogen, Henry</unittitle>
+                        <container id="cid111574" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Eythe, William</unittitle>
+                        <container id="cid111573" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Finckel, Bob</unittitle>
+                        <container id="cid111572" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>France, Rachel - Photograph</unittitle>
+                        <container id="cid111571" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Grodin, Charles</unittitle>
+                        <container id="cid111570" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Gould, Gordon</unittitle>
+                        <container id="cid111569" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Guthrie, Tyrone</unittitle>
+                        <container id="cid111568" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Hammond, David</unittitle>
+                        <container id="cid111567" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Harris, Rosemary</unittitle>
+                        <container id="cid111566" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Hayes, Helen</unittitle>
+                        <container id="cid111565" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Heflin, Marta</unittitle>
+                        <container id="cid111564" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Hewes, Henry</unittitle>
+                        <container id="cid111563" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Hewes, Margaret</unittitle>
+                        <container id="cid111562" type="Folder" label="Mixed materials">41</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Hewes, Richard</unittitle>
+                        <container id="cid111561" type="Folder" label="Mixed materials">42</container>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Hope, Teri</unittitle>
+                        <container id="cid111560" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Houseman, John</unittitle>
+                        <container id="cid111559" type="Folder" label="Mixed materials">44</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Jones, Shirley</unittitle>
+                        <container id="cid111558" type="Folder" label="Mixed materials">45</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Julliard Drama School</unittitle>
+                        <container id="cid111557" type="Folder" label="Mixed materials">46</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Katslas, Milton</unittitle>
+                        <container id="cid111556" type="Folder" label="Mixed materials">47</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Kazan, Elia</unittitle>
+                        <container id="cid111555" type="Folder" label="Mixed materials">48</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Kelly, Kevin</unittitle>
+                        <container id="cid111554" type="Folder" label="Mixed materials">49</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Krantz, Judy</unittitle>
+                        <container id="cid111553" type="Folder" label="Mixed materials">50</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Kurtz, Lee</unittitle>
+                        <container id="cid111552" type="Folder" label="Mixed materials">51</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Lawrence, Tony</unittitle>
+                        <container id="cid111551" type="Folder" label="Mixed materials">52</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Lewis, Sinclair</unittitle>
+                        <container id="cid111550" type="Folder" label="Mixed materials">53</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Lewis, Sinclair - Photographs</unittitle>
+                        <container id="cid111549" type="Folder" label="Mixed materials">54</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>"Live with Distinction" (MS)</unittitle>
+                        <container id="cid111548" type="Folder" label="Mixed materials">55</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Maekaill, Dorothy</unittitle>
+                        <container id="cid111547" type="Oversize" label="Mixed materials"></container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Marchand, Nancy</unittitle>
+                        <container id="cid111546" type="Folder" label="Mixed materials">56</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>McKenna, Siobhan</unittitle>
+                        <container id="cid111545" type="Folder" label="Mixed materials">57</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Meyer, Carl</unittitle>
+                        <container id="cid111544" type="Folder" label="Mixed materials">58</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Monich, Tim</unittitle>
+                        <container id="cid111543" type="Folder" label="Mixed materials">59</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Norris, Jan</unittitle>
+                        <container id="cid111542" type="Folder" label="Mixed materials">60</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Ogunquit Playhouse</unittitle>
+                        <container id="cid111541" type="Folder" label="Mixed materials">61</container>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Oratorical Competitions -- Clippings</unittitle>
+                        <container id="cid111540" type="Folder" label="Mixed materials">62</container>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Oratorical Competitions -- Correspondence</unittitle>
+                        <container id="cid111539" type="Folder" label="Mixed materials">63</container>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Oratorical Competitions -- Programs</unittitle>
+                        <container id="cid111538" type="Folder" label="Mixed materials">64</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Page, Austin (Bishop of Pgh)</unittitle>
+                        <container id="cid111537" type="Folder" label="Mixed materials">65</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Photographs -- Misc. (unidentified)</unittitle>
+                        <container id="cid111536" type="Folder" label="Mixed materials">66</container>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Drama League</unittitle>
+                        <container id="cid111535" type="Folder" label="Mixed materials">67</container>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Playhouse -- Clippings</unittitle>
+                        <container id="cid111534" type="Folder" label="Mixed materials">68</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Playhouse -- Correspondence</unittitle>
+                        <container id="cid111533" type="Folder" label="Mixed materials">69</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Theological Seminary</unittitle>
+                        <container id="cid111532" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid111532" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Powers, Peggy -- Photograph</unittitle>
+                        <container id="cid111531" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Programs -- Misc</unittitle>
+                        <container id="cid111530" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Raab, Ellis</unittitle>
+                        <container id="cid111529" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Rabb, Ellis -- Photograph</unittitle>
+                        <container id="cid111528" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Ragin, John</unittitle>
+                        <container id="cid111527" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Ratner, Iris</unittitle>
+                        <container id="cid111526" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Rome, Sydne</unittitle>
+                        <container id="cid111525" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Rosenberg, Arthur</unittitle>
+                        <container id="cid111524" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Schmidt, Jimmie</unittitle>
+                        <container id="cid111523" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Short, Dewey</unittitle>
+                        <container id="cid111522" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Skinner, Edith -- Caricature, "th" (artist unidentified)</unittitle>
+                        <container id="cid111521" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Skinner, Edith -- Clippings</unittitle>
+                        <container id="cid111520" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Skinner, Edith -- Itineraries, Resumes, etc</unittitle>
+                        <container id="cid111519" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Skinner, Edith -- Photographs</unittitle>
+                        <container id="cid111518" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Skinner, Neil McFee</unittitle>
+                        <container id="cid111517" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Smart, F.</unittitle>
+                        <container id="cid111516" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Speech -- Misc. Clippings</unittitle>
+                        <container id="cid111515" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Speech -- Notes</unittitle>
+                        <container id="cid111514" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Taubman, Howard</unittitle>
+                        <container id="cid111513" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Terheyden, Jerry</unittitle>
+                        <container id="cid111512" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Theatre -- Misc. Clippings</unittitle>
+                        <container id="cid111511" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Thomas, Thom</unittitle>
+                        <container id="cid111510" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Warman, H.H.</unittitle>
+                        <container id="cid111509" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Wertz, Ricki</unittitle>
+                        <container id="cid111508" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="otherlevel">
+                    <did>
+                        <unittitle>Wharf Theatre, Provincetown MA</unittitle>
+                    </did>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid111507" type="Folder" label="Mixed materials">26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Contracts</unittitle>
+                            <container id="cid111506" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Financial Documents</unittitle>
+                            <container id="cid111505" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>House Statistics</unittitle>
+                            <container id="cid111504" type="Folder" label="Mixed materials">29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Jack Johnson MS</unittitle>
+                            <container id="cid111503" type="Folder" label="Mixed materials">30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid111502" type="Folder" label="Mixed materials">31</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>Production Photographs</unittitle>
+                            <container id="cid111501" type="Folder" label="Mixed materials">32</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111500" type="Folder" label="Mixed materials">33</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>Programs</unittitle>
+                            <container id="cid111499" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111498" type="Folder" label="Mixed materials">35</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111497" type="Folder" label="Mixed materials">36</container>
+                            <unitdate>1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111496" type="Folder" label="Mixed materials">37</container>
+                            <unitdate>1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111495" type="Folder" label="Mixed materials">38</container>
+                            <unitdate>1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111494" type="Folder" label="Mixed materials">39</container>
+                            <unitdate>1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>Programs,</unittitle>
+                            <container id="cid111493" type="Folder" label="Mixed materials">40</container>
+                            <unitdate>1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Programs -- School Brochures</unittitle>
+                            <container id="cid111492" type="Folder" label="Mixed materials">41</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Programs -- School Photographs</unittitle>
+                            <container id="cid111491" type="Folder" label="Mixed materials">42</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Who's Who in American Theatre</unittitle>
+                        <container id="cid111490" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Wright Teresa</unittitle>
+                        <container id="cid111489" type="Folder" label="Mixed materials">44</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

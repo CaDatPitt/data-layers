@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc198902</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Harvey J. Burgess Papers, 1903-1934
+                    <num>CTC.1989.02</num>
+                </titleproper>
+                <author>Finding aid prepared by Cheryl Greer. Revisions occurred to the finding aid as a part of the encoding process in January 2006.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>Spring 2006</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Harvey J. Burgess Papers</unittitle>
+            <unitid>CTC.1989.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 linear feet</extent>
+                <extent>(7 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1903/1934" type="inclusive">1903-1934</unitdate>
+            <abstract id="ref2" label="Abstract">Harvey J. Burgess of Wilkinsburg, Pennsylvania had a short, but successful career in vaudeville. He performed as a comedy juggler from 1903 through 1913. This collection contains his scrapbooks, photographs, contracts, correspondence, and juggling paraphernalia.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Burgess, Harvey J., 1886-1960</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Harvey J. Burgess was born in Wilkinsburg, Pennsylvania in 1886 and lived there until his death in 1960. He performed in vaudeville from 1903-1913. Prior to his work in vaudeville he had been employed as a grocery store clerk. Billing himself as "The Clever Tossing Kid", his act combined skilled juggling with a comedic routine. He toured extensively throughout the Pittsburgh region (see Appendix for a list of regional theatres referenced) and in neighboring states including many excursions into the Midwest. In 1913, he lost his eyesight and had to retire from the stage. His sight was eventually restored enough for him to obtain a job at the Swissvale Post Office, where he became Postmaster and worked for 27 years. In 1916, Harvey Burgess ran for Burgess of Wilkinsburg, but was unsuccessful because of his stage background.</p>
+            <p>Although Burgess's theatrical career was short-lived it appeared to have been quite successful. In addition to his full performance schedule, his act garnered rave reviews from both the press and theatre managers.</p>
+        </bioghist>
+        <arrangement id="ref90">
+            <head>Arrangement</head>
+            <p>Series I. Juggling Paraphernalia</p>
+            <p>Series II. Scrapbooks</p>
+            <p>Series III. Correspondence</p>
+            <p>Series IV. Ephemera</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>Materials in the Burgess Collection are chiefly drawn from Harvey J. Burgess's years as a vaudeville juggler, 1903-1913. This entails juggling paraphenalia such as tin plates, pins, and Burgess's makeup box, with some makeup still intact. Also included is a sampling of H.J.B.'s business contracts, correspondence with various vaudeville booking agents and theatrical suppliers, programs (many from little-known area theatres), letterheads and other promotional materials, and two scrapbooks, one containing many signed photos of vaudeville performers. Burgess's post-vaudeville years are represented by several photos and a file of lengthy correspondence that H.J.B. maintained with U.S. Congressman Clyde Kelly concerning local postal issues.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Gift of Mrs. Leroy McCleary in 1989.</p>
+        </acqinfo>
+        <odd id="ref91">
+            <head>Previous Citation</head>
+            <p>Harvey J. Burgess Papers, 1903-1934, CTC.1989.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Harvey J. Burgess Papers, 1903-1934, CTC.29, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Harvey J. Burgess Papers, 1903-1934, CTC.1989.02, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Cheryl Greer in 1999.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Charles Stanford in January 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 4612844.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="local">Burgess, Harvey J., 1886-1960</persname>
+            <persname rules="aacr" source="local">Kelly, Claude</persname>
+            <subject source="lcsh">Jugglers -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Jugglers -- Pennsylvania -- Wilkinsburg</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Vaudeville -- Pennsylvania -- Pittsburgh Region</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Juggling Paraphernalia</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents note</head>
+                    <p>This series is made up of the many diverse objects and items used in Burgess' juggling act.</p>
+                </scopecontent>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>5 large juggling pins</unittitle>
+                        <container id="cid115001" type="Box" label="Mixed materials">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>2 bottles</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>5 rods</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>20 balls</unittitle>
+                        <container id="cid115000" type="Box" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>1 makeup box</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>4 knives</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>9 enamel plates</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>3 steel discs</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>3 pipes</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>1 large flag</unittitle>
+                        <container id="cid114999" type="Box" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>2 small flags</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>1 monogrammed table drape</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref24" level="series">
+                <did>
+                    <unittitle>Scrapbooks</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Contents note</head>
+                    <p>Scrapbook 1 contains chiefly photos, many of which are autographed. Scrapbook 2 contains chiefly newspaper clippings.</p>
+                </scopecontent>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Scrapbook 1, photographs.</unittitle>
+                        <container id="cid114998" type="Volume" label="Mixed materials">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Scrapbook 2, chiefly clippings. NOTE: Shelved in Box 7.</unittitle>
+                        <container id="cid114997" type="Volume" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref28" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes both business and personal letters. They are arranged alphabetically by the name of the sender. The business correspondence includes letters from booking agencies and advertisers.</p>
+                </scopecontent>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Abrams, Morris</unittitle>
+                        <container id="cid114996" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid114996" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Arlington, Harvey</unittitle>
+                        <container id="cid114995" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Bert Marshall Vaudeville Circuit</unittitle>
+                        <container id="cid114994" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Billboard</title> magazine</unittitle>
+                        <container id="cid114993" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Bridge, Al</unittitle>
+                        <container id="cid114992" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Brydon's Imperial Vaudeville Co.</unittitle>
+                        <container id="cid114991" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Canfield Booking Exchange</unittitle>
+                        <container id="cid114990" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Challis, Beverly, Challis</unittitle>
+                        <container id="cid114989" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Church Printing Co.</unittitle>
+                        <container id="cid114988" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Cleveland Vaudeville Co. Inc.</unittitle>
+                        <container id="cid114987" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Consolidated Booking Offices</unittitle>
+                        <container id="cid114986" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>George H. Webster Theatrical Exchange</unittitle>
+                        <container id="cid114985" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Gilmore, Charles P.</unittitle>
+                        <container id="cid114984" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Great Mars, The</unittitle>
+                        <container id="cid114983" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Greenwood Theatrical Agency</unittitle>
+                        <container id="cid114982" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Griffin Vaudeville Circuit</unittitle>
+                        <container id="cid114981" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Gus Sun Booking Exchange</unittitle>
+                        <container id="cid114980" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>International Theatrical Co.</unittitle>
+                        <container id="cid114979" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Inter-State Vaudeville Circuit</unittitle>
+                        <container id="cid114978" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Jenkins, Scott</unittitle>
+                        <container id="cid114977" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Kelly, Clyde U.S. Representative</unittitle>
+                        <container id="cid114976" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Kingston Booking Assoc.</unittitle>
+                        <container id="cid114975" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Liberty Vaudeville Contracting Co.</unittitle>
+                        <container id="cid114974" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Marcus Loew William Morris Consolidated Booking Agency</unittitle>
+                        <container id="cid114973" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>McLaughlin, I.C.</unittitle>
+                        <container id="cid114972" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Milburn Booking Exchange Co.</unittitle>
+                        <container id="cid114971" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Morganstern, C.W.</unittitle>
+                        <container id="cid114970" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>music publishers</unittitle>
+                        <container id="cid114969" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Nagle, Irwin W.</unittitle>
+                        <container id="cid114968" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Nelson, Charles W.</unittitle>
+                        <container id="cid114967" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Nixon-Nirdlinger Booking Agency</unittitle>
+                        <container id="cid114966" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Polack Theatrical Exchange</unittitle>
+                        <container id="cid114965" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Princess Theatre Co.</unittitle>
+                        <container id="cid114964" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Puni Circuit Vaudeville Exchange</unittitle>
+                        <container id="cid114963" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Rea Vaudeville Circuit</unittitle>
+                        <container id="cid114962" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>stage supply dealers</unittitle>
+                        <container id="cid114961" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Toledo Booking Exchange</unittitle>
+                        <container id="cid114960" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Verbeck and Farrell</unittitle>
+                        <container id="cid114959" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Western Reserve Vaudeville Manager's Assoc.</unittitle>
+                        <container id="cid114958" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Western Vaudeville Manager's Assoc.</unittitle>
+                        <container id="cid114957" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>White Rats of America</unittitle>
+                        <container id="cid114956" type="Folder" label="Mixed materials">41</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Williams, B.J.</unittitle>
+                        <container id="cid114955" type="Folder" label="Mixed materials">42</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Unidentified</unittitle>
+                        <container id="cid114954" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref73" level="series">
+                <did>
+                    <unittitle>Ephemera</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref89">
+                    <head>Scope and Contents note</head>
+                    <p>Included in this series are business materials, newspaper and magazine clippings, photographic materials, and programs for shows in which Burgess performed.</p>
+                </scopecontent>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Contracts,</unittitle>
+                        <container id="cid114953" type="Folder" label="Mixed materials">44-48</container>
+                        <unitdate>1908-1912</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>List book of Theatrical Managers, Booking Agents, Lyceum Bureaus and Amusement Artists,</unittitle>
+                        <container id="cid114952" type="Folder" label="Mixed materials">49</container>
+                        <unitdate>1912</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <container id="cid114951" type="Folder" label="Mixed materials">50</container>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <container id="cid114950" type="Folder" label="Mixed materials">51</container>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Programs</unittitle>
+                        <container id="cid114949" type="Folder" label="Mixed materials">52</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Promotional materials</unittitle>
+                        <container id="cid114948" type="Folder" label="Mixed materials">53</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Short Story, 
+                            <title>A Juggler's Arabian Trick</title>, Harvey J. Burgess,</unittitle>
+                        <container id="cid114947" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid114947" type="Folder">1</container>
+                        <unitdate>1911</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Collection of postcards, circa</unittitle>
+                        <container id="cid114946" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1906-1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Copper lithographic plates of H.J.B. photos (4)</unittitle>
+                        <container id="cid114945" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid114945" type="Folder">1-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Glass negative (1)</unittitle>
+                        <container id="cid3857002" type="Folder" label="Photographic images">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Oversized newspaper clippings</unittitle>
+                        <container id="cid114944" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid114944" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Burlesque</title> magazine,</unittitle>
+                        <container id="cid114943" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1911</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The New York Clipper</title>, theatrical journal</unittitle>
+                        <container id="cid114942" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>8/22/1908</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Billboard</title> magazine,</unittitle>
+                        <container id="cid114941" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1911</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Harvey Burgess' political signs</unittitle>
+                        <container id="cid114940" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

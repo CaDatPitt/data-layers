@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197701</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Theatre Survey Records, 1963-1980
+                    <num>CTC.1977.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Jean Blanco in 1977 and 1981.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>December 23, 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>
+                <title render="italic">Theatre Survey</title> Records</unittitle>
+            <unitid>CTC.1977.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>9.25 linear feet</extent>
+            </physdesc>
+            <unitdate normal="1973/1979" type="bulk">Bulk, 1973-1979</unitdate>
+            <unitdate normal="1963/1980" type="inclusive">1963-1980</unitdate>
+            <abstract id="ref8" label="Abstract">
+                <title render="italic">Theatre Survey</title>, the official journal of the American Society for Theater Research (ASTR), began publication as an annual journal in 1960. The journal was edited first at Brandeis, then for a few years at Princeton, before it came to the University of Pittsburgh in 1963. The collection is arranged chronologically, and the records include general correspondence, financial records, edited typescripts of published articles with related correspondence, miscellaneous items, and a small amount of ASTR material, most of which is related to subscriptions.</abstract>
+            <origination label="creator">
+                <corpname source="naf">American Society for Theatre Research.</corpname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref11">
+            <head>Related Material</head>
+            <p>See also Curtis Collection of Pittsburgh Performing Arts Information Files and the periodicals ASTR Newsletter, Membership Directories, and Miscellany.</p>
+        </relatedmaterial>
+        <acqinfo id="ref9">
+            <head>Acquisition Information</head>
+            <p>Materials were transferred from the University of Pittsburgh Theatre Arts Department to the Ford E. and Harriet R. Curtis Theater Collection in 1977 and 1981.</p>
+        </acqinfo>
+        <bioghist id="ref1">
+            <head>History</head>
+            <p>
+                <title render="italic">Theatre Survey</title>, the official journal of the American Society for Theater Research, began publication as an annual in 1960. Originally supported by a Brandeis University grant, it was first edited at Brandeis, and for a few years, at Princeton. Beginning in 1963, 
+                <title render="italic">Theatre Survey</title>, was supported by the University of Pittsburgh and starting with Volume 5, 1964, when it became a semi-annual publication, it was also edited here. Pitt editors included Ralph G. Allen, George E. Bogusch, Attilio Favorini, and Raymond Pentzell. Dr. Favorini has been Executive Editor from 1972.</p>
+            <p>Editorship of 
+                <title render="italic">Theatre Survey</title> was transferred from the University of Pittsburgh to State University of New York, Albany campus beginning with Volume 21 in 1980.</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Content Notes</head>
+            <p>Arranged chronologically, the records include general correspondence, financial records, edited typescripts of published articles with related correspondence, etc., and also a small amount of ASTR material, most of which is related to subscriptions. The records are not complete. The records include edited typescripts and related correspondence arranged by volume and issue, miscellaneous correspondence, and ASTR related materials. Miscellaneous financial records, including invoices, subscription records, etc. are in a separate chronological series. The records comprise all those extant from the University of Pittsburgh’s sponsorship of 
+                <title render="italic">Theatre Survey,</title> 1963-1976.</p>
+        </scopecontent>
+        <accessrestrict id="ref3">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <processinfo id="ref4">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jean Blanco in 1977 and 1981. It was entered into Archivists' Toolkit by Christie Graci in May 2010.</p>
+        </processinfo>
+        <userestrict id="ref5">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <odd id="ref156">
+            <head>Previous Citation</head>
+            <p>Theatre Survey Records, 1963-1980, CTC.1977.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Theatre Survey Records, 1963-1980, CTC.04, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Theatre Survey Records, 1963-1980, CTC.1977.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="naf">Allen, Ralph G.</persname>
+            <corpname source="naf">American Society for Theatre Research.</corpname>
+            <corpname source="naf">Brandeis University.</corpname>
+            <persname source="naf">Favorini, Attilio, 1943-</persname>
+            <corpname source="naf">Princeton University.</corpname>
+            <persname source="naf">Shakespeare, William, 1564-1616.  Hamlet</persname>
+            <persname source="naf">Shakespeare, William, 1564-1616.  Macbeth</persname>
+            <persname source="naf">Shakespeare, William, 1564-1616</persname>
+            <corpname source="naf">State University of New York at Albany.</corpname>
+            <corpname source="naf">University of Pittsburgh.</corpname>
+            <genreform source="aat">Articles</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Financial records</genreform>
+            <genreform source="aat">Invoices</genreform>
+            <genreform source="aat">Mailing lists</genreform>
+            <subject source="lcsh">Performing arts -- United States</subject>
+            <genreform source="aat">Periodicals</genreform>
+            <genreform source="aat">Subscription lists</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+            <subject source="lcsh">Theater -- United States -- Periodicals</subject>
+            <title source="lcsh">Theatre survey</title>
+            <subject source="lcsh">Theatrers -- Stage-setting and scenery</subject>
+            <genreform source="aat">Transcripts</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid608001" type="Folder">1</container>
+                    <unitdate>1963</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608002" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle>Mailing lists,</unittitle>
+                    <container id="cid608003" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid608004" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>David Gild article - vol. V, no. 1,</unittitle>
+                    <container id="cid608005" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>Frederick J. Hunter article - vol. V, no. 1,</unittitle>
+                    <container id="cid608006" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Covers - vol. V, no. 1,</unittitle>
+                    <container id="cid608007" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid608008" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608009" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Mailing lists,</unittitle>
+                    <container id="cid608010" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Correspondence - vol. VI, no. 1,</unittitle>
+                    <container id="cid608011" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>M. Ray Adams correspondence - vol. VI, no. 1,</unittitle>
+                    <container id="cid608012" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Kalman Burnim correspondence - vol. VI, no. 1,</unittitle>
+                    <container id="cid608013" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>James H. Butler correspondence - vol. VI, no. 1,</unittitle>
+                    <container id="cid608014" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref26" level="file">
+                <did>
+                    <unittitle>Stanly T. Lewis correspondence - vol. VI, no. 1,</unittitle>
+                    <container id="cid608015" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>Douglas McDermott correspondence - vol. VI, no. 1,</unittitle>
+                    <container id="cid608056" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Correspondence - vol. VI, no. 2,</unittitle>
+                    <container id="cid608017" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid608017" type="Folder">1</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Ned A. Bowman article - vol. VI, no. 2,</unittitle>
+                    <container id="cid608018" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Edward A. Langhans article - vol. VI, no. 2,</unittitle>
+                    <container id="cid608019" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref32" level="file">
+                <did>
+                    <unittitle>Calvin L. Pritner article - vol. VI, no. 2,</unittitle>
+                    <container id="cid608020" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref33" level="file">
+                <did>
+                    <unittitle>Pat M. Ryan article - vol. VI, no. 2,</unittitle>
+                    <container id="cid608021" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Ronald E. Sherriffs article - vol. VI, no. 2,</unittitle>
+                    <container id="cid608022" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref35" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid608023" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid608024" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Richard E. Amacher correspondence - vol. VII, no. 2,</unittitle>
+                    <container id="cid608025" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1966</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref38" level="file">
+                <did>
+                    <unittitle>Douglas McDermott correspondence - vol. VII, no. 2,</unittitle>
+                    <container id="cid608026" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1966</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Arthur H. Saxon correspondence - vol. VII, no. 2,</unittitle>
+                    <container id="cid608027" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1966</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref40" level="file">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <container id="cid608028" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>William S.E. Coleman article - vol. VIII, no. 1,</unittitle>
+                    <container id="cid608029" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref42" level="file">
+                <did>
+                    <unittitle>Gresdna Doty correspondence - vol. VIII, no. 1,</unittitle>
+                    <container id="cid608030" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref43" level="file">
+                <did>
+                    <unittitle>Leonard H. Knight article - vol. VIII, no. 1,</unittitle>
+                    <container id="cid608031" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref44" level="file">
+                <did>
+                    <unittitle>Terence Tobin correspondence - vol. VIII, no. 1,</unittitle>
+                    <container id="cid608032" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref45" level="file">
+                <did>
+                    <unittitle>Eugene K. Bristow and William R. Reardon article and related correspondence - vol. VIII, no. 2,</unittitle>
+                    <container id="cid608033" type="Folder" label="Mixed materials">17</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref46" level="file">
+                <did>
+                    <unittitle>Donald C. Mullin article - vol. VIII, no. 2,</unittitle>
+                    <container id="cid608034" type="Folder" label="Mixed materials">18</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref47" level="file">
+                <did>
+                    <unittitle>Richard Stoddard article - vol. VIII, no. 2,</unittitle>
+                    <container id="cid608035" type="Folder" label="Mixed materials">19</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Frank W. Wadsworth article - vol. VIII, no. 2,</unittitle>
+                    <container id="cid608036" type="Folder" label="Mixed materials">20</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref49" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid608037" type="Folder" label="Mixed materials">21</container>
+                    <unitdate>1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref50" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608038" type="Folder" label="Mixed materials">22</container>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref51" level="file">
+                <did>
+                    <unittitle>Vol. IX, no. 1,</unittitle>
+                    <container id="cid608039" type="Folder" label="Mixed materials">23</container>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref52" level="file">
+                <did>
+                    <unittitle>Robert J. Green article - vol. IX, no. 1,</unittitle>
+                    <container id="cid608040" type="Folder" label="Mixed materials">24</container>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref53" level="file">
+                <did>
+                    <unittitle>Francis Hodge article - vol. IX, no. 1,</unittitle>
+                    <container id="cid608041" type="Folder" label="Mixed materials">25</container>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>John Ripley article - vol. IX, no. 1,</unittitle>
+                    <container id="cid608042" type="Folder" label="Mixed materials">26</container>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref55" level="file">
+                <did>
+                    <unittitle>Marvin Rosenberg article - vol. IX, no. 1,</unittitle>
+                    <container id="cid608043" type="Folder" label="Mixed materials">27</container>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid608044" type="Box" label="Mixed materials">3</container>
+                    <container parent="cid608044" type="Folder">1</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref57" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608045" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref58" level="file">
+                <did>
+                    <unittitle>Vol. X, no. 1,</unittitle>
+                    <container id="cid608046" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref59" level="file">
+                <did>
+                    <unittitle>Betty Bandel article - vol. X, no. 1,</unittitle>
+                    <container id="cid608057" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Robert Cohen article - vol. X, no. 1,</unittitle>
+                    <container id="cid608048" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref61" level="file">
+                <did>
+                    <unittitle>Robert B. Montilla article - vol. X, no. 1,</unittitle>
+                    <container id="cid608049" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Raymond J. Pentzell article - vol. X, no. 1,</unittitle>
+                    <container id="cid608050" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref63" level="file">
+                <did>
+                    <unittitle>James H. Butler article - vol. X, no. 2,</unittitle>
+                    <container id="cid608051" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref64" level="file">
+                <did>
+                    <unittitle>Lawrence P. Goodman article - vol. X, no. 2,</unittitle>
+                    <container id="cid608052" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref65" level="file">
+                <did>
+                    <unittitle>Paul S. Hostetler article - vol. X, no. 2,</unittitle>
+                    <container id="cid608053" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>Frank W. Wadsworth article - vol. X, no. 2,</unittitle>
+                    <container id="cid608054" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref67" level="file">
+                <did>
+                    <unittitle>Albert Wertheim article - vol. X, no. 2,</unittitle>
+                    <container id="cid608058" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1969</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref68" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608059" type="Box" label="Mixed materials">4</container>
+                    <container parent="cid608059" type="Folder">1</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid608060" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref70" level="file">
+                <did>
+                    <unittitle>Vol. XI, no. 1,</unittitle>
+                    <container id="cid608061" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref71" level="file">
+                <did>
+                    <unittitle>Sidney P. Albert article - vol. XI, no. 1,</unittitle>
+                    <container id="cid608062" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref72" level="file">
+                <did>
+                    <unittitle>Marvin Carlson article - vol. XI, no. 1,</unittitle>
+                    <container id="cid608063" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1970-1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref73" level="file">
+                <did>
+                    <unittitle>Philip H. Highfill article - vol. XI, no. 1,</unittitle>
+                    <container id="cid608064" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref74" level="file">
+                <did>
+                    <unittitle>G. M. Pinciss article - vol. XI, no. 1,</unittitle>
+                    <container id="cid608065" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref75" level="file">
+                <did>
+                    <unittitle>Donald C. Mullin article - vol. XI, no. 2,</unittitle>
+                    <container id="cid608066" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref76" level="file">
+                <did>
+                    <unittitle>Christopher Murray article - vol. XI, no. 2,</unittitle>
+                    <container id="cid608067" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref77" level="file">
+                <did>
+                    <unittitle>Merrill A. Rosenberg article - vol. XI, no. 2,</unittitle>
+                    <container id="cid608068" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Frank W. Wadsworth article - vol. XI, no. 2,</unittitle>
+                    <container id="cid608069" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref79" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608070" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref80" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid608071" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref81" level="file">
+                <did>
+                    <unittitle>Richard Hosley article - vol. XII, no. 1,</unittitle>
+                    <container id="cid608072" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref82" level="file">
+                <did>
+                    <unittitle>Frederick E. Snyder article - vol. XII, no. 1,</unittitle>
+                    <container id="cid608073" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref83" level="file">
+                <did>
+                    <unittitle>Richard Stoddard article - vol. XII, no. 1,</unittitle>
+                    <container id="cid608074" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref84" level="file">
+                <did>
+                    <unittitle>Alan Woods article - vol. XII, no. 1,</unittitle>
+                    <container id="cid608075" type="Folder" label="Mixed materials">17</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref85" level="file">
+                <did>
+                    <unittitle>Ryder Hector Currie article - vol. XII, no. 2,</unittitle>
+                    <container id="cid608076" type="Box" label="Mixed materials">5</container>
+                    <container parent="cid608076" type="Folder">1</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref86" level="file">
+                <did>
+                    <unittitle>Alan S. Downer article - vol. XII, no. 2,</unittitle>
+                    <container id="cid608077" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref87" level="file">
+                <did>
+                    <unittitle>Bamber Gascoigne correspondence - vol. XII, no. 2,</unittitle>
+                    <container id="cid608078" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref88" level="file">
+                <did>
+                    <unittitle>John Harrop article - vol. XII, no. 2,</unittitle>
+                    <container id="cid608079" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref89" level="file">
+                <did>
+                    <unittitle>Leonard Powlick article - vol. XII, no. 2,</unittitle>
+                    <container id="cid608080" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref90" level="file">
+                <did>
+                    <unittitle>John W. Robinson note - vol. XII, no. 2,</unittitle>
+                    <container id="cid608081" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref91" level="file">
+                <did>
+                    <unittitle>A. Richard Sogliuzzo article - vol. XII, no. 2,</unittitle>
+                    <container id="cid608082" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref92" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid608083" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref93" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid608084" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref94" level="file">
+                <did>
+                    <unittitle>Richard L. DeMolen article - vol. XIII, no. 1,</unittitle>
+                    <container id="cid608055" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref95" level="file">
+                <did>
+                    <unittitle>Robert Fahrner article - vol. XIII, no. 1,</unittitle>
+                    <container id="cid608085" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref96" level="file">
+                <did>
+                    <unittitle>James M. Leonard article - vol. XIII, no. 1,</unittitle>
+                    <container id="cid608090" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref97" level="file">
+                <did>
+                    <unittitle>Malcolm Morley article - vol. XIII, no. 1,</unittitle>
+                    <container id="cid608086" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref98" level="file">
+                <did>
+                    <unittitle>Raymond J. Pentzell note - vol. XIII, no. 1,</unittitle>
+                    <container id="cid608087" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref99" level="file">
+                <did>
+                    <unittitle>Alan Woods – Ryder Hector Currie debate - vol. XIII, no. 1,</unittitle>
+                    <container id="cid608088" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref100" level="file">
+                <did>
+                    <unittitle>Max Reinhardt’s Theaters. Walther R. Volbach article - special issue,</unittitle>
+                    <container id="cid610001" type="Box" label="Mixed materials">6</container>
+                    <container parent="cid610001" type="Folder">1</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref101" level="file">
+                <did>
+                    <unittitle>Walter R. Volbach correspondence - special issue,</unittitle>
+                    <container id="cid610002" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1971-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref105" level="file">
+                <did>
+                    <unittitle>Julia Curtis note - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610006" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref106" level="file">
+                <did>
+                    <unittitle>Billy J. Harbin article - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610007" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref104" level="file">
+                <did>
+                    <unittitle>Barnard Hewitt correspondence - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610005" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref107" level="file">
+                <did>
+                    <unittitle>Edward A. Langhans article - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610008" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref108" level="file">
+                <did>
+                    <unittitle>David Rinear article - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610009" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref109" level="file">
+                <did>
+                    <unittitle>Michael Shapiro article - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610010" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref110" level="file">
+                <did>
+                    <unittitle>Richard Stoddard note - vol. XIII, no. 2,</unittitle>
+                    <container id="cid610011" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref111" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid610012" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref112" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid614001" type="Box" label="Mixed materials">7</container>
+                    <container parent="cid614001" type="Folder">1</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref113" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid614002" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref114" level="file">
+                <did>
+                    <unittitle>Financial records, paid invoices,</unittitle>
+                    <container id="cid614003" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref115" level="file">
+                <did>
+                    <unittitle>Financial records, unpaid invoices</unittitle>
+                    <container id="cid614004" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref116" level="file">
+                <did>
+                    <unittitle>Vol. XIV, no. 2</unittitle>
+                    <container id="cid614005" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref117" level="file">
+                <did>
+                    <unittitle>Lawrence M. Clopper article - vol. XIV, no. 2,</unittitle>
+                    <container id="cid614008" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref118" level="file">
+                <did>
+                    <unittitle>Patricia W. O’Conner article - vol. XIV, no. 2,</unittitle>
+                    <container id="cid614006" type="Folders" label="Mixed materials">7</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref119" level="file">
+                <did>
+                    <unittitle>Richard Sogliuzzo article - vol. XIV, no. 2,</unittitle>
+                    <container id="cid614007" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref120" level="file">
+                <did>
+                    <unittitle>Mary del Villar note - vol. XIV, no. 2,</unittitle>
+                    <container id="cid614009" type="Folders" label="Mixed materials">9</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref121" level="file">
+                <did>
+                    <unittitle>Don B. Wilmuth article - vol. XIV, no. 2,</unittitle>
+                    <container id="cid614010" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref122" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid614011" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref123" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid614012" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref124" level="file">
+                <did>
+                    <unittitle>Financial records,</unittitle>
+                    <container id="cid614013" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref125" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid614014" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref126" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid614015" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref127" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid614016" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref128" level="file">
+                <did>
+                    <unittitle>American Society for Theater Research,</unittitle>
+                    <container id="cid614017" type="Folder" label="Mixed materials">17</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref129" level="file">
+                <did>
+                    <unittitle>George B. Bryan article - vol. XV, no. 2,</unittitle>
+                    <container id="cid614018" type="Box" label="Mixed materials">8</container>
+                    <container parent="cid614018" type="Folder">1</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref130" level="file">
+                <did>
+                    <unittitle>Terry Oggel article - vol. XIV, no. 1,</unittitle>
+                    <container id="cid614019" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref131" level="file">
+                <did>
+                    <unittitle>Edward C. Powers article - vol. XV, no. 2,</unittitle>
+                    <container id="cid614020" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref132" level="file">
+                <did>
+                    <unittitle>S. Viswanathan article - vol. XV, no. 2,</unittitle>
+                    <container id="cid614021" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref133" level="file">
+                <did>
+                    <unittitle>Barry Daniels article - vol. XVI, no. 1,</unittitle>
+                    <container id="cid614022" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref134" level="file">
+                <did>
+                    <unittitle>Roger Herzel article - vol. XVI, no. 1,</unittitle>
+                    <container id="cid614023" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref135" level="file">
+                <did>
+                    <unittitle>Albert E. Kalson article - vol. XVI, no. 1,</unittitle>
+                    <container id="cid614024" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref136" level="file">
+                <did>
+                    <unittitle>Diane B. Marlone article - vol. XVI, no. 1,</unittitle>
+                    <container id="cid614025" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref137" level="file">
+                <did>
+                    <unittitle>Jack W. McCullough article - vol. XVI, no. 2,</unittitle>
+                    <container id="cid614026" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref138" level="file">
+                <did>
+                    <unittitle>Michael R. Booth - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614027" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref139" level="file">
+                <did>
+                    <unittitle>Correspondence regarding entire issue - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614028" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref140" level="file">
+                <did>
+                    <unittitle>Carole J. Carlisle article -vol. XVII, no. 1,</unittitle>
+                    <container id="cid614029" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref141" level="file">
+                <did>
+                    <unittitle>Selma Jeanne Cohen article - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614030" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref142" level="file">
+                <did>
+                    <unittitle>Phyliss Dircks - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614031" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref143" level="file">
+                <did>
+                    <unittitle>John Bush Jones article - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614032" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref144" level="file">
+                <did>
+                    <unittitle>Cecil Price article - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614033" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref145" level="file">
+                <did>
+                    <unittitle>Harry M. Ritchie - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614034" type="Folder" label="Mixed materials">17</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref146" level="file">
+                <did>
+                    <unittitle>A. H. Saxon - vol. XVII, no. 1,</unittitle>
+                    <container id="cid614035" type="Folder" label="Mixed materials">18</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref147" level="file">
+                <did>
+                    <unittitle>Davidson and Mason article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614036" type="Folder" label="Mixed materials">19</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref148" level="file">
+                <did>
+                    <unittitle>Anthony Graham-White article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614037" type="Folder" label="Mixed materials">20</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref149" level="file">
+                <did>
+                    <unittitle>Lynn Hiams article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614038" type="Box" label="Mixed materials">9</container>
+                    <container parent="cid614038" type="Folder">1</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref150" level="file">
+                <did>
+                    <unittitle>Judith Milhous article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614039" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref151" level="file">
+                <did>
+                    <unittitle>Edward M. Moore article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614040" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref152" level="file">
+                <did>
+                    <unittitle>Michael Mullin article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614041" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref153" level="file">
+                <did>
+                    <unittitle>Ronald J. Palumbo article - vol. XVII, no. 2,</unittitle>
+                    <container id="cid614042" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref157" level="file">
+                <did>
+                    <unittitle>Richard J. Cox article - vol. XVIII, no. 1,</unittitle>
+                    <container id="cid620001" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref158" level="file">
+                <did>
+                    <unittitle>John R. Wolcott article - vol. XVIII, no. 1,</unittitle>
+                    <container id="cid620002" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1974-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref159" level="file">
+                <did>
+                    <unittitle>Briant Hamor Lee article - vol. XVIII, no. 2,</unittitle>
+                    <container id="cid620003" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref160" level="file">
+                <did>
+                    <unittitle>Raymond D. Shady - vol. XVIII, no. 2,</unittitle>
+                    <container id="cid620004" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref161" level="file">
+                <did>
+                    <unittitle>James F. Stottlar article - vol. XVIII, no. 2,</unittitle>
+                    <container id="cid620005" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1975-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref162" level="file">
+                <did>
+                    <unittitle>Gary Jay Williams correspondence - vol. XVIII, no. 2,</unittitle>
+                    <container id="cid620006" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1977-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref163" level="file">
+                <did>
+                    <unittitle>Gerald M Berkowitz article - vol. XIX, no. 1,</unittitle>
+                    <container id="cid620007" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref164" level="file">
+                <did>
+                    <unittitle>Douglas McDermott article - vol. XIX, no. 1,</unittitle>
+                    <container id="cid620008" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1977-1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref165" level="file">
+                <did>
+                    <unittitle>Linda Suny Myrsiades article - vol. XIX, no. 1,</unittitle>
+                    <container id="cid620009" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref166" level="file">
+                <did>
+                    <unittitle>Laurence Senelick article - vol. XIX, no. 1,</unittitle>
+                    <container id="cid620010" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref167" level="file">
+                <did>
+                    <unittitle>Leonie Star article - vol. XIX, no. 1,</unittitle>
+                    <container id="cid620011" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref168" level="file">
+                <did>
+                    <unittitle>Book reviews and correspondence - vol. XIX, no. 1,</unittitle>
+                    <container id="cid620012" type="Box" label="Mixed materials">10</container>
+                    <container parent="cid620012" type="Folder">1</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref169" level="file">
+                <did>
+                    <unittitle>James and Joseph Donohue article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid620013" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref170" level="file">
+                <did>
+                    <unittitle>Robert Fahrner article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid620014" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref171" level="file">
+                <did>
+                    <unittitle>Oliver W. Ferguson article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid620015" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref172" level="file">
+                <did>
+                    <unittitle>Shirley Strum Kenny - vol. XIX, no. 2,</unittitle>
+                    <container id="cid620016" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref173" level="file">
+                <did>
+                    <unittitle>Orville K. Larson article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid620017" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref174" level="file">
+                <did>
+                    <unittitle>Milhouse and Hume article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid620018" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref175" level="file">
+                <did>
+                    <unittitle>Bruce Podewell article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid621001" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref176" level="file">
+                <did>
+                    <unittitle>Joseph R. Roach article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid621002" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref177" level="file">
+                <did>
+                    <unittitle>Colin Visser article - vol. XIX, no. 2,</unittitle>
+                    <container id="cid621003" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1977-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref178" level="file">
+                <did>
+                    <unittitle>Book reviews and correspondence - vol. XIX, no. 2,</unittitle>
+                    <container id="cid621004" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref179" level="file">
+                <did>
+                    <unittitle>Heinrich Falk article ff1 - vol. XX, no. 1,</unittitle>
+                    <container id="cid621005" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref180" level="file">
+                <did>
+                    <unittitle>Heinrich Falk article ff2 - vol. XX, no. 1,</unittitle>
+                    <container id="cid621006" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>1978-1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref181" level="file">
+                <did>
+                    <unittitle>William Kleb article - vol. XX, no. 1,</unittitle>
+                    <container id="cid621007" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1977-1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref182" level="file">
+                <did>
+                    <unittitle>Bruce A. McConachie article - vol. XX, no. 1,</unittitle>
+                    <container id="cid621008" type="Box" label="Mixed materials">11</container>
+                    <container parent="cid621008" type="Folder">1</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref183" level="file">
+                <did>
+                    <unittitle>Tice L. Miller article - vol. XX, no. 1,</unittitle>
+                    <container id="cid621009" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref184" level="file">
+                <did>
+                    <unittitle>Wayne H. Phelps article - vol. XX, no. 1,</unittitle>
+                    <container id="cid621010" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref185" level="file">
+                <did>
+                    <unittitle>John Orrell article - vol. XX, no. 1,</unittitle>
+                    <container id="cid621011" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref186" level="file">
+                <did>
+                    <unittitle>Laurence Senelick article - vol. XX, no. 1,</unittitle>
+                    <container id="cid621012" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref187" level="file">
+                <did>
+                    <unittitle>Wilson F. Engel article - vol. XX, no. 2,</unittitle>
+                    <container id="cid621013" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref188" level="file">
+                <did>
+                    <unittitle>Levi Phillips - vol. XX, no. 2,</unittitle>
+                    <container id="cid621014" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref189" level="file">
+                <did>
+                    <unittitle>James S. Moy article - vol. XX, no. 2,</unittitle>
+                    <container id="cid621015" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref190" level="file">
+                <did>
+                    <unittitle>David D. Mays article - vol. XX, no. 2,</unittitle>
+                    <container id="cid621016" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref191" level="file">
+                <did>
+                    <unittitle>Alvin Goldfarb article - vol. XX, no. 2,</unittitle>
+                    <container id="cid621017" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref192" level="file">
+                <did>
+                    <unittitle>Daniel Barrett article - vol. XX, no. 2,</unittitle>
+                    <container id="cid621018" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref193" level="file">
+                <did>
+                    <unittitle>Typescript index volumes 1-20 - vol. XX, no. 2,</unittitle>
+                    <container id="cid621019" type="Folder" label="Mixed materials">12</container>
+                </did>
+            </c01>
+            <c01 id="ref194" level="file">
+                <did>
+                    <unittitle>Typescript author - title index - vol. XX, no. 2,</unittitle>
+                    <container id="cid621020" type="Folder" label="Mixed materials">13</container>
+                </did>
+            </c01>
+            <c01 id="ref195" level="file">
+                <did>
+                    <unittitle>Rejected articles,</unittitle>
+                    <container id="cid621021" type="Box" label="Mixed materials">12</container>
+                    <container parent="cid621021" type="Folders">1-8</container>
+                    <unitdate>1972-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref282" level="file">
+                <did>
+                    <unittitle>Rejected articles,</unittitle>
+                    <container id="cid650001" type="Box" label="Mixed materials">13</container>
+                    <container parent="cid650001" type="Folders">1-2</container>
+                    <unitdate>1977-1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref205" level="file">
+                <did>
+                    <unittitle>Book reviews and correspondence,</unittitle>
+                    <container id="cid621031" type="Folder" label="Mixed materials">3</container>
+                </did>
+            </c01>
+            <c01 id="ref206" level="file">
+                <did>
+                    <unittitle>General correspondence,</unittitle>
+                    <container id="cid623001" type="Box" label="Mixed materials">14</container>
+                    <container parent="cid623001" type="Folder">1-3</container>
+                    <unitdate>1971-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref209" level="file">
+                <did>
+                    <unittitle>Editorial correspondence,</unittitle>
+                    <container id="cid623004" type="Folder" label="Mixed materials">4-5</container>
+                    <unitdate>1969-1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref211" level="file">
+                <did>
+                    <unittitle>Correspondence regarding Ned Bourman’s candidacy for Executive communication,</unittitle>
+                    <container id="cid623006" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1970-1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref212" level="file">
+                <did>
+                    <unittitle>Miscellaneous research proposals: CIC holdings, Charles MacArthur Center for the American Theater – London Stage 1800-1900,</unittitle>
+                    <container id="cid623007" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1975-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref213" level="file">
+                <did>
+                    <unittitle>Copyright files and related correspondence,</unittitle>
+                    <container id="cid623008" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1964-1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref214" level="file">
+                <did>
+                    <unittitle>MLA abstracts and related correspondence</unittitle>
+                    <container id="cid623009" type="Folder" label="Mixed materials">9</container>
+                </did>
+            </c01>
+            <c01 id="ref215" level="file">
+                <did>
+                    <unittitle>Subscription information,</unittitle>
+                    <container id="cid623010" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref216" level="file">
+                <did>
+                    <unittitle>Xerox microfilm agreement,</unittitle>
+                    <container id="cid623011" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref217" level="file">
+                <did>
+                    <unittitle>Exchange with other publications</unittitle>
+                    <container id="cid623012" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref218" level="file">
+                <did>
+                    <unittitle>Annual reports,</unittitle>
+                    <container id="cid623013" type="Box" label="Mixed materials">15</container>
+                    <container parent="cid623013" type="Folder">1-8</container>
+                    <unitdate>1970-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref226" level="file">
+                <did>
+                    <unittitle>Executive committee minutes,</unittitle>
+                    <container id="cid623021" type="Folder" label="Mixed materials">9-13</container>
+                    <unitdate>1973-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref231" level="file">
+                <did>
+                    <unittitle>Expense analysis and documentation – executive committee,</unittitle>
+                    <container id="cid645001" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>1964-1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref232" level="file">
+                <did>
+                    <unittitle>Executive committee interim financial reports,</unittitle>
+                    <container id="cid645002" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>1977-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref233" level="file">
+                <did>
+                    <unittitle>Executive committee,</unittitle>
+                    <container id="cid645003" type="Folder" label="Mixed materials">16-17</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref235" level="file">
+                <did>
+                    <unittitle>Publication committee and related correspondence,</unittitle>
+                    <container id="cid645005" type="Folder" label="Mixed materials">18</container>
+                    <unitdate>1973-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref236" level="file">
+                <did>
+                    <unittitle>ASTR miscellaneous membership forms</unittitle>
+                    <container id="cid645006" type="Box" label="Mixed materials">16</container>
+                    <container parent="cid645006" type="Folder">1-2</container>
+                </did>
+            </c01>
+            <c01 id="ref238" level="file">
+                <did>
+                    <unittitle>ASTR reforms,</unittitle>
+                    <container id="cid645008" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1972-1973</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref239" level="file">
+                <did>
+                    <unittitle>Unpaid invoices,</unittitle>
+                    <container id="cid645009" type="Box" label="Mixed materials">17</container>
+                    <container parent="cid645009" type="Folder">1</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref240" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645010" type="Folder" label="Mixed materials">2-5</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref244" level="file">
+                <did>
+                    <unittitle>Renewals,</unittitle>
+                    <container id="cid645014" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref245" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645015" type="Box" label="Mixed materials">18</container>
+                    <container parent="cid645015" type="Folder">1-4</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref249" level="file">
+                <did>
+                    <unittitle>Renewals,</unittitle>
+                    <container id="cid645019" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref250" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645020" type="Box" label="Mixed materials">19</container>
+                    <container parent="cid645020" type="Folder">1-2</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref252" level="file">
+                <did>
+                    <unittitle>Renewals,</unittitle>
+                    <container id="cid645022" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref253" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645023" type="Box" label="Mixed materials">20</container>
+                    <container parent="cid645023" type="Folder">1-3</container>
+                    <unitdate>1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref256" level="file">
+                <did>
+                    <unittitle>Renewals,</unittitle>
+                    <container id="cid645026" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref257" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645027" type="Folder" label="Mixed materials">5-6</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref259" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645029" type="Box" label="Mixed materials">21</container>
+                    <container parent="cid645029" type="Folder">1-2</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref261" level="file">
+                <did>
+                    <unittitle>Unpaid and cancelled invoices,</unittitle>
+                    <container id="cid645031" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref262" level="file">
+                <did>
+                    <unittitle>Renewals,</unittitle>
+                    <container id="cid645032" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref263" level="file">
+                <did>
+                    <unittitle>Paid invoices,</unittitle>
+                    <container id="cid645033" type="Box" label="Mixed materials">22</container>
+                    <container parent="cid645033" type="Folder">1-3</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref266" level="file">
+                <did>
+                    <unittitle>Unpaid invoices,</unittitle>
+                    <container id="cid645036" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1979</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref267" level="file">
+                <did>
+                    <unittitle>Early agreements University of Pittsburgh Press etcetera,</unittitle>
+                    <container id="cid645037" type="Box" label="Mixed materials">23</container>
+                    <container parent="cid645037" type="Folder">1</container>
+                    <unitdate>1963-1964</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref268" level="file">
+                <did>
+                    <unittitle>Bids,</unittitle>
+                    <container id="cid645038" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1963-1967</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref269" level="file">
+                <did>
+                    <unittitle>Correspondence with publishers,</unittitle>
+                    <container id="cid645039" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref270" level="file">
+                <did>
+                    <unittitle>Cancelled invoices,</unittitle>
+                    <container id="cid645040" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>1973-1978</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref271" level="file">
+                <did>
+                    <unittitle>Printing and mailing requisitions and purchase orders,</unittitle>
+                    <container id="cid645041" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1973-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref272" level="file">
+                <did>
+                    <unittitle>Account printouts,</unittitle>
+                    <container id="cid645042" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>1974-1976</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref273" level="file">
+                <did>
+                    <unittitle>Disbursements - financial,</unittitle>
+                    <container id="cid645043" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1975-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref274" level="file">
+                <did>
+                    <unittitle>Claims – invoices – miscellaneous correspondence,</unittitle>
+                    <container id="cid645044" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>1975-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref275" level="file">
+                <did>
+                    <unittitle>Tab runs – computer print-outs,</unittitle>
+                    <container id="cid645045" type="Box" label="Mixed materials">24</container>
+                    <container parent="cid645045" type="Folder">1</container>
+                    <unitdate>1976-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref276" level="file">
+                <did>
+                    <unittitle>Cash reports,</unittitle>
+                    <container id="cid645046" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1976-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref277" level="file">
+                <did>
+                    <unittitle>Claims and complaints - financial,</unittitle>
+                    <container id="cid645047" type="Folder" label="Mixed materials">3-4</container>
+                    <unitdate>1976-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref279" level="file">
+                <did>
+                    <unittitle>Subscription agencies,</unittitle>
+                    <container id="cid645049" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>1978-1980</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref280" level="file">
+                <did>
+                    <unittitle>Forms – to subscriber invoice</unittitle>
+                    <container id="cid645050" type="Folder" label="Mixed materials">6</container>
+                </did>
+            </c01>
+            <c01 id="ref281" level="file">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <container id="cid680120" type="Folder" label="Photographic images">7</container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

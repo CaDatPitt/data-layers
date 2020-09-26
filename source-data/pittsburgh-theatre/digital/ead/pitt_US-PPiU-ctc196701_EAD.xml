@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc196701</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Harold B. Barth Scrapbook Collection, 1889-1974
+                    <num>CTC.1967.01</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>December 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Harold B. Barth Scrapbook Collection</unittitle>
+            <unitid>CTC.1967.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>13.0 linear feet</extent>
+                <extent>(29 mss. boxes)</extent>
+            </physdesc>
+            <unitdate normal="1905/1967" type="bulk">Bulk, 1905-1967</unitdate>
+            <unitdate normal="1889/1974" type="inclusive">1889-1974</unitdate>
+            <abstract id="ref75" label="Abstract">The Barth Scrapbook Collection documents the performing arts in Pittsburgh and East Liverpool, Ohio. There are 41 volumes of programs, clippings, and other documents that date from the late nineteenth century through the 1960's.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Collector (col)">Barth, Harold B. (Harold Bradshaw), 1884-1974</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref74">
+            <head>Acquisition Information</head>
+            <p>Gift of Harold B. Barth in 1967.</p>
+        </acqinfo>
+        <processinfo id="ref70">
+            <head>Processing Information</head>
+            <p>This collection was processed by Curtis Collection staff. Portions of this finding aid were re-written by Reba Sell and William Daw in December 2014.</p>
+        </processinfo>
+        <userestrict id="ref72">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that which goes beyond what is allowed by fair use.</p>
+        </userestrict>
+        <accessrestrict id="ref73">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <scopecontent id="ref79">
+            <head>Scope and Content Notes</head>
+            <p>Harold Barth organized his scrapbooks in volumes according to subject, i.e. drama, music, motion pictures, etc. Twenty-one volumes contain programs accompanied by related clippings (although scrapbooks for motion pictures are primarily clippings), presumably for those performances that Barth attended between 1905-1967. All of these programs are mounted in loose-leaf albums. For clippings of interest from magazine and newspapers, Barth used bound ledger books (scrapbooks 22-34, 40) and composition books (scrapbooks 35-39). The final volume is a loose-leaf notebook presented to the Curtis Collection by Eva Wasbutsky, Barth's secretary, after his death. Barth was in interested in all of the performing arts, but mostly in theatre and film. His primary collection focus was on Shakespeare; the final volumes consist of Shakespearean productions on stage, film, radio, and televsion.</p>
+            <p>The scrapbooks have been organized into categories according to form and content, arranged, as much as possible, in chronological order, and assigned numbers. Loose souvenir programs, pamphlets, and clippings were removed and integrated into other areas in the Curtis Collection.</p>
+        </scopecontent>
+        <bioghist id="ref78">
+            <head>Biography</head>
+            <p>Harold Bradshaw Barth, 1884-1974, was the grandson of one of East Liverpool's earliest settlers. Barth was also a life-long resident of the community except for a brief period as a young man. He was a graduate of the Byron King School of Oratory, a school of dramatic art in Pittsburgh. He later studied under the noted actor, Frederick Warde, and for a few years performed with the Ben Greet Troupe, Shakespearean Players. This early interest in the stage influenced his collecting interests which yielded an enthusiastic accumulation of theatrical memorabilia spanning more than 60 years.</p>
+            <p>Barth returned to East Liverpool, Ohio, after the death of his father in 1907 to begin a long and active career in civic life, serving in voluntary roles within municipal, county, state, and federal agencies. He was one of the organizers of East Liverpool's Rotary Club and served as the organization's Secretary for 50 years. He also had a long association with the East Liverpool Chamber of Commerce.</p>
+            <p>Local history was of particular interest to him. His two-volume history of Columbiana County was published in 1926. He was a member of the East Liverpool Historical Society, first elected to its Board of Trustees in 1920. He later served as Secretary and later, President. For many years until his death, he served as the Curator of the Society's Museum and developed a notable collection of pottery and local artifacts.</p>
+        </bioghist>
+        <prefercite id="ref80">
+            <head>Preferred Citation</head>
+            <p>Harold B. Barth Scrapbook Collection, 1889-1974, CTC.1967.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <odd id="ref76">
+            <head>Previous Citation</head>
+            <p>Harold B. Barth Scrapbook Collection, 1889-1974, CTC.1967.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Performing arts -- Ohio -- East Liverpool</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Shakespeare, William, 1564-1616 -- Stage history -- Ohio -- East Liverpool</subject>
+            <subject source="lcsh">Shakespeare, William, 1564-1616 -- Stage history -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Theater -- Ohio -- East Liverpool</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="file">
+                <did>
+                    <unittitle>Drama - Oversized scrapbook,</unittitle>
+                    <container id="cid3678001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3678001" type="Volume">1</container>
+                    <physdesc>
+                        <extent>40 x 54 cm.</extent>
+                    </physdesc>
+                    <unitdate>1905-1925</unitdate>
+                </did>
+                <scopecontent id="ref2">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains programs, newspaper reviews, and advertisements. The majority of the programs are from performances held in East Liverpool and Pittsburgh. Some major Pittsburgh theatres represented in this volume are Alvin, Avenue, Belasco, Dusquesne, Gayety, Nixon, and the Pitt Theatre. The major theatres from East Liverpool include the American and Ceramic Theatres. The volume also includes a few Ohio Chautauqua programs.</p>
+                    <p>This volume continues with volumes 6-8.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref4" level="file">
+                <did>
+                    <unittitle>Musicals - Oversized scrapbook,</unittitle>
+                    <container id="cid3682001" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid3682001" type="Volume">2</container>
+                    <physdesc>
+                        <extent>40 x 54 cm.</extent>
+                    </physdesc>
+                    <unitdate>1905-1964</unitdate>
+                </did>
+                <scopecontent id="ref5">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains programs of musical comedies and revues, newspaper clippings and reviews, and advertisements. Major theatres represented in this volume are the Academy, Alvin, Avenue, Belasco, Duquesne, Gayety, Pitt, and Victoria in Pittsburgh. Major theatres in East Liverpool included are the American, Ceramic, and McKinley Theatres.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref6" level="file">
+                <did>
+                    <unittitle>Vaudeville - Oversized scrapbook,</unittitle>
+                    <container id="cid3682002" type="Box" label="Mixed materials">3</container>
+                    <container parent="cid3682002" type="Volume">3</container>
+                    <physdesc>
+                        <extent>40 x 54 cm.</extent>
+                    </physdesc>
+                    <unitdate>1905-1959</unitdate>
+                </did>
+                <scopecontent id="ref7">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume includes programs, newspaper reviews, and advertisements. The programs are from performances at East Liverpool and Pittsburgh Theatres. The East Liverpool programs are chiefly from the American, Ceramic, and McKinley Theatres. The majority of the Pittsburgh programs are from the Grand Opera House. There are a few other tri-state programs that are included in this volume, including Rock Springs Theatre in Chester, WV.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>Music - Oversized scrapbook,</unittitle>
+                    <container id="cid3682003" type="Box" label="Mixed materials">4</container>
+                    <container parent="cid3682003" type="Volume">4</container>
+                    <physdesc>
+                        <extent>40 x 54 cm.</extent>
+                    </physdesc>
+                    <unitdate>1905-1927</unitdate>
+                </did>
+                <scopecontent id="ref9">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains programs and newspaper clippings. These programs are from concerts, expositions, operas, and recitals. The majority of these performances are from East Liverpool and Pittsburgh. Some major Pittsburgh locations include the Carnegie Music Hall, Luna Park, the Pittsburgh Exposition, and the Syria Mosque.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>Motion pictures - Oversized scrapbook,</unittitle>
+                    <container id="cid3682004" type="Box" label="Mixed materials">5</container>
+                    <container parent="cid3682004" type="Volume">5</container>
+                    <physdesc>
+                        <extent>40 x 54 cm.</extent>
+                    </physdesc>
+                    <unitdate>1912-1929? </unitdate>
+                </did>
+                <scopecontent id="ref11">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume includes newspaper advertisements, programs, and some reviews. The majority of this volume is from East Liverpool theatres, with some material from Pittsburgh.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Drama,</unittitle>
+                    <container id="cid3682005" type="Box" label="Mixed materials">6</container>
+                    <container parent="cid3682005" type="Volume">6</container>
+                    <physdesc>
+                        <extent>24 x 36 cm.</extent>
+                    </physdesc>
+                    <unitdate>1926-1933</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a continuation from volume 1 which includes programs, newspaper reviews, and advertisements. The programs are chiefly from Pittsburgh, with some others from Cleveland, East Liverpool, Montreal, New York City, Washington, D.C., and Youngstown.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle>Drama,</unittitle>
+                    <container id="cid3682006" type="Box" label="Mixed materials">7</container>
+                    <container parent="cid3682006" type="Volume">7</container>
+                    <physdesc>
+                        <extent>24 x 36 cm.</extent>
+                    </physdesc>
+                    <unitdate>1934-1966</unitdate>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a continuation from Volumes 1 and 6, which includes programs, newspapers reviews, and advertisements. Prior to 1949, this volume includes performances from theatres in Pittsburgh, Ohio, New York City, and Washington, D.C. After 1949, this volume includes radio and TV dramas.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Shakespearean drama,</unittitle>
+                    <container id="cid3682007" type="Box" label="Mixed materials">8</container>
+                    <container parent="cid3682007" type="Volume">8</container>
+                    <physdesc>
+                        <extent>26 x 34 cm.</extent>
+                    </physdesc>
+                    <unitdate>1907-1966</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a continuation from Volume 1, which includes programs, newspaper reviews, and advertisements. The programs are predominantly from the Nixon Theatre, Pittsburgh and the Pittsburgh Playhouse, along with some other Pittsburgh theatres. The advertisements and reviews are from New York, Ohio, and Pittsburgh newspapers. This volume also includes newspaper clippings on radio and film productions.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Vaudeville,</unittitle>
+                    <container id="cid3682008" type="Box" label="Mixed materials">9</container>
+                    <container parent="cid3682008" type="Volume">9</container>
+                    <physdesc>
+                        <extent>24 x 36 cm.</extent>
+                    </physdesc>
+                    <unitdate>1926-1951</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a supplement to Volume 3, which includes programs, newspaper reviews, and advertisements from performances in East Liverpool and Pittsburgh. Programs from Boston and Colorado Springs as well as a souvenire program from Balieff's 
+                        <title render="italic">Chauve-Souris</title> are included in this volume.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>Music,</unittitle>
+                    <container id="cid3682009" type="Box" label="Mixed materials">10</container>
+                    <container parent="cid3682009" type="Volume">10</container>
+                    <physdesc>
+                        <extent>24 x 36 cm.</extent>
+                    </physdesc>
+                    <unitdate>1927-1941</unitdate>
+                </did>
+                <scopecontent id="ref21">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a supplement to Volume 4, which includes programs and newspaper clippings. This volume contains programs and newspaper clippings of concerts, operas, and recitals. The majority of these performances are from Pittsburgh. This volume also includes newspaper clippings of radio music programs from 1936-1941.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Motion pictures,</unittitle>
+                    <container id="cid3682010" type="Box" label="Mixed materials">11</container>
+                    <container parent="cid3682010" type="Volumes">11-13</container>
+                    <physdesc>
+                        <extent>24 x 36 cm.</extent>
+                    </physdesc>
+                    <unitdate>1929-1950</unitdate>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Content Notes</head>
+                    <p>Volumes 11-13 are a continuation from Volume 5, which includes advertisements, programs, and reviews. These volumes largely include advertisements of movies in East Liverpool. These volumes also include the announcement of the opening of the Avenue Cinema, a Pittsburgh theatre devoted to foreign and domestic art films, along with some programs from the Avenue Cinema. Volume 13 contains a souvenir program from 
+                        <title render="italic">The Red Shoes</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Motion pictures,</unittitle>
+                    <container id="cid3682011" type="Box" label="Mixed materials">12</container>
+                    <container parent="cid3682011" type="Volumes">14-16</container>
+                    <physdesc>
+                        <extent>37 x 25 cm.</extent>
+                    </physdesc>
+                    <unitdate>1950-1957</unitdate>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Content Notes</head>
+                    <p>These volumes are a continuation from Volumes 11-13, with the addition of advertisements for Pittsburgh movie houses, such as the Warner Theatre and The Fulton. These volumes also include reviews from the 
+                        <title render="italic">Pittsburgh Post-Gazette</title> in Pittsburgh, 
+                        <title render="italic">The Plain Dealer</title> in Cleveland, and 
+                        <title render="italic">The New York Times</title> in New York.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref26" level="file">
+                <did>
+                    <unittitle>Motion pictures,</unittitle>
+                    <container id="cid3682012" type="Box" label="Mixed materials">13</container>
+                    <container parent="cid3682012" type="Volume">17</container>
+                    <physdesc>
+                        <extent>26 x 34 cm.</extent>
+                    </physdesc>
+                    <unitdate>1957-1960</unitdate>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a continuation of Volumes 14-16. Volume 17 contains only newspaper clippings.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Motion pictures,</unittitle>
+                    <container id="cid3682013" type="Box" label="Mixed materials">14</container>
+                    <container parent="cid3682013" type="Volume">18</container>
+                    <physdesc>
+                        <extent>33 x 29 cm.</extent>
+                    </physdesc>
+                    <unitdate>1960-1963</unitdate>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume is a continuation of Volumes 14-16. Volume 18 contains a few programs from various performances.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Magic and dance,</unittitle>
+                    <container id="cid3682014" type="Box" label="Mixed materials">15</container>
+                    <container parent="cid3682014" type="Volume">19</container>
+                    <physdesc>
+                        <extent>26 x 24 cm.</extent>
+                    </physdesc>
+                    <unitdate>1915-1966</unitdate>
+                </did>
+                <scopecontent id="ref31">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains programs primarily from dance performances. Volume 19 also includes newspaper advertisements and reviews from magic shows, ballet and folk dance performances, and Chautauquas held in New York, Ohio, and Pittsburgh. This volume also includes a few pertinent film and television newspaper clippings.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref32" level="file">
+                <did>
+                    <unittitle>Minstrels and marionettes,</unittitle>
+                    <container id="cid3682015" type="Box" label="Mixed materials">16</container>
+                    <container parent="cid3682015" type="Volume">20</container>
+                    <physdesc>
+                        <extent>26 x 34 cm.</extent>
+                    </physdesc>
+                    <unitdate>1907-1939</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume chiefly contains programs for minstrel shows at the Ceramic in East Liverpool. There are only two marionette programs included in this volume; both of which are for Tony Sarg’s Marionettes at the Great Lakes Exposition, 1937.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Festivals, Fairs, Carnivals, and Circus,</unittitle>
+                    <container id="cid3682016" type="Box" label="Mixed materials">17</container>
+                    <container parent="cid3682016" type="Volume">21</container>
+                    <physdesc>
+                        <extent>26 x 34 cm.</extent>
+                    </physdesc>
+                    <unitdate>1905-1967</unitdate>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains programs, flyers, and newspaper advertisements for various festivals, fairs, carnivals, circuses, expositions, poultry and dog shows, parades, rodeos, horse races, dedications, memorials, exhibitions, museums, cattle auctions, flower shows, aeronautical expositions, air shows, horse shows, and races. These events were held in Ohio and Pittsburgh. Also included in this volume is a program from the 1930 Army Tournament held in Chicago, IL. Volume 21 contains loose clippings that have been transferred to 8 folders and are boxed with the scrapbook.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Shakespeare stage and film productions,</unittitle>
+                    <container id="cid3682017" type="Box" label="Mixed materials">18</container>
+                    <container parent="cid3682017" type="Volume">22</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1906-1940</unitdate>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains miscellaneous magazine and newspaper clippings and many photographs from 
+                        <title render="italic">Theatre Magazine</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref38" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre,</unittitle>
+                    <container id="cid3682018" type="Box" label="Mixed materials">19</container>
+                    <container parent="cid3682018" type="Volume">23</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1904-1925</unitdate>
+                </did>
+                <scopecontent id="ref39">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains miscellaneous clippings and several profiles of performers from 
+                        <title render="italic">Theatre Magazine</title>, some 
+                        <title render="italic">New York Times</title> articles.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref40" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre and film,</unittitle>
+                    <container id="cid3682019" type="Box" label="Mixed materials">20</container>
+                    <container parent="cid3682019" type="Volume">24</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1907-1922</unitdate>
+                </did>
+                <scopecontent id="ref43">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains miscellaneous clippings from New York, Ohio, and Pittsburgh.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre and vaudeville and film,</unittitle>
+                    <container id="cid3682020" type="Box" label="Mixed materials">21</container>
+                    <container parent="cid3682020" type="Volume">25</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1910-1923</unitdate>
+                </did>
+                <scopecontent id="ref42">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings, primarily from Ohio and Pittsburgh newspapers and 
+                        <title render="italic">The New York Times</title>, focusing on Shakespeare and Japanese theatre. It also includes several articles about theatre censorship and the fervor caused by an attempt to perform 
+                        <title render="italic">Playboy of the Western World</title> in Philadelphia and Pittsburgh.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref44" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre and film,</unittitle>
+                    <container id="cid3682021" type="Box" label="Mixed materials">22</container>
+                    <container parent="cid3682021" type="Volume">26</container>
+                    <physdesc>
+                        <extent>x30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1925-1930</unitdate>
+                </did>
+                <scopecontent id="ref45">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings from miscellaneous newspaper and magazine sources, including 
+                        <title render="italic">The New York Times</title>, 
+                        <title render="italic">Literary Digest</title>, 
+                        <title render="italic">American Mercury</title>, 
+                        <title render="italic">Collier’s</title>, 
+                        <title render="italic">Plain Talk</title>, 
+                        <title render="italic">Theatre Magazine</title>, and 
+                        <title render="italic">Elks Magazine</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref46" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre,</unittitle>
+                    <container id="cid3682022" type="Box" label="Mixed materials">23</container>
+                    <container parent="cid3682022" type="Volume">27</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1925-1933</unitdate>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings from 
+                        <title render="italic">The New York Times</title>, 
+                        <title render="italic">Theatre Magazine</title>, 
+                        <title render="italic">Collier’s</title>, 
+                        <title render="italic">American Mercury</title>, and various Pittsburgh and Cleveland newspapers. Clippings includes articles on opera, film, and stuttering.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Miscellany,</unittitle>
+                    <container id="cid3682023" type="Volume" label="Mixed materials">28</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1933-1935</unitdate>
+                </did>
+                <scopecontent id="ref49">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings of articles including theatre, magic, puppets, acrobats, and additional articles on speech disorders. Sources for these articles include 
+                        <title render="italic">Esquire</title> and 
+                        <title render="italic">Saturday Evening Post</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref50" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre,</unittitle>
+                    <container id="cid3682024" type="Box" label="Mixed materials">24</container>
+                    <container parent="cid3682024" type="Volume">29</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1911-1912, 1935-1936</unitdate>
+                </did>
+                <scopecontent id="ref51">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings from major sources including 
+                        <title render="italic">The New York Times</title>, 
+                        <title render="italic">Plain Dealer</title>, 
+                        <title render="italic">Esquire</title>, 
+                        <title render="italic">Collier’s</title>, and 
+                        <title render="italic">Saturday Evening Post</title>. The volume also includes installments of William A. Brady’s autobiography from the 
+                        <title render="italic">Pittsburgh Post-Gazette</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref52" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre,</unittitle>
+                    <container id="cid3682025" type="Volume" label="Mixed materials">30</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1936-1938</unitdate>
+                </did>
+                <scopecontent id="ref53">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings from miscellaneous sources, primarily newspapers. Included are several articles about the 1937 controversy over closing New York City burlesque. This volume also includes clippings on stuttering.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre,</unittitle>
+                    <container id="cid3682026" type="Box" label="Mixed materials">25</container>
+                    <container parent="cid3682026" type="Volume">31</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1939-1943</unitdate>
+                </did>
+                <scopecontent id="ref55">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings from miscellaneous sources, many from 
+                        <title render="italic">Plain Dealer</title>. Included are the 
+                        <title render="italic">Statevepost</title> installments on Orson Welles, a newspaper piece on road shows by Abe Laufe, and clippings on speech disorders.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly theatre,</unittitle>
+                    <container id="cid3682027" type="Volume" label="Mixed materials">32</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1911-1912, 1935-1948</unitdate>
+                </did>
+                <scopecontent id="ref57">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains newspaper and magazine clippings, chiefly from 
+                        <title render="italic">The New York Times</title> and 
+                        <title render="italic">Plain Dealer</title> on performing arts and speech disorders. Also included are typed quotations from various books.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref58" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly Shakespeare,</unittitle>
+                    <container id="cid3682028" type="Box" label="Mixed materials">26</container>
+                    <container parent="cid3682028" type="Volume">33</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1889, 1908, 1943-1949</unitdate>
+                </did>
+                <scopecontent id="ref59">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains miscellaneous performing arts clippings which primarily focus on Shakespeare. Also included are early clippings are from 
+                        <title render="italic">Munsey’s Magazine</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly Shakespeare,</unittitle>
+                    <container id="cid3682029" type="Volume" label="Mixed materials">34</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1903, 1914, 1950-1952</unitdate>
+                </did>
+                <scopecontent id="ref61">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains miscellaneous performing arts clippings, chiefly on Shakespeare. Also included are several articles on the film, 
+                        <title render="italic">The Miracle</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly Shakespeare,</unittitle>
+                    <container id="cid3682030" type="Box" label="Mixed materials">27</container>
+                    <container parent="cid3682030" type="Volume">35</container>
+                    <physdesc>
+                        <extent>25 x 19 cm.</extent>
+                    </physdesc>
+                    <unitdate>1893-1994, 1951-1954</unitdate>
+                </did>
+                <scopecontent id="ref63">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains miscellaneous performing arts clippings, chiefly on Shakespeare. Also included are early clippings from 
+                        <title render="italic">Munsey’s Magazine</title> and several pieces on Eugene O’Neill.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref64" level="file">
+                <did>
+                    <unittitle>Miscellaneous but chiefly Shakespeare,</unittitle>
+                    <container id="cid3682031" type="Box" label="Mixed materials">28</container>
+                    <container parent="cid3682031" type="Volume">36-39</container>
+                    <physdesc>
+                        <extent>25 x 19 cm.</extent>
+                    </physdesc>
+                    <unitdate>1954-1966</unitdate>
+                </did>
+                <scopecontent id="ref65">
+                    <head>Scope and Content Notes</head>
+                    <p>These volumes contain miscellaneous performing arts clippings. Volume 36 includes articles on burlesque. Volume 37 includes articles on the circus, Eugene O’Neill, a few films, and stuttering. Volume 38 includes a few articles on speech, radio, and TV.</p>
+                    <p></p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>Magic,</unittitle>
+                    <container id="cid3682032" type="Volume" label="Mixed materials">40</container>
+                    <physdesc>
+                        <extent>30 x 18 cm.</extent>
+                    </physdesc>
+                    <unitdate>1935-1953</unitdate>
+                </did>
+                <scopecontent id="ref67">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume contains clippings on magic and the occult from miscellaneous newspapers and magazines. Also included is the 
+                        <title render="italic">Plain Dealer</title> series on Harry Blackstone's tricks photographed.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref68" level="file">
+                <did>
+                    <unittitle>Shakespeare and miscellany,</unittitle>
+                    <container id="cid3682033" type="Volume" label="Mixed materials">41</container>
+                    <physdesc>
+                        <extent>29 x 24 cm.</extent>
+                    </physdesc>
+                    <unitdate>1966-1974</unitdate>
+                </did>
+                <scopecontent id="ref69">
+                    <head>Scope and Content Notes</head>
+                    <p>This volume includes xeroxed copies from several books, including Ellen Terry’s notes on Lady Macbeth. Also included are a few newspaper clippings and typed notes.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

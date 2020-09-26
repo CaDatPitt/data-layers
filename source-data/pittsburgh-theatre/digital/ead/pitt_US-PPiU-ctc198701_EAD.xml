@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc198701</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the 99¢ Floating Theatre Festival Records, 1971-1981
+                    <num>CTC.1987.01</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by William Daw.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>February 2013</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>99¢ Floating Theatre Festival Records</unittitle>
+            <unitid>CTC.1987.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 linear feet</extent>
+            </physdesc>
+            <unitdate>1971-1981</unitdate>
+            <abstract id="ref2" label="Abstract">The 99¢ Floating Theatre brought remarkable diversity to the local theater scene by importing small performance groups such as unusual professional theater, dance, and music troupes or individuals to Pittsburgh. This collection documents the activities of the organization and the performers that it presented.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <extent>(11 boxes)</extent></physdesc>
+            <origination label="creator">
+                <corpname source="ingest">99¢ Floating Theatre Festival.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <bioghist id="ref5">
+            <head>History</head>
+            <p>The 99¢ Floating Theatre was a University of Pittsburgh affiliated organization, founded by Professor Richard Mennen, and brought remarkable diversity to the local theater scene by importing small performance groups such as unusual professional theater, dance, and music troupes or individuals to Pittsburgh. For the first few years Mennen was the entire staff of the organization. The name is based on the 99¢ price of a ticket and the fact that the performances were held at a variety of spaces and locations such as gyms, dance studios, churches, etc., avoiding the high prices of many theaters. The group presented dozens of eclectic groups and performers between the years 1973-1983. All the companies or performers could be considered avant-garde or experimental in nature. In 1977, Professor Leon Katz replaced Mennen as director.</p>
+        </bioghist>
+        <odd id="ref6">
+            <head>Previous Citation</head>
+            <p>99¢ Floating Theatre Festival Records, CTC.1987.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>99¢ Floating Theatre Festival Collection, CTC.19, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of University of Pittsburgh Theatre Arts Department.</p>
+        </acqinfo>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>99¢ Floating Theatre Festival Records, CTC.1987.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>This collection was processed by Gina Eckert in 1988.</p>
+        </processinfo>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The collection is organized into three series:</p>
+            <p>Series I. Season Operation Files, 1974-1981</p>
+            <p>Series II. Other Operation Files, 1971-1981</p>
+            <p>Series III. Scrapbooks, 1974-1981</p>
+        </arrangement>
+        <scopecontent id="ref11">
+            <head>Scope and Content Notes</head>
+            <p>The 99¢ Floating Theatre Festival Records are arranged into three series. All the materials are paper-based and include correspondence, memos, grant applications, budget reports, photographs, etc. The Season Operation Files series is divided into several subseries for each season starting with 1973/1974 through 1981/1982. There is also one oversized scrapbook that contains newspaper clippings, small posters, programs, etc.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname source="ingest">99¢ Floating Theatre Festival.</corpname>
+            <corpname source="ingest">Bread and Puppet Theater.</corpname>
+            <persname source="ingest">Carroll, Pat, 1927-</persname>
+            <persname source="ingest">Chew, Martha</persname>
+            <persname source="ingest">Chong, Ping</persname>
+            <persname source="ingest">Feit, Ken, 1940-1981</persname>
+            <persname source="ingest">Fratti, Mario, 1927-</persname>
+            <persname source="ingest">Grotowski, Jerzy, 1933-1999</persname>
+            <corpname source="ingest">Illusion Theater Company.</corpname>
+            <persname source="ingest">Ludlam, Charles</persname>
+            <persname source="ingest">Mayer, Jerry</persname>
+            <corpname source="ingest">Organic Theatre Company.</corpname>
+            <corpname source="ingest">Performance Group.</corpname>
+            <corpname source="ingest">Red Clay Ramblers.</corpname>
+            <corpname source="ingest">Ridiculous Theatrical Company.</corpname>
+            <corpname source="ingest">San Francisco Mime Troupe.</corpname>
+            <corpname source="ingest">Theatre Rhinoceros (San Francisco, Calif.).</corpname>
+            <corpname source="ingest">Three Rivers Shakespeare Festival (Pittsburgh, Pa.).</corpname>
+            <corpname source="ingest">University of Pittsburgh. Department of Theatre Arts.</corpname>
+            <genreform source="aat">Clippings (Information artifacts)</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Experimental theater -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Financial records</genreform>
+            <subject source="lcsh">Mime</subject>
+            <subject source="lcsh">Performance art -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Performing arts -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Puppet theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Puppet theater companies -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Scrapbooks</genreform>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- Pennsylvania -- Pittsburgh</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Season Operation Files,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1974-1981</unitdate>
+                </did>
+                <scopecontent id="ref117">
+                    <head>Scope and Content Notes</head>
+                    <p>The Season Operation files are broken down into nine subseries. Each subseries contains the files associated with a given theatre season of the 99¢ Floating Theatre Festival. Within each subseries, the files are arranged alphabetically by title. Nearly every season has financial information, grant applications, correspondence, etc.</p>
+                </scopecontent>
+                <c02 id="ref13" level="subseries">
+                    <did>
+                        <unittitle>1973-1974 Season</unittitle>
+                        <unitid>1.</unitid>
+                    </did>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>Financial records,</unittitle>
+                            <container id="cid6084259" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid6084259" type="Folder">1</container>
+                            <unitdate>November 1974</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref15" level="subseries">
+                    <did>
+                        <unittitle>1974-1975 Season</unittitle>
+                        <unitid>2.</unitid>
+                    </did>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid6084258" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1974-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Financial records,</unittitle>
+                            <container id="cid6084257" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1974-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Grotowski, Jerzy – Lecture,</unittitle>
+                            <container id="cid6084256" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1973-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Nationality Room members,</unittitle>
+                            <container id="cid6084255" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1974-1976</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref20" level="subseries">
+                    <did>
+                        <unittitle>1975-1976 Season</unittitle>
+                        <unitid>3.</unitid>
+                    </did>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Appeal for funding</unittitle>
+                            <container id="cid6084254" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid6084253" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1975-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Financial records,</unittitle>
+                            <container id="cid6084252" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1975-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Kuku Ryku,</unittitle>
+                            <container id="cid6084251" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1975-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts - Grant application,</unittitle>
+                            <container id="cid6084250" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1975-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Calendar of theater performances,</unittitle>
+                            <container id="cid6084249" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>Performing artists requested by PA sponsors for 1975/76 season,</unittitle>
+                            <container id="cid6084248" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Proposals (unused)</unittitle>
+                            <container id="cid6084247" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Theatre workshops</unittitle>
+                            <container id="cid6084246" type="Folder" label="Mixed materials">14</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref30" level="subseries">
+                    <did>
+                        <unittitle>1976-1977 Season</unittitle>
+                        <unitid>4.</unitid>
+                    </did>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Alternate Theatre Companies</unittitle>
+                            <container id="cid6084245" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid6084244" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Cynkutis, Zbigniew,</unittitle>
+                            <container id="cid6084243" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1976-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Financial records,</unittitle>
+                            <container id="cid6084242" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1976-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts - Expansion arts,</unittitle>
+                            <container id="cid6084241" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1976-1977</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref36" level="subseries">
+                    <did>
+                        <unittitle>1977-1978 Season</unittitle>
+                        <unitid>5.</unitid>
+                    </did>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid6084240" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1977-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Financial records,</unittitle>
+                            <container id="cid6084239" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1977-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Mabou Mines,</unittitle>
+                            <container id="cid6084238" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Medicine Show,</unittitle>
+                            <container id="cid6084237" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Mayer, Jerry in “Taudshow”,</unittitle>
+                            <container id="cid6084236" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts - Narrative report</unittitle>
+                            <container id="cid6084235" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts - Proposal,</unittitle>
+                            <container id="cid6084234" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts - Revised project grant application,</unittitle>
+                            <container id="cid6084233" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts - List of recipients for 1977/78,</unittitle>
+                            <container id="cid6084232" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid6084232" type="Folder">1</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts - Grant application,</unittitle>
+                            <container id="cid6084231" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1977-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Guidelines for Grant application,</unittitle>
+                            <container id="cid6084230" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1976-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Phone records print-outs,</unittitle>
+                            <container id="cid6084229" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1977-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Pitt news</title> – Tear sheets and billing,</unittitle>
+                            <container id="cid6084228" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Ridiculous Theatrical Company – 
+                                <title render="italic">the Ventriloquist’s Wife</title>,</unittitle>
+                            <container id="cid6084227" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1977-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Space confirmations,</unittitle>
+                            <container id="cid6084226" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1977-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Squat Theatre,</unittitle>
+                            <container id="cid6084225" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref53" level="subseries">
+                    <did>
+                        <unittitle>1978-1979 Season</unittitle>
+                        <unitid>6.</unitid>
+                    </did>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Accounts payable check procedure,</unittitle>
+                            <container id="cid6084224" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Alternate Roots,</unittitle>
+                            <container id="cid6084223" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid6084222" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1978-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>F.E.D.A.R.T. conference,</unittitle>
+                            <container id="cid6084221" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Financial Records,</unittitle>
+                            <container id="cid6084220" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1978-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>The Four Horsemen,</unittitle>
+                            <container id="cid6084219" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Graduate student task force - policy statement on TA’s and TF’s; admission requirements,</unittitle>
+                            <container id="cid6084218" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>February 1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Heinz endowment fund,</unittitle>
+                            <container id="cid6084217" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1978-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Mabou mines,</unittitle>
+                            <container id="cid6084216" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Grant,</unittitle>
+                            <container id="cid6084215" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Proposal,</unittitle>
+                            <container id="cid6084214" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1976-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>National endowment for the Arts – Revised grant,</unittitle>
+                            <container id="cid6084213" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Grant (N.E.A. &amp; P.A.C. Pilot touring project),</unittitle>
+                            <container id="cid6084212" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>1977-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – “Arts to the People” Conference,</unittitle>
+                            <container id="cid6084211" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>November 1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>The Performance Group,</unittitle>
+                            <container id="cid6084210" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid6084210" type="Folder">1</container>
+                            <unitdate>1978-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Pitt Union Program Council (P.U.P.C.),</unittitle>
+                            <container id="cid6084209" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1978-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Provisional Theatre Company,</unittitle>
+                            <container id="cid6084208" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Ridiculous Theatrical Company – Camille,</unittitle>
+                            <container id="cid6084207" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Schedule of events - partial</unittitle>
+                            <container id="cid6084206" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Theatre of Mistakes,</unittitle>
+                            <container id="cid6084205" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Three Rivers Arts Festival,</unittitle>
+                            <container id="cid6084204" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>University of Pittsburgh – Faculty Development Grant Information</unittitle>
+                            <container id="cid6084203" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Work experience internship grant (Don Marinelli),</unittitle>
+                            <container id="cid6084202" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1978-1979</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref77" level="subseries">
+                    <did>
+                        <unittitle>1979-1980 Season</unittitle>
+                        <unitid>7.</unitid>
+                    </did>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Correspondence,</unittitle>
+                            <container id="cid6084201" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Dance Council of central Pennsylvania – The 
+                                <title render="italic">Danceletter</title>,</unittitle>
+                            <container id="cid6084200" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>March 1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Financial Records,</unittitle>
+                            <container id="cid6084199" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Heinz endowment – grant request,</unittitle>
+                            <container id="cid6084198" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Little Nell - from the 
+                                <title render="italic">Rocky Horror Picture Show</title>,</unittitle>
+                            <container id="cid6084197" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Meredith Monk,</unittitle>
+                            <container id="cid6084196" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Grant application,</unittitle>
+                            <container id="cid6084195" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Grant,</unittitle>
+                            <container id="cid6084194" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Institutional advancement grants</unittitle>
+                            <container id="cid6084193" type="Folder" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Revised grant, #AO61994-79,</unittitle>
+                            <container id="cid6084192" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1979-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>New York City tour,</unittitle>
+                            <container id="cid6084191" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Dance touring grant for Meredith Monk,</unittitle>
+                            <container id="cid6084190" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid6084190" type="Folder">1</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Grant #5-37955,</unittitle>
+                            <container id="cid6084189" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Pittsburgh news items on arts,</unittitle>
+                            <container id="cid6084188" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Possible groups,</unittitle>
+                            <container id="cid6084187" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Ravine</title>,</unittitle>
+                            <container id="cid6084186" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Ridiculous Theatrical Company – 
+                                <title render="italic">Bluebeard</title> (The Enchanted Pig),</unittitle>
+                            <container id="cid6084185" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>Royal Dancers and Musicians from the Kingdom of Bhutan – Clippings,</unittitle>
+                            <container id="cid6084184" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>Royal Dancers and Musicians from the Kingdom of Bhutan - Correspondence,</unittitle>
+                            <container id="cid6084183" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Royal Dancers and Musicians from the Kingdom of Bhutan – Miscellaneous,</unittitle>
+                            <container id="cid6084182" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Royal Dancers and Musicians from the Kingdom of Bhutan – Photos</unittitle>
+                            <container id="cid6084181" type="Folder" label="Photographic images">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Royal Dancers and Musicians from the Kingdom of Bhutan – Program and marketing information,</unittitle>
+                            <container id="cid6084180" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1979-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Teaching development grant from the Office of Faculty Development,</unittitle>
+                            <container id="cid6084179" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Three black and three white refined jubilee minstrels,</unittitle>
+                            <container id="cid6084178" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref102" level="subseries">
+                    <did>
+                        <unittitle>1980-1981 Season</unittitle>
+                        <unitid>8.</unitid>
+                    </did>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Arden, Marty - Alternate Roots, Zimbabwe Project – Correspondence,</unittitle>
+                            <container id="cid6084177" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>Facets Performance Ensemble,</unittitle>
+                            <container id="cid6084176" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>1978-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>Financial records,</unittitle>
+                            <container id="cid6084175" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Fujian Puppet theatre from the People’s Republic of China,</unittitle>
+                            <container id="cid6084174" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Independent Eye – T.A.P. Grant for $700.00,</unittitle>
+                            <container id="cid6084173" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid6084173" type="Folder">1</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>National Endowment for the Arts – Special Projects (Presenting organization grant),</unittitle>
+                            <container id="cid6084172" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Financial and narrative reports for grant,</unittitle>
+                            <container id="cid6084171" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Jeff Weiss proposal to P.C.A.,</unittitle>
+                            <container id="cid6084170" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Project Grant,</unittitle>
+                            <container id="cid6084169" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1978-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Squat Theatre,</unittitle>
+                            <container id="cid6084168" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Theatre Association of Pennsylvania – Contract,</unittitle>
+                            <container id="cid6084167" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Warsaw Mime Theatre,</unittitle>
+                            <container id="cid6084166" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref115" level="subseries">
+                    <did>
+                        <unittitle>1981-1982 Season</unittitle>
+                        <unitid>9.</unitid>
+                    </did>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Council on the Arts – Guide to programs</unittitle>
+                            <container id="cid6084165" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref118" level="series">
+                <did>
+                    <unittitle>Other Operation Files,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1971-1981</unitdate>
+                </did>
+                <scopecontent id="ref272">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains files that were not attributed to a specific season in the history of the 99¢ Floating Theatre Festival. Most of the files in this series contain information on various national and international theatre companies that were considered or presented by the 99¢ Floating Theatre. The files are arranged in alphabetical order by subject.</p>
+                </scopecontent>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Account #4-24930,</unittitle>
+                        <container id="cid6084164" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1978-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Account #4-25388 – Bills and printouts,</unittitle>
+                        <container id="cid6084163" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Actors lab – Hamilton, Ontario,</unittitle>
+                        <container id="cid6084162" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Akjalaaitis, JoAnne/Southern Exposures</unittitle>
+                        <container id="cid6084161" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>American Revolutionary Road Company,</unittitle>
+                        <container id="cid6084160" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>American Theatre,</unittitle>
+                        <container id="cid6084159" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Amitin, Mark,</unittitle>
+                        <container id="cid6084158" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Arthur Cantor, Inc.,</unittitle>
+                        <container id="cid6084157" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1976-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Arthur Shafman International Ltd.,</unittitle>
+                        <container id="cid6084156" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Artservices,</unittitle>
+                        <container id="cid6084155" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Asia Society – Performing Arts Program,</unittitle>
+                        <container id="cid6084154" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Awasthi, Dr. Suresh,</unittitle>
+                        <container id="cid6084153" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>American Theatre Association 
+                            <title render="italic">Placement Service Bulletin</title>,</unittitle>
+                        <container id="cid6084152" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid6084152" type="Folder">1</container>
+                        <unitdate>January 1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Bicentennial proposals,</unittitle>
+                        <container id="cid6084151" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Body Politic Dream Theatre,</unittitle>
+                        <container id="cid6084150" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Bread and Puppet Theatre,</unittitle>
+                        <container id="cid6084149" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1977-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Brochure for Floating Theatre – Technical information,</unittitle>
+                        <container id="cid6084148" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Burmese National Theatre – Burmese music and Anyein</unittitle>
+                        <container id="cid6084147" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Business committee for the Arts,</unittitle>
+                        <container id="cid6084146" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Carroll, Bob,</unittitle>
+                        <container id="cid6084145" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Carroll, Pat as Gertrude Stein,</unittitle>
+                        <container id="cid6084144" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Celebrations Mime Theatre</unittitle>
+                        <container id="cid6084143" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Chew, Martha,</unittitle>
+                        <container id="cid6084142" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>City University of London – Arts Management Program,</unittitle>
+                        <container id="cid6084141" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Collaborative for the Arts in Pittsburgh Education or C.A.P.E.,</unittitle>
+                        <container id="cid6084140" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Collaboratory Theatre,</unittitle>
+                        <container id="cid6084139" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Commedia del’Pinky – Photos</unittitle>
+                        <container id="cid6084138" type="Folder" label="Photographic images">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Companhia de Teatre de Lisboa - International Theatre Exchange,</unittitle>
+                        <container id="cid6084137" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Court Dance Theatre and Music - Okinawa, Japan,</unittitle>
+                        <container id="cid6084136" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Cricot 2 Theatre Company</unittitle>
+                        <container id="cid6084135" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Dandelion Productions,</unittitle>
+                        <container id="cid6084134" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Daniel Lewis Dance Repertory Company,</unittitle>
+                        <container id="cid6084133" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Entourage</unittitle>
+                        <container id="cid6084132" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Feit, Ken - Ken the Fool,</unittitle>
+                        <container id="cid6084131" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1975-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Fiji Company,</unittitle>
+                        <container id="cid6084130" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1975-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Financial - Miscellaneous reports</unittitle>
+                        <container id="cid6084129" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Fine Line Actor’s Theatre,</unittitle>
+                        <container id="cid6084128" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Floating Theatre facts and history – For use in grant application</unittitle>
+                        <container id="cid6084127" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Florida Studio Theatre,</unittitle>
+                        <container id="cid6084126" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Fools Company,</unittitle>
+                        <container id="cid6084125" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1976-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Fratti, Mario,</unittitle>
+                        <container id="cid6084124" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1977-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Future ideas for 99cent Floating Theatre</unittitle>
+                        <container id="cid6084123" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Group listing (Experimental theatre companies available for touring),</unittitle>
+                        <container id="cid6084122" type="Folder" label="Mixed materials">31</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Group Motion Media Theatre,</unittitle>
+                        <container id="cid6084121" type="Folder" label="Mixed materials">32</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Harry - Dance Company,</unittitle>
+                        <container id="cid6084120" type="Folder" label="Mixed materials">33</container>
+                        <unitdate>1976-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Harvey, John,</unittitle>
+                        <container id="cid6084119" type="Folder" label="Mixed materials">34</container>
+                        <unitdate>1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Heinz Endowment budget and account #5-35898,</unittitle>
+                        <container id="cid6084118" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid6084118" type="Folder">1</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Heinz Foundation report on 99¢ Floating Theatre activities,</unittitle>
+                        <container id="cid6084117" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>History of the 99¢ Floating Theatre</unittitle>
+                        <container id="cid6084116" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Hoechstetter, Harvey – Printing,</unittitle>
+                        <container id="cid6084115" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Hu Hung-Yen – Peking Opera performer,</unittitle>
+                        <container id="cid6084114" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Hughes, Richard and Walter Scott,</unittitle>
+                        <container id="cid6084113" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Illusion Theatre,</unittitle>
+                        <container id="cid6084112" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Independent Eye,</unittitle>
+                        <container id="cid6084111" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1975-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>International Ballet and Festival Corporation,</unittitle>
+                        <container id="cid6084110" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>International Communication Agency – Educational and cultural affairs,</unittitle>
+                        <container id="cid6084109" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>International Theatre Institute – Newsletters,</unittitle>
+                        <container id="cid6084108" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Iowa Theatre Lab,</unittitle>
+                        <container id="cid6084107" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Janus Film Company,</unittitle>
+                        <container id="cid6084106" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Japan Arts,</unittitle>
+                        <container id="cid6084105" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Korea National Classical Institute – AAK Korean Court Music and Dance</unittitle>
+                        <container id="cid6084104" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Kornfield, Larry – “Dr. Faustus lights the light”,</unittitle>
+                        <container id="cid6084103" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>Kraken,</unittitle>
+                        <container id="cid6084102" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Lawrence, Dan,</unittitle>
+                        <container id="cid6084101" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1973-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Le Plan K,</unittitle>
+                        <container id="cid6084100" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Library display cases – Forms,</unittitle>
+                        <container id="cid6084099" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Little Marrowbone,</unittitle>
+                        <container id="cid6084098" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>Lost Nation Theatre</unittitle>
+                        <container id="cid6084097" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Mailers – Forms for printing and mail,</unittitle>
+                        <container id="cid6084096" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>The Manhattan Project,</unittitle>
+                        <container id="cid6084095" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>Marcus, Linda,</unittitle>
+                        <container id="cid6084094" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Mellon Educational Grant printouts #5-37058,</unittitle>
+                        <container id="cid6084093" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Melpo,</unittitle>
+                        <container id="cid6084092" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Metropolitan Cultural Alliance,</unittitle>
+                        <container id="cid6084091" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1973-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>Miscellaneous,</unittitle>
+                        <container id="cid6084090" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1975-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Movement work center,</unittitle>
+                        <container id="cid6084089" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>National Endowment for the Arts – Joint N.E.A. Pilot touring grant, proposal with Walter Arts Center,</unittitle>
+                        <container id="cid6084088" type="Folder" label="Mixed materials">31</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>National Endowment for the Arts – Supply grant print-outs,</unittitle>
+                        <container id="cid6084087" type="Folder" label="Mixed materials">32</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>National Artists Management Company,</unittitle>
+                        <container id="cid6084086" type="Folder" label="Mixed materials">33</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>National Dance Company of Senegal - International Ballet Festival,</unittitle>
+                        <container id="cid6084085" type="Folder" label="Mixed materials">34</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>NDWT Company - Canadian,</unittitle>
+                        <container id="cid6084084" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid6084084" type="Folder">1</container>
+                        <unitdate>1976-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>New Directions in the Performing Arts - Canadian conference</unittitle>
+                        <container id="cid6084083" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>New Theatre Festival - Baltimore,</unittitle>
+                        <container id="cid6084082" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>June 1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>Organic Theatre Company,</unittitle>
+                        <container id="cid6084081" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Otrabunda Company,</unittitle>
+                        <container id="cid6084080" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>Outreach possibilities</unittitle>
+                        <container id="cid6084079" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>Passaro, Bob - Fisher Scientific,</unittitle>
+                        <container id="cid6084078" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts – Advisory Panel with Dr. Richard Mennen of Theatre Arts Department,</unittitle>
+                        <container id="cid6084077" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts – General information,</unittitle>
+                        <container id="cid6084076" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts – Grant #5-36954,</unittitle>
+                        <container id="cid6084075" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Pennsylvania Council on the Arts – Groups,</unittitle>
+                        <container id="cid6084074" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1975-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Palisades Theatre Company,</unittitle>
+                        <container id="cid6084073" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Pentacle Dance Management,</unittitle>
+                        <container id="cid6084072" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1977-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>People Energy - based with the Wilma Project in Philadelphia</unittitle>
+                        <container id="cid6084071" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>People Show,</unittitle>
+                        <container id="cid6084070" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>Performing arts for children,</unittitle>
+                        <container id="cid6084069" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>Peripatetic Task Force,</unittitle>
+                        <container id="cid6084068" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Philadance / Philadelphia Dance Company,</unittitle>
+                        <container id="cid6084067" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>Philly Rep. Co.</unittitle>
+                        <container id="cid6084066" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>Phoenix Dance Theater,</unittitle>
+                        <container id="cid6084065" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Pieces Company,</unittitle>
+                        <container id="cid6084064" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>Pigeon Drop Theatre,</unittitle>
+                        <container id="cid6084063" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Pilato, Joe,</unittitle>
+                        <container id="cid6084062" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1976-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>Ping Chong,</unittitle>
+                        <container id="cid6084061" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Laboratory Theatre – Theatre space,</unittitle>
+                        <container id="cid6084060" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Regional Committee for the Arts,</unittitle>
+                        <container id="cid6084059" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Play Group,</unittitle>
+                        <container id="cid6084058" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Posnak, Paul,</unittitle>
+                        <container id="cid6084057" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>Printouts #5-38691,</unittitle>
+                        <container id="cid6084056" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Provisional Theatre,</unittitle>
+                        <container id="cid6084055" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>Public service announcements and press releases,</unittitle>
+                        <container id="cid6084054" type="Folder" label="Mixed materials">31</container>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Quena,</unittitle>
+                        <container id="cid6084053" type="Folder" label="Mixed materials">32</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>The Ramayana,</unittitle>
+                        <container id="cid6084052" type="Folder" label="Mixed materials">33</container>
+                        <unitdate>1975-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Red Clay Ramblers</unittitle>
+                        <container id="cid6084051" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Red Mole Enterprise,</unittitle>
+                        <container id="cid6084050" type="Folder" label="Mixed materials">35</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>Resumes</unittitle>
+                        <container id="cid6084049" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid6084049" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Rhode Island Feminist Theatre,</unittitle>
+                        <container id="cid6084048" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Sachiyo Ito – Japanese Kabuki</unittitle>
+                        <container id="cid6084047" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Saeko Ichinohe – Japanese dancer</unittitle>
+                        <container id="cid6084046" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="file">
+                    <did>
+                        <unittitle>San Francisco Mime Troupe,</unittitle>
+                        <container id="cid6084045" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1976-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>Shaliko Company,</unittitle>
+                        <container id="cid6084044" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>Shankar, Ravi</unittitle>
+                        <container id="cid6084043" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Sherman, Robert</unittitle>
+                        <container id="cid6084042" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>Sherman, Stuart,</unittitle>
+                        <container id="cid6084041" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>Siamsa - National Folk Theatre of Ireland,</unittitle>
+                        <container id="cid6084040" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1976-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>Smithsonian Performing Arts,</unittitle>
+                        <container id="cid6084039" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>Sponsors in Western Pennsylvania,</unittitle>
+                        <container id="cid6084038" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>Sports Pages,</unittitle>
+                        <container id="cid6084037" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1976-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>Stage One Theatre Lab,</unittitle>
+                        <container id="cid6084036" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1974-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>Stephen Foster Memorial Space,</unittitle>
+                        <container id="cid6084035" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>Studio Theatre Task Force</unittitle>
+                        <container id="cid6084034" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>The Talking Band,</unittitle>
+                        <container id="cid6084033" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1977-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>T.A.P. / Theatre Association of Pennsylvania,</unittitle>
+                        <container id="cid6084032" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1977-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>T.C.G. / Theatre Communications Group,</unittitle>
+                        <container id="cid6084031" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1973-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>T.R. Uthco,</unittitle>
+                        <container id="cid6084030" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>El Teatro Campesino Theatre Group,</unittitle>
+                        <container id="cid6084029" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>Telephone bill print-outs,</unittitle>
+                        <container id="cid6084028" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1975-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>Theatre de l’arbre,</unittitle>
+                        <container id="cid6084027" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Theatre Express,</unittitle>
+                        <container id="cid6084026" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>Theatre Lab Project print-outs #4-24930,</unittitle>
+                        <container id="cid6084025" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>Theatre Project - Baltimore,</unittitle>
+                        <container id="cid6084024" type="Folder" label="Mixed materials">26</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>Theatre Project Grant,</unittitle>
+                        <container id="cid6084023" type="Folder" label="Mixed materials">27</container>
+                        <unitdate>1975-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>Theatre Rhinoceros / Gay Theatre San Francisco,</unittitle>
+                        <container id="cid6084022" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>Theatre X,</unittitle>
+                        <container id="cid6084021" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid6084021" type="Folder">1</container>
+                        <unitdate>1976-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>TNT Festival information,</unittitle>
+                        <container id="cid6084020" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>Tom Johnson - Trinity Dance Management,</unittitle>
+                        <container id="cid6084019" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1972-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Travel,</unittitle>
+                        <container id="cid6084018" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="file">
+                    <did>
+                        <unittitle>Universal Movement Theatre Repertory,</unittitle>
+                        <container id="cid6084017" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1972-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="file">
+                    <did>
+                        <unittitle>Vanaver, Bill and Livia Drapkin,</unittitle>
+                        <container id="cid6084016" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="file">
+                    <did>
+                        <unittitle>Well Diggers Experimental Theatre Company,</unittitle>
+                        <container id="cid6084015" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref269" level="file">
+                    <did>
+                        <unittitle>Western Penitentiary – Contacts and information form,</unittitle>
+                        <container id="cid6084014" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1978-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref270" level="file">
+                    <did>
+                        <unittitle>The Wilma Project,</unittitle>
+                        <container id="cid6084013" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="file">
+                    <did>
+                        <unittitle>Wimmer, Wimmer &amp; Dancers,</unittitle>
+                        <container id="cid6084012" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref273" level="series">
+                <did>
+                    <unittitle>Scrapbooks,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1974-1981</unitdate>
+                </did>
+                <scopecontent id="ref275">
+                    <head>Scope and Content Notes</head>
+                    <p>This one oversized scrapbook encompasses the entire history of the 99¢ Floating Theatre Festival. Within it are newspaper clippings about the organization, reviews, small posters, marketing materials, programs, etc.</p>
+                </scopecontent>
+                <c02 id="ref274" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid6084011" type="Box" label="Mixed materials">11</container>
+                        <unitdate>1974-1981</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

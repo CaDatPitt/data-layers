@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc197202</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Ralph G. Allen Burlesque Collection, 1905-1962
+                    <num>CTC.1972.02</num>
+                </titleproper>
+                <author>Finding aid prepared by Colleen Reilly.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>February 2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T12:58-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ralph G. Allen Burlesque Collection</unittitle>
+            <unitid>CTC.1972.02</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 linear feet</extent>
+                <extent>(3 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1905/1962" type="inclusive">1905-1962</unitdate>
+            <abstract id="ref2" label="Abstract">This collection contains approx. 150 scripts of burlesque sketches and 9 audio recordings of interviews and performances compiled by Ralph G. Allen and his colleague John Ulrich in a 1962 project funded by the Charles E. Merrill Faculty Fellowship at the University of Pittsburgh. Materials were drawn from the personal recollections and records of Jess Mack, Billy "Cheese and Crackers" Hagan ("baggy pants" comedian), Billy Foster, Irving Harman, and Jack Coyle.</abstract>
+            <origination label="creator">
+                <persname source="naf">Allen, Ralph G.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>Ralph G. Allen (1934-2004), was born in Philadelphia and graduated summa cum laude from Amherst College in 1955. In 1960 he received the Doctor of Fine Arts degree from Yale University School of Drama where he held the MCA Fellowship in Playwriting and was a John Golden Fellow. In 1965 he was awarded a Guggenheim Fellowship. His alma mater, Amherst College, awarded him a Doctor of Humane Letters degree in 1980.</p>
+            <p>A former University of Pittsburgh faculty member, Allen was a writer, director, teacher, historian , and theatrical advisor who served the John F. Kennedy Center for the Performing Arts, UCLA, the University of Victoria, New York University School of the Arts, The University of Tennessee, and Queens College.</p>
+            <p>While in residence at the University of Pittsburgh, Allen collaborated with Professor John Ulrich with the aid of a Charles E. Merrill Faculty Fellowship, to compile Burlesque sketches from comedian Billy Hagan's personal collection and interviews from performers Billy Foster, Bert Carr, Maxie Furman, Irving Harman, Jack Coyle, and Billy "Cheese and Crackers" Hagan.</p>
+            <p>Allen co-conceived the Tony awarding winning musical, 
+                <title render="italic">Sugar Babies</title>, and frequently published scholarly articles on the burlesque. His play, 
+                <title render="italic">A Horse of a Different Color</title>, premiered at the Three Rivers Shakespeare Festival in Pittsburgh, Pennsylvania.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>Series I contains a collection of burlesque skits compiled from the personal records of Jess Mack of Boston, an agent and former Burlesque Performer. Series II contains audio recordings of burlesque performances of Billy Hagan, Frank X. Silk, Lou Browne, Floyd Hallicy and interviews with Billy Hagan, Billy Foster, Irving Harman, and Jack Coyle.</p>
+        </scopecontent>
+        <arrangement id="ref5">
+            <head>Arrangement</head>
+            <p>Series I. Burlesque skits</p>
+            <p>Series II. Audio reels</p>
+        </arrangement>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of Ralph G. Allen in 1972.</p>
+        </acqinfo>
+        <odd id="ref167">
+            <head>Previous Citation</head>
+            <p>Ralph G. Allen Burlesque Collection, ca. 1905-1962, CTC.1972.02, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>Ralph G. Allen Burlesque Collection, ca. 1905-1962, CTC.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>Ralph G. Allen Burlesque Collection, ca. 1905-1962, CTC.1972.02, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>This collection was processed by Curtis Theatre Collection Staff in 1972. Collection inventory re-engineered by Colleen Reilly in February 2007.</p>
+        </processinfo>
+        <userestrict id="ref10">
+            <head>Copyright</head>
+            <p>Ralph G. Allen controls publication and performance rights.</p>
+        </userestrict>
+        <controlaccess>
+            <persname source="naf">Allen, Ralph G.</persname>
+            <persname source="naf">Coyle, Jack</persname>
+            <persname source="naf">Foster, Billy</persname>
+            <persname rules="aacr" source="local">Hagan, Billy</persname>
+            <persname rules="aacr" source="local">Hallicy, Floyd</persname>
+            <persname rules="aacr" source="local">Harman, Irving</persname>
+            <persname rules="aacr" source="local">Mack, Jess</persname>
+            <persname rules="aacr" source="local">Silk, Frank X.</persname>
+            <persname source="naf">Ulrich, John</persname>
+            <corpname source="naf">University of Pittsburgh.</corpname>
+            <occupation source="aat">Actors</occupation>
+            <genreform source="aat">Audiotapes</genreform>
+            <geogname source="lcsh">Boston (Mass.)</geogname>
+            <subject source="lcsh">Burlesques</subject>
+            <subject source="lcsh">Performing arts -- United States</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.)</geogname>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+            <subject source="lcsh">Vaudeville</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Burlesque Skits</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref161">
+                    <head>Scope and Content Notes</head>
+                    <p>Series I contains a collection of burlesque skits compiled from the personal records of Jess Mack of Boston, an agent and former Burlesque Performer. Some of the skits have multiple copies or different versions within the same folder.</p>
+                </scopecontent>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Egg in the hat</unittitle>
+                        <container id="cid111084" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid111084" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>In Mexico</unittitle>
+                        <container id="cid111083" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Oriental bit in one watch and money</unittitle>
+                        <container id="cid111082" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Quaker girl</unittitle>
+                        <container id="cid111081" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>The race</unittitle>
+                        <container id="cid111080" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Radio bit</unittitle>
+                        <container id="cid111079" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Radio material</unittitle>
+                        <container id="cid111078" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Radio scene</unittitle>
+                        <container id="cid111077" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Rag time duel</unittitle>
+                        <container id="cid111076" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Ragged coat bit</unittitle>
+                        <container id="cid111075" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>The raid</unittitle>
+                        <container id="cid111074" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Recitation</unittitle>
+                        <container id="cid111073" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Red and green traffic light scene</unittitle>
+                        <container id="cid111072" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Red rose bit</unittitle>
+                        <container id="cid111071" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Reform</unittitle>
+                        <container id="cid111070" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Renting a room</unittitle>
+                        <container id="cid111069" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Renting half an office</unittitle>
+                        <container id="cid111068" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Restaurant scene</unittitle>
+                        <container id="cid111067" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>The returned soldier</unittitle>
+                        <container id="cid111066" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Room 202</unittitle>
+                        <container id="cid111065" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>The rose</unittitle>
+                        <container id="cid111064" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Rubber plant</unittitle>
+                        <container id="cid111063" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Rubber scene</unittitle>
+                        <container id="cid111062" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Russian Bolshevik scene</unittitle>
+                        <container id="cid111061" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>S.A.</unittitle>
+                        <container id="cid111060" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Safety deposit vault</unittitle>
+                        <container id="cid111059" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Sailor scene</unittitle>
+                        <container id="cid111058" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Sailors return</unittitle>
+                        <container id="cid111057" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Salesman</unittitle>
+                        <container id="cid111056" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Sally don't live in our alley no more and Why don't you marry</unittitle>
+                        <container id="cid111055" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Saloon scene</unittitle>
+                        <container id="cid111054" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Sarah the snake</unittitle>
+                        <container id="cid111053" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Saratoga Springs</unittitle>
+                        <container id="cid111052" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>School days</unittitle>
+                        <container id="cid111051" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Scotch blood blackout</unittitle>
+                        <container id="cid111050" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Scrutinizing scene</unittitle>
+                        <container id="cid111049" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Selling a theatre</unittitle>
+                        <container id="cid111048" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Selling clothes</unittitle>
+                        <container id="cid111047" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>72nd Street</unittitle>
+                        <container id="cid111046" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Sherlock Holmes detective agency</unittitle>
+                        <container id="cid111045" type="Folder" label="Mixed materials">41</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>The sheik</unittitle>
+                        <container id="cid111044" type="Folder" label="Mixed materials">42</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Shimmy scene</unittitle>
+                        <container id="cid111043" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Shirt back to back bit</unittitle>
+                        <container id="cid111042" type="Folder" label="Mixed materials">44</container>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Shoe store</unittitle>
+                        <container id="cid111041" type="Folder" label="Mixed materials">45</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Silverware</unittitle>
+                        <container id="cid111040" type="Folder" label="Mixed materials">46</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Six feet in bed</unittitle>
+                        <container id="cid111039" type="Folder" label="Mixed materials">47</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>A slight mistake</unittitle>
+                        <container id="cid111038" type="Folder" label="Mixed materials">48</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Slogan wise</unittitle>
+                        <container id="cid111037" type="Folder" label="Mixed materials">49</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Smith baby scene</unittitle>
+                        <container id="cid111036" type="Folder" label="Mixed materials">50</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>So young and innocent scene</unittitle>
+                        <container id="cid111035" type="Folder" label="Mixed materials">51</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>A social inconvenience</unittitle>
+                        <container id="cid111034" type="Folder" label="Mixed materials">52</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Soft and loud scene</unittitle>
+                        <container id="cid111033" type="Folder" label="Mixed materials">53</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Soldier Bill</unittitle>
+                        <container id="cid111032" type="Folder" label="Mixed materials">54</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Song and dance troupe</unittitle>
+                        <container id="cid111031" type="Folder" label="Mixed materials">55</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Spanish bullfight</unittitle>
+                        <container id="cid111030" type="Folder" label="Mixed materials">56</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Spanish version</unittitle>
+                        <container id="cid111029" type="Folder" label="Mixed materials">57</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Speech kissing bit</unittitle>
+                        <container id="cid111028" type="Folder" label="Mixed materials">58</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Spot bit</unittitle>
+                        <container id="cid111027" type="Folder" label="Mixed materials">59</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Stage door bit in one</unittitle>
+                        <container id="cid111026" type="Folder" label="Mixed materials">60</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Stage door scene</unittitle>
+                        <container id="cid111025" type="Folder" label="Mixed materials">61</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Stand in scene</unittitle>
+                        <container id="cid111024" type="Folder" label="Mixed materials">62</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Standing on my feet</unittitle>
+                        <container id="cid111023" type="Folder" label="Mixed materials">63</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>States recitations</unittitle>
+                        <container id="cid111022" type="Folder" label="Mixed materials">64</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Static bit</unittitle>
+                        <container id="cid111021" type="Folder" label="Mixed materials">65</container>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Street cleaner cart</unittitle>
+                        <container id="cid111020" type="Folder" label="Mixed materials">66</container>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Street cleaning bit</unittitle>
+                        <container id="cid111019" type="Folder" label="Mixed materials">67</container>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Street walker</unittitle>
+                        <container id="cid111018" type="Folder" label="Mixed materials">68</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Subway scene</unittitle>
+                        <container id="cid111017" type="Folder" label="Mixed materials">69</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Suffragette</unittitle>
+                        <container id="cid111016" type="Folder" label="Mixed materials">70</container>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Suicide scene</unittitle>
+                        <container id="cid111015" type="Folder" label="Mixed materials">71</container>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Swat the fly</unittitle>
+                        <container id="cid111014" type="Folder" label="Mixed materials">72</container>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Sweet singer</unittitle>
+                        <container id="cid111013" type="Folder" label="Mixed materials">73</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Syncopated entrance for two comics</unittitle>
+                        <container id="cid111012" type="Folder" label="Mixed materials">74</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>System kiss bit</unittitle>
+                        <container id="cid111011" type="Folder" label="Mixed materials">75</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Table scene</unittitle>
+                        <container id="cid111010" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid111010" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Tailor bootlegger bit</unittitle>
+                        <container id="cid111009" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Take em to the door blues</unittitle>
+                        <container id="cid111008" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Take off my pants</unittitle>
+                        <container id="cid111007" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Take out the deuces and trays</unittitle>
+                        <container id="cid111006" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Talkative salesman</unittitle>
+                        <container id="cid111005" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Teasie weasie</unittitle>
+                        <container id="cid111004" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Telegram scene</unittitle>
+                        <container id="cid111003" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Telephone bit</unittitle>
+                        <container id="cid111002" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Telephone booth</unittitle>
+                        <container id="cid111001" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>That's my wife</unittitle>
+                        <container id="cid111000" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Theatre bit</unittitle>
+                        <container id="cid110999" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Theatre box office</unittitle>
+                        <container id="cid110998" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Third degree</unittitle>
+                        <container id="cid110997" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>3 A.M. or taking a sweetheart home</unittitle>
+                        <container id="cid110996" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Three detectives</unittitle>
+                        <container id="cid110995" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Three drunks</unittitle>
+                        <container id="cid110994" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Three people act</unittitle>
+                        <container id="cid110993" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Three suitcase scene</unittitle>
+                        <container id="cid110992" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Three waiters</unittitle>
+                        <container id="cid110991" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Title bit</unittitle>
+                        <container id="cid110990" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Tongue and cheese sandwich scene</unittitle>
+                        <container id="cid110989" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Tony the spider</unittitle>
+                        <container id="cid110988" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Topics bit</unittitle>
+                        <container id="cid110987" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Tough bit</unittitle>
+                        <container id="cid110986" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Traffic cop</unittitle>
+                        <container id="cid110985" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Train hold up</unittitle>
+                        <container id="cid110984" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Train scene</unittitle>
+                        <container id="cid110983" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>The traveling salesman</unittitle>
+                        <container id="cid110982" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Travesty scene</unittitle>
+                        <container id="cid110981" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Trim scene</unittitle>
+                        <container id="cid110980" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Trying to get arrested</unittitle>
+                        <container id="cid110979" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Two cop scene</unittitle>
+                        <container id="cid110978" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Two gilters from Boston</unittitle>
+                        <container id="cid110977" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Two of the four hundred</unittitle>
+                        <container id="cid110976" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Under the table</unittitle>
+                        <container id="cid110975" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Upside down business</unittitle>
+                        <container id="cid110974" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Upstairs</unittitle>
+                        <container id="cid110973" type="Folder" label="Mixed materials">38</container>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Vacuum cleaner scene</unittitle>
+                        <container id="cid110972" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>The vagabond lovers</unittitle>
+                        <container id="cid110971" type="Folder" label="Mixed materials">40</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Valencia</unittitle>
+                        <container id="cid110970" type="Folder" label="Mixed materials">41</container>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>The vampire</unittitle>
+                        <container id="cid110969" type="Folder" label="Mixed materials">42</container>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Vanishing scene</unittitle>
+                        <container id="cid110968" type="Folder" label="Mixed materials">43</container>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Vaudeville hokem dance art</unittitle>
+                        <container id="cid110967" type="Folder" label="Mixed materials">44</container>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Waiter strike bit</unittitle>
+                        <container id="cid110966" type="Folder" label="Mixed materials">45</container>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>War debt</unittitle>
+                        <container id="cid110965" type="Folder" label="Mixed materials">46</container>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Wardrobe or kitchen scene</unittitle>
+                        <container id="cid110964" type="Folder" label="Mixed materials">47</container>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Westfall murder case</unittitle>
+                        <container id="cid110963" type="Folder" label="Mixed materials">48</container>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Where is Nellie?</unittitle>
+                        <container id="cid110962" type="Folder" label="Mixed materials">49</container>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Whiskey in club bit</unittitle>
+                        <container id="cid110961" type="Folder" label="Mixed materials">50</container>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Whiskey taster bit</unittitle>
+                        <container id="cid110960" type="Folder" label="Mixed materials">51</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>White seal</unittitle>
+                        <container id="cid110959" type="Folder" label="Mixed materials">52</container>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Whiz &amp; wham</unittitle>
+                        <container id="cid110958" type="Folder" label="Mixed materials">53</container>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Who died first</unittitle>
+                        <container id="cid110957" type="Folder" label="Mixed materials">54</container>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>The widow and the bachelor</unittitle>
+                        <container id="cid110956" type="Folder" label="Mixed materials">55</container>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Widow scene</unittitle>
+                        <container id="cid110955" type="Folder" label="Mixed materials">56</container>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Wild cat wild</unittitle>
+                        <container id="cid110954" type="Folder" label="Mixed materials">57</container>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Winter scene - old jaw bone</unittitle>
+                        <container id="cid110953" type="Folder" label="Mixed materials">58</container>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Wise child court</unittitle>
+                        <container id="cid110952" type="Folder" label="Mixed materials">59</container>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Wise guy</unittitle>
+                        <container id="cid110951" type="Folder" label="Mixed materials">60</container>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Wishing book</unittitle>
+                        <container id="cid110950" type="Folder" label="Mixed materials">61</container>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Within the law</unittitle>
+                        <container id="cid110949" type="Folder" label="Mixed materials">62</container>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>The woman I've been going with for the past three years</unittitle>
+                        <container id="cid110948" type="Folder" label="Mixed materials">63</container>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Woman scene</unittitle>
+                        <container id="cid110947" type="Folder" label="Mixed materials">64</container>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>The woman who pays</unittitle>
+                        <container id="cid110946" type="Folder" label="Mixed materials">65</container>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Women court room scene</unittitle>
+                        <container id="cid110945" type="Folder" label="Mixed materials">66</container>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>The wrestlers</unittitle>
+                        <container id="cid110944" type="Folder" label="Mixed materials">67</container>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Wrinkles scene</unittitle>
+                        <container id="cid110943" type="Folder" label="Mixed materials">68</container>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>The wrong flat</unittitle>
+                        <container id="cid110942" type="Folder" label="Mixed materials">69</container>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Yes sir, that's my baby</unittitle>
+                        <container id="cid110941" type="Folder" label="Mixed materials">70</container>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>You ain't got it</unittitle>
+                        <container id="cid110940" type="Folder" label="Mixed materials">71</container>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>You got to have it in Hollywood</unittitle>
+                        <container id="cid110939" type="Folder" label="Mixed materials">72</container>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>You hit the spot; stormy weather</unittitle>
+                        <container id="cid110938" type="Folder" label="Mixed materials">73</container>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>You're standing on my feet</unittitle>
+                        <container id="cid110937" type="Folder" label="Mixed materials">74</container>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>You're a liar bit</unittitle>
+                        <container id="cid110936" type="Folder" label="Mixed materials">75</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref162" level="series">
+                <did>
+                    <unittitle>Audio Tapes</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref164">
+                    <head>Scope and Content Notes</head>
+                    <p>Series II contains audio recordings of burlesque performances of Billy Hagan, Frank X. Silk, Lou Browne, Floyd Hallicy and interviews with Billy Hagan, Billy Foster, Irving Harman, and Jack Coyle.</p>
+                </scopecontent>
+                <c02 id="ref163" level="item">
+                    <did>
+                        <unittitle>Interview with Billy Hagan,</unittitle>
+                        <container id="cid226001" type="Box" label="Audio">3</container>
+                        <container parent="cid226001" type="Item">1-2</container>
+                        <physdesc>
+                            <extent>9.0 items</extent>
+                        </physdesc>
+                        <unitdate>May 8, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interview with Billy Hagan," ns2:href="31735065780136">
+                        <daodesc>
+                            <p>Interview with Billy Hagan,, May 8, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref168" level="item">
+                    <did>
+                        <unittitle>Interviews with Billy Hagan, Billy Foster, Irving Harman, and Jack Coyle Wheel #1,</unittitle>
+                        <container id="cid2696003" type="Item" label="Audio">3</container>
+                        <unitdate>May 7, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interviews with Billy Hagan, Billy Foster, Irving Harman, and Jack Coyle Wheel #1," ns2:href="31735065780144">
+                        <daodesc>
+                            <p>Interviews with Billy Hagan, Billy Foster, Irving Harman, and Jack Coyle Wheel #1,, May 7, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref169" level="item">
+                    <did>
+                        <unittitle>Interviews with Billy Hagan, Jack Coyle, Irving Harman, and Billy Foster,</unittitle>
+                        <container id="cid2696004" type="Item" label="Audio">4</container>
+                        <unitdate>April 11, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interviews with Billy Hagan, Jack Coyle, Irving Harman, and Billy Foster," ns2:href="31735065780102">
+                        <daodesc>
+                            <p>Interviews with Billy Hagan, Jack Coyle, Irving Harman, and Billy Foster,, April 11, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref170" level="item">
+                    <did>
+                        <unittitle>Interviews with Billy Hagan, Ralph and Harriet Allen, Irving Harman, and Larry V Heller,</unittitle>
+                        <container id="cid2696005" type="Item" label="Audio">5</container>
+                        <unitdate>May 9, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interviews with Billy Hagan, Ralph and Harriet Allen, Irving Harman, and Larry V Heller," ns2:href="31735065785010">
+                        <daodesc>
+                            <p>Interviews with Billy Hagan, Ralph and Harriet Allen, Irving Harman, and Larry V Heller,, May 9, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref171" level="item">
+                    <did>
+                        <unittitle>Interviews with Irving Harman, Billy Hagan, Billy Foster, and Jack Coyle,</unittitle>
+                        <container id="cid2696006" type="Item" label="Audio">6</container>
+                        <unitdate>May 9, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interviews with Irving Harman, Billy Hagan, Billy Foster, and Jack Coyle," ns2:href="31735065785028">
+                        <daodesc>
+                            <p>Interviews with Irving Harman, Billy Hagan, Billy Foster, and Jack Coyle,, May 9, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref172" level="item">
+                    <did>
+                        <unittitle>Interviews with Billy Hagan, Billy Foster, and Joe Bock,</unittitle>
+                        <container id="cid2696007" type="Item" label="Audio">7</container>
+                        <unitdate>May 10, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interviews with Billy Hagan, Billy Foster, and Joe Bock," ns2:href="31735065785036">
+                        <daodesc>
+                            <p>Interviews with Billy Hagan, Billy Foster, and Joe Bock,, May 10, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref173" level="item">
+                    <did>
+                        <unittitle>Burlesque show at Lyric Theatre in Allentown, PA,</unittitle>
+                        <container id="cid2696008" type="Item" label="Audio">8</container>
+                        <unitdate>Jan 16, 1960</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Burlesque show at Lyric Theatre in Allentown, PA," ns2:href="31735065785044">
+                        <daodesc>
+                            <p>Burlesque show at Lyric Theatre in Allentown, PA,, Jan 16, 1960 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref174" level="item">
+                    <did>
+                        <unittitle>Interviews with Irving Harman, Billy Hagan, Billy Foster, and Jack Coyle (Reel 2),</unittitle>
+                        <container id="cid2696009" type="Item" label="Audio">9</container>
+                        <unitdate>May 11, 1962</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Interviews with Irving Harman, Billy Hagan, Billy Foster, and Jack Coyle (Reel 2)," ns2:href="31735065785051">
+                        <daodesc>
+                            <p>Interviews with Irving Harman, Billy Hagan, Billy Foster, and Jack Coyle (Reel 2),, May 11, 1962 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

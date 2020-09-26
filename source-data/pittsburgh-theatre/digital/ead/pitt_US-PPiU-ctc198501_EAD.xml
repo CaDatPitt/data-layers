@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ctc198501</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the G. Norman Reis Papers, 1909-1946
+                    <num>CTC.1985.01</num>
+                </titleproper>
+                <author>Finding aid prepared by William Daw. Revisions occurred to the finding aid as a part of the encoding process on March 24, 2006.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>2004</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-06-06T13:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>G. Norman Reis Papers</unittitle>
+            <unitid>CTC.1985.01</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.5 linear feet</extent>
+            </physdesc>
+            <unitdate normal="1909/1946" type="inclusive">1909-1946</unitdate>
+            <abstract id="ref2" label="Abstract">The Papers of G. Norman Reis primarily include materials from the Cap and Gown Club, a male musical comedy group of the University of Pittsburgh. The collection includes: programs, scripts, music, news clippings, financial records, correspondence, films, photographs, scrapbooks, personal papers and phonograph records from the period of 1909-1946. Digital reproductions of the collection are available electronically.</abstract>
+        </did>
+        <bioghist id="ref3">
+            <head>Biography</head>
+            <p>G. Norman Reis was born on February 23, 1893 in Pittsburgh, Pennsylvania. He was a member of the class of 1916 at the University of Pittsburgh and served as a veteran contributor to the University's Cap and Gown Club - an all male organization devoted to the production of annual musical comedy shows. Beginning with the 1913 show, 
+                <title>Prince of Sham</title>, Reis collaborated with men, such as Gus Schnabel and Louis Fushan, on the book of lyrics used in many of the club's productions. In addition, he served on many committees and held offices in the club from the time of his earliest association until his death in 1958. These productions always used original books, lyrics, and music contributed by students at the University or by alumni members of the Cap and Gown Club. Many important figures had their earliest training and experience with the Cap and Gown including Regis Toomey, motion picture and musical comedy star, Woodman Thompson, a scenic designer, and Gene Kelly, dancer, instructor and director.</p>
+            <p>Reis was employed as a bacteriologist at U.S. Steel. He was an avid photographer, and, for a brief period, served as the official photographer for the 
+                <title>Pitt Alumni Review</title> as well as chairman and member of the editorial board. He died at the age of 65, three months after his retirement.</p>
+        </bioghist>
+        <arrangement id="ref73">
+            <head>Arrangement</head>
+            <p>Series I. Personal Memorabilia</p>
+            <p>Series II. Dramatic Productions Other than Cap and Gown</p>
+            <p>Series III. Sheet Music</p>
+            <p>Series IV. Cap and Gown Productions</p>
+            <p>Series V. Cap and Gown Productions: Oversized Materials</p>
+        </arrangement>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>The personal papers of G. Norman Reis pertain predominantly to the University of Pittsburgh's Cap and Gown Club, including souvenir and leaf programs, scripts, music, news clippings, financial records, correspondence, films, photographs, scrapbooks, and phonograph records. These categories are not complete in any of the cases. Besides individual music scores, music can also be found in some souvenir programs.</p>
+            <p>Items not associated with the Cap and Gown Club include Reis' script, 
+                <title>Harmony Island</title>, the Pittsburgh Athletic Association's 1917 drama club presentation, and unidentified scripts. There are also materials on other all-male musical comedy groups such as Mask and Wig (University of Pennsylvania) and Triangle Club (Princeton University) programs and/or sheet music, University of Pittsburgh fight songs, including a victory song with words by Reis, miscellaneous music, as well as several issues of the 
+                <title>Pitt Alumni Review</title> for which Reis served as chairman and member of the editorial board.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Gift of Helen Whitlinger in 1985.</p>
+        </acqinfo>
+        <odd id="ref75">
+            <head>Previous Citation</head>
+            <p>G. Norman Reis Papers, 1909-1946, CTC.1985.01, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+            <p>G. Norman Reis Papers, 1909-1946, CTC.17, Curtis Theatre Collection, Special Collections Department, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>G. Norman Reis Papers, 1909-1946, CTC.1985.01, Curtis Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Special Collections Staff and by William Daw and Ellen Whitham in summer 2004.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Charles Stanford in March 2006. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1470176.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <relatedmaterial id="ref77">
+            <head>Related Material</head>
+            <p>Cap and Gown Club Records, 1908-1978, CTC.1980.01, Curtis Theatre Collection, Archives &amp; Special Collections Department, University of Pittsburgh Library System</p>
+        </relatedmaterial>
+        <altformavail id="ref76">
+            <head>Existence and Location of Copies</head>
+            <p>Digital reproductions of the collection are available electronically. 
+                <extref ns2:href="http://images.library.pitt.edu/cgi-bin/i/image/image-idx?q1=Cap+and+Gown+Club+Records&amp;rgn1=hpicasc_cl&amp;type=simple&amp;c=hpicasc&amp;view=thumbnail">Selected photographs</extref> were scanned and added to the University of Pittsburgh Historic Photographs collection.Digital reproductions of the collection are available electronically at [URL].</p>
+        </altformavail>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Cap and Gown Club (Pittsburgh, Pa.).</corpname>
+            <persname source="naf">Kelly, Gene, 1912-1996</persname>
+            <corpname rules="aacr" source="local">Pittsburgh Athletic Association.</corpname>
+            <corpname source="naf">Princeton University. Triangle Club.</corpname>
+            <persname rules="aacr" source="local">Reis, G. Norman, 1893-1958</persname>
+            <persname source="naf">Thompson, Woodman</persname>
+            <persname source="naf">Toomey, Regis, 1902-</persname>
+            <corpname source="naf">University of Pennsylvania. Mask and Wig Club.</corpname>
+            <subject source="lcsh">Bacteriologists -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">College and school drama, American -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">College theater -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">College theater -- United States</subject>
+            <subject source="lcsh">Student activities -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Theater</subject>
+            <subject source="lcsh">Theater -- United States</subject>
+            <genreform source="aat">Theater programs</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Personal Memorabilia</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>There are three folders of Personal Memorabilia consisting of news clippings from 1941 through 1946, several copies of the 
+                        <title>Alumni Review</title> and 
+                        <title>Pitt Panther</title>.</p>
+                </scopecontent>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>News Clippings</unittitle>
+                        <container id="cid111488" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid111488" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Alumni Review</title>,</unittitle>
+                        <container id="cid111487" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1941-44, 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Pitt Panther</title>,</unittitle>
+                        <container id="cid111486" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>March 1930</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Dramatic Productions Other than Cap and Gown</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Contents note</head>
+                    <p>Series II contains items concerning dramatic productions other than the Cap and Gown Club.</p>
+                </scopecontent>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Harmony Island</title> Script and Publicity</unittitle>
+                        <container id="cid111485" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Unidentified Scripts</unittitle>
+                        <container id="cid111484" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Mask and Wig (U. of Penna.) Program</unittitle>
+                        <container id="cid111483" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Sheet Music</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains miscellaneous music that was not used for Cap and Gown productions. The four folders of material include a booklet of 
+                        <title>Songs of the University of Pittsburgh</title>, 
+                        <title>Pitt Victory Song</title> with words by G. Norman Reis and Louis M. Fushan and music by Benjamin Levant, and music from the Mask and Wig (Folder 8) and Triangle Clubs at the University of Pittsburgh and Princeton (Folder 9).</p>
+                </scopecontent>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Songs of the University of Pittsburgh</title>, 
+                            <title>Pitt Victory Song</title></unittitle>
+                        <container id="cid111482" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>
+                            <title>There's No Place like Your Arms</title> from 
+                            <title>All Around the Town</title></unittitle>
+                        <container id="cid111481" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Happy the Day</title> from 
+                            <title>Take It Away</title>, 
+                            <title>Can it Be True?</title> from 
+                            <title>Fol-De-Rol</title>.</unittitle>
+                        <container id="cid111480" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1936;</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Miscellaneous Sheet Music</unittitle>
+                        <container id="cid111479" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref26" level="series">
+                <did>
+                    <unittitle>Cap and Gown Productions</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref59">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes materials related to the Cap and Gown Club listed chronologically by production. It contains souvenir and/or leaf programs, scripts, phonograph records, musical scores, news clippings, other miscellaneous promotional material, and 16-millimeter films. Each of the productions contains some or all of the materials previously mentioned. The 16-millimeter films are shelved independently from their corresponding productions at the end of the series. It also includes financial records and correspondence pertaining to the Club's productions. Items marked with an asterisk (*) have the music for the production in the program.</p>
+                </scopecontent>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <title>When Pitt Was Young</title> - Programs and Scripts</unittitle>
+                        <container id="cid111478" type="Folder" label="Mixed materials">11-12</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Little Suffragettes</title> - Scripts</unittitle>
+                        <container id="cid111477" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Maxixe Girl</title> - Programs and News Clippings</unittitle>
+                        <container id="cid111476" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Suite 16</title> - Programs and Musical Scores</unittitle>
+                        <container id="cid111475" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid111475" type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Diamond Girl</title> - Musical Scores: 
+                            <title>The Diamond Girl</title> lyrics only.</unittitle>
+                        <container id="cid111474" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Mary Grow Round</title>* - Programs</unittitle>
+                        <container id="cid111473" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Yip-Yip</title>* - Programs and Scripts</unittitle>
+                        <container id="cid111472" type="Folder" label="Mixed materials">5-6</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Manhattan Preferred</title>* - Programs</unittitle>
+                        <container id="cid111471" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>
+                            <title>What's Up</title>* - Programs and Scripts</unittitle>
+                        <container id="cid111470" type="Folder" label="Mixed materials">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Silver Domino</title>* - Programs, News Clippings, and Scripts</unittitle>
+                        <container id="cid111469" type="Folder" label="Mixed materials">10-11</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="The Silver Domino* - Programs, News Clippings, and Scripts" ns2:href="31735065787701">
+                        <daodesc>
+                            <p>The Silver Domino* - Programs, News Clippings, and Scripts</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <title>All to the Point</title>* - Programs, News Clippings and Nixon Theatre Program with Advertisement</unittitle>
+                        <container id="cid111468" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="All to the Point* - Programs, News Clippings and Nixon Theatre Program with Advertisement" ns2:href="31735065787719">
+                        <daodesc>
+                            <p>All to the Point* - Programs, News Clippings and Nixon Theatre Program with Advertisement</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Hello Again</title>* - Programs</unittitle>
+                        <container id="cid111467" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <title>In the Soup</title>* - Programs and Scripts</unittitle>
+                        <container id="cid111466" type="Folder" label="Mixed materials">14-15</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Out for the Count</title>* - Programs and Scripts</unittitle>
+                        <container id="cid111465" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid111465" type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Trailor Ho!</title>* - Programs and Scripts</unittitle>
+                        <container id="cid111464" type="Folder" label="Mixed materials">3-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Pickets, Please</title>* - Programs and 
+                            <title>Alumni Review</title></unittitle>
+                        <container id="cid111463" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>
+                            <title>At Your Service</title> - Programs, News Clippings, 
+                            <title>Alumni Review</title>, and Scripts</unittitle>
+                        <container id="cid111462" type="Folder" label="Mixed materials">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>
+                            <title>At Your Service</title> - Musical Scores</unittitle>
+                        <container id="cid111461" type="Folder" label="Mixed materials">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <title>At Your Service</title> - Phonograph Record: 
+                            <title>Nothing is too Perfect for You</title> (side 1) 
+                            <title>Diary of Dreams</title> (side 2) - 2 copies</unittitle>
+                        <container id="cid111460" type="Folder" label="Mixed materials">10-11</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Snap Your Fingers</title> - Programs and Musical Scores</unittitle>
+                        <container id="cid111459" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid111459" type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Head Over Heels</title>* - Programs, Scripts, and Musical Scores</unittitle>
+                        <container id="cid111458" type="Folder" label="Mixed materials">3-5</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Kilroy Is Here</title> - Programs and Scripts</unittitle>
+                        <container id="cid111457" type="Folder" label="Mixed materials">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Cap and Gown Music 1940</title> - Phonograph Record</unittitle>
+                        <container id="cid111456" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Financial Reports - Receipts and expenditures for</unittitle>
+                        <container id="cid111455" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1931-1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Correspondence: from Louis M. Fushan to G. Norman Reis</unittitle>
+                        <container id="cid111454" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Films -- 
+                            <title>All to the Point</title>, (contains shots of Gene Kelly) and 
+                            <title>Silver Domino</title>,</unittitle>
+                        <container id="cid111453" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1932-1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Films -- 
+                            <title>Hello Again</title>,</unittitle>
+                        <container id="cid111452" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Films -- 
+                            <title>In the Soup</title>,</unittitle>
+                        <container id="cid111451" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Films -- 
+                            <title>Out for the Count</title>,</unittitle>
+                        <container id="cid111450" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Films -- 
+                            <title>Trailer Ho!</title>,</unittitle>
+                        <container id="cid111449" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Films -- Unidentified Cap and Gown Production</unittitle>
+                        <container id="cid111448" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref60" level="series">
+                <did>
+                    <unittitle>Cap and Gown Productions: Oversized Materials</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes oversized materials related to the Cap and Gown Club listed chronologically by production. It contains musical scores, photographs, and scrapbooks. Each of the productions contains some or all of the materials previously mentioned.</p>
+                </scopecontent>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Little Suffragettes</title> Music: 
+                            <title>You're the Girl For Me</title>; 
+                            <title>At the Movies</title></unittitle>
+                        <container id="cid111447" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid111447" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Maxixe Girl</title> Music: 
+                            <title>The Lad in the Uniform</title></unittitle>
+                        <container id="cid111446" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Maxixe Girl</title> Photographs</unittitle>
+                        <container id="cid111445" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <title>At Your Service</title> Photographs</unittitle>
+                        <container id="cid111444" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>
+                            <title>The Red Moon</title> and 
+                            <title>Miss Mannequin</title> Scrapbook</unittitle>
+                        <container id="cid111443" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Yip-Yip</title> Scrapbook: compiled by Ted Savage</unittitle>
+                        <container id="cid111442" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Manhattan Preferred</title> Scrapbook: compiled by Ted Savage</unittitle>
+                        <container id="cid111441" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Hello Again</title> Scrapbook</unittitle>
+                        <container id="cid111440" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Pickets, Please!</title> Photographs</unittitle>
+                        <container id="cid111439" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid111439" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>
+                            <title>Snap Your Fingers</title> Photographs</unittitle>
+                        <container id="cid111438" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Miscellaneous Photographs</unittitle>
+                        <container id="cid111437" type="Folder" label="Mixed materials">3</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

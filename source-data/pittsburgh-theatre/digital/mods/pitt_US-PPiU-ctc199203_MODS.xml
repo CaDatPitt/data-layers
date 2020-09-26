@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Papers of the Four Evans, 1908-1989</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Four Evans papers, 1908-1989</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Evans family papers, 1908-1989</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Four Evans (Theatrical group)</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm>
+    </place>
+    <dateOther>1908-1989.</dateOther>
+    <dateIssued encoding="marc" point="start">1908</dateIssued>
+    <dateIssued encoding="marc" point="end">1989</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft.">1</extent>
+    <note type="arrangement">Organized into 5 series: I. Scrapbooks - Photographs and Newspaper Clippings; II. Clippings - Articles, Reviews, and Advertisements from Pittsburgh, national, and international press; III. Correspondence - Letters, Commendations, and Travel Itineraries; IV. Programs - Pittsburgh, National, and International Theatrical Programs; V. Ephemera.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">This collection contains clippings, papers, programs, scrapbooks and photos relating to the dance career of the Pittsburgh-based Evans family. There are memorabilia relating to the Evans' variety act and dance revue, "The Four Evans- Two Generations of Dance," which headlined USO tours and professional circuits from 1942-1960; press and marquee photographs and production stills; theatrical programs; press materials, including clippings from Pittsburgh, National, and International newspapers; in addition to correspondence regarding their military and public service. One notable item is a Certificate of Commendation from the Commonwealth of Pennsylvania for the Evans family's contribution to USO efforts, as well as various programs and souvenirs of their travels. Many of the items in this collection have hand-written notations by Maryetta Evans.</abstract>
+  <accessCondition type="restriction on access">No restrictions.</accessCondition>
+  <note type="preferred citation">Papers of the Four Evans, 1908-1989, CTC.1992.03, Curtis Theatre Collection, University of Pittsburgh</note>
+  <note type="acquisition">Gift of Maryetta Evans, 1992.</note>
+  <note type="biographical/historical">Vaudeville team Evan E. Evans (1889-1962) and Helen Hartz (1894-1974) of Pittsburgh, Pennsylvania were married in 1910. They continued touring the vaudeville circuits through the birth of their first child Maryetta Evans (1912-? ), but with the arrival of their second child, Lester Evans (1919-1989) the family returned to Pittsburgh. While Maryetta and Lester pursued an education at the Pittsburgh Art Institute and the University of Pittsburgh respectively, Evan and Helen conducted a dance studio. After a year of college, the Evans family returned to the stage as the "Four Evans: Two Generations of Dance." They were scouted by the USO in 1942 and became the only complete family in the war zone. From 1942-1953 the Four Evans completed USO tours of Europe, Africa, Japan, Korea, Greenland, and the United States. The Four Evans were at Bastogne when the Battle of the Bulge took place (1942) and survived a plane crash in the sea of Japan (1953). Honored by the Commonwealth of Pennsylvania, the American Legion, and the Special Service of the U.S. Army, the Evans were also invited to provide command performances for the Lord Mayor of London, England (1944) and the Premier of Canada (1947). Their success as USO entertainers was paralleled on the professional stage. From 1946-1960 the Four Evans appeared in every major city in the United States including extended engagements at New York's Paramount Theatre. The Four Evans also appeared on pioneering television programs, including an appearance in 1949 on WDTV, Pittsburgh's first television show, and a guest appearance on Mister Rogers' Neighborhood in 1974. By 1960, the Four Evans had returned home to Pittsburgh and opened a second dance studio in Homestead. Lester and Maryetta were invited to join the faculty at Point Park College and C.A.P.A. High School. In the 1980s Lester and Maryetta toured again under the auspices of the "Four Evans" taking the place of their parents while a younger generation of Evans took their own. Maryetta's hand-written family history supplied much of the detail for this biographical note.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc199203">Finding aid Available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc199203</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Evans, Evan E</namePart>
+      <namePart type="date">1889-1962</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Evans, Helen</namePart>
+      <namePart type="date">1894-1974</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Evans, Maryetta</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Evans, Lester</namePart>
+      <namePart type="date">1919-1989</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Four Evans (Theatrical group)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>United Service Organizations (U.S.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Entertainers</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Vaudeville</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>World War, 1939-1945</topic>
+    <genre>Songs and music</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>World War, 1939-1945</topic>
+    <topic>Theater and the war</topic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm65288325</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ctc199203</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">060329</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131829.0</recordChangeDate>
+    <recordIdentifier>4637673</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ctc199203</identifier></mods>
