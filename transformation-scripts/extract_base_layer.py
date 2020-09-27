@@ -150,23 +150,23 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
         for f in item_data:
-                for x in f.find_all('mods'):
-                    if collection_type == 'archival':
-                        row = get_fields_from_bs(x, data_layers_config.ARCHIVAL_ITEM_MODS_MAP)
-                    if collection_type == 'monograph':
-                        if collection_subtype == 'catalog':
-                            row = get_fields_from_bs(x, data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP)
-                        elif collection_subtype == 'digital':
-                            row = get_fields_from_bs(x, data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP)
-                    elif collection_type == 'serial':
-                        if collection_subtype == 'catalog':
-                            row = get_fields_from_bs(x, data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP)
-                        elif collection_subtype == 'digital':
-                            row = get_fields_from_bs(x, data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP)
-                    item_record_dict = {}
-                    for key in row.keys():
-                        item_record_dict[key] = row[key]
-                    item_output_rows.append(item_record_dict)
+            for x in f.find_all('mods'):
+                if collection_type == 'archival':
+                    row = get_fields_from_bs(x, data_layers_config.ARCHIVAL_ITEM_MODS_MAP)
+                if collection_type == 'monograph':
+                    if collection_subtype == 'catalog':
+                        row = get_fields_from_bs(x, data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP)
+                    elif collection_subtype == 'digital':
+                        row = get_fields_from_bs(x, data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP)
+                elif collection_type == 'serial':
+                    if collection_subtype == 'catalog':
+                        row = get_fields_from_bs(x, data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP)
+                    elif collection_subtype == 'digital':
+                        row = get_fields_from_bs(x, data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP)
+                item_record_dict = {}
+                for key in row.keys():
+                    item_record_dict[key] = row[key]
+                item_output_rows.append(item_record_dict)
 
     # rels-ext (rdf)
     relsext_data = get_bs_from_xml(relsext_dir, 'rdf')
@@ -466,26 +466,26 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
     # match where roleTerm value is in the appropriate sublist of specified_roleTerms, based on key
     if name_tags.role:
         for tag in roleTerm_tags:
-                roleTerm_value = omit_trailing_punct(tag.text.strip())
-                if key == 'creator':
-                    if roleTerm_value in creator:
-                        match = True
-                elif key == 'depositor':
-                    if roleTerm_value in depositor:
-                        match = True
-                elif key == 'publisher':
-                    if roleTerm_value in publisher:
-                        match = True
-                elif key == 'contributor':
-                    if not(any(roleTerm_value in sublist for sublist in specified_roleTerms)):
-                        match = True
-                        if roleTerm_value != "":
-                            matched_roleTerm_list.append(roleTerm_value)
-                elif key == 'associated_name':
-                    if roleTerm_value not in 'depositor':
-                        match = True
-                        if roleTerm_value != "":
-                            matched_roleTerm_list.append(roleTerm_value)
+            roleTerm_value = omit_trailing_punct(tag.text.strip())
+            if key == 'creator':
+                if roleTerm_value in creator:
+                    match = True
+            elif key == 'depositor':
+                if roleTerm_value in depositor:
+                    match = True
+            elif key == 'publisher':
+                if roleTerm_value in publisher:
+                    match = True
+            elif key == 'contributor':
+                if not(any(roleTerm_value in sublist for sublist in specified_roleTerms)):
+                    match = True
+                    if roleTerm_value != "":
+                        matched_roleTerm_list.append(roleTerm_value)
+            elif key == 'associated_name':
+                if roleTerm_value not in 'depositor':
+                    match = True
+                    if roleTerm_value != "":
+                        matched_roleTerm_list.append(roleTerm_value)
 
     # match where no role exists
     else:
@@ -503,7 +503,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
             matched_roleTerms = ", ".join(matched_roleTerm_list)
             name_parts_joined += " (" + matched_roleTerms + ")"
             if name_parts_joined[-3:] == " ()":
-                    name_parts_joined = name_parts_joined[0:-3]
+                name_parts_joined = name_parts_joined[0:-3]
 
     return name_parts_joined
 
