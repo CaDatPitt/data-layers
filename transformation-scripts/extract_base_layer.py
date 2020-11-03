@@ -1,3 +1,4 @@
+import datetime
 from bs4 import BeautifulSoup
 import glob
 import os
@@ -36,6 +37,8 @@ def base_layer_maker(location, collection_type, collection_subtype):
     Exception: collection subtype 'catalog' can only be used with collection type 'monograph' or 'serial'.
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
+    # start timer
+    begin_time = datetime.datetime.now()
 
     # validate arguments
     if not os.path.exists('../source-data/%s' % location):
@@ -103,7 +106,13 @@ def base_layer_maker(location, collection_type, collection_subtype):
     item_csv.write(item_df.to_csv())
     item_csv.close()
 
-    print("success!")
+    # notify that program has completed successfully
+    print("Success!")
+
+    # stop timer, then calculate and discplay program execution time
+    end_time = datetime.datetime.now()
+    print("Execution Time: " + str(datetime.datetime.now() - begin_time))
+
     return
 
 def process_source_data(collection_type, collection_subtype, collection_dir, item_dir, relsext_dir):
@@ -476,13 +485,13 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
             elif key == 'publisher':
                 if roleTerm_value in publisher:
                     match = True
-            elif key == 'contributor':
-                if not(any(roleTerm_value in sublist for sublist in specified_roleTerms)):
+            elif key == 'associated_name':
+                if roleTerm_value not in 'depositor':
                     match = True
                     if roleTerm_value != "":
                         matched_roleTerm_list.append(roleTerm_value)
-            elif key == 'associated_name':
-                if roleTerm_value not in 'depositor':
+            elif key == 'contributor':
+                if not(any(roleTerm_value in sublist for sublist in specified_roleTerms)):
                     match = True
                     if roleTerm_value != "":
                         matched_roleTerm_list.append(roleTerm_value)
