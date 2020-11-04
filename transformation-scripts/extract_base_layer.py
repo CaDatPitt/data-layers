@@ -37,7 +37,7 @@ def base_layer_maker(location, collection_type, collection_subtype):
     Exception: collection subtype 'catalog' can only be used with collection type 'monograph' or 'serial'.
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
-    # start timer
+    # start timer for program execution time
     begin_time = datetime.datetime.now()
 
     # validate arguments
@@ -109,9 +109,9 @@ def base_layer_maker(location, collection_type, collection_subtype):
     # notify that program has completed successfully
     print("Success!")
 
-    # stop timer, then calculate and discplay program execution time
+    # stop timer, then calculate and display program execution time
     end_time = datetime.datetime.now()
-    print("Execution Time: " + str(datetime.datetime.now() - begin_time))
+    print("Execution Time: " + str(end_time - begin_time))
 
     return
 
@@ -247,7 +247,7 @@ def get_bs_from_xml(_dir, source_type):
     if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
         filenames = glob.glob(_dir + '*.xml')
 
-    print("working with %d %s files" % (len(filenames), source_type))
+    print("Working with %d %s files..." % (len(filenames), source_type))
 
     bs_objects = []
 
