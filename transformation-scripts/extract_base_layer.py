@@ -247,7 +247,7 @@ def get_bs_from_xml(_dir, source_type):
     if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
         filenames = glob.glob(_dir + '*.xml')
 
-    print("Working with %d %s files..." % (len(filenames), source_type))
+    print("Working with %d %s files..." % (len(filenames), source_type.upper()))
 
     bs_objects = []
 
