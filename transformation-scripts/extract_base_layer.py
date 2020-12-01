@@ -561,5 +561,5 @@ def omit_trailing_punct(text):
 # call main function
 if __name__ == '__main__':
     if len(sys.argv) < 4:
-        sys.exit('when running as a script, you must provide three arguments: source collection name, collection type, and collection sub-type')
+        sys.exit('When running as a script, you must provide three arguments: source collection name, collection type, and collection sub-type.')
     base_layer_maker(sys.argv[1], sys.argv[2], sys.argv[3])

@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ua90f95</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the John A. Nietz Papers
+                    <num>UA.90.F95</num>
+                </titleproper>
+                <author>Finding aid prepared by Marianne Kasica.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>May 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-09-14T13:59-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John A. Nietz Papers</unittitle>
+            <unitid>UA.90.F95</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>18.55 linear feet</extent>
+                <extent>(19 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1931/1960" type="bulk">Bulk, 1931-1960</unitdate>
+            <unitdate normal="1800/1970" type="inclusive">1800-1970</unitdate>
+            <abstract id="ref413" label="Abstract">John A. Nietz was a professor in the School of Education at the University of Pittsburgh from 1926 to his retirement in 1958 and was renowned for his collection of old school textbooks.</abstract>
+            <origination label="creator">
+                <persname source="naf">Nietz, John A. (John Alfred), 1888-</persname>
+            </origination>
+        </did>
+        <processinfo id="ref412">
+            <head>Processing Information</head>
+            <p>This collection was processed by Marianne Kasica from September 2013-May 2014. Prior organization was done while the collection was housed in the Special Collections Department.</p>
+        </processinfo>
+        <userestrict id="ref411">
+            <head>Copyright</head>
+            <p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>
+        </userestrict>
+        <accessrestrict id="ref410">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref409">
+            <head>Acquisition Information</head>
+            <p>Gift of John A. Nietz in 1958.</p>
+        </acqinfo>
+        <bioghist id="ref407">
+            <head>Biography</head>
+            <p>John A. Nietz was a professor in the School of Education at the University of Pittsburgh from 1926 to his retirement in 1958 and was renowned for his research on the history of education and his collection of old school textbooks.</p>
+            <p>Nietz was born near Toledo, Ohio, in 1888. He earned an A.B. degree at Ohio Northern University in 1914, a M.A. at Ohio State University in 1919, and a Ph.D. in Education at the University of Chicago in 1933. During his stay at the University of Chicago, Nietz studied under the famous philosopher and educational theorist, John Dewey.</p>
+            <p>Nietz was married to Ruby K. Nietz, who died in 1953, and was the father of Martha Nietz (Stoops). He later married Florence Metcalf Nietz. Nietz held several positions prior to his appointment at Pitt including a teacher at Wood County, Ohio, public schools, Superintendent at Maumee, Ohio, and Perrysburg, Ohio, public schools and Dean of the Murphy Collegiate Institute in Sevierville, Tennessee.</p>
+            <p>His research interests were many and included the history of public education, school administration, international education and old school textbooks. When he retired in 1958, he founded the Nietz Old Textbook Collection by donating his 9,000 volume library of early primary and secondary school texts to the library of the University of Pittsburgh. He had acquired the texts to demonstrate the history of teaching in the early years of the United States. During his career, Dr. Nietz directed or advised over 30 dissertations and master's theses based upon the collection. Dr. Nietz died in 1970.</p>
+        </bioghist>
+        <scopecontent id="ref36">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains the papers of John A. Nietz, a professor in the School of Education at the University of Pittsburgh. Much of the collection deals with Nietz' correspondence with students and educators and with the acquisition of the Nietz Old Textbook Collection. In addition there are research files both for his teaching career as well as his scholarly publications. Included is also correspondence about the following organizations, Pennsylvania Association for Adult Education; Pennsylvania State Education Association; Pittsburgh Council on Intercultural Education and Phi Delta Kappa.</p>
+        </scopecontent>
+        <custodhist id="ref426">
+            <head>Custodial History</head>
+            <p>The Nietz Papers were housed in the Special Collections department until their transfer to the University Archives in 2013.</p>
+        </custodhist>
+        <separatedmaterial id="ref318">
+            <head>Separated Material</head>
+            <p>Master's Thesis: 
+                <title render="italic">Development of Public Secondary Education in Pittsburgh, Pennsylvania</title> by Edith R. Wilkinson was transferred to 
+                <title render="bold">University of Pittsburgh Student Manuscripts Collection</title> UA 90.9.22-T</p>
+            <p>Manuscript: 
+                <title render="italic">University Extension</title> by C. Stanton Belfour was transferred to the University Archives Personal Files under Belfour, C. Stanton.</p>
+        </separatedmaterial>
+        <altformavail id="ref452">
+            <head>Existence and Location of Copies</head>
+            <p>Digital reproductions of selected textbooks from the 19th Century Schoolbooks Collection are available electronically at 
+                <extref ns2:href="http://digital.library.pitt.edu/nietz/">http://digital.library.pitt.edu/nietz/</extref>.</p>
+        </altformavail>
+        <arrangement id="ref453">
+            <head>Arrangement</head>
+            <p>The collection is arranged into nine series:</p>
+            <p>Series I. Professional Correspondence</p>
+            <p>Series II. Personal Correspondence</p>
+            <p>Series III. Book Correspondence</p>
+            <p>Series IV. Manuscripts, Drafts, Articles, Chapters and Notes</p>
+            <p>Series V. Research Files</p>
+            <p>Series VI. Teaching Materials</p>
+            <p>Series VII. Personal Materials</p>
+            <p>Series VIII. Photographs</p>
+            <p>Series IX. Artifacts</p>
+        </arrangement>
+        <prefercite id="ref454">
+            <head>Preferred Citation</head>
+            <p>John A. Nietz Papers, 1800-1970, UA.90.F95, University Archives, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="naf">Morgan, Gilbert, 1791-1875 -- Speeches</persname>
+            <persname source="naf">Nietz, John A. (John Alfred), 1888-</persname>
+            <corpname source="naf">University of Pittsburgh. School of Education. -- Faculty</corpname>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Education -- United States -- History</subject>
+            <subject source="ulstag">Faculty papers</subject>
+            <title source="local">John A. Nietz old textbook collection</title>
+            <genreform source="aat">Manuscripts (Document genre)</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Syllabi</genreform>
+            <subject source="lcsh">Textbooks -- United States -- Collectors and collecting</subject>
+            <subject source="ulstag">University of Pittsburgh</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Professional Correspondence</unittitle>
+                    <unitid>I.</unitid>
+                </did>
+                <scopecontent id="ref3">
+                    <head>Scope and Content Notes</head>
+                    <p>This series features the professional correspondence of John Nietz. Most of these letters deal with teaching at the University, oversight of dissertations, teacher training and evaluations, and job placement for graduates of Pittsburgh as well as other universities. The letters during the war years, 1940-1949, reflect correspondence about studies interrupted by military service.</p>
+                </scopecontent>
+                <c02 id="ref4" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3268001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid3268001" type="Folder">1</container>
+                        <unitdate>1922-1926</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3268002" type="Folder" label="Mixed materials">2-4</container>
+                        <unitdate>1927-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3268005" type="Folder" label="Mixed materials">5-14</container>
+                        <unitdate>1930-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3268015" type="Folder" label="Mixed materials">15-24</container>
+                        <unitdate>1940-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3269001" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid3269001" type="Folder">1-11</container>
+                        <unitdate>1945-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3271002" type="Folder" label="Mixed materials">12-27</container>
+                        <unitdate>1950-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3310001" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid3310001" type="Folder">1-2</container>
+                        <unitdate>1959-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3310003" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1961-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>1963-1964</unittitle>
+                        <container id="cid3310004" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3310005" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1965-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3310006" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1972-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Undated</unittitle>
+                        <container id="cid3312001" type="Folder" label="Mixed materials">7-10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref55" level="series">
+                <did>
+                    <unittitle>Personal Correspondence</unittitle>
+                    <unitid>II.</unitid>
+                </did>
+                <scopecontent id="ref447">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains correspondence that is of a more personal nature to family members and close friends. It is possible that there is some correspondence with people who were personal friends as well as colleagues.</p>
+                </scopecontent>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312002" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid3312002" type="Folder">11</container>
+                        <unitdate>1929-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>1936-1939</unittitle>
+                        <container id="cid3312003" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312004" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1939-1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312005" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1941-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>1946-1950</unittitle>
+                        <container id="cid3312006" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312008" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1951-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312007" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1956-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312009" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1961-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312010" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1966-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3312011" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>Undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref66" level="series">
+                <did>
+                    <unittitle>Book Correspondence</unittitle>
+                    <unitid>III.</unitid>
+                </did>
+                <scopecontent id="ref427">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains correspondence on the acquisition of the Old Textbook collection. While Nietz had a substantial collection of early text books from 1922-1929, the acquisition activity increases in the 1930's and 1940's and then tapers off in the 1950's.</p>
+                </scopecontent>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3318002" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid3318002" type="Folder">21-28</container>
+                        <unitdate>1931-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3320001" type="Folder" label="Mixed materials">29-34</container>
+                        <unitdate>1940-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3325001" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid3325001" type="Folder">1-4</container>
+                        <unitdate>1946-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3325005" type="Folder" label="Mixed materials">5-10</container>
+                        <unitdate>1950-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3325011" type="Folder" label="Mixed materials">11-15</container>
+                        <unitdate>1956-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3325016" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1961-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3325017" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>1966-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3325018" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1971-1980</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref100" level="series">
+                <did>
+                    <unittitle>Manuscripts, Drafts, Articles, Chapters and Notes</unittitle>
+                    <unitid>IV.</unitid>
+                </did>
+                <scopecontent id="ref448">
+                    <head>Scope and Content Notes</head>
+                    <p>This series has manuscripts and drafts of various writings that Nietz wrote or shared authorship of. Often files are partial chapters and some remain unidentified.</p>
+                </scopecontent>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Old Textbooks</title></unittitle>
+                        <container id="cid3342001" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid3342001" type="Folder">19-25</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Old Textbooks</title></unittitle>
+                        <container id="cid3342002" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid3342002" type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Old Secondary School Textbooks</title></unittitle>
+                        <container id="cid3343001" type="Folder" label="Mixed materials">3-5</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Evolution of Old Secondary School Textbooks Flyers and Dust Jacket</unittitle>
+                        <container id="cid3345005" type="Folder" label="Mixed materials">5a</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Textbooks McGuffy Didn't Write</unittitle>
+                        <container id="cid3345001" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Old Secondary School Grammar Textbooks</unittitle>
+                        <container id="cid3345002" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>History or Women's Clubs in America</unittitle>
+                        <container id="cid3345003" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Adult Education</unittitle>
+                        <container id="cid3345004" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>A Gift of Old School Textbooks</unittitle>
+                        <container id="cid3345006" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Beginnings of the Idea of Educational Administration</unittitle>
+                        <container id="cid3345007" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Evolution of American School Textbooks</unittitle>
+                        <container id="cid3345008" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Evolution of American Arithmetic Textbooks</unittitle>
+                        <container id="cid3345009" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Early Education in Pittsburgh</unittitle>
+                        <container id="cid3345010" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Agricultural Extension Education</unittitle>
+                        <container id="cid3345011" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Development of Correspondence Education in the United States</unittitle>
+                        <container id="cid3345012" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Methodism on the Headwaters of the Ohio</unittitle>
+                        <container id="cid3352001" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Education of Adult Prisoners</unittitle>
+                        <container id="cid3352002" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Experiences of a Book Collector</unittitle>
+                        <container id="cid3352003" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Development of Reading Textbooks</unittitle>
+                        <container id="cid3352004" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Kingdom of the Mind</unittitle>
+                        <container id="cid3352005" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Nietz Old Book Collection</unittitle>
+                        <container id="cid3352006" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>History of Reform Jewish Education in America</unittitle>
+                        <container id="cid3352007" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>More Students Taking Science and Mathematics</unittitle>
+                        <container id="cid3352008" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Schools of Western Europe</unittitle>
+                        <container id="cid3352009" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Secondary Education</unittitle>
+                        <container id="cid3352010" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Guiding Principles in Teaching the Social Studies</unittitle>
+                        <container id="cid3352011" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Development of Physiology Textbooks</unittitle>
+                        <container id="cid3352012" type="Folder" label="Mixed materials">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Europe: Post World War II Education</unittitle>
+                        <container id="cid3352013" type="Folder" label="Mixed materials">29-29a</container>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>A Philosophy of Education for Pennsylvania</unittitle>
+                        <container id="cid3352014" type="Folder" label="Mixed materials">30</container>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Education in Pennsylvania</unittitle>
+                        <container id="cid3352015" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Good Citizenship Education</unittitle>
+                        <container id="cid3352016" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Education and National Defense</unittitle>
+                        <container id="cid3354002" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>European Schools (Published Interview)</unittitle>
+                        <container id="cid3354001" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>More High School Students Taking Basic Subjects (Criticism)</unittitle>
+                        <container id="cid3354003" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Most Popular American Histories</unittitle>
+                        <container id="cid3354004" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>University of Pittsburgh Historical Writings</unittitle>
+                        <container id="cid3354005" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Content Notes</head>
+                        <p>Includes two essays: "Early Pitt Head an Pioneer in Professional Education" (about Gilbert Morgan), "Origin and Development of the University of Pittsburgh" and a report for the School of Education.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>History of Education</unittitle>
+                        <container id="cid3363022" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid3363022" type="Folder">1-3a</container>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>History of Education in Pennsylvania</unittitle>
+                        <container id="cid3363023" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Forward Look for Teacher Training Institutions</unittitle>
+                        <container id="cid3363024" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>History of Education in the U.S.</unittitle>
+                        <container id="cid3363025" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Assorted Histories Manuscript Chapters</unittitle>
+                        <container id="cid3363026" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Values and Objectives in Teaching Education (partial)</unittitle>
+                        <container id="cid3363027" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Visual Aids in Teaching Social Studies</unittitle>
+                        <container id="cid3363028" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Why Do Textbooks Get Bigger?</unittitle>
+                        <container id="cid3363029" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Why the Longevity of the McGuffy Reader?</unittitle>
+                        <container id="cid3363030" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Workers' Education</unittitle>
+                        <container id="cid3363031" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Evolution of the Teaching of Civil Government in the U.S.</unittitle>
+                        <container id="cid3370001" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Story of Theater in America</unittitle>
+                        <container id="cid3370002" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Student Life in Schools of the Ohio Valley Ninety Years Ago,</unittitle>
+                        <container id="cid3370003" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Some Findings of Old Textbook Analyses</unittitle>
+                        <container id="cid3370004" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Manuscripts on Consumers' Education, Academic Freedom, Language Arts, New England Academies</unittitle>
+                        <container id="cid3370005" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Terms in History of Education</unittitle>
+                        <container id="cid3370006" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Book Reviews</unittitle>
+                        <container id="cid3494009" type="Folder" label="Mixed materials">18a</container>
+                        <unitdate>1954</unitdate>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">Beginnings of Bucknell University</title>; 
+                            <title render="italic">Cultural History of Western Education</title> and 
+                            <title render="italic">Development of Standards in Secondary and Higher Education</title></p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref406" level="file">
+                    <did>
+                        <unittitle>Nietz Textbook Collection typescript</unittitle>
+                        <container id="cid3529009" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid3529009" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref425" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">American School Board Journal</title> issues with Nietz Articles</unittitle>
+                        <container id="cid3552002" type="Box" label="Mixed materials">17</container>
+                        <container parent="cid3552002" type="Folder">1</container>
+                        <unitdate>1921-1930</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref155" level="series">
+                <did>
+                    <unittitle>Research Files</unittitle>
+                    <unitid>V.</unitid>
+                </did>
+                <scopecontent id="ref428">
+                    <head>Scope and Content Notes</head>
+                    <p>Nietz' research interests were varied but include public school administration, history of education in the U.S. and abroad, non traditional education such as correspondence schools or prison education and testing methods. Nietz travelled in Europe and met with ministers of education to collect information about educational systems there. It was difficult to determine Research Files versus Teaching Files in some cases so there will be some overlap between this and the next series, Teaching Files.</p>
+                </scopecontent>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Research in Adult Education</unittitle>
+                        <container id="cid3370008" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid3370008" type="Folder">19-23a</container>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Content Notes</head>
+                        <p>Includes Pennsylvania and Pittsburgh</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Poster of Public Education in the U.S.,</unittitle>
+                        <container id="cid3370007" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>American Youth Commission</unittitle>
+                        <container id="cid3370009" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>California Test Bureau, Aptitude and Other Test Information</unittitle>
+                        <container id="cid3370010" type="Folder" label="Mixed materials">26-30</container>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>California Test Bureau, Samples of Tests</unittitle>
+                        <container id="cid3377001" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid3377001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>California Test Bureau, Reports and Reviews</unittitle>
+                        <container id="cid3377002" type="Folder" label="Mixed materials">2-3</container>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Cambridge University Booklets,</unittitle>
+                        <container id="cid3377003" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>C.H. Stoelting Co.</unittitle>
+                        <container id="cid3377004" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Citizenship</unittitle>
+                        <container id="cid3377005" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Civilian Conservation Corps</unittitle>
+                        <container id="cid3377006" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Comparative Education</unittitle>
+                        <container id="cid3377007" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Correspondence Courses</unittitle>
+                        <container id="cid3377008" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Wesley Barnes Derrick Memorial Booklet</unittitle>
+                        <container id="cid3377009" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Early American Textbooks</unittitle>
+                        <container id="cid3377010" type="Folder" label="Mixed materials">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Educational Books,</unittitle>
+                        <container id="cid3377011" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1947-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Educational Test Bureau</unittitle>
+                        <container id="cid3377012" type="Folder" label="Mixed materials">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Education and National Defense,</unittitle>
+                        <container id="cid3377013" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1940-1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Education in Argentina</unittitle>
+                        <container id="cid3377014" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Education in Austria</unittitle>
+                        <container id="cid3377015" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Education in Bolivia</unittitle>
+                        <container id="cid3377016" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>Education in Bulgaria, School Certificate,</unittitle>
+                        <container id="cid3379001" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Education in Chile</unittitle>
+                        <container id="cid3379002" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Education in China,</unittitle>
+                        <container id="cid3379003" type="Folder" label="Mixed materials">20</container>
+                        <unitdate>1935-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Education in Denmark</unittitle>
+                        <container id="cid3379004" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Education in Ecuador</unittitle>
+                        <container id="cid3379005" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>Education in Egypt,</unittitle>
+                        <container id="cid3379006" type="Folder" label="Mixed materials">23</container>
+                        <unitdate>1036-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Education in Estonia,</unittitle>
+                        <container id="cid3379007" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1926</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Education in France</unittitle>
+                        <container id="cid3382002" type="Folder" label="Mixed materials">25-26</container>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>Education in Germany</unittitle>
+                        <container id="cid3382001" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Education in Hungary, Teachers Diploma,</unittitle>
+                        <container id="cid3382003" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Education in India,</unittitle>
+                        <container id="cid3382004" type="Folder" label="Mixed materials">29</container>
+                        <unitdate>1954-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Education in Isarel and Palestine,</unittitle>
+                        <container id="cid3382005" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1948-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>Education in Italy</unittitle>
+                        <container id="cid3382006" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Education in Japan,</unittitle>
+                        <container id="cid3382007" type="Folder" label="Mixed materials">32-33</container>
+                        <unitdate>1943-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>Education in Latin America,</unittitle>
+                        <container id="cid3382008" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid3382008" type="Folder">1</container>
+                        <unitdate>1936-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>Education in the Netherlands,</unittitle>
+                        <container id="cid3382009" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1954-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Edcuation in Norway,</unittitle>
+                        <container id="cid3382010" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1940-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>Education in Panama,</unittitle>
+                        <container id="cid3382011" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1939-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Education in Poland,</unittitle>
+                        <container id="cid3382012" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1921-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>Education in Romania, Diploma,</unittitle>
+                        <container id="cid3382013" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>Education in Russia</unittitle>
+                        <container id="cid3382014" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>Education in Sweden</unittitle>
+                        <container id="cid3382015" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Education in Switzerland,</unittitle>
+                        <container id="cid3382016" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1948-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>Education in Taiwan,</unittitle>
+                        <container id="cid3384001" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>Education in Thailand,</unittitle>
+                        <container id="cid3384002" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>Education in Turkey,</unittitle>
+                        <container id="cid3384003" type="Folder" label="Mixed materials">12</container>
+                        <unitdate>1952-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Education in the United Kingdom,</unittitle>
+                        <container id="cid3384004" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1890-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>History of Education in New York</unittitle>
+                        <container id="cid3388001" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Illinios Pamplets,</unittitle>
+                        <container id="cid3388002" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Educational Serials,</unittitle>
+                        <container id="cid3388003" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1949-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Aptitude Test Brochures</unittitle>
+                        <container id="cid3388004" type="Folder" label="Mixed materials">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>Posters,</unittitle>
+                        <container id="cid3388005" type="Folder" label="Mixed materials">18</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                    <scopecontent id="ref213">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">United States in Facts</title> and 
+                            <title render="italic">World in Facts</title>.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>General Electric Company Education and Training Brochures,</unittitle>
+                        <container id="cid3388006" type="Folder" label="Mixed materials">19</container>
+                        <unitdate>1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>Report Cards</unittitle>
+                        <container id="cid3388007" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>History of Education Chart,</unittitle>
+                        <container id="cid3388008" type="Folder" label="Mixed materials">21</container>
+                        <unitdate>1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>History of Education Society Membership Lists,</unittitle>
+                        <container id="cid3388009" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1962-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Pennsylvania,</unittitle>
+                        <container id="cid3388010" type="Folder" label="Mixed materials">22-23</container>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>Pittsburgh</unittitle>
+                        <container id="cid3388011" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Irene Kaufmann Settlement Memorabilia</unittitle>
+                        <container id="cid3388012" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>West Virginia</unittitle>
+                        <container id="cid3388013" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>United States</unittitle>
+                        <container id="cid3388014" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Mathematics</unittitle>
+                        <container id="cid3394001" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid3394001" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Joseph Ray, Mathematician</unittitle>
+                        <container id="cid3394002" type="Folder" label="Mixed materials">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Intergroup Relations, Pittsburg Workshop,</unittitle>
+                        <container id="cid3397001" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>M.A.I.N. Test</unittitle>
+                        <container id="cid3397002" type="Folder" label="Mixed materials">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>William Holmes McGuffey</unittitle>
+                        <container id="cid3397003" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>Drawing and Lettering Excercises</unittitle>
+                        <container id="cid3403001" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Teaching Certificates, Maine,</unittitle>
+                        <container id="cid3403002" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1869, 1874</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Teaching Supplies Advertisments</unittitle>
+                        <container id="cid3403003" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Essay: 
+                            <title render="italic">Pay Your Teacher</title></unittitle>
+                        <container id="cid3403004" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>Philosophy of Voice</unittitle>
+                        <container id="cid3403005" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Flyer, Plumbcreek Normal School,</unittitle>
+                        <container id="cid3403006" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>1874</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Primary Spelling Lessons</unittitle>
+                        <container id="cid3403007" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Creative Problem Solving,</unittitle>
+                        <container id="cid3455001" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1059-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="file">
+                    <did>
+                        <unittitle>Parent Teacher Association,</unittitle>
+                        <container id="cid3403008" type="Folder" label="Mixed materials">14</container>
+                        <unitdate>1940-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>Reading exams</unittitle>
+                        <container id="cid3403009" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>Religion and Education,</unittitle>
+                        <container id="cid3403010" type="Folder" label="Mixed materials">16-17</container>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Educational Research</unittitle>
+                        <container id="cid3403011" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>Methods of Research in Education</unittitle>
+                        <container id="cid3417001" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>School and Society Articles</unittitle>
+                        <container id="cid3417002" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>School Life Articles</unittitle>
+                        <container id="cid3417003" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>School Work Assignments,</unittitle>
+                        <container id="cid3417004" type="Folder" label="Mixed materials">22</container>
+                        <unitdate>1890, 1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>Sign Language Poster, France and U.S.</unittitle>
+                        <container id="cid3417005" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>Standardized Monthly Curriculum Tests</unittitle>
+                        <container id="cid3417006" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>Posters, State Child Labor and Compulsory School Attendance,</unittitle>
+                        <container id="cid3417007" type="Folder" label="Mixed materials">25</container>
+                        <unitdate>1926</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Study of Diagnostic and Remedial Procedures in a Reading Clinic Laboratory School</title>, by Marjorie Seddon Johnson</unittitle>
+                        <container id="cid3417008" type="Folder" label="Mixed materials">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>Test Service Brochures</unittitle>
+                        <container id="cid3417009" type="Folder" label="Mixed materials">27</container>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>Impact of War on Education,</unittitle>
+                        <container id="cid3426001" type="Folder" label="Mixed materials">28</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>American Theater</unittitle>
+                        <container id="cid3426002" type="Folder" label="Mixed materials">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Menace of the Movies</title>,</unittitle>
+                        <container id="cid3426003" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>ca 1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>Psychological Corporation Test Catalogs,</unittitle>
+                        <container id="cid3426004" type="Folder" label="Mixed materials">30</container>
+                        <unitdate>1956-1960, 1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>Pitt Related Items</unittitle>
+                        <container id="cid3426005" type="Folder" label="Mixed materials">31</container>
+                    </did>
+                    <scopecontent id="ref256">
+                        <head>Scope and Content Notes</head>
+                        <p>
+                            <title render="italic">To the Secondary Teacher</title>, Summer Courses for secondary school teachers at Pitt, 1937.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Vocabulary and Reading</unittitle>
+                        <container id="cid3426006" type="Folder" label="Mixed materials">32</container>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>Education of Women</unittitle>
+                        <container id="cid3426007" type="Folder" label="Mixed materials">33</container>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>Connellsville Baptist Female Sewing Society Secretary's Book,</unittitle>
+                        <container id="cid3426008" type="Folder" label="Mixed materials">34</container>
+                        <unitdate>1849</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>Picturesque B &amp; O Railroad Brochure</unittitle>
+                        <container id="cid3426009" type="Folder" label="Mixed materials">34</container>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>University of Chicago</unittitle>
+                        <container id="cid3426010" type="Folder" label="Mixed materials">35</container>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>World Book Company Test Brochures</unittitle>
+                        <container id="cid3426011" type="Folder" label="Mixed materials">36</container>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>William B. Johnson</unittitle>
+                        <container id="cid3426012" type="Folder" label="Mixed materials">37</container>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>Hobby Club of Pittsburgh, Constitution,</unittitle>
+                        <container id="cid3426013" type="Folder" label="Mixed materials">38</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>University of London</unittitle>
+                        <container id="cid3426014" type="Folder" label="Mixed materials">39</container>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="file">
+                    <did>
+                        <unittitle>Phi Delta Kappa, Xi Chapter, University of Pittsburgh,</unittitle>
+                        <container id="cid3426015" type="Folder" label="Mixed materials">40</container>
+                        <unitdate>1926-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="file">
+                    <did>
+                        <unittitle>Kappa Phi Kappa,</unittitle>
+                        <container id="cid3426016" type="Folder" label="Mixed materials">41</container>
+                        <unitdate>1927-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="otherlevel">
+                    <did>
+                        <unittitle>Books and Booklets on Education Research</unittitle>
+                    </did>
+                    <c03 id="ref270" level="file">
+                        <did>
+                            <unittitle>Education in Panama</unittitle>
+                            <container id="cid3455002" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid3455002" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="file">
+                        <did>
+                            <unittitle>Education in Pennsylvania</unittitle>
+                            <container id="cid3455003" type="Folder" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="file">
+                        <did>
+                            <unittitle>Education in Poland</unittitle>
+                            <container id="cid3455004" type="Folder" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="file">
+                        <did>
+                            <unittitle>Education in Spain</unittitle>
+                            <container id="cid3455005" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="file">
+                        <did>
+                            <unittitle>Education in Sweden</unittitle>
+                            <container id="cid3455006" type="Folder" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="file">
+                        <did>
+                            <unittitle>Education in the Dominican Republic</unittitle>
+                            <container id="cid3458001" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="file">
+                        <did>
+                            <unittitle>Education in the Netherlands</unittitle>
+                            <container id="cid3458002" type="Folder" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="file">
+                        <did>
+                            <unittitle>Education in Turkey</unittitle>
+                            <container id="cid3458003" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="file">
+                        <did>
+                            <unittitle>International Correspondece Schools</unittitle>
+                            <container id="cid3458004" type="Folder" label="Mixed materials">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="file">
+                        <did>
+                            <unittitle>Jan Amos Komensky (Comenius)</unittitle>
+                            <container id="cid3458005" type="Folder" label="Mixed materials">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="file">
+                        <did>
+                            <unittitle>Moonlight School Study,</unittitle>
+                            <container id="cid3458006" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1917-1918</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="file">
+                        <did>
+                            <unittitle>National Home Study Manual and Directory,</unittitle>
+                            <container id="cid3458007" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1947, 1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="file">
+                        <did>
+                            <unittitle>Rhythm Reading</unittitle>
+                            <container id="cid3458008" type="Folder" label="Mixed materials">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">The Delineator, a Journal of Fashion, Culture and Fine Arts</title>,</unittitle>
+                            <container id="cid3590001" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>January 1894</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="file">
+                        <did>
+                            <unittitle>Reviews in 
+                                <title render="italic">Educational Forum</title></unittitle>
+                            <container id="cid3458009" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="file">
+                        <did>
+                            <unittitle>Pennsylvania Railroad Training,</unittitle>
+                            <container id="cid3458010" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="file">
+                        <did>
+                            <unittitle>United Steelworkers of America training manual,</unittitle>
+                            <container id="cid3458011" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="file">
+                        <did>
+                            <unittitle>Westinghouse Electric Company education programs,</unittitle>
+                            <container id="cid3458012" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1948-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="file">
+                        <did>
+                            <unittitle>Education in Cuba</unittitle>
+                            <container id="cid3462001" type="Folder" label="Mixed materials">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="file">
+                        <did>
+                            <unittitle>Education in Cuba</unittitle>
+                            <container id="cid3462002" type="Folder" label="Mixed materials">20</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="file">
+                        <did>
+                            <unittitle>Edcuation in India</unittitle>
+                            <container id="cid3462003" type="Folder" label="Mixed materials">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="file">
+                        <did>
+                            <unittitle>Education in Japan</unittitle>
+                            <container id="cid3462004" type="Folder" label="Mixed materials">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="file">
+                        <did>
+                            <unittitle>Education in Norway</unittitle>
+                            <container id="cid3462005" type="Folder" label="Mixed materials">23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="file">
+                        <did>
+                            <unittitle>Adult Education</unittitle>
+                            <container id="cid3462006" type="Folder" label="Mixed materials">24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="file">
+                        <did>
+                            <unittitle>Workbook with inscription: W.E. Masoner</unittitle>
+                            <container id="cid3462007" type="Folder" label="Mixed materials">25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="file">
+                        <did>
+                            <unittitle>Education Journal issues</unittitle>
+                            <container id="cid3494006" type="Box" label="Mixed materials">13</container>
+                            <container parent="cid3494006" type="Folder">7</container>
+                            <unitdate>1829, 1839</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref295" level="otherlevel">
+                    <did>
+                        <unittitle>Curiosities</unittitle>
+                    </did>
+                    <scopecontent id="ref429">
+                        <head>Scope and Content Notes</head>
+                        <p>This section contains a variety of unusual items related to education.</p>
+                    </scopecontent>
+                    <c03 id="ref297" level="file">
+                        <did>
+                            <unittitle>Multiplicatiom Table,</unittitle>
+                            <container id="cid3473001" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid3473001" type="Folder">1</container>
+                            <unitdate>1857</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="file">
+                        <did>
+                            <unittitle>Paper Currency,</unittitle>
+                            <container id="cid3473002" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1862-1864</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="file">
+                        <did>
+                            <unittitle>Aprobation Tokens,</unittitle>
+                            <container id="cid3473003" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1866</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="file">
+                        <did>
+                            <unittitle>Lancaster County Bank Checks</unittitle>
+                            <container id="cid3473004" type="Folder" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="file">
+                        <did>
+                            <unittitle>Lottery Tickets,</unittitle>
+                            <container id="cid3473005" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1927-1834</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="file">
+                        <did>
+                            <unittitle>Reward of Merit</unittitle>
+                            <container id="cid3473006" type="Folder" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="file">
+                        <did>
+                            <unittitle>E.P. Carpenter Organ Warranty,</unittitle>
+                            <container id="cid3473007" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1883</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="file">
+                        <did>
+                            <unittitle>Knitting Instructions</unittitle>
+                            <container id="cid3473008" type="Folder" label="Mixed materials">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Elements of Logic</title> by H. Coppee,</unittitle>
+                            <container id="cid3473009" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1857</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="file">
+                        <did>
+                            <unittitle>Mary Carlton Nash Mathematics Journals,</unittitle>
+                            <container id="cid3474001" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1825, 1827</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="file">
+                        <did>
+                            <unittitle>Thaddeus Stevens Speech Against the Repeal of Public Education,</unittitle>
+                            <container id="cid3474002" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>1835</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="file">
+                        <did>
+                            <unittitle>Report on Public Instruction in Pennsylvania, by Rev. Gilbert Morgan,</unittitle>
+                            <container id="cid3474003" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1836</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="file">
+                        <did>
+                            <unittitle>Guidance Series, KDKA School of the Air, 
+                                <title render="italic">Let's Find a Vocation</title>,</unittitle>
+                            <container id="cid3474004" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>October 11, 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="file">
+                        <did>
+                            <unittitle>New German Text Copies,</unittitle>
+                            <container id="cid3475001" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>1808</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="file">
+                        <did>
+                            <unittitle>Stamps</unittitle>
+                            <container id="cid3475002" type="Folder" label="Mixed materials">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="file">
+                        <did>
+                            <unittitle>Notes, Bills of Sale, Ribbons, etc</unittitle>
+                            <container id="cid3475003" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>1800's</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="file">
+                        <did>
+                            <unittitle>Revolving Interest Table, A.F. Osterloh,</unittitle>
+                            <container id="cid3475004" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1840</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="file">
+                        <did>
+                            <unittitle>I.L. Robison Sales Book,</unittitle>
+                            <container id="cid3475005" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>1860</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref315" level="file">
+                        <did>
+                            <unittitle>Victor Frankel compsition Books,</unittitle>
+                            <container id="cid3475006" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>1922-1923</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="file">
+                        <did>
+                            <unittitle>Clarke's Cotton Nursery Rhymes</unittitle>
+                            <container id="cid3494003" type="Box" label="Mixed materials">13</container>
+                            <container parent="cid3494003" type="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="file">
+                        <did>
+                            <unittitle>English Primer,</unittitle>
+                            <container id="cid3494004" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>ca 1800's</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref353" level="file">
+                        <did>
+                            <unittitle>Arithmetic Journal,</unittitle>
+                            <container id="cid3494005" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1823</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref316" level="series">
+                <did>
+                    <unittitle>Teaching Materials</unittitle>
+                    <unitid>VI.</unitid>
+                </did>
+                <scopecontent id="ref430">
+                    <head>Scope and Content Notes</head>
+                    <p>This series includes materials that might have been used for teaching of his classes as well as examples and research from other people.</p>
+                </scopecontent>
+                <c02 id="ref317" level="file">
+                    <did>
+                        <unittitle>Outlines and Readings</unittitle>
+                        <container id="cid3475007" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid3475007" type="Folder">20-27</container>
+                    </did>
+                </c02>
+                <c02 id="ref319" level="file">
+                    <did>
+                        <unittitle>Examination and Dissertation Materials</unittitle>
+                        <container id="cid3475008" type="Folder" label="Mixed materials">28-29</container>
+                    </did>
+                </c02>
+                <c02 id="ref320" level="file">
+                    <did>
+                        <unittitle>Information on the School of Education and Classes</unittitle>
+                        <container id="cid3475009" type="Folder" label="Mixed materials">30-33</container>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="file">
+                    <did>
+                        <unittitle>Reports, Policies and Data about the School of Education</unittitle>
+                        <container id="cid3480001" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid3480001" type="Folder">1-5</container>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="file">
+                    <did>
+                        <unittitle>Dissertation Committees</unittitle>
+                        <container id="cid3480002" type="Folder" label="Mixed materials">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref323" level="file">
+                    <did>
+                        <unittitle>Comparative Education</unittitle>
+                        <container id="cid3484001" type="Folder" label="Mixed materials">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref324" level="file">
+                    <did>
+                        <unittitle>Adult Education</unittitle>
+                        <container id="cid3484002" type="Folder" label="Mixed materials">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="file">
+                    <did>
+                        <unittitle>History of Education</unittitle>
+                        <container id="cid3484003" type="Folder" label="Mixed materials">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref326" level="file">
+                    <did>
+                        <unittitle>Educational Administration</unittitle>
+                        <container id="cid3484004" type="Folder" label="Mixed materials">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref328" level="file">
+                    <did>
+                        <unittitle>Vocational Education</unittitle>
+                        <container id="cid3484005" type="Folder" label="Mixed materials">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref329" level="file">
+                    <did>
+                        <unittitle>National Survey of the Education of Teachers form,</unittitle>
+                        <container id="cid3487001" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1931-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref330" level="file">
+                    <did>
+                        <unittitle>History of Education</unittitle>
+                        <container id="cid3487002" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="file">
+                    <did>
+                        <unittitle>Eleventh Grade Teaching Units</unittitle>
+                        <container id="cid3487003" type="Folder" label="Mixed materials">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref332" level="file">
+                    <did>
+                        <unittitle>Educational Sociology</unittitle>
+                        <container id="cid3487004" type="Folder" label="Mixed materials">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="file">
+                    <did>
+                        <unittitle>Graduate Level Courses and Syllabi</unittitle>
+                        <container id="cid3487005" type="Folder" label="Mixed materials">17-18</container>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="file">
+                    <did>
+                        <unittitle>Examination Forms</unittitle>
+                        <container id="cid3487006" type="Folder" label="Mixed materials">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref335" level="file">
+                    <did>
+                        <unittitle>General Education</unittitle>
+                        <container id="cid3487007" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref336" level="file">
+                    <did>
+                        <unittitle>School of Education Requirements and Guidelines</unittitle>
+                        <container id="cid3487008" type="Folder" label="Mixed materials">21-21a</container>
+                    </did>
+                </c02>
+                <c02 id="ref337" level="file">
+                    <did>
+                        <unittitle>History of Education to 1400</unittitle>
+                        <container id="cid3487009" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref338" level="file">
+                    <did>
+                        <unittitle>History of American Education</unittitle>
+                        <container id="cid3487010" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref339" level="file">
+                    <did>
+                        <unittitle>School of Education Fields and Problems for Investigation, Suggested by Members of the Faculty,</unittitle>
+                        <container id="cid3487011" type="Folder" label="Mixed materials">24</container>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref446" level="file">
+                    <did>
+                        <unittitle>Elementary Chemistry Block Unit Plan, Pittsburgh Public Schools,</unittitle>
+                        <container id="cid3562014" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid3562014" type="Folder">8</container>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref438" level="otherlevel">
+                    <did>
+                        <unittitle>Curricula and Syllabi Developed by Chester A. Buckner</unittitle>
+                    </did>
+                    <c03 id="ref439" level="file">
+                        <did>
+                            <unittitle>Interests and Abilities of Pupils,</unittitle>
+                            <container id="cid3562008" type="Box" label="Mixed materials">12</container>
+                            <container parent="cid3562008" type="Folder">25</container>
+                            <unitdate>1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref440" level="file">
+                        <did>
+                            <unittitle>Program for Measurements in Secondary Schools,</unittitle>
+                            <container id="cid3562009" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref441" level="file">
+                        <did>
+                            <unittitle>Curriculum Materials: Planning Areas of Instruction,</unittitle>
+                            <container id="cid3562010" type="Folder" label="Mixed materials">27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref442" level="file">
+                        <did>
+                            <unittitle>Organization of Materials for High School Pupils,</unittitle>
+                            <container id="cid3562011" type="Folder" label="Mixed materials">28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref443" level="file">
+                        <did>
+                            <unittitle>High School Administration, part 1-2,</unittitle>
+                            <container id="cid3562012" type="Folder" label="Mixed materials">29-30</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref444" level="file">
+                        <did>
+                            <unittitle>Extra-Curricular Activities in Secondayr Schools,</unittitle>
+                            <container id="cid3562013" type="Folder" label="Mixed materials">31</container>
+                            <unitdate>1940</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref360" level="series">
+                <did>
+                    <unittitle>Personal Materials</unittitle>
+                    <unitid>VII.</unitid>
+                </did>
+                <scopecontent id="ref449">
+                    <head>Scope and Content Notes</head>
+                    <p>This series contains some files on various organizations that Nietz belonged to or had some interest in. In addition there are some of his speaking engagements, some materials on his daughter Martha and his composition books from the University of Chicago.</p>
+                </scopecontent>
+                <c02 id="ref361" level="file">
+                    <did>
+                        <unittitle>Pittsburgh Council on Intercultural Education,</unittitle>
+                        <container id="cid3502003" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid3502003" type="Folder">14-19</container>
+                        <unitdate>1944-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref362">
+                        <head>Scope and Content Notes</head>
+                        <p>Minutes, reports and other documents of the organization during Nietz' time as a member.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref364" level="file">
+                    <did>
+                        <unittitle>Speaking Engagements</unittitle>
+                        <container id="cid3502004" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref365" level="file">
+                    <did>
+                        <unittitle>Membership Cards</unittitle>
+                        <container id="cid3502005" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref366" level="file">
+                    <did>
+                        <unittitle>Committee on International Affairs Research</unittitle>
+                        <container id="cid3502006" type="Folder" label="Mixed materials">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref367" level="file">
+                    <did>
+                        <unittitle>World War Two and Misc.</unittitle>
+                        <container id="cid3502007" type="Folder" label="Mixed materials">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref368" level="file">
+                    <did>
+                        <unittitle>Bibliography</unittitle>
+                        <container id="cid3502008" type="Folder" label="Mixed materials">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref369" level="file">
+                    <did>
+                        <unittitle>Martha Nietz</unittitle>
+                        <container id="cid3514001" type="Folder" label="Mixed materials">25</container>
+                    </did>
+                </c02>
+                <c02 id="ref424" level="file">
+                    <did>
+                        <unittitle>Composition Books</unittitle>
+                        <container id="cid3552001" type="Box" label="Mixed materials">18</container>
+                        <container parent="cid3552001" type="Folder">1-24</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref370" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>VIII.</unitid>
+                </did>
+                <scopecontent id="ref450">
+                    <head>Scope and Content Notes</head>
+                    <p>The photographs are primarily of Nietz' professional and research interests. There is one file of family photos. The file called Assorted Photographs may possibly have family members as well as others.</p>
+                </scopecontent>
+                <c02 id="ref373" level="file">
+                    <did>
+                        <unittitle>Oversized Photographs of Book Collecting</unittitle>
+                        <container id="cid3514003" type="Box" label="Photographic images">14</container>
+                        <container parent="cid3514003" type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref374" level="file">
+                    <did>
+                        <unittitle>Early American Textbooks</unittitle>
+                        <container id="cid3516001" type="Folder" label="Photographic images">3-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref375" level="file">
+                    <did>
+                        <unittitle>Early Chemistry Textbooks, American</unittitle>
+                        <container id="cid3536009" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref376" level="file">
+                    <did>
+                        <unittitle>Pittsburgh School District, Schools Past and Present Exhibit</unittitle>
+                        <container id="cid3516002" type="Folder" label="Photographic images">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref377" level="file">
+                    <did>
+                        <unittitle>Moses Roy</unittitle>
+                        <container id="cid3516003" type="Folder" label="Photographic images">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref378" level="file">
+                    <did>
+                        <unittitle>Nietz Family</unittitle>
+                        <container id="cid3516004" type="Folder" label="Photographic images">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref379" level="file">
+                    <did>
+                        <unittitle>Assorted Photographs</unittitle>
+                        <container id="cid3516005" type="Folder" label="Photographic images">9</container>
+                    </did>
+                    <scopecontent id="ref380">
+                        <head>Scope and Content Notes</head>
+                        <p>McGuffy Memorial; Synn Family; Chart of Early Land Titles; Iatoollah a Hooshmail; Unidentifiled Girl; Higher Education in Poland</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref381" level="series">
+                <did>
+                    <unittitle>Artifacts</unittitle>
+                    <unitid>IX.</unitid>
+                </did>
+                <scopecontent id="ref451">
+                    <head>Scope and Content Notes</head>
+                    <p>Over the course of his professional and personal life Nietz collected various artifacts dealing with education. Some items in this series, while interesting, seem unrelated to his interests.</p>
+                </scopecontent>
+                <c02 id="ref383" level="file">
+                    <did>
+                        <unittitle>Johannes Marzall mathematics journal,</unittitle>
+                        <container id="cid3526001" type="Box" label="Text">16</container>
+                        <container parent="cid3526001" type="Folder">1</container>
+                        <unitdate>1796</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref384" level="file">
+                    <did>
+                        <unittitle>Mary Kreider Herbarium</unittitle>
+                        <container id="cid3526003" type="Folder" label="Text">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref385" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Gulliver's Travels</title>, English Classic Series, no. 60</unittitle>
+                        <container id="cid3526002" type="Folder" label="Text">3</container>
+                        <unitdate>1892</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref386" level="file">
+                    <did>
+                        <unittitle>Letter: Joseph Ray Family,</unittitle>
+                        <container id="cid3526004" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref387" level="file">
+                    <did>
+                        <unittitle>German postcards, bookplates and other</unittitle>
+                        <container id="cid3527001" type="Folder" label="Mixed materials">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref388" level="file">
+                    <did>
+                        <unittitle>Excerpt from 
+                            <title render="italic">Concise History of U.S.</title> by John McCulloch</unittitle>
+                        <container id="cid3527002" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1797</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref389" level="file">
+                    <did>
+                        <unittitle>Pupil's Homework,</unittitle>
+                        <container id="cid3527003" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>ca 1870</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref390" level="file">
+                    <did>
+                        <unittitle>Letter from Nicholas Pike to Mr. Price,</unittitle>
+                        <container id="cid3527004" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1790</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref391" level="file">
+                    <did>
+                        <unittitle>Tuition Payment for John Dalton by Michael Walsh,</unittitle>
+                        <container id="cid3527005" type="Folder" label="Mixed materials">8</container>
+                        <unitdate>1804</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref392" level="file">
+                    <did>
+                        <unittitle>Psalter Leaf,</unittitle>
+                        <container id="cid3527006" type="Folder" label="Mixed materials">9</container>
+                        <unitdate>1210</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref393" level="file">
+                    <did>
+                        <unittitle>Missal Leaf,</unittitle>
+                        <container id="cid3527007" type="Folder" label="Mixed materials">10</container>
+                        <unitdate>1480</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref394" level="file">
+                    <did>
+                        <unittitle>Sheet music,</unittitle>
+                        <container id="cid3527008" type="Folder" label="Mixed materials">11</container>
+                        <unitdate>ca 1400</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref395" level="file">
+                    <did>
+                        <unittitle>Arithmetic Excercise Book of Elizabeth Jane McDowell,</unittitle>
+                        <container id="cid3527009" type="Folder" label="Text">12</container>
+                        <unitdate>1831</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref396" level="file">
+                    <did>
+                        <unittitle>Tabula abcdariae pueriles, title page,</unittitle>
+                        <container id="cid3527010" type="Folder" label="Mixed materials">13</container>
+                        <unitdate>1544 (1549)</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref397" level="file">
+                    <did>
+                        <unittitle>Illuminated text, unknown origin</unittitle>
+                        <container id="cid3527011" type="Folder" label="Mixed materials">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref398" level="file">
+                    <did>
+                        <unittitle>Brooks's Reader title page,</unittitle>
+                        <container id="cid3529008" type="Folder" label="Mixed materials">15</container>
+                        <unitdate>1906</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref399" level="file">
+                    <did>
+                        <unittitle>Dictionary page,</unittitle>
+                        <container id="cid3529001" type="Folder" label="Mixed materials">16</container>
+                        <unitdate>1482</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref400" level="file">
+                    <did>
+                        <unittitle>Hammond Gazette (Point Lookout, MD) 1:42,</unittitle>
+                        <container id="cid3529002" type="Folder" label="Mixed materials">17</container>
+                        <unitdate>September 1, 1863</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref401" level="file">
+                    <did>
+                        <unittitle>Clippings, Religious Education and McGuffy Readers</unittitle>
+                        <container id="cid3529003" type="Folder" label="Mixed materials">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref402" level="file">
+                    <did>
+                        <unittitle>Feria Quinta, Feria Sextus,</unittitle>
+                        <container id="cid3529004" type="Folder" label="Mixed materials">19-19a</container>
+                        <unitdate>1551?</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref403" level="file">
+                    <did>
+                        <unittitle>Old School Books Exhibit Boards</unittitle>
+                        <container id="cid3529005" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref404" level="file">
+                    <did>
+                        <unittitle>Education in Great Britain Exhibit Placards</unittitle>
+                        <container id="cid3529006" type="Folder" label="Mixed materials">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref405" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">A Short Introduction to Grammer </title>Plackard</unittitle>
+                        <container id="cid3529007" type="Folder" label="Mixed materials">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref414" level="file">
+                    <did>
+                        <unittitle>Bricks from Samuel Reed Hall's Normal School in Concord Vermont,</unittitle>
+                        <container id="cid3536001" type="Box" label="Realia">17</container>
+                        <container parent="cid3536001" type="Item">1</container>
+                        <unitdate>1823</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref415" level="file">
+                    <did>
+                        <unittitle>Joseph Ray's Writing Slate,</unittitle>
+                        <container id="cid3536002" type="Item" label="Realia">2</container>
+                        <unitdate>1788</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref416" level="file">
+                    <did>
+                        <unittitle>Writing Slate (20x29 cm)</unittitle>
+                        <container id="cid3536003" type="Item" label="Realia">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref417" level="file">
+                    <did>
+                        <unittitle>Horn Book in Case</unittitle>
+                        <container id="cid3536004" type="Item" label="Realia">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref418" level="file">
+                    <did>
+                        <unittitle>St. Paul's Hornbook,</unittitle>
+                        <container id="cid3536005" type="Item" label="Realia">5</container>
+                        <unitdate>1729</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref419" level="file">
+                    <did>
+                        <unittitle>Early School Bell</unittitle>
+                        <container id="cid3536006" type="Item" label="Realia">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref420" level="file">
+                    <did>
+                        <unittitle>Countertop Bell</unittitle>
+                        <container id="cid3536007" type="Item" label="Realia">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref421" level="file">
+                    <did>
+                        <unittitle>Sierra Leone Kissi (pennies)</unittitle>
+                        <container id="cid3536008" type="Item" label="Realia">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref422" level="file">
+                    <did>
+                        <unittitle>McGuffy Reader Ceramic Ornament</unittitle>
+                        <container id="cid3536010" type="Item" label="Realia">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref423" level="file">
+                    <did>
+                        <unittitle>Samuel Pepys Faux Book</unittitle>
+                        <container id="cid3536011" type="Item" label="Realia">10</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
