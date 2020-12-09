@@ -1,9 +1,12 @@
 # Changelog
 
 ### 9/15/2020 commit
+Incorporate decode_values function + command line argument parser ([e0b0cdf](https://github.com/CaDatPitt/data-layers/commit/e0b0cdf77dce9cf28e6b90ae0d4563ac27ae9d52))
+
+### 9/15/2020 commit
 - Fix issues + clean up code + add documentation ([85a0dea9](https://github.com/CaDatPitt/data-layers/commit/85a0dea9589bc9717890f412c2c15ce72d1c6dc6#diff-106df2799d3d323a3f500ca1374c87a6))
 
-### 9/14/2020 commits
+### 9/14/2020 commit
 - Fix malformed selectors + shorten keys + rename maps ([5dce2872](https://github.com/CaDatPitt/data-layers/commit/5dce2872f21c4b01f2b7a192d3720976ecb6d216))
 
 ### 9/9/2020 commit
