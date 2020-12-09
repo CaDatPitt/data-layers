@@ -1,5 +1,10 @@
-pandas==0.25.1
-pymarc==3.1.13
-numpy==1.17.1
-beautifulsoup4==4.8.0
-lxml==4.4.1
+beautifulsoup4==4.9.1
+lxml==4.5.2
+numpy==1.19.1
+pandas==1.1.1
+pymarc==4.0.0
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+soupsieve==2.0.1
+xlrd==1.2.0
