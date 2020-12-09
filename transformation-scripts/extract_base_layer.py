@@ -1,15 +1,17 @@
+import argparse
 import datetime
-from bs4 import BeautifulSoup
-import glob
 import os
 import sys
+import glob
+from bs4 import BeautifulSoup
 from pymarc import MARCReader, record_to_xml
 import re
 import numpy as np
 import pandas as pd
 import data_layers_config
+import encoding_schemes
 
-def base_layer_maker(location, collection_type, collection_subtype):
+def base_layer_maker(location, collection_type, collection_subtype, decode=False):
     """
     Parses and extracts data from XML, processes and transforms data into a pandas DataFrame, and writes data to base layer CSV files.
 
@@ -89,6 +91,11 @@ def base_layer_maker(location, collection_type, collection_subtype):
             coll_df = (pd.merge(coll_df, coll_relsext_df, how='left', left_on=['finding_aid_id'], right_on=['coll_id'])).drop('coll_id', axis=1)
         if not item_df.empty and not item_relsext_df.empty:
             item_df = (pd.merge(item_df, item_relsext_df, how='left', left_on=['id'], right_on=['item_id'])).drop('item_id', axis=1)
+
+    # decode values in encoded columns
+    if decode:
+        coll_df = decode_values(coll_df)
+        item_df = decode_values(item_df)
 
     # create subdirectory in base-layers for that location
     newdir = "../base-layers/" + location
@@ -558,8 +565,105 @@ def omit_trailing_punct(text):
             text = text[0:-1]
     return text
 
+def decode_values(df):
+    """
+    Replaces encoded values in the specified dataset column(s) with the corresponding decoded values.
+
+    Parameters
+    ----------
+    file_location: str
+        a location or absolute path of the file to be used
+    column: str
+        a column name, as it appears in the file, containing the encoded values to be decoded
+
+    Returns
+    -------
+    None
+    """
+
+    # decode all listed encoded columns and keep count of all evaluated and decoded values
+    encoded_columns = {
+    'collection_language': ['iso639-2b'],
+    'language': ['iso639-2b'],
+    'geographic_coverage': ['marccountry', 'marcgac']
+    }
+    encoding_dict = {}
+
+    for column in encoded_columns.keys():
+        # build dictionary from appropriate encoding schemes for column
+        for encoding_scheme in encoded_columns[column]:
+            encoding_dict.update(encoding_schemes.LIST[encoding_scheme])
+
+        # pre-process and decode fields in column
+        value_count, decoded_value_count = 0, 0
+        try:
+            for i in df.index:
+                field_data = df.at[i, column]
+                field_list = []
+                decoded_field_list = []
+                if isinstance(field_data, str):
+                    field_list = (field_data).split('|||')
+                    for value in field_list:
+                        processed_value = value.strip('-\n\t ').lower()
+                        decoded_value = ""
+                        if value != "":
+                            value_count += 1
+                        for code in encoding_dict.keys():
+                            if processed_value == code:
+                                decoded_value = processed_value.replace(code, encoding_dict[code])
+                                decoded_value_count += 1
+                                break
+                            else:
+                                decoded_value = value
+                        decoded_field_list.append(decoded_value)
+                df.at[i, column] = "|||".join(set(decoded_field_list))
+        except:
+            continue
+
+        # report counts of evaluated values and decoded values in column
+        print(str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + column + "' column.")
+
+    return df
+
+def parse_arguments():
+    """
+    Parses command line arguments.
+
+    Parameters
+    ----------
+    None
+
+    Returns
+    -------
+    args: dict
+        dictionary of arguments
+    """
+    # Create argument parser
+    parser = argparse.ArgumentParser(
+        prog="extract_base_layer",
+        description="Parses and extracts data from XML, processes and transforms data into a pandas DataFrame, and writes data to base layer CSV files.",
+        epilog="To run the script, your command should be input as follows: python organize_files.py [location] [collection_type] [collection_subtype] (--decode)"
+        )
+    # Positional mandatory arguments
+    parser.add_argument("location", help="a folder name that can be found in the 'source-data' directory", type=str)
+    parser.add_argument("collection_type", help="a term specifying the type of collection for which data will be processed (valid options: 'archival', 'serial', 'monograph')", type=str, choices=['archival', 'serial', 'monograph'], metavar='collection_type')
+    parser.add_argument("collection_subtype", help="a term specifying the subtype of collection for which data will be processed (valid options: 'catalog,' 'digital')", type=str, choices=['catalog', 'digital'], metavar='collection_subtype')
+
+    # Optional arguments
+    parser.add_argument("--decode", help="decode encoded values (default=False)", default=False, action='store_true')
+
+    # Parse arguments
+    args = parser.parse_args()
+
+    return args
+
 # call main function
 if __name__ == '__main__':
-    if len(sys.argv) < 4:
-        sys.exit('When running as a script, you must provide three arguments: source collection name, collection type, and collection sub-type.')
-    base_layer_maker(sys.argv[1], sys.argv[2], sys.argv[3])
+    # parse the arguments
+    args = parse_arguments()
+    # raw print arguments
+    print("You are running the script with the following arguments:")
+    for a in args.__dict__:
+        print(str(a) + ": " + str(args.__dict__[a]))
+    # run function
+    base_layer_maker(args.location, args.collection_type, args.collection_subtype, args.decode)
