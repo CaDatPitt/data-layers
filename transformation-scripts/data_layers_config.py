@@ -27,7 +27,7 @@ EAD_MAP = {
 
 ARCHIVAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['mods > identifier[type=\"pitt\"]',]},
-    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type])',]},
     'creator': {'bs_exp':['mods > name',]},
     'contributor': {'bs_exp':['mods > name',]},
     'creation_date': {'bs_exp':['mods > originInfo > dateCreated',]},
@@ -51,7 +51,7 @@ ARCHIVAL_ITEM_MODS_MAP = {
 
 CATALOG_SERIAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['mods > recordInfo > recordIdentifier',]},
-    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type])',]},
     'uniform_title': {'bs_exp':['mods> titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['mods > titleInfo[type=\"alternative\"] > title',]},
     'enumeration_chronology': {'bs_exp':['mods > titleInfo > partNumber',]},
@@ -84,7 +84,7 @@ CATALOG_SERIAL_ITEM_MODS_MAP = {
 
 DIGITAL_SERIAL_ITEM_MODS_MAP = {
     'id': {'bs_exp':['mods > identifier[type=\"pitt\"]',]},
-    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type])',]},
     'uniform_title': {'bs_exp':['mods > titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['mods > titleInfo[type=\"alternative\"] > title',]},
     'enumeration_chronology': {'bs_exp':['mods > titleInfo > partNumber',]},
@@ -122,7 +122,7 @@ DIGITAL_SERIAL_ITEM_MODS_MAP = {
 
 CATALOG_MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':['recordIdentifier',]},
-    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type])',]},
     'uniform_title': {'bs_exp':['mods > titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['mods > titleInfo[type=\"alternative\"] > title',]},
     'creator': {'bs_exp':['mods > name',]},
@@ -153,7 +153,7 @@ CATALOG_MONOGRAPH_ITEM_MODS_MAP = {
 
 DIGITAL_MONOGRAPH_ITEM_MODS_MAP = {
     'id': {'bs_exp':['mods > identifier[type=\"pitt\"]',]},
-    'title':{'bs_exp':['mods > titleInfo:not([type]) > title', 'mods > titleInfo > subTitle', 'mods > titleInfo > nonSort',]},
+    'title':{'bs_exp':['mods > titleInfo:not([type])',]},
     'uniform_title': {'bs_exp':['mods > titleInfo[type=\"uniform\"] > title',]},
     'alternative_title': {'bs_exp':['mods > titleInfo[type=\"alternative\"] > title',]},
     'creator': {'bs_exp':['mods > name',]},
