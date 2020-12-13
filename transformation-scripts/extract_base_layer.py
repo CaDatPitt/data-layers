@@ -40,7 +40,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
     # start timer for program execution time
-    begin_time = datetime.datetime.now()
+    start_time = datetime.datetime.now()
 
     # validate arguments
     if not os.path.exists('../source-data/%s' % location):
@@ -79,9 +79,9 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     [coll_list, item_list, coll_relsext_list, item_relsext_list] = process_source_data(collection_type, collection_subtype, collection_dir, item_dir, relsext_dir)
 
     # convert output_rows to pandas DataFrames and use to_csv()
-    # write row to yml or md file
     coll_df = create_data_frame_from_list(coll_list)
     item_df = create_data_frame_from_list(item_list)
+
     coll_relsext_df = create_data_frame_from_list(coll_relsext_list)
     item_relsext_df = create_data_frame_from_list(item_relsext_list)
 
@@ -105,12 +105,12 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
         os.mkdir(newdir)
 
     # write collection and item DataFrames to CSV
-    coll_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_collection-base-layer.csv", 'w', encoding="utf-8", newline='')
+    coll_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_collection-base-layer.csv", 'w', encoding='utf-8', newline='')
     coll_csv.write(coll_df.to_csv(index=False))
     coll_csv.close()
 
-    item_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_item-base-layer.csv", 'w', encoding="utf-8", newline='')
-    item_csv.write(item_df.to_csv(index=False))
+    item_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_item-base-layer_" + collection_type + ".csv", 'w', encoding='utf-8', newline='')
+    item_csv.write(item_df.to_csv(index=False) )
     item_csv.close()
 
     # notify that program has completed successfully
@@ -118,7 +118,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
 
     # stop timer, then calculate and display program execution time
     end_time = datetime.datetime.now()
-    print("Execution Time: " + str(end_time - begin_time))
+    print("Execution Time: " + str(end_time - start_time))
 
     return
 
@@ -152,6 +152,7 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     # collection level
     collection_data = get_bs_from_xml(collection_dir, 'ead')
     collection_output_rows = []
+
     if collection_type == 'archival' or collection_subtype == 'digital':
         for x in collection_data:
             row = get_fields_from_bs(x, data_layers_config.EAD_MAP)
@@ -265,15 +266,15 @@ def get_bs_from_xml(_dir, source_type):
             with open(z, 'rb') as fh:
                 reader = MARCReader(fh)
                 for record in reader:
-                    xml = record_to_xml(record).decode("utf-8")
+                    xml = record_to_xml(record).decode('utf-8')
                     bs = BeautifulSoup(xml, "xml")
                     bs_objects.append(bs)
 
         # if file type is mods, ead, rdf, read as xml
         if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
-            with open(z, encoding="utf-8") as f:
+            with open(z, encoding='utf-8') as f:
                 xml = f.read()
-            bs = BeautifulSoup(xml, "xml")
+            bs = BeautifulSoup(xml, 'xml')
             bs_objects.append(bs)
 
     return bs_objects
@@ -322,21 +323,24 @@ def get_fields_from_bs(bs_object, field_dict):
 
             if key == 'title':
                 results = bs_object.select(exp)
-                title_value, subTitle_value, nonSort_value = "", "", ""
+                field_list = []
 
                 # check titleInfo child element names and get matched element values
                 # concatenate child element values with specified punctuation for formatting purposes
                 for result in results:
-                    if result.name == 'title':
-                        title_value = result.text.strip()
-                    if result.name == 'subTitle':
-                        if result.text != "" and (result.text)[0] == "(":
-                            subTitle_value = " " + result.text.strip()
-                        else:
-                            subTitle_value = ": " + result.text.strip()
-                    if result.name == 'nonSort':
-                        nonSort_value = ", " + result.text.strip()
-                field_data += title_value + subTitle_value + nonSort_value
+                    title_value, subTitle_value, nonSort_value = "", "", ""
+                    for child in result.children:
+                        if child.name == 'title':
+                            title_value = child.string.strip()
+                        if child.name == 'subTitle':
+                            if child.string != "" and child.string[0] == "(":
+                                subTitle_value = " " + child.string.strip()
+                            else:
+                                subTitle_value = ": " + child.string.strip()
+                        if child.name == 'nonSort':
+                            nonSort_value = ", " + child.string.strip()
+                    field_list.append(title_value + subTitle_value + nonSort_value)
+                field_data += "|||".join(field_list)
 
             if key == 'associated_name' or key == 'creator' or key == 'contributor' or key == 'depositor':
                 results = bs_object.select(exp)
