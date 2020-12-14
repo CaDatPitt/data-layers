@@ -10,6 +10,8 @@ import numpy as np
 import pandas as pd
 import data_layers_config
 import encoding_schemes
+from multiprocessing import Pool
+
 
 def base_layer_maker(location, collection_type, collection_subtype, decode=False):
     """
@@ -40,7 +42,8 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
     # start timer for program execution time
-    begin_time = datetime.datetime.now()
+    global BEGIN_TIME 
+    BEGIN_TIME = datetime.datetime.now()
 
     # validate arguments
     if not os.path.exists('../source-data/%s' % location):
@@ -118,7 +121,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
 
     # stop timer, then calculate and display program execution time
     end_time = datetime.datetime.now()
-    print("Execution Time: " + str(end_time - begin_time))
+    print("Execution Time: " + str(end_time - BEGIN_TIME))
 
     return
 
@@ -151,10 +154,12 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     # create rows of data in dictionaries
     # collection level
     collection_data = get_bs_from_xml(collection_dir, 'ead')
+
     collection_output_rows = []
     if collection_type == 'archival' or collection_subtype == 'digital':
         for x in collection_data:
             row = get_fields_from_bs(x, data_layers_config.EAD_MAP)
+
             collection_record_dict = {}
             for key in row.keys():
                 collection_record_dict[key] = (row[key])
@@ -162,27 +167,37 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
     # item level
     item_data = get_bs_from_xml(item_dir, 'mods')
+
     item_output_rows = []
 
+    print("Extracting fields from xml objects. Execution Time So Far: " + str(datetime.datetime.now() - BEGIN_TIME))
+    
+   
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
         for f in item_data:
-            for x in f.find_all('mods'):
-                if collection_type == 'archival':
-                    row = get_fields_from_bs(x, data_layers_config.ARCHIVAL_ITEM_MODS_MAP)
-                if collection_type == 'monograph':
-                    if collection_subtype == 'catalog':
-                        row = get_fields_from_bs(x, data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP)
-                    elif collection_subtype == 'digital':
-                        row = get_fields_from_bs(x, data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP)
+            records = f.find_all('mods')
+
+            #set config value ahead so pooling will work
+            if collection_type == 'archival':
+                config = data_layers_config.ARCHIVAL_ITEM_MODS_MAP
+            if collection_type == 'monograph':
+                if collection_subtype == 'catalog':
+                    config = data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP
+                elif collection_subtype == 'digital':
+                    config = data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP
                 elif collection_type == 'serial':
                     if collection_subtype == 'catalog':
-                        row = get_fields_from_bs(x, data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP)
+                        config = data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP
                     elif collection_subtype == 'digital':
-                        row = get_fields_from_bs(x, data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP)
-                item_record_dict = {}
-                for key in row.keys():
-                    item_record_dict[key] = row[key]
-                item_output_rows.append(item_record_dict)
+                        config = data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP
+            
+            print("{} records to process ...".format(len(records)))
+            
+            for e, i in enumerate(records):
+                item_output_row = output_items(i, config)
+                item_output_rows.append(item_output_row)
+                if e % 1000 == 0 and e != 0:
+                    print("{:0.2f}% done extracting fields from xml objects.".format(e/len(records)*100))
 
     # rels-ext (rdf)
     relsext_data = get_bs_from_xml(relsext_dir, 'rdf')
@@ -207,6 +222,13 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
             item_relsext_output_rows.append(item_relsext_record_dict)
 
     return collection_output_rows, item_output_rows, coll_relsext_output_rows, item_relsext_output_rows
+
+def output_items(x, config):
+    row = get_fields_from_bs(x, config)
+    item_record_dict = {}
+    for key in row.keys():
+        item_record_dict[key] = row[key]
+    return item_record_dict
 
 def create_data_frame_from_list(source_list):
     """
@@ -255,28 +277,52 @@ def get_bs_from_xml(_dir, source_type):
         filenames = glob.glob(_dir + '*.xml')
 
     print("Working with %d %s files..." % (len(filenames), source_type.upper()))
-
-    bs_objects = []
+    print("Execution Time So Far: " + str(datetime.datetime.now() - BEGIN_TIME))
 
     # get bs objects from XML files
-    for z in filenames:
+    if source_type == 'marc':
+        bs_objects = []
         # if file type is marc binary, use pymarc to convert to xml
-        if source_type == 'marc':
+        for z in filenames:
             with open(z, 'rb') as fh:
                 reader = MARCReader(fh)
-                for record in reader:
-                    xml = record_to_xml(record).decode("utf-8")
-                    bs = BeautifulSoup(xml, "xml")
-                    bs_objects.append(bs)
+            for record in reader:
+                xml = record_to_xml(record).decode("utf-8")
+                bs = BeautifulSoup(xml, "xml")
+                bs_objects.append(bs)
+            fh.close()
 
-        # if file type is mods, ead, rdf, read as xml
-        if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
+    # if file type is mods, ead, rdf, read as xml
+    if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
+        xmls =[]
+        
+        for z in filenames:    
+            #with open(z, encoding="utf-8") as f:
+                #xml = f.read()
+
+            xml = ""
             with open(z, encoding="utf-8") as f:
-                xml = f.read()
+                for piece in read_in_chunks(f):
+                    xml += piece
+
+            xmls.append(xml)
+        
+        bs_objects = []
+        for xml in xmls:    
             bs = BeautifulSoup(xml, "xml")
             bs_objects.append(bs)
-
+        
     return bs_objects
+
+def read_in_chunks(file_object, chunk_size=1024):
+    """Lazy function (generator) to read a file piece by piece.
+    Default chunk size: 1k."""
+    while True:
+        data = file_object.read(chunk_size)
+        if not data:
+            break
+        yield data
+
 
 def get_fields_from_bs(bs_object, field_dict):
     """
