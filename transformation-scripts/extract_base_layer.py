@@ -42,8 +42,12 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
     # start timer for program execution time
+<<<<<<< HEAD
     global BEGIN_TIME 
     BEGIN_TIME = datetime.datetime.now()
+=======
+    start_time = datetime.datetime.now()
+>>>>>>> a414dbdace14e552e5677bbe334731b2d940467b
 
     # validate arguments
     if not os.path.exists('../source-data/%s' % location):
@@ -82,9 +86,9 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     [coll_list, item_list, coll_relsext_list, item_relsext_list] = process_source_data(collection_type, collection_subtype, collection_dir, item_dir, relsext_dir)
 
     # convert output_rows to pandas DataFrames and use to_csv()
-    # write row to yml or md file
     coll_df = create_data_frame_from_list(coll_list)
     item_df = create_data_frame_from_list(item_list)
+
     coll_relsext_df = create_data_frame_from_list(coll_relsext_list)
     item_relsext_df = create_data_frame_from_list(item_relsext_list)
 
@@ -108,12 +112,12 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
         os.mkdir(newdir)
 
     # write collection and item DataFrames to CSV
-    coll_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "-collection-base-layer.csv", 'w', encoding="utf-8", newline='')
-    coll_csv.write(coll_df.to_csv())
+    coll_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_collection-base-layer.csv", 'w', encoding='utf-8', newline='')
+    coll_csv.write(coll_df.to_csv(index=False))
     coll_csv.close()
 
-    item_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "-item-base-layer.csv", 'w', encoding="utf-8", newline='')
-    item_csv.write(item_df.to_csv())
+    item_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_item-base-layer_" + collection_type + ".csv", 'w', encoding='utf-8', newline='')
+    item_csv.write(item_df.to_csv(index=False) )
     item_csv.close()
 
     # notify that program has completed successfully
@@ -121,7 +125,11 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
 
     # stop timer, then calculate and display program execution time
     end_time = datetime.datetime.now()
+<<<<<<< HEAD
     print("Execution Time: " + str(end_time - BEGIN_TIME))
+=======
+    print("Execution Time: " + str(end_time - start_time))
+>>>>>>> a414dbdace14e552e5677bbe334731b2d940467b
 
     return
 
@@ -156,6 +164,7 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     collection_data = get_bs_from_xml(collection_dir, 'ead')
 
     collection_output_rows = []
+
     if collection_type == 'archival' or collection_subtype == 'digital':
         for x in collection_data:
             row = get_fields_from_bs(x, data_layers_config.EAD_MAP)
@@ -286,6 +295,7 @@ def get_bs_from_xml(_dir, source_type):
         for z in filenames:
             with open(z, 'rb') as fh:
                 reader = MARCReader(fh)
+<<<<<<< HEAD
             for record in reader:
                 xml = record_to_xml(record).decode("utf-8")
                 bs = BeautifulSoup(xml, "xml")
@@ -310,6 +320,18 @@ def get_bs_from_xml(_dir, source_type):
         bs_objects = []
         for xml in xmls:    
             bs = BeautifulSoup(xml, "xml")
+=======
+                for record in reader:
+                    xml = record_to_xml(record).decode('utf-8')
+                    bs = BeautifulSoup(xml, "xml")
+                    bs_objects.append(bs)
+
+        # if file type is mods, ead, rdf, read as xml
+        if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
+            with open(z, encoding='utf-8') as f:
+                xml = f.read()
+            bs = BeautifulSoup(xml, 'xml')
+>>>>>>> a414dbdace14e552e5677bbe334731b2d940467b
             bs_objects.append(bs)
         
     return bs_objects
@@ -343,7 +365,8 @@ def get_fields_from_bs(bs_object, field_dict):
     row = {}
     exceptions = ['title', 'associated_name', 'creator', 'contributor', 'depositor',
     'publisher', 'publication_date', 'encoded_date', 'genre', 'type_of_resource',
-    'copyright_status', 'collection_language', 'collection_id', 'coll_id', 'item_id']
+    'geographic_coverage', 'copyright_status', 'collection_language', 'collection_id',
+    'coll_id', 'item_id']
 
     for key in field_dict.keys():
         # assume that field_dict[key]['bs_exp'] is a list of expressions
@@ -367,21 +390,24 @@ def get_fields_from_bs(bs_object, field_dict):
 
             if key == 'title':
                 results = bs_object.select(exp)
-                title_value, subTitle_value, nonSort_value = "", "", ""
+                field_list = []
 
                 # check titleInfo child element names and get matched element values
                 # concatenate child element values with specified punctuation for formatting purposes
                 for result in results:
-                    if result.name == 'title':
-                        title_value = result.text.strip()
-                    if result.name == 'subTitle':
-                        if result.text != "" and (result.text)[0] == "(":
-                            subTitle_value = " " + result.text.strip()
-                        else:
-                            subTitle_value = ": " + result.text.strip()
-                    if result.name == 'nonSort':
-                        nonSort_value = ", " + result.text.strip()
-                field_data += title_value + subTitle_value + nonSort_value
+                    title_value, subTitle_value, nonSort_value = "", "", ""
+                    for child in result.children:
+                        if child.name == 'title':
+                            title_value = child.string.strip()
+                        if child.name == 'subTitle':
+                            if child.string != "" and child.string[0] == "(":
+                                subTitle_value = " " + child.string.strip()
+                            else:
+                                subTitle_value = ": " + child.string.strip()
+                        if child.name == 'nonSort':
+                            nonSort_value = ", " + child.string.strip()
+                    field_list.append(title_value + subTitle_value + nonSort_value)
+                field_data += "|||".join(field_list)
 
             if key == 'associated_name' or key == 'creator' or key == 'contributor' or key == 'depositor':
                 results = bs_object.select(exp)
@@ -390,7 +416,7 @@ def get_fields_from_bs(bs_object, field_dict):
 
                 # if name element, look for a grandchild and check value, then get text from matched child element(s)
                 for result in results:
-                    value = get_name_by_grand_child(result, key, 'namePart', 'role > roleTerm')
+                    value = get_name_by_grandchild(result, key, 'namePart', 'role > roleTerm')
                     if value != "" and omit_repeats(value, field_list):
                         field_list.append(value)
                 field_data += "|||".join(field_list)
@@ -406,7 +432,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     if result.name == 'publisher':
                         value = result.text.strip()
                     else:
-                        value = get_name_by_grand_child(result, key, 'namePart', 'role > roleTerm')
+                        value = get_name_by_grandchild(result, key, 'namePart', 'role > roleTerm')
                     joined_value = " ".join(value.split())
                     if joined_value != "":
                         field_data += "|||" + joined_value
@@ -460,6 +486,26 @@ def get_fields_from_bs(bs_object, field_dict):
                 field_list.sort()
                 field_data += "|||".join(field_list)
 
+            if key == 'geographic_coverage':
+                results = bs_object.select(exp)
+                field_list = []
+
+                for result in results:
+                    if result.name == 'hierarchicalGeographic':
+                        hierarchical_field_list = []
+                        for child in result.children:
+                            child_value = child.string.replace("\n", " ").replace("\t", " ").strip()
+                            if child_value != "":
+                                hierarchical_field_list.append(child_value)
+                        joined_value = ", ".join(hierarchical_field_list)
+                    else:
+                        value = result.text.replace("\n", " ").replace("\t", " ").strip()
+                        joined_value = " ".join(value.split())
+                    if joined_value != "" and omit_repeats(joined_value, field_list):
+                        field_list.append(joined_value)
+                        field_data += "|||" + joined_value
+                field_data = field_data.strip('|||')
+
             # get and process/format element attribute values to generate field data for rows
             if key == 'copyright_status':
                 results = bs_object.select(exp)
@@ -490,7 +536,7 @@ def get_fields_from_bs(bs_object, field_dict):
 
     return row
 
-def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp='role > roleTerm'):
+def get_name_by_grandchild(bs_object, key, children='namePart', grandchild_exp='role > roleTerm'):
     """
     Extract and processes namePart element values and, in specified cases, roleTerm element values.
 
@@ -498,7 +544,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
     ----------
     bs_object: bs4.BeautifulSoup
         a BeautifulSoup object
-    grand_child_exp: str
+    grandchild_exp: str
         a specified node in a CSS selector expression ('role > roleTerm')
     key: str
         a specified key in the field_dict dictionary ('asssociated_name', 'contributor',
@@ -515,7 +561,7 @@ def get_name_by_grand_child(bs_object, key, children='namePart', grand_child_exp
 
     name_tags = bs_object
     namePart_tags = bs_object.select(children)
-    roleTerm_tags = bs_object.select(grand_child_exp)
+    roleTerm_tags = bs_object.select(grandchild_exp)
     specified_roleTerms = [['author', 'authors', 'aut', 'composer', 'composers', 'cmp',
     'creator', 'creators', 'cre', 'dubious author', 'dub', 'editor', 'editors', 'edt',
     'joint author', 'joint authors', 'screenwriter', 'aus','supposed author', 'supposed authors'],
@@ -627,7 +673,6 @@ def decode_values(df):
     None
     """
 
-    # decode all listed encoded columns and keep count of all evaluated and decoded values
     encoded_columns = {
     'collection_language': ['iso639-2b'],
     'language': ['iso639-2b'],
@@ -640,9 +685,9 @@ def decode_values(df):
         for encoding_scheme in encoded_columns[column]:
             encoding_dict.update(encoding_schemes.LIST[encoding_scheme])
 
-        # pre-process and decode fields in column
+        # pre-process and decode fields in column and keep count of total and decoded values
         value_count, decoded_value_count = 0, 0
-        try:
+        if column in df.columns:
             for i in df.index:
                 field_data = df.at[i, column]
                 field_list = []
@@ -663,11 +708,9 @@ def decode_values(df):
                                 decoded_value = value
                         decoded_field_list.append(decoded_value)
                 df.at[i, column] = "|||".join(set(decoded_field_list))
-        except:
-            continue
 
-        # report counts of evaluated values and decoded values in column
-        print(str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + column + "' column.")
+            # report counts of evaluated values and decoded values in column
+            print(str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + column + "' column.")
 
     return df
 
@@ -688,7 +731,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(
         prog="extract_base_layer",
         description="Parses and extracts data from XML, processes and transforms data into a pandas DataFrame, and writes data to base layer CSV files.",
-        epilog="To run the script, your command should be input as follows: python organize_files.py [location] [collection_type] [collection_subtype] (--decode)"
+        epilog="To run the script, your command should be input as follows: python extract_base_layer.py [location] [collection_type] [collection_subtype] (--decode)"
         )
     # Positional mandatory arguments
     parser.add_argument("location", help="a folder name that can be found in the 'source-data' directory", type=str)
@@ -710,6 +753,6 @@ if __name__ == '__main__':
     # raw print arguments
     print("You are running the script with the following arguments:")
     for a in args.__dict__:
-        print(str(a) + ": " + str(args.__dict__[a]))
+        print('  * ' + str(a) + ": " + str(args.__dict__[a]))
     # run function
     base_layer_maker(args.location, args.collection_type, args.collection_subtype, args.decode)

@@ -1,9 +1,10 @@
+import argparse
 import encoding_schemes
 import os
 import sys
 import pandas as pd
 
-def decode(file_location, specified_column):
+def decode_values(file_location):
     """
     Replaces encoded values in the specified dataset column(s) with the corresponding decoded values,
     then writes decoded dataset to a new CSV file if any values were decoded.
@@ -12,8 +13,6 @@ def decode(file_location, specified_column):
     ----------
     file_location: str
         a location or absolute path of the file to be used
-    specified_column: str
-        a column name, as it appears in the file, containing the encoded values to be decoded
 
     Returns
     -------
@@ -23,7 +22,6 @@ def decode(file_location, specified_column):
     ------
     Exception: File location [file_location] not found!
     Exception: File type [extension] not supported!
-    Exception: Column [column] not found in dataset!
     """
 
     # validate file location
@@ -40,28 +38,52 @@ def decode(file_location, specified_column):
         raise Exception ("File type '%s' not supported!" % (extension,))
 
     # pre-process and decode fields in specified column(s)
-    if specified_column == 'all':
-        # decode all listed encoded columns and keep count of all evaluated and decoded values
-        encoded_columns = ['language', 'geographic_coverage']
-        total_value_count = 0
-        total_decoded_value_count = 0
-        for column in encoded_columns:
-            [df, value_count, decoded_value_count] = decode_columns(df, column)
-            total_value_count += value_count
+    encoded_columns = {
+    'collection_language': ['iso639-2b'],
+    'language': ['iso639-2b'],
+    'geographic_coverage': ['marccountry', 'marcgac']
+    }
+    encoding_dict = {}
+    total_decoded_value_count = 0
+
+    for column in encoded_columns.keys():
+        # build dictionary from appropriate encoding schemes for column
+        for encoding_scheme in encoded_columns[column]:
+            encoding_dict.update(encoding_schemes.LIST[encoding_scheme])
+
+        # pre-process and decode fields in column and keep count of total and decoded values
+        value_count, decoded_value_count = 0, 0
+        if column in df.columns:
+            for i in df.index:
+                field_data = df.at[i, column]
+                field_list = []
+                decoded_field_list = []
+                if isinstance(field_data, str):
+                    field_list = (field_data).split('|||')
+                    for value in field_list:
+                        processed_value = value.strip('-\n\t ').lower()
+                        decoded_value = ""
+                        if value != "":
+                            value_count += 1
+                        for code in encoding_dict.keys():
+                            if processed_value == code:
+                                decoded_value = processed_value.replace(code, encoding_dict[code])
+                                decoded_value_count += 1
+                                break
+                            else:
+                                decoded_value = value
+                        decoded_field_list.append(decoded_value)
+                df.at[i, column] = "|||".join(set(decoded_field_list))
             total_decoded_value_count += decoded_value_count
-        print(str(total_decoded_value_count) + " out of " + str(total_value_count) + " total values decoded in all encoded columns.")
-    else:
-        # validate column name and decode column if valid
-        if specified_column not in df.columns:
-            raise Exception ("Column '%s' not found in dataset!" % (specified_column,))
-        [df, total_value_count, total_decoded_value_count] = decode_columns(df, specified_column)
+
+            # report counts of evaluated values and decoded values in column
+            print(str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + column + "' column.")
 
     # write decoded DataFrame to CSV if any values were decoded
     if total_decoded_value_count > 0:
-        updated_suffix = '_' + specified_column + '_decoded.csv'
-        outfile_location = file_location.replace(extension, updated_suffix)
+        outfile_location = file_location.replace(extension, '_decoded.csv')
         outfile = open(outfile_location, 'w', encoding="utf-8", newline='')
-        outfile.write(df.to_csv())
+        outfile.write(df.to_csv(index=False))
         outfile.close()
         print("Output file: " + outfile_location + "\nComplete!")
     else:
@@ -69,70 +91,40 @@ def decode(file_location, specified_column):
 
     return
 
-def decode_columns(df, specified_column):
+def parse_arguments():
     """
-    Helper function that pre-processes values in the specified dataset column, then replaces encoded values
-    with the corresponding decoded values in an encoding scheme dictionary.
+    Parses command line arguments.
 
     Parameters
     ----------
-    df: pandas.core.frame.DataFrame
-        a dataset with one or more columns to be decoded
-    specified_column: str
-        a column name, as it appears in the file, containing the encoded values to be decoded
+    None
 
     Returns
     -------
-    df: pandas.core.frame.DataFrame
-        a dataset with columns that have been decoded or, at least, evaluated for decoding
-    value_count: int
-        number of values in the specified column
-    decoded_value_count: int
-        number of decoded values in the specified column
+    args: dict
+        dictionary of arguments
     """
+    # Create argument parser
+    parser = argparse.ArgumentParser(
+        prog="decode_values",
+        description="Replaces encoded values in the specified dataset column(s) with the corresponding decoded values, then writes decoded dataset to a new CSV file if any values were decoded.",
+        epilog="To run the script, your command should be input as follows: python decode_values.py [location]"
+        )
+    # Positional mandatory arguments
+    parser.add_argument("file_location", help="location or absolute path of the file to be used", type=str)
 
-    # build dictionary from appropriate encoding schemes for column
-    encoded_columns = {
-    'language': ['iso639-2b'],
-    'geographic_coverage': ['marccountry', 'marcgac']
-    }
-    encoding_dict = {}
+    # Parse arguments
+    args = parser.parse_args()
 
-    for column_key in encoded_columns:
-        if specified_column == column_key:
-            for encoding_scheme in encoded_columns[column_key]:
-                encoding_dict.update(encoding_schemes.LIST[encoding_scheme])
-
-    # pre-process specified column in DataFrame and replace encoded field values with decoded values from encoding dictionary
-    value_count = 0
-    decoded_value_count = 0
-
-    for i in df.index:
-        field_data = df.at[i, specified_column]
-        field_list = []
-        decoded_field_list = []
-        if isinstance(field_data, str):
-            field_list = (field_data).split('|||')
-            for value in field_list:
-                processed_value = value.strip('-\n\t ').lower() # remove trailing dashes and white spaces to match values in encoding dictionaries, esp. marcgac and marccountry
-                decoded_value = ""
-                value_count += 1
-                for key in encoding_dict.keys():
-                    if processed_value == key:
-                        decoded_value = processed_value.replace(key, encoding_dict[key])
-                        decoded_value_count += 1
-                        break
-                    else:
-                        decoded_value = value
-                decoded_field_list.append(decoded_value)
-        df.at[i, specified_column] = "|||".join(set(decoded_field_list))
-
-    print(str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + specified_column + "' column.")
-
-    return df, value_count, decoded_value_count
+    return args
 
 # call main function
 if __name__ == '__main__':
-    if len(sys.argv) < 3:
-        sys.exit("When running as a script, you must provide two arguments: file location and specified column.")
-    decode(sys.argv[1], sys.argv[2])
+    # parse the arguments
+    args = parse_arguments()
+    # raw print arguments
+    print("You are running the script with the following arguments:")
+    for a in args.__dict__:
+        print("  *" + str(a) + ": " + str(args.__dict__[a]))
+    # run function
+    decode_values(args.file_location)
