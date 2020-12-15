@@ -173,8 +173,8 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     print("Extracting fields from xml objects. Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
 
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
-        for f in item_data:
-            records = f.find_all('mods')
+        for file in item_data:
+            records = file.find_all('mods')
 
             #set config value ahead so pooling will work
             if collection_type == 'archival':
@@ -192,11 +192,11 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
         #    print("{} records to process ...".format(len(records)))
 
-            for e, i in enumerate(records):
-                item_output_row = output_items(i, config)
+            for i, record in enumerate(records):
+                item_output_row = output_items(record, config)
                 item_output_rows.append(item_output_row)
-                if e % 1000 == 0 and e != 0:
-                    print("{:0.2f}% done extracting fields from xml objects.".format(e/len(records)*100))
+                if i % 1000 == 0 and i != 0:
+                    print("{:0.2f}% done extracting fields from xml objects.".format(i/len(records)*100))
 
     # rels-ext (rdf)
     relsext_data = get_bs_from_xml(relsext_dir, 'rdf')
@@ -205,16 +205,16 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
     if collection_subtype == 'digital':
         # collection level
-        for x in relsext_data:
-            row = get_fields_from_bs(x, data_layers_config.DIGITAL_COLLECTION_RDF_MAP)
+        for file in relsext_data:
+            row = get_fields_from_bs(file, data_layers_config.DIGITAL_COLLECTION_RDF_MAP)
             collection_relsext_record_dict = {}
             for key in row.keys():
                 collection_relsext_record_dict[key] = (row[key])
             coll_relsext_output_rows.append(collection_relsext_record_dict)
 
         # item level
-        for x in relsext_data:
-            row = get_fields_from_bs(x, data_layers_config.DIGITAL_ITEM_RDF_MAP)
+        for file in relsext_data:
+            row = get_fields_from_bs(file, data_layers_config.DIGITAL_ITEM_RDF_MAP)
             item_relsext_record_dict = {}
             for key in row.keys():
                 item_relsext_record_dict[key] = (row[key])
@@ -246,14 +246,14 @@ def get_bs_from_xml(_dir, source_type):
         filenames = glob.glob(_dir + '*.xml')
 
     print("Working with %d %s files..." % (len(filenames), source_type.upper()))
-    print("Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
+    #print("Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
 
     # get bs objects from XML files
     if source_type == 'marc':
         bs_objects = []
         # if file type is marc binary, use pymarc to convert to xml
-        for z in filenames:
-            with open(z, 'rb') as fh:
+        for file in filenames:
+            with open(file, 'rb') as fh:
                 reader = MARCReader(fh)
 
             for record in reader:
@@ -266,12 +266,12 @@ def get_bs_from_xml(_dir, source_type):
     if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
         xmls =[]
 
-        for z in filenames:
+        for file in filenames:
             #with open(z, encoding="utf-8") as f:
                 #xml = f.read()
 
             xml = ""
-            with open(z, encoding="utf-8") as f:
+            with open(file, encoding="utf-8") as f:
                 for piece in read_in_chunks(f):
                     xml += piece
 
@@ -344,14 +344,14 @@ def get_fields_from_bs(bs_object, field_dict):
                 for result in results:
                     title_value, subTitle_value, nonSort_value = "", "", ""
                     for child in result.children:
-                        if child.name == 'title':
+                        if child.name == 'title' and child.string:
                             title_value = child.string.strip()
-                        if child.name == 'subTitle':
-                            if child.string != "" and child.string[0] == "(":
+                        if child.name == 'subTitle' and child.string:
+                            if (child.string.strip())[0] == "(":
                                 subTitle_value = " " + child.string.strip()
                             else:
                                 subTitle_value = ": " + child.string.strip()
-                        if child.name == 'nonSort':
+                        if child.name == 'nonSort' and child.string:
                             nonSort_value = ", " + child.string.strip()
                     field_list.append(title_value + subTitle_value + nonSort_value)
                 field_data += "|||".join(field_list)
@@ -472,12 +472,10 @@ def get_fields_from_bs(bs_object, field_dict):
 
             if key == 'collection_id':
                 results = bs_object.select(exp)
-                i = 0
                 for result in results:
                     value = results[i]['rdf:resource']
                     field_data += "|||" + value.strip("info:fedora/pitt:")
                     field_data = field_data.strip("|||")
-                    i += 1
 
         row[key] = field_data
 
