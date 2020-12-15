@@ -12,7 +12,6 @@ import data_layers_config
 import encoding_schemes
 from multiprocessing import Pool
 
-
 def base_layer_maker(location, collection_type, collection_subtype, decode=False):
     """
     Parses and extracts data from XML, processes and transforms data into a pandas DataFrame, and writes data to base layer CSV files.
@@ -42,12 +41,8 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
     # start timer for program execution time
-<<<<<<< HEAD
-    global BEGIN_TIME 
-    BEGIN_TIME = datetime.datetime.now()
-=======
-    start_time = datetime.datetime.now()
->>>>>>> a414dbdace14e552e5677bbe334731b2d940467b
+    global START_TIME
+    START_TIME = datetime.datetime.now()
 
     # validate arguments
     if not os.path.exists('../source-data/%s' % location):
@@ -125,11 +120,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
 
     # stop timer, then calculate and display program execution time
     end_time = datetime.datetime.now()
-<<<<<<< HEAD
-    print("Execution Time: " + str(end_time - BEGIN_TIME))
-=======
-    print("Execution Time: " + str(end_time - start_time))
->>>>>>> a414dbdace14e552e5677bbe334731b2d940467b
+    print("Execution Time: " + str(end_time - START_TIME))
 
     return
 
@@ -179,9 +170,8 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
     item_output_rows = []
 
-    print("Extracting fields from xml objects. Execution Time So Far: " + str(datetime.datetime.now() - BEGIN_TIME))
-    
-   
+    print("Extracting fields from xml objects. Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
+
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
         for f in item_data:
             records = f.find_all('mods')
@@ -189,19 +179,19 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
             #set config value ahead so pooling will work
             if collection_type == 'archival':
                 config = data_layers_config.ARCHIVAL_ITEM_MODS_MAP
-            if collection_type == 'monograph':
+            elif collection_type == 'monograph':
                 if collection_subtype == 'catalog':
                     config = data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP
                 elif collection_subtype == 'digital':
                     config = data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP
-                elif collection_type == 'serial':
-                    if collection_subtype == 'catalog':
-                        config = data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP
-                    elif collection_subtype == 'digital':
-                        config = data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP
-            
-            print("{} records to process ...".format(len(records)))
-            
+            elif collection_type == 'serial':
+                if collection_subtype == 'catalog':
+                    config = data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP
+                elif collection_subtype == 'digital':
+                    config = data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP
+
+        #    print("{} records to process ...".format(len(records)))
+
             for e, i in enumerate(records):
                 item_output_row = output_items(i, config)
                 item_output_rows.append(item_output_row)
@@ -232,36 +222,6 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
     return collection_output_rows, item_output_rows, coll_relsext_output_rows, item_relsext_output_rows
 
-def output_items(x, config):
-    row = get_fields_from_bs(x, config)
-    item_record_dict = {}
-    for key in row.keys():
-        item_record_dict[key] = row[key]
-    return item_record_dict
-
-def create_data_frame_from_list(source_list):
-    """
-    Creates a pandas DataFrame from a list of dictionaries.
-
-    Parameters
-    ----------
-    source_list: list
-        a list of dictionaries containing extracted and processed source data (key/value pairs)
-
-    Returns
-    -------
-    dict
-        a pandas DataFrame containing source data
-    """
-
-    # create a dictionary of numpy Series objects; then pass this to pandas DataFrame constructor
-    # transpose DataFrame to get expected record-based orientation
-    d = {}
-    for i, row in enumerate(source_list):
-        d[i] = pd.Series(row)
-
-    return pd.DataFrame(d).T
-
 def get_bs_from_xml(_dir, source_type):
     """
     Reads source data files and returns list of BeautifulSoup objects.
@@ -286,7 +246,7 @@ def get_bs_from_xml(_dir, source_type):
         filenames = glob.glob(_dir + '*.xml')
 
     print("Working with %d %s files..." % (len(filenames), source_type.upper()))
-    print("Execution Time So Far: " + str(datetime.datetime.now() - BEGIN_TIME))
+    print("Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
 
     # get bs objects from XML files
     if source_type == 'marc':
@@ -295,7 +255,7 @@ def get_bs_from_xml(_dir, source_type):
         for z in filenames:
             with open(z, 'rb') as fh:
                 reader = MARCReader(fh)
-<<<<<<< HEAD
+
             for record in reader:
                 xml = record_to_xml(record).decode("utf-8")
                 bs = BeautifulSoup(xml, "xml")
@@ -305,8 +265,8 @@ def get_bs_from_xml(_dir, source_type):
     # if file type is mods, ead, rdf, read as xml
     if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
         xmls =[]
-        
-        for z in filenames:    
+
+        for z in filenames:
             #with open(z, encoding="utf-8") as f:
                 #xml = f.read()
 
@@ -316,24 +276,12 @@ def get_bs_from_xml(_dir, source_type):
                     xml += piece
 
             xmls.append(xml)
-        
-        bs_objects = []
-        for xml in xmls:    
-            bs = BeautifulSoup(xml, "xml")
-=======
-                for record in reader:
-                    xml = record_to_xml(record).decode('utf-8')
-                    bs = BeautifulSoup(xml, "xml")
-                    bs_objects.append(bs)
 
-        # if file type is mods, ead, rdf, read as xml
-        if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
-            with open(z, encoding='utf-8') as f:
-                xml = f.read()
-            bs = BeautifulSoup(xml, 'xml')
->>>>>>> a414dbdace14e552e5677bbe334731b2d940467b
+        bs_objects = []
+        for xml in xmls:
+            bs = BeautifulSoup(xml, "xml")
             bs_objects.append(bs)
-        
+
     return bs_objects
 
 def read_in_chunks(file_object, chunk_size=1024):
@@ -344,7 +292,6 @@ def read_in_chunks(file_object, chunk_size=1024):
         if not data:
             break
         yield data
-
 
 def get_fields_from_bs(bs_object, field_dict):
     """
@@ -536,6 +483,13 @@ def get_fields_from_bs(bs_object, field_dict):
 
     return row
 
+def output_items(x, config):
+    row = get_fields_from_bs(x, config)
+    item_record_dict = {}
+    for key in row.keys():
+        item_record_dict[key] = row[key]
+    return item_record_dict
+
 def get_name_by_grandchild(bs_object, key, children='namePart', grandchild_exp='role > roleTerm'):
     """
     Extract and processes namePart element values and, in specified cases, roleTerm element values.
@@ -656,6 +610,29 @@ def omit_trailing_punct(text):
         if text[-1] in ['.', ',', ';']:
             text = text[0:-1]
     return text
+
+def create_data_frame_from_list(source_list):
+    """
+    Creates a pandas DataFrame from a list of dictionaries.
+
+    Parameters
+    ----------
+    source_list: list
+        a list of dictionaries containing extracted and processed source data (key/value pairs)
+
+    Returns
+    -------
+    dict
+        a pandas DataFrame containing source data
+    """
+
+    # create a dictionary of numpy Series objects; then pass this to pandas DataFrame constructor
+    # transpose DataFrame to get expected record-based orientation
+    d = {}
+    for i, row in enumerate(source_list):
+        d[i] = pd.Series(row)
+
+    return pd.DataFrame(d).T
 
 def decode_values(df):
     """
