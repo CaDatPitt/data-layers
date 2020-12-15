@@ -472,10 +472,12 @@ def get_fields_from_bs(bs_object, field_dict):
 
             if key == 'collection_id':
                 results = bs_object.select(exp)
+                i = 0
                 for result in results:
                     value = results[i]['rdf:resource']
                     field_data += "|||" + value.strip("info:fedora/pitt:")
                     field_data = field_data.strip("|||")
+                    i += 1
 
         row[key] = field_data
 
