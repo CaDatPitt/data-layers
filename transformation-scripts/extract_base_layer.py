@@ -11,6 +11,8 @@ import pandas as pd
 import data_layers_config
 import encoding_schemes
 from multiprocessing import Pool
+from tqdm import tqdm, trange
+from time import sleep
 
 def base_layer_maker(location, collection_type, collection_subtype, decode=False):
     """
@@ -96,6 +98,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
 
     # decode values in encoded columns
     if decode:
+        print("Decoding values...")
         coll_df = decode_values(coll_df)
         item_df = decode_values(item_df)
 
@@ -153,29 +156,24 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     # create rows of data in dictionaries
     # collection level
     collection_data = get_bs_from_xml(collection_dir, 'ead')
-
     collection_output_rows = []
 
     if collection_type == 'archival' or collection_subtype == 'digital':
-        for x in collection_data:
-            row = get_fields_from_bs(x, data_layers_config.EAD_MAP)
-
+        for soup in tqdm(collection_data, desc="  Processing data", ascii=True, unit=' file'):
+            row = get_fields_from_bs(soup, data_layers_config.EAD_MAP)
             collection_record_dict = {}
             for key in row.keys():
                 collection_record_dict[key] = (row[key])
             collection_output_rows.append(collection_record_dict)
+            sleep(.001)
 
     # item level
     item_data = get_bs_from_xml(item_dir, 'mods')
-
     item_output_rows = []
 
-    print("Extracting fields from xml objects. Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
-
     if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
-        for file in item_data:
-            records = file.find_all('mods')
-
+        for soup in tqdm(item_data, desc="  Processing data", ascii=True, unit='file'):
+            records = soup.find_all('mods')
             #set config value ahead so pooling will work
             if collection_type == 'archival':
                 config = data_layers_config.ARCHIVAL_ITEM_MODS_MAP
@@ -189,14 +187,11 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
                     config = data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP
                 elif collection_subtype == 'digital':
                     config = data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP
-
-        #    print("{} records to process ...".format(len(records)))
-
-            for i, record in enumerate(records):
+            for i, record in enumerate(tqdm(records, desc="    Processing records", ascii=True, unit=' record', leave=False)):
                 item_output_row = output_items(record, config)
                 item_output_rows.append(item_output_row)
-                if i % 1000 == 0 and i != 0:
-                    print("{:0.2f}% done extracting fields from xml objects.".format(i/len(records)*100))
+                sleep(.001)
+            sleep(.001)
 
     # rels-ext (rdf)
     relsext_data = get_bs_from_xml(relsext_dir, 'rdf')
@@ -205,20 +200,22 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
 
     if collection_subtype == 'digital':
         # collection level
-        for file in relsext_data:
-            row = get_fields_from_bs(file, data_layers_config.DIGITAL_COLLECTION_RDF_MAP)
+        for soup in tqdm(relsext_data, desc="  Processing collection data", ascii=True, unit=' file'):
+            row = get_fields_from_bs(soup, data_layers_config.DIGITAL_COLLECTION_RDF_MAP)
             collection_relsext_record_dict = {}
             for key in row.keys():
                 collection_relsext_record_dict[key] = (row[key])
             coll_relsext_output_rows.append(collection_relsext_record_dict)
+            sleep(.001)
 
         # item level
-        for file in relsext_data:
-            row = get_fields_from_bs(file, data_layers_config.DIGITAL_ITEM_RDF_MAP)
+        for soup in tqdm(relsext_data, desc="  Processing item data", ascii=True, unit=' file'):
+            row = get_fields_from_bs(soup, data_layers_config.DIGITAL_ITEM_RDF_MAP)
             item_relsext_record_dict = {}
             for key in row.keys():
                 item_relsext_record_dict[key] = (row[key])
             item_relsext_output_rows.append(item_relsext_record_dict)
+            sleep(.001)
 
     return collection_output_rows, item_output_rows, coll_relsext_output_rows, item_relsext_output_rows
 
@@ -231,7 +228,7 @@ def get_bs_from_xml(_dir, source_type):
     _dir: str
         the path to a directory
     source_type: str
-        the type of a source data file ('mods', 'marc', or 'mods')
+        the type of a source data file ('ead', 'mods', or 'rdf')
 
     Returns
     -------
@@ -239,48 +236,27 @@ def get_bs_from_xml(_dir, source_type):
          a list of BeautifulSoup objects
     """
 
-    # find and account for relevant files by file type
-    if source_type == 'marc':
-        filenames = glob.glob(_dir + '*.mrc')
-    if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
-        filenames = glob.glob(_dir + '*.xml')
+    # find and account for relevant files
+    filenames = glob.glob(_dir + '*.xml')
 
     print("Working with %d %s files..." % (len(filenames), source_type.upper()))
-    #print("Execution Time So Far: " + str(datetime.datetime.now() - START_TIME))
 
-    # get bs objects from XML files
-    if source_type == 'marc':
-        bs_objects = []
-        # if file type is marc binary, use pymarc to convert to xml
-        for file in filenames:
-            with open(file, 'rb') as fh:
-                reader = MARCReader(fh)
-
-            for record in reader:
-                xml = record_to_xml(record).decode("utf-8")
-                bs = BeautifulSoup(xml, "xml")
-                bs_objects.append(bs)
-            fh.close()
-
-    # if file type is mods, ead, rdf, read as xml
+    # get BeautifulSoup objects from XML files
     if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
-        xmls =[]
-
-        for file in filenames:
-            #with open(z, encoding="utf-8") as f:
-                #xml = f.read()
-
-            xml = ""
-            with open(file, encoding="utf-8") as f:
-                for piece in read_in_chunks(f):
-                    xml += piece
-
-            xmls.append(xml)
-
         bs_objects = []
-        for xml in xmls:
-            bs = BeautifulSoup(xml, "xml")
-            bs_objects.append(bs)
+
+        if len(filenames) > 0:
+            for file in tqdm(filenames, desc="  Extracting data", ascii=True, unit=' file'):
+                file_size = str(int(os.path.getsize(file)/1024)) + "kb"
+                xml = ""
+                with open(file, encoding="utf-8") as f:
+                    for chunk in tqdm(read_in_chunks(f), desc=("    Reading in file ~" + file_size), ascii=True, unit='kb', leave=False):
+                        xml += chunk
+                        sleep(.001)
+                sleep(.001)
+
+                soup = BeautifulSoup(xml, "xml")
+                bs_objects.append(soup)
 
     return bs_objects
 
@@ -315,7 +291,7 @@ def get_fields_from_bs(bs_object, field_dict):
     'geographic_coverage', 'copyright_status', 'collection_language', 'collection_id',
     'coll_id', 'item_id']
 
-    for key in field_dict.keys():
+    for key in tqdm(field_dict.keys(), desc="    Processing fields", ascii=True, unit=' field', leave=False):
         # assume that field_dict[key]['bs_exp'] is a list of expressions
         expressions = field_dict[key]['bs_exp']
         field_data = ""
@@ -483,8 +459,11 @@ def get_fields_from_bs(bs_object, field_dict):
 
     return row
 
-def output_items(x, config):
-    row = get_fields_from_bs(x, config)
+def output_items(soup, config):
+    """
+    Helper function for parsing and processing data for item records.
+    """
+    row = get_fields_from_bs(soup, config)
     item_record_dict = {}
     for key in row.keys():
         item_record_dict[key] = row[key]
@@ -687,7 +666,7 @@ def decode_values(df):
                 df.at[i, column] = "|||".join(set(decoded_field_list))
 
             # report counts of evaluated values and decoded values in column
-            print(str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + column + "' column.")
+            print("  " + str(decoded_value_count) + " out of " + str(value_count) + " values decoded in '" + column + "' column.")
 
     return df
 
@@ -730,6 +709,6 @@ if __name__ == '__main__':
     # raw print arguments
     print("You are running the script with the following arguments:")
     for a in args.__dict__:
-        print('  * ' + str(a) + ": " + str(args.__dict__[a]))
+        print('  ' + str(a) + ": " + str(args.__dict__[a]))
     # run function
     base_layer_maker(args.location, args.collection_type, args.collection_subtype, args.decode)
