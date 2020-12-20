@@ -24,10 +24,10 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
         a folder name that can be found in source-data, such as 'american-left-ephemera'
     collection_type: str
         a term specifying the type of collection for which data will be processed
-        (controlled vocabulary: 'archival', 'serial', or 'monograph')
+        (controlled vocabulary: 'archival', 'serial', 'monograph', 'mixed')
     collection_subtype: str
         a term specifying the subtype of collection for which data will be processed
-        (controlled vocabulary: 'catalog', 'digital', or 'physical')
+        (controlled vocabulary: 'catalog', 'digital', 'physical', 'mixed')
 
     Returns
     -------
@@ -37,9 +37,9 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     ------
     Exception: location source-data/[location] not found!
     Exception: location source-data/[directory] not found!
-    Exception: collection type '[collection_type]' not one of 'archival', 'monograph', or 'serial'.
-    Exception: collection subtype '[collection_subtype]' not one of 'catalog', 'digital', or 'physical'.
-    Exception: collection subtype 'catalog' can only be used with collection type 'monograph' or 'serial'.
+    Exception: collection type '[collection_type]' not one of 'archival', 'monograph', 'serial', or 'mixed'.
+    Exception: collection subtype '[collection_subtype]' not one of 'catalog', 'digital', 'physical', or 'mixed'.
+    Exception: collection subtype 'catalog' can only be used with collection type 'monograph', 'serial', or 'mixed'.
     Exception: collection subtype 'physical' can only be used with collection type 'archival'.
     """
     # start timer for program execution time
@@ -50,14 +50,14 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     if not os.path.exists('../source-data/%s' % location):
         raise Exception ("location source-data/%s not found!" % (location,))
 
-    if collection_type not in ['archival', 'monograph', 'serial']:
-        raise Exception ("collection type '%s' not one of 'archival', 'monograph', or 'serial'." % (collection_type,))
+    if collection_type not in ['archival', 'monograph', 'serial', 'mixed']:
+        raise Exception ("collection type '%s' not one of 'archival', 'monograph', 'serial', or 'mixed'." % (collection_type,))
 
-    if collection_subtype not in ['catalog', 'digital', 'physical']:
-        raise Exception ("collection subtype '%s' not one of 'catalog', 'digital', or 'physical'." % (collection_subtype,))
+    if collection_subtype not in ['catalog', 'digital', 'physical', 'mixed']:
+        raise Exception ("collection subtype '%s' not one of 'catalog', 'digital', 'physical', or 'mixed'." % (collection_subtype,))
 
-    if collection_type == 'archival' and collection_subtype == 'catalog':
-        raise Exception ("collection subtype 'catalog' can only be used with collection type 'monograph' or 'serial'.")
+    if collection_type == 'archival' and collection_subtype in ['catalog', 'mixed']:
+        raise Exception ("collection subtype '%s' can only be used with collection type 'monograph', 'serial', or 'mixed'." % (collection_subtype,))
 
     if collection_type != 'archival' and collection_subtype == 'physical':
         raise Exception ("collection subtype 'physical' can only be used with collection type 'archival'.")
@@ -66,7 +66,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     result = {}
     collection_dir, item_dir, relsext_dir = "", "", ""
 
-    if collection_type == 'archival' or collection_subtype == 'digital':
+    if collection_type == 'archival' or collection_subtype in ['digital', 'mixed']:
         collection_dir = "../source-data/%s/ead/" % location
         if not os.path.exists(collection_dir):
             raise Exception ("location %s not found!" % (collection_dir,))
@@ -75,7 +75,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
         if not os.path.exists(relsext_dir):
             raise Exception ("location %s not found!" % (relsext_dir,))
 
-    if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
+    if collection_type in ['monograph', 'serial', 'mixed'] or collection_subtype == 'digital':
         item_dir = "../source-data/%s/mods/" % location
         if not os.path.exists(item_dir):
             raise Exception ("location %s not found!" % (item_dir,))
@@ -90,7 +90,7 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
     item_relsext_df = create_data_frame_from_list(item_relsext_list)
 
     # merge relsext DataFrames with collection and item DataFrames
-    if collection_subtype == 'digital':
+    if collection_subtype in ['digital', 'mixed']:
         if not coll_df.empty and not coll_relsext_df.empty:
             coll_df = (pd.merge(coll_df, coll_relsext_df, how='left', left_on=['finding_aid_id'], right_on=['coll_id'])).drop('coll_id', axis=1)
         if not item_df.empty and not item_relsext_df.empty:
@@ -108,6 +108,10 @@ def base_layer_maker(location, collection_type, collection_subtype, decode=False
         os.stat(newdir)
     except:
         os.mkdir(newdir)
+
+    # update serial/monograph collection type for output filenames
+    if collection_type in ['serial', 'monograph', 'mixed']:
+        collection_type += "-" + collection_subtype
 
     # write collection and item DataFrames to CSV
     coll_csv = open(newdir + "/" + location.replace("/", "-").replace(" ", "-") + "_collection-base-layer.csv", 'w', encoding='utf-8', newline='')
@@ -135,10 +139,10 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     ----------
     collection_type: str
         a term specifying the type of collection for which data will be processed
-        (controlled vocabulary: 'archival', 'serial', or 'monograph')
+        (controlled vocabulary: 'archival', 'serial', 'monograph', or 'mixed')
     collection_subtype: str
         a term specifying the subtype of collection for which data will be processed
-        (controlled vocabulary: 'catalog', 'digital', or 'physical')
+        (controlled vocabulary: 'catalog', 'digital', 'physical', or 'mixed')
     collection_dir: str
         a path to a folder containing collection-level source data (EAD) for a collection
     item_dir: str
@@ -147,18 +151,23 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
     Returns
     -------
     collection_output_rows: list
-        a list of dictionaries containing collection-level source data (EAD) for a collection;
+        a list of dictionaries containing collection-level data (EAD) for a collection;
         can be empty if no data exists
     item_output_rows: list
-        a list of dictionaries containing item-level source data (MODS) for a collection;
-        can be empty if no data exists
+        a list of dictionaries containing item-level data (MODS) for a collection
+    coll_relsext_output_rows
+        a list of dictionaries containing collection-level data (RELS-EXT) for a collection
+    item_relsext_output_rows
+        a list of dictionaries containing item-level data (RELS-EXT) for a collection
     """
+
     # create rows of data in dictionaries
     # collection level
-    collection_data = get_bs_from_xml(collection_dir, 'ead')
     collection_output_rows = []
 
-    if collection_type == 'archival' or collection_subtype == 'digital':
+    if collection_type == 'archival' or collection_subtype in ['digital', 'mixed']:
+        collection_data = get_bs_from_xml(collection_dir, 'ead')
+
         for soup in tqdm(collection_data, desc="  Processing data", ascii=True, unit=' file'):
             row = get_fields_from_bs(soup, data_layers_config.EAD_MAP)
             collection_record_dict = {}
@@ -168,10 +177,11 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
             sleep(.001)
 
     # item level
-    item_data = get_bs_from_xml(item_dir, 'mods')
     item_output_rows = []
 
-    if collection_type == 'monograph' or collection_type == 'serial' or collection_subtype == 'digital':
+    if collection_type in ['monograph', 'serial', 'mixed'] or collection_subtype == 'digital':
+        item_data = get_bs_from_xml(item_dir, 'mods')
+
         for soup in tqdm(item_data, desc="  Processing data", ascii=True, unit='file'):
             records = soup.find_all('mods')
             #set config value ahead so pooling will work
@@ -179,14 +189,25 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
                 config = data_layers_config.ARCHIVAL_ITEM_MODS_MAP
             elif collection_type == 'monograph':
                 if collection_subtype == 'catalog':
-                    config = data_layers_config.CATALOG_MONOGRAPH_ITEM_MODS_MAP
+                    config = data_layers_config.MONOGRAPH_CATALOG_ITEM_MODS_MAP
                 elif collection_subtype == 'digital':
-                    config = data_layers_config.DIGITAL_MONOGRAPH_ITEM_MODS_MAP
+                    config = data_layers_config.MONOGRAPH_DIGITAL_ITEM_MODS_MAP
+                elif collection_subtype == 'mixed':
+                    config = data_layers_config.MONOGRAPH_MIXED_ITEM_MODS_MAP
             elif collection_type == 'serial':
                 if collection_subtype == 'catalog':
-                    config = data_layers_config.CATALOG_SERIAL_ITEM_MODS_MAP
+                    config = data_layers_config.SERIAL_CATALOG_ITEM_MODS_MAP
                 elif collection_subtype == 'digital':
-                    config = data_layers_config.DIGITAL_SERIAL_ITEM_MODS_MAP
+                    config = data_layers_config.SERIAL_DIGITAL_ITEM_MODS_MAP
+                elif collection_subtype == 'mixed':
+                    config = data_layers_config.SERIAL_MIXED_ITEM_MODS_MAP
+            elif collection_type == 'mixed':
+                if collection_subtype == 'catalog':
+                    config = data_layers_config.MIXED_CATALOG_ITEM_MODS_MAP
+                elif collection_subtype == 'digital':
+                    config = data_layers_config.MIXED_DIGITAL_ITEM_MODS_MAP
+                elif collection_subtype == 'mixed':
+                    config = data_layers_config.MIXED_MIXED_ITEM_MODS_MAP
             for i, record in enumerate(tqdm(records, desc="    Processing records", ascii=True, unit=' record', leave=False)):
                 item_output_row = output_items(record, config)
                 item_output_rows.append(item_output_row)
@@ -194,11 +215,12 @@ def process_source_data(collection_type, collection_subtype, collection_dir, ite
             sleep(.001)
 
     # rels-ext (rdf)
-    relsext_data = get_bs_from_xml(relsext_dir, 'rdf')
     coll_relsext_output_rows = []
     item_relsext_output_rows = []
 
-    if collection_subtype == 'digital':
+    if collection_subtype in ['digital', 'mixed']:
+        relsext_data = get_bs_from_xml(relsext_dir, 'rdf')
+
         # collection level
         for soup in tqdm(relsext_data, desc="  Processing collection data", ascii=True, unit=' file'):
             row = get_fields_from_bs(soup, data_layers_config.DIGITAL_COLLECTION_RDF_MAP)
@@ -236,27 +258,33 @@ def get_bs_from_xml(_dir, source_type):
          a list of BeautifulSoup objects
     """
 
+    # convert RDF files to XML files
+    if source_type == 'rdf':
+        for filename in os.listdir(_dir):
+            if os.path.splitext(filename)[1] == '.rdf':
+                new_filename = filename.replace('.rdf', '.xml')
+                os.rename(os.path.join(_dir, filename), os.path.join(_dir, new_filename))
+
     # find and account for relevant files
     filenames = glob.glob(_dir + '*.xml')
 
     print("Working with %d %s files..." % (len(filenames), source_type.upper()))
 
     # get BeautifulSoup objects from XML files
-    if source_type == 'mods' or source_type == 'ead' or source_type == 'rdf':
-        bs_objects = []
+    bs_objects = []
 
-        if len(filenames) > 0:
-            for file in tqdm(filenames, desc="  Extracting data", ascii=True, unit=' file'):
-                file_size = str(int(os.path.getsize(file)/1024)) + "kb"
-                xml = ""
-                with open(file, encoding="utf-8") as f:
-                    for chunk in tqdm(read_in_chunks(f), desc=("    Reading in file ~" + file_size), ascii=True, unit='kb', leave=False):
-                        xml += chunk
-                        sleep(.001)
-                sleep(.001)
+    if len(filenames) > 0:
+        for file in tqdm(filenames, desc="  Extracting data", ascii=True, unit=' file'):
+            file_size = str(int(os.path.getsize(file)/1024)) + "kb"
+            xml = ""
+            with open(file, encoding="utf-8") as f:
+                for chunk in tqdm(read_in_chunks(f), desc=("    Reading in file ~" + file_size), ascii=True, unit='kb', leave=False):
+                    xml += chunk
+                    sleep(.001)
+            sleep(.001)
 
-                soup = BeautifulSoup(xml, "xml")
-                bs_objects.append(soup)
+            soup = BeautifulSoup(xml, "xml")
+            bs_objects.append(soup)
 
     return bs_objects
 
@@ -291,7 +319,7 @@ def get_fields_from_bs(bs_object, field_dict):
     'geographic_coverage', 'copyright_status', 'collection_language', 'collection_id',
     'coll_id', 'item_id']
 
-    for key in tqdm(field_dict.keys(), desc="    Processing fields", ascii=True, unit=' field', leave=False):
+    for key in tqdm(field_dict.keys(), desc="      Processing fields", ascii=True, unit=' field', leave=False):
         # assume that field_dict[key]['bs_exp'] is a list of expressions
         expressions = field_dict[key]['bs_exp']
         field_data = ""
@@ -332,7 +360,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     field_list.append(title_value + subTitle_value + nonSort_value)
                 field_data += "|||".join(field_list)
 
-            if key == 'associated_name' or key == 'creator' or key == 'contributor' or key == 'depositor':
+            if key in ['associated_name', 'creator', 'contributor', 'depositor']:
                 results = bs_object.select(exp)
                 value = ""
                 field_list = []
@@ -396,7 +424,7 @@ def get_fields_from_bs(bs_object, field_dict):
                     field_data += "|||" + start_value + end_value
                 field_data = field_data.strip('|||')
 
-            if key == 'genre' or key == 'type_of_resource':
+            if key in ['genre', 'type_of_resource']:
                 results = bs_object.select(exp)
                 value = ""
                 field_list = []
@@ -440,7 +468,7 @@ def get_fields_from_bs(bs_object, field_dict):
                 for result in results:
                     field_data += results[0]['langcode']
 
-            if key == 'coll_id' or key == 'item_id':
+            if key in ['coll_id', 'item_id']:
                 results = bs_object.select(exp)
                 for result in results:
                     value = results[0]['rdf:about']
@@ -540,7 +568,7 @@ def get_name_by_grandchild(bs_object, key, children='namePart', grandchild_exp='
     # remove empty parentheses
     if match:
         name_parts_joined += ", ".join([i.text.strip() for i in namePart_tags])
-        if key == 'contributor' or key == 'associated_name' and name_tags.role and matched_roleTerm_list:
+        if key in ['contributor', 'associated_name'] and name_tags.role and matched_roleTerm_list:
             matched_roleTerms = ", ".join(matched_roleTerm_list)
             name_parts_joined += " (" + matched_roleTerms + ")"
             if name_parts_joined[-3:] == " ()":
@@ -606,11 +634,11 @@ def create_data_frame_from_list(source_list):
     """
 
     # create a dictionary of numpy Series objects; then pass this to pandas DataFrame constructor
-    # transpose DataFrame to get expected record-based orientation
     d = {}
     for i, row in enumerate(source_list):
         d[i] = pd.Series(row)
 
+    # return a transposed DataFrame to get expected record-based orientation
     return pd.DataFrame(d).T
 
 def decode_values(df):
@@ -691,8 +719,8 @@ def parse_arguments():
         )
     # Positional mandatory arguments
     parser.add_argument("location", help="a folder name that can be found in the 'source-data' directory", type=str)
-    parser.add_argument("collection_type", help="a term specifying the type of collection for which data will be processed (valid options: 'archival', 'serial', 'monograph')", type=str, choices=['archival', 'serial', 'monograph'], metavar='collection_type')
-    parser.add_argument("collection_subtype", help="a term specifying the subtype of collection for which data will be processed (valid options: 'catalog,' 'digital')", type=str, choices=['catalog', 'digital'], metavar='collection_subtype')
+    parser.add_argument("collection_type", help="a term specifying the type of collection for which data will be processed (valid options: 'archival', 'serial', 'monograph', 'mixed')", type=str, choices=['archival', 'serial', 'monograph', 'mixed'], metavar='collection_type')
+    parser.add_argument("collection_subtype", help="a term specifying the subtype of collection for which data will be processed (valid options: 'catalog,' 'digital', 'physical', 'mixed')", type=str, choices=['catalog', 'digital', 'physical', 'mixed'], metavar='collection_subtype')
 
     # Optional arguments
     parser.add_argument("--decode", help="decode encoded values (default=False)", default=False, action='store_true')
