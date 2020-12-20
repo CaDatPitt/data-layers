@@ -33,3 +33,6 @@ To clone the repository requires having git or GitHub Desktop installed on your 
 
 ## Creating Base Layers
 If you would like to extract data from source data (XML files) and transform them into base layers (CSV files), see the [Data Extraction and Transformation Workflow](https://github.com/CaDatPitt/documentation/blob/master/05-data-extraction-and-transformation-workflow.md) documentation for instructions.
+
+## Licenses
+The data in this repository is available under the [Attribution-NonCommercial 4.0 Unported (CC BY-NC 4.0) License](https://github.com/CaDatPitt/data-layers/blob/master/LICENSE.md). The code, in the "transformation-scripts" directory, is available under the [MIT License](https://github.com/CaDatPitt/data-layers/blob/master/transformation-scripts/LICENSE).  
