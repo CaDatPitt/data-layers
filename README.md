@@ -32,4 +32,4 @@ If you plan to develop your own custom version of the Data Layers framework, rat
 To clone the repository requires having git or GitHub Desktop installed on your local computer. That configuration is beyond the scope of this documentation, but there is plenty of guidance [elsewhere](https://docs.github.com/en/github/getting-started-with-github/set-up-git). Once this is configured, you will look for the green "Code" button on the Data Layers Repository, and then choose "Clone" via SSH or GitHub Desktop.
 
 ## Creating Base Layers
-If you would like to extract data from source data (XML files) and transform them into base layers (CSV files), see the [Data Extraction and Transformation Workflow](05-data-extraction-and-transformation-workflow.md) documentation for instructions.
+If you would like to extract data from source data (XML files) and transform them into base layers (CSV files), see the [Data Extraction and Transformation Workflow](https://github.com/CaDatPitt/documentation/blob/master/05-data-extraction-and-transformation-workflow.md) documentation for instructions.
