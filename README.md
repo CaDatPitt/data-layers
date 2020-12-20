@@ -12,7 +12,7 @@ This repository comprises the following directories:
 The “base-layers,” “extension-layers” and “source-data” directories each contain subdirectories, organized by collection. Subdirectories under “source-data” contain third-level directories, organized by metadata schema. Subdirectories under “extension-layers” contain third-level  directories organized by project.
 
 ## Data Dictionary
-The [CaD@Pitt Data Dictionary](https://cadatpitt.github.io/documentation/04-data-dictionary.md) defines and describes the data layers in this repository, including the project’s related controlled vocabularies and encoding schemes, metadata element sets, and application profiles.
+The [CaD@Pitt Data Dictionary](https://cadatpitt.github.io/documentation/04-data-dictionary) defines and describes the data layers in this repository, including the project’s related controlled vocabularies and encoding schemes, metadata element sets, and application profiles.
 
 ## Download or Clone the Repository
 Because the Data Layers Repository is published on GitHub, you have different options for accessing its content. Determining which method will likely depend on how you plan to use the data and scripts.
