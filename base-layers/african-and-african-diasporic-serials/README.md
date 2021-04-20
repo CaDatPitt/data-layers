@@ -19,7 +19,7 @@ present collection is an extends beyond the 79 titles included in this earlier d
 
 **Scope and Content**: This collection comprises serials by and about Africans and African Diasporic peoples, organizations, institutions, and communities. These serials come from across the globe, including countries in Africa, Asia, Europe, and North and South America. The African peoples represented in this collection include those in Egypt, Ghana, Ivory Coast, Kenya, Morocco, Nigeria, Senegal, South African, Tanzania, Uganda, Zambia. The African diaspora comprises diverse communities of people of African descent dispersed throughout the world as a result of historic movements. The majority of these dispersed communities are due to the Atlantic and trans-Saharan (also referred to as Arab or Muslim) slave trades, the largest forced migrations in history. Others diasporic communities were formed before and after these slave trades. The peoples of African descent represented this collection includes those in Belgium, Brazil, Canada, China, Cuba, France, Germany, India, Jamaica, Netherlands, Norway, Portugal, Spain, Sweden, United Kingdom, United States, Uruguay.
 
-**Related Material**:
+**Related Material**: [Shooting Star Review](https://github.com/CaDatPitt/data-layers/tree/master/base-layers/shooting-star-review)
 
 **Repository**: PittCat (University of Pittsburgh library catalog)
 
