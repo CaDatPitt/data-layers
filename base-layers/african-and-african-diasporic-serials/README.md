@@ -2,6 +2,8 @@
 
 **Creator**: Tyrica Terry Kapral (GitHub: [tyt3](https://github.com/tyt3); Email: [tyt3@pitt.edu](mailto:tyt3@pitt.edu))
 
+**Creation Date**: July 2019
+
 **Type**: [Serial Collection](https://github.com/CaDatPitt/documentation/blob/master/data-dictionary/serial-collections.md) (catalog)
 
 **Language(s)**: Xhosa, Dutch, German, Multiple languages, Arabic, Swahili, English, Spanish, Afrikaans, Italian, Zulu, French, Portuguese, Flemish
