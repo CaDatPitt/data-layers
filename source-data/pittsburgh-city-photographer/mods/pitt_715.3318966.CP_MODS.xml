@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>Eckert Street</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Marshall-Shadeland (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:abstract>View of the 1700 block of Eckert Street, showing row houses and stores.</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="Public Domain" publication.status=""/>
+  </mods:accessCondition>
+  <mods:identifier type="pitt">715.3318966.CP</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1933-08-25</mods:dateCreated>
+    <mods:dateOther type="display">August 25, 1933</mods:dateOther>
+    <mods:dateOther type="sort">1933-08-25T00:00:00-04:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

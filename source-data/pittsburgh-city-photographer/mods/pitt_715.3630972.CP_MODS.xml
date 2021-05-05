@@ -1,0 +1,56 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1936-11-10</mods:dateCreated>
+    <mods:dateOther type="display">November 10, 1936</mods:dateOther>
+    <mods:dateOther type="sort">1936-11-10T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>Carry-All tractor with operator.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tractors</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Earthmoving machinery</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Blue collar workers</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Pittsburgh (Pa.).</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Tractor</mods:title>
+  </mods:titleInfo>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Acetate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.3630972.CP</mods:identifier>
+</mods:mods>

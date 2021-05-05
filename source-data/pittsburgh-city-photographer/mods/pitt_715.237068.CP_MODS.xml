@@ -1,0 +1,60 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1923-12-28</mods:dateCreated>
+    <mods:dateOther type="display">December 28, 1923</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Greenfield</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1923-12-28T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of the Beechwood Boulevard Bridge looking northwest from Beechwood Boulevard.  The bridge is an open spandrel deck arch built in 1922 by the City of Pittsburgh. Charles M. Repert was chief engineer, and Stanley L. Roush was the architect. Roush added several stylistic elements to the bridge such as sculptured lampposts, urns and inscribed pylons. In 1980, the bridge underwent a massive overhaul to repair the substantial decay that had taken place. This renovation removed most of the decorations from the structure. The bridge, also known as the Greenfield Bridge, features a main span of 279 feet and connects Greenfield Avenue to Schenley Park.  Visible are the urns and lamp standards designed by Roush. A look in the foreground, reveals the photographer and his assistant. See images 715.091363.cp and 715.60109313_1.cp for additional information.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Squirrel Hill (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Schenley Park (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bridges</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh</mods:topic>
+    <mods:topic>Design and construction.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Roush, Stanley L., 1884-1946.</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Beechwood Boulevard Bridge</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Greenfield</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Beechwood Blvd</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.237068.CP</mods:identifier>
+</mods:mods>

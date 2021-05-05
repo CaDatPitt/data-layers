@@ -1,0 +1,65 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1951-07-27</mods:dateCreated>
+    <mods:dateOther type="display">July 27, 1951</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Downtown</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1951-07-27T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>Rear view of the Grant Building, Third Avenue side, looking to the Old Post Office. The imposing Old Post Office can be seen on the right just beyond the National Stores Co. Construction on the post office began around 1879/1880 and was not completed until 1892.  It included stone from Vermont and Kentucky as well as wood from Africa. The building was torn down in 1966 to make way for a park and parking lot.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Downtown (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Grant Building (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Post offices</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Third Avenue (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh</mods:topic>
+    <mods:topic>Design and construction.</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Grant Building</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Downtown</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">512 Third Avenue</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form/>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.5185625.CP</mods:identifier>
+</mods:mods>

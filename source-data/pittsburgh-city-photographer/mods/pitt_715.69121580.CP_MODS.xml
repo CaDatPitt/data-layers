@@ -1,0 +1,56 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1969-08-15</mods:dateCreated>
+    <mods:dateOther type="display">August 15, 1969</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">North Side</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1969-08-15T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of the construction of the Three Rivers Stadium. The process of building the stadium began in 1948 when the first proposal was made to replace Forbes Field, then the Pirates' home. A site on the north side of the city was chosen in 1958 but a series of political squabbles and labor disputes delayed the project for a decade. Finally, on April 25, 1968, construction began. The stadium was scheduled to open for the start of the 1970 season but unlike Forbes Field, which had been built in four months, construction at the new site dragged on. The stadium wasn’t ready on opening day nor was it ready for its revised target date of May 29 because the lights had yet to be put in place. The new stadium was finally ready on July 16, 1970. The stadium had cost $40 million.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>North Side (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Three Rivers Stadium (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stadiums Design and Construction</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Three Rivers Stadium Under Construction</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>North Side</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Three Rivers Stadium</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form/>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.69121580.CP</mods:identifier>
+</mods:mods>

@@ -1,0 +1,75 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1957-04-03</mods:dateCreated>
+    <mods:dateOther type="display">April 3, 1957</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">South Side</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1957-04-03T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of local businesses on Carson Street including an Isaly's, Chester's Greeting Cards and Phonograph Records, and Young's Tavern. The Isaly Dairy Company was founded in Pittsburgh in 1931 but has its origins as the Mansfield Pure Milk Company, founded in Mansfield Ohio in 1902. The stores were famous for skyscraper ice cream cones and could be found in Ohio, Pennsylvania, and West Virginia. Chester's Greeting Cards shows an advertisement for the defunct radio station WHOD (Homestead), "The Station of Nations," started in 1948 and originally located in Homestead. WHOD sought to provide the immigrant community with ethnic and foreign language programming. The station featured Craig "Porky" Chedwick as one of its early disk jockeys, playing a mix of R&amp;amp;B, gospel, and jazz. By 1956 the station format would cease its ethnic programming and was sold to Dynamic Broadcasting where it would become known as WAMO (Allegheny, Monongahela, Ohio).</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>South Side (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carson Street (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Isaly's (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Young's Tavern (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Chester's (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bars (Drinking establishments)</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Commercial strips</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Automobiles</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>South Side Businesses</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>South Side</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">1719 Block of Carson Street</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>5x7 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.5799855.CP</mods:identifier>
+</mods:mods>

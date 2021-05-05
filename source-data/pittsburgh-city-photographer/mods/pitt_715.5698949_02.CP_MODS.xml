@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>Sarah Street and South 22nd Street</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>South Side Flats (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:identifier>AIS.1971.05</mods:identifier>
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note type="address">2200 Sarah Street</mods:note>
+  <mods:abstract>View of Sarah Street at the intersection with South 22nd Street, looking west. In view is "Fink's Quality Market" (far left) and the Saint Casimir Roman Catholic Church (left). According to the Catholic Diocese of Pittsburgh's website, the church was the first Lithuanian parish in the diocese and was founded in 1893 and was in service until 1992, when the church was closed and the congregation merged with another in the South Side, forming the Prince of Peace parish.</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:genre>photograph</mods:genre>
+  <mods:identifier type="pitt">715.5698949_02.CP</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1956-12-03</mods:dateCreated>
+    <mods:dateOther type="display">December 3, 1956</mods:dateOther>
+    <mods:dateOther type="sort">1956-12-03T00:00:00-05:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form>4x5 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

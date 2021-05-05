@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>Dollar Street</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>North Oakland (Pittsburgh Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:identifier>AIS.1971.05</mods:identifier>
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-1885</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note type="address">Dollar Street</mods:note>
+  <mods:abstract>A view of properties on Dollar Street looking north east.</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:genre>photograph</mods:genre>
+  <mods:identifier type="pitt">715.3627261.CP</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1936-2-25</mods:dateCreated>
+    <mods:dateOther type="display">February 25, 1936</mods:dateOther>
+    <mods:dateOther type="display">1936-1969</mods:dateOther>
+    <mods:dateOther type="sort">1936-01-01T00:00:00-05:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Nitrate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

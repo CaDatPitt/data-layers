@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>East Warrington Avenue and Brosville Street</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Allentown (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:identifier>AIS.1971.05</mods:identifier>
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note type="address">844 East Warrington Avenue</mods:note>
+  <mods:abstract>View of East Warrington Avenue, looking east at the intersection with Brosville Street (left). In view is a reporter's office with the sign "Leave Ads and News Here."</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:genre>photograph</mods:genre>
+  <mods:identifier type="pitt">715.5699016_12.CP</mods:identifier>
+  <mods:identifier type="source">5699016_12c</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1956-12-11</mods:dateCreated>
+    <mods:dateOther type="display">December 11, 1956</mods:dateOther>
+    <mods:dateOther type="sort">1956-12-11T00:00:00-05:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form>4x5 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

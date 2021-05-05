@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Online" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ais197105</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Pittsburgh City Photographer Collection, 1901-2000
+                    <num>AIS.1971.05</num>
+                </titleproper>
+                <author>Finding aid prepared by Deirdre A. Scaggs. Revisions occurred to the finding aid as part of the encoding process in December, 2003 and February 2006.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives &amp; Special Collections</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Archives &amp; Special Collections</addressline>
+                    <addressline>Website: library.pitt.edu/archives-special-collections</addressline>
+                    <addressline>412-648-3232 (ASC) | 412-648-8190 (Hillman)</addressline>
+                    <addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline>
+                </address>
+                <date>March 2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2019-04-29T15:10-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>March 2010</date>
+                <item>Converted from EAD Version 1.0 to EAD Version 2002</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pittsburgh City Photographer Collection</unittitle>
+            <unitid>AIS.1971.05</unitid>
+            <repository>
+                <corpname>ULS Archives &amp; Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>280.0 linear feet</extent>
+                <extent>587 manuscript boxes, 3 file drawer boxes, and 45 Hollinger boxes </extent>
+            </physdesc>
+            <unitdate>1901-2002</unitdate>
+            <abstract id="ref2" label="Abstract">This collection serves as a visual documentation of the construction of streets, bridges, parks, and recreational facilities in the city of Pittsburgh as taken by members of the Department of Public Works (City Photographer). These views include building, transportation, industry, housing, and peripheral details of the history and development of Pittsburgh from the early 1900s to the early part of the twenty-first century. The focus of the City Photographer changed in the early 1970s, becoming part of the Department of Public Safety and taking police photographs in addition to continuing to take photographs for the Mayor's office and other departments. Digital reproductions of the collection are available 
+                <extref ns2:href="http://historicpittsburgh.org/collection/pittsburgh-city-photographer-collection">online</extref>.</abstract>
+            <origination label="creator">
+                <corpname rules="rda" source="local">Pittsburgh (Pa.). Department of Public Safety. Photo Unit.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="rda" source="local">Pittsburgh (Pa.). Department of Public Works. Division of Photography.</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>The earliest known city photographer was Brady W. Stewart, whose name is found stamped on envelopes containing the earliest images. Stewart eventually set up his own photography studio in downtown Pittsburgh. Other city photographers included Emil Kloes, who worked in the 1920's and 1930's; Luek James, who worked in the 1930's; and Joseph Mueller, who worked from the 1950's to the 1970's. Originally part of the Department of Public Works, the position of City Photographer became part of the Department of Public Safety in the 1970's.</p>
+        </bioghist>
+        <altformavail id="ref10">
+            <head>Existence and Location of Copies</head>
+            <p>Digital reproductions of the collection are available electronically at 
+                <extref ns2:href="http://historicpittsburgh.org/collection/pittsburgh-city-photographer-collection">http://historicpittsburgh.org/collection/pittsburgh-city-photographer-collection</extref>.</p>
+        </altformavail>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>The Pittsburgh City Photographer Collection is comprised entirely of photographic prints and negatives. It does not contain much in the way of office records for the Pittsburgh City Photographer save a few copies relating to supply purchases which can also found in the city's annual report and three log books dating from 1959-1975.</p>
+            <p>The collection contains film negatives, glass plate negatives, and photographic prints as commissioned from the Department of Public Works, Division of Photography, City of Pittsburgh and by other city departments. The dates covered by this collection are 1901 thru 2000. The city photographers' tasks included, but were not limited to, documenting construction of roads, bridges, sewers, and other public works projects in the city of Pittsburgh. They also photographed the rebuilding of city streets, improvement of water supply infrastructure, mayoral events, and accidents involving city vehicles. Some specific examples include the 1905 construction of the filtered water reservoir, the 1911 North Side flood district survey, and the excavation of the "Hump" which is documented between 1912 and 1913.</p>
+            <p>The engineering photographs are taken from different compass points, at different times, and at various sites, showing a definitive picture of a particular neighborhood at a particular time. There are also negatives of printed materials including mayor's correspondence, speeches and editorial cartoons drawn by Cy Hungerford regarding the mayor, Charles Kline, circa 1927. The collection is arranged chronologically by year and sequentially by image number.</p>
+            <p>Early city photographers used view cameras in the course of their work. Negatives in the collection range from modern 35mm to 8x10 glass plate with the most common sizes being 5x7 inches and 6 ½ x 8 ½ inches. Glass plate negatives were used until the mid 1920's when the photographers made the move to flexible sheet film. Negative sizes in the collection reflect photographic trends of the time in which they were created.</p>
+            <p>Nearly all negatives are meticulously identified. Glass plate negatives have labels hand-stamped on the emulsion side. Sheet film labels were typed onto tissue paper and then pasted onto the emulsion side. The labels contained the following information: An abbreviation for the department or bureau for which the image was made; a brief description of the image; the date the exposure was made; and an individual image number.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Gift of Joe Mueller, Chief Photographer, City-County Building, in 1971 and 1972. Gift of George Coppola, Photography Unit Department of Public Safety, in April 2003.</p>
+        </acqinfo>
+        <odd id="ref12">
+            <head>Previous Citation</head>
+            <p>Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</p>
+        </odd>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives &amp; Special Collections, University of Pittsburgh Library System</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>This collection was processed by Frank J. Kurtik in 1981.</p>
+        </processinfo>
+        <userestrict id="ref9">
+            <head>Copyright</head>
+            <p>No restrictions.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname rules="rda" source="local">Pittsburgh (Pa.). Department of Public Safety. Photo Unit.</corpname>
+            <corpname rules="rda" source="local">Pittsburgh (Pa.). Department of Public Works. Division of Photography.</corpname>
+            <subject source="ulstag">Architecture</subject>
+            <subject source="lcsh">Bridges -- Pennsylvania -- Pittsburgh -- Design and construction -- Photographs</subject>
+            <subject source="lcsh">Buildings -- Pennsylvania -- Pittsburgh -- Photographs</subject>
+            <subject source="lcsh">Business enterprises -- Pennsylvania -- Pittsburgh -- Photographs</subject>
+            <subject source="ulstag">Government</subject>
+            <subject source="lcsh">Neighborhoods -- Pennsylvania -- Pittsburgh -- Photographs</subject>
+            <subject source="lcsh">Parks -- Pennsylvania -- Pittsburgh -- Photographs</subject>
+            <geogname source="lcsh">Pittsburgh (Pa.) -- Photographs</geogname>
+            <subject source="lcsh">Public works -- Pennsylvania -- Pittsburgh -- Photographs</subject>
+            <subject source="lcsh">Streets -- Pennsylvania -- Pittsburgh -- Design and construction -- Photographs</subject>
+            <subject source="ulstag">Transportation</subject>
+            <subject source="lcsh">Tunnels -- Pennsylvania -- Pittsburgh -- Design and construction -- Photographs</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

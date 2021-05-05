@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1913-09-03</mods:dateCreated>
+    <mods:dateOther type="display">September 3, 1913</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Morningside</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1913-09-03T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:abstract>Construction near the east abutment under the Haights Run [Heths Run] Bridge.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bridges</mods:topic>
+    <mods:topic>Design and construction</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Haights Run Bridge</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="local">
+    <mods:geographic>Morningside (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Haights Run [Heths Run] Bridge</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.133585.CP</mods:identifier>
+</mods:mods>

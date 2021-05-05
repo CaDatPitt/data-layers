@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>Market Square</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Downtown (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:identifier>AIS.1971.05</mods:identifier>
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note type="address">Market Square</mods:note>
+  <mods:abstract>View of pedestrians in the bustling Market Square in downtown Pittsburgh, which serves as a center of commerce and social events in the city.  A view of Diamond Street, looking south east towards the intersection with Diamond Street, taken under the New Diamond Market House. According to the Market Square Merchant Association's website, the New Diamond Market House was constructed in 1914, and stood until 1961.</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:genre>photograph</mods:genre>
+  <mods:identifier type="pitt">715.5699060_06.CP</mods:identifier>
+  <mods:identifier type="source">5699060_06c</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1956-12-13</mods:dateCreated>
+    <mods:dateOther type="display">December 13, 1956</mods:dateOther>
+    <mods:dateOther type="sort">1956-12-13T00:00:00-05:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form>4x5 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

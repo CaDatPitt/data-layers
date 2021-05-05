@@ -1,0 +1,81 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1941-01-21</mods:dateCreated>
+    <mods:dateOther type="display">January 21, 1941</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Highland Park</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1941-01-21T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>Zoo employees in the service corridor to the grizzly bear dens. In the 1930s, City Councilman John M. Phillips wanted to do something about the deteriorating condition of the Pittsburgh Zoo. One of the main exhibits in need of repair was the bear cages. After a visit to the Bronx Zoo, he returned to Pittsburgh with a $300,000 plan for new barless bear dens which were to be among the first renovations in a ten-year plan for the zoo. The new dens were able to be made barless by employing a moat to keep the bears from getting to the visitors. This design was made popular in Germany at the turn of the twentieth century. The dens opened on September 11, 1937. There were four dens created, one each for polar, grizzly, and cinnamon bears, with black and brown bears housed in the same den. More than 100 years ago, philanthropist Christopher Lyman Magee donated $125,000 for the construction of zoological gardens in Pittsburgh's Highland Park area. On June 14, 1898, the Pittsburgh Zoo opened to the public for the very first time, providing people with a rare glimpse of animals and plants they had never seen before. Fitting zoo paradigms of the time, it was more of an animal menagerie. Through the years, however, the zoo has transformed into a naturalistic habitat and resource for conservation, education and research.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Highland Park (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Zoos</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Grizzly bears</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Polar bears</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Brown bears</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Cinnamon bears</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Black bears</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Zoos Design and construction.</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Pittsburgh Zoo -- Grizzly Dens Service Corridor</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Highland Park</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Pittsburgh Zoo</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form/>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.4159976.CP</mods:identifier>
+</mods:mods>

@@ -1,0 +1,57 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1969-07-11</mods:dateCreated>
+    <mods:dateOther type="display">July 11, 1969</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Oakland</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1969-07-11T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>Track and Field Day sponsored by the Department of Parks and Recreation at Pitt Stadium. Constructed in 1924 for $2.1 million, Pitt Stadium stood as the symbol of the University of Pittsburgh's sports program. The stadium covered approximately nine acres. A total of 2,200 tons of structural steel, 1,000 tons of reinforced steel, and 20,000 cubic yards of concrete was used to set up the bowl. The structure was razed in 1999 to make way for the Peterson Events Center. The Oakland VA Hospital is visible in the background.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Oakland (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>University of Pittsburgh (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Pitt Stadium (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>VA Hospital (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Track and Field Day at Pitt Stadium</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Oakland</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Pitt Stadium</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>4x5 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.69121451_16.CP</mods:identifier>
+</mods:mods>

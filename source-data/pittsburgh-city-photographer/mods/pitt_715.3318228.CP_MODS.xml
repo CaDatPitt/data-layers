@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>On the City Hall Job</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Pittsburgh (Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:identifier>AIS.1971.05</mods:identifier>
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-1896</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>Pittsburgh Post-Gazette</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:abstract>Political cartoon commentary on the "rebuilding" of City Hall with the resignation of Charles H. Kline as mayor by the artist Cyrus Cotton Hungerford. Senator James J. Coyne (1925-1935), Republican organization leader of Pittsburgh carries City Council President John S. Herron, soon to be Mayor of Pittsburgh for the rest of Charles H. Kline's mayoral tenure.  Mayor Kline's second term would run short as Mayor Kline and a supplies department head would be charged with 43 counts of misfeasance and malfeasance in office in 1931, according to his Pennsylvania State Senate short biography. Mayor Kline was convicted with the charges in 1932. though he would appeal for the next year before dying in July, 1933 due to declining health. In 1912 Hungerford began as a newspaper cartoon artist at the Pittsburgh Sun, afterwards he produced daily cartoons at the Pittsburgh Post-Gazette from 1927 until his retirement in 1977.</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unpublished"/>
+  </mods:accessCondition>
+  <mods:genre>photograph</mods:genre>
+  <mods:identifier type="pitt">715.3318228.CP</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1933-03-28</mods:dateCreated>
+    <mods:dateOther type="display">March 28, 1933</mods:dateOther>
+    <mods:dateOther type="sort">1933-03-28T00:00:00-05:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form>5x7 Safety</mods:form>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

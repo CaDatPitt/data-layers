@@ -1,0 +1,59 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1973-03-20</mods:dateCreated>
+    <mods:dateOther type="display">March 20, 1973</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Downtown</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1973-03-20T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of the WKTQ AM radio station headquarters on Forbes Avenue. WKTQ, called 13Q for short, began broadcasting on 1320 AM frequency in 1973. The station, run by Buzz Bennett, replaced WJAS. Its goal was to change the industry by catering more to the younger generation. Callers were encouraged to answer, "I listen to the new sound of 13Q!" Its main rival at the time was KQV, another Pittsburgh radio station.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Downtown Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Radio Stations</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Forbes Avenue (Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>WKTQ (Radio Station: Pittsburgh, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>WKTQ AM Office on Forbes Avenue</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Downtown</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">111 Forbes Avenue</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form/>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.73123737.CP</mods:identifier>
+</mods:mods>

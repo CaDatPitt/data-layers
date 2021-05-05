@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD">
+  <mods:titleInfo>
+    <mods:title>Mount Washington Roadway Extension</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>South Side Slopes (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:relatedItem type="host">
+    <mods:identifier>AIS.1971.05</mods:identifier>
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-1846</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note type="address">P.J. McArdle Roadway</mods:note>
+  <mods:abstract>View of roadwork extending the Mount Washington Roadway (now P.J. McArdle Roadway, it was renamed in 1943) to connect Arlington Avenue with South 10th Street. Looking east from near the intersection with Arlington Avenue, in view below in the South Side Flats neighborhood is the Pittsburgh Terminal Warehouse and Transfer Company complex. Constructed in 1906, it was an important industrial complex from 1906-1960 after the last major tenant that used the building for production during the Second World War left, according to the National Park Service's National Register of Historic Places Program webpage relating to the complex. It was rennovated in 2002 and since 2005 it has been occupied as the River Walk Corporate Centre.</mods:abstract>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unpublished"/>
+  </mods:accessCondition>
+  <mods:genre>photograph</mods:genre>
+  <mods:identifier type="pitt">715.3318494.CP</mods:identifier>
+  <mods:originInfo>
+    <mods:dateCreated encoding="iso8601" keyDate="yes">1933-06-10</mods:dateCreated>
+    <mods:dateOther type="display">June 10, 1933</mods:dateOther>
+    <mods:dateOther type="sort">1933-06-10T00:00:00-04:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Acetate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+</mods:mods>

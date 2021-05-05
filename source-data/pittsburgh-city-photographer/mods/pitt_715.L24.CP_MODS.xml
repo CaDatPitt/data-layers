@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1928-06-06</mods:dateCreated>
+    <mods:dateOther type="display">June 6, 1928</mods:dateOther>
+    <mods:dateOther type="sort">1928-06-06T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:abstract>Photographic reproduction of a two-page letter to Mayor Charles Kline from A. Chaney of the Liberty Press in Cleveland, inviting him on a trip to Hungary.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Hungary</mods:topic>
+    <mods:topic>Relations</mods:topic>
+    <mods:topic>Letters</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Invitation to Hungary</mods:title>
+  </mods:titleInfo>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>8x10 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.L24.CP</mods:identifier>
+  <mods:subject authority="lcsh">
+    <mods:topic>Mayors</mods:topic>
+    <mods:topic>Pittsburgh (Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal" authority="local">
+      <mods:namePart>Kline, Charles H.</mods:namePart>
+      <mods:namePart type="date">1870-1933</mods:namePart>
+    </mods:name>
+  </mods:subject>
+</mods:mods>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1923-04-19</mods:dateCreated>
+    <mods:dateOther type="display">April 19, 1923</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Downtown</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1923-04-19T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:abstract>A view of Ferry Street looking south from the corner of Second Avenue showing a mix of wholesale and retail businesses supplying dairy products. These businesses included the E. M. West Co. (103), the J. R. Lloyd Co. (107), , the Swindler &amp; Scott Co. (109), the George N. Clark (111) Co., and the Harding Cream Company (113). According to city directories available at the time, it also appears that J. L Kraft Bros. was located at 113 and that the Phoenix Cheese Co. was also at 103.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Commercial buildings</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Ferry Street</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="naf">
+    <mods:geographic>Golden Triangle (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">103-113 Ferry Street</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>5x7 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.231992.CP</mods:identifier>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="local">
+    <mods:geographic>Downtown (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="local">
+    <mods:geographic>Central Business District (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+</mods:mods>

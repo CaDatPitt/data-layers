@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1931</mods:dateCreated>
+    <mods:dateOther type="display">1931</mods:dateOther>
+    <mods:dateOther type="sort">1931-01-01T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:abstract>Chart of Typhoid Deaths, By Major City, Per 100,000 Persons of Color, 1910-1920. The threat of Typhoid was very real for major metropolitain areas such as Pittsburgh. Pittsburgh had the highest death rate from Typhoid between 1893 and 1907.  For an in-depth analysis of Pittsburgh and its water system, please see Joel A. Tarr's paper, &#13;
+Pittsburgh Wastewater Issues: The Historical Origins of an Environmental Problem,  http://www.ifz.tugraz.at/index_en.php/article/articleview/658/1/30/.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Typhoid fever</mods:topic>
+    <mods:topic>Mortality</mods:topic>
+    <mods:genre>Tables</mods:genre>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Typhoid Cases, 1910-1920</mods:title>
+  </mods:titleInfo>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>5x7 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.3117317.CP</mods:identifier>
+  <mods:subject authority="naf">
+    <mods:geographic>United States</mods:geographic>
+  </mods:subject>
+</mods:mods>

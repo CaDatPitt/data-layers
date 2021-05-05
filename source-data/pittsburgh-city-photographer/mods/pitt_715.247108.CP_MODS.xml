@@ -1,0 +1,48 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1924-02-13</mods:dateCreated>
+    <mods:dateOther type="display">February 13, 1924</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">East Liberty</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1924-02-13T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of the Penn Avenue Bridge looking west showig  The image also shows holes in the floor plates. The Liberty Theatre, showing the film "Painted People" starring Colleen Moore, is visible on the right at the end of the bridge.  The Liberty Theatre was built in 1915 and designed by H. E. Kennedy &amp;amp; Co. (Pittsburgh) Architects, with Henry Hornbostel as consulting architect. The theatre featured a terra cotta front with the American flag in lights in the center. It was demolished in 1968.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>East Liberty (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Liberty Theatre</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>East Liberty</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Penn Avenue</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.247108.CP</mods:identifier>
+</mods:mods>

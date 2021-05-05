@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1920-05-14</mods:dateCreated>
+    <mods:dateOther type="display">May 14, 1920</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">North Side</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1920-05-14T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:abstract>Architectural drawing  sheet 9 of 12 showing the plans for the regrading and paving of East Ohio Street with plans for retaining walls between Heinz Street to the city line. The plan also shows the track layout for the Pennsylvania Railroad and the Pittsburgh Railways Company.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+    <mods:topic>Designs and plans</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>East Ohio Street Paving Plans</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="naf">
+    <mods:geographic>North Side (Pittsburgh, Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">East Ohio Street</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>8x10 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.208375.CP</mods:identifier>
+  <mods:subject authority="lcsh">
+    <mods:topic>Walls</mods:topic>
+    <mods:topic>Designs and plans</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Railroads</mods:topic>
+    <mods:topic>Designs and plans</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="corporate" authority="naf">
+      <mods:namePart>Pittsburgh Railways Company</mods:namePart>
+    </mods:name>
+  </mods:subject>
+</mods:mods>

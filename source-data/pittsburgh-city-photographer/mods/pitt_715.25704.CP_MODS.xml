@@ -1,0 +1,76 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1925-08-21</mods:dateCreated>
+    <mods:dateOther type="display">August 21, 1925</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Dormont</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1925-08-21T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>Children playing on Wedgemere Avenue, a western view east of Rossmore Avenue. A work crew is paving the road in the distance.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dormont (Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Wedgemere Avenue (Dormont, Pa.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Dormont.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Wagons</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Dormont.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tricycles</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Dormont.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Housing</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Dormont.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Public works</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Dormont.</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Street Play on Wedgemere Avenue</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Dormont</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Wedgemere Avenue</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>6 1/2 x 8 1/2 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.25704.CP</mods:identifier>
+</mods:mods>

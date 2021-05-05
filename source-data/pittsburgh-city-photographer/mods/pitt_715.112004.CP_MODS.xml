@@ -1,0 +1,67 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1911-05-17</mods:dateCreated>
+    <mods:dateOther type="display">May 17, 1911</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Oakland</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1911-05-17T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of University Drive at Bigelow Boulevard, looking west at Thaw Hall on the University of Pittsburgh campus.  Thaw Hall was constructed in 1909 and dedicated June 15, 1910.The building is named for Benjamin Thaw Sr. who donated a substantial amount of money for the building. This building, along with the Mineral Industries Building, State Hall, and Pennsylvania Hall, was one of the few buildings built as part of the "Acropolis Plan" designed by Palmer and Hornbastel for the campus buildings. The buildings would have sat on the hill between Bigelow Boulevard and where the medical complex is now, and would have all been based upon classical Greek design and architecture. However after the construction of these few buildings the University decided to move in another direction with the rest of the campus buildings.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh</mods:topic>
+    <mods:topic>Maintenance and repair.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>University Drive (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bigelow Boulevard (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>University of Pittsburgh</mods:topic>
+    <mods:topic>Buildings.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Thaw Hall (University of Pittsburgh).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Oakland (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Pitt Road</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Oakland</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">University Drive</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>5x7 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.112004.CP</mods:identifier>
+</mods:mods>

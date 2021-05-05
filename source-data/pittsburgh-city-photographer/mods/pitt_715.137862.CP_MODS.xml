@@ -1,0 +1,64 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1913-03-28</mods:dateCreated>
+    <mods:dateOther type="display">March 28, 1913</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Squirrel Hill</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1913-03-28T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="pd" publication.status="unknown"/>
+  </mods:accessCondition>
+  <mods:abstract>A view of the interior of Phipps Conservatory. Construction of the Phipps Conservatory, located in Schenley Park, got under way in August 1892 and was completed in August 1893. It opened on December 7, 1893, without any official ceremonies. The greenhouse firm of Lord and Burnham was commissioned to design and build the Conservatory. The new Phipps Conservatory was at the time the largest in the United States. It had nine display houses of glass and metal and entrance buildings of stone in the Richardson Romanesque style, with offices and restrooms. In 1967 the Romanesque entrance was demolished and a new modern entrance was built with a foyer four times larger that the former one. In November 1976, the conservatory was declared a National Historic Landmark and two years later a $3.2 million facelift restored the structure to its 1893 origins. The facility was renamed Phipps Conservatory and Botanical Gardens in 1997.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Phipps Conservatory.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Conservatory plants</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Conservatories</mods:topic>
+    <mods:topic>Pennsylvania</mods:topic>
+    <mods:topic>Pittsburgh.</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Schenley Park (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Squirrel Hill (Pittsburgh, Pa.).</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Pittsburgh City Photographer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Pittsburgh City Photographer Collection, 1901-2002</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Interior of Phipps Conservatory</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Squirrel Hill</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Schenley Park</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>8x10 Glass Plate Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">715.137862.CP</mods:identifier>
+</mods:mods>
