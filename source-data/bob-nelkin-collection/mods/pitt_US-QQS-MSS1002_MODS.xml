@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Guide to the Bob Nelkin Collection of ACC-PARC Records</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Nelkin, Bob</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <dateOther>1953-2000</dateOther>
+    <dateIssued encoding="marc" point="start">1953</dateIssued>
+    <dateIssued encoding="marc" point="end">2000</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>4.5 linear feet + shelf</extent>
+    <note type="arrangement">The Bob Nelkin Collection of ACC-PARC records is arranged into four series and several subseries.</note>
+  </physicalDescription>
+  <abstract type="Summary">The Bob Nelkin Collection of ACC-PARC records is housed in five boxes and arranged into four series and several subseries. Primarily comprised of correspondence, reports, meeting minutes, case files, notes, and news clippings, the records in this collection reflect the disability advocacy initiatives undertaken by ACC-PARC members throughout the late 1960s and 1970s. Among the collections strengths are the materials in Series II, which contain the records created by ACC-PARC members throughout the course of their efforts to expose social welfare concerns in the residential care facilities they visited in the early 1970s.  Series designations consist of Series I. Administrative Records (1953-1983), State School and Hospital (SSH) and Interim Care Committee Records (1972-1997), Series III: Scrapbooks (1966-1967, 1972, 1974-1975), and Series IV: Photographs (ca1960s-2000).</abstract>
+  <accessCondition type="restriction on access">Restrictions : Due to the personal information disclosed, case file records have been restricted. Redacted copies of these case file records have been generated and interfiled with the collection.<copyrightMD:copyright publication.status="" copyright.status=""><copyrightMD:general.note/><copyrightMD:rights.holder><copyrightMD:name/><copyrightMD:contact/></copyrightMD:rights.holder></copyrightMD:copyright></accessCondition>
+  <note type="preferred citation">Bob Nelkin collection of Allegheny County Chapter of the Pennsylvania Association for Retarded Children (ACC-PARC) records, 1953-2000, MSS 1002, Thomas and Katherine Detre Library and Archives, Senator John Heinz History Center</note>
+  <note type="funding">Cataloging of this collection was funded by a Basic Processing grant from NHPRC.</note>
+  <note type="acquisition">George Pashel Gift 2013 2013.0173</note>
+  <note type="biographical/historical">First formed in 1951, the Allegheny County Chapter of the Pennsylvania Association for Retarded Children (ACC-PARC) was established as a grassroots organization comprised of the parents of those people with disabilities. Operating under the name the Greater Pittsburgh Association of Parents and Friends of the Mentally Retarded, this organization adopted a mission to promote the general welfare of mentally retarded children of all ages everywhere. To fulfill its mission, ACC-PARC created a number of services to people with disabilities and their families, including diagnostic clinics, education and vocational training, community centers, ongoing research and advocacy efforts, counseling, and recreational activities. In addition to providing ongoing services, ACC-PARC also regularly organized internal conventions to assess ongoing needs of people with disabilities in the region and regularly offered informative programs throughout the year.       The aspect of ACC-PARCs daily activities most represented in these records are the efforts of the association to investigate the treatment of people with disabilities living at residential care facilities in Western Pennsylvania during the 1960s and 1970s.  Prompted by informal reports of mistreatment, ACC-PARC committee members developed a grassroots strategy to investigate the living conditions of people with disabilities at care facilities throughout the region. Overseen by staff member, Bob Nelkin, a small team of ACC-PARC members harnessed leads and reports to inform both announced and unannounced visits to care facilities such as Western State School and Hospital, the Polk Center, the Ridgeview Center, and the Highland Park Center. The visitation teams paid particular attention to the living conditions of the residents, facility staffing data, sanitary conditions, disciplinary practices, and treatment strategies. Recording their observations directly following their visit, the visitation team then generated formalized notes and reports that reflected their findings.  Throughout the course of their visits, the visitation teams discovered that various facilities throughout the region employed the use of strait jackets, restraints, isolation rooms, cattle prods, and other abuses that violated the human rights of the residents.</note>
+  <note type="ownership">Gift of George Pashel</note>
+  <note type="action">Processed MSS 1002 01/20/2014 S. Green</note>
+  <note>Collection level finding aid available.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Nelkin, Bob</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Thornburgh, Dick. (1932-)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Thornburgh, Ginny</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Jackson, Farrell</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Polk State Center (Polk, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Pennhurst State School and Hospital (Spring City, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Western Center (Canonsburg, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Highland Park Care Center (Pittsburgh, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Ebensburg State Center (Ebensburg, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Selinsgrove State Center (Selinsgrove, Pa.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Social service</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Social welfare</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Disability and the disabled</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>People with disabilities</topic>
+    <topic>Abuse of</topic>
+    <geographic>Pennsylvania</geographic>
+  </subject>
+  <name>
+    <namePart>Detre Library &amp; Archives, Heinz History Center</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>Historical Society of Western Pennsylvania Senator John Heinz History Center Thomas and Katherine Detre Library and Archives 1212 Smallman Street, Pittsburgh, PA, USA.</physicalLocation>
+  </location>
+  <identifier type="oclc">932881543</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding Aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?c=hswpead;cc=hswpead;rgn=main;view=text;didno=US-QQS-MSS1002</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordContentSource authority="marcorg">QQS</recordContentSource>
+    <recordCreationDate encoding="marc">151219</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20151219105733.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocn932881543</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">US-QQS-MSS1002</identifier>
+</mods>

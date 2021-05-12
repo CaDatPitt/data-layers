@@ -1,0 +1,35 @@
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <mods:titleInfo>
+    <mods:title>Letter from Bob Nelkin to Representative Richard J. Cessar</mods:title>
+  </mods:titleInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="unknown" publication.status="unknown"></copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:name>
+    <mods:namePart>Detre Library &amp; Archives, Heinz History
+                            Center</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued keyDate="yes">1978-03-29/1978-03-29</mods:dateIssued>
+    <mods:dateOther type="display">March 29, 1978</mods:dateOther>
+  </mods:originInfo>
+  <mods:abstract>A letter from Bob Nelkin to Representative Richard Cessar voicing the concerns of citizens and ACC-PARC regarding a lack of services for citizens with intellectual and developmental disabilities and the emotionally disturbed.</mods:abstract>
+  <mods:identifier type="pitt">MSS_1002_B001_F17_I02</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Bob Nelkin Collection of ACC-PARC Records</mods:title>
+    </mods:titleInfo>
+    <mods:identifier type="local-asc">MSS 1002</mods:identifier>
+    <mods:originInfo>
+      <mods:dateCreated>1953-2000</mods:dateCreated>
+    </mods:originInfo>
+    <mods:note type="series">I. Administrative Records 1953-1983</mods:note>
+    <mods:note type="container">box 1, folder 17, Item 2</mods:note>
+    <mods:note type="ownership">Heinz History Center</mods:note>
+    <mods:note type="prefercite">Bob Nelkin Collection of ACC-PARC Records, 1953-2000, MSS 1002 , Detre Library and Archives, Senator John Heinz History Center</mods:note>
+  </mods:relatedItem>
+</mods:mods>

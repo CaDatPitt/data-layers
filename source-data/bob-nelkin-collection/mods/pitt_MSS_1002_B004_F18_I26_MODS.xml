@@ -1,0 +1,36 @@
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <mods:titleInfo>
+    <mods:title>Letter from Mr. and Mrs. Beckert to Milton Shapp</mods:title>
+  </mods:titleInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="unknown" publication.status="unknown"></copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:name>
+    <mods:namePart>Detre Library &amp; Archives, Heinz History
+                            Center</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued keyDate="yes">1973-05/1973-05</mods:dateIssued>
+    <mods:dateOther type="display">May 1973</mods:dateOther>
+  </mods:originInfo>
+  <mods:abstract>A letter from Mr. and Mrs. Albert Beckert to Governor Milton Shapp refuting the statements Helene Wohlgemuth made regarding Dr. James McClelland, and asking for the reinstatement of McClelland as superintendent of Polk State School and Hospital and a public apology from Secretary Wohlgemuth.</mods:abstract>
+  <mods:identifier type="pitt">MSS_1002_B004_F18_I26</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Bob Nelkin Collection of ACC-PARC Records</mods:title>
+    </mods:titleInfo>
+    <mods:identifier type="local-asc">MSS 1002</mods:identifier>
+    <mods:originInfo>
+      <mods:dateCreated>1953-2000</mods:dateCreated>
+    </mods:originInfo>
+    <mods:note type="series">II. State School and Hospital (SSH) and Interim Care Committee Records 1972-1997</mods:note>
+    <mods:note type="subseries">3. Polk Center c1966-1997</mods:note>
+    <mods:note type="container">box 4, Folder 18, Item 26</mods:note>
+    <mods:note type="ownership">Heinz History Center</mods:note>
+    <mods:note type="prefercite">Bob Nelkin Collection of ACC-PARC Records, 1953-2000, MSS 1002 , Detre Library and Archives, Senator John Heinz History Center</mods:note>
+  </mods:relatedItem>
+</mods:mods>
