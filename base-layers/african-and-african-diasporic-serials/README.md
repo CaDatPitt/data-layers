@@ -27,4 +27,4 @@ present collection is an extends beyond the 79 titles included in this earlier d
 
 **Conditions Governing Use**: The copyright of these materials may still be held by the original creator/author. Researchers are, therefore, advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.
 
-_For more complete collection-level metadata, see the [collection base layer](https://github.com/CaDatPitt/data-layers/blob/master/base-layers/african-and-african-diasporic-serials/african-and-african-diasporic-serials-collection-base-layer.csv)_.
+_For more complete collection-level metadata, see the [collection base layer](https://github.com/CaDatPitt/data-layers/blob/master/base-layers/african-and-african-diasporic-serials/african-and-african-diasporic-serials_collection-base-layer.csv)_.
