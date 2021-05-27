@@ -2,8 +2,8 @@
 
 **Creator**:
 - Briana J. Wipf (Email: [brianawipf@gmail.com](mailto:brianawipf@gmail.com))
-- Tyrica Terry Kapral (GitHub: [tyt3](https://github.com/tyt3); Email: [tyt3@pitt.edu](mailto:tyt3@pitt.edu))
-- Gesina Phillips (GitHub: [ges-na](https://github.com/ges-na); Email: [gap64@pitt.edu](mailto:gap64@pitt.edu))
+- Tyrica Terry Kapral (Email: [tyt3@pitt.edu](mailto:tyt3@pitt.edu); GitHub: [tyt3](https://github.com/tyt3))
+- Gesina Phillips (Email: [gap64@pitt.edu](mailto:gap64@pitt.edu); GitHub: [ges-na](https://github.com/ges-na))
 
 **Creation Date**: May 2021
 
