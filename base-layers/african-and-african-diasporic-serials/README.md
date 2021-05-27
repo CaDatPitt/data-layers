@@ -12,10 +12,7 @@
 
 **Temporal Coverage**: 20th century, 21st century
 
-**Abstract**: This collection is based on a [dataset of African American periodicals](https://pitt.app.box.com/s/ax4qyyuyv4to25cdfvwegh7masoegqeyl) created by the
-Archives and Special Collections Department (primarily Amy Brunner, an graduate student intern under the supervision of Jennifer Needham at the time of creation). The
-present collection is an extends beyond the 79 titles included in this earlier dataset to 576 titles, as result of catalog searches using the following subject headings:
-'African,' 'African American,' 'Afro,' 'Black,' 'Negro,' and 'Pan-African.'
+**Abstract**: This collection is based on a [dataset of African American periodicals](https://pitt.app.box.com/s/ax4qyyuyv4to25cdfvwegh7masoegqeyl) created by the Archives and Special Collections Department (primarily Amy Brunner, an graduate student intern under the supervision of Jennifer Needham at the time of creation). The present collection is an extends beyond the 79 titles included in this earlier dataset to 576 titles, as result of catalog searches using the following subject headings: 'African,' 'African American,' 'Afro,' 'Black,' 'Negro,' and 'Pan-African.'
 
 **Scope and Content**: This collection comprises serials by and about Africans and African Diasporic peoples, organizations, institutions, and communities. These serials come from across the globe, including countries in Africa, Asia, Europe, and North and South America. The African peoples represented in this collection include those in Egypt, Ghana, Ivory Coast, Kenya, Morocco, Nigeria, Senegal, South African, Tanzania, Uganda, Zambia. The African diaspora comprises diverse communities of people of African descent dispersed throughout the world as a result of historic movements. The majority of these dispersed communities are due to the Atlantic and trans-Saharan (also referred to as Arab or Muslim) slave trades, the largest forced migrations in history. Others diasporic communities were formed before and after these slave trades. The peoples of African descent represented this collection includes those in Belgium, Brazil, Canada, China, Cuba, France, Germany, India, Jamaica, Netherlands, Norway, Portugal, Spain, Sweden, United Kingdom, United States, Uruguay.
 
