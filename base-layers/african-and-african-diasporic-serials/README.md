@@ -1,4 +1,4 @@
-# African and African Diasporic Serials Collection 
+# African and African Diasporic Serials Collection
 
 **Creator**: Tyrica Terry Kapral (GitHub: [tyt3](https://github.com/tyt3); Email: [tyt3@pitt.edu](mailto:tyt3@pitt.edu))
 
@@ -21,7 +21,7 @@ present collection is an extends beyond the 79 titles included in this earlier d
 
 **Related Material**: [Shooting Star Review](https://github.com/CaDatPitt/data-layers/tree/master/base-layers/shooting-star-review)
 
-**Repository**: PittCat (University of Pittsburgh library catalog)
+**Repository**: PittCat (University of Pittsburgh Library System catalog)
 
 **Preferred Citation**: African and African Diasporic Serials, CaD@Pitt, University of Pittsburgh Library System.
 
