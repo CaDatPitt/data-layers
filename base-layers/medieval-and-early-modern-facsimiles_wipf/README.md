@@ -1,12 +1,15 @@
 # Medieval and Early Modern Facsimiles and Original Materials at University of Pittsburgh Library System
 
-**Creator**: Briana J. Wipf (Email: [brianawipf@gmail.com](mailto:brianawipf@gmail.com))
+**Creator**:
+- Briana J. Wipf (Email: [brianawipf@gmail.com](mailto:brianawipf@gmail.com))
+- Tyrica Terry Kapral (GitHub: [tyt3](https://github.com/tyt3); Email: [tyt3@pitt.edu](mailto:tyt3@pitt.edu))
+- Gesina Phillips (GitHub: [ges-na](https://github.com/ges-na); Email: [[gap64@pitt.edu](mailto:gap64@pitt.edu))
 
 **Creation Date**: May 2021
 
 **Type**: [Monograph Collection](https://cadatpitt.github.io/documentation/data-dictionary/monograph-collections.html) (catalog)
 
-**Language(s)**: Latin, English, French, German, Dutch, Greek, Spanish, Italian, Arabic, Aramaic, Hebrew, Judeo-Arabic, Yiddish, Judeo-Persian, Ladino, Anglo-Norman, Russian, Pushto, Nahuatl,  Byelorussian, Church Slavic, Czech, Serbo-Croatian, Egyptian Hieroglyphics, Polish, Hungarian, Persian, Mayan languages, Flemish, Japanese, Irish, Galician-Portuguese, Ge’ez, Armenian, Syriac, Chinese
+**Language**: Latin, English, French, German, Dutch, Greek, Spanish, Italian, Arabic, Aramaic, Hebrew, Judeo-Arabic, Yiddish, Judeo-Persian, Ladino, Anglo-Norman, Russian, Pushto, Nahuatl,  Byelorussian, Church Slavic, Czech, Serbo-Croatian, Egyptian Hieroglyphics, Polish, Hungarian, Persian, Mayan languages, Flemish, Japanese, Irish, Galician-Portuguese, Ge’ez, Armenian, Syriac, Chinese
 
 **Extent**: 1,096 items
 
