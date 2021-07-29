@@ -1,0 +1,593 @@
+
+Pennsylvania_NP1 Association_NN1 tor_NN1 Retarded_JJ Citizen_NN1 1500_MC 
+NORTH_ND1 SECOND_MD STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC TE_FW 
+L_NP1 ;_; (_( 71_MC 7_MC )_) 234-262_MCMC MRS_NNB ._. 
+ELSIE_NP1 SCHMID_NP1 PETER_NP1 P._NP1 POLLON_NP1 Presiden_NP1 Executive_NN1 
+Directo_NN1 August_NPM1 23_MC ,_, 197_MC Ms._NNB Anna_NP1 Belle_NP1 
+Calloway_NP1 Regional_JJ Deputy_NN1 Secretary_NN1 Department_NN1 of_IO 
+Public_JJ Welfare_NN1 701_MC State_NN1 Office_NN1 Building_NN1 300_MC 
+Liberty_NP1 Avenue_NNL1 Pittsburgh_NP1 ,_, Pennsylvania_NP1 1522_MC Dear_JJ 
+Annabelle_NP1 We_PPIS2 have_VH0 enclosed_VVN a_AT1 report_NN1 of_IO an_AT1 
+on-site_JJ ,_, unannounced_JJ visit_NN1 to_II Polk_NP1 on_II May_NPM1 25th_MD 
+The_AT Team_NN1 has_VHZ pointed_VVN out_RP some_DD major_JJ problems_NN2 ,_, 
+which_DDQ your_APPGE office_NN1 should_VM address_VVI quickly_RR ._. 
+We_PPIS2 have_VH0 made_VVN a_AT1 number_NN1 of_IO recommendations_NN2 ,_, 
+and_CC look_VV0 forward_RL to_II your_APPGE response_NN1 Action_NN1 must_VM 
+be_VBI taken_VVN at_II Polk_NP1 to_TO upgrade_VVI the_AT programming_NN1 
+and_CC dental_JJ care_NN1 ,_, as_II31 well_II32 as_II33 changing_VVG the_AT 
+physical_JJ surroundings_NN2 Sincerel_NP1 Marlene_NP1 Burda_NP1 ,_, 
+Chairman_NN1 PARC_NP1 Residential_JJ Services_NN2 Committe_NN1 MB:rm_FO cc_NNU 
+:_: Schmidt_NP1 ,_, Nelki_NP1 Polloni_NP1 ,_, Bea_NP1 Pelton_NP1 ,_, 
+Scannel_NP1 Fran_NP1 Grumblat_NP1 Region_NN1 VI_MC Residential_JJ Services_NN2 
+Committee_NN1 PARC_NP1 Residential_JJ Services_NN2 Committee_NN1 Region_NN1 
+V_ZZ1 Residential_JJ Services_NN2 Committe_NP1 Pennsylvania_NP1 
+Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC NORTH_ND1 SECOND_MD 
+STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC TE_FW L_NP1 :_: (_( 71_MC 
+7_MC )_) 234-262_MCMC MRS_NNB ._. 
+ELSIE_NP1 SCHMID_NP1 Presiden_NP1 PETER_NP1 P._NP1 POLLON_NP1 Executive_NN1 
+Directo_NN1 August_NPM1 20_MC ,_, 197_MC The_AT Honorable_NP1 Frank_NP1 S._NP1 
+Beal_NP1 Secretary_NN1 of_IO Public_JJ Welfare_NN1 Department_NN1 of_IO 
+Public_JJ Welfare_NN1 P._NP1 0_MC ._. 
+Box_NN1 2675_MC Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC Dear_JJ Frank_NP1 
+I_PPIS1 have_VH0 enclosed_VVN a_AT1 copy_NN1 of_IO a_AT1 report_NN1 of_IO 
+an_AT1 unannounced_JJ visit_NN1 to_II Polk_NP1 by_II PARC_NP1 on_II May_NPM1 
+25th_MD ,_, 1976_MC I_PPIS1 hope_VV0 you_PPY will_VM take_VVI note_NN1 of_IO 
+two_MC serious_JJ problems_NN2 highlighted_VVN by_II the_AT report_NN1 --_NN1 
+lack_NN1 of_IO privacy_NN1 in_II toileting_NN1 and_CC bathing_VVG areas_NN2 
+,_, and_CC a_AT1 critical_JJ dental_JJ problem_NN1 ._. 
+Beyond_II this_DD1 it_PPH1 was_VBDZ also_RR suggested_VVN that_CST Polk_NP1 
+needs_VVZ the_AT support_NN1 of_IO DPW_NP1 to_TO open_VVI a_AT1 Workshop_NN1 
+Program_NN1 in_II the_AT Franklin_NP1 Armory_NP1 Polk_NP1 continues_VVZ to_TO 
+be_VBI an_AT1 institution_NN1 undergoing_VVG major_JJ changes_NN2 ._. 
+Continued_JJ attention_NN1 must_VM be_VBI paid_VVN to_II Polk_NP1 
+dispersal_NN1 ,_, since_II overcrowding_VVG is_VBZ still_RR hampering_VVG 
+the_AT efforts_NN2 of_IO Administration_NN1 and_CC Staff_VV0 I_PPIS1 look_VV0 
+forward_RL to_II your_APPGE response_NN1 Sincerely_RR Elsie_NP1 Schmid_NP1 
+Presiden_NP1 ES:rm_FO cc_NNU :_: Pollon_NP1 PARC_NP1 Residential_JJ 
+Services_NN2 Committe_NN1 Region_NN1 V_ZZ1 Residential_JJ Services_NN2 
+Committe_NN1 Region_NN1 VI_MC Residential_JJ Services_NN2 Committe_NP1 Nel_NP1 
+ki_NN2 Scannel_NP1 Pel_NP1 to_II Frant_NP1 Grumblat_NP1 Pennsylvania_NP1 
+Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC NORTH_ND1 SECOND_MD 
+STREET_NN1 HAR_NP1 RISBU_NP1 RG_NP1 ,_, PA._NN1 1_MC1 7102_MC TE_FW L._NP1 (_( 
+71_MC 7_MC )_) 234-262_MCMC MRS_NNB ._. 
+ELSIE_NP1 SCHMID_NP1 Presiden_NP1 PETER_NP1 P._NP1 POLLON_NP1 Executive_NN1 
+Directo_NN1 August_NPM1 23_MC ,_, 197_MC Mr._NNB Nicholas_NP1 J._NP1 
+D'Aluisi_NP1 Superintenden_NP1 Polk_NP1 State_NN1 Schoo_NP1 Polk_NP1 ,_, 
+Pennsylvania_NP1 1634_MC Dear_JJ Nick_NP1 I_PPIS1 have_VH0 enclosed_VVN a_AT1 
+detailed_JJ report_NN1 on_II the_AT visit_NN1 of_IO the_AT PARC_NP1 Team_NN1 
+to_II Polk_NP1 on_II May_NPM1 25th_MD ,_, 1976_MC ._. 
+The_AT report_NN1 is_VBZ based_VVN on_II a_AT1 standard_JJ format_NN1 
+adopted_VVN by_II PARC_NP1 in_II 1975_MC ._. 
+A_AT1 copy_NN1 of_IO the_AT report_NN1 format_NN1 is_VBZ enclosed_VVN for_IF 
+your_APPGE information_NN1 The_AT report_NN1 reflects_VVZ conditions_NN2 
+observed_VVN in_II the_AT buildings_NN2 indicated_VVN on_II the_AT day_NNT1 
+of_IO the_AT visit_NN1 The_AT Team_NN1 discussed_VVD some_DD of_IO our_APPGE 
+observations_NN2 with_IW you_PPY on_II the_AT day_NNT1 of_IO the_AT visit_NN1 
+._. 
+The_AT report_NN1 discusses_VVZ these_DD2 observations_NN2 in_II detail_NN1 
+We_PPIS2 must_VM commend_VVI you_PPY for_IF continuing_VVG to_TO bring_VVI 
+dynamic_JJ and_CC innovative_JJ leadership_NN1 to_II Polk_NP1 State_NN1 
+School_NN1 ._. 
+We_PPIS2 hope_VV0 that_CST some_DD of_IO the_AT programs_NN2 you_PPY are_VBR 
+trying_VVG to_TO implement_VVI will_VM be_VBI a_AT1 high_JJ priority_NN1 in_II 
+the_AT Western_JJ Region_NN1 for_IF the_AT Department_NN1 of_IO Public_JJ 
+Welfare_NN1 There_EX are_VBR many_DA2 areas_NN2 of_IO Polk_NP1 which_DDQ 
+need_VV0 to_TO be_VBI improved_VVN ._. 
+We_PPIS2 expect_VV0 that_CST you_PPY and_CC your_APPGE staff_NN will_VM 
+continue_VVI to_TO work_VVI toward_II these_DD2 improvements_NN2 ._. 
+PARC_NP1 is_VBZ ready_JJ to_TO lend_VVI whatever_DDQV assistance_NN1 
+possible_JJ in_II helping_VVG Polk_NP1 to_II upgrad_NN1 some_DD of_IO the_AT 
+areas_NN2 noted_VVN in_II the_AT report_NN1 We_PPIS2 look_VV0 forward_RL to_II 
+your_APPGE response_NN1 Sincerel_NP1 Marlene_NP1 Burda_NP1 ,_, Chairman_NN1 
+PARC_NP1 Residential_JJ Services_NN2 Committe_NP1 MBzrm_NP1 cc_NNU :_: 
+Beal_NP1 ,_, Schmidt_NP1 ,_, Pollon_NP1 PARC_NP1 Residential_JJ Services_NN2 
+Committe_NN1 Region_NN1 V_ZZ1 Residential_JJ Services_NN2 Committee_NN1 
+Region_NN1 VI_MC Residential_JJ Services_NN2 Committe_NP1 Nelkin_NP1 ,_, 
+Scannell_NP1 ,_, Pelton_NP1 ,_, Frantz_NP1 ,_, Grumblat_NP1 REPORT_NN1 ON_II 
+POLK_NP1 STATE_NN1 SCHOO_NN1 DATE_NN1 OF_IO VISIT_NN1 :_: May_NPM1 25_MC ,_, 
+197_MC TIME_NNT1 OF_IO VISIT_NN1 :_: 10:00_MC a.m._RA to_II 4:00_MC p.m_RA 
+BUILDINGS_NN2 VISITED_VVD :_: Nursery_NN1 ,_, Woodside_NP1 ,_, Gardenside_NP1 
+,_, Meadowside_NP1 Northside_NP1 ,_, Southside_NP1 ,_, Lakesid_JJ TEAM_NN1 
+MEMBERS_NN2 :_: Robert_NP1 Nelkin_NP1 -_- ACC/PARC_NP1 staff_NN Doug_NP1 
+Spencer_NP1 -_- ACC/PARC_NP1 staff_NN Mrs._NNB Midge_NP1 Scannell_NP1 -_- 
+Chairman_NN1 ACC/PARC_NP1 Residential_JJ Services_NN2 Committee_NN1 
+Marlene_NP1 Burda_NP1 ,_, Chairman_NN1 PARC_NP1 Residential_JJ Services_NN2 
+Committe_NP1 I._NP1 PHYSICAL_JJ SURROUNDING_JJ A._NP1 Interior_NN1 The_AT 
+administration_NN1 of_IO Polk_NP1 is_VBZ continuing_VVG its_APPGE efforts_NN2 
+to_TO improve_VVI the_AT interiors_NN2 of_IO the_AT various_JJ cottages_NN2 
+._. 
+It_PPH1 has_VHZ been_VBN possible_JJ to_TO make_VVI some_DD improvements_NN2 
+because_II21 of_II22 a_AT1 reduction_NN1 in_II the_AT population_NN1 at_II 
+Polk_NP1 ._. 
+This_DD1 has_VHZ allowed_VVN for_IF the_AT division_NN1 of_IO large_JJ 
+sleeping_JJ areas_NN2 and_CC day_NNT1 rooms_NN2 into_II sleeping_VVG living_JJ 
+areas_NN2 ._. 
+According_II21 to_II22 the_AT Superintendent_NN1 ,_, furniture_NN1 which_DDQ 
+will_VM physically_RR separate_VVI living_VVG from_II sleeping_NN1 
+quarters_NN2 has_VHZ been_VBN on_II order_NN1 ._. 
+This_DD1 should_VM enhance_VVI the_AT interiors_NN2 of_IO those_DD2 
+cottages_NN2 Lakeside_NP1 ,_, however_RR ,_, continues_VVZ to_TO need_VVI 
+much_RR in_II the_AT way_NN1 of_IO improvement_NN1 ._. 
+The_AT areas_NN2 on_II this_DD1 cottage_NN1 are_VBR still_RR overcrowded_JJ 
+._. 
+The_AT interiors_NN2 are_VBR drab_JJ ,_, and_CC walls_NN2 are_VBR in_II31 
+need_II32 of_II33 painting_NN1 ._. 
+There_EX is_VBZ a_AT1 need_NN1 for_IF color_NN1 ,_, personal_JJ furniture_NN1 
+to_TO replace_VVI wooden_JJ benches_NN2 ,_, and_CC many_DA2 other_JJ items_NN2 
+(_( colorful_JJ curtains_NN2 or_CC drapes_NN2 ,_, wall_NN1 hangings_NN2 or_CC 
+pictures_NN2 ,_, rugs_NN2 ,_, etc_RA ._. )_) 
+The_AT superintendent_NN1 advised_VVD that_CST the_AT Polk_NP1 Parents_NN2 
+Group_NN1 had_VHD donated_VVN some_DD monies_NN2 for_IF this_DD1 purpose_NN1 
+Students_NN2 from_II Carnegie_NP1 -_- Mellon_NP1 Design_NN1 classes_NN2 
+have_VH0 been_VBN working_VVG with_IW Polk_NP1 to_TO improve_VVI the_AT 
+appearance_NN1 of_IO the_AT cottages_NN2 ._. 
+PARC_NP1 would_VM appreciate_VVI knowing_VVG if_CS these_DD2 students_NN2 
+have_VH0 been_VBN or_CC will_VM be_VBI involved_JJ in_II improving_VVG the_AT 
+interiors_NN2 of_IO Lakeside_NP1 Decreasing_VVG the_AT population_NN1 of_IO 
+Lakeside_NP1 is_VBZ also_RR essential_JJ ,_, so_CS21 that_CS22 large_JJ 
+dormitory_NN1 areas_NN2 can_VM be_VBI divided_VVN and_CC broken_VVN down_RP 
+into_II smaller_JJR groups_NN2 ,_, as_CSA they_PPHS2 have_VH0 been_VBN in_II 
+other_JJ buildings_NN2 ._. 
+PARC_NP1 questions_NN2 what_DDQ further_JJR plans_NN2 have_VH0 been_VBN 
+developed_VVN for_IF dispersal_NN1 of_IO Polk_NP1 residents_NN2 ?_? 
+This_DD1 was_VBDZ a_AT1 top_JJ priority_NN1 in_II the_AT Western_JJ Region_NN1 
+during_II 1974-75_MCMC ,_, but_CCB the_AT Polk_NP1 dispersal_NN1 plan_NN1 
+seems_VVZ to_TO have_VHI come_VVN to_II a_AT1 grinding_JJ halt_NN1 ._. 
+Is_VBZ this_DD1 so_RR ?_? 
+If_CS so_RR why_RRQ ?_? 
+When_RRQ will_VM the_AT Polk_NP1 dispersal_NN1 effort_NN1 resume_VV0 
+Generally_RR ,_, there_EX is_VBZ still_RR need_VV0 for_IF privacy_NN1 in_II 
+the_AT toileting_NN1 and_CC bathing_VVG areas_NN2 of_IO every_AT1 building_NN1 
+at_II Polk_NP1 ._. 
+At_II the_AT present_JJ time_NNT1 ,_, the_AT long_JJ lines_NN2 of_IO 
+toilets--with_NN2 no_AT toilet_NN1 seats_NN2 ,_, no_AT dividers_NN2 ,_, no_AT 
+partitions_NN2 or_CC curtains--are_NN2 present_VV0 in_II the_AT areas_NN2 
+visited_VVN by_II the_AT Team_NN1 ._. 
+Since_CS this_DD1 will_VM be_VBI a_AT1 violation_NN1 of_IO ICF-MR_NNB Regs_NN2 
+,_, by_II 1977_MC ,_, PARC_NP1 would_VM like_VVI to_TO know_VVI what_DDQ 
+plans_NN2 are_VBR being_VBG made_VVN to_TO enclose_VVI these_DD2 and_CC 
+shower_NN1 areas_NN2 ?_? 
+This_DD1 is_VBZ an_AT1 intolerable_JJ condition_NN1 which_DDQ detracts_VVZ 
+from_II the_AT admirable_JJ attempts_NN2 on_II41 the_II42 part_II43 of_II44 
+the_AT administration_NN1 and_CC staff_NN at_II Polk_NP1 to_TO provide_VVI 
+for_IF and_CC insure_VVI the_AT dignity_NN1 of_IO residents_NN2 -2_MC A_ZZ1 
+parodox_NN1 exists_VVZ in_II this_DD1 situation_NN1 ._. 
+In_II 1973_MC the_AT presence_NN1 of_IO these_DD2 gang_NN1 toilets_NN2 
+was_VBDZ used_VVN by_II the_AT media_NN as_II an_AT1 illustration_NN1 of_IO 
+the_AT archaic_JJ practices_NN2 at_II Polk_NP1 which_DDQ deprived_VVD 
+residents_NN2 of_IO their_APPGE dignity_NN1 ._. 
+Their_APPGE existence_NN1 was_VBDZ well-documented_JJ with_IW TV_NN1 and_CC 
+press_VV0 pictures_NN2 ,_, and_CC was_VBDZ entered_VVN as_CSA evidence_NN1 
+in_II the_AT Civil_JJ Services_NN2 Hearings_NN2 of_IO the_AT Department_NN1 
+of_IO Public_JJ Welfare_NN1 concerning_II Dr._NNB McClelland_NP1 ._. 
+Yet_RR ,_, these_DD2 same_DA conditions_NN2 remain_VV0 three_MC years_NNT2 
+later_RRR ,_, unchanged_JJ in_II31 spite_II32 of_II33 many_DA2 changes_NN2 
+initiated_VVN by_II two_MC superintendents_NN2 at_II Polk_NP1 since_II 1973_MC 
+PARC_NP1 must_VM ask_VVI why_RRQ this_DD1 essential_JJ part_NN1 of_IO the_AT 
+residents_NN2 '_GE environmentprivacy_NN1 continues_VVZ to_TO be_VBI 
+denied_VVN to_II residents_NN2 of_IO Polk_NP1 ?_? 
+Bathrooms_NN2 there_RL continue_VV0 to_TO be_VBI the_AT worst_JJT example_NN1 
+of_IO institutional_JJ practices_NN2 in_II Pennsylvania_NP1 ._. 
+This_DD1 is_VBZ not_XX a_AT1 problem_NN1 which_DDQ can_VM be_VBI left_VVN 
+on_II the_AT door_NN1 of_IO the_AT Superintendent_NN1 ._. 
+Rather_RR ,_, the_AT failure_NN1 of_IO the_AT Department_NN1 of_IO Public_JJ 
+Welfare_NN1 to_TO correct_VVI this_DD1 situation_NN1 is_VBZ at_II fault_NN1 
+This_DD1 Association_NN1 must_VM demand_VVI that_CST this_DD1 intolerable_JJ 
+and_CC deplorable_JJ situation_NN1 be_VBI addressed_VVN as_RG soon_RR as_CSA 
+possible_JJ by_II the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 ._. 
+PARC_NP1 further_RRR asks_VVZ both_RR the_AT Secretary_NN1 of_IO Welfare_NN1 
+,_, and_CC the_AT Deputy_NN1 Secretary_NN1 for_IF the_AT Western_JJ Region_NN1 
+,_, to_TO outline_VVI specifically_RR what_DDQ actions_NN2 are_VBR being_VBG 
+planned_VVN to_TO enclose_VVI toilets_NN2 and_CC bathing_VVG areas_NN2 at_II 
+Polk_NP1 and_CC when_CS this_DD1 project_NN1 will_VM be_VBI initiated_VVN 
+and_CC completed_VVN ?_? 
+Once_RR21 more_RR22 ,_, this_DD1 Association_NN1 must_VM stress_VVI that_CST 
+the_AT failure_NN1 to_TO provide_VVI privacy_NN1 in_II toileting_NN1 and_CC 
+bathing_VVG areas_NN2 at_II Polk_NP1 violates_VVZ the_AT rights_NN2 of_IO 
+residents_NN2 to_II privacy_NN1 ,_, and_CC constitutes_VVZ an_AT1 
+intolerable_JJ situation_NN1 which_DDQ must_VM be_VBI remedied_VVN as_RG 
+soon_RR as_CSA possible_JJ II-_JJ FOOD_NN1 AND_CC FOOD_NN1 SERVIC_JJ 
+Family-style_JJ dining_NN1 is_VBZ still_RR occuring_VVG at_II Polk_NP1 in_II 
+several_DA2 areas_NN2 :_: the_AT main_JJ dining_NN1 room_NN1 in_II the_AT 
+main_JJ building_NN1 (_( Northside_NP1 and_CC Southside_NP1 )_) and_CC in_II 
+special_JJ project_NN1 areas_NN2 (_( 80_MC ,_, 81_MC ,_, and_CC the_AT 
+Pines_NN2 )_) ._. 
+However_RR ,_, in_II many_DA2 of_IO the_AT cottages_NN2 ,_, food_NN1 
+continues_VVZ to_TO be_VBI served_VVN cafeteria-style_NN1 ,_, or_CC in_II 
+the_AT new_JJ state-issued_JJ thermal_JJ trays_NN2 It_PPH1 is_VBZ 
+recommended_VVN that_CST wherever_RRQV possible_JJ ,_, family-style_JJ 
+dining_NN1 be_VBI initiated_VVN ,_, rather_II21 than_II22 cafeteria_NN1 
+service_NN1 The_AT trays_NN2 ,_, where_CS they_PPHS2 must_VM be_VBI used_VVN 
+,_, represent_VV0 a_AT1 much_RR better_JJR food_NN1 service_NN1 in_II 
+keeping_VVG food_NN1 hot_JJ ._. 
+Hopefully_RR ,_, trays_NN2 will_VM only_RR be_VBI used_VVN for_IF those_DD2 
+residents_NN2 whose_DDQGE physical_JJ condition_NN1 is_VBZ such_CS21 that_CS22 
+tray_NN1 service_NN1 is_VBZ essential_JJ A_ZZ1 goal_NN1 for_IF the_AT 
+majority_NN1 of_IO residents_NN2 ,_, in_II every_AT1 cottage_NN1 ,_, should_VM 
+be_VBI the_AT attainment_NN1 of_IO self-feeding_JJ skills_NN2 ._. 
+Trays_NN2 can_VM be_VBI helpful_JJ in_II attaining_VVG this_DD1 goal_NN1 ._. 
+However_RR ,_, the_AT use_NN1 of_IO trays_NN2 should_VM be_VBI an_AT1 
+interim_JJ step_NN1 in_II a_AT1 total_JJ self-feeding_JJ program_NN1 The_AT 
+Team_NN1 would_VM appreciate_VVI learning_NN1 of_IO other_JJ plans_NN2 to_TO 
+move_VVI toward_II family-style_JJ dining_NN1 in_II the_AT cottage_NN1 ._. 
+The_AT Team_NN1 feels_VVZ that_CST this_DD1 is_VBZ a_AT1 possibility_NN1 
+since_CS food_NN1 preparation_NN1 is_VBZ now_RT centralized_VVN ,_, and_CC 
+kitchen_NN1 areas_NN2 in_II each_DD1 cottage_NN1 are_VBR being_VBG phased_VVN 
+out_RP III_MC ._. 
+CLOTHIN_NP1 In_II several_DA2 of_IO the_AT cottages_NN2 ,_, the_AT 
+clothing_NN1 of_IO the_AT residents_NN2 ranged_VVN from_II poor_JJ to_II 
+bad_JJ ._. 
+This_DD1 was_VBDZ especially_RR noticeable_JJ in_II Lakeside_NP1 where_RRQ 
+residents_NN2 wore_VVD badly_RR ripped_JJ T-shirts_NN2 ,_, no_AT shoes_NN2 ,_, 
+state_VV0 pants_NN2 ,_, etc_RA ._. 
+Several_DA2 aides_NN2 were_VBDR questioned_VVN and_CC could_VM give_VVI no_AT 
+indication_NN1 of_IO whether_CSW31 or_CSW32 not_CSW33 there_EX were_VBDR 
+any_DD plans_NN2 to_TO purchase_VVI suitable_JJ clothing_NN1 for_IF the_AT 
+residents_NN2 The_AT Team_NN1 has_VHZ several_DA2 recommendations_NN2 to_TO 
+suggest_VVI in_BCL21 order_BCL22 to_TO insure_VVI appropriate_JJ ,_, 
+attractive_JJ ,_, well-fitting_JJ clothing_NN1 for_IF the_AT residents_NN2 
+of_IO Lakeside_NP1 ._. 
+First_MD ,_, a_AT1 clothing_NN1 committee_NN1 might_VM be_VBI appointed_VVN 
+to_TO determine_VVI the_AT needs_NN2 of_IO each_DD1 resident_NN1 for_IF 
+persona_NN1 -3_MC clothing_NN1 ._. 
+This_DD1 committee_NN1 could_VM then_RT set_VVI up_RP timetables_NN2 for_IF 
+purchase_NN1 of_IO clothing_NN1 ,_, sources_NN2 of_IO funds_NN2 ,_, etc_RA ._. 
+This_DD1 type_NN1 of_IO committee_NN1 ,_, comprised_VVN of_IO both_DB2 
+supervisory_JJ and_CC aide_NN1 staff_NN has_VHZ proven_VVN to_TO be_VBI a_AT1 
+workable_JJ solution_NN1 in_II other_JJ State_NN1 Schools_NN2 Clothing_NN1 
+of_IO residents_NN2 in_II other_JJ cottages_NN2 was_VBDZ also_RR observed_VVN 
+to_TO be_VBI substandard_JJ ,_, including_II Redwood_NP1 in_II the_AT 
+Woodside_NN1 Building_VVG The_AT Team_NN1 recommends_VVZ that_CST the_AT 
+Administration_NN1 and_CC Staff_NN of_IO Polk_NP1 refer_VV0 to_II the_AT 
+PARC_NP1 Design_NN1 for_IF Living_VVG which_DDQ makes_VVZ a_AT1 number_NN1 
+of_IO recommendations_NN2 on_II the_AT acquisition_NN1 ,_, use_VV0 ,_, and_CC 
+maintenance_NN1 of_IO a_AT1 personal_JJ clothing_NN1 supply_NN1 for_IF 
+each_DD1 resident_NN1 In_II many_DA2 ,_, many_DA2 instances_NN2 ,_, the_AT 
+clothing_NN1 observed_VVN by_II the_AT Team_NN1 was_VBDZ wrinkled_JJ and_CC 
+ill-fitting_JJ ,_, as_II31 well_II32 as_II33 unsuitable_JJ for_IF the_AT 
+person_NN1 ._. 
+This_DD1 can_VM only_RR be_VBI corrected_VVN by_II making_VVG certain_JJ 
+that_CST each_DD1 resident_NN1 has_VHZ a_AT1 personalized_JJ clothing_NN1 
+supply_NN1 of_IO clothes_NN2 which_DDQ fit_VV0 ,_, which_DDQ are_VBR 
+stylish_JJ ,_, and_CC suitable_JJ to_II the_AT age_NN1 and_CC sex_NN1 of_IO 
+the_AT person_NN1 ._. 
+Further_RRR ,_, this_DD1 clothing_NN1 should_VM be_VBI pressed_VVN and_CC 
+neat_JJ when_CS worn_VVN by_II the_AT resident_NN1 The_AT question_NN1 of_IO 
+delivering_VVG clean_JJ ,_, pressed_VVD clothes_NN2 to_II persons_NN2 in_II 
+a_AT1 large_JJ institution_NN1 is_VBZ ,_, we_PPIS2 know_VV0 ,_, a_AT1 
+difficult_JJ one_PN1 ._. 
+The_AT Team_NN1 recommends_VVZ that_CST you_PPY discuss_VV0 this_DD1 
+problem_NN1 with_IW Mr._NNB Joe_NP1 Scartelli_NP1 ,_, Superintendent_NN1 of_IO 
+Selinsgrove_NN1 ._. 
+That_DD1 school_NN1 recently_RR purchased_VVN a_AT1 wet-to-dry_JJ finishing_JJ 
+machine_NN1 which_DDQ allows_VVZ delivery_NN1 of_IO clothing_NN1 to_II 
+units_NN2 on_II hangers_NN2 pressed_VVN and_CC ready_JJ to_TO wear_VVI ._. 
+I_PPIS1 am_VBM sure_JJ he_PPHS1 would_VM be_VBI happy_JJ to_TO share_VVI 
+with_IW you_PPY Selinsgroves_NN2 experience_VV0 with_IW this_DD1 system_NN1 
+._. 
+Beyond_II this_DD1 ,_, it_PPH1 might_VM be_VBI feasible_JJ for_IF Polk_NP1 
+to_TO bring_VVI in_RP a_AT1 professional_JJ laundry_NN1 consultant_NN1 to_TO 
+suggest_VVI methods_NN2 of_IO handling_VVG clothing_NN1 which_DDQ would_VM 
+guarantee_VVI that_DD1 personal_JJ clothing_NN1 would_VM be_VBI returned_VVN 
+to_II residents_NN2 in_II wearable_JJ condition_NN1 ._. 
+The_AT Team_NN1 recommends_VVZ that_CST Polk_NP1 make_VV0 every_AT1 effort_NN1 
+to_TO eliminate_VVI the_AT current_JJ practice_NN1 of_IO the_AT "_" 
+morning_NNT1 bundle_NN1 "_" of_IO residents_NN2 '_GE clothing_NN1 ._. 
+This_DD1 is_VBZ an_AT1 extremely_RR institutional_JJ practice_NN1 which_DDQ 
+results_VVZ in_II the_AT wrinkled_JJ ,_, ill-fitting_JJ clothing_NN1 which_DDQ 
+was_VBDZ seen_VVN during_II our_APPGE visit_NN1 It_PPH1 is_VBZ important_JJ 
+to_II PARC_NP1 ,_, as_CSA advocates_NN2 for_IF retarded_JJ persons_NN2 ,_, 
+that_CST each_DD1 person_NN1 's_GE dignity_NN1 be_VBI assured_VVN in_II 
+every_AT1 way_NN1 possible_JJ ._. 
+One_MC1 of_IO these_DD2 ways_NN2 is_VBZ by_II guaranteeing_VVG that_CST 
+each_DD1 resident_NN1 has_VHZ an_AT1 appropriate_JJ ,_, attractive_JJ ,_, 
+and_CC personal_JJ wardrobe_NN1 ._. 
+We_PPIS2 are_VBR certain_JJ that_CST this_DD1 is_VBZ ,_, likewise_RR ,_, 
+an_AT1 important_JJ goal_NN1 of_IO the_AT administration_NN1 and_CC staff_NN 
+at_II Polk_NP1 ._. 
+We_PPIS2 ask_VV0 that_CST Polk_NP1 share_NN1 with_IW us_PPIO2 plans_NN2 for_IF 
+implementing_VVG this_DD1 recommendation_NN1 IV_MC ._. 
+LINEN_NN1 Staff_NN members_NN2 questioned_VVN in_II all_DB buildings_NN2 
+indicated_VVD that_CST residents_NN2 had_VHD an_AT1 adequate_JJ linen_NN1 
+supply_NN1 ._. 
+However_RR ,_, the_AT Team_NN1 found_VVD towels_NN2 and_CC washclothes_VVZ 
+only_RR in_II supply_NN1 cupboards_NN2 ._. 
+There_EX were_VBDR no_AT towels_NN2 or_CC washclothes_VVZ in_II the_AT 
+bathroom_NN1 for_IF use_NN1 after_II toileting_NN1 ._. 
+In_II fact_NN1 ,_, there_EX was_VBDZ no_AT soap_NN1 or_CC toilet_NN1 paper_NN1 
+in_II any_DD of_IO the_AT bathrooms_NN2 visited_VVD ._. 
+In_II Lakeside_NP1 ,_, the_AT water_NN1 in_II the_AT bathroom_NN1 sinks_NN2 
+was_VBDZ turned_VVN off_II These_DD2 conditions_NN2 are_VBR not_XX 
+conducive_JJ to_II good_JJ personal_JJ hygiene_NN1 and_CC are_VBR ,_, in_II 
+fact_NN1 ,_, unsanitary_JJ While_CS the_AT Team_NN1 realizes_VVZ that_CST 
+the_AT functioning_JJ level_NN1 of_IO residents_NN2 in_II several_DA2 
+buildings_NN2 is_VBZ low_JJ ,_, staff_NN pointed_VVD out_RP that_CST goals_NN2 
+in_II these_DD2 units_NN2 included_VVD development_NN1 of_IO basic_JJ 
+self-care_JJ skills_NN2 We_PPIS2 ask_VV0 that_CST the_AT Administration_NN1 
+look_NN1 into_II this_DD1 problem_NN1 and_CC assure_VV0 the_AT presence_NN1 
+of_IO soap_NN1 ,_, water_NN1 ,_, toilet_NN1 paper_NN1 ,_, wash_VV0 clothes_NN2 
+and_CC towels_NN2 in_II each_DD1 bathroom_NN1 ,_, as_II31 well_II32 as_II33 
+appropriate_JJ programming_NN1 in_II their_APPGE use_NN1 -4_MC V._NNU 
+APPEARANCE_NN1 OF_IO RESIDENT_JJ As_CSA outlined_VVN in_II section_NN1 III_MC 
+,_, the_AT clothing_NN1 of_IO the_AT residents_NN2 badly_RR detracted_VVD 
+from_II their_APPGE overall_JJ appearance_NN1 ._. 
+It_PPH1 was_VBDZ interesting_JJ to_TO note_VVI ,_, however_RR ,_, that_CST 
+there_EX was_VBDZ much_DA1 evidence_NN1 of_IO personalized_JJ hair_NN1 
+styles_NN2 ._. 
+In_RR21 general_RR22 ,_, the_AT residents*_FO grooming_NN1 was_VBDZ good_RR 
+There_EX is_VBZ a_AT1 definite_JJ need_NN1 for_IF better_JJR dental_JJ 
+hygiene_NN1 ._. 
+Residents_NN2 '_GE teeth_NN2 and_CC gums_NN2 were_VBDR visibly_RR in_II31 
+need_II32 of_II33 better_JJR care_NN1 ._. 
+In_RR21 addition_RR22 ,_, there_EX is_VBZ a_AT1 pressing_JJ need_NN1 for_IF 
+other_JJ dental_JJ work_NN1 ,_, as_CSA evidenced_VVN by_II many_DA2 
+noticeable_JJ cavities_NN2 in_II the_AT teeth_NN2 of_IO many_DA2 residents_NN2 
+._. 
+It_PPH1 was_VBDZ also_RR evident_JJ that_CST a_AT1 great_JJ deal_NN1 of_IO 
+corrective_NN1 and_CC restorative_JJ dentistry_NN1 is_VBZ needed_VVN to_TO 
+enhance_VVI the_AT appearance_NN1 of_IO many_DA2 residents_NN2 For_RR41 
+the_RR42 most_RR43 part_RR44 ,_, residents_NN2 were_VBDR alert_JJ ,_, 
+sociable_JJ ,_, and_CC responsive_JJ ._. 
+It_PPH1 is_VBZ worth_II noting_VVG that_CST in_II contrast_NN1 to_II the_AT 
+last_MD visit_NN1 ,_, there_EX were_VBDR no_AT residents_NN2 unclothed_JJ 
+on_II the_AT units_NN2 ._. 
+This_DD1 represents_VVZ a_AT1 real_JJ step_NN1 forward_RL ,_, since_CS on_II 
+the_AT previous_JJ visit_NN1 ,_, as_CSA least_DAT 10_MC women_NN2 and_CC 
+several_DA2 men_NN2 were_VBDR undressed_VVN on_II the_AT units_NN2 As_CSA 
+mentioned_VVN previously_RR ,_, the_AT appearance_NN1 of_IO residents_NN2 
+would_VM be_VBI greatly_RR enhanced_VVN by_II attractive_JJ ,_, 
+properly-fitting_JJ clothing_NN1 ._. 
+PARC_NP1 stresses_VVZ the_AT importance_NN1 of_IO appearance_NN1 ._. 
+A_AT1 well-dressed_JJ ,_, neatly_RR groomed_VVN ,_, clean_JJ persons_NN2 
+is_VBZ one_PN1 who_PNQS has_VHZ gained_VVN skills_NN2 and_CC whose_DDQGE 
+perception_NN1 of_IO himself_PPX1 or_CC herself_PPX1 as_II a_AT1 person_NN1 
+has_VHZ been_VBN greatly_RR enhanced_VVN ._. 
+The_AT perception_NN1 of_IO the_AT person_NN1 by_II the_AT staff_NN is_VBZ 
+also_RR enhanced_VVN ._. 
+PARC_NP1 suggests_VVZ that_CST you_PPY follow_VV0 the_AT recommendations_NN2 
+listed_VVN in_II the_AT Design_NN1 for_IF Living_VVG VI_MC ._. 
+PROGRA_NP1 The_AT Team_NN1 did_VDD not_XX visit_VVI the_AT workshop_NN1 or_CC 
+activity_NN1 areas_NN2 on_II this_DD1 visit_NN1 ,_, since_CS these_DD2 
+were_VBDR observed_VVN in_II a_AT1 previous_JJ visit_NN1 ._. 
+However_RR ,_, the_AT Superintendent_NN1 indicated_VVD that_CST because_II21 
+of_II22 Federal_JJ regulations_NN2 (_( regarding_VVG number_NN1 of_IO 
+hours_NNT2 residents_NN2 work_VV0 ,_, etc._RA )_) ,_, many_DA2 of_IO the_AT 
+residents_NN2 were_VBDR just_RR starting_VVG back_RP in_II Workshop_NN1 
+programs_NN2 ._. 
+The_AT Superintendent_NN1 also_RR revealed_VVN plans_NN2 for_IF the_AT use_NN1 
+of_IO the_AT Franklin_NP1 Armory_NP1 ._. 
+This_DD1 program_NN1 ,_, which_DDQ will_VM serve_VVI 150_MC to_II 200_MC 
+residents_NN2 is_VBZ critically_RR needed_VVN by_II Polk_NP1 ._. 
+Hopefully_RR ,_, the_AT Regional_JJ and_CC Central_JJ Office_NN1 of_IO OMR_NN1 
+will_VM commit_VVI the_AT necessary_JJ funds_NN2 and_CC staff_NN to_TO 
+assure_VVI that_CST the_AT Program_NN1 opens_VVZ in_II September_NPM1 ._. 
+The_AT Team_NN1 observed_VVD far_RR too_RG many_DA2 residents_NN2 not_XX in_II 
+programs_NN2 ._. 
+The_AT use_NN1 of_IO the_AT Armory_NP1 would_VM affect_VVI these_DD2 
+severely-profoundly_RR retarded_JJ residents_NN2 by_II providing_VVG 
+them_PPHO2 with_IW much_RR needed_VVN programming_NN1 and_CC allows_VVZ 
+them_PPHO2 to_TO leave_VVI the_AT grounds_NN2 of_IO the_AT institution_NN1 
+PARC_NP1 is_VBZ most_RGT anxious_JJ to_TO see_VVI this_DD1 program_NN1 go_VVI 
+into_II effect_NN1 by_II September_NPM1 ._. 
+Could_VM we_PPIS2 have_VHI a_AT1 status_NN1 report_NN1 on_II progress_NN1 
+toward_II this_DD1 goal_NN1 In_II the_AT cottages_NN2 visited_VVD ,_, it_PPH1 
+was_VBDZ evident_JJ that_CST residents_NN2 were_VBDR receiving_VVG very_RG 
+little_DA1 in_II the_AT area_NN1 of_IO programming_NN1 or_CC even_RR 
+activity_NN1 ._. 
+This_DD1 was_VBDZ especially_RR true_JJ in_II Lakeside_NP1 ._. 
+The_AT Team_NN1 observed_VVD the_AT residents_NN2 in_II this_DD1 cottage_NN1 
+doing_VDG nothing_PN1 ._. 
+Staff_NN indicated_VVD that_CST the_AT majority_NN1 of_IO the_AT residents_NN2 
+were_VBDR in_II a_AT1 toilet_NN1 training_NN1 program_NN1 ._. 
+It_PPH1 was_VBDZ also_RR revealed_VVN that_CST in_II this_DD1 building_NN1 
+the_AT staff_NN ratio_NN1 is_VBZ 1_MC1 to_II 3_MC and_CC that_CST there_EX 
+are_VBR many_DA2 aides_NN2 in_II training_VVG It_PPH1 was_VBDZ obvious_JJ 
+to_II the_AT Team_NN1 that_CST a_AT1 great_JJ deal_NN1 needs_VVZ to_TO be_VBI 
+done_VDN in_II Lakeside_NP1 to_TO improve_VVI the_AT environment_NN1 and_CC 
+provide_VVI meaningful_JJ training_NN1 and_CC programming_VVG for_IF the_AT 
+residents_NN2 there_RL ._. 
+For_REX21 example_REX22 ,_, the_AT walls_NN2 need_VV0 to_TO be_VBI painted_VVN 
+._. 
+There_EX is_VBZ a_AT1 noticeable_JJ lack_NN1 of_IO comfortable_JJ 
+furniture_NN1 (_( wooden_JJ benches_NN2 are_VBR still_RR present_JJ )_) ,_, 
+and_CC the_AT physical_JJ surroundings_NN2 are_VBR drab_JJ and_CC cheerless_JJ 
+._. 
+Lakeside_NP1 living_JJ areas_NN2 have_VH0 not_XX yet_RR been_VBN 
+partitioned_VVN ,_, and_CC ,_, as_CSA proved_VVN in_II other_JJ buildings_NN2 
+at_II Polk_NP1 ,_, this_DD1 does_VDZ substantially_RR improve_VVI the_AT 
+physical_JJ surroundings_NN2 for_IF the_AT residents_NN2 ._. 
+The_AT Superintendent_NN1 indicated_VVD that_CST the_AT Polk_NP1 Parents_NN2 
+Group_NN1 is_VBZ donating_VVG funds_NN2 for_IF the_AT improvement_NN1 of_IO 
+Lakeside_NP1 -5_MC PARC_NP1 would_VM like_VVI to_TO know_VVI exactly_RR 
+what_DDQ plans_NN2 are_VBR being_VBG made_VVN to_TO improve_VVI the_AT 
+physical_JJ surroundings_NN2 in_II Lakeside_NP1 ?_? 
+When_RRQ will_VM these_DD2 improvements_NN2 be_VBI started_VVN ,_, 
+completed_VVD ,_, etc_RA ._. 
+The_AT Team_NN1 was_VBDZ most_RGT concerned_JJ about_II the_AT overall_JJ 
+lack_NN1 of_IO programming_NN1 ,_, staff_NN attitude_NN1 ,_, and_CC drab_JJ 
+physical_JJ surroundings_NN2 in_II Lakeside_NP1 ._. 
+PARC_NP1 would_VM like_VVI to_TO know_VVI 1_MC1 ._. 
+Whether_CSW31 or_CSW32 not_CSW33 goal_NN1 plans_NN2 have_VH0 been_VBN 
+written_VVN for_IF Lakeside_NP1 residents_NN2 2_MC ._. 
+If_CS so_RR ,_, whether_CSW31 or_CSW32 not_CSW33 aide_NN1 staff_NN have_VH0 
+been_VBN provided_VVN with_IW specific_JJ training_NN1 and_CC expertise_NN1 
+to_TO implement_VVI short_JJ and_CC long_JJ term_NN1 goals_NN2 It_PPH1 is_VBZ 
+very_RG difficult_JJ to_TO pinpoint_VVI the_AT exact_JJ source_NN1 of_IO 
+the_AT obvious_JJ shortcomings_NN2 of_IO the_AT program_NN1 in_II Lakeside_NP1 
+._. 
+However_RR ,_, it_PPH1 was_VBDZ obvious_JJ that_CST residents_NN2 of_IO 
+this_DD1 building_NN1 are_VBR receiving_VVG little_DA1 more_DAR than_CSN 
+custodial_JJ care_NN1 ,_, in_II most_DAT instances_NN2 PARC_NP1 would_VM 
+like_VVI to_TO know_VVI what_DDQ plans_NN2 are_VBR being_VBG made_VVN to_TO 
+upgrade_VVI the_AT activities_NN2 and_CC programming_VVG for_IF residents_NN2 
+of_IO Lakeside_NP1 From_II observations_NN2 in_II all_DB buildings_NN2 ,_, 
+the_AT Team_NN1 concurred_VVD that_CST there_EX is_VBZ a_AT1 great_JJ need_NN1 
+for_IF off-grounds_NN2 programming_VVG for_IF the_AT over-21_MC 
+severely/profoundly_RR retarded_JJ residents_NN2 of_IO Polk_NP1 ._. 
+Once_RR21 again_RR22 ,_, the_AT Team_NN1 is_VBZ extremely_RR concerned_JJ 
+that_CST the_AT projected_JJ program_NN1 for_IF the_AT Franklin_NP1 Armory_NP1 
+be_VBI implemented_VVN ._. 
+This_DD1 will_VM have_VHI a_AT1 significant_JJ effect_NN1 on_II residents_NN2 
+who_PNQS are_VBR now_RT receiving_VVG little_JJ or_CC no_AT programming_NN1 
+in_II the_AT living_JJ areas_NN2 or_CC other_JJ workshop_NN1 and_CC 
+activity_NN1 areas_NN2 at_II Polk_NP1 VII_MC ._. 
+DENTAL_JJ AND_CC MEDICAL_JJ CAR_NN1 It_PPH1 was_VBDZ gratifying_JJ to_TO 
+note_VVI that_CST the_AT medical_JJ staff_NN has_VHZ been_VBN increased_VVN 
+at_II Polk_NP1 ._. 
+The_AT Team_NN1 was_VBDZ advised_VVN by_II the_AT Superintendent_NN1 that_CST 
+the_AT medical_JJ staff_NN at_II Polk_NP1 now_RT consists_VVZ of_IO three_MC 
+full-time_JJ physicians_NN2 ,_, with_IW four_MC more_DAR to_TO be_VBI 
+added_VVN by_II the_AT time_NNT1 this_DD1 report_NN1 is_VBZ issued_VVN ,_, 
+plus_II two_MC assistants_NN2 and_CC two_MC interns_VVZ PARC_NP1 would_VM 
+appreciate_VVI a_AT1 current_JJ listing_NN1 of_IO medical_JJ staff_NN ,_, 
+as_II31 well_II32 as_II33 a_AT1 detailed_JJ plan_NN1 for_IF upgrading_VVG 
+the_AT medical_JJ care_NN1 being_VBG provided_VVN for_IF Polk_NP1 
+residents_NN2 PARC_NP1 has_VHZ been_VBN urging_VVG detailed_JJ studies_NN2 
+of_IO drug_NN1 usage_NN1 at_II all_DB State_VV0 Schools_NN2 ,_, as_II31 
+well_II32 as_II33 advocating_VVG changes_NN2 in_II the_AT use_NN1 and_CC 
+abuse_NN1 of_IO tranquilizing_VVG drugs_NN2 at_II State_NN1 Schools_NN2 ._. 
+We_PPIS2 would_VM appreciate_VVI a_AT1 frank_JJ and_CC honest_JJ answer_NN1 
+as_II21 to_II22 whether_CSW31 or_CSW32 not_CSW33 Polk_NP1 will_VM be_VBI 
+initiating_VVG studies_NN2 of_IO drug_NN1 usage_NN1 at_II Polk_NP1 ,_, with_IW 
+the_AT goal_NN1 of_IO reducing_VVG this_DD1 usage_NN1 ,_, where_RRQ 
+appropriate_VV0 The_AT need_NN1 for_IF upgrading_VVG dental_JJ care_NN1 
+remains_VVZ critical_JJ ._. 
+Perhaps_RR ,_, because_II21 of_II22 neglect_NN1 over_II the_AT years_NNT2 ,_, 
+it_PPH1 appears_VVZ that_CST the_AT needs_NN2 of_IO Polk_NP1 residents_NN2 
+are_VBR more_RGR acute_JJ in_II the_AT area_NN1 of_IO dentistry_NN1 ._. 
+It_PPH1 was_VBDZ obvious_JJ that_CST even_RR basic_JJ needs_NN2 ,_, such_II21 
+as_II22 fillings_NN2 and_CC extractions_NN2 ,_, as_II31 well_II32 as_II33 
+oral_JJ hygiene_NN1 maintenance_NN1 and_CC instruction_NN1 are_VBR not_XX 
+being_VBG met_VVN for_IF many_DA2 residents_NN2 ._. 
+The_AT need_NN1 for_IF corrective_NN1 and_CC restorative_JJ dentistry_NN1 
+is_VBZ acute_JJ ._. 
+PARC_NP1 is_VBZ ,_, therefore_RR ,_, requesting_VVG a_AT1 high_JJ level_JJ 
+meeting_NN1 of_IO concerned_JJ persons_NN2 ._. 
+The_AT purpose_NN1 of_IO this_DD1 meeting_NN1 will_VM be_VBI to_TO 
+initiate_VVI an_AT1 intense_JJ dental_JJ program_NN1 for_IF Polk_NP1 
+residents_NN2 ._. 
+It_PPH1 is_VBZ apparent_JJ that_CST previous_JJ piecemeal_JJ efforts_NN2 
+have_VH0 not_XX alleviated_VVN this_DD1 problem_NN1 ._. 
+It_PPH1 is_VBZ time_NNT1 for_IF an_AT1 action-oriented_JJ group_NN1 to_TO 
+focus_VVI on_II solutions_NN2 to_II the_AT dental_JJ program_NN1 ._. 
+Would_VM you_PPY supply_VVI PARC_NP1 with_IW a_AT1 detailed_JJ analysis_NN1 
+of_IO what_DDQ is_VBZ needed_VVN in_BCL21 order_BCL22 to_TO assure_VVI 
+adequate_JJ dental_JJ care_NN1 at_II Polk_NP1 VIII_MC ._. 
+STAFF_NN ATTITUDE_NN1 As_CSA indicated_VVN during_II our_APPGE discussion_NN1 
+with_IW the_AT Superintendent_NN1 ,_, staff_NN attitudes_NN2 observed_VVD 
+varied_VVN from_II poor_JJ to_II excellent_JJ ._. 
+There_EX was_VBDZ general_JJ concurrence_NN1 that_CST aide_NN1 staff_NN 
+reflected_VVD the_AT degree_NN1 of_IO skill_NN1 and_CC the_AT attitude_NN1 
+of_IO the_AT building_NN1 supervisor_NN1 ._. 
+This_DD1 was_VBDZ evident_JJ i_ZZ1 -6_MC Lakeside_NP1 ,_, where_CS aides_NN2 
+noted_VVD that_CST they_PPHS2 were_VBDR so_RR involved_VVN in_II paper_NN1 
+work_NN1 they_PPHS2 had_VHD no_AT time_NNT1 to_TO work_VVI with_IW 
+residents_NN2 ._. 
+There_EX was_VBDZ no_AT activity_NN1 in_II Lakeside_NP1 during_II the_AT 
+visit_NN1 ._. 
+Aides_NN2 were_VBDR not_XX interacting_VVG at_II all_DB with_IW residents_NN2 
+,_, but_CCB were_VBDR milling_VVG about_RP or_CC talking_VVG with_IW 
+each_PPX221 other_PPX222 ._. 
+The_AT Team_NN1 questioned_VVD the_AT staff_NN about_II their_APPGE 
+responsibilities_NN2 and_CC duties_NN2 in_II31 relation_II32 to_II33 
+individual_JJ goals_NN2 for_IF residents_NN2 ._. 
+Responses_NN2 were_VBDR vague_JJ ,_, and_CC it_PPH1 was_VBDZ the_AT general_JJ 
+impression_NN1 that_CST while_CS aides_NN2 realized_VVD that_CST they_PPHS2 
+were_VBDR assigned_VVN 10_MC to_II 13_MC residents_NN2 ,_, and_CC while_CS 
+they_PPHS2 knew_VVD what_DDQ goals_NN2 had_VHD been_VBN set_VVN ,_, they_PPHS2 
+lacked_VVD the_AT skill_NN1 or_CC know-how_NN1 to_TO act_VVI as_CSA 
+teachers_NN2 ._. 
+Therefore_RR ,_, only_RR basic_JJ needs_NN2 seemed_VVD to_TO be_VBI met_VVN 
+._. 
+It_PPH1 was_VBDZ indicated_VVN that_CST there_EX were_VBDR many_DA2 aides_NN2 
+in_II Lakeside_NP1 in_II training_NN1 ._. 
+Hopefully_RR ,_, this_DD1 training_NN1 will_VM provide_VVI aides_NN2 with_IW 
+the_AT necessary_JJ skills_NN2 to_TO work_VVI toward_II the_AT goals_NN2 
+set_VV0 for_IF residents_NN2 This_DD1 was_VBDZ in_II contrast_NN1 to_II 
+aides_NN2 observed_VVN in_II Woodside_NP1 ,_, where_RRQ the_AT Supervisor_NN1 
+,_, Mr._NNB Dickert_NP1 ,_, explained_VVD his_APPGE attitude_NN1 and_CC 
+approach_NN1 to_II training_NN1 ,_, supervision_NN1 ,_, and_CC duties_NN2 
+of_IO aides_NN2 in_II his_APPGE building_NN1 ._. 
+Mr._NNB Dickerts_NP1 '_GE influence_NN1 was_VBDZ evident_JJ in_II the_AT 
+activity_NN1 occurring_VVG in_II the_AT various_JJ wards_NN2 in_II 
+Woodside_NP1 ._. 
+It_PPH1 was_VBDZ the_AT opinion_NN1 of_IO the_AT Team_NN1 that_CST the_AT 
+aide_NN1 staff_NN ,_, generally_RR ,_, related_VVD better_RRR to_II 
+residents_NN2 in_II Woodside_NP1 than_CSN in_II other_JJ buildings_NN2 
+observed_VVD The_AT Team_NN1 also_RR observed_VVN aides_NN2 and_CC 
+residents_NN2 in_II a_AT1 one_MC1 to_II one_MC1 situation_NN1 in_II the_AT 
+Nursery_NN1 ._. 
+It_PPH1 was_VBDZ lunch_NN1 time_NNT1 and_CC aides_NN2 were_VBDR feeding_VVG 
+residents_NN2 ._. 
+The_AT Team_NN1 stayed_VVD for_IF approximately_RR 20_MC minutes_NNT2 and_CC 
+observed_VVD no_AT conversation_NN1 or_CC other_JJ interaction_NN1 between_II 
+aides_NN2 and_CC residents_NN2 ._. 
+This_DD1 is_VBZ surprising_JJ in_II31 light_II32 of_II33 the_AT excellent_JJ 
+staff-to-resident_JJ relationships_NN2 established_VVN during_II the_AT 
+Polk/Home_FU for_IF Crippled_JJ Children_NN2 Training_NN1 Program_NN1 ._. 
+Hopefully_RR ,_, the_AT Team_NN1 did_VDD not_XX observe_VVI a_AT1 typical_JJ 
+mean-time_NNT1 situation_NN1 ,_, since_CS this_DD1 is_VBZ a_AT1 time_NNT1 
+when_RRQ very_RG close_JJ personal_JJ interaction_NN1 can_VM occur_VVI On_II 
+the_AT whole_NN1 ,_, it_PPH1 appears_VVZ that_CST there_EX are_VBR young_JJ 
+,_, knowledgeable_JJ ,_, dedicated_JJ and_CC skilled_JJ staff_NN members_NN2 
+working_VVG in_II a_AT1 higher_JJR level_NN1 ,_, supervisory_JJ or_CC 
+team-leader_JJ capacity_NN1 throughout_II Polk_NP1 ._. 
+These_DD2 are_VBR persons_NN2 who_PNQS are_VBR dedicated_VVN to_II goal_NN1 
+planning_NN1 ,_, individual_JJ programming_NN1 ,_, and_CC new_JJ 
+techniques_NN2 in_II working_VVG with_IW retarded_JJ persons_NN2 ._. 
+There_EX seems_VVZ to_TO be_VBI a_AT1 close_JJ working_JJ relationship_NN1 ,_, 
+and_CC good_JJ communication_NN1 between_II these_DD2 persons_NN2 and_CC 
+the_AT Administration_NN1 However_RR ,_, it_PPH1 was_VBDZ the_AT concern_NN1 
+of_IO the_AT Team_NN1 that_CST aides_NN2 still_RR seemed_VVD uncertain_JJ 
+about_II their_APPGE role_NN1 in_II working_VVG with_IW residents_NN2 
+toward_II achieving_VVG individual_JJ goals_NN2 ._. 
+There_EX seems_VVZ to_TO exist_VVI a_AT1 need_NN1 for_IF more_RGR intensive_JJ 
+in-service_JJ training_NN1 ,_, so_CS21 that_CS22 aides_NN2 can_VM develop_VVI 
+skills_NN2 necessary_JJ for_IF implementing_VVG individual_JJ goals_NN2 for_IF 
+residents_NN2 IX_MC ._. 
+RESIDENTS_NN2 RIGHT_RR There_EX were_VBDR noticeable_JJ and_CC flagrant_JJ 
+violations_NN2 of_IO the_AT residents_NN2 '_GE rights_NN2 to_II privacy_NN1 
+,_, especially_RR in_II toileting_NN1 and_CC bathing_VVG facilities_NN2 ._. 
+This_DD1 is_VBZ a_AT1 serious_JJ violation_NN1 of_IO JCAH/ACFMR_NN1 
+standards_NN2 and_CC ICF/MR_FU Regs._NN2 ,_, and_CC PARC_NP1 must_VM ask_VVI 
+again_RT when_CS DPW_NP1 will_VM make_VVI efforts_NN2 to_TO bring_VVI Polk_NP1 
+into_II compliance_NN1 with_IW national_JJ standards_NN2 ?_? 
+The_AT toileting_NN1 facilities_NN2 at_II Polk_NP1 continue_VV0 to_TO be_VBI 
+the_AT worst_JJT in_II this_DD1 state_NN1 ,_, and_CC this_DD1 problem_NN1 
+must_VM be_VBI dealt_VVN with_IW in_II the_AT immediate_JJ future_JJ 
+Residents_NN2 do_VD0 have_VHI access_NN1 to_II a_AT1 lawyer_NN1 ._. 
+Pay_VV0 phones_NN2 are_VBR in_II evidence_NN1 in_II every_AT1 building_NN1 ._. 
+Residents_NN2 do_VD0 have_VHI personal_JJ possessions_NN2 In_II the_AT 
+area_NN1 of_IO right_NN1 to_II medical_JJ and_CC dental_JJ treatment_NN1 ,_, 
+much_RR remains_VVZ to_TO be_VBI done_VDN ,_, as_CSA noted_VVN in_II this_DD1 
+report_NN1 X._NP1 SUMMAR_NP1 Polk_NP1 is_VBZ an_AT1 institution_NN1 which_DDQ 
+has_VHZ undergone_VVN drastic_JJ changes_NN2 in_II three_MC years_NNT2 ._. 
+From_II a_AT1 strictly_RR custodial_JJ institution_NN1 ,_, Polk_NP1 ,_, 
+due_II21 to_II22 the_AT efforts_NN2 '_GE of_IO the_AT Administration_NN1 
+and_CC many_DA2 young_JJ ,_, experienced_JJ and_CC dedicated_JJ 
+professionals_NN2 ,_, is_VBZ gradually_RR moving_VVG away_II21 from_II22 
+this_DD1 custodial_JJ model_NN1 ._. 
+Changes_NN2 have_VH0 come_VVN slowly_RR ,_, but_CCB they_PPHS2 have_VH0 
+been_VBN made_VVN -7_MC There_EX is_VBZ a_RR31 great_RR32 deal_RR33 that_DD1 
+has_VHZ been_VBN changed_VVN at_II Polk_NP1 ,_, in_II the_AT physical_JJ 
+plan_NN1 and_CC in_II staff_NN attitude_NN1 ._. 
+But_CCB much_RR remains_VVZ to_TO be_VBI done_VDN ,_, especially_RR in_II31 
+terms_II32 of_II33 aide_NN1 training_NN1 and_CC attitudinal_JJ change_NN1 ._. 
+The_AT medical_JJ care_NN1 at_II Polk_NP1 must_VM be_VBI upgraded_VVN ._. 
+Dramatic_JJ action_NN1 is_VBZ needed_VVN quickly_RR to_TO address_VVI the_AT 
+serious_JJ dental_JJ problems_NN2 ._. 
+Programming_NN1 must_VM be_VBI expanded_VVN and_CC intensified--especially_RR 
+for_IF severely-profoundly_RR retarded_JJ people_NN at_II Polk_NP1 Finally_RR 
+,_, a_AT1 further_JJR reduction_NN1 in_II the_AT number_NN1 of_IO 
+residents_NN2 is_VBZ necessary_JJ for_IF Polk_NP1 to_TO become_VVI a_AT1 
+facility_NN1 which_DDQ can_VM meet_VVI the_AT needs_NN2 of_IO the_AT 
+residents_NN2 PARC_NP1 is_VBZ confident_JJ that_CST the_AT administration_NN1 
+at_II Polk_NP1 is_VBZ working_VVG very_RG diligently_RR for_IF change_NN1 ._. 
+This_DD1 Association_NN1 would_VM like_VVI to_TO feel_VVI that_CST the_AT 
+DPW_NP1 is_VBZ as_CSA committed_VVN to_II upgrading_VVG Polk_NP1 as_CSA is_VBZ 
+the_AT staff_NN ._. 
+A_AT1 commitment_NN1 from_II DPW_NP1 to_II Polk_NP1 ,_, in_II31 terms_II32 
+of_II33 funds_NN2 and_CC expertise_NN1 ,_, is_VBZ ,_, at_II this_DD1 point_NN1 
+essential_JJ to_II moving_VVG Polk_NP1 forward_RL Respectfully_RR 
+submitted_VVD Marlene_NP1 Burda_NP1 ,_, Recorder_NN1 
+--b50242f2105483ec4ca7e41482c03f6b--_FU 

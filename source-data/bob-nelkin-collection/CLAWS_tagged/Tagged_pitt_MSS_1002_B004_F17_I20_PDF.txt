@@ -1,0 +1,29 @@
+
+MENTAL_JJ PATIENT_JJ CIVIL_JJ LIBERTIES_NN2 PROJEC_NN1 121_MC South_ND1 
+18th_MD Street_NN1 -_- Philadelphia_NP1 ,_, Pa._NP1 19103_MC -_- (_( 215_MC 
+)_) 561-471_MCMC DAVID_NP1 FERLEGE_NP1 Directo_NP1 Ms._NNB Helene_NP1 
+Wohlgemut_NP1 Secretary_NN1 Department_NN1 of_IO Public_JJ Welfare_NN1 
+Harrisburg_NP1 ,_, Pa_NP1 April_NPM1 26_MC ,_, 197_MC Re_NP1 :_: Firing_NN1 
+of_IO Supt._NNB McClellan_NP1 Dear_JJ Secretary_NP1 Wohlgemuth_NN1 As_CSA 
+you_PPY know_VV0 ,_, our_APPGE organization_NN1 is_VBZ involved_JJ in_II 
+active_JJ day-to-day_JJ work_NN1 with_IW mental_JJ patients_NN2 in_II the_AT 
+Philadelphia_NP1 area_NN1 and_CC at_II Haverford_NP1 State_NN1 Hospital_NN1 
+._. 
+We_PPIS2 are_VBR most_RGT concerned_JJ about_II assuring_VVG that_DD1 
+institutional_JJ conditions_NN2 and_CC administrators_NN2 support_VV0 the_AT 
+welfare_NN1 and_CC rights_NN2 of_IO patients_NN2 Because_II21 of_II22 
+our_APPGE concern_NN1 ,_, we_PPIS2 wish_VV0 to_TO express_VVI total_JJ 
+support_NN1 for_IF your_APPGE decision_NN1 to_TO order_VVI the_AT 
+dismantling_NN1 of_IO the_AT "_" cages/pens_NN2 "_" at_II the_AT Polk_NP1 
+institution_NN1 and_CC the_AT firing_NN1 of_IO its_APPGE superintendent_NN1 
+._. 
+We_PPIS2 feel_VV0 that_CST this_DD1 action_NN1 was_VBDZ most_RGT consistent_JJ 
+with_IW your_APPGE duties_NN2 as_CSA Secretary_NN1 of_IO Public_JJ Welfare_NN1 
+._. 
+We_PPIS2 hope_VV0 that_CST ,_, despite_II the_AT criticism_NN1 of_IO you_PPY 
+from_II some_DD quarters_NN2 ,_, you_PPY will_VM remain_VVI steadfast_JJ in_II 
+your_APPGE resolve_NN1 to_TO end_VVI this_DD1 and_CC other_JJ inhumane_JJ 
+practices_NN2 in_II state_NN1 schools_NN2 and_CC hospitals_NN2 If_CS we_PPIS2 
+can_VM be_VBI of_IO any_DD assistance_NN1 to_II you_PPY in_II this_DD1 
+area_NN1 ,_, please_RR do_VD0 not_XX hesitate_VVI to_TO contact_VVI us._NNU 
+--0f62092f3baf9167642aba392c0ec299--_FU 

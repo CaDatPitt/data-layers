@@ -1,0 +1,870 @@
+
+i_MC1 REPORT_NN1 TO_II THE_AT COUR_NN1 THE_AT INDIVIDUALS_NN2 WHO_PNQS 
+MOVED_VVD FROM_II PENNHURS_NN2 MARCH_NPM1 17_MC ,_, 1978_MC -_- NOVEMBER_NPM1 
+30_MC ,_, 198_MC UNITED_NP1 STATES_NP1 DISTRICT_NN1 COURT_NN1 EASTERN_JJ 
+DISTRICT_NN1 OF_IO PENNSYLVANI_NP1 CARLA_NP1 S_NP1 MORGA_NP1 SPECIAL_JJ 
+MASTE_NN1 FEBRUARY_NPM1 ,_, 198_MC f_RA TABLE_NN1 OF_IO CONTENT_JJ 
+INTRODUCTION_NN1 AND_CC OVERVIEW_NN1 PAG_NN1 Introduction_NN1 Overview_NN1 
+1_MC1 THE_AT PROVISION_NN1 OF_IO COMMUNITY_NN1 SERVICES_NN2 Population_NN1 
+Community_NN1 Living_NN1 Arrangements_NN2 Health_NN1 Care_VV0 Other_JJ 
+Community_NN1 Services_NN2 and_CC Benefits_NN2 Community_NN1 Experiences_NN2 
+of_IO Six_MC Individuals_NN2 Instances_NN2 of_IO Improved_JJ Health_NN1 of_IO 
+Individuals_NN2 6_MC 7_MC 9_MC 11_MC 13_MC 2_MC THE_AT PROVISION_NN1 OF_IO 
+INDIVIDUAL_JJ HABILITATION_NN1 PLANS_VVZ 2_MC THE_AT PROVISION_NN1 OF_IO 
+MONITORING_VVG 2_MC Special_JJ Masters_NN2 Monitoring_VVG Commonwealths_NN2 
+Monitoring_VVG 30_MC 3_MC TABLE_NN1 3_MC Table_NN1 1_MC1 ..........._... 
+Current_JJ Status_NN1 3_MC Table_NN1 2_MC ..........._... 
+Placement_NN1 Dates_VVZ 3_MC Tabla_NP1 3_MC ..........._... 
+Persons_NN2 by_II County_NN1 3_MC Table_NN1 4_MC ..........._... 
+Level_NN1 of_IO Retardation_NN1 3_MC Table_NN1 5_MC ..........._... 
+Residents_NN2 per_II CLA_NP1 3_MC Table_NN1 6_MC ..........._... 
+Staff_NN per_II Residents_NN2 3_MC Table_NN1 7_MC ..........._... 
+Annual_JJ Health_NN1 Exams_NN2 4_MC Table_NN1 8_MC ..........._... 
+Medical_JJ Insurance_NN1 4_MC Table_NN1 9_MC ..........._... 
+Day_NNT1 Program_NN1 Enrollment_NN1 4_MC Table_NN1 10_MC .........._... 
+Transportation_NN1 to_II Day_NP1 Program_NN1 4_MC Table_NN1 11_MC 
+.........._... 
+Recreation_NN1 Programs_NN2 4_MC Table_NN1 12_MC .........._... 
+Individual_JJ Habilitation_NN1 Plans_VVZ Before_II Movement_NN1 4_MC Table_NN1 
+13_MC .........._... 
+Current_JJ Individual_JJ Habilitation_NN1 Plans_VVZ 4_MC Table_NN1 14_MC 
+.........._... 
+Individual_JJ Program_NN1 Goals_NN2 4_MC FOLLOW-UP/FUTURE_JJ REPORT_NN1 
+APPENDIX_NN1 4_MC 5_MC Matched_JJ Comparison_NN1 Study_NN1 of_IO Adaptive_NP1 
+Behavior_NP1 Growth_NN1 Among_II Deinstitutionalized_JJ Clients_NN2 by_II 
+Temple_NP1 University_NN1 ,_, November_NPM1 10_MC ,_, 1980_MC INTRODUCTIO_NP1 
+This_DD1 report_NN1 to_II the_AT Federal_JJ District_NN1 Court_NN1 focuses_VVZ 
+on_II the_AT 140_MC individuals_NN2 who_PNQS have_VH0 moved_VVN from_II 
+Pennhurst_NN1 to_II community_NN1 living_NN1 arrangements_NN2 (_( CLAs_NP2 )_) 
+between_II the_AT March_NPM1 17_MC ,_, 1978_MC Court_NN1 Order_NN1 and_CC 
+November_NPM1 30,1980_MC ._. 
+This_DD1 is_VBZ the_AT second_NNT1 in_II a_AT1 series_NN of_IO reports_NN2 
+which_DDQ concentrates_VVZ on_II individuals_NN2 in_II the_AT community_NN1 
+This_DD1 report_NN1 contains_VVZ information_NN1 which_DDQ was_VBDZ 
+gathered_VVN in_II late_JJ 1980_MC by_II the_AT Special_JJ Masters_NN2 
+staff_NN ,_, through_II extensive_JJ monitoring_NN1 of_IO the_AT services_NN2 
+provided_VVN to_II the_AT individuals_NN2 who_PNQS have_VH0 moved_VVN to_II 
+CLAs_NN2 ._. 
+Additional_JJ information_NN1 was_VBDZ obtained_VVN from_II the_AT 
+counties_NN2 or_CC through_II review_NN1 of_IO updated_JJ records_NN2 or_CC 
+files_NN2 ._. 
+Wherever_RRQV possible_JJ ,_, services_NN2 have_VH0 been_VBN described_VVN 
+for_IF all_DB 140_MC individuals_NN2 ,_, including_VVG "_" out_II21 of_II22 
+region_NN1 individuals_NN2 ._. 
+Otherwise_RR ,_, information_NN1 has_VHZ been_VBN given_VVN for_IF the_AT 
+129_MC people_NN who_PNQS live_VV0 in_II CLAs_NN2 of_IO the_AT five_MC 
+county_NN1 Southeastern_JJ Region_NN1 The_AT first_MD three_MC injunctions_NN2 
+of_IO the_AT Courts_NN2 Order_NN1 of_IO March_NPM1 17_MC ,_, 1978_MC 
+provided_CS the_AT framework_NN1 for_IF this_DD1 report_NN1 ._. 
+These_DD2 requirements_NN2 are_VBR summarized_VVN as_CSA follows_VVZ 
+Paragraph_NN1 one_PN1 requires_VVZ the_AT Commonwealth_NN1 and_CC Counties_NN2 
+to_TO provide_VVI suitable_JJ community_NN1 living_NN1 arrangements_NN2 
+together_RL with_IW other_JJ necessary_JJ community_NN1 services_NN2 -_- 
+Paragraph_NN1 two_MC requires_VVZ the_AT Commonwealth_NN1 and_CC Counties_NN2 
+to_TO develop_VVI and_CC provide_VVI a_AT1 written_JJ Individual_JJ 
+Habilitation_NN1 Plan_NN1 in_II31 accordance_II32 with_II33 professional_JJ 
+standards_NN2 Paragraph_NN1 three_MC requires_VVZ the_AT Commonwealth_NN1 
+and_CC Counties_NN2 to_TO monitor_VVI the_AT community_NN1 services_NN2 to_TO 
+assure_VVI the_AT necessary_JJ quantity_NN1 and_CC quality_NN1 of_IO 
+services_NN2 are_VBR provided_VVN and_CC maintained_VVN The_AT first_MD 
+report_NN1 ,_, "_" Report_NN1 to_II the_AT Court_NN1 :_: The_AT 
+Individuals_NN2 Who_PNQS Moved_VVD From_II Pennhurst_NP1 (_( March_NPM1 17_MC 
+,_, 1978August_FO 31_MC ,_, 1980_MC )_) "_" was_VBDZ filed_VVN with_IW the_AT 
+Court_NN1 on_II October_NPM1 1_MC1 ,_, 1980_MC 1_MC1 OVERVIE_NN1 The_AT 
+provision_NN1 of_IO community_NN1 services_NN2 to_II Pennhurst_NP1 
+residents_NN2 continued_VVN at_II a_AT1 slow_JJ pace_NN1 during_II recent_JJ 
+months_NNT2 ._. 
+During_II the_AT 1980-81_MCMC fiscal_JJ year_NNT1 ,_, the_AT Commonwealth_NN1 
+and_CC county_NN1 defendants_NN2 have_VH0 provided_VVN community_NN1 
+services_NN2 to_II an_AT1 average_NN1 of_IO four_MC additional_JJ 
+Pennhurst_NN1 residents_NN2 per_II month_NNT1 214_MC people_NN who_PNQS 
+were_VBDR residents_NN2 of_IO Pennhurst_NN1 on_II March_NPM1 17_MC ,_, 1978_MC 
+are_VBR no_RR21 longer_RR22 there_RL ._. 
+Of_IO that_DD1 number_NN1 ,_, fifty-five_MC have_VH0 died_VVN ._. 
+As_II21 of_II22 November_NPM1 30_MC ,_, 1980_MC ,_, 140_MC resided_VVD in_II 
+community_NN1 living_NN1 arrangements_NN2 ._. 
+Ninety_MC per_NNU21 cent_NNU22 of_IO the_AT individuals_NN2 who_PNQS have_VH0 
+moved_VVN to_II CLAs_NN2 during_II this_DD1 fiscal_JJ year_NNT1 were_VBDR 
+classified_VVN as_CSA either_RR severely_RR or_CC profoundly_RR mentally_RR 
+retarded_VVD The_AT 140_MC individuals_NN2 lived_VVN in_II areas_NN2 with_IW 
+significantly_RR fewer_DAR residents_NN2 and_CC significantly_RR more_DAR 
+staff_NN per_II resident_JJ than_CSN were_VBDR in_II their_APPGE former_DA 
+living_JJ areas_NN2 at_II Pennhurst_NP1 ._. 
+The_AT Special_JJ Masters_NN2 staff_VV0 generally_RR observed_VVN that_CST 
+the_AT monitored_JJ CLAs_NN2 were_VBDR safe_JJ ,_, clean_JJ ,_, home-like_JJ 
+,_, appropriately_RR furnished_VVN ,_, and_CC oriented_VVN to_TO preserve_VVI 
+the_AT dignity_NN1 of_IO individuals_NN2 The_AT observed_JJ CLAs_NN2 were_VBDR 
+the_AT antithesis_NN1 of_IO the_AT overcrowded_JJ ,_, understaffed_JJ ,_, 
+or_CC custodial_JJ care_NN1 residences_NN2 that_CST have_VH0 generally_RR 
+characterized_VVN institutional_JJ care_NN1 ,_, and_CC of_IO the_AT 
+unsupervised_JJ ,_, unsafe_JJ ,_, and_CC unhealthy_JJ residences_NN2 that_CST 
+have_VH0 characterized_VVN boarding_VVG homes_NN2 in_II the_AT recent_JJ 
+past_JJ Primary_JJ health_NN1 care_NN1 ,_, such_II21 as_II22 annual_JJ 
+health_NN1 examinations_NN2 ,_, has_VHZ been_VBN provided_VVN to_II the_AT 
+129_MC individuals_NN2 in_II the_AT counties_NN2 of_IO the_AT Southeastern_JJ 
+Region_NN1 ._. 
+Many_DA2 specialized_JJ health_NN1 needs_NN2 were_VBDR also_RR being_VBG 
+successfully_RR addressed_VVN ._. 
+All_RR21 but_RR22 one_MC1 of_IO the_AT residents_NN2 had_VHD medical_JJ 
+assistance_NN1 or_CC another_DD1 means_VVZ to_TO cover_VVI medical_JJ 
+expenses_NN2 ._. 
+The_AT uninsured_JJ individual_NN1 was_VBDZ in_II the_AT process_NN1 of_IO 
+obtaining_VVG coverage_NN1 All_DB of_IO the_AT 129_MC individuals_NN2 
+regularly_RR attended_VVN school_NN1 ,_, vocational_JJ training_NN1 ,_, or_CC 
+skill_NN1 training_NN1 programs_NN2 away_II21 from_II22 their_APPGE 
+residences_NN2 (_( except_II21 for_II22 one_MC1 person_NN1 whose_DDQGE 
+program_NN1 is_VBZ temporarily_RR in_II his_APPGE residence_NN1 )_) ._. 
+Additional_JJ community_NN1 services_NN2 ,_, such_II21 as_II22 recreation_NN1 
+programs_NN2 ,_, were_VBDR available_JJ and_CC were_VBDR utilized_VVN by_II 
+almost_RR all_DB of_IO the_AT people_NN -_- 2_MC An_AT1 indepth_JJ study_NN1 
+of_IO the_AT community_NN1 services_NN2 of_IO six_MC randomly_RR selected_JJ 
+severel_NN1 or_CC profoundly_RR retarded_JJ individuals_NN2 revealed_VVD 
+that_CST they_PPHS2 were_VBDR benefiting_VVG from_II an_AT1 array_NN1 of_IO 
+community_NN1 services_NN2 ._. 
+The_AT benefit_NN1 was_VBDZ apparent_JJ in_II both_DB2 the_AT quality_NN1 
+of_IO their_APPGE lives_NN2 and_CC their_APPGE skill_NN1 development_NN1 ._. 
+Improvements_NN2 in_II their_APPGE adaptive_JJ functioning_NN1 were_VBDR 
+shown_VVN ._. 
+Each_DD1 of_IO the_AT six_MC had_VHD increased_VVN his/her_APPGE self_NN1 
+care_NN1 ,_, daily_JJ living_NN1 ,_, and_CC communication_NN1 skills_NN2 ._. 
+Of_IO these_DD2 six_MC individuals_NN2 ,_, the_AT four_MC who_PNQS can_VM 
+communicate_VVI verbally_RR expressed_VVN a_AT1 preference_NN1 for_IF 
+living_VVG in_II the_AT community_NN1 rather_II21 than_II22 at_II 
+Pennhurst_NN1 For_IF 138_MC of_IO the_AT 140_MC individuals_NN2 ,_, the_AT 
+program_NN1 of_IO services_NN2 was_VBDZ described_VVN in_II the_AT 
+individuals_NN2 habilitation_NN1 plan_NN1 and_CC was_VBDZ based_VVN on_II 
+the_AT individuals_NN2 needs_VVZ ,_, as_CSA summarized_VVN in_II the_AT 
+plan_NN1 ._. 
+Goals_NN2 ,_, methods_NN2 ,_, activities_NN2 had_VHD been_VBN planned_VVN 
+and_CC were_VBDR being_VBG implemented_VVN for_IF almost_RR all_DB of_IO 
+those_DD2 who_PNQS moved_VVD to_II the_AT community_NN1 ._. 
+In_II two_MC out_II21 of_II22 every_AT1 three_MC cases_NN2 ,_, there_EX 
+were_VBDR current_JJ Individual_JJ Habilitation_NN1 Plans_NN2 (_( IHPs_NP2 )_) 
+that_CST conformed_VVD to_II the_AT published_JJ guidelines_NN2 and_CC had_VHD 
+been_VBN approved_VVN by_II the_AT Special_JJ Master_NN1 This_DD1 
+represents_VVZ a_AT1 significant_JJ effort_NN1 by_II the_AT counties_NN2 to_TO 
+meet_VVI the_AT Special_JJ Masters_NN2 stated_VVD goal_NN1 of_IO a_AT1 
+current_JJ plan_NN1 for_IF each_DD1 former_DA Pennhurst_NN1 resident_NN1 
+Currently_RR ,_, no_AT individual_NN1 is_VBZ moved_VVN from_II Pennhurst_NN1 
+without_IW an_AT1 IHP_NN1 ._. 
+This_DD1 is_VBZ a_AT1 substantial_JJ change_NN1 resulting_VVG from_II the_AT 
+Courts_NN2 requirements_NN2 of_IO employment_NN1 of_IO case_NN1 managers_NN2 
+and_CC adherence_NN1 to_II extensive_JJ guidelines_NN2 ._. 
+Prior_II21 to_II22 the_AT Court_NN1 Orders_NN2 ,_, almost_RR all_DB the_AT 
+people_NN who_PNQS moved_VVD from_II Pennhurst_NP1 lacked_VVD an_AT1 
+Individual_JJ Habilitation_NN1 Plan_NN1 In_II late_JJ 1980_MC ,_, the_AT 
+Special_JJ Masters_NN2 staff_NN conducted_VVD the_AT first_MD indepth_JJ 
+monitoring_NN1 of_IO the_AT community_NN1 services_NN2 for_IF nearly_RR all_DB 
+of_IO the_AT former_DA Pennhurst_NN1 residents_NN2 in_II Southeastern_JJ 
+Region_NN1 CLAs_NN2 ._. 
+The_AT individualized_JJ monitoring_NN1 was_VBDZ conducted_VVN to_TO 
+assess_VVI whether_CSW the_AT necessary_JJ quantity_NN1 and_CC quality_NN1 
+of_IO services_NN2 were_VBDR provided_VVN and_CC maintained_VVN to_TO 
+fulfill_VVI the_AT IHP_NN1 goals_NN2 and_CC to_TO meet_VVI the_AT 
+individuals_NN2 needs_VVZ ._. 
+Written_JJ recommendations_NN2 were_VBDR made_VVN following_II each_DD1 
+visit_NN1 Guidelines_NN2 for_IF Case_NN1 Managers_NN2 :_: Implementation_NN1 
+of_IO the_AT Individual_JJ Habilitation_NN1 Plan_NN1 Process_NN1 ,_, "_" 
+prepared_VVN by_II Carla_NP1 S._NP1 Morgan_NP1 ,_, Special_JJ Master_NN1 ,_, 
+revised_JJ August_NPM1 ,_, 1980_MC -_- 3_MC During_II the_AT same_DA time_NNT1 
+,_, the_AT Commonwealth_NN1 piloted_VVD their_APPGE first_MD comprehensive_JJ 
+and_CC individualized_JJ monitoring_NN1 of_IO the_AT services_NN2 provided_VVN 
+to_II former_DA Pennhurst_NN1 residents_NN2 ._. 
+The_AT Commonwealths_NN2 "_" audit_VV0 format_NN1 was_VBDZ used_VVN to_TO 
+evaluate_VVI the_AT services_NN2 provided_VVN to_II twenty-two_MC 
+individuals_NN2 ._. 
+Commonwealth_NN1 officials_NN2 have_VH0 stated_VVN their_APPGE intentions_NN2 
+to_TO audit_VVI the_AT community_NN1 services_NN2 provided_VVN to_II other_JJ 
+former_DA Pennhurst_NN1 residents_NN2 in_II future_JJ months_NNT2 An_AT1 
+assessment_NN1 of_IO the_AT relative_JJ benefit_NN1 of_IO community_NN1 
+services_NN2 has_VHZ been_VBN undertaken_VVN as_II part_NN1 of_IO the_AT 
+longitudinal_JJ study_NN1 of_IO the_AT Pennhurst_NN1 case_NN1 ,_, by_II 
+Temple_NP1 University_NN1 Developmental_JJ Disabilities_NN2 Center_NN1 (_( 
+See_VV0 Appendix_NN1 )_) ._. 
+The_AT examiners_NN2 administered_VVN the_AT Behavior_NP1 Devlopment_NP1 
+Survey_NN1 (_( BDS_NP1 )_) to_II matched_JJ groups_NN2 on_II whom_PNQO 
+baseline_NN1 BDSs_NP1 had_VHD been_VBN completed_VVN in_II 1978_MC ._. 
+The_AT study_NN1 matched_VVN thirty-one_MC persons_NN2 who_PNQS had_VHD 
+moved_VVN to_II the_AT community_NN1 from_II Pennhurst_NP1 (_( the_AT "_" 
+movers_NN2 )_) with_IW thirty-one_MC persons_NN2 who_PNQS stayed_VVD at_II 
+Pennhurst_NP1 (_( the_AT stayers_NN2 )_) according_II21 to_II22 sex_NN1 ,_, 
+level_NN1 of_IO retardation_NN1 ,_, IQ_NN1 ,_, number_NN1 of_IO years_NNT2 
+at_II Pennhurst_NP1 ,_, years_NNT2 of_IO birth_NN1 ,_, and_CC test_VV0 
+results_NN2 on_II the_AT 1978_MC BDS_NP1 ._. 
+The_AT Temple_NP1 Study_NN1 found_VVD that_CST the_AT thirty-one_MC 
+clients_NN2 who_PNQS have_VH0 moved_VVN to_II community_NN1 settings_NN2 
+have_VH0 gained_VVN far_RG more_RRR ,_, in_II the_AT sense_NN1 of_IO 
+expressing_VVG behavioral_JJ skills_NN2 ,_, crucial_JJ for_IF independent_JJ 
+functioning_NN1 ,_, than_CSN their_APPGE twins_NN2 who_PNQS remain_VV0 at_II 
+Pennhurst_NP1 ._. 
+Overall_RR ,_, essential_JJ services_NN2 were_VBDR being_VBG provided_VVN ,_, 
+key_JJ standards_NN2 for_IF delivery_NN1 of_IO community_NN1 services_NN2 
+were_VBDR being_VBG met_VVN ,_, and_CC the_AT individuals_NN2 who_PNQS 
+left_VVD Pennhurst_NP1 since_II March_NPM1 17_MC ,_, 1978_MC seemed_VVD to_TO 
+be_VBI benefiting_VVG from_II life_NN1 in_II the_AT community_NN1 -_- 4_MC 
+MARCH_NPM1 17_MC ,_, 1978_MC COURT_NN1 ORDER_NN1 PARAGRAPH_NN1 ON_II 
+PROVISION_NN1 OF_IO COMMUNITY_NN1 SERVICE_NN1 Commonwealth_NN1 and_CC 
+county_NN1 defendants_NN2 ,_, their_APPGE successors_NN2 ,_, and_CC 
+their_APPGE officers_NN2 ,_, agents_NN2 ,_, servants_NN2 ,_, employees_NN2 ,_, 
+attorneys_NN2 and_CC all_DB persons_NN2 in_II active_JJ concert_NN1 or_CC 
+participation_NN1 with_IW them_PPHO2 are_VBR permanently_RR enjoined_VVN to_TO 
+provide_VVI suitable_JJ community_NN1 living_NN1 arrangements_NN2 for_IF 
+the_AT retarded_JJ residents_NN2 of_IO Pennhurst_NP1 ,_, ._. 
+and_CC those_DD2 retarded_JJ persons_NN2 on_II its_APPGE waiting_NN1 list_NN1 
+,_, together_RL with_IW such_DA community_NN1 services_NN2 as_CSA are_VBR 
+necessary_JJ to_TO provide_VVI them_PPHO2 with_IW minimally_RR adequate_JJ 
+habilitation_NN1 until_CS such_DA time_NNT1 as_CSA the_AT retarded_JJ 
+individual_NN1 is_VBZ no_RR21 longer_RR22 in_II31 need_II32 of_II33 such_DA 
+living_JJ arrangement_NN1 and/or_CC community_NN1 service_NN1 Judge_NN1 
+Raymond_NP1 J._NP1 Broderick_NP1 United_JJ States_NP1 District_NN1 Cour_NN1 
+-_- 5_MC THE_AT POPULATIO_NN1 There_EX are_VBR now_RT 140_MC individuals_NN2 
+who_PNQS have_VH0 moved_VVN from_II Pennhurst_NP1 to_II the_AT community_NN1 
+between_II March_NPM1 1978_MC Court_NN1 Order_NN1 and_CC November_NPM1 
+30,1980_MC (_( Table_NN1 1_MC1 )_) ._. 
+Most_DAT of_IO the_AT persons_NN2 who_PNQS moved_VVD from_II Pennhurst_NP1 
+moved_VVD to_II CLAs_NN2 ._. 
+No_PN121 one_PN122 moved_VVD to_II a_AT1 boarding_NN1 home_RL ._. 
+No_PN121 one_PN122 has_VHZ been_VBN readmitted_VVN to_II Pennhurst_NP1 or_CC 
+any_DD other_JJ state_NN1 institution_NN1 for_IF retarded_JJ citizens_NN2 
+In_II the_AT thirty-three_MC months_NNT2 since_CS the_AT Courts_NN2 Order_VV0 
+,_, the_AT Pennhurst_NN1 individuals_NN2 have_VH0 moved_VVN to_II CLAs_NN2 
+at_II an_AT1 average_JJ rate_NN1 of_IO four_MC persons_NN2 per_II month_NNT1 
+(_( Table_NN1 2_MC )_) ._. 
+95_MC individuals_NN2 ,_, including_II nine_MC who_PNQS are_VBR not_XX 
+retarded_JJ ,_, still_RR remain_VV0 at_II Pennhurst_NP1 ._. 
+During_II the_AT September_NPM1 1_MC1 ,_, 1980_MC to_II November_NPM1 
+30,1980_MC period_NN1 only_RR Delaware_NP1 ,_, Montgomery_NP1 and_CC 
+Philadelphia_NP1 Counties_NN2 have_VH0 moved_VVN individuals_NN2 (_( Table_NN1 
+3_MC )_) Prior_II21 to_II22 each_DD1 move_NN1 ,_, the_AT counties_NN2 
+prepared_VVN an_AT1 Individual_JJ Habilitation_NN1 Plan_NN1 which_DDQ was_VBDZ 
+reviewed_VVN and_CC approved_VVN by_II the_AT Special_JJ Master_NN1 ._. 
+Since_CS July_NPM1 ,_, 1980_MC ,_, the_AT approved_JJ IHPs_NN2 have_VH0 
+then_RT been_VBN reviewed_VVN at_II a_AT1 hearing_NN1 by_II the_AT Hearing_NN1 
+Master_NN1 to_TO determine_VVI whether_CSW the_AT planned_JJ community_NN1 
+services_NN2 would_VM be_VBI more_RGR beneficial_JJ than_CSN the_AT 
+services_NN2 at_II Pennhurst_NP1 (_( pursuant_II21 to_II22 the_AT Court_NN1 
+of_IO Appeals_NN2 Opinion_NN1 of_IO December_NPM1 13_MC ,_, 1979_MC and_CC 
+that_CST the_AT move_NN1 was_VBDZ voluntary_JJ (_( pursuant_II21 to_II22 
+the_AT Supreme_JJ Court_NN1 Order_NN1 of_IO June_NPM1 30_MC ,_, 1980_MC )_) 
+Two-thirds_MF of_IO the_AT people_NN who_PNQS have_VH0 moved_VVN to_II 
+CLAs_NN2 are_VBR men_NN2 and_CC one-third_MF are_VBR women_NN2 ,_, closely_RR 
+paralleling_VVG the_AT distribution_NN1 by_II sex_NN1 of_IO those_DD2 who_PNQS 
+still_RR remain_VV0 at_II Pennhurst_NP1 ._. 
+Those_DD2 who_PNQS moved_VVD to_II the_AT community_NN1 had_VHD spent_VVN ,_, 
+an_AT1 average_NN1 of_IO twenty-one_MC years_NNT2 in_II the_AT institution_NN1 
+Of_IO the_AT 140_MC individuals_NN2 who_PNQS have_VH0 moved_VVN to_II CLAs_NN2 
+seventy_MC percent_NNU are_VBR classified_VVN as_CSA either_RR severely_RR 
+or_CC profoundly_RR retarded_JJ (_( Table_NN1 4_MC )_) ,_, as_CSA are_VBR 
+eighty-five_MC percent_NNU of_IO those_DD2 who_PNQS remain_VV0 at_II 
+Pennhurst_NP1 ._. 
+Ninety_MC percent_NNU of_IO the_AT individuals_NN2 who_PNQS have_VH0 moved_VVN 
+to_II CLAs_NN2 during_II this_DD1 present_JJ fiscal_JJ year_NNT1 are_VBR 
+classified_VVN as_CSA either_RR severely_RR or_CC profoundly_RR retarded_JJ 
+(_( most_DAT are_VBR profoundly_RR retarded_JJ )_) -_- 6_MC THE_AT 
+COMMUNITY_NN1 LIVING_NN1 ARRANGEMENT_NN1 All_DB of_IO the_AT Pennhurst_NN1 
+residents_NN2 who_PNQS moved_VVD to_II the_AT community_NN1 ,_, with_IW the_AT 
+exception_NN1 of_IO the_AT nine_MC persons_NN2 who_PNQS lived_VVD with_IW 
+their_APPGE relatives_NN2 ,_, resided_VVD in_II units_NN2 funded_VVN and_CC 
+approved_VVN by_II the_AT Community_NN1 Living_NN1 Arrangements_NN2 
+Program_NN1 governed_VVN by_II the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 
+and_CC the_AT county_NN1 governments_NN2 ._. 
+Twenty-six_MC private_JJ agencies_NN2 ,_, under_II contract_NN1 with_IW the_AT 
+governmental_JJ units_NN2 ,_, actually_RR operated_VVN the_AT CLAs_NN2 
+These_DD2 CLAs_NN2 were_VBDR either_RR apartments_NN2 or_CC family-sized_JJ 
+houses_NN2 ,_, where_CS one_MC1 to_II eight_MC residents_NN2 lived_VVD ._. 
+The_AT typical_JJ population_NN1 in_II the_AT CLA_NN1 residents_NN2 
+previous_JJ Pennhurst_NN1 area_NN1 was_VBDZ eleven_MC to_II twenty_MC 
+people_NN ._. 
+Nine_MC percent_NNU lived_VVN in_II Pennhurst_NP1 areas_NN2 with_IW 
+forty-one_MC to_II fifty_MC residents_NN2 Each_DD1 of_IO the_AT 140_MC 
+individuals_NN2 lived_VVN in_II a_AT1 CLA_NN1 with_IW fewer_DAR residents_NN2 
+than_CSN in_II their_APPGE former_DA Pennhurst_NN1 living_NN1 area_NN1 (_( 
+Table_NN1 5_MC )_) ._. 
+The_AT average_JJ CLA_NN1 had_VHD one-eighth_MF the_AT number_NN1 of_IO 
+residents_NN2 than_CSN the_AT former_DA Pennhurst_NN1 living_NN1 area_NN1 ._. 
+The_AT CLAs_NP2 averaged_VVD 2.5_MC residents_NN2 ;_; the_AT Pennhurst_NN1 
+areas_NN2 averaged_VVD 21.2_MC residents_NN2 With_IW the_AT exception_NN1 
+of_IO several_DA2 individuals_NN2 who_PNQS were_VBDR purposely_RR placed_VVN 
+into_II semiindependent_JJ living_NN1 within_II the_AT CLA_NN1 program_NN1 ,_, 
+all_DB others_NN2 have_VH0 one_MC1 form_NN1 or_CC another_DD1 of_IO 
+twenty-four_MC hour_NNT1 staff_NN supervision_NN1 139_MC of_IO the_AT 140_MC 
+CLA_NN1 residents_NN2 lived_VVN in_II CLAs_NN2 with_IW more_DAR staff_NN 
+members_NN2 per_II resident_JJ than_CSN in_II their_APPGE former_DA 
+Pennhurst_NN1 living_NN1 area_NN1 (_( Table_NN1 6_MC )_) ._. 
+At_II Pennhurst_NP1 ,_, the_AT average_NN1 was_VBDZ one_MC1 staff_NN 
+member_NN1 for_IF eight_MC residents_NN2 ._. 
+At_II the_AT CLAs_NP2 ,_, the_AT average_NN1 was_VBDZ one_MC1 staff_NN 
+member_NN1 for_IF two_MC residents_NN2 ._. 
+In_II other_JJ words_NN2 ,_, the_AT CLAs_NP2 averaged_VVD four_MC times_NNT2 
+more_DAR staff_NN members_NN2 per_II resident_JJ than_CSN the_AT 
+individualss_NN1 former_DA Pennhurst_NN1 living_NN1 areas_NN2 This_DD1 
+comparison_NN1 was_VBDZ drawn_VVN for_IF the_AT 3-11_MCMC p.m._RA shift_VV0 
+in_II the_AT institution_NN1 and_CC approximately_RR the_AT same_DA time_NNT1 
+period_NN1 in_II the_AT CLAs_NP2 ._. 
+The_AT Special_JJ Masters_NN2 staff_NN conducted_VVD a_AT1 phone_NN1 
+survey_NN1 of_IO CLA_NP1 Project_NN1 Directors_NN2 on_II December_NPM1 19_MC 
+,_, 1980_MC as_II the_AT basis_NN1 of_IO the_AT CLA_NN1 information_NN1 ._. 
+"_" The_AT Pennhurst_NN1 Center_NN1 July_NPM1 18_MC ,_, 1980_MC Staffing_NN1 
+Study_NN1 "_" is_VBZ the_AT source_NN1 of_IO the_AT information_NN1 on_II 
+the_AT individuals_NN2 former_DA Pennhurst_NN1 living_NN1 area_NN1 -_- 7_MC 
+The_AT highest_JJT staff_NN ratio_NN1 in_II the_AT CLAs_NP2 was_VBDZ three_MC 
+staff_NN to_II one_MC1 resident_NN1 ._. 
+The_AT lowest_JJT staff_NN ratio_NN1 in_II the_AT CLAs_NP2 was_VBDZ one_MC1 
+staff_NN to_II six_MC residents_NN2 ._. 
+The_AT range_NN1 in_II the_AT former_DA Pennhurst_NN1 living_NN1 areas_NN2 
+was_VBDZ one_MC1 staff_NN to_II four_MC residents_NN2 (_( highest_JJT )_) 
+to_II one_MC1 staff_NN for_IF ten_MC residents_NN2 (_( lowest_JJT )_) At_II 
+the_AT time_NNT1 of_IO the_AT monitoring_NN1 visits_NN2 ,_, the_AT 
+residents_NN2 were_VBDR observed_VVN to_TO be_VBI fully_RR and_CC 
+appropriately_RR dressed_VVN ._. 
+The_AT monitors_NN2 did_VDD not_XX observe_VVI any_DD suspicious_JJ 
+bruises_NN2 ,_, cuts_NN2 or_CC scars_VVZ The_AT apartments_NN2 and_CC 
+houses_NN2 were_VBDR observed_VVN to_TO be_VBI generally_RR clean_JJ and_CC 
+free_JJ of_IO offensive_JJ smells_NN2 ._. 
+Most_DAT rooms_NN2 and_CC furnishings_NN2 were_VBDR home-like_JJ in_II 
+appearance_NN1 and_CC decoration_NN1 ._. 
+The_AT residents_NN2 had_VHD dressers_NN2 and_CC other_JJ places_NN2 to_TO 
+store_VVI their_APPGE clothing_NN1 and_CC personal_JJ possessions_NN2 ._. 
+Almost_RR all_DB of_IO the_AT residents_NN2 had_VHD personal_JJ 
+possessions_NN2 ._. 
+Usually_RR residents_NN2 had_VHD a_AT1 private_JJ bedroom_NN1 or_CC a_AT1 
+bedroom_NN1 shared_VVN with_IW only_RR one_MC1 other_JJ person_NN1 ._. 
+The_AT bathrooms_NN2 in_II the_AT CLAs_NP2 afforded_VVD privacy_NN1 for_IF 
+the_AT individuals_NN2 and_CC were_VBDR equipped_VVN with_IW toilet_NN1 
+paper_NN1 ,_, soap_NN1 ,_, etc_RA Ninety_MC percent_NNU of_IO the_AT CLAs_NP2 
+had_VHD written_VVN emergency_NN1 procedures_NN2 that_CST included_VVD 
+information_NN1 on_II doctors_NN2 ,_, ambulances_NN2 ,_, police_NN2 ,_, 
+fire_NN1 ,_, poison_NN1 centers_NN2 ,_, etc_RA ._. 
+A_AT1 similar_JJ percentage_NN1 of_IO CLAs_NP2 had'the_VV0 required_JJ 
+general_JJ fire_NN1 and_CC safety_NN1 procedures_NN2 -_- 8_MC HEALTH_NN1 
+CAR_NN1 General_NN1 health_NN1 is_VBZ the_AT first_MD area_NN1 of_IO 
+concern_NN1 in_II the_AT IHP_NN1 ,_, and_CC is_VBZ a_AT1 similar_JJ 
+priority_NN1 in_II the_AT monitoring_NN1 process_VV0 Primary_JJ health_NN1 
+care_NN1 has_VHZ been_VBN provided_VVN to_II the_AT former_DA Pennhurst_NN1 
+residents_NN2 who_PNQS live_VV0 in_II CLAs_NN2 ._. 
+Between_II September_NPM1 ,_, 1979_MC ,_, and_CC November_NPM1 1980_MC ,_, 
+annual_JJ medical_JJ examinations_NN2 were_VBDR performed_VVN by_II 
+physicians_NN2 for_IF all_RR21 but_RR22 one_MC1 of_IO the_AT former_DA 
+Pennhurst_NN1 residents_NN2 living_VVG in_II CLAs_NN2 ._. 
+That_DD1 individual_NN1 had_VHD refused_VVN any_DD medical_JJ or_CC dental_JJ 
+treatment_NN1 ._. 
+All_DB of_IO the_AT women_NN2 involved_VVD were_VBDR seen_VVN by_II a_AT1 
+gynecologist_NN1 for_IF examinations_NN2 (_( Table_NN1 7_MC )_) ._. 
+Dentists_NN2 examined_VVD eighty-nine_MC percent_NNU of_IO the_AT CLA_NN1 
+residents_NN2 Case_NN1 managers_NN2 and_CC residential_JJ staff_NN have_VH0 
+made_VVN arrangements_NN2 for_IF continuing_JJ health_NN1 care_NN1 ._. 
+Physicians_NN2 have_VH0 been_VBN identified_VVN to_TO provide_VVI ongoing_JJ 
+medical_JJ treatment_NN1 for_IF ninety_MC percent_NNU of_IO the_AT 
+individuals_NN2 ._. 
+Similarly_RR ,_, dentists_NN2 have_VH0 been_VBN identified_VVN for_IF most_DAT 
+of_IO the_AT people_NN ._. 
+Gynecologists_NN2 have_VH0 been_VBN identified_VVN for_IF most_DAT of_IO 
+the_AT women_NN2 ._. 
+While_CS specific_JJ doctors_NN2 and_CC dentists_NN2 have_VH0 been_VBN 
+utilized_VVN for_IF care_NN1 in_II their_APPGE fields_NN2 ,_, clinics_NN2 
+have_VH0 been_VBN heavily_RR relied_VVN upon_II for_IF gynecological_JJ 
+care_NN1 Monitors_VVZ from_II the_AT Office_NN1 of_IO the_AT Special_JJ 
+Master_NN1 confirmed_VVD that_CST plans_VVZ to_TO meet_VVI both_RR primary_JJ 
+and_CC specialized_JJ health_NN1 needs_NN2 were_VBDR usually_RR being_VBG 
+addressed_VVN ._. 
+For_IF many_DA2 individuals_NN2 ,_, case_NN1 managers_NN2 or_CC residential_JJ 
+staff_NN had_VHD identified_VVN the_AT need_NN1 for_IF additional_JJ 
+health_NN1 evaluations_NN2 ,_, examinations_NN2 ,_, or_CC treatments_NN2 ._. 
+Nearly_RR half_DB of_IO these_DD2 appointments_NN2 or_CC referrals_NN2 had_VHD 
+already_RR been_VBN scheduled_VVN ._. 
+For_IF others_NN2 ,_, referrals_NN2 or_CC appointments_NN2 had_VHD not_XX 
+been_VBN made_VVN ._. 
+No_AT instances_NN2 had_VHD been_VBN identified_VVN where_CS an_AT1 
+individual_JJ with_IW a_AT1 serious_JJ condition_NN1 was_VBDZ not_XX being_VBG 
+treated_VVN in_II the_AT community_NN1 due_II21 to_II22 an_AT1 inability_NN1 
+to_TO obtain_VVI health_NN1 care_NN1 For_IF some_DD individuals_NN2 ,_, 
+community-based_JJ health_NN1 care_NN1 has_VHZ resulted_VVN in_II 
+improvements_NN2 of_IO health_NN1 or_CC daily_RR functioning_VVG ._. 
+Pages_NN2 21-25_MCMC describe_VV0 a_AT1 wide_JJ range_NN1 of_IO treatment_NN1 
+modalities_NN2 (_( medical_JJ ,_, surgical_JJ ,_, pharmaceutical_JJ ,_, and_CC 
+physical_JJ therapy_NN1 )_) and_CC their_APPGE application_NN1 to_II 
+relevant_JJ conditions_NN2 (_( medical_JJ ,_, dental_JJ ,_, vision_NN1 ,_, 
+mobility_NN1 and_CC medication-related_JJ problems_NN2 )_) -_- 9_MC The_AT 
+illustrative_JJ anecdotes_NN2 are_VBR not_XX meant_VVN to_TO be_VBI 
+interpreted_VVN as_II a_AT1 thorough_JJ analysis_NN1 of_IO health_NN1 care_NN1 
+in_II the_AT community_NN1 ;_; they_PPHS2 are_VBR included_VVN to_TO 
+document_VVI some_DD health-related_JJ conditions_NN2 that_CST have_VH0 
+been_VBN cured_VVN ,_, ameliorated_VVD ,_, or_CC made_VVD more_RGR 
+manageable_JJ for_IF the_AT individuals_NN2 through_II appropriate_JJ 
+intervention_NN1 All_RR21 but_RR22 one_MC1 individual_NN1 has_VHZ 
+insurance_NN1 or_CC another_DD1 means_VVZ to_TO pay_VVI for_IF medical_JJ 
+expenses_NN2 The_AT one_MC1 individual_NN1 has_VHZ applied_VVN for_IF but_CCB 
+has_VHZ not_XX yet_RR received_VVN coverage_NN1 ._. 
+For_IF almost_RR all_DB persons_NN2 ,_, medical_JJ assistance_NN1 or_CC 
+medicare_NN1 is_VBZ the_AT source_NN1 of_IO payment_NN1 for_IF medical_JJ 
+expenses_NN2 (_( Table_NN1 8_MC )_) ._. 
+Only_RR a_AT1 few_DA2 persons_NN2 have_VH0 private_JJ insurance_NN1 i_ZZ1 ._. 
+In_II31 spite_II32 of_II33 the_AT commonly_RR anticipated_JJ difficulty_NN1 
+in_II locating_VVG dentists_NN2 or_CC other_JJ health_NN1 care_NN1 
+providers_NN2 willing_JJ to_TO accept_VVI medical_JJ assistance_NN1 
+reimbursement_NN1 ,_, case_NN1 managers_NN2 have_VH0 almost_RR always_RR 
+managed_VVN to_TO arrange_VVI for_IF necessary_JJ community-based_JJ 
+health_NN1 care_NN1 services_NN2 10_MC OTHER_JJ COMMUNITY_NN1 SERVICES_NN2 
+AND_CC BENEFIT_VV0 Day_NP1 Progra_NP1 e_ZZ1 /_FO Without_IW exception_NN1 ,_, 
+regardless_RR of_IO the_AT severity_NN1 of_IO skill_NN1 deficits_NN2 ,_, 
+each_DD1 of_IO th_NNU 140_MC CLA_NN1 residents_NN2 regularly_RR attended_VVN 
+a_AT1 day_NNT1 program_NN1 ,_, eg._REX a_AT1 public_JJ school_NN1 ,_, 
+vocational_JJ training_NN1 ,_, or_CC skill_NN1 training_NN1 program_NN1 (_( 
+Table_NN1 9_MC )_) ._. 
+Twenty-seven_MC individuals_NN2 are_VBR of_IO school_NN1 age_NN1 and_CC 
+were_VBDR enrolled_VVN in_II either_RR a_AT1 public_JJ school_NN1 program_NN1 
+or_CC other_JJ day_NNT1 programs_NN2 ._. 
+The_AT 113_MC adults_NN2 have_VH0 been_VBN enrolled_VVN in_II either_RR 
+workshops_NN2 or_CC other_JJ day_NNT1 programs_NN2 139_MC of_IO the_AT 140_MC 
+former_DA Pennhurst_NN1 residents_NN2 attended_VVD day_NNT1 programs_NN2 
+away_II21 from_II22 their_APPGE residence_NN1 ._. 
+One_MC1 individual_NN1 received_VVD his_APPGE day_NNT1 program_NN1 at_II 
+his_APPGE residence_NN1 Transportation_NN1 to_II Day_NP1 Progra_NP1 Most_DAT 
+of_IO the_AT people_NN were_VBDR transported_VVN to_II their_APPGE day_NNT1 
+program_NN1 by_II the_AT day_NNT1 program_NN1 provider_NN1 (_( Table_NN1 10_MC 
+)_) ._. 
+Ten_MC people_NN utilized_VVD public_JJ transportation_NN1 to_II the_AT 
+day_NNT1 program_NN1 ;_; each_DD1 of_IO them_PPHO2 was_VBDZ described_VVN 
+by_II staff_NN who_PNQS work_VV0 with_IW them_PPHO2 as_CSA "_" aware_JJ of_IO 
+danger_NN1 "_" Recreatio_NP1 All_RR21 but_RR22 two_MC of_IO the_AT 140_MC 
+persons_NN2 living_VVG in_II CLAs_NN2 participated_VVD in_II recreation_NN1 
+programs_NN2 (_( Table_NN1 11_MC )_) ._. 
+Most_DAT participated_VVD in_II community-sponsored_JJ programs_NN2 ._. 
+Only_RR ten_MC people_NN participated_VVD exclusively_RR in_II 
+CLA-sponsored_JJ recreation_NN1 activities_NN2 Other_JJ Service_NN1 The_AT 
+availability_NN1 and_CC use_NN1 of_IO health_NN1 care_NN1 ,_, day_NNT1 
+programs_NN2 and_CC recreation_NN1 actitivites_NN2 were_VBDR assessed_VVN 
+during_II the_AT monitoring_NN1 process_NN1 ._. 
+The_AT monitors_NN2 also_RR inquired_VVD about_II other_NN1 needed_VVD 
+services_NN2 ._. 
+Forty_MC percent_NNU of_IO the_AT persons_NN2 needed_VVN such_DA services_NN2 
+or_CC therapies_NN2 as_CSA speech_NN1 and_CC physical_JJ therapy_NN1 and_CC 
+training_NN1 in_II mobility_NN1 or_CC safety_NN1 ._. 
+In_II half_DB of_IO the_AT cases_NN2 ,_, providers_NN2 had_VHD been_VBN 
+identified_VVN and_CC referrals_NN2 had_VHD already_RR been_VBN made_VVN 
+Incom_NP1 Ninety-one_MC percent_NNU of_IO the_AT former_DA Pennhurst_NN1 
+residents_NN2 in_II Southeastern_JJ Region_NN1 CLAs_NN2 had_VHD a_AT1 
+public_JJ source_NN1 of_IO income_NN1 such_II21 as_II22 Supplemental_JJ 
+Security_NN1 Income_NN1 ,_, Socia_NP1 Security_NN1 ,_, or_CC Veterans_NN2 
+Administration_NN1 benefits_NN2 ._. 
+Most_DAT people_NN received_VVD Supplemental_JJ Security_NN1 Income_NN1 (_( 
+SSI_NP1 )_) ._. 
+Three_MC people_NN had_VHD no_AT income_NN1 ._. 
+For_IF those_DD2 receiving_VVG public_JJ benefits_NN2 the_AT representative_JJ 
+payees_NN2 were_VBDR staff_NN members_NN2 in_II forty-one_MC percent_NNU of_IO 
+the_AT cases_NN2 and_CC relatives_NN2 in_II thirty_MC percent_NNU of_IO the_AT 
+cases_NN2 ._. 
+Twenty-five_MC percent_NNU of_IO the_AT individuals_NN2 were_VBDR their_APPGE 
+own_DA payees_NN2 ._. 
+The_AT payee_NN1 was_VBDZ unknown_JJ in_II four_MC percent_NNU of_IO the_AT 
+cases_NN2 12_MC THE_AT COMMUNITY_NN1 EXPERIENCE_NN1 OF_IO SIX_MC INDIVIDUAL_JJ 
+These_DD2 detailed_JJ analyses_NN2 of_IO the_AT community_NN1 experience_NN1 
+of_IO three_MC individuals_NN2 classified_VVN as_CSA severely_RR retarded_JJ 
+and_CC three_MC individuals_NN2 classified_VVN as_CSA profoundly_RR 
+retarded_JJ were_VBDR undertaken_VVN to_TO assess_VVI the_AT impact_NN1 of_IO 
+community_NN1 services_NN2 upon_II the_AT lives_NN2 and_CC development_NN1 
+of_IO the_AT former_DA Pennhurst_NN1 residents_NN2 A_ZZ1 random_JJ 
+selection_NN1 procedure_NN1 was_VBDZ used_VVN to_TO identify_VVI these_DD2 
+individuals_NN2 from_II the_AT group_NN1 of_IO severely_RR impaired_VVN and_CC 
+the_AT group_NN1 of_IO profoundly_RR impaired_JJ individuals_NN2 who_PNQS 
+represent_VV0 46.6_MC percent_NNU and_CC 23.6_MC percent_NNU respectively_RR 
+,_, of_IO the_AT 140_MC people_NN who_PNQS have_VH0 moved_VVN to_II CLAs_NN2 
+from_II Pennhurst_NP1 since_II March_NPM1 ,_, 1978_MC ._. 
+Information_NN1 for_IF these_DD2 analyses_NN2 was_VBDZ drawn_VVN from_II 
+available_JJ sources_NN2 :_: interviews_NN2 ,_, visits_NN2 and_CC 
+observations_NN2 of_IO the_AT individuals_NN2 ,_, interviews_NN2 with_IW 
+day_NNT1 program_NN1 ,_, CLA_NP1 and_CC case_NN1 management_NN1 staff_NN ,_, 
+Individual_JJ Habilitation_NN1 Plans_NN2 (_( IHPs_NP2 )_) ,_, other_JJ 
+reports_NN2 ,_, documents_NN2 and_CC correspondence_NN1 including_II 
+Pennhurst_NP1 records_NN2 ,_, and_CC the_AT monitoring_NN1 performed_VVN by_II 
+the_AT Office_NN1 of_IO the_AT Special_JJ Master_NN1 For_IF each_DD1 
+individual_NN1 and_CC in_II31 relation_II32 to_II33 all_DB areas_NN2 of_IO 
+functioning_VVG the_AT same_DA basic_JJ two-part_JJ questioning_JJ 
+strategy_NN1 was_VBDZ pursued_VVN :_: 1_MC1 ._. )_) 
+What_DDQ is_VBZ the_AT individual_NN1 doing_VDG now_RT ?_? and_CC 2_MC ._. )_) 
+Does_VDZ this_DD1 represent_VVI a_AT1 change_NN1 from_II their_APPGE 
+previous_JJ level_NN1 of_IO skills*or_FO their_APPGE prior_JJ status_NN1 ?_? 
+Respondents_NN2 to_II these_DD2 questions_NN2 in_II all_DB instances_NN2 
+were_VBDR instructed_VVN to_TO comment_VVI only_RR in_II31 terms_II32 of_II33 
+their_APPGE direct_JJ knowledge_NN1 of_IO the_AT individual_NN1 and_CC to_TO 
+focus_VVI on_II the_AT time_NNT1 period_NN1 since_CS they_PPHS2 had_VHD 
+come_VVN into_II contact_NN1 with_IW the_AT individual_NN1 ._. 
+Respondents_NN2 were_VBDR required_VVN to_TO provide_VVI specific_JJ 
+behavioral_JJ examples_NN2 to_TO document_VVI any_DD opinions_NN2 or_CC 
+judgements_NN2 expressed_VVD These_DD2 analyses_NN2 ,_, focusing_VVG on_II 
+peoples_NN2 day_NNT1 to_II day_NNT1 lives_NN2 ,_, were_VBDR undertaken_VVN 
+to_TO illustrate_VVI ,_, in_II31 terms_II32 of_II33 actual_JJ individuals_NN2 
+,_, the_AT implications_NN2 and_CC meanings_NN2 of_IO the_AT community_NN1 
+service_NN1 information_NN1 which_DDQ is_VBZ expressed_VVN throughout_II 
+the_AT rest_NN1 of_IO this_DD1 report_NN1 13_MC COMMUNITY_NN1 EXPERIENCE_NN1 
+:_: MR_NNB ._. 
+T_NP1 Mr._NNB T._NP1 ,_, a_AT1 twenty-three_MC year_NNT1 old_JJ man_NN1 ,_, 
+has_VHZ been_VBN living_VVG in_II the_AT community_NN1 for_IF two_MC 
+years_NNT2 ._. 
+He_PPHS1 is_VBZ classified_VVN as_CSA profoundly_RR retarded_JJ ._. 
+He_PPHS1 interacts_VVZ with_IW his_APPGE environment_NN1 only_RR on_II a_AT1 
+very_RG limited_JJ basis_NN1 ._. 
+He_PPHS1 is_VBZ non-verbal_JJ and_CC when_CS unoccupied_JJ engages_VVZ in_II 
+a_AT1 wide_JJ repertoire_NN1 of_IO self-stimulating_JJ behaviors_NN2 ._. 
+Staff_NN who_PNQS work_VV0 with_IW Mr._NNB T._NP1 reported_VVD that_CST 
+he_PPHS1 exhibits_VVZ fewer_DAR of_IO these_DD2 behaviors_NN2 now_RT than_CSN 
+when_CS he_PPHS1 entered_VVD the_AT community_NN1 and_CC less_DAR of_IO the_AT 
+extreme_JJ posturing_NN1 that_CST usually_RR accompanied_VVN this_DD1 
+behavior_NN1 ._. 
+Mr._NNB T._NP1 was_VBDZ described_VVN as_II "_" calmer_JJR ,_, healthier_JJR 
+"_" and_CC "_" doing_VDG tremendously_RR better_RRR "_" by_II his_APPGE 
+day_NNT1 program_NN1 providers_NN2 Mr._NNB T._NP1 lives_VVZ in_II a_AT1 
+community_NN1 living_VVG arrangement-*-_FO ,_, attends_VVZ a_AT1 day_NNT1 
+program_NN1 ,_, and_CC receives_VVZ supportive_JJ services_NN2 ._. 
+He_PPHS1 is_VBZ now_RT ,_, reported_VVD staff_NN ,_, more_RRR able_JK to_TO 
+tolerate_VVI programming_NN1 and_CC training_NN1 ._. 
+Due_II21 to_II22 the_AT severity_NN1 of_IO his_APPGE handicap_NN1 ,_, Mr._NNB 
+T._NP1 makes_VVZ his_APPGE progress_NN1 toward_II his_APPGE individual_JJ 
+program_NN1 goals_NN2 in_II small_JJ but_CCB nevertheless_RR apparent_JJ 
+steps_NN2 In_II dressing_VVG ,_, behavioral_JJ data_NN documented_VVD that_CST 
+Mr._NNB T._NP1 can_VM now_RT complete_VVI the_AT last_MD step_NN1 of_IO 
+zipping_VVG his_APPGE pants_NN2 ,_, as_II31 well_II32 as_II33 perform_VV0 
+the_AT last_MD step_NN1 in_II putting_VVG on_II his_APPGE socks_NN2 ,_, 
+with_IW greater_JJR independence_NN1 ._. 
+Mr._NNB T._NP1 is_VBZ now_RT independently_RR throwing_VVG away_RL the_AT 
+paper_NN1 towel_NN1 after_II handwashing_VVG and_CC is_VBZ starting_VVG to_TO 
+turn_VVI on_II the_AT water_NN1 himself_PPX1 -_- something_PN1 he_PPHS1 
+had_VHD previously_RR resisted_VVN ._. 
+CLA_NP1 staff_NN reported_VVD that_CST he_PPHS1 is_VBZ now_RT learning_VVG 
+to_TO bring_VVI the_AT toothbrush_NN1 to_II his_APPGE mouth_NN1 ._. 
+He_PPHS1 is_VBZ also_RR involved_JJ in_II a_AT1 program_NN1 to_TO build_VVI 
+his_APPGE tolerance_NN1 for_IF wearing_VVG eye_NN1 glasses_NN2 ._. 
+The_AT individualized_JJ training_NN1 Mr._NNB T._NP1 is_VBZ receiving_VVG 
+appears_VVZ to_TO be_VBI excellent_JJ ;_; it_PPH1 is_VBZ highly_RR 
+structured_VVN ,_, addresses_VVZ his_APPGE complex_JJ needs_NN2 through_II 
+multiple_JJ avenues_NN2 ,_, and_CC it_PPH1 is_VBZ delivered_VVN in_II a_AT1 
+caring_JJ manner_NN1 ._. 
+The_AT overall_JJ quality_NN1 of_IO his_APPGE day_NNT1 program_NN1 would_VM 
+be_VBI enhanced_VVN if_CS the_AT program_NN1 had_VHD more_DAR adequate_JJ 
+space_NN1 in_II which_DDQ to_TO organize_VVI a_AT1 more_RGR 
+distraction-free_JJ environment_NN1 Range_NN1 of_IO motion_NN1 exercises_VVZ 
+as_CSA recommended_VVN in_II a_AT1 physical_JJ therapy_NN1 evaluation_NN1 
+are_VBR provided_VVN to_II Mr._NNB T._NP1 in_II his_APPGE day_NNT1 program_NN1 
+._. 
+Programming_NN1 recommended_VVN by_II an_AT1 occupational_JJ therapy_NN1 
+evaluation_NN1 is_VBZ also_RR provided_CS Assisting_VVG Mr._NNB T._NP1 to_TO 
+decrease_VVI his_APPGE abnormal_JJ posturing_NN1 and_CC to_TO ease_VVI 
+his_APPGE contorted_JJ sleeping_JJ position_NN1 have_VH0 eliminated_VVN the_AT 
+circulatory_JJ problems_NN2 for_IF which_DDQ Mr._NNB T._NP1 had_VHD 
+formerly_RR required_VVN medication_NN1 and_CC services_NN2 from_II 
+vascular_JJ specialists_NN2 ._. 
+Mr._NNB Ts_ZZ2 dandruff_NN1 condition_NN1 has_VHZ improved_VVN and_CC the_AT 
+CLA_NN1 staff_NN continue_VV0 to_TO treat_VVI it_PPH1 with_IW specialized_JJ 
+shampoo_NN1 ._. 
+He_PPHS1 has_VHZ also_RR had_VHN a_AT1 thorough_JJ dental_JJ exam_NN1 
+which_DDQ required_JJ hospitalization_NN1 for_IF anesthesia_NN1 ._. 
+His_APPGE reported_JJ episodes_NN2 of_IO gum_NN1 bleeding_JJ have_VH0 
+stopped_VVN ;_; Mr._NNB Ts_ZZ2 dentist_NN1 felt_VVD that_CST this_DD1 was_VBDZ 
+in_II31 response_II32 to_II33 being_VBG exposed_VVN to_TO correct_VVI 
+toothbrushing_VVG techniques_NN2 for_IF the_AT first_MD time_NNT1 ._. 
+Although_CS Mr._NNB T._NP1 still_RR does_VDZ not_XX chew_VVI ,_, the_AT 
+CLA_NN1 staff_NN have_VH0 found_VVN that_CST he_PPHS1 no_RR21 longer_RR22 
+requires_VVZ pureed_NN1 food_NN1 and_CC that_CST he_PPHS1 has_VHZ not_XX 
+had_VHN any_DD choking_JJ episodes_NN2 Mr._NNB T._NP1 has_VHZ made_VVN 
+progress_NN1 in_II establishing_VVG eye_NN1 contact_NN1 with_IW objects_NN2 
+,_, an_AT1 important_JJ step_NN1 for_IF further_JJR skill_NN1 training_NN1 ._. 
+His_APPGE eye_NN1 contact_NN1 with_IW other_JJ people_NN has_VHZ not_XX yet_RR 
+developed_VVN much_RR ;_; the_AT CLA_NN1 and_CC day_NNT1 program_NN1 are_VBR 
+working_VVG to_TO help_VVI Mr._NNB T._NP1 tolerate_VV0 and_CC enjoy_VVI 
+eye_NN1 contact_NN1 more_RRR ._. 
+In_II attending_VVG to_II tasks_NN2 ,_, Mr._NNB T._NP1 is_VBZ showing_VVG 
+some_DD progress_NN1 and_CC more_DAR independence_NN1 ,_, but_CCB this_DD1 
+is_VBZ still_RR somewhat_RR erratic_JJ The_AT CLA_NN1 in_II which_DDQ Mr._NNB 
+T._NP1 was_VBDZ originally_RR placed_VVN in_RP was_VBDZ closed_VVN when_CS 
+the_AT county_NN1 ,_, dissatisfied_JJ with_IW performance_NN1 of_IO the_AT 
+provider_NN1 ,_, terminated_VVD the_AT providers_NN2 contract_NN1 ._. 
+Mr._NNB T._NP1 was_VBDZ placed_VVN in_II respite_NN1 care_NN1 and_CC then_RT 
+in_II his_APPGE present_JJ placement_NN1 ._. 
+His_APPGE case_NN1 manager_NN1 was_VBDZ responsible_JJ for_IF the_AT 
+coordination_NN1 of_IO his_APPGE transition_NN1 and_CC placement_NN1 14_MC 
+Mr._NNB Ts_ZZ2 communicative_JJ skills_NN2 have_VH0 begun_VVN to_TO expand_VVI 
+._. 
+He_PPHS1 shows_VVZ a_AT1 slight_JJ increase_NN1 in_II sound_NN1 
+localization_NN1 and_CC he_PPHS1 can_VM now_RT respond_VVI to_II simple_JJ 
+commands_NN2 ,_, no_RR21 longer_RR22 always_RR requiring_VVG physical_JJ 
+prompts_NN2 ,_, but_CCB rather_RG less_DAR directive_NN1 gestures_NN2 ._. 
+In_II beginning_VVG to_TO learn_VVI to_TO anticipate_VVI sequences_NN2 of_IO 
+events_NN2 ,_, Mr._NNB T._NP1 has_VHZ begun_VVN to_TO display_VVI some_DD 
+basic_JJ problem_NN1 solving_NN1 strategies_NN2 Mr._NNB Ts_ZZ2 throwing_VVG 
+of_IO objects_NN2 and_CC pushing_VVG people_NN have_VH0 decreased_VVN as_CSA 
+has_VHZ his_APPGE bizarre_JJ behavior_NN1 and_CC posturing_VVG ._. 
+A_AT1 behavioral_JJ overcorrection_NN1 procedure_NN1 program_NN1 is_VBZ 
+being_VBG developed_VVN for_IF Mr._NNB T._NP1 (_( which_DDQ will_VM 
+subsequently_RR be_VBI presented_VVN to_II the_AT day_NNT1 programs_NN2 
+Human_JJ Rights_NN2 Committee_NN1 )_) to_TO reduce_VVI the_AT 
+self-stimulatory_JJ behaviors_NN2 which_DDQ interfere_VV0 with_IW his_APPGE 
+participation_NN1 in_II other_JJ aspects_NN2 of_IO his_APPGE program_NN1 
+Coordination_NN1 between_II Mr._NNB Ts_ZZ2 day_NNT1 program_NN1 and_CC 
+his_APPGE CLA_NN1 is_VBZ achieved_VVN through_II daily_JJ written_JJ 
+entires_NN2 into_II a_AT1 program_NN1 "_" book_NN1 that_CST travels_VVZ 
+with_IW him_PPHO1 to_II his_APPGE day_NNT1 program_NN1 and_CC when_RRQ 
+he_PPHS1 returns_VVZ home_RL Mr._NNB T._NP1 has_VHZ participated_VVN in_II 
+recreational_JJ trips_NN2 including_II shopping_NN1 ,_, picnics_NN2 ,_, and_CC 
+numerous_JJ visits_NN2 to_II Dairy_NN1 Queen_NN1 ._. 
+Mr._NNB T._NP1 occasionally_RR swims_VVZ at_II the_AT YMCA_NP1 15_MC 
+COMMUNITY_NN1 EXPERIENCE_NN1 :_: MS_NN1 ._. 
+S_ZZ1 For_IF the_AT first_MD time_NNT1 in_II her_APPGE life_NN1 ,_, Ms._NNB 
+S._NP1 ,_, a_AT1 forty-two_MC year_NNT1 old_JJ woman_NN1 ,_, is_VBZ able_JK 
+to_TO get_VVI in_RP and_CC out_II21 of_II22 bed_NN1 by_II herself_PPX1 ._. 
+She_PPHS1 is_VBZ able_JK to_TO do_VDI this_DD1 utilizing_VVG a_AT1 piece_NN1 
+of_IO adaptive_JJ equipment_NN1 designed_VVN and_CC built_VVN for_IF her_PPHO1 
+in_II the_AT community_NN1 living_NN1 arrangement_NN1 ,_, where_CS she_PPHS1 
+has_VHZ lived_VVN for_IF a_AT1 year_NNT1 and_CC a_AT1 half_NN1 ._. 
+She_PPHS1 shares_VVZ her_APPGE apartment_NN1 with_IW a_AT1 woman_NN1 from_II 
+Pennhurst_NN1 with_IW whom_PNQO she_PPHS1 chose_VVD to_TO live_VVI ,_, and_CC 
+a_AT1 resident_JJ advisor_NN1 who_PNQS focuses_VVZ on_II assisting_VVG Ms._NNB 
+S._NP1 in_II a_AT1 manner_NN1 that_CST fosters_VVZ her_APPGE independence_NN1 
+Ms._NNB Ss_NP1 adaptive_JJ functioning_NN1 is_VBZ more_RGR severely_RR 
+impaired_JJ than_CSN her_APPGE cognitive_JJ functioning_NN1 ,_, due_II21 
+to_II22 cerebral_JJ palsy_NN1 and_CC epilepsy_NN1 ._. 
+Ms._NNB S._NP1 spent_VVD twenty-eight_MC years_NNT2 at_II Pennhurst_NP1 ._. 
+Since_II moving_VVG to_II the_AT community_NN1 ,_, Ms._NNB S._NP1 has_VHZ 
+shown_VVN on_II overall_JJ gain_NN1 in_II her_APPGE adaptive_JJ 
+functioning_NN1 ,_, as_CSA documented_VVN by_II the_AT objective_JJ 
+testing_NN1 carried_VVN out_RP as_II part_NN1 of_IO the_AT Pennhurst_NN1 "_" 
+Longitudinal_JJ Stud_NN1 ._. 
+Ms._NNB Ss_NP1 grooming_VVG skills_NN2 have_VH0 improved_VVN ._. 
+Her_APPGE resident_JJ advisor_NN1 reported_VVD that_CST she_PPHS1 can_VM 
+now_RT comb_VVI and_CC brush_VVI her_APPGE hair_NN1 as_II31 well_II32 as_II33 
+apply_VV0 deodorant_JJ and_CC cologne_NN1 ._. 
+She_PPHS1 now_RT sets_VVZ the_AT table_NN1 ,_, uses_VVZ small_JJ kitchen_NN1 
+appliances_NN2 ,_, identifies_VVZ cooking_VVG ingredients_NN2 and_CC 
+prepares_VVZ her_APPGE lunch_NN1 to_TO take_VVI to_II the_AT workshop_NN1 
+Dentures_NN2 obtained_VVN in_II the_AT community_NN1 to_TO replace_VVI 
+missing_JJ and_CC irrevocably_RR decayed_JJ teeth_NN2 have_VH0 assisted_VVN 
+Ms._NNB S._NP1 in_II improving_VVG her_APPGE articulation_NN1 ,_, making_VVG 
+her_APPGE speech_NN1 more_RGR easily_RR understood_VVN by_II those_DD2 
+around_II her_PPHO1 ._. 
+Staff_NN who_PNQS work_VV0 with_IW Ms._NNB S._NP1 attributed_VVD the_AT 
+improvement_NN1 in_II her_APPGE speech_NN1 to_II both_DB2 her_APPGE new_JJ 
+dentures_NN2 and_CC the_AT individual_JJ speech_NN1 therapy_NN1 she_PPHS1 
+has_VHZ been_VBN receiving_VVG in_II31 conjunction_II32 with_II33 her_APPGE 
+day_NNT1 program_NN1 ._. 
+She_PPHS1 has_VHZ become_VVN more_RGR communicative_JJ and_CC will_VM now_RT 
+indicate_VVI when_RRQ she_PPHS1 has_VHZ to_TO go_VVI to_II the_AT bathroom_NN1 
+._. 
+Ms._NNB S._NP1 achieved_VVD one_MC1 of_IO her_APPGE program_NN1 goals_NN2 
+documented_VVN in_II her_APPGE individual_JJ plan_NN1 ,_, becoming_VVG 
+more_RGR social_JJ and_CC increasing_VVG her_APPGE interaction_NN1 with_IW 
+co-workers_NN2 Under_II the_AT supervision_NN1 of_IO a_AT1 physical_JJ 
+therapist_NN1 ,_, Ms._NNB S._NP1 receives_VVZ exercises_NN2 from_II the_AT 
+CLA_NN1 staff_NN for_IF the_AT spasticity_NN1 in_II her_APPGE arms_NN2 and_CC 
+legs_NN2 ._. 
+Her_APPGE independence_NN1 is_VBZ enhanced_VVN by_II the_AT adaptive_JJ 
+equipment_NN1 installed_VVN in_II her_APPGE bedroom_NN1 and_CC the_AT 
+bathrooms_NN2 in_II her_APPGE apartment_NN1 and_CC workshop_NN1 ._. 
+She_PPHS1 continues_VVZ to_TO push_VVI her_APPGE own_DA wheelchair_NN1 Ms._NNB 
+Ss_NP1 workshop_NN1 reported_VVD that_CST she_PPHS1 has_VHZ learned_VVN 
+many_DA2 vocationally-related_JJ skills_NN2 relevant_JJ to_II functioning_VVG 
+in_II a_AT1 workshop_NN1 ,_, including_II counting_NN1 ,_, size_NN1 and_CC 
+color_NN1 discrimination_NN1 ,_, and_CC packaging_NN1 objects_NN2 ._. 
+She_PPHS1 is_VBZ also_RR involved_JJ in_II a_AT1 money_NN1 skills_NN2 
+group_NN1 ._. 
+Her_APPGE present_JJ vocational_JJ goal_NN1 is_VBZ to_TO increase_VVI the_AT 
+amount_NN1 of_IO work_NN1 she_PPHS1 produces_VVZ ._. 
+This_DD1 goal_NN1 and_CC Ms._NNB Ss_NP1 overall_RR vocational_JJ 
+functioning_NN1 would_VM be_VBI enchanced_VVN by_II a_AT1 more_RGR constant_JJ 
+supply_NN1 of_IO contract_NN1 work_NN1 for_IF the_AT workshop_NN1 ._. 
+Additionally_RR ,_, with_IW more_RGR extensive_JJ skill_NN1 training._NNU ,_, 
+and_CC training_NN1 in_II a_AT1 wider_JJR range_NN1 of_IO skills_NN2 ,_, 
+Ms._NNB S._NP1 could_VM be_VBI assisted_VVN to_TO be_VBI even_RR more_RGR 
+vocationally_RR productive_JJ and_CC independent_JJ Ms._NNB Ss_NP1 mother_NN1 
+has_VHZ been_VBN in_II31 contact_II32 with_II33 her_APPGE daughters_NN2 
+day_NNT1 program_NN1 and_CC CLA_NP1 ._. 
+The_AT staff_NN reported_VVD that_CST she_PPHS1 is_VBZ pleased_JJ with_IW 
+her_APPGE daughters_NN2 community_NN1 program_NN1 and_CC visits_VVZ her_PPHO1 
+at_II her_APPGE apartment_NN1 Ms._NNB Ss_NP1 community_NN1 placement_NN1 
+was_VBDZ selected_VVN ,_, in_RR21 part_RR22 ,_, to_TO respond_VVI to_II 
+her_APPGE desire_NN1 to_TO live_VVI with_IW a_AT1 friend_NN1 from_II 
+Pennhurst_NP1 ._. 
+Ms._NNB S._NP1 enjoys_VVZ country_NN1 music_NN1 and_CC goes_VVZ out_RP to_II 
+restaurants_NN2 ,_, movies_NN2 and_CC dances_NN2 ._. 
+When_CS questioned_VVN in_II31 regard_II32 to_II33 her_APPGE preferences_NN2 
+,_, Ms._NNB S._NP1 expressed_VVD her_APPGE preference_NN1 for_IF where_RRQ 
+she_PPHS1 lives_VVZ now_RT ,_, as_CSA compared_VVN to_II Pennhurst_NP1 ,_, 
+and_CC would_VM like_VVI to_TO stay_VVI ._. 
+Among_II the_AT things_NN2 she_PPHS1 likes_VVZ better_RRR is_VBZ that_CST "_" 
+she_PPHS1 is_VBZ able_JK to_TO go_VVI out_RP more_RRR ._. 
+Longitudinal_JJ Study_NN1 of_IO the_AT Court_NN1 Ordered_VVD 
+Deinstitutionalization_NN1 of_IO Pennhurst_NP1 "_" conducted_VVD by_II 
+Government_NN1 Studies_NN2 and_CC Systems_NN2 16_MC COMMUNITY_NN1 
+EXPERIENCE_NN1 :_: MR_NNB ._. 
+R_ZZ1 "_" Open_JJ to_TO experience_VVI and_CC "_" willing_JJ to_TO try_VVI 
+anything_PN1 "_" is_VBZ how_RRQ Mr._NNB R._NP1 is_VBZ now_RT described_VVN 
+by_II his_APPGE case_NN1 manager_NN1 and_CC his_APPGE resident_JJ advisor_NN1 
+._. 
+During_II the_AT forty-five_MC years_NNT2 he_PPHS1 spent_VVD at_II 
+Pennhurst_NP1 ,_, he_PPHS1 was_VBDZ described_VVN as_II "_" difficult_JJ to_TO 
+motivate_VVI "_" and_CC "_" reluctant_JJ to_TO experience_VVI new_JJ 
+things_NN2 "_" ._. 
+Mr._NNB R._NP1 ,_, age_NN1 fifty-five_MC ,_, has_VHZ now_RT lived_VVN in_II 
+the_AT community_NN1 for_IF a_AT1 year_NNT1 and_CC a_AT1 half_NN1 ;_; 
+his_APPGE community_NN1 living_NN1 arrangement_NN1 is_VBZ an_AT1 apartment_NN1 
+where_CS he_PPHS1 lives_VVZ with_IW another_DD1 older_JJR man_NN1 and_CC a_AT1 
+resident_JJ advisor_NN1 ._. 
+Mr._NNB Rs_NNU2 functioning_JJ level_NN1 is_VBZ classified_VVN as_CSA 
+severely_RR to_II profoundly_RR retarded_VVD The_AT staff_NN who_PNQS work_VV0 
+with_IW Mr._NNB R._NP1 reported_VVD that_CST he_PPHS1 has_VHZ made_VVN a_AT1 
+good_JJ adjustment_NN1 after_CS he_PPHS1 experienced_VVD an_AT1 acute_JJ 
+schizophrenic_JJ episode_NN1 last_MD year_NNT1 ,_, which_DDQ was_VBDZ 
+determined_VVN to_TO be_VBI related_VVN to_II a_AT1 drastic_JJ medication_NN1 
+cut_NN1 ._. 
+He_PPHS1 required_VVD two_MC weeks_NNT2 of_IO inpatient_NN1 psychiatric_JJ 
+hospitalization_NN1 ,_, after_II which_DDQ he_PPHS1 was_VBDZ able_JK to_TO 
+return_VVI to_II his_APPGE apartment_NN1 ._. 
+Staff_NN reported_VVD that_CST his_APPGE behavior_NN1 has_VHZ improved_VVN 
+tremendously_RR since_CS his_APPGE hospitalization_NN1 ;_; now_RT they_PPHS2 
+find_VV0 him_PPHO1 to_TO be_VBI more_RGR social_JJ ,_, more_RGR cooperative_JJ 
+and_CC willing_JJ to_TO interact_VVI more_RRR with_IW other_JJ people_NN ._. 
+At_II his_APPGE day_NNT1 program_NN1 ,_, Mr._NNB R._NP1 talks_NN2 to_II 
+his_APPGE roommate_NN1 ,_, eats_VVZ with_IW him_PPHO1 and_CC spends_VVZ 
+time_NNT1 with_IW him_PPHO1 ._. 
+While_CS at_II Pennhurst_NP1 ,_, Mr._NNB R._NP1 had_VHD been_VBN reported_VVN 
+to_TO be_VBI a_AT1 loner_NN1 ,_, had_VHD interacted_VVN very_RG little_DA1 
+with_IW others_NN2 and_CC was_VBDZ detached_VVN ._. 
+Mr._NNB R._NP1 now_RT receives_VVZ a_AT1 much_RR smaller_JJR dosage_NN1 of_IO 
+psychotropic_JJ medication_NN1 ,_, which_DDQ he_PPHS1 requests_VVZ 
+himself_PPX1 nightly_RR During_II the_AT first_MD two_MC months_NNT2 he_PPHS1 
+was_VBDZ at_II the_AT CLA_NN1 ,_, staff_NN reported_VVD that_CST his_APPGE 
+speech_NN1 increased_VVD ._. 
+When_CS he_PPHS1 first_MD moved_VVN to_II the_AT community_NN1 they_PPHS2 
+found_VVD him_PPHO1 to_TO be_VBI almost_RR nonverbal_JJ ,_, without_IW any_DD 
+labels_NN2 for_IF common_JJ objects_NN2 ,_, such_II21 as_II22 a_AT1 table_NN1 
+or_CC refrigerator_NN1 ._. 
+While_CS at_II Pennhurst_NN1 Mr._NNB R._NP1 had_VHD developed_VVN his_APPGE 
+own_DA system_NN1 of_IO sign_NN1 language_NN1 ,_, although_CS he_PPHS1 had_VHD 
+never_RR received_VVN any_DD formal_JJ instruction_NN1 in_II signing_NN1 ._. 
+A_AT1 speech_NN1 evaluation_NN1 performed_VVN in_II the_AT community_NN1 
+recommended_VVD that_CST the_AT CLA_NN1 staff_NN carry_VV0 out_RP an_AT1 
+informal_JJ speech_NN1 stimulation_NN1 program_NN1 encouraging_VVG Mr._NNB 
+R._NP1 to_TO verbalize_VVI ._. 
+Visitors_NN2 to_II his_APPGE CLA_NN1 ,_, including_II the_AT case_NN1 
+manager_NN1 and_CC program_NN1 monitors_NN2 ,_, reported_VVD that_CST Mr._NNB 
+R._NP1 seemed_VVD very_RG social_JJ and_CC interested_JJ in_II 
+communicating_VVG with_IW people_NN ;_; he_PPHS1 might_VM benefit_VVI from_II 
+being_VBG encouraged_VVN to_TO develop_VVI a_AT1 larger_JJR signing_NN1 
+repertoire_NN1 to_TO facilitate_VVI his_APPGE communication_NN1 Mr._NNB R._NP1 
+has_VHZ learned_VVN to_TO prepare_VVI breakfast_NN1 and_CC lunch_NN1 and_CC 
+can_VM now_RT also_RR cook_VVI two_MC main_JJ dishes_NN2 for_IF dinner_NN1 
+CLA_NN1 staff_NN reported_VVD ._. 
+Mr._NNB R._NP1 can_VM now_RT clear_VVI the_AT table_NN1 independently_RR 
+but_CCB still_RR requires_VVZ reminders_NN2 on_II how_RRQ to_TO set_VVI the_AT 
+table_NN1 ._. 
+Both_DB2 his_APPGE toileting_NN1 and_CC bathing_VVG skills_NN2 have_VH0 
+improved_VVN ._. 
+Mr._NNB Rs_NNU2 previously_RR reported_VVN reluctance_NN1 to_TO shave_VVI 
+has_VHZ become_VVN irrelevant_JJ since_CS he_PPHS1 initiated_VVD growing_VVG 
+a_AT1 beard_NN1 ;_; accompanied_VVN by_II staff_NN ,_, he_PPHS1 now_RT 
+visits_VVZ a_AT1 barber_NN1 monthly_NN1 ._. 
+CLA_NP1 staff_NN need_VV0 to_TO provide_VVI Mr._NNB R._NP1 with_IW 
+reminders_NN2 on_II general_JJ grooming_NN1 ._. 
+Although_CS Mr._NNB R._NP1 has_VHZ a_AT1 history_NN1 of_IO hoarding_VVG 
+behavior_NN1 ,_, that_DD1 behavior_NN1 is_VBZ reported_VVN to_TO have_VHI 
+decreased_VVN Mr._NNB Rs_NNU2 productivity_NN1 has_VHZ increased_VVN in_II 
+his_APPGE day_NNT1 program_NN1 ._. 
+He_PPHS1 is_VBZ also_RR receiving_VVG training_NN1 in_II time_NNT1 
+identification_NN1 and_CC mobility_NN1 as_II part_NN1 of_IO that_DD1 
+program_NN1 ._. 
+Mr._NNB R._NP1 has_VHZ begun_VVN to_TO identify_VVI different_JJ functional_JJ 
+times_NNT2 of_IO the_AT day_NNT1 ,_, such_II21 as_II22 lunchtime_NNT1 or_CC 
+breaktime_NNT1 ._. 
+He_PPHS1 understands_VVZ what_DDQ money_NN1 is_VBZ used_VVN for_IF and_CC 
+CLA_NP1 staff_NN are_VBR assisting_VVG him_PPHO1 in_II increasing_VVG 
+his_APPGE money-related_JJ skills_NN2 When_CS questioned_VVN ,_, Mr._NNB 
+R._NP1 indicated_VVD a_AT1 preference_NN1 for_IF living_VVG in_II the_AT 
+community_NN1 so_CS21 that_CS22 he_PPHS1 can_VM be_VBI closer_JJR to_II 
+his_APPGE family_NN1 ._. 
+Visits_NN2 from_II his_APPGE family_NN1 have_VH0 increased_VVN since_CS 
+he_PPHS1 moved_VVD into_II the_AT community_NN1 ._. 
+Mr._NNB Rs_NNU2 visitors_NN2 have_VH0 included_VVN his_APPGE sister_NN1 ,_, 
+his_APPGE cousin_NN1 ,_, and_CC an_AT1 aunt_NN1 and_CC uncle_NN1 ._. 
+Mr._NNB Rs_NNU2 sister_NN1 has_VHZ approved_VVN his_APPGE Individual_JJ 
+Habilitation_NN1 Plan_NN1 Mr._NNB R._NP1 enjoys_VVZ movies_NN2 and_CC 
+restaurants_NN2 ;_; he_PPHS1 has_VHZ gone_VVN on_II supervised_JJ weekend_NNT1 
+trips_NN2 -_- 17_MC COMMUNITY_NN1 EXPERIENCE_NN1 :_: MS_NN1 ._. 
+Q_NP1 Ms._NNB Q._NP1 ,_, a_AT1 twenty-seven_MC year_NNT1 old_JJ woman_NN1 ,_, 
+has_VHZ lived_VVN in_II an_AT1 accessible_JJ community_NN1 living_NN1 
+arrangement_NN1 for_IF two_MC years_NNT2 ._. 
+She_PPHS1 has_VHZ cerebral_JJ palsy_NN1 and_CC is_VBZ classified_VVN as_CSA 
+severely_RR mentally_RR retarded_JJ Ms._NNB Q._NP1 has_VHZ become_VVN more_RGR 
+responsible_JJ for_IF herself_PPX1 ,_, seeming_VVG more_RGR aware_JJ of_IO 
+herself_PPX1 as_II a_AT1 person_NN1 and_CC as_II an_AT1 adult_NN1 ,_, 
+according_II21 to_II22 reports_NN2 by_II her_APPGE CLA_NN1 staff_NN and_CC 
+case_NN1 manager_NN1 ._. 
+She_PPHS1 shows_VVZ more_DAR self-control_NN1 and_CC is_VBZ more_RGR 
+cooperative_JJ than_CSN when_CS she_PPHS1 first_MD moved_VVN to_II the_AT 
+community_NN1 ._. 
+Behaviors_NN2 such_II21 as_II22 yelling_VVG and_CC cursing_NN1 have_VH0 
+decreased_VVN ._. 
+Ms._NN1 Qs_FO case_NN1 manager_NN1 reported_VVD that_CST she_PPHS1 is_VBZ 
+handling_VVG disappointments_NN2 about_II her_APPGE family_NN1 ,_, such_II21 
+as_II22 cancelled_JJ plans_NN2 or_CC difficulties_NN2 in_II parting_NN1 ,_, 
+more_RGR maturely_RR ._. 
+CLA_NP1 staff_NN worked_VVD intensively_RR with_IW Ms._NNB Q._NP1 prior_II21 
+to_II22 Thanksgiving_NN1 and_CC reported_VVD that_CST she_PPHS1 and_CC 
+her_APPGE family_NN1 all_DB spoke_VVD of_IO how_RGQ much_DA1 better_JJR 
+that_CST made_VVD the_AT holiday_NN1 In_II contrast_NN1 to_II the_AT quiet_JJ 
+loner_NN1 she_PPHS1 was_VBDZ described_VVN as_II at_II Pennhurst_NP1 ,_, 
+Ms._NNB Q._NP1 is_VBZ reported_VVN now_RT to_TO be_VBI speaking_VVG more_RRR 
+and_CC more_RGR understandably_RR ._. 
+After_CS a_AT1 speech_NN1 and_CC communication_NN1 evaluation_NN1 done_VDN 
+in_II the_AT community_NN1 ,_, a_AT1 consultant_NN1 trained_VVN the_AT CLA_NN1 
+staff_NN ,_, who_PNQS now_RT provide_VV0 a_AT1 program_NN1 to_II Ms._NNB 
+Q._NP1 directly_RR to_TO stimulate_VVI her_APPGE verbal_JJ and_CC gestural_JJ 
+communication_NN1 ._. 
+Utilizing_VVG an_AT1 adaptive_JJ device_NN1 attached_VVN to_II the_AT 
+phone_NN1 Ms._NNB Q._NP1 ,_, despite_II her_APPGE spasticity_NN1 ,_, can_VM 
+now_RT dial_VVI independently_RR and_CC initiate_VVI communication_NN1 with_IW 
+relatives_NN2 and_CC friends_NN2 Since_II living_VVG in_II the_AT 
+community_NN1 ,_, Ms._NNB Q._NP1 has_VHZ been_VBN evaluated_VVN by_II 
+dentists_NN2 who_PNQS subsequently_RR identified_VVN the_AT need_NN1 for_IF 
+extensive_JJ restoration_NN1 work_NN1 which_DDQ has_VHZ now_RT been_VBN 
+completed_VVN ,_, preserving_VVG as_RG many_DA2 of_IO her_APPGE teeth_NN2 
+as_CSA possible_JJ ._. 
+Hospitalized_NP1 and_CC under_II anesthesia_NN1 ,_, she_PPHS1 had_VHD five_MC 
+extractions_NN2 ,_, twelve_MC to_II fifteen_MC fillings_NN2 ,_, a_AT1 root_NN1 
+canal_NN1 ,_, and_CC a_AT1 cap_NN1 ._. 
+Ms._NNB Q._NP1 had_VHD a_AT1 gynecological_JJ examination_NN1 to_TO 
+evaluate_VVI menstrual_JJ irregularity_NN1 ,_, but_CCB no_AT specialized_JJ 
+treatment_NN1 was_VBDZ required_VVN ._. 
+Orthopedic_JJ care_NN1 ,_, physical_JJ therapy_NN1 ,_, and_CC prescription_NN1 
+shoes_NN2 that_CST compensate_VV0 for_IF a_AT1 difference_NN1 in_II the_AT 
+length_NN1 of_IO her_APPGE legs_NN2 have_VH0 helped_VVN Ms._NNB Q._NP1 to_TO 
+be_VBI less_RGR dependent_JJ on_II her_APPGE wheelchair_NN1 ._. 
+Ms._NNB Q._NP1 ambulates_VVZ with_IW crutches_NN2 independently_RR ._. 
+Staff_NN reported_VVD that_DD1 Ms._NN1 Qs_FO stamina_NN1 has_VHZ increased_VVN 
+._. 
+She_PPHS1 can_VM negotiate_VVI longer_JJR distances_NN2 in_II restaurants_NN2 
+and_CC in_II her_APPGE day_NNT1 program_NN1 and_CC ambulate_VV0 
+independently_RR from_II her_APPGE first_MD floor_NN1 apartment_NN1 to_II 
+a_AT1 car_NN1 A_ZZ1 waterpik_NN1 and_CC an_AT1 electric_JJ toothbrush_NN1 
+purchased_VVN for_IF Ms._NNB Q._NP1 by_II the_AT CLA_NN1 function_NN1 as_CSA 
+adaptive_JJ equipment_NN1 making_VVG it_PPH1 possible_JJ for_IF Ms._NNB Q._NP1 
+to_TO care_VVI for_IF her_APPGE teeth_NN2 independently_RR ._. 
+Similarly_RR ,_, the_AT installation_NN1 of_IO a_AT1 hand-held_JJ shower_NN1 
+massage_NN1 has_VHZ made_VVN it_PPH1 possible_JJ for_IF Ms._NNB Q._NP1 to_TO 
+rinse_VVI her_APPGE hair_NN1 independently_RR ._. 
+Staff_NN reported_VVD that_CST Ms._NNB Q._NP1 has_VHZ achieved_VVN 
+additional_JJ program_NN1 goals_NN2 ,_, including_VVG consistently_RR 
+using_VVG soap_NN1 and_CC shampoo_NN1 and_CC brushing_VVG her_APPGE hair_NN1 
+regularly_RR ._. 
+She_PPHS1 now_RT carries_VVZ her_APPGE purse_NN1 to_TO work_VVI daily_JJ 
+and_CC is_VBZ also_RR reported_VVN to_TO have_VHI made_VVN significant_JJ 
+progress_NN1 on_II her_APPGE goal_NN1 to_TO dress_VVI independently_RR in_II 
+the_AT morning_NNT1 with_IW reasonable_JJ speed_NN1 ._. 
+Ms._NN1 Qs_FO table_NN1 manners_NN2 are_VBR reported_VVN to_TO have_VHI 
+improved_VVN and_CC she_PPHS1 has_VHZ learned_VVN to_TO use_VVI a_AT1 
+napkin_NN1 and_CC cut_VVN with_IW a_AT1 knife_NN1 ._. 
+Ms._NNB Q._NP1 now_RT clears_VVZ her_APPGE own_DA place_NN1 after_II 
+dinner_NN1 ._. 
+With_IW clearer_JJR and_CC more_RGR consistent_JJ expectations_NN2 from_II 
+CLA_NP1 staff_NN ,_, and_CC with_IW additional_JJ structured_JJ training_NN1 
+in_II skills_NN2 related_VVN to_II household_NN1 tasks_NN2 ,_, Ms._NNB Q._NP1 
+may_VM be_VBI able_JK to_TO function_VVI with_IW an_AT1 even_RR greater_JJR 
+degree_NN1 of_IO independence_NN1 18_MC -_- 
+--48df207c6ea3f80d67cd0cbde1cde888--_FU 

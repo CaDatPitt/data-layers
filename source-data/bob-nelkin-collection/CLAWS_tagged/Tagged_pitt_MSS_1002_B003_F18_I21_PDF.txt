@@ -1,0 +1,23 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pannsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ 1001_MC BRIGHTON_NP1 ROAD_NN1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC telephone-._NNU (_( 412_MC )_) 
+322-600_MCMC VIRGINIA_NP1 J._NP1 THORNBURGH_NP1 RONALD_NP1 E._NP1 ARCHE_NP1 
+Chapter_NN1 President_NNB Executive_NP1 Directo_NP1 September_NPM1 30_MC ,_, 
+197_MC The_AT Honorable_NP1 Maurice_NP1 B._NP1 Cohill_NP1 ,_, Jr_NNA ._. 
+Juvenile_JJ Cour_NN1 3333_MC Forbes_NP1 Avenu_NP1 Pittsburgh_NP1 ,_, Pa._NP1 
+1521_MC Dear_JJ Judge_NP1 Cohill_VV0 It_PPH1 has_VHZ come_VVN to_II ray_NN1 
+attention_NN1 that_CST you_PPY will_VM be_VBI hearing_VVG the_AT case_NN1 
+of_IO Joyce_NP1 from_II St._NP1 Francis_NP1 Catchment_NN1 Area_NN1 on_II 
+October_NPM1 9_MC ,_, 1974_MC Miss_VV0 is_VBZ physically_RR handicapped_VVN 
+and_CC MH/MR_FU is_VBZ suggesting_VVG tha_DD1 she_PPHS1 should_VM be_VBI 
+admitted_VVN as_II a_AT1 resident_NN1 to_II Western_JJ State_NN1 School_NN1 
+and_CC Hospital_NN1 I_PPIS1 would_VM like_VVI to_TO appear_VVI before_II 
+the_AT court_NN1 on_II that_DD1 date_NN1 and_CC present_JJ information_NN1 
+about_II the_AT appropriateness_NN1 of_IO any_DD placement_NN1 at_II that_DD1 
+institution_NN1 ,_, information_NN1 that_CST might_VM help_VVI you_PPY in_II 
+your_APPGE determination_NN1 Sincerely_RR yours_PPGE J._NP1 1_MC1 Kc_NP1 
+Virginia_NP1 J._NP1 Thornburgh_NP1 Presiden_NP1 VJT:j_FO MEMBER_NN1 UNIT_NN1 
+-_- National_JJ Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, Inc_JJ ._. 
+PARTICIPANT_NN1 -_- Allegheny_NP1 County_NN1 Mental_JJ Health/_NN1 Mental_JJ 
+Retardation_NN1 Progra_NP1 --7d43008f7a86fc237e60b00a229282bb--_FU 

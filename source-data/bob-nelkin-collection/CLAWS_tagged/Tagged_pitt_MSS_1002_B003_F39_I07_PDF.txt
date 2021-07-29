@@ -1,0 +1,43 @@
+
+January_NPM1 10/_FO 197_MC Mr._NNB Charles_NP1 A._NP1 Peterst_NP1 
+Commissioner_NN1 Mental_JJ Retardation/_NN1 Western_JJ Region_NN1 
+Department_NN1 of_IO Public_JJ Welfare_NN1 State_NN1 Office_NN1 Bldg._NP1 /_FO 
+Room_NN1 1402_MC 300_MC Liberty_NP1 Avenue_NNL1 Pittsburgh/_FU Pa._NP1 1522_MC 
+Dear_JJ Chuck_NP1 Your_APPGE response_NN1 to_II Ginny_NP1 Thornburgh_NP1 's_GE 
+letter_NN1 of_IO November_NPM1 27/_FO requesting_VVG a_AT1 report_NN1 of_IO 
+your_APPGE investigation_NN1 cm_NNU Roy_NP1 Woods/_FU is_VBZ not_XX 
+satisfactory_JJ You_PPY said_VVD that_CST you_PPY would_VM investigate_VVI 
+the_AT death_NN1 and_CC allegations_NN2 of_IO neglectful_JJ medical_JJ 
+care_NN1 ._. 
+Instead/_FU we_PPIS2 received_VVD a_AT1 cover_NN1 letter_NN1 from_II you_PPY 
+and_CC Mr._NNB Hiltner_NP1 's_GE report_NN1 The_AT report_NN1 supplied_VVD 
+little_DA1 infoxmation_NN1 regarding_II any_DD findings_NN2 on_II the_AT 
+neglectful_JJ treatment_NN1 charges_NN2 ._. 
+On_II Thursday/_FU January_NPM1 9/_FO 1975/_FO Bob_NP1 Nelkin_NP1 
+attempted_VVD to_TO get_VVI this_DD1 information_NN1 directly_RR from_II 
+Roy_NP1 Woods_NP1 '_GE medical_JJ records_NN2 ._. 
+Mr._NNB Hiltner_NP1 refused_VVD Bob_NP1 Nelkin_NP1 access_NN1 to_II these_DD2 
+records_NN2 because_CS he_PPHS1 did_VDD not_XX have_VHI a_AT1 consent_NN1 
+for_IF release_NN1 for_IF information_NN1 from_II the_AT patient_NN1 or_CC 
+guardian_NN1 (_( patient_JJ deceased_JJ and_CC guardian_NN1 's_VBZ 
+whereabouts_RRQ unknown_JJ by_II DPW_NP1 )_) Mr._NNB Hiltner_NP1 was_VBDZ 
+busy_JJ and_CC unable_JK to_TO answer_VVI direct_JJ questions_NN2 ._. 
+Mr._NNB Hiltner_NP1 referred_VVD Bob_NP1 Nelkin_NP1 to_II Dr._NNB Betty_NP1 
+Bradley/_FU Medical_JJ Director_NN1 ._. 
+Dr._NNB Bradley_NP1 also_RR was_VBDZ busy_JJ and_CC unable_JK to_TO answer_VVI 
+questions_NN2 ._. 
+The_AT next_MD available_JJ time_NNT1 that_CST she_PPHS1 could_VM meet_VVI 
+with_IW Bob_NP1 Nelkin_NP1 and_CC answer_VVI these_DD2 questions_NN2 was_VBDZ 
+Tuesday/_FU January_NPM1 21/_FO 1975_MC Chuck/_VV0 we_PPIS2 are_VBR tired_JJ 
+of_IO the_AT "_" run_NN1 around*_FO ._. 
+When_CS you_PPY promised_VVD to_TO make_VVI an_AT1 investigation/_NN1 we_PPIS2 
+thought_VVD you_PPY understood_VVD the_AT charges_NN2 that_CST needed_VVD 
+investigated_VVN ._. 
+If_CS we_PPIS2 did_VDD n't_XX trust_VVI you_PPY and_CC Mr._NNB Hiltner/_NP1 
+we_PPIS2 could_VM easily_RR draw_VVI the_AT conclusion_NN1 that_CST some_DD 
+facts_NN2 are_VBR being_VBG hidden_VVN Peter_NP1 Will_VM you_PPY supply_VVI 
+us_PPIO2 with_IW a_AT1 complete_JJ report_NN1 of_IO your_APPGE 
+investigation_NN1 following_II Roy_NP1 Woods_NP1 death_NN1 Sincerely_RR 
+REAsc_NP1 BCC_NP1 :_: Harry_NP1 Goldber_NP1 Ronald_NP1 Archer_NP1 ,_, Esq_NNA 
+._. 
+Executive_NN1 Director_NN1 --65d8e85a85880dc6161551f30e116739--_FU 

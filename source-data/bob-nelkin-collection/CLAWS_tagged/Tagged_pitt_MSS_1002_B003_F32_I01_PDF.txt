@@ -1,0 +1,294 @@
+
+WESTERN_JJ PSYCHIATRIC_JJ INSTITUTE_NN1 AND_CC CLINI_JJ February_NPM1 20_MC 
+,_, 197_MC CONFIDENTIAL_JJ TASK_NN1 FORCE_NN1 REPORT_NN1 ON_II THE_AT 
+MEDICAL_JJ CARE_NN1 AT_II WESTERN_JJ STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 
+THE_AT TASK_NN1 FORC_NN1 At_II the_AT request_NN1 ,_, and_CC with_IW the_AT 
+approval_NN1 ,_, of_IO Mr._NNB Charles_NP1 Peters_NP ,_, Commissioner_NN1 
+of_IO Mental_JJ Retardation_NN1 and_CC Mr._NNB Norman_NP1 Taylor_NP1 ,_, 
+Deputy_NN1 Secretary_NN1 of_IO the_AT Western_JJ Region_NN1 ,_, Dr._NNB 
+Thomas_NP1 Detre_NP1 ,_, Chairman_NN1 of_IO the_AT Psychiatric_JJ 
+Department_NN1 of_IO the_AT University_NN1 of_IO Pittsburgh_NP1 School_NN1 
+of_IO Medicine_NN1 ,_, has_VHZ appointed_VVN the_AT following_JJ four_MC 
+members_NN2 of_IO the_AT faculty_NN1 to_II the_AT Task_NN1 Force_NN1 Chair_NN1 
+Person_NN1 :_: Irene_NP1 Jakab_NP1 ,_, M.D._NNA ,_, Ph.D._NP1 ,_, 
+Professor_NN1 of_IO Clinical_JJ Psychiatr_NN1 Members_NN2 :_: Grace_NP1 
+Gregg_NP1 ,_, M.D._NNA ,_, Associate_JJ Professor_NN1 of_IO Pediatrics_NN1 
+Lynda_NP1 Katz_NP1 ,_, M.S.W._NP1 ,_, Assistant_JJ Professor_NN1 of_IO 
+Social_JJ Work_NP1 Meyer_NP1 Sonis_NP1 ,_, M.D._NNA ,_, Professor_NN1 of_IO 
+Child_NN1 Psychiatr_VV0 THE_AT TAS_NN2 The_AT following_JJ assignments_NN2 
+were_VBDR given_VVN to_II this_DD1 Task_NN1 Force_NN1 1_MC1 ._. 
+To_TO investigate_VVI the_AT level_NN1 and_CC appropriateness_NN1 of_IO the_AT 
+Medical_JJ Care_NN1 at_II the_AT Western_JJ State_NN1 School_NN1 and_CC 
+Hospital_NN1 (_( WSSH_NP1 )_) 2_MC ._. 
+To_TO prepare_VVI a_AT1 confidential_JJ report_NN1 on_II the_AT committees_NN2 
+findings_NN2 and_CC recommendations_NN2 3_MC ._. 
+To_TO suggest_VVI methods_NN2 of_IO monitoring_VVG the_AT implementation_NN1 
+of_IO these_DD2 recommendations_NN2 3811_MC O_ZZ1 HARA_NP1 STREET_NN1 ,_, 
+PITTSBURGH_NP1 ,_, PA._NN1 1526_MC Page_NN1 THE_AT METHO_NN1 Following_VVG 
+the_AT establishment_NN1 of_IO the_AT Task_NN1 Force_NN1 ,_, a_AT1 meeting_NN1 
+was_VBDZ called_VVN by_II the_AT Chair_NN1 Person_NN1 to_TO discuss_VVI and_CC 
+clarify_VVI the_AT details_NN2 of_IO our_APPGE goals_NN2 and_CC to_TO 
+design_VVI methods_NN2 for_IF the_AT most_RGT efficient_JJ and_CC 
+economical_JJ use_NN1 of_IO the_AT time_NNT1 spent_VVN on_II this_DD1 
+assignment_NN1 ._. 
+(_( Exhibit_VV0 1_MC1 )_) The_AT methods_NN2 were_VBDR clearly_RR defined_VVN 
+and_CC integrated_VVN with_IW our_APPGE planned_JJ day-to_NNT1 day_NNT1 
+working_VVG schedule_NN1 based_VVN on_II a_AT1 subdivision_NN1 of_IO our_APPGE 
+task_NN1 into_II four_MC interdependent_JJ areas_NN2 1_MC1 ._. 
+Fact_NN1 Finding_VVG a_AT1 ._. 
+Site_NN1 visit_NN1 at_II Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 
+b*_FO Review_NN1 of_IO previous_JJ reports_NN2 generated_VVN by_II the_AT 
+investigation_NN1 of_IO formerly_RR appointed_VVN Task_NN1 Forces_NN2 2_MC 
+Categorization_NN1 and_CC interpretation_NN1 of_IO the_AT relevance_NN1 of_IO 
+the_AT fact_NN1 to_II the_AT patient_NN1 care_NN1 3_MC ._. 
+Conclusions_NN2 based_VVN on_II the_AT emerging_JJ patterns_NN2 of_IO the_AT 
+facts_NN2 ,_, including_II the_AT assets_NN2 and_CC the_AT deficiencies_NN2 
+in_II the_AT present_JJ state_NN1 of_IO patient_NN1 care_NN1 4_MC ._. 
+Recommendations_NN2 for_IF the_AT improvement_NN1 of_IO medical_JJ care_NN1 
+,_, providing_VVG suggestions_NN2 aimed_VVN at_II decreasing_VVG the_AT 
+deficiencies_NN2 and_CC increasing_VVG the_AT assets_NN2 of_IO the_AT 
+present_JJ system_NN1 of_IO health_NN1 care_NN1 delivery_NN1 DETAILED_JJ 
+OUTLINE_NN1 OF_IO THE_AT SITE_NN1 VISI_NN1 FACT_NN1 ._. 
+FINDIN_NP1 The_AT members_NN2 of_IO this_DD1 Task_NN1 Force_NN1 have_VH0 
+spent_VVN three_MC days_NNT2 at_II Western_JJ State_NN1 School_NN1 and_CC 
+Hospital_NN1 to_TO investigate_VVI the_AT medical_JJ care_NN1 and_CC the_AT 
+role_NN1 of_IO the_AT physician_NN1 in_II the_AT total_JJ program_NN1 of_IO 
+the_AT patients_NN2 The_AT site_NN1 visit_NN1 was_VBDZ conducted_VVN during_II 
+the_AT following_JJ three_MC days_NNT2 in_II 1975_MC Tuesday_NPD1 ,_, the_AT 
+7th_MD of_IO January_NPM1 Thursday_NPD1 ,_, the_AT 9th_MD of_IO January_NPM1 
+Friday_NPD1 ,_, the_AT 10th_MD of_IO January_NPM1 Page_NN1 During_II the_AT 
+SITE_NN1 VISIT_VV0 the_AT following_JJ tasks_NN2 have_VH0 been_VBN 
+accomplished_VVN 1_MC1 ._. 
+We_PPIS2 have_VH0 conducted_VVN personal_JJ interviews_NN2 with_IW a_AT1 ._. 
+The_AT Superintenden_NN1 b_ZZ1 ._. 
+The_AT Associate_JJ Superintendents_NN2 of_IO the_AT clinical_JJ and_CC 
+educational_JJ program_NN1 c_ZZ1 ._. 
+Every_AT1 member_NN1 of_IO the_AT Medical_JJ Staf_NN1 d_ZZ1 ._. 
+The_AT Pharmacis_NN1 e_ZZ1 ._. 
+The_AT Chief_JJ Laboratory_NN1 Technicia_NP1 f_ZZ1 ._. 
+The_AT Director_NN1 of_IO Nursing_JJ Services_NN2 ,_, and_CC several_DA2 
+Staff_NN Nurse_VV0 g_ZZ1 ._. 
+The_AT representatives_NN2 of_IO the_AT Parents_NN2 Grou_NP1 h_ZZ1 ._. 
+The_AT representatives_NN2 of_IO the_AT Board_NN1 of_IO Trustees_NN2 2_MC ._. 
+We_PPIS2 have_VH0 reviewed_VVN the_AT following_JJ documents_NN2 a_AT1 ._. 
+All_DB Medical_JJ Records_NN2 of_IO patients_NN2 admitted_VVN to_II Clinic_NN1 
+III_MC during_II the_AT second_MD half_NN1 of_IO the_AT calendar_NN1 year_NNT1 
+of_IO 1974_MC ._. 
+(_( Exhibit_VV0 ft_NNU 2_MC )_) b_ZZ1 ._. 
+All_DB cases_NN2 of_IO death_NN1 which_DDQ occurred_VVD during_II the_AT 
+calendar_NN1 year_NNT1 of_IO 1974_MC and_CC 1975_MC up_II21 to_II22 the_AT 
+date_NN1 of_IO the_AT Site_NN1 Visit_NN1 ._. 
+(_( Exhibit_VV0 #_FO 3_MC )_) c_ZZ1 ._. 
+Random_JJ samples_NN2 of_IO the_AT Medical_JJ Records_NN2 of_IO patients_NN2 
+admitted_VVN during_II the_AT last_MD five_MC years_NNT2 to_II WSSH_NP1 3_MC 
+._. 
+We_PPIS2 have_VH0 inspected_VVN a_AT1 ._. 
+Clinic_NN1 II_MC b_ZZ1 ._. 
+All_DB other_JJ buildings_NN2 ,_, housing_NN1 retardates_VVZ The_AT plans_NN2 
+for_IF the_AT Site_NN1 Visit_NN1 ,_, as_CSA stated_VVN above_RL ,_, were_VBDR 
+conveyed_VVN to_II Mr._NNB Charles_NP1 Peters_VVZ in_II our_APPGE letter_NN1 
+of_IO December_NPM1 30_MC ,_, 1974_MC (_( Exhibit_VV0 #_FO 4_MC )_) and_CC 
+have_VH0 been_VBN carried_VVN out_RP in_II each_DD1 and_CC every_AT1 
+detail_NN1 Mr._NNB Robert_NP1 Hiltner_NP1 ,_, Superintendent_NN1 of_IO 
+WSSH_NP1 has_VHZ been_VBN informed_VVN by_II Dr._NNB Jakab_NP1 of_IO the_AT 
+dates_NN2 and_CC details_NN2 of_IO our_APPGE site_NN1 visit_NN1 ._. 
+He_PPHS1 has_VHZ been_VBN most_RGT cordial_JJ and_CC cooperative_JJ ,_, 
+informing_VVG his_APPGE staff_NN and_CC asking_VVG them_PPHO2 to_TO be_VBI 
+ready_JJ for_IF meeting_VVG with_IW members_NN2 of_IO the_AT Task_NN1 
+Force_NN1 ._. 
+(_( Exhibit_VV0 #_FO 5_MC )_) We_PPIS2 would_VM like_VVI to_TO express_VVI 
+our_APPGE thanks_NN2 to_II Mr._NNB Hiltner_NP1 ,_, to_II his_APPGE clinical_JJ 
+and_CC medical_JJ staff_NN ,_, to_II the_AT representatives_NN2 of_IO the_AT 
+Parents_NN2 Group_NN1 and_CC to_II the_AT Members_NN2 of_IO the_AT Board_NN1 
+of_IO Trustees_NN2 for_IF their_APPGE helpful_JJ cooperation_NN1 throughout_II 
+our_APPGE work_NN1 at_II WSSH_NP1 ._. 
+Their_APPGE joint_JJ efforts_NN2 made_VVD our_APPGE Site_NN1 Visit_VV0 a_AT1 
+smooth_JJ and_CC efficient_JJ operation_NN1 Page_NN1 THE_AT FINDING_NN1 
+Data_NN Collected_VVN During_II The_AT Site_NN1 Visi_NN1 Interviews_NN2 
+with_IW Key_JJ Staff_NN Member_NN1 Joint_JJ meeting_NN1 with_IW Mr._NNB 
+Robert_NP1 Hiltner_NP1 ,_, Superintenden_NN1 Dr._NNB Betty_NP1 Bradley_NP1 ,_, 
+Associate_JJ Superintendent_NN1 of_IO Medical_JJ Service_NN1 Dr._NNB Ruth_NP1 
+Scott_NP1 ,_, Associate_JJ Superintendent_NN1 of_IO Mental_JJ Retardatio_NN1 
+Mrs._NNB Rose_NP1 Vacaro_NP1 ,_, R.N._NP1 ,_, Director_NN1 of_IO Nursing_JJ 
+Service_NN1 The_AT members_NN2 of_IO the_AT Task_NN1 Force_NN1 have_VH0 
+been_VBN very_RG impressed_JJ by_II the_AT most_RGT cordial_JJ reception_NN1 
+and_CC very_RG positive_JJ attitude_NN1 of_IO all_DB the_AT members_NN2 of_IO 
+this_DD1 meeting_NN1 ,_, helping_VVG us_PPIO2 to_TO define_VVI the_AT 
+problems_NN2 and_CC find_VVI solutions_NN2 to_TO eliminate_VVI the_AT 
+difficulties_NN2 in_II patient_NN1 care_NN1 During_II this_DD1 meeting_NN1 
+different_JJ areas_NN2 relevant_JJ to_II patient_NN1 care_NN1 have_VH0 
+been_VBN suggested_VVN to_TO be_VBI reviewed_VVN by_II the_AT Task_NN1 
+Force_NN1 in_II order_NN1 to_TO better_RRR understand_VVI the_AT health_NN1 
+care_NN1 delivery_NN1 at_II WSSH_NP1 ._. 
+As_II a_AT1 result_NN1 of_IO these_DD2 suggestions_NN2 the_AT Task_NN1 
+Force_NN1 has_VHZ broadened_VVN the_AT scope_NN1 of_IO the_AT originally_RR 
+outline-_JJ ;_; site_NN1 visit_NN1 ,_, including_II meetings_NN2 with_IW 
+the_AT chief_JJ laboratory_NN1 technician_NN1 and_CC with_IW the_AT 
+pharmacist_NN1 as_II31 well_II32 as_II33 the_AT review_NN1 of_IO emergency_NN1 
+procedures_NN2 We_PPIS2 have_VH0 been_VBN provided_VVN with_IW the_AT list_NN1 
+of_IO the_AT physicians_NN2 presently_RR employed_VVN and_CC of_IO their_APPGE 
+full-time_JJ or_CC part-time_JJ status_NN1 Sidney_NP1 Kaplan_NP1 ,_, M.D_NNA 
+Minnie_NP1 M._NP1 Kaplan_NP1 ,_, M.D_NNA Gertrude_NP1 Elterich_NP1 ,_, M.D_NNA 
+Charles_NP1 Elterich_NP1 ,_, M.D_NNA Sylvia_NP1 Bartos_NP1 ,_, M.D_NNA 
+Betty_NP1 H._NP1 Bradley_NP1 ,_, M.D_NNA -_- 37_MC 1/2_MF hours_NNT2 per_II 
+wee_NN1 -_- 37_MC 1/2_MF hours_NNT2 per_II wee_NN1 -_- 37_MC 1/2_MF hours_NNT2 
+per_II wee_NN1 -_- 24_MC hours_NNT2 per_II wee_NN1 -_- 28_MC hours_NNT2 per_II 
+wee_NN1 -_- 37_MC 1/2_MF hours_NNT2 per_II wee_NN1 The_AT general_JJ 
+outline_NN1 of_IO the_AT physicians*_FO duties_NN2 ,_, within_II the_AT 
+total_JJ care_NN1 and_CC management_NN1 of_IO the_AT retarded_JJ residents_NN2 
+,_, was_VBDZ presented_VVN by_II Dr._NNB Bradley_NP1 as_CSA follows_VVZ 
+Each_DD1 staff_NN physician_NN1 is_VBZ responsible_JJ for_IF about_II 
+<1QP to ~130 patient8> ._. 
+They_PPHS2 make_VV0 daily_RR rounds_VVZ in_II their_APPGE assigned_JJ 
+buildings_NN2 Evening_NNT1 and_CC weekend_NNT1 caJ-ls_NNU2 are_VBR taken_VVN 
+._. xn-fotation_NN1 ._. 
+In_RR21 general_RR22 the_AT number_NN1 of_IO calls_NN2 rtfayfreas_NN2 high_RR 
+as_CSA 20_MC one_MC1 night_NNT1 Page_NN1 On_II Saturdays_NPD2 and_CC 
+Sundays_NPD2 the_AT physician_NN1 on_II duty_NN1 makes_VVZ rounds_NN2 
+between_II 9_MC A.M._RA and_CC 3_MC P.M._RA on_II all_DB wards_NN2 
+Consultant_NN1 physicians_NN2 available_JJ on_II a_AT1 regular_JJ basis_NN1 
+Ophthalmology_NN1 two_MC times_NNT2 a_AT1 wee_JJ Orthopedics_NN1 four_MC 
+times_NNT2 a_AT1 wee_JJ Neurology_NN1 once_RR a_AT1 wee_JJ Dentistry_NN1 
+once_RR a_AT1 wee_NN1 It_PPH1 was_VBDZ felt_VVN by_II the_AT Medical_JJ 
+Staff_NN and_CC the_AT Superintendent_NN1 that_CST the_AT time_NNT1 spent_VVN 
+by_II the_AT regular_JJ consultants_NN2 at_II WSSH_NP1 is_VBZ insufficient_JJ 
+._. 
+Further_JJR difficulties_NN2 are_VBR caused_VVN by_II the_AT fact_NN1 that_CST 
+some_DD consultants_NN2 would_VM come_VVI only_RR in_II the_AT late_JJ 
+evening_NNT1 hours_NNT2 ._. 
+This_DD1 decreases_VVZ the_AT utilization_NN1 in_RR21 full_RR22 of_IO the_AT 
+consultation_NN1 by_II hindering_VVG communication_NN1 between_II the_AT 
+consultant_NN1 and_CC the_AT ward_NN1 physician_NN1 and_CC decreasing_VVG 
+the_AT opportunity_NN1 of_IO the_AT parents_NN2 to_TO meet_VVI with_IW the_AT 
+consultant_NN1 and_CC to_TO be_VBI informed_VVN firsthand_RR about_II 
+his_APPGE findings_NN2 Ms._NNB Vocaro_NP1 ,_, Director_NN1 of_IO Nursing_NN1 
+,_, has_VHZ informed_VVN us_PPIO2 that_CST during_II the_AT last_MD year_NNT1 
+the_AT nursing_JJ shortage_NN1 has_VHZ been_VBN somewhat_RR alleviated_VVN 
+by_II increasing_VVG the_AT budget_NN1 for_IF nursing_JJ services_NN2 and_CC 
+hiring_VVG new_JJ nurses_NN2 ._. 
+However_RR ,_, Ms._NNB Vocaro_NP1 felt_VVD that_CST more_DAR inservice_NN1 
+staff_NN training_NN1 is_VBZ needed_VVN for_IF the_AT nurses_NN2 ._. 
+The_AT neurological_JJ rounds_NN2 just_RR started_VVD by_II Dr._NNB 
+Samah.a_NP1 in_II January_NPM1 1975_MC will_VM be_VBI tape-recorded_JJ and_CC 
+presented_VVD as_CSA inservice_NN1 training_NN1 to_II all_DB three_MC 
+shifts_NN2 of_IO nursing_JJ personnel_NN2 We_PPIS2 have_VH0 been_VBN 
+informed_VVN that_CST the_AT third_MD floor_NN1 of_IO the_AT Green_JJ 
+building_NN1 ,_, known_VVN as_II Clinic_NN1 III_MC ,_, (_( which_DDQ is_VBZ 
+functioning_VVG presently_RR as_II a_AT1 hospital_NN1 unit_NN1 )_) ,_, has_VHZ 
+been_VBN approved_VVN ,_, in_II 1970_MC ,_, by_II the_AT Joint_JJ 
+Commission_NN1 for_IF both_DB2 the_AT treatment_NN1 of_IO acute_JJ 
+critically_RR ill_JJ patients_NN2 and_CC of_IO severe_JJ chronically_RR ill_JJ 
+patients_NN2 ._. 
+In_II 1972_MC ,_, WSSH_NP1 has_VHZ not_XX reapplied_VVN for_IF the_AT Joint_JJ 
+Commissions_NN2 approval_NN1 Dr._NNB Ruth_NP1 Scott_NP1 has_VHZ given_VVN 
+a_AT1 brief_JJ review_NN1 of_IO the_AT educational_JJ programs_NN2 at_II 
+WSSH_NP1 Page_NN1 The_AT patient_JJ flow_NN1 and_CC the_AT characteristic_JJ 
+changes_NN2 in_II the_AT population_NN1 of_IO WSSH_NP1 were_VBDR discussed_VVN 
+in_II detail_NN1 by_II the_AT Superintendent_NN1 and_CC the_AT other_JJ 
+members_NN2 of_IO this_DD1 meeting_VVG The_AT following_JJ factors_NN2 
+have_VH0 been_VBN identified_VVN among_II the_AT causes_NN2 of_IO the_AT 
+changes_NN2 in_II the_AT composition_NN1 of_IO the_AT patient_JJ 
+population_NN1 1_MC1 ._. 
+Admissions_NN2 to_II WSSH_NP1 are_VBR virtually_RR closed_VVN The_AT 
+problems_NN2 of_IO admission_NN1 policy_NN1 range_NN1 from_II the_AT lack_NN1 
+of_IO including_VVG tediously_RR collected_VVN previous_JJ data_NN into_II 
+the_AT medical_JJ records_NN2 ,_, to_II the_AT fact_NN1 that_CST at_II the_AT 
+time_NNT1 of_IO the_AT admission_NN1 the_AT history_NN1 is_VBZ taken_VVN 
+only_RR by_II the_AT social_JJ worker_NN1 while_CS the_AT physician_NN1 
+who_PNQS admits_VVZ the_AT patient_NN1 does_VDZ not_XX take_VVI the_AT 
+medical_JJ history_NN1 from_II the_AT parents_NN2 or_CC guardian_NN1 ._. 
+The_AT lack_NN1 of_IO communication_NN1 with_IW the_AT relatives_NN2 at_II 
+the_AT time_NNT1 of_IO admission_NN1 may_VM lead_VVI to_II missing_VVG 
+important_JJ medical_JJ and_CC developmental_JJ information_NN1 Some_DD 
+recent_JJ time-saving_JJ advantages_NN2 in_II the_AT admission_NN1 medical_JJ 
+workup_NN1 have_VH0 been_VBN mentioned_VVN ._. 
+Most_DAT pre-admission_JJ work_NN1 is_VBZ performed_VVN presently_RR at_II 
+the_AT Base_NN1 Service_NN1 Units_NN2 ,_, thus_RR diminishing_VVG the_AT 
+demands_NN2 on_II the_AT medical_JJ staff_NN of_IO WSSH_NP1 responsible_JJ 
+for_IF a_AT1 complete_JJ evaluation_NN1 at_II admission_NN1 2_MC ._. 
+Capable_JJ and_CC young_JJ patients_NN2 are_VBR discharged_VVN as_RG soon_RR 
+as_CSA possible_JJ to_II community_NN1 facilities_NN2 with_IW more_DAR or_CC 
+lesser_JJ levels_NN2 of_IO supervision_NN1 3_MC ._. 
+In_II the_AT last_MD two_MC years_NNT2 admissions_NN2 are_VBR requested_VVN 
+only_RR for_IF retardates_NN2 with_IW one_MC1 or_CC more_DAR additional_JJ 
+handicaps_NN2 ,_, such_II21 as_II22 severe_JJ physical_JJ impairment_NN1 ,_, 
+blindness_NN1 ,_, deafness_NN1 or_CC emotional_JJ disturbance_NN1 ._. 
+However_RR ,_, such_DA severely_RR handicapped_JJ patients_NN2 could_VM not_XX 
+be_VBI admitted_VVN to_II WSSH_NP1 because_II21 of_II22 the_AT already_RR 
+existing_JJ crowded_JJ conditions_NN2 of_IO the_AT floor_NN1 providing_VVG 
+full_JJ Medical_JJ Care_NN1 for_IF multiple_JJ handicapped_JJ retardates_NN2 
+4_MC ._. 
+Residents_NN2 presently_RR housed_VVN at_II WSSH_NP1 have_VH0 relatively_RR 
+high_JJ need_NN1 of_IO medical_JJ care_NN1 and_CC assistance_NN1 since_CS 
+they_PPHS2 are_VBR not_XX yet_RR sufficiently_RR rehabilitated_VVN for_IF 
+integration_NN1 into_II the_AT community_NN1 ._. 
+Many_DA2 of_IO them_PPHO2 ,_, in_II31 addition_II32 to_II33 the_AT 
+retardation_NN1 ,_, suffer_VV0 from_II such_DA severe_JJ irreversible_JJ 
+handicaps_NN2 that_CST their_APPGE discharge_NN1 can_VM not_XX be_VBI 
+expected_VVN These_DD2 changes_NN2 in_II patient_JJ population_NN1 have_VH0 
+contributed_VVN to_TO increase_VVI the_AT already_RR existing_JJ shortage_NN1 
+of_IO physicians_NN2 ,_, producing_VVG further_RRR a_AT1 relative_JJ 
+shortage_NN1 of_IO manpower_NN1 by_II the_AT increased_JJ number_NN1 of_IO 
+residents_NN2 who_PNQS require_VV0 more_RGR intensive_JJ medical_JJ care_NN1 
+4_MC Page_NN1 Interview_NN1 with_IW Betty_NP1 Bradley_NP1 ,_, M.D_NNA 
+Associate_JJ Superintendent_NN1 for_IF Medical_JJ Service_NN1 Dr._NNB 
+Bradley_NP1 has_VHZ discussed_VVN with_IW us_PPIO2 the_AT physicians_NN2 
+job_NN1 descriptions_NN2 The_AT physicians_NN2 are_VBR expected_VVN to_TO 
+make_VVI rounds_NN2 every_AT1 day_NNT1 ._. 
+Each_DD1 phys_NN2 ician_NN1 irresponsible_JJ in'gCneiTri_NN2 tor_NN1 about_II 
+100er_FO more_RRR re_II s_ZZ1 id_NN1 ent_NN1 s_ZZ1 ._. 
+Occasionally.their_NP1 load_NN1 comprisesjup_NN1 to_II 280_MC patients_NN2 ._. 
+The_AT workload_NN1 JoiiHTefor_NN1 the_AT staff_NN physXiSfTeach_VV0 t_ZZ1 
+ime_NN1 one_MC1 o'f_NN1 tKe_NN1 medicaLp_NN1 o_ZZ1 s_ZZ1 i_ZZ1 -tions_NN2 
+is_VBZ vacant_JJ or_CC at_II the_AT times_NNT2 of_IO illness_NN1 or_CC 
+vacation_NN1 of_IO one_MC1 of_IO th_NNU doctors_NN2 ;_; Dr._NNB Bradley_NP1 
+has_VHZ informed_VVN us_PPIO2 of_IO the_AT problems_NN2 reported_VVN to_II 
+her_PPHO1 by_II the_AT staff_NN physicians_NN2 ._. 
+These_DD2 include_VV0 the_AT following_JJ statements_NN2 :_: At_II the_AT 
+time_NNT1 of_IO medical_JJ rounds_NN2 ,_, between_II 8:00_MC A.M._RA and_CC 
+2:00_MC P.M._RA ,_, the_AT school_NN1 age_NN1 patients_NN2 are_VBR out_II21 
+of_II22 the_AT residential_JJ building_NN1 ._. 
+The_AT physician_NN1 usually_RR gets_VVZ his_APPGE information_NN1 from_II 
+the_AT nurse_NN1 and_CC from_II the_AT nursing_JJ notes_NN2 ,_, instead_II21 
+of_II22 having_VHG direct_JJ contact_NN1 with_IW the_AT patients_NN2 ._. 
+The_AT physicians_NN2 spend_VV0 very_RG much_DA1 time_NNT1 on_II rewriting_VVG 
+monthly_JJ orders_NN2 ,_, filling_VVG out_RP accident_NN1 reports_NN2 and_CC 
+other_JJ reports_NN2 for_IF insurance_NN1 and_CC Medicare_NP1 
+reimbursement_NN1 purposes_NN2 ._. 
+The_AT difficulty_NN1 in_II coping_VVG with_IW a_AT1 large_JJ amount_NN1 of_IO 
+paperwork_NN1 is_VBZ one_MC1 of_IO the_AT reasons_NN2 for_IF decreased_JJ 
+personal_JJ contact_NN1 with_IW the_AT patients_NN2 Dr._NNB Bradley_NP1 
+feels_VVZ that_CST the_AT physicians_NN2 at_II this_DD1 stage_NN1 are_VBR 
+involved_JJ in_II patient_NN1 care_NN1 only_RR when_CS they_PPHS2 are_VBR 
+called_VVN ,_, while_CS the_AT orders_NN2 ,_, the_AT insurance_NN1 forms_NN2 
+,_, and_CC social_JJ security_NN1 forms_NN2 take_VV0 up_II most_DAT of_IO 
+their_APPGE time_NNT1 ._. 
+There_EX are_VBR only_RR two_MC secretaries_NN2 covering_VVG the_AT work_NN1 
+of_IO all_DB physicians_NN2 and_CC the_AT Medical_JJ Superintendents_NN2 
+office_NN1 as_II31 well_II32 as_II33 the_AT work_NN1 of_IO the_AT X-ray_NN1 
+department_NN1 and_CC the_AT clinical_JJ and_CC dental_JJ laboratory_NN1 ._. 
+It_PPH1 is_VBZ impossible_JJ for_IF two_MC full-time_JJ secretaries_NN2 to_TO 
+do_VDI all_DB the_AT work_NN1 that_CST would_VM be_VBI necessary_JJ 
+Interview_NN1 with_IW A._NP1 Axelson_NP1 ,_, M.D_NNA Associate_JJ 
+Superintendent_NN1 for_IF Psychiatric_JJ Service_NN1 Dr._NNB Axelson_NP1 
+provides_VVZ only_RR specialized_JJ services_NN2 restricted_VVN to_II the_AT 
+psychiatric_JJ ward_NN1 ._. 
+He_PPHS1 leads_VVZ a_AT1 complete_JJ team_NN1 This_DD1 child-psychiatric_JJ 
+program_NN1 is_VBZ carried_VVN out_RP with_IW sufficient_JJ and_CC 
+well-specialized_JJ manpower_NN1 ._. 
+The_AT treatment_NN1 is_VBZ based_VVN on_II modern_JJ team_NN1 concepts_NN2 
+involving_VVG the_AT total_JJ milieu_NN1 ._. 
+The_AT resident_JJ physicians_NN2 assigned_VVN to_II this_DD1 unit_NN1 
+know_VV0 the_AT patients_NN2 sufficiently_RR ,_, and_CC therefore_RR 
+they_PPHS2 are_VBR able_JK to_TO make_VVI good_JJ emergency_NN1 decisions_NN2 
+when_CS they_PPHS2 are_VBR on_II call_NN1 ._. 
+Most_DAT o_ZZ1 SUGGESTED_JJ RELOCATION_NN1 OF_IO RESIDENTS_NN2 AT_II WSS_NP1 
+RESIDENTS_NN2 UNDER_RG 21_MC YEARS_NNT2 OF_IO AG_FO ONE_MC1 WAY_NN1 (_( 
+AGE_NN1 RELATED_VVD RESIDENT_JJ MOVEMEN_NN2 ACUTEL_VV0 RESIDENTS_NN2 OVER_RG 
+21_MC YEARS_NNT2 OF_IO AG_FO HEALTHY_JJ RETARDE_NP1 CHRONICALL_NP1 SCHOO_NP1 
+EMERGENCY_NN1 AN_AT1 ACUTE_JJ CAR_NN1 HEALTH_NN1 PROFESSIONA_NP1 STAF_NP1 
+ADMINISTRATIVE_JJ COORDINATIO_NN1 SPECIALIST_NN1 3_MC 'MULTIDISCIPLINARY_JJ 
+REHABILITATION_NN1 ORIENTED_JJ TEA_NN1 I_ZZ1 1_MC1 -_- ._. 
+._. ACUTE_JJ CAR_NN1 PSYCHIATRIC_JJ CAR_NN1 HOSPITA_NN1 CHRONIC_JJ CAR_NN1 
+CHRONICALLY_RR HEALTHY_JJ RETARDED_JJ IL_FW ACUTELY_RR IL_FW 3_MC L_ZZ1 ?_? 
+1_MC1 i_ZZ1 wrnrw'.rt_NNU 9_MC 

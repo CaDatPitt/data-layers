@@ -1,0 +1,80 @@
+
+&C OF_IO THE_AT PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ 
+CHILDREN_NN2 ,_, INC_JJ 917-1001_MCMC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, 
+PA._NN1 (_( 412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 
+Mulgrav_NP1 Executive_NN1 Director_NN1 C._NP1 A._NP1 Peter_NP1 November_NPM1 
+13_MC ,_, 197_MC TO_II :_: Board_NN1 of_IO Director_NN1 FROM_II :_: C._NP1 
+A._NP1 Peter_NP1 SUBJECT_NN1 :_: Agreements_NN2 between_II ACC_NP1 and_CC 
+DP_NP1 Attached_VVN are_VBR draft_NN1 agreements_NN2 between_II ACC_NP1 and_CC 
+DPW_NP1 ._. 
+They_PPHS2 will_VM be_VBI discussed_VVN at_II the_AT November_NPM1 Board_NN1 
+Meeting_NN1 ._. 
+The_AT purpose_NN1 is_VBZ to_TO define_VVI how_RRQ this_DD1 organization_NN1 
+will_VM work_VVI with_IW DPW_NP1 l_ZZ1 enclosure_NN1 Member_NN1 Unit_NN1 -_- 
+National_JJ Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, /no_NN1 
+Participant_NN1 in_II the_AT Allegheny_NP1 County_NN1 Mental_JJ 
+Health/Mental_FU Retardation_NN1 Progra_NP1 6/j_FU draf_NN1 Letter_NN1 of_IO 
+Agreement_NN1 between_II DPW_NP1 and_CC the_AT Office_NN1 of_IO Mental_JJ 
+Retardatio_NP1 and_CC ACC-PARC_NP1 as_II a_AT1 result_NN1 of_IO a_AT1 
+meeting_NN1 on_II Monday_NPD1 ,_, October_NPM1 23_MC ,_, betwee_NN1 r_ZZ1 
+Ed_NP1 Goldman_NP1 ,_, Deputy_NN1 Secretary_NN1 of_IO Mental_JJ 
+Retardation_NN1 for_IF DPW_NP1 ,_, Dr._NNB Stanle_NP1 Snyder_NN1 of_IO the_AT 
+Office_NN1 of_IO Mental_JJ Retardation_NN1 ,_, Dr._NNB Norman_NP1 Mulgrave_NP1 
+,_, President_NN1 of_IO ACC_NP1 ,_, Barbara_NP1 Sistik_NN1 of_IO the_AT 
+ACC_NP1 Board_NN1 ,_, C.A._NP1 Peters_NP ,_, Executive_NN1 Director_NN1 of_IO 
+ACC_NP1 ,_, Robert_NP1 Nelkin_NP1 ,_, Director_NN1 of_IO ACC_NP1 ._. 
+Community_NN1 &; Chapter_NN1 Affairs_NN2 and_CC Peter_NP1 Polloni_NP1 ,_, ._. 
+Executive_NN1 Director_NN1 of_IO the_AT Stat_NN1 Association_NN1 of_IO 
+PARC_NP1 Background_NN1 The_AT meeting_NN1 was_VBDZ a_AT1 direct_JJ result_NN1 
+of_IO a_AT1 joint_JJ ACC/DPW_NP1 action_NN1 a_AT1 Mountain_NN1 Top_JJ 
+Interim_JJ Care_NN1 Facility_NN1 for_IF mentally_RR retarded_JJ on_II 
+October_NPM1 18_MC 19_MC and_CC 20_MC which_DDQ resulted_VVD in_II the_AT 
+closing_NN1 of_IO the_AT facility_NN1 Agreement_NN1 :_: ACC_NP1 
+understands_VVZ DPW_NP1 's_GE concern_NN1 that_CST the_AT precipitous_JJ 
+closina_NN1 of_IO interim_JJ care_NN1 facilities_NN2 may_VM result_VVI in_II 
+the_AT transfere_NN1 of_IO interim_JJ care_NN1 residents_NN2 to_II State_NN1 
+schools_NN2 and_CC hospitals_NN2 that_CST are_VBR already_RR overcrowded_JJ 
+and_CC where_CS inadequate_JJ provision_NN1 is_VBZ made_VVN for_IF their_APPGE 
+care_NN1 and_CC treatment_NN1 ._. 
+Conversely_RR ,_, DPW_NP1 recognizes_VVZ that_CST some_DD interimvcare_NN1 
+facilities_NN2 have_VH0 such_DA a_AT1 negative_JJ effect_NN1 on_II 
+residents_NN2 that_CST transfere_NN1 of_IO residents_NN2 to_II State_NN1 
+schools_NN2 and_CC hospitals_NN2 ,_, even_CS21 if_CS22 they_PPHS2 are_VBR 
+of_IO questionable_JJ quality_NN1 ,_, is_VBZ of_IO critical_JJ importance_NN1 
+Accordingly_RR ,_, the_AT ACC_NP1 Board_NN1 of_IO Directors_NN2 will_VM 
+continue_VVI to_TO visit_VVI ._. 
+those_DD2 interim_JJ car_NN1 facilities_NN2 where_RRQ Allegheny_NP1 County_NN1 
+residents_NN2 are_VBR housed_VVN for_IF the_AT express_JJ purpose_NN1 of_IO 
+bringing_VVG conditions_NN2 (_( good_JJ or_CC bad_JJ )_) at_II the_AT 
+interim_JJ care_NN1 facilities_NN2 to_II the_AT attention_NN1 of_IO the_AT 
+Office_NN1 of_IO Mental_JJ Retardation_NN1 ._. 
+In_II the_AT event_NN1 conditions_NN2 are_VBR found_VVN that_CST are_VBR 
+detrimental_JJ t_ZZ1 the_AT residents_NN2 ,_, ACC_NP1 will_VM immediately_RR 
+advise_VVI the_AT Office_NN1 of_IO Menta_NP1 Retardation_NN1 based_VVN on_II 
+ACC_NP1 's_GE information_NN1 and_CC their_APPGE own_DA immediate_JJ 
+investigation_NN1 ,_, the_AT Office_NN1 of_IO Mental_JJ Retardation_NN1 
+in_II31 consultation_II32 with_II33 ACC_NP1 will_VM make_VVI a_AT1 
+decision_NN1 to_TO close_VVI the_AT offending_JJ facility_NN1 or_CC 
+attempt_VV0 to_TO salvage_VVI it_PPH1 T_ZZ1 *_FU In_II the_AT event_NN1 a_AT1 
+salvage_NN1 effort_NN1 is_VBZ undertaken_VVN ,_, the_AT Office_NN1 of_IO ._. 
+Mental_JJ Retardation_NN1 will_VM immediately_RR ,_, within.24_FO hours_NNT2 
+,_, move_VV0 adequate_JJ staff_NN into_II the_AT facility_NN1 to_TO 
+provide_VVI sufficient_JJ technical_JJ staff_NN assistance_NN1 to_TO 
+improve_VVI either/or_CC both_RR plant_VVI and_CC program_NN1 At_II the_AT 
+time_NNT1 of_IO such_DA intervention_NN1 a_AT1 contingency_NN1 plan_NN1 for_IF 
+removal_NN1 residents_NN2 will_VM be_VBI developed_VVN in_II31 
+conjunction_II32 with_II33 the_AT County_NN1 MH/MR_FU program_NN1 where_CS 
+the_AT residents_NN2 reside_VV0 ._. 
+This_DD1 contingency_NN1 plan_NN1 to_TO include_VVI individual_JJ 
+evaluation_NN1 of_IO all_DB residents_NN2 ACC_NP1 specifically_RR reserves_VVZ 
+the_AT right_NN1 to_TO revisit_VVI the_AT facility_NN1 followin_NN1 DPW_NP1 
+intervention_NN1 to_TO determine_VVI if_CSW improvement_NN1 has_VHZ 
+occurred_VVN ._. 
+In_II the_AT event_NN1 improvement_NN1 has_VHZ not_XX occurred_VVN ,_, ACC_NP1 
+reserves_VVZ the_AT right_NN1 to_TO take_VVI unilateral_JJ action_NN1 ,_, 
+including_VVG but_CCB not_XX limited_VVN to_II notification_NN1 of_IO the_AT 
+news_NN1 media_NN It_PPH1 must_VM be_VBI emphasized_VVN that_CST if_CS 
+this-_JJ procedure_NN1 malfunctions_NN2 at_II any_DD ooint_NN1 ,_, ACC_NP1 
+will_VM act_VVI in_II a_AT1 manner_NN1 determined_VVD best_RRT for_IF the_AT 
+residents_NN2 involved_VVD ._. 
+*_FU --d6d1e0d5ecea3d81f8d516cbfbc096a7--_FU 

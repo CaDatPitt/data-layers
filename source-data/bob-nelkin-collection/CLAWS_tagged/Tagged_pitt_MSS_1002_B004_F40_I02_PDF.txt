@@ -1,0 +1,27 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFAR_NP1 WESTERN_NP1 REGIO_NP1 PITTSBURGH_NP1 STATE_NN1 OFFICE_NN1 
+BUILDING_NN1 PITTSBURGH_NP1 ,_, PENNSYLVANIA_NP1 1522_MC TELEPHONE_VV0 :_: 
+412.565/2/1_MF 514_MC February_NPM1 20_MC ,_, 197_MC Mrs._NNB Virginia_NP1 
+Thornburgh_NP1 ,_, Presiden_NP1 Allegheny_NP1 County_NN1 Chapter_NN1 PAR_NN1 
+1001_MC Brighton_NP1 Road_NNL1 Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC 
+Dear_JJ Ginny_NP1 This_DD1 is_VBZ in_II31 reply_II32 to_II33 your_APPGE 
+letter_NN1 of_IO February_NPM1 10_MC to_II Mr._NNB Norman_NP1 J._NP1 
+Taylor_NP1 concerning_II the_AT 406_MC Court_NN1 Commitments_NN2 to_II 
+Polk_NP1 State_NN1 School_NN1 ._. 
+As_CSA you_PPY know_VV0 ,_, this_DD1 office_NN1 and_CC the_AT 
+Superintendent_NN1 of_IO Polk_NP1 State_NN1 School_NN1 are_VBR totally_RR 
+opposed_VVN to_II court_NN1 commitments_NN2 to_II State_NN1 Schools_NN2 and_CC 
+have_VH0 vigorously_RR opposed_VVN them_PPHO2 Quite_RG honestly_RR ,_, in_II 
+these_DD2 two_MC (_( 2_MC )_) casesthat_NN1 happened_VVD nearly_RR 
+simultaneously_RR ,_, Erie_NP1 County_NN1 judges_NN2 caught_VVD us_PPIO2 
+off_RR21 guard_RR22 ._. 
+We_PPIS2 tried_VVD to_TO react_VVI and_CC even_RR thought_VVD one_MC1 
+commitment_NN1 had_VHD been_VBN blocked_VVN We_PPIS2 are_VBR endeavoring_VVG 
+to_TO motivate_VVI County_NN1 Administrators_NN2 and_CC Base_NN1 Service_NN1 
+Units_NN2 to_TO work_VVI more_RGR closely_RR with_IW the_AT courts_NN2 ._. 
+I_PPIS1 might_VM say_VVI that_CST the_AT problem_NN1 appears_VVZ to_TO be_VBI 
+greater_JJR in_II the_AT Northwest_ND1 corner_NN1 than_CSN in_II the_AT 
+counties_NN2 contiguous_JJ to_II Allegheny_NP1 I_PPIS1 will_VM keep_VVI yo_UH 
+advised_JJ Commissioner_NN1 of_IO Mental_JJ Retardatio_NP1 CAP:t_FO cc_NNU :_: 
+Mr._NNB Norman_NP1 J._NP1 Taylor_NP1 --126218fea08abc8ce74ce60d082dfcef--_FU 

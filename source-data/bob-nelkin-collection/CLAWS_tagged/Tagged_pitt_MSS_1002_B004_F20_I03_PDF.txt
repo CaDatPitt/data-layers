@@ -1,0 +1,51 @@
+
+April_NPM1 24_MC ,_, 197_MC Ms._NNB Helene_NP1 Wohlgemuth_NP1 ,_, 
+Secretary_NN1 Department_NN1 of_IO Public_JJ Welfare_NN1 Commonwealth_NN1 
+of_IO Pennsylvani_NP1 333_MC Health_NN1 &; Welfare_NN1 Bldg_NP1 
+Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC Dear_JJ Ms._NNB Wohlgemuth_NP1 
+I_PPIS1 am_VBM writing_VVG to_TO express_VVI my_APPGE complete_JJ 
+dissatisfaction_NN1 with_IW your_APPGE action_NN1 of_IO last_MD week_NNT1 
+in_II removing_VVG Dr._NNB McClelland_NP1 from_II his_APPGE duties_NN2 as_CSA 
+superintendent_NN1 of_IO Polk_NP1 State_NN1 School_NN1 My_APPGE daughter_NN1 
+,_, Betty_NP1 Lou_NP1 ,_, has_VHZ been_VBN a_AT1 resident_NN1 of_IO Polk_NP1 
+for_IF thirty_MC years_NNT2 ._. 
+During_II this_DD1 time_NNT1 I_PPIS1 have_VH0 become_VVN very_RG familiar_JJ 
+with_IW Polk_NP1 ,_, its_APPGE administration_NN1 ,_, attendants_NN2 and_CC 
+method_NN1 of_IO operations_NN2 ._. 
+Th-is_DD1 has_VHZ been_VBN during_II seven_MC different_JJ administrations_NN2 
+out_II21 of_II22 Harrisburg_NP1 -_- including_II two-and-half_MF years_NNT2 
+of_IO your_APPGE administration_NN1 I_PPIS1 have_VH0 nothing_PN1 but_II the_AT 
+highest_JJT praise_NN1 for_IF the_AT care_NN1 my_APPGE daughter_NN1 has_VHZ 
+received_VVN ,_, the_AT love_NN1 and_CC dedication_NN1 of_IO the_AT 
+administration_NN1 and_CC attendants_NN2 ,_, the_AT cleanliness_NN1 and_CC 
+discipline_NN1 in_RR21 general_RR22 at_II Polk_NP1 and_CC the_AT 
+cooperation_NN1 with_IW and_CC consideration_NN1 of_IO the_AT family_NN1 
+I_PPIS1 do_VD0 n't_XX understand_VVI why_RRQ you_PPY decided_VVD to_TO 
+remove_VVI Dr._NNB McClelland_NP1 after_CS only_RR one_MC1 visit_NN1 to_II 
+Polk_NP1 ,_, and_CC this_DD1 after_CS you_PPY have_VH0 had_VHN the_AT 
+charge_NN1 of_IO your_APPGE office_NN1 for_IF over_II two-years_NNT2 ;_; 
+I_PPIS1 do_VD0 n't_XX understand_VVI why_RRQ you_PPY caused_VVD Dr._NNB 
+McClelland_NP1 's_GE removal_NN1 in_II the_AT manner_NN1 which_DDQ you_PPY 
+did_VDD -_- with_IW all_DB the_AT fanfare_NN1 -_- with_IW people_NN 
+involved_VVD who_PNQS are_VBR in_II no_AT way_NN1 qualified_VVN to_TO make_VVI 
+judgment_NN1 in_II such_DA important_JJ areas_NN2 -_- i.e._REX ,_, Mr._NNB 
+Michael_NP1 Levine_NP1 of_IO KDKA_NP1 Radio_NN1 ,_, Pittsburgh_NP1 ;_; I_PPIS1 
+do_VD0 n't_XX understand_VVI why_RRQ you_PPY are_VBR so_RG quick_JJ to_TO 
+discharge_VVI such_DA a_AT1 highly_RR dedicated_VVN ,_, qualified_VVN ,_, 
+non-political_JJ individual_NN1 such_II21 as_II22 Dr._NNB McClelland_NP1 ,_, 
+who_PNQS has_VHZ given_VVN many_DA2 years_NNT2 of_IO able_JJ 
+administration_NN1 ,_, over_II such_DA a_AT1 questionable_JJ subject_NN1 of_IO 
+treatment_NN1 of_IO non-controllable_JJ mentally_RR retarded_JJ patients_NN2 
+What_DDQ is_VBZ your_APPGE suggestion_NN1 for_IF the_AT restraining_NN1 of_IO 
+these_DD2 patients_NN2 -_- and_CC if_CS you_PPY have_VH0 one_PN1 ,_, why_RRQ 
+was_VBDZ a_AT1 directive_NN1 not_XX handed_VVN down_RP through_II your_APPGE 
+office_NN1 in_II procedural_JJ manner_NN1 I_ZZ1 ,_, along_II21 with_II22 
+the_AT rest_NN1 of_IO my_APPGE family_NN1 request_NN1 that_CST you_PPY 
+reconsider_VV0 your_APPGE action_NN1 and_CC reinstate_VV0 Dr._NNB 
+McClelland_NP1 for_IF the_AT good_JJ of_IO Polk_NP1 ,_, its_APPGE many_DA2 
+unfortunate_JJ patients_NN2 and_CC the_AT concerned_JJ families_NN2 who_PNQS 
+not_XX only_RR love_VV0 these_DD2 patients_NN2 ,_, but_CCB have_VH0 
+learned_VVN to_TO love_VVI the_AT hundreds_NNO2 of_IO sacrificing_VVG 
+people_NN who_PNQS care_VV0 for_IF them_PPHO2 Sincerely_RR Mrs._NNB 
+Catherine_NP1 Groetzinge_NP1 2217_MC Holyoke_NP1 Stree_NP1 Pittsburgh_NP1 ,_, 
+Pennsylvania_NP1 15214_MC --630435c8b9612eb1fb96a2eb992dc504--_FU 

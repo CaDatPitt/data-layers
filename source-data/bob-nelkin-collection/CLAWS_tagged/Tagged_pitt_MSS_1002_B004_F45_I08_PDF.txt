@@ -1,0 +1,130 @@
+
+LAURELTON_NP1 STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 March_NPM1 9_MC ,_, 
+197_MC Announced_VVD visit_NN1 :_: Marcella_NP1 Ganoe_NP1 ,_, President_NN1 
+,_, Mifflin_NP1 County_NN1 ARC_NN1 -_- Regional_JJ Director_NN1 ;_; and_CC 
+Ginny_NP1 Thornburgh_NP1 ,_, Vice_JJ President_NN1 ,_, Allegheny_NP1 
+County_NN1 ARC_NP1 I._NP1 Setting_NN1 :_: Beautiful_JJ country_NN1 setting_VVG 
+all_DB buildings_NN2 are_VBR fieldstone_NN1 1000_MC acres_NNU2 ,_, 500_MC 
+of_IO which_DDQ are_VBR cultivated_VVN in_II corn_NN1 and_CC hay_NN1 by_II 
+paid_JJ staff_NN (_( not_XX residents_NN2 )_) I_ZZ1 I._NP1 Facts_NN2 *_FU 
+Per_JJ21 diem_JJ22 :_: $31.20_NNU *_FU Superintendent_NN1 and_CC our_APPGE 
+guide_NN1 :_: Benjamin_NP1 P._NP1 Clark_NP1 ,_, M.D._NNA (_( pediatrician_NN1 
+)_) Dr._NNB Clark_NP1 has_VHZ been_VBN Superintendent_NN1 since_II 1970_MC ._. 
+He_PPHS1 had_VHD previously_RR been_VBN Superintendent_NN1 at_II the_AT 
+Hamburg_NP1 and_CC White_JJ Haven_NN1 State_NN1 Schools_NN2 and_CC 
+Hospitals_NN2 *_FU Laurelton_NP1 was_VBDZ founded_VVN about_RG fifty_MC 
+years_NNT2 ago_RA as_II a_AT1 facility_NN1 for_IF defective_JJ ,_, 
+delinquent_JJ women_NN2 of_IO child-bearing_NN1 age_NN1 with_IW I.Q.s_NN2 
+over_RG 70_MC ._. 
+This_DD1 population_NN1 peaked_VVN at_II 997_MC residents_NN2 ._. 
+As_II a_AT1 result_NN1 of_IO a_AT1 fine_JJ dispersal_NN1 plan_NN1 ,_, for_IF 
+which_DDQ Dr._NNB Clark_NP1 does_VDZ not_XX take_VVI credit_NN1 ,_, 
+Laurelton_NP1 is_VBZ comfortably_RR populated_VVN now_RT with_IW 430_MC 
+retarded_JJ men_NN2 and_CC women_NN2 ,_, only_RR 18_MC of_IO whom_PNQO are_VBR 
+"_" more_RGR psychotic_JJ than_CSN retarded_JJ (_( Johnson_NP1 Cottage_NN1 )_) 
+*_FU Family_NN1 visitation_NN1 any_DD time_NNT1 ._. 
+(_( Parents_NN2 reports_NN2 do_VD0 not_XX confirm_VVI this_DD1 ._. 
+*_FU Board_NN1 Meetings_NN2 -_- open_VV0 to_II the_AT public_NN1 ._. 
+(_( Community_NN1 reports_NN2 do_VD0 not_XX confirm_VVI this_DD1 ._. 
+*Volunteer_FO program_NN1 -_- approximately_RR 30_MC volunteers_NN2 ._. 
+Dr._NNB Clark_NP1 is_VBZ not_XX satisfied_VVN with_IW these_DD2 numbers_NN2 
+or_CC with_IW the_AT Director_NN1 of_IO Volunteers_NN2 ,_, to_II date_NN1 ._. 
+BucknelI_JJ University_NN1 ,_, located_VVD less_DAR than_CSN one_MC1 half_DB 
+hour_NNT1 away_RL ,_, and_CC with_IW a_AT1 student_NN1 population_NN1 of_IO 
+3,000_MC ,_, sends_VVZ only_RR 12_MC volunteers_NN2 to_II Laurelton_NP1 III_MC 
+._. 
+Residential_JJ Cottage_NN1 A._NP1 Johnson_NP1 Cottage_NN1 -_- Population_NN1 
+18_MC ._. 
+Girls_NN2 more_RGR psychotic_JJ than_CSN retarded_JJ ._. 
+Dr._NNB Clark_NP1 clearly_RR feels_VVZ uncomfortable_JJ about_II these_DD2 
+girls_NN2 ,_, their_APPGE staff_NN and_CC the_AT program_NN1 ._. 
+Difficulty_NN1 getting_VVG a_AT1 psychiatrist_NN1 to_TO treat_VVI the_AT 
+mentally_RR retarded_JJ who_PNQS are_VBR psychiatrically_RR involved_VVN 
+Dr._NNB Clark_NP1 "_" pulled_VVD a_AT1 punitive_JJ staff_VV0 one_MC1 and_CC 
+one-half_MF months_NNT2 ago_RA ._. 
+Front_JJ door_NN1 unlocked_VVD ._. 
+(_( Had_VHD been_VBN locked_VVN until_II recently_RR ._. 
+Staff_VV0 *_FU Child_NN1 care_NN1 workers_NN2 :_: 3_MC on_II each_DD1 day_NNT1 
+sh_UH i_ZZ1 f_ZZ1 2_MC on_II 11_MC P.M._RA to_II 7_MC A.M._RA shif_NN1 *_FU 
+Teacher_NN1 on_II the_AT unit_NN1 M-F_NP1 8:30_MC A.M.-12:30_FO P.M_NP1 *_FU 
+R.N._NP1 on_II unit_NN1 -_- M-*Social_FO worker_NN1 on_II unit_NN1 -_- M._NN1 
+w_ZZ1 ._. 
+F_ZZ1 *_FU What_DDQ happens_VVZ Saturday_NPD1 and_CC Sunday_NPD1 Visit_VV0 
+to_II Laurelton_NP1 State_NN1 School_NN1 &; Hospital_NN1 -_- 3-9-73_MCMC -_- 
+Page_NP1 Johnson_NP1 Cottage_NN1 (_( Continued_VVN Three_MC sleeping_JJ 
+areas_NN2 *_FU First_MD floor_NN1 -_- 9_MC girls_NN2 ,_, sleeping_VVG in_II 
+cell-like_JJ rooms_NN2 with_IW bed_NN1 ,_, dresser_NN1 ,_, sink_NN1 and_CC 
+toilet_NN1 with_IW no_AT seat_NN1 ._. 
+(_( The_AT girls_NN2 may_VM decorate_VVI their_APPGE rooms_NN2 ._. 
+*_FU .._... 
+Standing_VVG order_NN1 from_II the_AT physician_NN1 (_( labeled_JJ 
+Behavior_NN1 Modification_NN1 )_) to_TO lock_VVI girl_NN1 in_II her_APPGE 
+room_NN1 ,_, or_CC another_DD1 room_NN1 ,_, if_CS necessary_JJ ._. 
+When_CS we_PPIS2 visited_VVD the_AT most_RGT notorious_JJ of_IO these_DD2 
+girls_NN2 was_VBDZ incarcerated_VVN ,_, but_CCB the_AT nurse_NN1 had_VHD 
+not_XX yet_RR contacted_VVN the_AT physician_NN1 *_FU Second_MD floor_NN1 -_- 
+treated_VVN as_CSA privilege_NN1 areas_NN2 cell-like_JJ bedrooms_NN2 here_RL 
+also_RR 5_MC girls_NN2 one_MC1 are_VBR 4_MC girls_NN2 another_DD1 are_VBR 
+B._NP1 Cottages_NN2 #9_NNU ,_, #10_NNU ,_, #11_NNU all_RR higher_JJR 
+functioning_JJ wome_NN1 1_MC1 ._. 
+Cottage_NN1 #9_NNU -_- not_XX visite_NN1 2_MC ._. 
+Cottage_NN1 #10_NNU -_- (_( Population_NN1 :_: 34_MC )_) Cells_NN2 again_RT 
+used_VVN as_CSA bedrooms_NN2 with_IW personal_JJ decorations_NN2 and_CC 
+belongings_NN2 ._. 
+One_MC1 very_RG large_JJ dormitory_NN1 room_NN1 with_IW twelve_MC beds_NN2 
+Girl_NN1 of_IO the_AT month_NNT1 -_- picture_NN1 displayed_VVD -_- good_JJ 
+idea_NN1 3_MC ._. 
+Cottage_NN1 #11_NNU -_- (_( Population_NN1 :_: 47_MC Child_NN1 care_NN1 
+workers_NN2 2-7_MCMC A.M._RA to_II 3:00_MC P.M._RA 2_MC -_- 3:00_MC P.M._RA 
+to_II I_ZZ1 1:00_MC P.M._RA I_PPIS1 -_- 11:00_MC P.M._RA to_II 7_MC A.M._RA 
+C._NP1 Cottages_NN2 #6_NNU and_CC #7_NNU -_- Genera_NN2 Clea_NP1 Colorful_NP1 
+curtain_NN1 Labor_NN1 and_CC industry_NN1 has_VHZ ruled_VVN no_AT sleeping_NN1 
+on_II second_MD floor_NN1 roof_NN1 might_VM fall_VVI in_RP ,_, in_II31 
+case_II32 of_II33 fire_NN1 Entire_JJ second_MD floor_NN1 used_VVN as_CSA 
+playrooms_NN2 with_IW interesting_JJ toys_NN2 and_CC equipment_NN1 and_CC 
+as_II a_AT1 speech_NN1 and_CC hearing_VVG class_NN1 (_( Cottage_NN1 #6_NNU )_) 
+for_IF 6_MC Laurelton_NP1 and_CC 6_MC community_NN1 children_NN2 IV_MC ._. 
+Educational_JJ Building_NN1 -_- Motto_NN1 -_- Education_NN1 is_VBZ the_AT 
+path_NN1 to_II independence_NN1 A._NP1 Unusually_RR we_PPIS2 I_ZZ1 
+I-equipped_JJ facility_NN1 including_II :_: 12_MC teacher_NN1 *_FU Piped-in_JJ 
+musi_NN2 *_FU Stor_NN1 Visit_NN1 to_II Laurelton_NP1 State_NN1 School_NN1 &; 
+Hospital_NN1 -_- 3-9-73_MCMC -_- Page_NP1 Educational_JJ Building_NN1 (_( 
+Continued_JJ *_FU Librar_NP1 *_FU T.V._NN1 studio_NN1 -_- for_IF closed_JJ 
+circuit_NN1 us_PPIO2 *_FU Classroom_NN1 teachin_NN1 *_FU Time_NNT1 and_CC 
+money_NN1 concept_NN1 *_FU MobiIity_NN1 trainin_NN1 *_FU Kitche_NP1 *_FU 
+Apartmen_NP1 *_FU Speech_NN1 and_CC hearing_VVG booth_NN1 *_FU Evaluation_NN1 
+program_NN1 prior_II21 to_II22 admission_NN1 to_II the_AT worksho_NN1 B._NP1 
+Most_DAT of_IO the_AT residents_NN2 in_II the_AT building_NN1 at_II the_AT 
+time_NNT1 of_IO the_AT visit_NN1 were_VBDR in_II a_AT1 large_JJ 
+multi-purpose_JJ room_NN1 ._. 
+It_PPH1 would_VM appear_VVI that_CST the_AT Laurelton_NP1 residents_NN2 
+are_VBR not_XX given_VVN a_AT1 chance_NN1 to_TO use_VVI this_DD1 total_JJ 
+facility_NN1 to_II their_APPGE greatest_JJT advantage_NN1 The_AT program_NN1 
+in_II the_AT multi-purpose_JJ room_NN1 was_VBDZ co-ed_JJ How_RRQ did_VDD 
+anything_PN1 as_RG elaborate_VVI as_CSA this_DD1 building_NN1 get_VV0 
+built_VVN in_II 1969_MC ?_? ?_? 
+C._NP1 Approximately_RR 80_MC residents_NN2 in_II the_AT 5_MC to_II 21_MC 
+age_NN1 range_NN1 D._NP1 Under_II the_AT Right_NN1 to_II Education_NN1 ,_, 
+Laurelton_NP1 will_VM get_VVI three_MC teacher_NN1 aides_NN2 in_II 
+September_NPM1 ,_, 1973_MC ._. 
+The_AT program_NN1 in_II the_AT Education_NN1 Building_NN1 will_VM be_VBI 
+supervised_VVN by_II the_AT Central_JJ Susquehana_NP1 Intermediate_JJ Unit_NN1 
+._. 
+The_AT I.U._NP1 has_VHZ not_XX offered_VVN to_TO take_VVI students_NN2 into_II 
+community_NN1 programs_NN2 E._NP1 The_AT School_NN1 Principal_NN1 ,_, Ed_NP1 
+Lint_NP1 ,_, apparently_RR has_VHZ a_AT1 good_JJ reputation_NN1 ._. 
+He_PPHS1 is_VBZ presently_RR on_II loan_NN1 to_II the_AT Office_NN1 of_IO 
+Retardation_NN1 V._II Workshop_NN1 and_CC Vocational_JJ Training_NN1 
+Progra_NP1 A._NP1 Evaluation_NN1 program_NN1 prior_II21 to_II22 admission_NN1 
+to_II the_AT workshop_NN1 -_- within_II the_AT Education_NN1 Program_NN1 
+B._NP1 Within_II the_AT large_JJ workshop_NN1 buildidng_NN1 1_MC1 ._. 
+Vocational_JJ adjustment_NN1 services_NN2 -_- color_NN1 identification_NN1 ,_, 
+counting_VVG ,_, etc_RA 2_MC ._. 
+Occupational_JJ therapy_NN1 and_CC crafts_NN2 Rug_NN1 I_PPIS1 oom_VV0 
+Placemat_NP1 loom_VV0 These_DD2 items_NN2 purchased_VVN by_II community_NN1 
+before_CS they_PPHS2 are_VBR even_RR finished_VVN ._. 
+Residents_NN2 receive_VV0 9$_FO of_IO the_AT purchase_NN1 price_NN1 in_II 
+dollars_NNU2 3_MC ._. 
+Laundry_NN1 -_- a_AT1 few_DA2 residents_NN2 working_VVG here_RL Visit_VV0 
+to_II Laurelton_NP1 State_NN1 School_NN1 &; Hospital_NN1 -_- 3-9-73_MCMC -_- 
+Page_NP1 B._NP1 Large_JJ workshop_NN1 

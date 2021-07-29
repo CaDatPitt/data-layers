@@ -1,0 +1,45 @@
+
+July_NPM1 25_MC ,_, 197_MC The_AT Honorable_NP1 Robert_NP1 P._NP1 Casey_NP1 
+Auditor_NN1 Genera_NN2 229_MC Finance_VV0 Buildin_NP1 Harrisburg_NP1 ,_, 
+Pennsylvania_NP1 1712_MC Dear_JJ Sir_NP1 I_PPIS1 have_VH0 read_VVN with_IW 
+great_JJ interest_NN1 newspaper_NN1 accounts_NN2 of_IO your_APPGE 
+investigation_NN1 of_IO Laural_JJ House_NN1 in_II Fayette_NP1 County_NN1 
+and_CC Allegheny_NP1 Valley_NN1 School_NN1 in_II Pittsburgh_NP1 ._. 
+I_PPIS1 note_VV0 that_CST both_DB2 have_VH0 in_RR21 common_RR22 the_AT 
+fact_NN1 that_CST they_PPHS2 are_VBR private_JJ ,_, non-profit_JJ 
+facilities_NN2 ._. 
+May_VM I_PPIS1 take_VVI the_AT liberty_NN1 of_IO suggesting_VVG another_DD1 
+worthwhile_JJ area_NN1 of_IO investigation_NN1 You_PPY should_VM 
+specifically_RR investigate_VVI and_CC audit_VVI private_JJ ,_, 
+profitmaking_VVG interim_JJ care_NN1 facilities_NN2 subsidized_VVD by_II 
+the_AT Department_NN1 of_IO Welfare_NN1 ._. 
+Interim_JJ care_NN1 facilities_NN2 are_VBR facilities_NN2 ,_, such_II21 
+as_II22 Allegheny_NP1 Valley_NN1 School_NN1 ,_, that_DD1 house_NN1 mentally_RR 
+retarded_JJ individuals_NN2 who_PNQS are_VBR waiting_VVG assignment_NN1 to_TO 
+state_VVI schools_NN2 and_CC hospitals_NN2 Our_APPGE organization_NN1 has_VHZ 
+recently_RR had_VHN staff_NN and_CC volunteers_NN2 to_II three_MC such_DA 
+private_JJ ,_, proprietary_JJ facilities_NN2 ._. 
+Two_MC are_VBR located_VVN in_II the_AT eastern_JJ part_NN1 of_IO the_AT 
+state_NN1 and_CC one_PN1 in_II the_AT west_ND1 ._. 
+All_DB had_VHD glaring_JJ deficiencies_NN2 in_II either_RR plant_VV0 ,_, 
+sanitation_NN1 or_CC program_NN1 nearly_RR to_II b_ZZ1 Per_JJ21 diem_JJ22 
+rates_NN2 for_IF the_AT facilities_NN2 ranged_VVN from_II $11.50_NNU to_II 
+i_MC1 $15.00_NNU a_AT1 day_NNT1 ._. 
+On_II this_DD1 amount_NN1 ,_, in_II theory_NN1 ,_, residents_NN2 are_VBR 
+provided_VVN program_NN1 ,_, housing_VVG ,_, clothing_NN1 and_CC food_NN1 ._. 
+By_II31 way_II32 of_II33 comparison_NN1 ,_, day_NNT1 programs_NN2 
+conducted_VVN by_II this_DD1 organization_NN1 cost_VVD $8.00_NNU per_RA21 
+diem_RA22 ._. 
+It_PPH1 would_VM appear_VVI to_TO be_VBI impossible_JJ for_IF the_AT 
+entrepreneurs_NN2 that_CST a_AT1 program_NN1 for_IF less_RRR a_AT1 day_NNT1 
+for_IF food_NN1 an_AT1 run_NN1 these_DD2 proprietary_JJ facilities_NN2 to_TO 
+provide_VVI than_CSN $8.00_NNU which_DDQ would_VM leave_VVI $3.00_NNU to_II 
+$7.00_NNU shelter_NN1 and_CC a_AT1 profit_NN1 The_AT Honorable_NP1 Robert_NP1 
+P._NP1 Casey_NP1 Page_NP1 July_NPM1 25_MC ,_, 197_MC Clearly_RR ,_, the_AT 
+only_JJ way_NN1 a_AT1 profit_NN1 can_VM be_VBI made_VVN is_VBZ by_II 
+reducing_VVG financial_JJ commitment_NN1 to_TO plant_VVI or_CC program_NN1 
+areas_NN2 ._. 
+If_CS you_PPY would_VM like_VVI additional_JJ information_NN1 ,_, do_VD0 
+not_XX hesitate_VVI to_TO contact_VVI me_PPIO1 Best_RRT personal_JJ wishes_NN2 
+C._NP1 A._NP1 Peters_NP Executive_NN1 Directo_NN1 CAP:d_FO bcc_NNU :_: Pat_NP1 
+Clap_VV0 Ginny_NP1 Thornburgh_NP1 --9f8c0f421e8842b335d033f1c172e6a5--_FU 

@@ -1,0 +1,125 @@
+
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC 
+NORTH_ND1 SECOND_MD STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC 
+TEL_NN1 :_: (_( 71_MC 7_MC )_) 234-262_MCMC L_NNU STEUART_NN1 BROW_NN1 
+Presiden_NN1 April_NPM1 21_MC ,_, 197_MC PETER_NP1 P._NP1 POLLON_NP1 
+Executive_NN1 Directo_NP1 F._NP1 John_NP1 Hagele_NP1 ,_, Esq_NNA Pepper_NN1 
+,_, Hamilton_NP1 &; Scheet_NP1 2001_MC Fidelity_NN1 Buildin_NN1 123_MC 
+South_NP1 Broad_NP1 Street_NNL1 Philadelphia_NP1 ,_, Pennsylvania_NP1 1910_MC 
+Dear_JJ Jack_NP1 This_DD1 letter_NN1 expresses_VVZ my_APPGE opinion_NN1 
+that_CST the_AT Pennsylvania_NP1 Department_NN1 of_IO Education_NN1 has_VHZ 
+failed_VVN to_TO implement_VVI Paragraph_NN1 51_MC of_IO the_AT Consent_NN1 
+Agreement_NN1 with_II31 respect_II32 to_II33 institutionalized_JJ mentally_RR 
+retarded_JJ students_NN2 ,_, and_CC has_VHZ failed_VVN to_TO follow_VVI the_AT 
+procedures_NN2 of_IO Chapter_NN1 13_MC of_IO the_AT School_NN1 Code_NN1 
+which_DDQ calls_VVZ for_IF the_AT education_NN1 of_IO all_DB handicapped_JJ 
+children_NN2 When_RRQ the_AT Consent_NN1 Agreement_NN1 was_VBDZ signed_VVN ,_, 
+it_PPH1 was_VBDZ agreed_VVN that_CST all_DB students_NN2 '_GE would_VM be_VBI 
+accorded_VVN equal_JJ treatment_NN1 under_II law_NN1 ,_, and_CC that_CST 
+neither_RR the_AT fact_NN1 of_IO retardation_NN1 nor_CC the_AT artifact_NN1 
+of_IO residence_NN1 would_VM obstruct_VVI equal_JJ treatment_NN1 under_II 
+the_AT School_NN1 Code_NN1 ._. 
+The_AT Code_NN1 very_RG clearly_RR states_VVZ that_CST the_AT primary_JJ 
+responsibility_NN1 for_IF providing_VVG education_NN1 rests_VVZ with_IW the_AT 
+local_JJ School_NN1 District_NN1 ,_, with_IW the_AT provision_NN1 that_CST 
+certain_JJ services_NN2 can_VM be_VBI provided_VVN by_II contractural_JJ 
+arrangements_NN2 with_IW the_AT Intermediate_JJ Unit_NN1 ._. 
+For_RR41 the_RR42 most_RR43 part_RR44 ,_, this_DD1 procedure_NN1 has_VHZ 
+been_VBN followed_VVN for_IF all_DB mentally_RR retarded_JJ students_NN2 ,_, 
+except_CS those_DD2 in_II state_NN1 schools_NN2 and_CC hospitals_NN2 ._. 
+For_IF state_NN1 school_NN1 students_NN2 the_AT Department_NN1 of_IO 
+Education_NN1 circumvented_VVD the_AT School_NN1 Code_NN1 with_IW 
+interdepartmental_JJ agreement_NN1 ._. 
+I_PPIS1 am_VBM now_RT questioning_VVG the_AT legality_NN1 of_IO certain_JJ 
+provisions_NN2 of_IO this_DD1 action_NN1 ._. 
+The_AT interdepartmental_JJ agreement_NN1 ,_, reached_VVN with_IW the_AT 
+Department_NN1 of_IO Public_JJ Welfare_NN1 ,_, placed_VVN the_AT 
+responsibility_NN1 for_IF educating_VVG the_AT state_NN1 school_NN1 and_CC 
+hospital_NN1 students_NN2 on_II the_AT I.U._NP1 Because_CS the_AT I.U._NP1 
+operates_VVZ with_IW serious_JJ constraints_NN2 ,_, the_AT effect_NN1 of_IO 
+this_DD1 agreement_NN1 has_VHZ been_VBN discriminatory_JJ ._. 
+Unlike_II a_AT1 local_JJ School_NN1 District_NN1 ,_, the_AT Intermediate_JJ 
+Unit_NN1 does_VDZ not_XX have_VHI the_AT power_NN1 to_TO tax_VVI nor_CC 
+does_VDZ it_PPH1 have_VHI the_AT authority_NN1 to_TO construct_VVI 
+classroom_NN1 facilities_NN2 ._. 
+Consequently_RR ,_, now_RT three_MC years_NNT2 after_II the_AT Consent_NN1 
+Agreement_NN1 was_VBDZ signed_VVN ,_, the_AT majority_NN1 of_IO state_NN1 
+school_NN1 students_NN2 are_VBR not_XX receiving_VVG an_AT1 appropriate_JJ 
+program_NN1 of_IO education_NN1 and_CC training_NN1 ._. 
+It_PPH1 is_VBZ acknowledged_VVN by_II all_DB that_CST the_AT lack_NN1 of_IO 
+classroom_NN1 space_NN1 is_VBZ the_AT most_RGT serious_JJ problem_NN1 ._. 
+I.U._NP1 personnel_NN2 have_VH0 not_XX been_VBN able_JK to_TO solve_VVI the_AT 
+space_NN1 problem_NN1 ._. 
+Their_APPGE failure_NN1 is_VBZ not_XX due_II21 to_II22 a_AT1 lack_NN1 of_IO 
+commitment_NN1 ,_, but_CCB to_II a_AT1 lack_NN1 of_IO authority_NN1 ._. 
+The_AT Intermediate_JJ Unit_NN1 is_VBZ trying_VVG to_TO meet_VVI a_AT1 
+School_NN1 District_NN1 responsibility_NN1 without_IW the_AT capabilities_NN2 
+and_CC authority_NN1 accorded_VVN a_AT1 local_JJ School_NN1 District_NN1 ._. 
+Consequently_RR ,_, the_AT institutionalized_JJ mentally_RR retarded_JJ 
+are_VBR not_XX accorded_VVN equal_JJ treatment_NN1 under_II the_AT School_NN1 
+Code_NN1 Lacking_VVG authority_NN1 to_TO implement_VVI ,_, their_APPGE 
+mandate_NN1 ,_, the_AT Intermediate_JJ Units_NN2 in_II some_DD instances_NN2 
+have_VH0 had_VHN to_TO propose_VVI that_CST the_AT Department_NN1 of_IO 
+Publ_NP1 ic_JJ Wei_NN2 fare_VV0 allow_VV0 for_IF the_AT construction_NN1 of_IO 
+classrooms_NN2 on_II the_AT grounds_NN2 of_IO the_AT State_NN1 Schools_NN2 
+and_CC Hospitals_NN2 for_IF the_AT purpose_NN1 of_IO lease_NN1 to_II the_AT 
+Intermediate_JJ Unit_NN1 ._. 
+In_II two_MC instances_NN2 ,_, Hamburg_NP1 and_CC White_JJ Haven_NN1 ,_, 
+th_NNU John_NP1 F._NP1 Hagele_NP1 ,_, Esquire_NN1 -2-_NN1 -_- April_NPM1 21_MC 
+,_, 197_MC I_MC1 Secretary_NN1 of_IO Education_NN1 ,_, John_NP1 Pittenger_NP1 
+,_, has_VHZ concurred_VVN ._. 
+This_DD1 concurrence_NN1 was_VBDZ given_VVN in_II31 spite_II32 of_II33 the_AT 
+Departments_NN2 affirmation_NN1 that_CST this_DD1 solution_NN1 is_VBZ the_AT 
+least_RGT desirable_JJ option_NN1 for_IF the_AT education_NN1 of_IO state_NN1 
+school_NN1 students_NN2 ._. 
+Furthermore_RR ,_, this_DD1 concurrence_NN1 raises_VVZ the_AT further_JJR 
+question-_NN1 of_IO possible_JJ non-compliance_NN1 with_IW Department_NN1 
+'s_GE assurances_NN2 to_II the_AT Federal_JJ Government_NN1 under_II Part_NN1 
+"_" B_ZZ1 "_" of_IO the_AT Education_NN1 of_IO the_AT Handicapped_JJ Act_NN1 
+._. 
+These_DD2 assurances_NN2 quote_VV0 the_AT School_NN1 Code_NN1 citing_VVG 
+the_AT responsibility_NN1 of_IO the_AT local_JJ School_NN1 District_NN1 to_TO 
+educate_VVI all_DB handicapped_JJ students_NN2 and_CC furthermore_RR ,_, 
+states_VVZ that_CST this_DD1 education_NN1 shall_VM occur_VVI in_II the_AT 
+least_RGT restrictive_JJ setting_NN1 We_PPIS2 are_VBR opposed_VVN to_II the_AT 
+classrooms_NN2 being_VBG constructed_VVN on_II the_AT grounds_NN2 of_IO the_AT 
+state_NN1 schools_NN2 and_CC hospitals_NN2 ._. 
+Such_DA plans_NN2 are_VBR the_AT results_NN2 of_IO a_AT1 faulty_JJ 
+planning_NN1 process-_NN1 ,_, it_PPH1 is_VBZ not_XX the_AT least_RGT 
+restrictive_JJ setting_NN1 ,_, and_CC we_PPIS2 are_VBR appalled_VVN at_II 
+the_AT failure_NN1 to_II date_NN1 to_TO provide_VVI these_DD2 students_NN2 
+with_IW an_AT1 appropriate_JJ program_NN1 of_IO education_NN1 and_CC 
+training_NN1 We_PPIS2 request_VV0 that_CST the_AT Department_NN1 of_IO 
+Education_NN1 communicate_VV0 with_IW the_AT School_NN1 Districts_NN2 ,_, 
+where_CS state_NN1 schools_NN2 and_CC hospitals_NN2 are_VBR located_VVN ,_, 
+and_CC facilitate_VV0 these_DD2 Districts_NN2 to_TO meet_VVI their_APPGE 
+legal_JJ responsibility_NN1 and_CC to_TO speedily_RR implement_VVI the_AT 
+provisions_NN2 of_IO the_AT School_NN1 Code_NN1 ._. 
+If_CS the_AT SchoolDistricts_NN2 fail_VV0 to_TO comply_VVI ,_, then_RT in_II31 
+accordance_II32 with_II33 paragraph_NN1 51_MC of_IO the_AT Consent_NN1 
+Agreement_NN1 ,_, we_PPIS2 request_VV0 "_" ..._... the_AT Secretary_NN1 of_IO 
+Education_NN1 ,_, pursuant_II21 to_II22 section_NN1 13.72_MC (_( 5_MC )_) 
+of_IO the_AT Public_JJ School_NN1 Code_NN1 of_IO 1949_MC ,_, 24_MC PURD_NP1 
+._. 
+STAT._NP1 13.72_MC (_( 5_MC )_) ,_, shall_VM directly_RR provide_VVI ,_, 
+maintain_VV0 ,_, administer_VV0 ,_, supervise_VV0 ,_, and_CC operate_VV0 
+programs_NN2 for_IF the_AT evaluation_NN1 of_IO these_DD2 children_NN2 "_" 
+Jack_NP1 ,_, I_PPIS1 am_VBM requesting_VVG a_AT1 legal_JJ review_NN1 of_IO 
+the_AT opinions_NN2 expressed_VVN in_II this_DD1 letter_NN1 ,_, and_CC 
+legal_JJ advise_VV0 as_II21 to_II22 what_DDQ steps_VVZ to_TO follow_VVI to_TO 
+remedy_VVI the_AT non-compliance_NN1 that_CST currently_RR exists_VVZ and_CC 
+the_AT worsening_JJ non-compliance_NN1 that_CST will_VM result_VVI when_RRQ 
+state_NN1 school_NN1 and_CC hospital_NN1 students_NN2 are_VBR actually_RR 
+assigned_VVN to_II the_AT classrooms_NN2 currently_RR proposed_VVN 
+Sincerely_RR Roger_NP1 E._NP1 'Buchanan_NN1 ,_, Chairman_NN1 Right_NN1 to_II 
+Education_NN1 Committe_NN1 cc_NNU :_: Frank_NP1 S._NP1 Bea_NP1 John_NP1 C._NP1 
+Pittenge_NP1 Mil_NN1 ton_NNU1 J._NP1 Shap_NP1 Edwin_NP1 Marti_NP1 Robert_NP1 
+Raine_NP1 Robert_NP1 Nage_NP1 Judge_VV0 Barbierri_JJ jxuperintendents_NN2 
+of_IO St.Sch._NP1 &Hosp. rectors_NN2 of_IO I._NP1 U._NP1 ident_NN1 of_IO 
+St.Sch_NP1 ._. 
+&; Hosp_VV0 ._. 
+Parent_NN1 Assoc_NN1 State_NN1 Task_NN1 Force_NN1 on_II Right_NN1 to_II 
+Educatio_NP1 Chairmen_NN2 of_IO Local_NN1 Task_NN1 Forces_NN2 on_II Right_NN1 
+to_II Educatio_NP1 P.A.R.C_NP1 ._. 
+Committees_NN2 ,_, Regional_JJ V.P.s_NP2 ,_, and_CC staff_VV0 
+--4cc469ed2908ae6ba90c99c0c3081f7f--_FU 

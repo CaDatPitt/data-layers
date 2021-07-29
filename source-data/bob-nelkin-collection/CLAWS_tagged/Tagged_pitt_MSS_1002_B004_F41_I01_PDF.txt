@@ -1,0 +1,38 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC telephone_NN1 :_: (_( 412_MC )_) 
+322-600_MCMC PAR_NP1 VIRGINIA_NP1 J._NP1 THORNBURG_NP1 Chapter_NN1 
+Presiden_NP1 RONALD_NP1 E._NP1 ARCHE_NP1 Executive_NN1 Directo_NN1 April_NPM1 
+17_MC ,_, 197_MC TO_II :_: Bob_NP1 Nelki_NP1 Doug_NP1 Spence_NP1 FROM_II :_: 
+Ronald_NP1 Arche_NP1 RE_NP1 :_: Recent_JJ death_NN1 at_II Pol_NP1 The_AT 
+Franklin_NP1 Paper_NN1 contained_VVD a_AT1 very_RG small_JJ article_NN1 
+regarding_II the_AT death_NN1 of_IO Carl_NP1 Fisher_NP1 ._. 
+Also_RR ,_, Diane_NP1 Philips_NP1 from_II the_AT state_NN1 office_NN1 
+called_VVN with_IW some_DD information_NN1 she_PPHS1 was_VBDZ able_JK to_TO 
+gather_VVI re_II the_AT death_NN1 Carl_NP1 was_VBDZ 64_MC years_NNT2 old_JJ 
+and_CC moderately_RR retarded_JJ About_RG 1:30_MC p.m._RA ,_, Monday_NPD1 
+afternoon_NNT1 ,_, April_NPM1 14th_MD ,_, it_PPH1 was_VBDZ noticed_VVN 
+that_CST he_PPHS1 was_VBDZ missing_VVG from_II his_APPGE residence_NN1 in_II 
+Hillcrest_NP1 Cottage_NN1 ._. 
+He_PPHS1 did_VDD not_XX return_VVI there_RL after_II lunch_NN1 ._. 
+Polk_NP1 staff_NN ,_, Polk_NP1 security_NN1 and_CC eventually_RR the_AT 
+state_NN1 police_NN2 joined_VVN in_II the_AT search_NN1 for_IF him_PPHO1 ._. 
+He_PPHS1 was_VBDZ found_VVN at_II 2:30_MC p.m._RA ,_, Tuesday_NPD1 ,_, 
+April_NPM1 15th_MD ,_, lying_VVG face_VV0 down_RP in_II a_AT1 marshy_JJ 
+area_NN1 either_RR on_RP or_CC near_II the_AT school_NN1 grounds_NN2 ._. 
+An_AT1 autopsy_NN1 was_VBDZ performed_VVN by_II Dr._NNB Griffen_NP1 at_II 
+Franklin_NP1 Hospital_NN1 ._. 
+Complete_JJ results_NN2 are_VBR not_XX yet_RR in_RP ._. 
+The_AT preliminary_JJ indications_NN2 are_VBR that_CST he_PPHS1 suffered_VVD 
+a_AT1 heart_NN1 attack_NN1 Diane_NP1 Philips_NP1 and_CC Marlene_NP1 Burda_NP1 
+are_VBR going_VVGK to_TO pay_VVI an_AT1 unannounced_JJ visit_NN1 to_II 
+Polk_NP1 on_II Friday_NPD1 ,_, April_NPM1 25th_MD I_PPIS1 would_VM like_VVI 
+either_RR or_CC both_DB2 of_IO you_PPY to_TO follow_VVI up_RP on_II this_DD1 
+to_TO determine_VVI if_CSW any_DD action_NN1 should_VM be_VBI taken_VVN by_II 
+us_PPIO2 ._. 
+Call_VV0 Diane_NP1 if_CS you_PPY secure_VV0 any_DD additional_JJ 
+information_NN1 REA:d_FO MEMBER_NN1 UNIT_NN1 -_- National_JJ Association_NN1 
+for_IF Retarded_JJ Citizens_NN2 ,_, In_II PARTICIPANT_NN1 -_- Allegheny_NP1 
+County_NN1 Mental_JJ Health/_NN1 Mental_JJ Retardation_NN1 Program_NN1 
+--12e0c39614e7b8e14725c592fa08ec8f--_FU 

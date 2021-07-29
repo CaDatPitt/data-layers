@@ -1,0 +1,7 @@
+
+GEEYDOX_NP1 A._NP1 KA_NN1 B._NP1 D._NP1 Brain_NN1 City_NN1 ,_, Pa._NP1 1603_MC 
+208_MC Second_NNT1 St_NP1 EvansCity_NP1 ,_, Pa._NP1 1605_MC April_NPM1 18_MC 
+,_, 197_MC Mrs._NNB Helene_NP1 Wohlgemuth_NP1 ,_, Welfare_NN1 Secretary_NN1 
+Comicnwealth_NN1 of_IO Pennsylvani_JJ Department_NN1 of_IO Public_JJ 
+Welfar_NP1 P._NP1 0_MC ._. 
+Box_NN1 267_MC Harrisburg_NP1 ,_, Pa._NP1 

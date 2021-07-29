@@ -1,0 +1,87 @@
+
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC 
+NORTH_ND1 SECONO_NN1 STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC TE_FW 
+L_NP1 :_: (_( 717_MC )_) 234-262_MCMC L_NP1 STEUART_NP1 BROWN_NP1 Presiden_NP1 
+PETER_NP1 P._NP1 POL_NP1 LON_NP1 Executive_NN1 Directo_NN1 December_NPM1 16_MC 
+,_, 197_MC Donald_NP1 M._NP1 Carroll_NP1 ,_, Jr_NNA Deputy_NN1 Secretary_NN1 
+and_CC Commissioner_NN1 of_IO Basic_NP1 Educatio_NP1 Education_NN1 
+Building_NN1 -_- Room_NN1 333_MC Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC 
+Dear_JJ Commissioner_NP1 Carroll_NP1 We_PPIS2 are_VBR writing_VVG to_TO 
+request_VVI that_CST the_AT agenda_NN1 for_IF the_AT State_NN1 Task_NN1 
+Force_NN1 meeting_VVG on_II January_NPM1 23rd_MD be_VBI expanded_VVN to_TO 
+include_VVI a_AT1 presentation_NN1 by_II the_AT Departments_NN2 of_IO 
+Education_NN1 and_CC Welfare_NN1 on_II building_NN1 and_CC construction_NN1 
+programs_NN2 at_II state_NN1 schools_NN2 and_CC hospitals_NN2 It_PPH1 has_VHZ 
+come_VVN to_II our_APPGE attention_NN1 that_CST building_NN1 construction_NN1 
+programs_NN2 are_VBR at_II the_AT advanced_JJ planning_NN1 stage_NN1 for_IF 
+several_DA2 of_IO the_AT state_NN1 schools_NN2 ._. 
+We_PPIS2 are_VBR alarmed_VVN and_CC opposed_VVN to_II what_DDQ we_PPIS2 
+hear_VV0 and_CC feel_VV0 that_DD1 P.A.R.C_NP1 ._. 
+deserves_VVZ an_AT1 explanation_NN1 for_IF this_DD1 state-wide_JJ movement_NN1 
+Our_APPGE opposition_NN1 to_II the_AT rumors_NN2 and_CC partial_JJ 
+disclosures_NN2 is_VBZ twofold_RR ._. 
+First_MD of_IO all_DB ,_, the_AT construction_NN1 of_IO educational_JJ 
+facilities_NN2 at_II state_NN1 schools_NN2 and_CC hospitals_NN2 represents_VVZ 
+a_AT1 reinstitutionalization_NN1 that_CST is_VBZ counter-productive_JJ to_II 
+the_AT accepted_JJ goals_NN2 of_IO deinstitutionalization_NN1 and_CC 
+normalization_NN1 ._. 
+There_EX seems_VVZ to_TO be_VBI an_AT1 erroneous_JJ assumption_NN1 that_CST 
+profoundly_RR retarded_JJ and_CC multiply_VV0 handicapped_JJ students_NN2 
+can_VM not_XX be_VBI transported_VVN to_II a_AT1 community_NN1 school_NN1 
+or_CC that_DD1 such_DA transportation_NN1 is_VBZ not_XX beneficial_JJ ._. 
+We_PPIS2 suggest_VV0 that_CST where_CS transportation_NN1 has_VHZ been_VBN 
+attempted_VVN that_CST it_PPH1 is_VBZ both_RR feasible_JJ and_CC beneficial_JJ 
+And_CC second_NNT1 ,_, the_AT construction_NN1 of_IO education_NN1 
+facilities_NN2 at_II state_NN1 schools_NN2 and_CC hospitals_NN2 should_VM 
+be_VBI reconsidered_VVN in_II light_JJ ot_JJ the_AT Right_NN1 to_II 
+Education_NN1 Consent_NN1 Agreement_NN1 ._. 
+Prior_II21 to_II22 this_DD1 Agreement_NN1 ,_, there_EX was_VBDZ an_AT1 
+administrative_JJ arrangement_NN1 whereby_RRQ residents_NN2 at_II state_NN1 
+schools_NN2 and_CC hospitals_NN2 received_VVD all_DB of_IO their_APPGE 
+services_NN2 including_II education_NN1 from_II a_AT1 staff_NN that_CST 
+had_VHD some_DD accountability_NN1 to_II each_PPX221 other_PPX222 by_II 
+virtue_NN1 of_IO being_VBG accountable_JJ to_II a_AT1 superintendent_NN1 ._. 
+This_DD1 model_NN1 had_VHD all_DB the_AT appearances_NN2 of_IO being_VBG 
+able_JK to_TO provide_VVI a_AT1 coordinated_JJ program_NN1 for_IF all_DB 
+the_AT needs_NN2 of_IO the_AT students_NN2 ,_, but_CCB as_CSA agreed_VVN to_II 
+in_II the_AT Consent_NN1 Agreement_NN1 the_AT existing_JJ administrative_JJ 
+arrangement_NN1 failed_VVD to_TO meet_VVI the_AT educational_JJ needs_NN2 
+of_IO the_AT students_NN2 ._. 
+Now_CS21 that_CS22 the_AT educational_JJ responsibilities_NN2 have_VH0 
+been_VBN assigned_VVN to_II the_AT Intermediate_JJ Unit_NN1 ,_, we_PPIS2 
+expect_VV0 the_AT same_DA degree_NN1 of_IO quality_NN1 of_IO educational_JJ 
+instruction_NN1 curriculum_NN1 development_NN1 and_CC ancillary_JJ 
+services_NN2 for_IF all_DB retarde_NN1 Donald_NP1 M._NP1 Carroll_NP1 ,_, 
+Jr_NNA -2_MC December_NPM1 16_MC ,_, 19_MC 7_MC students_NN2 within_II the_AT 
+Intermediate_JJ Unit_NN1 without_IW regard_NN1 to_TO place_VVI of_IO 
+residence_NN1 ._. 
+By_II building_NN1 classrooms_NN2 at_II the_AT state_NN1 school_NN1 ,_, 
+it_PPH1 would_VM appear_VVI that_CST the_AT old_JJ system_NN1 remains_VVZ 
+the_AT same_DA with_IW the_AT administrative_JJ accountability_NN1 now_RT 
+diffused_VVN and_CC fragmented_JJ ._. 
+We_PPIS2 fear_VV0 that_CST the_AT previous_JJ system_NN1 is_VBZ being_VBG 
+reinstated_VVN with_IW the_AT compounding_JJ problems_NN2 that_CST there_EX 
+is_VBZ no_AT system_NN1 for_IF total_JJ program_NN1 accountability_NN1 ._. 
+Furthermore_RR ,_, by_II building_NN1 classrooms_NN2 at_II the_AT state_NN1 
+school_NN1 a_AT1 practice_NN1 of_IO segregation_NN1 by_II residence_NN1 is_VBZ 
+being_VBG established_VVN as_CSA in_II the_AT Brown_JJ Decision_NN1 ,_, 
+we_PPIS2 would_VM argue_VVI that_CST such_DA separate_JJ but_CCB equal_JJ 
+facilities_NN2 are_VBR not_XX equal_JJ We_PPIS2 have_VH0 tried_VVN to_TO 
+present_VVI our_APPGE position_NN1 briefly_RR and_CC clearly_RR and_CC 
+urge_VV0 that_CST the_AT Departments_NN2 of_IO Education_NN1 and_CC 
+Welfare_NN1 reconsider_VV0 their_APPGE long-range_JJ plans_NN2 for_IF 
+education_NN1 and_CC for_IF the_AT construction_NN1 of_IO educational_JJ 
+facilities_NN2 at_II the_AT state_NN1 schools_NN2 and_CC hospitals_NN2 ._. 
+The_AT opposition_NN1 of_IO the_AT Association_NN1 is_VBZ growing_VVG in_II 
+intensity_NN1 ,_, but_CCB we_PPIS2 are_VBR still_RR hopeful_JJ that_CST 
+we_PPIS2 are_VBR not_XX in_II essential_JJ disaggreement_NN1 and_CC can_VM 
+reach_VVI a_AT1 mutually_RR satisfactory_JJ understanding_NN1 We_PPIS2 
+look_VV0 forward_RL to_II an_AT1 initial_JJ discussion_NN1 of_IO this_DD1 
+matter_NN1 at_II the_AT January_NPM1 23rd_MD meeting_NN1 of_IO the_AT 
+State_NN1 Task_NN1 Force_NN1 ._. 
+We_PPIS2 call_VV0 your_APPGE attention_NN1 to_II the_AT enclosed_JJ 
+letters_NN2 to_II Gary_NP1 Makuch_NP1 and_CC Dr._NNB Daniel_NP1 Rohrbach_NP1 
+concerning_II Hamburg_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 
+Sincerely_RR e_ZZ1 Buchanan_NP1 ,_, Chairma_NP1 Right_NN1 to_II Education_NN1 
+Committe_NP1 Marlene_NP1 Burda_NP1 Chairwoma_NP1 Residential_JJ Services_NN2 
+Committe_NN1 REB:ras_FO Enclosures_NN2 --da149a72e27956411049c45e25b3736f--_FU 

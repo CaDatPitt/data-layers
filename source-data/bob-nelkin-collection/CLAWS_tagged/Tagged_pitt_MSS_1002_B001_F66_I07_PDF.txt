@@ -1,0 +1,28 @@
+
+April_NPM1 28_MC ,_, 197_MC The_AT Honorable_NP1 J._NP1 Shane_NP1 Creamer_NP1 
+Attorney_NN1 General_JJ of_IO Pennsylvania_NP1 238_MC Capitol_NP1 Building_NN1 
+Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC Dear_JJ General_NP1 Creamer_NP1 
+There_EX seems_VVZ to_TO be_VBI some_DD confusion_NN1 about_II the_AT 
+applicability_NN1 of_IO the_AT Department_NN1 of_IO Public_JJ Welfares_NN2 
+lien_JJ law_NN1 as_CSA it_PPH1 affects_VVZ parents_NN2 of_IO children_NN2 
+residing_VVG in_II state_NN1 schools_NN2 and_CC hospitals_NN2 and_CC 
+interim_JJ care_NN1 facilities_NN2 for_IF the_AT mentally_RR retarded_JJ ._. 
+It_PPH1 is_VBZ our_APPGE understanding_NN1 that_CST ,_, when_CS a_AT1 
+parent_NN1 places_VVZ a_AT1 child_NN1 in_II such_DA a_AT1 facility_NN1 ,_, 
+the_AT fee_NN1 to_TO be_VBI charged_VVN is_VBZ set_VVN by_II a_AT1 
+Department_NN1 of_IO Public_JJ Welfare_NN1 formula_NN1 that_CST ,_, at_RR21 
+least_RR22 in_II theory_NN1 ,_, reflects_VVZ the_AT familys_NN2 ability_NN1 
+to_TO pay_VVI We_PPIS2 further_RRR understand_VV0 that_CST the_AT 
+Commonwealth_NN1 can_VM not_XX execute_VVI a_AT1 lien_NN1 against_II the_AT 
+familys_NN2 estate_NN1 to_TO re-claim_VVI any_DD fees_NN2 that_CST the_AT 
+family_NN1 fails_VVZ to_TO pay_VVI ._. 
+The_AT Commonwealths_NN2 inability_NN1 to_TO do_VDI this_DD1 is_VBZ a_AT1 
+result_NN1 of_IO the_AT revocation_NN1 of_IO the_AT lien_JJ law_NN1 by_II 
+the_AT legislature_NN1 in_II either_RR 1965_MC or_CC 1966_MC We_PPIS2 also_RR 
+understand_VV0 that_CST individuals_NN2 who_PNQS were_VBDR placed_VVN in_II 
+state_NN1 schools_NN2 and_CC hospitals_NN2 prior_II21 to_II22 the_AT date_NN1 
+of_IO the_AT revocation_NN1 are_VBR still_RR liable_JJ to_TO have_VHI 
+their_APPGE estates_NN2 attached_VVN to_TO pay_VVI delinquent_JJ fees_NN2 ._. 
+Is_VBZ this_DD1 correct_JJ ?_? 
+Please_RR advise_VV0 us_PPIO2 Best_RRT personal_JJ wishes_NN2 C._NP1 A._NP1 
+Peters_NP Executive_NN1 Director_NN1 --f6a9010fd6e871b0972893a824b89b35--_FU 

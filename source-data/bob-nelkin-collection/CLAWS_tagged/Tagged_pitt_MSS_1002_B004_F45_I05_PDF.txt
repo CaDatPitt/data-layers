@@ -1,0 +1,20 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFARE_NN1 HARRISBUR_NP1 HELENE_NP1 WOHLGEMUTH_NP1 SECRETAR_NP1 May_NPM1 7_MC 
+,_, 197_MC Dear_JJ Mr._NNB and_CC Mrs._NNB Rosenblatt_NP1 During_II recent_JJ 
+weeks_NNT2 the_AT families_NN2 of_IO the_AT residents_NN2 at_II Polk_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 have_VH0 been_VBN worried_VVN by_II 
+a_AT1 variety_NN1 of_IO rumors_NN2 ._. 
+We_PPIS2 know_VV0 this_DD1 is_VBZ natural_JJ during_II a_AT1 change_NN1 in_II 
+leadership_NN1 ,_, but_CCB it_PPH1 is_VBZ unfortunate_JJ because_CS it_PPH1 
+creates_VVZ unnecessary_JJ anxiety_NN1 and_CC alarm_VV0 for_IF you_PPY 
+Therefore_RR ,_, I_PPIS1 hasten_VV0 to_TO assure_VVI you_PPY that_CST 
+our_APPGE uppermost_JJ concern_NN1 is_VBZ for_IF the_AT improved_JJ care_NN1 
+and_CC treatment_NN1 for_IF all_DB Polk_NP1 residents_NN2 We_PPIS2 have_VH0 
+a_AT1 responsibility_NN1 to_TO develop_VVI a_AT1 program_NN1 that_CST will_VM 
+allow_VVI each_DD1 Polk_NP1 resident_NN1 to_TO achieve_VVI his_APPGE 
+greatest_JJT potential_NN1 ._. 
+We_PPIS2 know_VV0 that_DD1 is_VBZ what_DDQ you_PPY ,_, also_RR ,_, want_VV0 
+You_PPY have_VH0 my_APPGE personal_JJ assurances_NN2 that_CST we_PPIS2 
+intend_VV0 to_TO meet_VVI that_DD1 responsibility_NN1 Sincerely_RR ,_, 
+--90dfb5e81f2121065fed9aadbc15c2df--_FU 

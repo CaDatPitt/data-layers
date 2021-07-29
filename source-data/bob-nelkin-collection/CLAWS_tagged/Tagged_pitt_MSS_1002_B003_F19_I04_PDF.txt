@@ -1,0 +1,153 @@
+
+WESTERN_JJ STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 /tr_JJ JOINT_JJ 
+VISITATION_NN1 TEAM_NN1 y_ZZ1 '_GE -_- Thursday_NPD1 ,_, March_NPM1 I_MC1 ,_, 
+197_MC I_ZZ1 4_MC ,_, '_GE ._. 
+I_PPIS1 The_AT visitation_NN1 team_NN1 consisted_VVN of_IO two_MC 
+representatives_NN2 from_II each_DD1 of_IO these_DD2 groups_NN2 :_: 
+W.S.S.H._NP1 Parents_NN2 Group_NN1 ;_; W.S.S.H_NP1 Board_NN1 of_IO 
+Trustees_NN2 ;_; and_CC Allegheny_NP1 County_NN1 Chapter_NN1 ,_, P.A.R.C_NP1 
+._. 
+Members_NN2 of_IO the_AT team_NN1 were_VBDR :_: Parents_NN2 group_NN1 (_( 
+Jack_NP1 McLain_NP1 ,_, Harry_NP1 Goldberg_NP1 ;_; Trustees_NN2 (_( Angela_NP1 
+Zondos_NP1 ,_, Lew_NP1 Doughton_NP1 )_) ;_; ACC-PARC_NP1 (_( Bob_NP1 
+Nelkin_NP1 ,_, Ginny_NP1 Thornburgh_NP1 )_) QUIET_JJ ROOM_NN1 We_PPIS2 
+observed_VVD that_CST three_MC (_( 3_MC )_) quiet_JJ rooms_NN2 were_VBDR 
+occupied_VVN by_II residents_NN2 ._. 
+One_MC1 resident_NN1 overturned_VVD dining_NN1 room_NN1 tables_NN2 ._. 
+One_MC1 fellow_NN1 was_VBDZ restless_JJ ._. 
+According_II21 to_II22 the_AT LPN_NP1 ,_, this_DD1 might_VM have_VHI been_VBN 
+due_II21 to_II22 a_AT1 toothache_NN1 ._. 
+The_AT third_MD resident_NN1 hit_VVD an_AT1 attendant_NN1 at_II 7:30_MC 
+A.M._RA Thursday_NPD1 morning_NNT1 The_AT third_MD fellow_NN1 was_VBDZ 
+ordered_VVN to_II the_AT quiet_JJ room_NN1 by_II a_AT1 physician_NN1 ._. 
+A_AT1 time_NNT1 check_NN1 was_VBDZ posted_VVN ._. 
+This_DD1 meant_VVD a_AT1 staff_NN person_NN1 observed_VVD the_AT resident_NN1 
+at_RR21 least_RR22 every_AT1 half_DB hour_NNT1 and_CC initialed_VVD the_AT 
+chart_NN1 ._. 
+The_AT physicians_NN2 order_NN1 and_CC time_NNT1 check_NN1 were_VBDR not_XX 
+applied_VVN to_II the_AT other_JJ two_MC residents_NN2 QUESTION_VV0 1_MC1 ._. 
+What_DDQ are_VBR the_AT "_" quiet_JJ room_NN1 "_" procedures_NN2 2_MC ._. 
+What_DDQ are_VBR the_AT purposes_NN2 of_IO the_AT "_" quiet_JJ room_NN1 "_" 
+3_MC ._. 
+What_DDQ are_VBR the_AT alternatives_NN2 (_( to_II the_AT "_" quiet_JJ 
+room_NN1 "_" )_) currently_RR available_JJ to_II the_AT staff_NN 4_MC ._. 
+When_RRQ is_VBZ the_AT "_" physicians_NN2 order_NN1 "_" required_VVN 5_MC ._. 
+When_RRQ is_VBZ the_AT "_" time_NNT1 check_NN1 form_NN1 "_" required_VVN 6_MC 
+._. 
+When_RRQ is_VBZ a_AT1 bed_NN1 or_CC mat_NN1 required_VVN in_II the_AT "_" 
+quiet_JJ room_NN1 "_" I_PPIS1 SPRUCE_VV0 I_PPIS1 -_- "_" TOTAL_JJ CARE_NN1 
+There_EX was_VBDZ not_XX enough_DD staff_NN to_TO take_VVI care_NN1 of_IO 
+the_AT basic_JJ needs_NN2 of_IO the_AT children_NN2 The_AT children_NN2 
+appeared_VVD clean_JJ ._. 
+They_PPHS2 were_VBDR wearing_VVG clean_JJ jerseys_NN2 ._. 
+The_AT staff_NN seemed_VVD sincerely_RR interested_JJ in_II the_AT 
+children_NN2 Because_II21 of_II22 the_AT under-staffing_NN1 ,_, the_AT 
+children_NN2 were_VBDR given_VVN little_RR personal_JJ attention_NN1 ._. 
+If_CS there_EX were_VBDR more_DAR staff_NN ,_, then_RT some_DD of_IO these_DD2 
+situations_NN2 might_VM not_XX occur_VVI :_: (_( a_ZZ1 )_) a_AT1 childs_NN2 
+face_VV0 lying_VVG in_II a_AT1 pool_NN1 of_IO saliva_NN1 ;_; (_( b_ZZ1 )_) 
+children_NN2 lying_VVG in_II wet_JJ diapers_NN2 ;_; (_( c_ZZ1 )_) a_AT1 
+child_NN1 licking_VVG leftover_JJ food_NN1 off_II his_APPGE mat_NN1 cover_NN1 
+;_; (_( d_ZZ1 )_) a_AT1 child_NN1 waiting_VVG to_TO be_VBI straightened_VVN 
+In_II her_APPGE wheelchair_NN1 QUESTION_NN1 -*_FO ?_? l_ZZ1 ._. 
+Are_VBR additional_JJ personnel_NN2 added_VVN during_II meal_NN1 times_II 2_MC 
+._. 
+Has_VHZ staff_NN considered_VVN alternatives_NN2 to_II the_AT blearing_JJ 
+television_NN1 3_MC ._. 
+Would_VM a_AT1 variety_NN1 of_IO stimulating_JJ music_NN1 benefit_VV0 the_AT 
+children_NN2 more_RRR than_CSN TV_NN1 4_MC ._. 
+What_DDQ is_VBZ the_AT current_JJ status_NN1 of_IO WSSHs_NP1 foster_JJ 
+grandparent_NN1 program_NN1 5_MC ._. 
+What_DDQ is_VBZ the_AT impact_NN1 of_IO volunteers_NN2 on_II Spruce_NP1 
+residents_NN2 6_MC ._. 
+Has_VHZ Cynthia_NP1 Cunninghams_NP2 placement_NN1 on_II this_DD1 unit_NN1 
+been_VBN evaluated_VVN recently_RR JOINT_JJ VISITATION_NN1 TEAM_NN1 -_- 
+Page_NP1 SPRUCE_NP1 There_EX was_VBDZ one_MC1 staff_NN member_NN1 for_IF 43_MC 
+residents_NN2 ._. 
+The_AT residents_NN2 were_VBDR enthusiastic_JJ to_TO see_VVI visitors_NN2 ._. 
+They_PPHS2 shared_VVD their_APPGE pictures_NN2 ,_, radios_NN2 and_CC mail_NN1 
+with_IW the_AT team_NN1 ._. 
+The_AT team_NN1 was_VBDZ pleased_VVN that_CST many_DA2 residents_NN2 were_VBDR 
+scheduled_VVN for_IF a_AT1 recreational_JJ program_NN1 this_DD1 evening_NNT1 
+QUESTION_NN1 1_MC1 ._. 
+Could_VM a_AT1 program_NN1 be_VBI established_VVN to_TO insure_VVI mail_NN1 
+for_IF the_AT fellows_NN2 2_MC ._. 
+Can_VV0 the_AT practice_NN1 of_IO posting_VVG photographs_NN2 of_IO the_AT 
+residents_NN2 be_VBI encouraged_VVN on_II other_JJ units_NN2 3_MC ._. 
+Are_VBR there_RL more_DAR comfortable_JJ alternatives_NN2 to_II the_AT 
+wooden_JJ benches_NN2 in_II the_AT day_NNT1 room_NN1 4_MC ._. 
+Why_RRQ are_VBR there_RL few_DA2 personal_JJ possessions_NN2 in_II the_AT 
+bedrooms_NN2 and_CC day_NNT1 room_NN1 5_MC ._. 
+Why_RRQ are_VBR some_DD bedroom_NN1 doors_NN2 locked_VVD 6_MC ._. 
+What_DDQ are_VBR the_AT dangers_NN2 of_IO having_VHG only_RR one_MC1 
+attendant_NN1 on_II this_DD1 unit_NN1 7_MC ._. 
+Would_VM there_EX be_VBI advantages_NN2 to_II having_VHG a_AT1 male_JJ 
+attendant_JJ SPRUCE_NN1 Again_RT the_AT attendants_NN2 seemed_VVD to_TO be_VBI 
+doing_VDG their_APPGE work_NN1 well_RR ._. 
+Few_DA2 residents_NN2 were_VBDR at_II programs_NN2 off_II the_AT unit_NN1 
+The_AT visitation_NN1 team_NN1 was_VBDZ distressed_VVN about_II this_DD1 
+unit_NN1 ._. 
+But_CCB the_AT team_NN1 could_VM not_XX define_VVI the_AT reasons_NN2 for_IF 
+this_DD1 feeling_NN1 ._. 
+Possible_JJ reasons_NN2 included_VVD :_: the_AT adult_NN1 age_NN1 of_IO 
+some_DD residents_NN2 ;_; lack_NN1 of_IO programming_VVG that_DD1 evening_NNT1 
+;_; the_AT mixture_NN1 of_IO residents_NN2 ages_NN2 ;_; or_CC our_APPGE 
+impressions_NN2 of_IO lonely_JJ people_NN ._. 
+The_AT team_NN1 did_VDD not_XX conceive_VVI that_CST the_AT problem_NN1 
+was_VBDZ a_AT1 fault_NN1 of_IO the_AT units_NN2 attendants_NN2 QUESTION_VV0 
+1_MC1 ._. 
+Has_VHZ the_AT staff_NN ever_RR had_VHN similar_JJ concerns_NN2 about_II 
+Spruce_NP1 3_MC 2_MC ._. 
+What_DDQ is_VBZ the_AT impact_NN1 of_IO volunteers_NN2 on_II the_AT units_NN2 
+residents_NN2 SPRUCE_VV0 4_MC -_- School_NN1 Boys_NN2 The_AT team_NN1 was_VBDZ 
+impressed_VVN by_II some_DD of_IO the_AT incentives_NN2 ._. 
+The_AT captains_NN2 bedroom_NN1 appeared_VVD to_TO be_VBI something_PN1 
+special_JJ ._. 
+The_AT boys_NN2 really_RR greeted_VVD the_AT visitors_NN2 enthusiastically_RR 
+._. 
+Are_VBR you_PPY volunteer_VV0 ?_? 
+Some_DD residents_NN2 were_VBDR off_II the_AT unit_NN1 at_II a_AT1 cub_NN1 
+scout_NN1 program_NN1 The_AT team_NN1 felt_VVD the_AT environment_NN1 was_VBDZ 
+drab_JJ ._. 
+There_EX was_VBDZ a_AT1 lack_NN1 of_IO stimulating_JJ toys_NN2 ,_, 
+pictures_NN2 on_II the_AT walls_NN2 ,_, and.comfortabIe_NNU furniture_NN1 
+QUESTION_NN1 1_MC1 ._. 
+Is_VBZ there_EX a_AT1 policy_NN1 about_II leaving_VVG the_AT children_NN2 
+in_II the_AT day_NNT1 room_NN1 unattended_JJ 2_MC ._. 
+Can_VM there_EX be_VBI more_RGR stimulating_JJ leisure_NN1 time_NNT1 
+equipment_NN1 than_CSN the_AT t.v._NNU 3_MC ._. 
+Would_VM cage_NN1 balls_NN2 ,_, punching_VVG bags_NN2 ,_, beach_NN1 balls_NN2 
+,_, record_NN1 players_NN2 ,_, hockey_NN1 games_NN2 ,_, and_RR31 so_RR32 
+forth_RR33 ,_, be_VBI appropriate_JJ 4_MC ._. 
+Can_VM thereAbe_VVI a_AT1 more_RGR homelike_JJ setting_NN1 for_IF these_DD2 
+fellows_NN2 while_CS theyre_NN1 ._. at_II WSSH_NP1 5_MC ._. 
+What_DDQ is_VBZ the_AT impact_NN1 of_IO volunteers_NN2 on_II Spruce_NP1 4s_MC2 
+residents_NN2 JOiNT_JJ VISITATION_NN1 TEAM_NN1 -_- Page_NN1 GENERAL_NN1 
+COMMENT_NN1 1_MC1 ._. 
+The_AT team_NN1 appreciates_VVZ the_AT concern_NN1 and_CC efforts_NN2 of_IO 
+the_AT staff_NN ._. 
+They_PPHS2 are_VBR doing_VDG a_AT1 fine_JJ job_NN1 under_II impossible_JJ 
+conditions_NN2 ._. 
+We_PPIS2 particularly_RR appreciate_VV0 the_AT concern_NN1 ,_, effort_NN1 
+and_CC frankness_NN1 of_IO Rose_NP1 Porcaro_NP1 2_MC ._. 
+We_PPIS2 did_VDD not_XX observe_VVI many_DA2 residents_NN2 outside_RL 
+before_RT or_CC after_II dinner_NN1 ._. 
+Are_VBR staff_NN encouraged_VVD to_TO allow_VVI residents_NN2 into_II play_NN1 
+yards_NN2 3_MC ._. 
+Has_VHZ the_AT superintendent_NN1 reviewed_VVN the_AT impact_NN1 of_IO the_AT 
+volunteer_NN1 progra_NN1 '_GE ._. 
+recently_RR ?_? 
+Is_VBZ a_AT1 report_NN1 available_JJ to_II the_AT visitation_NN1 team_NN1 
+GONVERSATWN_NN1 OF_IO VISITATION_NN1 TEAM_NN1 The_AT parents_NN2 group_NN1 (_( 
+March_NPM1 I_MC1 I_ZZ1 th_NNU )_) Board_NN1 of_IO Trustees_NN2 (_( March_NPM1 
+19th_MD )_) and_CC ACC-PARC_NP1 Board_NN1 (_( March_NPM1 20th_MD )_) will_VM 
+be_VBI encouraged_VVN to_TO extend_VVI this_DD1 visitation_NN1 process_NN1 ,_, 
+without_IW change_NN1 ,_, to_II a_AT1 long_JJ term_NN1 agreement_NN1 This_DD1 
+report_NN1 is_VBZ made_VVN directly_RR to_II the_AT superintendent_NN1 ._. 
+Visitation_NN1 team_NN1 members_NN2 are_VBR the_AT only_JJ members_NN2 of_IO 
+the_AT board_NN1 ,_, parents_NN2 ,_, or_CC ACC-PARC_NP1 to_TO receive_VVI 
+this_DD1 report_NN1 ._. 
+As_CSA concerns_NN2 and_CC questions_NN2 are_VBR resolved_VVN or_CC 
+answered_VVD ,_, they_PPHS2 will_VM be_VBI communicated_VVN to_II the_AT 
+membership_NN1 of_IO the_AT three_MC groups_NN2 v_ZZ1 I_ZZ1 
+--667613ed3e63a7fe94bd85bc930ad6f7--_FU 

@@ -1,0 +1,1705 @@
+
+No._NN1 81-210_MCMC IN_II TH_NP1 Supreme_JJ Court_NN1 of_IO the_AT United_JJ 
+State_NN1 October_NPM1 Term_NN1 ,_, 198_MC PENNHURST_NP1 STATE_NN1 SCHOOL_NN1 
+AND_CC HOSPITAL_NN1 ,_, et_RA21 al_RA22 ._. 
+Petitioner_NN1 v_II TERRI_NP1 LEE_NP1 HALDERMAN_NP1 ,_, et_RA21 al._RA22 ,_, 
+PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CITIZENS_NN2 ,_, et_RA21 
+al_RA22 ,_, and_CC UNITED_NP1 STATES_NP1 OF_IO AMERICA_NP1 Respondent_NN1 
+On_II Writ_NN1 of_IO Certiorari_NN1 to_II the_AT United_NP1 States_NP1 
+Court_NN1 of_IO Appeals_NN2 for_IF the_AT Third_MD Circui_JJ BRIEF_NN1 OF_IO 
+RESPONDENTS_NN2 PARC_NP1 ET_RA21 AL_RA22 Thomas_NP1 K._NP1 GilhoolJ_NP1 
+Frank_NP1 J._NP1 Laski_NP1 Michael_NP1 Churchill_NP1 Public_JJ Interest_NN1 
+Law_NN1 Center_NN1 o_ZZ1 1315_MC Walnut_NP1 Street_NNL1 ,_, Suite_NN1 1632_MC 
+Philadelphia_NP1 ,_, PA_NN1 19107_MC (_( 215_MC )_) 735-720_MCMC Counsel_NN1 
+for_IF Respondents_NN2 PARC_NP1 et_RA21 al_RA22 November_NPM1 15_MC ,_, 
+1982_MC Counsel_NN1 of_IO Recor_NP1 International_JJ Printing_NN1 Co._NN1 ,_, 
+711_MC So_RR ._. 
+50th_MD St._NP1 ,_, Phila._NP1 ,_, Pa._NP1 19143_MC Tsi._NP1 (_( 215_MC )_) 
+727-871_MCMC QUESTION_NN1 PRESENTE_NN1 1_MC1 ._. 
+Whether_CSW Siler_NP1 v._II Louisville_NP1 &; Nashville_NP1 R._NP1 Co._NP1 
+,_, 213_MC U._NP1 S._NP1 175_MC (_( 1909_MC )_) should_VM be_VBI overruled_VVN 
+and_CC the_AT settled_JJ rule_NN1 of_IO Ex_JJ21 parte_JJ22 young_JJ ,_, 209_MC 
+U._NP1 S._NP1 123_MC (_( 1908_MC )_) abrogated_VVD with_II31 respect_II32 
+to_II33 pendent_JJ state_NN1 law_NN1 claims_NN2 ,_, denying_VVG Article_NN1 
+III_MC courts_VVZ the_AT power_NN1 to_TO enjoin_VVI state_NN1 officials_NN2 
+for_IF continuing_JJ violations_NN2 of_IO their_APPGE citizens_NN2 
+undoubted_JJ state_NN1 statutory_JJ rights_NN2 even_RR where_CS the_AT 
+federal_JJ claim_NN1 is_VBZ substantial_JJ and_CC the_AT state_NN1 statute_NN1 
+incorporates_VVZ an_AT1 important_JJ national_JJ objective_NN1 2_MC ._. 
+Whether_CSW the_AT March_NPM1 17_MC ,_, 1978_MC order_NN1 appointing_VVG a_AT1 
+master_NN1 to_TO assist_VVI the_AT court_NN1 in_II planning_NN1 and_CC 
+monitoring_VVG implementation_NN1 of_IO its_APPGE injunctive_JJ orders_NN2 
+was_VBDZ proper_JJ and_CC unexceptional_JJ when_CS made_VVN ,_, fully_RR 
+in_II31 accord_II32 with_II33 state_NN1 law_NN1 ,_, and_CC is_VBZ now_RT 
+moot_VV0 (_( i_MC1 TABLE_NN1 OF_IO AUTHORITIE_NN1 Cases_NN2 Pag_VV0 
+Aldinger_NP1 v._II Howard_NP1 ,_, 427_MC U._NP1 S._NP1 1_MC1 (_( 1975_MC )_) 
+..................._... 6,7_MC ,_, Ash_NP1 wander_VV0 v._II Tennessee_NP1 
+Valley_NN1 Authority_NN1 ,_, 297_MC U._NP1 S._NP1 28_MC (_( 1936_MC )_) 
+..............................................._... 6,1_MC Bellotti_JJ v._II 
+Baird_NP1 ,_, 428_MC U._NP1 S._NP1 132_MC (_( 1976_MC )_) 
+...................._... 2_MC Bishop_NN1 v._II Wood_NP1 ,_, 426_MC U._NP1 
+S._NP1 341_MC (_( 1976_MC )_) ........................_... 
+Chapman_NP1 v._II Houston_NP1 Welfare_NN1 Rights_NN2 Organization_NN1 ,_, 
+441_MC U._NP1 S_ZZ1 600_MC (_( 1979_MC )_) 
+..........................................._... 15,2_MC Cohens_NP2 v._II 
+Virginia_NP1 ,_, 19_MC U._NP1 S._NP1 (_( 6_MC Wheat._NP1 )_) 264_MC (_( 
+1821_MC )_) ........._... 2_MC Cory_JJ v._II White_NP1 ,_, 102_MC S._NP1 
+Ct_NP1 ._. 
+2325_MC (_( 1982_MC )_) ...................._... 23,2_MC Davis_NP1 v._II 
+Board_NN1 of_IO School_NN1 Commissioners_NN2 of_IO Mobile_NP1 County_NN1 
+402_MC U._NP1 S._NP1 33_MC (_( 1971_MC )_) 
+...................................._... 1_MC1 Edelman_NN1 v._II Jordan_NP1 
+,_, 415_MC U._NP1 S._NP1 651_MC (_( 1974_MC )_) ............_... 12,26,28,2_MC 
+Employees_NN2 v._II Missouri_NP1 Public_JJ Health_NN1 Department_NN1 ,_, 
+411_MC U._NP1 S_ZZ1 279_MC (_( 1973_MC )_) 
+..........................................._... 28,2_MC Ex_JJ21 parte_JJ22 
+Young_NP1 ,_, 209_MC U._NP1 S._NP1 123_MC (_( 1908_MC )_) 
+.................._... i_ZZ1 ,_, 6,10_MC ,_, 2_MC Fair_JJ Assessment_NN1 in_II 
+Real_JJ Estate_NN1 Assn_NN1 ,_, Inc._JJ v._II McNary_NP1 ,_, 10_MC S._NP1 
+Ct_NP1 ._. 
+177_MC (_( 1981_MC )_) ................................._... 16,19,2_MC 
+Florida_NP1 Department_NN1 of_IO Health_NN1 and_CC Rehabilitative_JJ 
+Services_NN2 v_II Florida_NP1 Nursing_NN1 Home_NN1 Association_NN1 ,_, 101_MC 
+S._NP1 Ct_NP1 ._. 
+1032_MC (_( 1981_MC )_) ............................................._... 
+28,29,3_MC Florida_NP1 Department_NN1 of_IO State_NN1 v._II Treasurer_NN1 
+Salvors_NN2 ,_, Inc._JJ ,_, 10_MC S._NP1 Ct_NP1 ._. 
+3304_MC (_( 1982_MC )_) ...................................._... 23,2_MC 
+Gautreux_VV0 v._II Chicago_NP1 Housing_NN1 Authority_NN1 ,_, 384_MC F._NP1 
+Supp._NP1 37_MC (_( N._NP1 D._NP1 Ill._NP1 1974_MC )_) affirmed_VVD 511_MC 
+F._NP1 2d_NNU 82_MC (_( 7th_MD Cir._NP1 1975_MC )_) ._. 
+.31_MC ,_, 3_MC Greene_NP1 v._II Louisville_NP1 &; Interurban_NP1 R._NP1 
+R._NP1 ,_, 244_MC U._NP1 S._NP1 49_MC (_( 1917_MC )_) 
+..........................................._... 10,1_MC Green_JJ v._II 
+County_NN1 School_NN1 Board_NN1 of_IO New_JJ Kent_NP1 County_NN1 ,_, 39_MC 
+U._NP1 S._NP1 340_MC (_( 1968_MC )_) ................................._... 
+1_MC1 Gibson_NP1 v._II Commonwealth_NN1 ,_, 415_MC A._NNU 2d_NNU 80_MC (_( 
+Pa_NP1 ._. 
+Sup_VV0 ._. 
+Ct_NP1 ._. 
+1980_MC )_) 2_MC Hagans_NP2 v._II Lavine_NP1 ,_, 415_MC U._NP1 S._NP1 528_MC 
+(_( 1974_MC )_) ................._... 1_MC1 Halderman_NN1 v._II Pennhurst_NP1 
+State_NN1 School_NN1 &; Hospital_NN1 ,_, 446_MC F_ZZ1 Supp._NP1 1295_MC (_( 
+E._NP1 D._NP1 Pa._NP1 1977_MC )_) ........................_... 1_MC1 (_( iv_MC 
+TABLE_NN1 OF_IO AUTHORITIES_NN2 (_( Continued_JJ Cases_NN2 (_( Continued_JJ 
+)_) Pag_VV0 Halderman_NN1 v._II Pennhurst_NP1 State_NN1 School_NN1 &; 
+Hospital_NN1 ,_, 612_MC F._RA 2_MC 84_MC (_( 3rd_MD Cir._NP1 1979_MC )_) 
+..............................._... 11,3_MC Halderman_NN1 v._II Pennhurst_NP1 
+State_NN1 School_NN1 &; Hospital_NN1 ,_, 673_MC F._RA 2_MC 628_MC (_( 3d_NNU 
+Cir._NP1 1982_MC )_) ................................._... 3_MC Halderman_NN1 
+v._II Pennhurst_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 ,_, 673_MC F._RA 
+2_MC 647_MC (_( 3d_NNU Cir._NP1 1982_MC )_) 
+................................._... 1_MC1 Hans_NP1 v._II Louisiana_NP1 ,_, 
+134_MC U._NP1 S._NP1 1_MC1 (_( 1890_MC )_) ..........._... 4,28,29,3_MC 
+Harris_NP1 County_NN1 Commissioners_NN2 Court_NN1 v._II Moore_NP1 ,_, 420_MC 
+U._NP1 S._NP1 7_MC (_( 1975_MC )_) 
+................................................_... 2_MC Hart_NP1 v._II 
+Community_NN1 School_NN1 Board_NN1 of_IO Brooklyn_NP1 ,_, 383_MC F._NP1 
+Supp._NP1 699_MC (_( E._NP1 D._NP1 N._NP1 Y._NP1 1974_MC )_) affirmed_VVD 
+512_MC F._NP1 2d_NNU 37_MC (_( 2d_NNU Cir._NP1 1975_MC )_) 
+................................................._... 3_MC Hostetter_VV0 v._II 
+Ildewild_NN1 Bon_UH21 Voyage_UH22 Liquor_NN1 Corp._NP1 ,_, 377_MC U._NP1 S_ZZ1 
+324_MC (_( 1964_MC )_) ............................................_... 2_MC 
+Huddleston_NP1 v._II Dwyer_NP1 ,_, 322_MC U._NP1 S._NP1 223_MC (_( 1944_MC )_) 
+.................._... 
+Hurn_VV0 v._II Oursler_NP1 ,_, 289_MC U._NP1 S._NP1 238_MC (_( 1938_MC )_) 
+..................._... 7_MC ,_, Hutchinson_NP1 v._II Proxmire_NP1 ,_, 443_MC 
+U._NP1 S._NP1 Ill_NP1 (_( 1979_MC )_) .............._... 1_MC1 In_II 
+Interest_NN1 of_IO Stover_NP1 ,_, 443_MC A._NNU 2d_NNU 327_MC (_( Pa_NP1 ._. 
+Super_JJ ._. 
+Ct_NP1 ._. 
+1982_MC )_) .._... 9,13,2_MC In_RP re_II Joseph_NP1 Schmidt_NP1 ,_, 429_MC 
+A._NNU 2d_NNU 631_MC (_( 1981_MC )_) ........._... 9,16,22_MC ,_, 2_MC In_RP 
+re_II Joyce_NP1 Z._NP1 ,_, 123_MC Pitt_NP1 ._. 
+L._NP1 J._NP1 181_MC (_( Pa_NP1 ._. 
+Allegh_VV0 ._. 
+Co_NP1 ._. 
+C._NP1 P._NP1 Ct_NP1 1975_MC )_) 
+................................................._... 2_MC In_RP re_II 
+Sauers_NP1 ,_, 447_MC A._NNU 2d_NNU 1132_MC (_( Pa_NP1 ._. 
+Comwlth_NN1 ._. 
+Ct_NP1 ._. 
+1982_MC )_) ...._... 9_MC ,_, 2_MC Jackson_NP1 v._II Hendrick_NP1 ,_, 321_MC 
+A._NNU 2d_NNU 603_MC (_( 1974_MC )_) ................._... 3_MC Louisville_NP1 
+&; Nashville_NP1 R._NP1 R._NP1 v._II Greene_NP1 ,_, 244_MC U._NP1 S._NP1 
+522_MC (_( 1917_MC )_) ._. 
+.10,1_MC Mayle_NP1 v._II Dept_NN1 ,_, of_IO Highways_NN2 ,_, 388_MC A._NNU 
+2d_NNU 709_MC (_( 1978_MC )_) ........_... 26_MC ,_, 2_MC Milliken_JJ v._II 
+Bradley_NP1 ,_, 433_MC U._NP1 S._NP1 267_MC (_( 1977_MC )_) 
+................._... 1_MC1 Mills_NP1 v._II Rogers_NP1 ,_, 50_MC U._NP1 S._NP1 
+L._NP1 W._NP1 4676_MC (_( 1982_MC )_) ............._... 2_MC Mine_NN1 
+Workers_NN2 v._II Gibbs_NP1 ,_, 383_MC U._NP1 S._NP1 175_MC (_( 1966_MC )_) 
+........_... 7_MC ,_, 8,16,1_MC New_NP1 York_NP1 City_NN1 Transit_NN1 
+Authority_NN1 v._II Beazer_NP1 ,_, 440_MC U._NP1 S._NP1 58_MC (_( 1979_MC )_) 
+................................................._... 1_MC1 Osborn_JJ v._II 
+Bank_NN1 of_IO the_AT United_NP1 States_NP1 ,_, 22_MC U._NP1 S._NP1 (_( 9_MC 
+Wheat_NN1 ._. 
+738_MC (_( 1824_MC )_) ............................................._... 
+6,7,1_MC (_( v_ZZ1 TABLE_NN1 OF_IO AUTHORITIES_NN2 (_( Continued_JJ Cases_NN2 
+(_( Continued_JJ )_) :_: PaS_FW Patsy_NP1 v._II Board_NN1 of_IO Regents_NP1 
+of_IO the_AT State_NN1 of_IO Florida_NP1 ,_, 102_MC S._NP1 Ct_NP1 2557_MC (_( 
+1982_MC )_) ................................._... 15,19,23,2_MC Pennhurst_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 v._II Haiderman_NP1 ,_, et_RA21 
+al_RA22 ._. 
+451_MC U._NP1 S._NP1 1_MC1 (_( 1981_MC )_) (_( Pennhurst_NP1 I_ZZ1 )_) ..._... 
+.2_MC ,_, 9,14,17,18_MC ,_, 24_MC ,_, 34_MC ,_, 35_MC Rummel_NP1 v._II 
+Estelle_NP1 ,_, 445_MC U._NP1 S._NP1 263_MC (_( 1980_MC )_) ..........._... 
+Siler_NN1 v._II Louisville_NP1 &; Nashville_NP1 R._NP1 Co._NP1 ,_, 213_MC 
+U._NP1 S._NP1 175_MC (_( 1909_MC i_ZZ1 ,_, 6_MC ,_, 8_MC ,_, 9,10,11_MC ,_, 
+2_MC Spector_NP1 Motor_NN1 Co._NN1 v._II McLaughlin_NP1 ,_, 323_MC U._NP1 
+S._NP1 101_MC (_( 1944_MC )_) ...._... 1_MC1 Spiegels_VVZ Estate_NN1 v._II 
+C._NP1 I._NP1 R._NP1 ,_, 335_MC U._NP1 S._NP1 701_MC (_( 1949_MC )_) 
+......_... 
+Swann_NP1 v._II Charlotte-Mecklenburg_NP1 Board_NN1 of_IO Education_NN1 ,_, 
+40_MC U._NP1 S._NP1 1_MC1 (_( 1971_MC )_) 
+......................................._... 3_MC Watson_NP1 v._II City_NN1 
+of_IO Memphis_NP1 ,_, 373_MC U._NP1 S._NP1 526_MC (_( 1963_MC )_) 
+.........._... 1_MC1 Worchester_NP1 County_NN1 Trust_NN1 Co._NN1 v._II 
+Riley_NP1 ,_, 302_MC U._NP1 S._NP1 292_MC (_( 1937_MC )_) 2_MC Youngberg_NP1 
+v._II Romeo_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+2452_MC (_( 1982_MC )_) (_( Pennhurst_NP1 II_MC 2_MC ,_, 4_MC ,_, 8_MC ,_, 
+3_MC Constitutional_JJ Provisions_NN2 Article_NN1 III_MC 
+............................_... i_ZZ1 ,_, 4,10,11_MC ,_, 20_MC ,_, 22_MC ,_, 
+2_MC Eleventh_MD Amendment_NN1 ........._... 3_MC ,_, 4_MC ,_, 6_MC ,_, 
+7,10,12_MC ,_, 23_MC ,_, 24_MC ,_, 26_MC ,_, 27_MC ,_, 28_MC ,_, 2_MC 
+Fourteenth_MD Amendment_NN1 ..................................._... 2_MC ,_, 
+Statutes_NN2 28_MC U._NP1 S._NP1 C._NP1 1331_MC 
+......................................_... 28_MC U._NP1 S._NP1 C._NP1 1343_MC 
+......................................._... 42_MC U._NP1 S._NP1 C._NP1 1983_MC 
+......................................._... 
+Civil_JJ Rights_NN2 of_IO Institutionalized_JJ Persons_NN2 Act_VV0 ,_, 42_MC 
+U._NP1 S._NP1 C_NP1 1997_MC et_FW seq_FW 
+........................................._... 1_MC1 Developmentally_RR 
+Disabled_JJ Assistance_NN1 and_CC Bill_NN1 of_IO Rights_NN2 Act_VV0 42_MC 
+U._NP1 S._NP1 C._NP1 6000_MC et_NP1 seq._NNU ,_, 6063(b)_FO (_( 7_MC )_) (_( 
+13_MC )_) ........_... 17,2_MC Maternal_JJ and_CC Child_NN1 Health_NN1 and_CC 
+Mental_JJ Retardation_NN1 Plannin_NN1 Amendments_NN2 of_IO 1963_MC ,_, P._NP1 
+L._NP1 68-156_MCMC ,_, 77_MC Stat._NP1 273_MC ......._... 1_MC1 Pa_NN1 ._. 
+Stat_VV0 ._. 
+Annot_VV0 ._. 
+Tit._NP1 50_MC ,_, 4201_MC et_FW seq_FW ..................._... 16,1_MC Pa_NP1 
+._. 
+Const._NP1 ,_, Art_NN1 ._. 
+I_PPIS1 ,_, Sec._NNU 11_MC .............................._... 2_MC 42_MC 
+Pa_NP1 ._. 
+C._NP1 S._NP1 A._NP1 2310_MC ...................................._... 2_MC (_( 
+vi_MC TABLE_NN1 OF_IO AUTHORITIES_NN2 (_( Continued_JJ Miscellaneous_JJ 
+Pag_NP1 C._NP1 E._NP1 Jacobs_NP2 ,_, The_AT Eleventh_MD Amendment_NN1 and_CC 
+Sovereign_JJ Immunity_NN1 (_( 1972_MC )_) 
+................................._... 11_MC ,_, 27_MC ,_, 3_MC L._NP1 G._NP1 
+Sager_NP1 ,_, The_AT Supreme_JJ Court_NN1 ,_, 1980_MC TermForewor_NP1 
+Constitutional_JJ Limitations_NN2 on_II Congress_NN1 Authority_NN1 to_TO 
+Regulate_VV0 the_AT Jurisdiction_NN1 of_IO the_AT Federal_JJ Courts_NN2 ,_, 
+95_MC Harv_NP1 ._. 
+L._NP1 Rev._NNU 17_MC (_( 1981_MC )_) ........................._... 2_MC 
+M._NNO A._NP1 Field_NP1 ,_, The_AT Eleventh_MD Immunity_NN1 and_CC Other_JJ 
+Sovereig_NN1 Immunity_NN1 Doctrines_NN2 :_: Part_NN1 One_MC1 ,_, 126_MC U._NP1 
+Pa_NP1 ._. 
+L._NP1 Rev._NNU 51_MC (_( 1978_MC )_) 
+...................................................._... 3_MC M._NNO A._NP1 
+Field_NP1 ,_, The_AT Eleventh_MD Amendment_NN1 and_CC Other_JJ Sovereign_JJ 
+Immunity_NN1 Doctrines_NN2 :_: Congressional_JJ Imposition_NN1 of_IO Sui_NN1 
+Upon_II the_AT States_NP1 ,_, 126_MC U._NP1 Pa_NP1 ._. 
+L._NP1 Rev._NNU 1203_MC (_( 1978_MC )_) .........._... 3_MC P._NP1 Bator_NP1 
+,_, P._NP1 Miskin_NP1 ,_, D._NP1 Shapiro_NP1 and_CC H._NP1 Wechsler_NP1 ,_, 
+Hart_NP1 and_CC Wechslers_NN2 The_AT Federal_JJ Courts_NN2 and_CC the_AT 
+Federal_JJ Syste_NN1 at_II 921-926_MCMC (_( 2d_NNU ed._NN1 1973_MC )_) 
+................................._... 1_MC1 The_AT Federalist_JJ Papers_NN2 
+Nos._NN2 9_MC ,_, 43_MC ..............................._... 1_MC1 Report_NN1 
+to_II the_AT President_NN1 :_: A_ZZ1 Proposed_JJ Plan_NN1 for_IF National_JJ 
+Actio_NN1 to_TO Combat_VV0 Mental_JJ Retardation_NN1 143_MC (_( 1962_MC )_) 
+............._... 18,2_MC 1963_MC Public_JJ Papers_NN2 of_IO the_AT 
+President_NN1 126_MC ,_, 109_MC Cong_NP1 ._. 
+Rec._NP1 1837_MC 1_MC1 1966_MC Pa_NP1 ._. 
+Legislative_JJ Journal_NN1 ,_, 3d_NNU Special_JJ Sess._NP1 ,_, No._NN1 3_MC 
+(_( September_NPM1 27_MC ,_, 1966_MC )_) 
+.................................._... 1_MC1 Com_NN1 ._. 
+of_IO Pa._NP1 ,_, Comprehensive_JJ Mental_JJ Retardation_NN1 Plan_NN1 ,_, 
+De_NP1 cember_NN1 ,_, 1965_MC .........................................._... 
+1_MC1 (_( vii_MC No._NN1 81-210_MCMC IN_II TH_NP1 Supreme_JJ Court_NN1 of_IO 
+the_AT United_JJ State_NN1 October_NPM1 Term_NN1 ,_, 198_MC PENNHURST_NP1 
+STATE_NN1 SCHOOL_NN1 AND_CC HOSPITAL_NN1 ,_, et_RA21 al_RA22 ._. 
+Petitioner_NN1 v_II TERRI_NP1 LEE_NP1 HALDERMAN_NP1 ,_, et_RA21 al_RA22 ,_, 
+PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CITIZENS_NN2 ,_, et_RA21 
+al_RA22 ,_, and_CC UNITED_NP1 STATES_NP1 OF_IO AMERICA_NP1 ,_, Respondent_NN1 
+On_II Writ_NN1 of_IO Certiorari_NN1 to_II the_AT United_NP1 States_NP1 
+Court_NN1 of_IO Appeals_NN2 for_IF the_AT Third_MD Circui_JJ BRIEF_NN1 OF_IO 
+RESPONDENTS_NN2 PARC_NP1 ET_RA21 AL_RA22 Respondents_NN2 the_AT 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, Jo_NP1 
+Suzanne_NP1 Moskowitz_NP1 ,_, Robert_NP1 Hight_NP1 ,_, David_NP1 Preusch_NP1 
+and_CC Charles_NP1 DiNolfi_NP1 ,_, for_IF themselves_PPX2 and_CC the_AT 
+class_NN1 they_PPHS2 represent_VV0 respectfully_RR request_VV0 that_CST the_AT 
+Court_NN1 affirm_VV0 the_AT judgment_NN1 of_IO the_AT United_NP1 States_NP1 
+Court_NN1 of_IO Appeals_NN2 for_IF the_AT Third_MD Circuit_NN1 in_II this_DD1 
+case_NN1 ._. 
+The_AT opinion_NN1 below_RL is_VBZ reported_VVN at_II 673_MC F._NP1 2d_NNU 
+647_MC (_( 1_MC1 Statement_NN1 of_IO the_AT Cas_NP2 STATEMENT_NN1 OF_IO THE_AT 
+CAS_NP2 The_AT abominable_JJ conditions_NN2 Pennhurst_NN1 imposes_VVZ upon_II 
+retarded_JJ people_NN are_VBR before_II the_AT Court_NN1 for_IF the_AT 
+third_MD time_NNT1 In_II Pennhurst_NP1 State_NN1 School_NN1 and_CC 
+Hospital_NN1 v._II Halderman_NP1 ,_, et_RA21 al._RA22 ,_, 451_MC U._NP1 S._NP1 
+1_MC1 (_( 1981_MC )_) (_( Pennhurst_NP1 I_ZZ1 )_) the_AT Court_NN1 
+remanded_VVN this_DD1 case_NN1 to_II the_AT Court_NN1 of_IO Appeals_NN2 for_IF 
+consideration_NN1 of_IO the_AT state_NN1 statutory_JJ ground_NN1 in_II31 
+light_II32 of_II33 the_AT recent_JJ Pennsylvania_NP1 Supreme_JJ Court_NN1 
+decision_NN1 construing_VVG the_AT statute_NN1 ._. 
+In_II Youngberg_NP1 v._II Romeo_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+2452_MC (_( 1982_MC )_) (_( Pennhurst_NP1 11_MC )_) the_AT Court_NN1 held_VVD 
+that_CST ,_, if_CS proved_VVN ,_, the_AT injuries_NN2 ,_, the_AT 
+restraints_NN2 and_CC the_AT absence_NN1 of_IO training_VVG sufficient_JJ 
+to_TO assure_VVI his_APPGE safety_NN1 and_CC freedom_NN1 ,_, not_XX to_TO 
+say_VVI the_AT regression_NN1 and_CC loss_NN1 of_IO skill_NN1 ,_, suffered_VVN 
+by_II Nicholas_NP1 Romeo_NP1 at_II Pennhurstexactly_NP1 the_AT wrongs_NN2 
+found_VVN by_II the_AT district_NN1 court_NN1 in_II this_DD1 case_NN1 to_TO 
+obtain_VVI for_IF the_AT entire_JJ class_NN1 of_IO Pennhurst_NP1 
+residentsviolate_VV0 his_APPGE rights_NN2 under_II the_AT Fourteenth_MD 
+Amendment_NN1 ._. 
+The_AT findings_NN2 below_RL are_VBR unchallenged_JJ ;_; they_PPHS2 
+require_VV0 no_AT further_JJR repetition_NN1 here_RL ._. 
+They_PPHS2 and_CC the_AT procedural_JJ history_NN1 of_IO the_AT case_NN1 
+are_VBR well_RR known_VVN to_II the_AT Court_NN1 The_AT wrongs_NN2 done_VDN 
+by_II the_AT conditions_NN2 of_IO Pennhurst_NP1 constitute_VV0 a_AT1 single_JJ 
+cause_NN1 of_IO action_NN1 ,_, pleaded_VVN and_CC tried_VVN during_II 32_MC 
+days_NNT2 in_II 1977_MC as_CSA violative_JJ of_IO the_AT Constitution_NN1 ,_, 
+of_IO federal_JJ statute_NN1 and_CC of_IO state_NN1 statute_NN1 ._. 
+Having_VHG foundthis_NN1 finding_VVG too_RR is_VBZ unchallenged_JJ below_RL 
+and_CC herethat_VV0 the_AT only_JJ practicable_JJ cure_NN1 and_CC effective_JJ 
+remedy_NN1 for_IF the_AT wrongs_NN2 done_VDN by_II Pennhurst_NP1 ,_, as_CSA 
+defendant_NN1 state_NN1 officials_NN2 themselves_PPX2 have_VH0 consistently_RR 
+represented_VVN to_II the_AT court_NN1 ,_, is_VBZ the_AT removal_NN1 of_IO 
+Pennhurst_NN1 residents_NN2 to_II structured_JJ ,_, family_NN1 scale_NN1 
+facilities_NN2 in_II the_AT community_NN1 ,_, the_AT court_NN1 entered_VVD 
+injunctive_JJ orders_NN2 so_RR requiring_VVG ._. 
+The_AT court_NN1 appointed_VVN a_AT1 Special_JJ Master_NN1 to_TO assist_VVI 
+in_II planning_NN1 and_CC monitoring_VVG implementation_NN1 Upon_II the_AT 
+remand_NN1 from_II the_AT Court_NN1 (_( Pennhurst_NP1 I_ZZ1 )_) and_CC 
+before_CS the_AT decision_NN1 of_IO the_AT Court_NN1 in_II Pennhurst_NP1 II_MC 
+,_, the_AT Court_NN1 of_IO Appeals_NN2 entered_VVD the_AT judgment_NN1 here_RL 
+under_II grant_NN1 of_IO Certiorari_NN1 ._. 
+The_AT Court_NN1 of_IO Appeals_NN2 en_FW banc_NN1 Statement_NN1 of_IO the_AT 
+Cas_NP2 o_UH unanimously_RR held_VVD the_AT constitutional_JJ claims_NN2 
+substantial_JJ unanimously_RR found_VVD the_AT state_NN1 statute_NN1 clear_JJ 
+and_CC dispositive_JJ unanimously_RR held_VVN pendent_JJ jurisdiction_NN1 
+properly_RR exercised_VVN unanimously_RR upheld_VVN the_AT injunctive_JJ 
+relief_NN1 entered_VVN against_II state_NN1 and_CC county_NN1 officials_NN2 
+as_CSA previously_RR modified_VVN unanimously_RR rejected_VVD the_AT 
+Eleventh_MD Amendment_NN1 objections_NN2 to_II that_DD1 injunctive_JJ 
+relief_NN1 ;_; an_AT1 unanimously_RR rejected_VVD the_AT abstention_NN1 
+plea_NN1 made_VVN for_IF the_AT first_MD time_NNT1 in_II this_DD1 case_NN1 
+upon_II remand_NN1 Although_CS approving_VVG the_AT appointment_NN1 of_IO 
+a_AT1 master_NN1 to_TO assist_VVI the_AT court_NN1 in_II formulating_VVG a_AT1 
+remedy_NN1 ,_, three_MC members_NN2 of_IO the_AT en_FW banc_NN1 Court_NN1 
+would_VM have_VHI reversed_VVN that_DD1 portion_NN1 of_IO the_AT order_NN1 
+authorizing_VVG the_AT master_NN1 to_TO supervise_VVI defendants_NN2 
+compliance_NN1 efforts_NN2 ._. 
+673_MC F._NP1 2d_NNU at_II 662_MC ,_, 670_MC Petitioners_NN2 do_VD0 not_XX 
+contest_VVI here_RL the_AT substantiality_NN1 of_IO the_AT retarded_JJ 
+Pennhurst_NN1 residents_NN2 constitutional_JJ claims_NN2 ._. 
+They_PPHS2 do_VD0 not_XX contest_VVI the_AT unanimous_JJ holding_NN1 that_CST 
+the_AT state_NN1 statute_NN1 is_VBZ violated_VVN ._. 
+The_AT predicates_NN2 of_IO the_AT questions_NN2 petitioners_NN2 postulate_VV0 
+are_VBR directly_RR contradicted_VVN by_II the_AT unchallenged_JJ findings_NN2 
+in_II this_DD1 case_NN1 that_CST the_AT injunctive_JJ relief_NN1 
+orderedcommunity_NN1 facilities_NN2 rather_II21 than_II22 Pennhurstis_NN1 
+less_RGR costly_JJ than_CSN maintaining_VVG the_AT wrongs_NN2 and_CC by_II 
+the_AT unchallengeable_JJ fact_NN1 that_CST state_VV0 defendants_NN2 
+themselves_PPX2 nominated_VVD the_AT remedy_NN1 they_PPHS2 now_RT would_VM 
+have_VHI found_VVN intrusive_JJ Summary_NN1 of_IO Argumen_NP1 SUMMARY_NN1 
+OF_IO ARGUMEN_NP1 I._NP1 Petitioners_NN2 ask_VV0 this_DD1 Court_NN1 to_TO 
+overturn_VVI the_AT settled_JJ law_NN1 of_IO pendent_JJ jurisdiction_NN1 ._. 
+The_AT court_NN1 below_RG respected_JJ and_CC complied_VVN with_IW 
+established_JJ Eleventh_MD Amendment_NN1 jurisprudence_NN1 and_CC correctly_RR 
+rejected_VVN petitioners_NN2 novel_JJ theories_NN2 which_DDQ would_VM deny_VVI 
+to_II Article_NN1 III_MC courts_VVZ the_AT power_NN1 to_TO exercise_VVI 
+pendent_JJ jurisdiction_NN1 to_TO enjoin_VVI state_NN1 officials_NN2 from_II 
+continuing_JJ violations_NN2 of_IO their_APPGE citizens_NN2 undoubted_JJ 
+state_NN1 statutory_JJ rights_NN2 ._. 
+They_PPHS2 would_VM do_VDI so_RG even_RR where_CS the_AT federal_JJ claims_NN2 
+are_VBR undeniably_RR substantial_JJ ,_, as_CSA since_CS 'Young-berg_NN1 v._II 
+Romeo_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+2452_MC (_( 1982_MC )_) they_PPHS2 are_VBR here_RL ,_, where_CS the_AT 
+state_NN1 statute_NN1 embraces_VVZ in_II mandatory_JJ terms_NN2 values_NN2 
+which_DDQ are_VBR central_JJ also_RR to_II national_JJ policy_NN1 ,_, and_CC 
+where_RRQ Article_NN1 III_MC independence_NN1 may_VM determine_VVI whether_CSW 
+the_AT citizens_NN2 undoubted_JJ rights_NN2 will_VM be_VBI effectuated_VVN ._. 
+Petitioners_NN2 position_VV0 apparently_RR would_VM allow_VVI Article_NN1 
+III_MC courts_NN2 to_TO impose_VVI ineffective_JJ remedies_NN2 but_CCB not_XX 
+effective_JJ ones_NN2 Should_VM the_AT Court_NN1 rewrite_VVI the_AT 
+doctrine_NN1 of_IO pendent_JJ jurisdiction_NN1 as_CSA petitioners_NN2 ask_VV0 
+,_, then_RT in_II this_DD1 case_NN1 it_PPH1 must_VM decide_VVI whether_CSW 
+the_AT Eleventh_MD Amendment_NN1 will_VM be_VBI reread_VVN as_CSA written_VVN 
+the_AT rule_NN1 attributed_VVN to_II Hans_NP1 v._II Louisiana_NP1 reversed_VVD 
+._. 
+Pennsylvania_NP1 has_VHZ never_RR asserted_VVN sovereign_JJ immunity_NN1 
+against_II injunction_NN1 actions_NN2 by_II its_APPGE own_DA citizens_NN2 ,_, 
+and_CC it_PPH1 should_VM not_XX be_VBI yielded_VVN in_II the_AT name_NN1 of_IO 
+the_AT Eleventh_MD Amendment_NN1 II_MC ._. 
+The_AT March_NPM1 17_MC ,_, 1978_MC appointment_NN1 of_IO a_AT1 master_NN1 
+to_TO assist_VVI in_II planning_NN1 and_CC monitoring_VVG implementation_NN1 
+of_IO the_AT injunctive_JJ orders_NN2 was_VBDZ proper_JJ when_CS made_VVN 
+given_JJ petitioners_NN2 intransigence_NN1 ._. 
+The_AT duties_NN2 and_CC performance_NN1 of_IO the_AT master_NN1 are_VBR 
+unexceptional_JJ in_II complex_JJ cases_NN2 and_CC within_II the_AT bounds_NN2 
+of_IO Pennsylvania_NP1 state_NN1 law_NN1 ._. 
+The_AT master_NN1 did_VDD not_XX supervise_VVI the_AT decisions_NN2 of_IO 
+state_NN1 officials_NN2 regarding_II the_AT proper_JJ placement_NN1 of_IO 
+retarded_JJ individuals_NN2 but_CCB only_RR monitored_VVN to_TO determine_VVI 
+that_DD1 professional_JJ decisions_NN2 are_VBR in_II fact_NN1 made_VVD 
+Summary_NN1 of_IO Argumen_NP1 Initial_JJ plans_NN2 having_VHG been_VBN 
+completed_VVN and_CC state_VV0 petitioners_NN2 having_VHG recently_RR 
+undertaken_VVN to_TO comply_VVI with_IW the_AT monitoring_NN1 requirements_NN2 
+of_IO the_AT injunctive_JJ orders_NN2 ,_, the_AT district_NN1 court_NN1 
+has_VHZ dissolved_VVN the_AT appointment_NN1 effective_JJ December_NPM1 31_MC 
+,_, 1982_MC and_CC any_DD issue_NN1 raised_VVN here_RL by_II the_AT March_NPM1 
+17_MC ,_, 1978_MC master_NN1 order_NN1 is_VBZ moot_JJ Argumen_NP1 ARGUMEN_NP1 
+I._NP1 The_AT Exercise_NN1 of_IO Pendent_JJ Jurisdiction_NN1 Here_RL Is_VBZ 
+Consonant_JJ With_IW the_AT Settled_JJ Law_NN1 of_IO Pendent_JJ 
+Jurisdiction_NN1 ,_, Which_DDQ Should_VM Not_XX Be_VBI Reversed_VVN ,_, and_CC 
+With_IW the_AT Eleventh_MD Amendment_NN1 and_CC Comity_NP1 A._NP1 The_AT 
+Long_JJ and_CC Carefully_RR Established_VVN Law_NN1 of_IO Pendent_JJ 
+Jurisdiction_NN1 ,_, With_IW Which_DDQ the_AT Unanimous_JJ Decision_NN1 of_IO 
+the_AT Court_NN1 of_IO Appeals_NN2 en_FW banc_NN1 Is_VBZ Entirely_RR 
+Consonant_JJ ,_, Should_VM Not_XX Be_VBI Reversed_VVN A_AT1 constant_JJ 
+course_NN1 of_IO decision_NN1 by_II this_DD1 Court_NN1 from_II the_AT 
+earliest_JJT days_NNT2 of_IO the_AT Republic_NN1 ,_, honored_VVN by_II the_AT 
+Court_NN1 into_II the_AT current_JJ time_NNT1 ,_, 1_MC1 has_VHZ 
+established_VVN pendent_JJ jurisdiction_NN1 over_II state_NN1 law_NN1 
+claims_NN2 for_IF prospective_JJ injunctive_JJ relief_NN1 against_II state_NN1 
+officials_NN2 ._. 
+Petitioners_NN2 would_VM require_VVI that_CST the_AT Court_NN1 reverse_VV0 
+this_DD1 body_NN1 of_IO law_NN1 ._. 
+Their_APPGE entirely_RR novel_JJ theories_NN2 would_VM overrule_VVI Siler_JJR 
+v._II Louisville_NP1 &; Nashville_NP1 R._NP1 Co._NP1 ,_, 213_MC U._NP1 S._NP1 
+175_MC (_( 1909_MC )_) ,_, sharply_RR restrict_VV0 the_AT Courts_NN2 
+holding_VVG in_RP Ex_RR21 parte_RR22 Young_JJ ,_, 209_MC U._NP1 S._NP1 123_MC 
+(_( 1908_MC )_) repudiate_VV0 Osborn_JJ v._II Bank_NN1 of_IO the_AT United_NP1 
+States_NP1 ,_, 22_MC U._NP1 S._NP1 (_( 9_MC Wheat._NP1 )_) 738_MC (_( 1824_MC 
+)_) ,_, and_CC ignore_VV0 the_AT constitutionally_RR imperative_JJ 
+cautions_NN2 of_IO Ashwander_NN1 v._II Tennessee_NP1 Valley_NN1 Authority_NN1 
+,_, 297_MC U._NP1 S._NP1 288_MC ,_, 347_MC (_( 1936_MC )_) As_CSA that_DD1 
+course_NN1 of_IO decisions_NN2 compelled_VVD the_AT Court_NN1 of_IO 
+Appeals_NN2 en_FW banc_NN1 unanimously_RR to_TO recognize_VVI ,_, 
+established_VVD doctrines_NN2 of_IO pendent_JJ jurisdiction_NN1 give_VV0 
+federal_JJ courts_NN2 the_AT power_NN1 to_TO decide_VVI state_NN1 law_NN1 
+issues_NN2 (_( in_II a_AT1 case_NN1 properly_RR in_II a_AT1 federal_JJ 
+court_NN1 to_TO begin_VVI with_IW )_) no_UH matter_VV0 that_CST (_( and_CC ,_, 
+contemplating_VVG the_AT constitutional_JJ cautions_NN2 which_DDQ bear_VV0 
+on_II the_AT unnecessary_JJ decision_NN1 of_IO constitutional_JJ questions_NN2 
+,_, espe_NN1 1_MC1 ._. 
+See_VV0 Justice_NN1 Rehnquists_NN2 Opinion_NN1 for_IF the_AT Court_NN1 in_II 
+Aldinge_NP1 v._II Howard_NP1 ,_, 427_MC U._NP1 S._NP1 1_MC1 ,_, 7_MC (_( 
+1975_MC )_) and_CC the_AT decisions_NN2 cited_VVN at_II page_NN1 11-15_MCMC 
+and_CC 17_MC of_IO the_AT orange_JJ Brief_NN1 in_II Opposition_NN1 of_IO 
+PARC_NP1 ,_, et_RA21 al_RA22 Argumen_NP1 dally_RR when_CS )_) the_AT 
+defendant_NN1 is_VBZ a_AT1 state_NN1 official_NN1 ._. 
+Given_CS21 that_CS22 established_JJ power_NN1 ,_, the_AT issuance_NN1 of_IO 
+prospective_JJ injunctive_JJ relief_NN1 to_TO remediate_VVI the_AT 
+undoubted_JJ ,_, and_CC uncontested_JJ ,_, violations_NN2 in_II this_DD1 
+case_NN1 (_( as_II31 well_II32 as_II33 the_AT judgment_NN1 on_II clear_JJ 
+state_NN1 statutory_JJ grounds_NN2 ,_, directly_RR ,_, recently_RR ,_, and_CC 
+fully_RR articulated_VVN by_II the_AT State_NN1 Supreme_JJ Court_NN1 and_CC 
+,_, like_II the_AT violations_NN2 themselves_PPX2 ,_, uncontested_JJ by_II 
+Petitioners_NN2 in_II this_DD1 Court_NN1 )_) should_VM be_VBI affirmed_VVN 
+and_CC the_AT unprecedented_JJ arguments_NN2 from_II the_AT Eleventh_MD 
+Amendment_NN1 and_CC comity_NN1 alike_RR ,_, rejected_VVN as_CSA ,_, 
+unanimously_RR ,_, they_PPHS2 were_VBDR by_II the_AT Court_NN1 of_IO 
+Appeals_NN2 There_EX is_VBZ no_AT question_NN1 in_II this_DD1 case_NN1 but_CCB 
+that_CST the_AT state_NN1 law_NN1 claim_NN1 and_CC the_AT constitutional_JJ 
+claim_NN1 are_VBR isomorphic_JJ ;_; they_PPHS2 arise_VV0 from_II exactly_RR 
+the_AT same_DA set_NN1 of_IO facts_NN2 ;_; there_EX is_VBZ but_CCB a_AT1 
+single_JJ ,_, entirely_RR integrated_JJ cause_NN1 of_IO action.2_FO This_DD1 
+case_NN1 therefore_RR falls_VVZ well_RR within_II the_AT central_JJ core_NN1 
+of_IO pendent_JJ jurisdiction_NN1 ,_, Hurnv_NP1 ._. 
+Oursler_NN1 ,_, 289_MC U._NP1 S._NP1 238_MC ,_, 245-46_MCMC (_( 1938_MC )_) 
+;_; it_PPH1 does_VDZ not_XX raise_VVI at_RR21 all_RR22 the_AT questions_NN2 
+which_DDQ might_VM arise_VVI in_II the_AT penumbra_NN1 where_RRQ causes_NN2 
+of_IO action_NN1 are_VBR merely_RR relate_VV0 2_MC ._. 
+In_II Osborn_NP1 v._II Bank_NN1 of_IO the_AT United_NP1 States_NP1 ,_, the_AT 
+Chief_JJ Justice_NN1 wrote_VVD "_" when_RRQ a_AT1 question_NN1 to_II which_DDQ 
+the_AT judicial_JJ power_NN1 of_IO the_AT Union_NN1 is_VBZ extended_VVN by_II 
+the_AT constitution_NN1 forms_VVZ an_AT1 ingredient_NN1 of_IO the_AT 
+original_JJ cause_NN1 ,_, it_PPH1 is_VBZ in_II the_AT power_NN1 of_IO 
+Congress_NN1 to_TO give_VVI the_AT Circuit_NN1 Courts_NN2 jurisdiction_NN1 
+of_IO that_DD1 cause_NN1 ,_, although_CS other_JJ questions_NN2 of_IO fact_NN1 
+or_CC of_IO law_NN1 may_VM be_VBI involved_JJ in_II it._NNU 22_MC U._NP1 
+S._NP1 at_II 823_MC In_II Aldinger_NP1 ,_, the_AT Court_NN1 wrote_VVD 
+These_DD2 cases_NN2 from_II Osborn_NP1 to_II Gibbs_NP1 ,_, show_VV0 that_CST 
+in_II treating_VVG litigation_NN1 where_CS nonfederal_JJ questions_NN2 or_CC 
+claims_NN2 are_VBR bound_VVN up_RP with_IW the_AT federal_JJ claim_NN1 upon_II 
+which_DDQ the_AT parties_NN2 were_VBDR already_RR in_II federal_JJ court_NN1 
+,_, this_DD1 Court_NN1 has_VHZ found_VVN nothing_PN1 in_II Art_NN1 ._. 
+Ills_NN2 grant_NN1 of_IO judicial_JJ power_NN1 which_DDQ prevented_VVD 
+adjudication_NN1 of_IO the_AT nonfederal_JJ portions_NN2 of_IO the_AT 
+parties_NN2 dispute._NNU 427_MC U._NP1 S._NP1 at_II 9_MC Here_RL ,_, where_CS 
+exactly_RR the_AT same_DA facts_NN2 drive_VV0 both_RR the_AT state_NN1 law_NN1 
+and_CC the_AT constitutional_JJ claim_NN1 ,_, the_AT historic_JJ 
+principles_NN2 supporting_VVG pendent_JJ jurisdiction_NN1 are_VBR at_II 
+their_APPGE strongest_JJT In_II Osborn_NP1 ,_, a_AT1 suit_NN1 against_II 
+the_AT treasurer_NN1 of_IO Ohio_NP1 ,_, an_AT1 11th_MD Amendment_NN1 bar_NN1 
+was_VBDZ argued_VVN but_CCB rejected_VVD ._. 
+22_MC U._NP1 S._NP1 (_( 9_MC Wheat._NP1 )_) at_II 850-59_MCMC 8_MC Argumen_NN2 
+or_CC just_JJ overlap_NN1 ._. 
+Mine_NN1 Workers_NN2 v._II Gibbs_NP1 ,_, 383_MC U._NP1 S._NP1 175_MC (_( 
+1966_MC )_) ._. 
+There_EX is_VBZ in_II this_DD1 case_NN1 no_AT question_NN1 as_II21 to_II22 
+the_AT substantiality_NN1 of_IO the_AT constitutional_JJ question_NN1 (_( 
+which_DDQ was_VBDZ not_XX decided_VVN by_II the_AT Court_NN1 of_IO Appeals_NN2 
+but_CCB had_VHD been_VBN by_II the_AT district_NN1 court_NN1 )_) ,_, nor_CC 
+could_VM there_EX be_VBI after_II this_DD1 Courts_VVZ subsequent_JJ 
+decision_NN1 in_II Youngberg_NP1 v._II Romeo_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+2453_MC (_( 1982_MC )_) ._. 
+The_AT pleaded_VVN injuries_NN2 ,_, restraint_NN1 and_CC the_AT absence_NN1 
+of_IO training_VVG sufficient_JJ to_TO assure_VVI safety_NN1 and_CC 
+freedom_NN1 from_II restraint_NN1 ,_, not_XX to_TO say_VVI the_AT 
+regression_NN1 and_CC loss_NN1 of_IO skill_NN1 ,_, suffered_VVN by_II 
+Nicholas_NP1 Romeo_NP1 at_II Pennhurst_NP1 ,_, which_DDQ this_DD1 Court_NN1 
+held_VVN in_II Youngberg_NP1 v._II Romeo_NP1 ,_, U._NP1 S._NP1 (_( June_NPM1 
+15_MC ,_, 1982_MC )_) would_VM violate_VVI the_AT Fourteenth_MD Amendment_NN1 
+if_CS proved_VVN ,_, were_VBDR ,_, in_II this_DD1 case_NN1 ,_, found_VVN by_II 
+the_AT district_NN1 court_NN1 to_TO have_VHI been_VBN suffered_VVN by_II 
+the_AT class_NN1 of_IO residents_NN2 of_IO Pennhurst_NP1 ,_, and_CC the_AT 
+findings_NN2 have_VH0 been_VBN twice_RR unanimously_RR upheld_VVN by_II the_AT 
+Court_NN1 of_IO Appeals_NN2 ._. 
+3_MC ._. 
+If_CS pendent_JJ jurisdiction_NN1 is_VBZ repudiated_VVN in_II a_AT1 case_NN1 
+arising_VVG at_II the_AT Hum-type_JJ core_NN1 of_IO the_AT doctrineas_NN2 
+would_VM be_VBI required_VVN in_II this_DD1 case_NN1 the_AT pendent_JJ 
+jurisdiction_NN1 of_IO claims_NN2 arising_VVG at_II the_AT penumbra_NN1 
+surely_RR would_VM be_VBI seriously_RR shadowed_VVN and_CC Gibbs_NP1 
+itself_PPX1 placed_VVN in_II doubt_NN1 This_DD1 case_NN1 of_RR21 course_RR22 
+involves_VVZ no_AT question_NN1 of_IO pendent_JJ parties_NN2 ._. 
+The_AT parties_NN2 defendant_NN1 here_RL are_VBR proper_JJ defendants_NN2 
+on_II each_DD1 and_CC all_DB claims_NN2 Jurisdiction_NN1 of_IO the_AT 
+subject_NN1 matter_NN1 and_CC of_IO the_AT parties_NN2 under_II both_DB2 
+1343_MC and_CC 1331_MC has_VHZ been_VBN and_CC is_VBZ unquestioned_JJ in_II 
+this_DD1 case_NN1 ._. 
+Congressional_JJ history_NN1 of_IO 1343_MC ,_, 1983_MC and_CC 1331_MC ,_, 
+originally_RR and_CC in_II their_APPGE modern_JJ codifications_NN2 ,_, 
+shows_VVZ full_JJ knowledge_NN1 by_II the_AT Congress_NN1 of_IO the_AT 
+practice_NN1 of_IO pendent_JJ jurisdiction_NN1 and_CC concurrence_NN1 in_II 
+it_PPH1 4_MC ._. 
+Following_VVG Siler_JJR ,_, the_AT Court_NN1 in_II Aldinger_NP1 ,_, 427_MC 
+U._NP1 S._NP1 at_II 7-8_MCMC ,_, wrote_VVD where_CS federal_JJ 
+jurisdiction_NN1 is_VBZ properly_RR based_VVN on_II a_AT1 colorable_JJ 
+federal_JJ claim_NN1 ,_, the_AT court_NN1 has_VHZ the_AT right_NN1 to_TO 
+decide_VVI all_DB the_AT questions_NN2 in_II the_AT case_NN1 ,_, even_CS21 
+though_CS22 it_PPH1 decided_VVD the_AT Federal_JJ questions_NN2 adversely_RR 
+to_II the_AT party_NN1 raising_VVG them_PPHO2 ,_, or_CC even_CS21 if_CS22 
+it_PPH1 omitted_VVD to_TO decide_VVI them_PPHO2 at_RR21 all_RR22 ,_, but_CCB 
+decided_VVD the_AT case_NN1 on_II local_JJ and_CC state_VV0 questions_NN2 
+only_RR ._. 
+Argumen_NN2 Nor_CC is_VBZ there_EX any_DD question_NN1 here_RL but_CCB 
+that_CST the_AT state_NN1 law_NN1 ground_NN1 was_VBDZ properly_RR decided_VVN 
+by_II the_AT courts_NN2 below_RL ._. 
+Petitioners_NN2 concede_VV0 as_RG much_DA1 ,_, as_CSA they_PPHS2 must_VM 
+not_XX only_RR because_CS this_DD1 Court_NN1 will_VM leave_VVI undisturbed_JJ 
+a_AT1 Court_NN1 of_IO Appeals_NN2 state_VV0 law_NN1 holding_VVG by_II 
+judges_NN2 familiar_JJ with_IW the_AT intricacies_NN2 and_CC trends_NN2 of_IO 
+local_JJ law_NN1 4_MC 5_MC but_CCB also_RR because_CS the_AT plenary_JJ 
+decision_NN1 of_IO the_AT Pennsylvania_NP1 Supreme_JJ Court_NN1 in_II In_RP 
+re_II Joseph_NP1 Schmidt_NP1 ,_, 429_MC A._NNU 2d_NNU 631_MC (_( 1981_MC )_) 
+in_II31 light_II32 of_II33 which_DDQ this_DD1 Court_NN1 remanded_VVD 
+Pennhurst_NP1 I_ZZ1 ,_, squarely_RR determines_VVZ the_AT dispositive_JJ 
+state_NN1 law_NN1 issue_NN1 ._. 
+Petitioners_NN2 can_VM prevail_VVI here_RL only_RR if_CS this_DD1 Court_NN1 
+chooses_VVZ to_TO reverse_VVI Siler_JJR and_CC to_TO repudiate_VVI the_AT 
+pendent_JJ jurisdiction_NN1 defining_VVG cases_NN2 before_II and_CC after_II 
+Siler_NP1 ,_, but_CCB there_EX is_VBZ no_AT sound_NN1 reason_NN1 to_TO do_VDI 
+so_RR in_II law_NN1 or_CC in_II policy_NN1 There_EX is_VBZ good_JJ and_CC 
+sound_NN1 reason_NN1 not_XX to_TO do_VDI so_RR ._. 
+There_EX are_VBR indeed_RR serious_JJ constitutional_JJ constraints_NN2 
+bearing_VVG upon_II the_AT question_NN1 here_RL ._. 
+They_PPHS2 do_VD0 not_XX ,_, however_RR ,_, concern_VV0 th_NNU 4_MC ._. 
+(_( Contd_NN1 ._. 
+The_AT constitutional_JJ claim_NN1 in_II this_DD1 case_NN1 is_VBZ of_RR21 
+course_RR22 itself_PPX1 not_XX before_RT the_AT Court_NN1 on_II this_DD1 
+grant_NN1 of_IO certiorari_NN2 ,_, not_XX having_VHG been_VBN reached_VVN 
+by_II the_AT Court_NN1 of_IO Appeals_NN2 below_RL and_CC having_VHG not_XX 
+been_VBN raised_VVN here_RL by_II any_DD party_NN1 ._. 
+Furthermore_RR ,_, Petitioners_NN2 do_VD0 not_XX raise_VVI the_AT 
+substantiality_NN1 question_NN1 here_RL upon_II this_DD1 grant_NN1 of_IO 
+certiorari_NN2 ,_, but_CCB rather_RR they_PPHS2 concede_VV0 substantiality_NN1 
+5_MC ._. 
+See_VV0 Huddleston_NP1 v._II Dwyer_NP1 ,_, 322_MC U._NP1 S._NP1 223_MC ,_, 
+237_MC (_( 1944_MC )_) ;_; Spiegels_NP2 Estate_NN1 v._II C._NP1 I._NP1 R._NP1 
+,_, 335_MC U._NP1 S._NP1 701_MC ,_, 708_MC (_( 1949_MC )_) ;_; Bishop_NN1 
+v._II Wood_NP1 ,_, 426_MC U._NP1 S._NP1 341_MC ,_, 346_MC n._NNU 10_MC (_( 
+1976_MC )_) ;_; Rummel_NP1 v._II Estelle_NP1 ,_, 445_MC U._NP1 S._NP1 263_MC 
+,_, 267_MC n._NNU 7_MC (_( 1980_MC )_) 6_MC ._. 
+Pennsylvania_NP1 courts_NN2 have_VH0 continued_VVN to_TO give_VVI Schmidt_NP1 
+the_AT same_DA reading_NN1 given_VVN it_PPH1 by_II the_AT unanimous_JJ 
+Court_NN1 of_IO Appeals_NN2 ._. 
+See_VV0 ,_, e.g._REX ,_, In_II Interest_NN1 of_IO Stover_NP1 ,_, 443_MC A._NNU 
+2d_NNU 327_MC ,_, 329_MC (_( Pa_NP1 ._. 
+Super_JJ ._. 
+Ct_NP1 ._. 
+1982_MC )_) ;_; cf._VV0 In_RP re_II Sauers_NP1 ,_, 447_MC A._NNU 2d_NNU 
+1132_MC ,_, 1135_MC (_( Pa_NP1 ._. 
+Comwlth_NN1 ._. 
+Ct_NP1 ._. 
+1982_MC )_) Neither_RR the_AT record_NN1 nor_CC any_DD decent_JJ 
+speculation_NN1 allow_VV0 state_NN1 amicus_NN1 assertion_NN1 ,_, 
+calculated_VVD falsely_RR to_TO alarm_VVI this_DD1 Court_NN1 ,_, that_CST 
+any_DD plaintiff_NN1 claiming_VVG violation_NN1 of_IO the_AT state_NN1 
+retardation_NN1 statute_NN1 will_VM now_RT file_VVI in_II federal_JJ court_NN1 
+._. 
+Amicus_NN1 Brief_NN1 at_II 56_MC ._. 
+The_AT above-cited_JJ state_NN1 cases_NN2 belie_VV0 the_AT assertion_NN1 1_MC1 
+Argumen_NP1 Eleventh_MD Amendment_NN1 as_CSA petitioners_NN2 assert_VV0 ._. 
+They_PPHS2 concern_VV0 instead_RR Article_NN1 III_MC and_CC the_AT proper_JJ 
+role_NN1 of_IO the_AT Judiciary_NN1 in_II our_APPGE federal_JJ system_NN1 ._. 
+This_DD1 Court_NN1 ,_, as_CSA all_DB before_CS it_PPH1 ,_, has_VHZ properly_RR 
+instructed_VVN If_CS there_EX is_VBZ one_MC1 doctrine_NN1 more_RGR deeply_RR 
+rooted_JJ than_CSN any_DD other_JJ in_II the_AT process_NN1 of_IO 
+constitutional_JJ adjudication_NN1 ,_, it_PPH1 is_VBZ that_CST we_PPIS2 
+ought_VMK not_XX to_TO pass_VVI on_RP questions_NN2 of_IO 
+constitutionality_NN1 ,_, unless_CS such_DA adjudication_NN1 is_VBZ 
+unavoidable_JJ ._. 
+New_NP1 York_NP1 City_NN1 Transit_NN1 Authority_NN1 v._II Beazer_NP1 ,_, 
+440_MC U._NP1 S._NP1 586_MC ,_, 582_MC (_( 1979_MC )_) quoting_VVG Spector_NN1 
+Motor_NN1 Co._NN1 v._II McLaughlin_NP1 ,_, 323_MC U._NP1 S._NP1 101_MC ,_, 
+105_MC (_( 1944_MC )_) ._. 
+Precisely_RR to_II the_AT point_NN1 ,_, the_AT Court_NN1 ,_, by_II Justice_NP1 
+White_NP1 ,_, wrote_VVD in_II Hagans_NP2 v._II Lavine_NP1 ,_, 415_MC U._NP1 
+S._NP1 528_MC ,_, 546_MC &; n._NNU 13_MC (_( 1974_MC )_) Siler_NN1 is_VBZ 
+not_XX an_AT1 oddity_NN1 ._. 
+The_AT Court_NN1 has_VHZ characteristically_RR dealt_VVN first_MD with_IW 
+possibly_RR dispositive_JJ state_NN1 law_NN1 claims_VVZ pendent_NN1 to_II 
+federal_JJ constitutional_JJ claims_NN2 ._. 
+In_II Hutchinson_NP1 v._II Proxmire_NP1 ,_, 443_MC U._NP1 S._NP1 Ill_NP1 ,_, 
+122_MC (_( 1979_MC )_) ,_, the_AT Court_NN1 ,_, by_II the_AT Chief_JJ 
+Justice_NN1 ,_, citing_VVG Siler_JJR ,_, wrote_VVD :_: Our_APPGE practice_NN1 
+is_VBZ to_TO avoid_VVI reaching_VVG constitutional_JJ questions_NN2 if_CS 
+a_AT1 dispositive_JJ non-federal_JJ ground_NN1 is_VBZ present_JJ ._. 
+See_VV0 Ashwander_NN1 v._II Tennessee_NP1 Valley_NN1 Authority_NN1 ,_, 297_MC 
+U._NP1 S._NP1 288_MC ,_, 347_MC (_( 1936_MC )_) ._. 
+And_CC see_VV0 P._NP1 Bator_NP1 ,_, P._NP1 Miskin_NP1 ,_, D._NP1 Shapiro_NP1 
+and_CC H._NP1 Wechsler_NP1 ,_, Hart_NP1 and_CC Wechslers_NN2 The_AT Federal_JJ 
+Courts_NN2 and_CC the_AT Federal_JJ System_NN1 at_II 921-926_MCMC (_( 2d_NNU 
+ed._NN1 1973_MC )_) This_DD1 central_JJ constitutional_JJ constraint_NN1 ,_, 
+far_RR from_II disappearing_VVG when_RRQ state_NN1 officials_NN2 happen_VV0 
+to_TO be_VBI defendants_NN2 ,_, applies_VVZ especially_RR where_CS the_AT 
+defendants_NN2 are_VBR state_NN1 officials_NN2 ,_, as_CSA they_PPHS2 are_VBR 
+here_RL and_CC as_CSA they_PPHS2 were_VBDR in_II Osborn_NP1 ,_, supra_NN1 ,_, 
+Siler_NP1 ,_, supra_NN1 ,_, Young_NP1 ,_, supra_NN1 ,_, and_CC ,_, for_REX21 
+example_REX22 ,_, in_II Louisville_NP1 &; Nashville_NP1 R._NP1 R._NP1 v._II 
+Greene_NP1 ,_, 244_MC U._NP1 S._NP1 522_MC ,_, 528-30_MCMC (_( 1917_MC )_) 
+and_CC Greene_NP1 v._II Louisville_NP1 &; Interurban_NP1 R._NP1 R._NP1 ,_, 
+244_MC U._NP1 S._NP1 499_MC ,_, 508_MC (_( 1917_MC )_) ._. 
+This_DD1 constraint_NN1 does_VDZ not_XX arise_VVI from_II the_AT Eleventh_MD 
+Amendment_NN1 but_CCB from_II a_AT1 respect_NN1 for_IF our_APPGE federa_NN1 
+Argumen_NN2 1_MC1 ism.7_FO Apart_II21 from_II22 Article_NN1 III_MC 
+constraints_NN2 on_II premature_JJ and_CC unnecessitous_JJ constitutional_JJ 
+adjudication_NN1 ,_, a_AT1 constitutional_JJ decision_NN1 would_VM 
+irrevocably_RR bind_VVI state_NN1 officials_NN2 ;_; a_AT1 state_NN1 
+statute_NN1 law_NN1 decision_NN1 leaves_NN2 state_VV0 officials_NN2 and_CC 
+the_AT state_NN1 itself_PPX1 free_JJ to_TO change_VVI state_NN1 lawit_NN1 
+respects_VVZ their_APPGE freedom_NN1 to_TO reconsider_VVI The_AT findings_NN2 
+below_RL are_VBR clear_JJ that_CST the_AT prospective_JJ injunctive_JJ 
+relief_NN1 ordered_VVD to_TO correct_VVI the_AT violation_NN1 of_IO state_NN1 
+law_NN1 is_VBZ not_XX costly_JJ ._. 
+For_IF all_DB of_IO petitioners_NN2 contrary_JJ rhetorical_JJ assertions_NN2 
+here_RL in_II the_AT teeth_NN2 of_IO the_AT record_NN1 of_IO this_DD1 case_NN1 
+,_, that_DD1 finding_NN1 was_VBDZ made_VVN again_RT and_CC again_RT by_II 
+the_AT district_NN1 court_NN1 ,_, Halderman_NP1 v._II Pennhurst_NP1 State_NN1 
+School_NN1 de_NP1 Hospital_NN1 ,_, 446_MC F._NP1 Supp._NP1 1295_MC ,_, 1325_MC 
+(_( E._NP1 D._NP1 Pa._NP1 1977_MC )_) ,_, that_DD1 finding_NN1 has_VHZ 
+been_VBN plainly_RR upheld_VVN by_II the_AT Court_NN1 of_IO Appeals_NN2 
+twice_RR ,_, Halderman_NP1 v._II Pennhurst_NP1 State_NN1 School_NN1 &; 
+Hospital_NN1 ,_, 612_MC F._NP1 2d_NNU 84_MC ,_, 116_MC n._NNU 39_MC (_( 3rd_MD 
+Cir._NP1 1979_MC )_) ,_, Halderman_NP1 v._II Pennhurst_NP1 State_NN1 
+School_NN1 de_NP1 Hospital_NN1 ,_, 673_MC F._NP1 2d_NNU 647_MC ,_, 655_MC (_( 
+3rd_MD Cir._NP1 1982_MC )_) ,_, and_CC despite_II the_AT rhetorical_JJ 
+flourishes_NN2 ,_, has_VHZ not_XX been_VBN contested_VVN by_II petitioners_NN2 
+here_RL or_CC ,_, indeed_RR ,_, in_II the_AT court_NN1 below_RL ._. 
+The_AT plain_JJ fact_NN1 is_VBZ that_CST the_AT prospective_JJ injunctive_JJ 
+remedy_NN1 ordered_VVN in_II this_DD1 case_NN1 is_VBZ less_RGR expensive_JJ 
+than_CSN the_AT wrong_JJ ._. 
+That_DD1 finding_NN1 has_VHZ been_VBN recognized_VVN in_II this_DD1 Court_NN1 
+._. 
+451_MC U._NP1 S._NP1 at_II 49_MC (_( dissenting_VVG opinion_NN1 )_) If_CS ,_, 
+however_RR ,_, someone_PN1 should_VM nevertheless_RR choose_VVI to_TO 
+suppose_VVI that_DD1 structured_JJ family-scale_JJ community_NN1 living_NN1 
+arrangements_NN2 were_VBDR more_RGR costly_JJ than_CSN Pennhurst_NP1 ,_, 
+settled_VVD law_NN1 ,_, citing_VVG Siler_JJR as_CSA authoritative_JJ ,_, 
+upholds_VVZ the_AT decision_NN1 even_RR of_IO pendent_JJ claims_NN2 which_DDQ 
+have_VH0 a_AT1 direct_JJ and_CC adverse_JJ consequence_NN1 upon_II a_AT1 
+states_NN2 treasury_NN1 ._. 
+See_VV0 ,_, for_REX21 example_REX22 ,_, the_AT Greene_NP1 cases_NN2 ,_, 
+supra_NN1 ._. 
+Not_XX only_RR is_VBZ there_RL in_II fact_NN1 no_AT adverse_JJ consequence_NN1 
+to_II the_AT state_NN1 treasury_NN1 here_RL ,_, but_CCB any_DD imagined_JJ 
+adverse_JJ consequence_NN1 is_VBZ fully_RR within_II the_AT bound_NN1 7_MC ._. 
+See_VV0 C._NP1 E._NP1 Jacobs_NP2 ,_, The_AT Eleventh_MD Amendment_NN1 and_CC 
+Sovereign_JJ Immunity_NN1 7_MC ,_, 160-61_MCMC (_( 1972_MC )_) 1_MC1 
+Argumen_NP1 set_VVD by_II Edelman_NP1 v._II Jordan_NP1 ,_, 415_MC U._NP1 
+S._NP1 651_MC ,_, 667-68_MCMC ,_, 677_MC (_( 1974_MC )_) Even_CS21 if_CS22 
+Edelman_NP1 v._II Jordan_NP1 ,_, 415_MC U._NP1 S._NP1 651_MC (_( 1974_MC )_) 
+,_, was_VBDZ correctly_RR decideda_NN1 problematic_JJ matter_NN1 ,_, 
+although_CS entirely_RR separate_VV0 from_II this_DD1 argument_NN1 ,_, see_VV0 
+pages_NN2 27-30_MCMC infra._NNU the_AT injunctive_JJ relief_NN1 here_RL is_VBZ 
+prospective_JJ in_II nature_NN1 only_RR and_CC even_RR any_DD imagined_JJ 
+fiscal_JJ consequences_NN2 to_II the_AT state_NN1 treasury_NN1 are_VBR 
+those_DD2 approved_VVN by_II Edelman_NP1 itself_PPX1 ,_, namely_REX ,_, the_AT 
+necessary_JJ result_NN1 of_IO compliance_NN1 with_IW decrees_NN2 which_DDQ 
+by_II their_APPGE terms_NN2 &lsqb_( are_VBR &rsqb_) prospective_JJ in_II 
+nature_NN1 ._. 
+Id_NN1 ._. 
+at_II 667-68_MCMC ,_, 677_MC Under_II Edelman_NP1 ,_, an_AT1 Eleventh_MD 
+Amendment_NN1 question_NN1 can_VM arise_VVI with_II31 respect_II32 to_II33 
+injunctive_JJ relief_NN1 only_RR where_CS there_EX are_VBR in_II fact_NN1 
+actual_JJ cost_NN1 consequences_NN2 from_II an_AT1 injunction_NN1 upon_II 
+a_AT1 state_NN1 treasury_NN1 which_DDQ are_VBR retrospective_JJ or_CC 
+direct_JJ and_CC adverse_JJ ._. 
+Here_RL the_AT consequences_NN2 are_VBR not_XX adverse_JJ ,_, not_XX direct_RR 
+,_, and_CC not_XX retrospective_JJ ._. 
+Neither_RR on_II this_DD1 ground_NN1 ,_, nor_CC any_DD other_JJ ,_, does_VDZ 
+the_AT exercise_NN1 of_IO pendent_JJ jurisdiction_NN1 in_II this_DD1 case_NN1 
+raise_VV0 any_DD question_NN1 at_II all_DB under_II the_AT Eleventh_MD 
+Amendment_NN1 B._NP1 Petitioners_NN2 Novel_JJ Proposal_NN1 Would_VM 
+Abolish_VV0 Pendent_JJ Jurisdiction_NN1 in_II Disputes_NN2 Involving_VVG 
+State_NN1 Officials_NN2 It_PPH1 is_VBZ no_AT small_JJ alteration_NN1 in_II 
+the_AT settled_JJ course_NN1 of_IO judicial_JJ proceedings_NN2 which_DDQ 
+petitioners_NN2 would_VM propose_VVI this_DD1 Court_NN1 embrace_NN1 ._. 
+As_II the_AT long-settled_JJ nature_NN1 of_IO pendent_JJ jurisdiction_NN1 
+would_VM suggest_VVI ,_, the_AT lower_JJR federal_JJ courts_NN2 do_VD0 in_II 
+fact_NN1 and_CC extensively_RR exercise_VV0 pendent_JJ jurisdiction_NN1 and_CC 
+issue_VV0 prospective_JJ injunctive_JJ relief_NN1 to_TO correct_VVI 
+violations_NN2 of_IO state_NN1 law_NN1 ._. 
+Frequently_RR enough_DD prospective_JJ injunctive_JJ relief_NN1 to_TO 
+correct_VVI violations_NN2 of_IO state_NN1 law_NN1 is_VBZ issued_VVN upon_II 
+state_NN1 officials_NN2 Consider_VV0 especially_RR claims_VVZ by_II 
+citizens_NN2 against_II officials_NN2 to_TO vindicate_VVI important_JJ 
+public_NN1 and_CC personal_JJ rightsright_NN1 Argumen_NN2 1_MC1 which_DDQ 
+are_VBR substantially_RR clear_JJ to_TO be_VBI theirs_PPGE under_II the_AT 
+Constitution_NN1 and_CC even_RR undoubtedly_RR theirs_PPGE under_II state_NN1 
+law_NN1 ,_, as_CSA in_II this_DD1 case_NN1 ._. 
+Consider_VV0 only_RR that_DD1 small_JJ part_NN1 of_IO the_AT confusion_NN1 
+in_II judicial_JJ administration_NN1 and_CC the_AT frustration_NN1 of_IO 
+important_JJ personal_JJ and_CC public_JJ interests_NN2 which_DDQ ,_, 
+for_REX21 example_REX22 ,_, would_VM ariseas_NN2 it_PPH1 would_VM in_II 
+Pennsylvaniafrom_NP1 an_AT1 absence_NN1 of_IO a_AT1 procedure_NN1 for_IF 
+certification_NN1 of_IO state_NN1 law_NN1 questions_NN2 to_TO state_VVI 
+courts_NN2 ._. 
+When_RRQ and_CC where_RRQ would_VM a_AT1 state_NN1 law_NN1 claimeven_NN1 ,_, 
+as_CSA here_RL ,_, an_AT1 undoubtedly_RR determinative_JJ state_NN1 law_NN1 
+claimbe_NN1 heard_VVN ?_? 
+If_CS delay_NN1 is_VBZ a_AT1 problem_NN1 in_II the_AT federal_JJ judiciary_NN1 
+,_, it_PPH1 is_VBZ not_XX less_RRR a_AT1 problem_NN1 in_II the_AT state_NN1 
+courts_NN2 ._. 
+Illustratively_RR ,_, in_RP In_RP re_II Stover_NP1 ,_, supra_NN1 ,_, a_AT1 
+claim_NN1 by_II an_AT1 individual_JJ retarded_JJ citizennot_NN1 as_CSA here_RL 
+a_AT1 claim_NN1 by_II the_AT class_NN1 of_IO residents_NN2 of_IO another_DD1 
+institutiona_NN1 favorable_JJ adjudication_NN1 came_VVD only_RR after_II 
+the_AT commitment_NN1 had_VHD expired_VVN and_CC that_DD1 citizen_NN1 had_VHD 
+left_VVN the_AT institution_NN1 whose_DDQGE conditions_NN2 were_VBDR 
+complained_VVN of_IO ._. 
+443_MC A._NNU 2d_NNU at_II 330_MC &; n._NNU 2_MC ._. 
+In_II circumstances_NN2 ,_, as_CSA in_II this_DD1 case_NN1 ,_, where_CS 
+it_PPH1 is_VBZ substantially_RR clear_VV0 that_CST the_AT rights_NN2 
+claimed_VVD to_TO have_VHI been_VBN violated_VVN by_II state_NN1 officials_NN2 
+are_VBR indeed_RR the_AT citizens_NN2 rights_NN2 under_II the_AT federal_JJ 
+Constitution_NN1 andas_NN2 hereare_VV0 undoubtedly_RR theirs_PPGE under_II 
+state_NN1 law_NN1 ,_, is_VBZ the_AT determination_NN1 of_IO federal_JJ 
+rights_NN2 to_TO be_VBI held_VVN in_II abeyance_NN1 while_CS resort_NN1 is_VBZ 
+had_VHN to_II the_AT state_NN1 courts_NN2 or_CC are_VBR the_AT 
+Constitutional_JJ issues_NN2 to_TO be_VBI prematurely_RR and_CC perhaps_RR 
+unnecessarily_RR decided_VVN by_II the_AT federal_JJ court_NN1 while_CS the_AT 
+state_NN1 claim_NN1 pends_VVZ in_II the_AT state_NN1 court_NN1 system_NN1 ?_? 
+Suppose_VV0 the_AT rights_NN2 at_II issue_NN1 are_VBR present_JJ rights_NN2 
+in_II the_AT legal_JJ sense_NN1 ,_, Watson_NP1 v._II City_NN1 of_IO 
+Memphis_NP1 ,_, 373_MC U._NP1 S._NP1 526_MC ,_, 532-33_MCMC (_( 1963_MC )_) 
+or_CC are_VBR pressing_JJ concerns_NN2 in_II the_AT real_JJ world_NN1 
+sense_NN1 that_CST the_AT incontestably_RR abominable_JJ conditions_NN2 of_IO 
+Pennhurst_NP1 are_VBR to_II the_AT retarded_JJ residents_NN2 of_IO 
+Pennhurst_NP1 Such_DA considerations_NN2 are_VBR separate_JJ and_CC apart_II21 
+from_II22 the_AT actual_JJ effect_NN1 upon_II the_AT adjudication_NN1 of_IO 
+a_AT1 case_NN1 like_II this_DD1 one_PN1 and_CC the_AT vindication_NN1 of_IO 
+citizen_NN1 claims_VVZ like_II this_DD1 one_PN1 agains_VVZ 1_MC1 Argumen_NN2 
+state_VV0 officials_NN2 which_DDQ proceeds_VVZ from_II the_AT difference_NN1 
+in_II the_AT life-time_NNT1 tenure_NN1 of_IO federal_JJ judges_NN2 and_CC 
+the_AT consequent_JJ independence_NN1 of_IO the_AT federal_JJ judiciarya_NN1 
+fundamental_JJ ,_, marked_JJ and_CC consciously_RR chosen_VVN value_NN1 in_II 
+the_AT original_JJ understanding_NN1 of_IO our_APPGE federalism_NN1 which_DDQ 
+was_VBDZ expressed_VVN and_CC established_VVN in_II Article_NN1 IIIand_VV0 
+the_AT short-term_JJ tenure_NN1 of_IO elected_JJ state_NN1 court_NN1 
+judges_VVZ as_CSA in_II Pennsylvania_NP1 ._. 
+See_VV0 pages_NN2 20-23_MCMC ,_, infra_RR If_CS petitioners_NN2 should_VM 
+rejoin_VVI that_DD1 federal_JJ courts_NN2 may_VM properly_RR hear_VVI and_CC 
+determine_VVI a_AT1 properly_RR pendent_JJ state_NN1 law_NN1 claim_NN1 but_CCB 
+only_RR can_VM not_XX issue_VVI orders_NN2 like_II the_AT prospective_JJ 
+injunctive_JJ relief_NN1 issued_VVD hereas_NN2 sometimes_RT their_APPGE 
+Brief_NN1 appears_VVZ to_II saythen_NN1 it_PPH1 must_VM be_VBI further_RRR 
+said_VVN that_CST federal_JJ courts_NN2 which_DDQ can_VM not_XX invoke_VVI 
+remedies_NN2 which_DDQ ,_, given_VVN the_AT practicalities_NN2 of_IO the_AT 
+situation_NN1 ,_, promise_VV0 realistically_RR to_TO work_VVI 8_MC would_VM 
+notand_VVI properly_RR should_VM not9enter_FO upo_NN1 8_MC ._. 
+Such_DA is_VBZ one_MC1 dimension_NN1 of_IO settled_JJ remedial_JJ 
+standards_NN2 ,_, in_II public_JJ law_NN1 cases_NN2 as_CSA in_RR21 
+private_RR22 law_NN1 cases_NN2 ._. 
+See_VV0 Davis_NP1 v._II Board_NN1 of_IO School_NN1 Commissioners_NN2 of_IO 
+Mobile_NP1 County_NN1 ,_, 402_MC U._NP1 S._NP1 33_MC ,_, 37_MC (_( 1971_MC )_) 
+;_; Green_JJ v._II County_NN1 School_NN1 Board_NN1 of_IO New_JJ Kent_NP1 
+County_NN1 ,_, 391_MC U._NP1 S._NP1 340_MC ,_, 439_MC (_( 1968_MC )_) ;_; 
+Milliken_NP1 v._II Bradley_NP1 ,_, 433_MC U._NP1 S._NP1 267_MC ,_, 280_MC 
+n._NNU 15_MC (_( 1977_MC )_) The_AT prospective_JJ injunctive_JJ remedy_NN1 
+rhetorically_RR asserted_VVD by_II petitioners_NN2 to_TO be_VBI intrusive_JJ 
+and_CC asserted_VVD to_TO be_VBI an_AT1 improper_JJ exercise_NN1 of_IO 
+pendent_JJ jurisdiction_NN1 meets_VVZ exactly_RR these_DD2 remedial_JJ 
+standards_NN2 and_CC ,_, indeed_RR ,_, in_II the_AT consistently_RR 
+expressed_VVN view_NN1 of_IO the_AT defendant_NN1 state_NN1 officials_NN2 
+themselves_PPX2 ,_, was_VBDZ the_AT only_JJ practicable_JJ and_CC effective_JJ 
+remedy_NN1 for_IF the_AT wrongs_NN2 of_IO Pennhurst_NN1 ._. 
+The_AT movement_NN1 of_IO retarded_JJ people_NN from_II Pennhurst_NN1 to_II 
+family-scale_NN1 community_NN1 facilities_NN2 was_VBDZ the_AT remedy_NN1 
+recommended_VVN by_II defendant_NN1 state_NN1 officials_NN2 to_II the_AT 
+district_NN1 court_NN1 after_II its_APPGE finding_NN1 of_IO Pennhursts_NP1 
+violations_NN2 ._. 
+Many_DA2 times_NNT2 during_II the_AT decade_NNT1 before_II judgment_NN1 
+state_NN1 officials_NN2 had_VHD expressed_VVN their_APPGE same_DA 
+conclusion_NN1 :_: that_CST the_AT only_JJ effective_JJ cure_NN1 for_IF 
+Pennhursts_NP1 conditions_NN2 was_VBDZ to_TO move_VVI out_RP ._. 
+To_TO undertake_VVI to_TO fix_VVI Pennhurst_VV0 up_RP ,_, was_VBDZ ,_, on_II 
+the_AT state_NN1 officials_NN2 own_DA conclusions_NN2 ,_, both_RR vain_JJ 
+and_CC vastly_RR more_RGR costly_JJ ._. 
+Full_JJ citations_NN2 to_II the_AT findings_NN2 of_IO the_AT courts_NN2 
+below_RL and_CC to_II the_AT record_NN1 which_DDQ supports_VVZ them_PPHO2 
+are_VBR set_VVN forth_RR in_II the_AT red_JJ Brief_NN1 of_IO Respondents_NN2 
+PARC_NP1 et_RA21 al_RA22 ._. 
+in_II Pennhurst_NP1 I_ZZ1 (_( Nos._NN2 79-1404_MCMC et_RA21 al._RA22 )_) at_II 
+45-49_MCMC Argumen_NP1 1_MC1 the_AT matter_NN1 at_RR21 all_RR22 ._. 
+The_AT practical_JJ effect_NN1 of_IO even_RR the_AT most_RGT modest_JJ 
+alteration_NN1 in_II settled_JJ pendent_JJ jurisdiction_NN1 doctrine_NN1 
+as_CSA petitioners_NN2 may_VM be_VBI read_VVN to_TO propose_VVI is_VBZ ,_, 
+thus_RR ,_, nothing_PN1 short_JJ of_IO the_AT abolition_NN1 of_IO pendent_JJ 
+jurisdiction_NN1 in_II disputes_NN2 involving_VVG citizens_NN2 and_CC 
+their_APPGE state_NN1 officials_NN2 Such_DA a_AT1 major_JJ wrenching_NN1 of_IO 
+settled_JJ law_NN1 would_VM raise_VVI difficult_JJ issues_NN2 concerning_II 
+the_AT design_NN1 and_CC scope_NN1 of_IO what_DDQ would_VM follow_VVI ._. 
+Here_RL ,_, just_RR as_CSA the_AT Court_NN1 held_VVD last_MD term_NN1 in_II 
+Patsy_NP1 v._II Board_NN1 of_IO Regents_NP1 of_IO the_AT State_NN1 of_IO 
+Florida_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+2557_MC ,_, 2567_MC (_( 1982_MC )_) These_DD2 and_CC similar_JJ questions_NN2 
+might_VM be_VBI answered_VVN swiftly_RR and_CC surely_RR by_II legislation_NN1 
+,_, but_CCB would_VM create_VVI costly_JJ ,_, remedy-delaying_NN1 ,_, and_CC 
+court-burdening_JJ litigation_NN1 if_CS answered_VVN incrementally_RR by_II 
+the_AT judiciary_NN1 in_II the_AT context_NN1 of_IO diverse_JJ 
+constitutional_JJ claims_NN2 relating_VVG to_II thousands_NNO2 of_IO 
+different_JJ state_NN1 agencies_NN2 ._. 
+C._NP1 Pendent_NP1 Jurisdiction_NN1 Over_II State_NN1 Statute_NN1 Law_NN1 
+Claims_VVZ for_IF Injunctive_JJ Relief_NN1 Against_II State_NN1 Officials_NN2 
+Should_VM Not_XX Be_VBI Abolished_VVN in_II Cases_NN2 of_IO This_DD1 Kind_NN1 
+Nor_CC Should_VM Comity_NP1 Be_VBI Used_VVN to_II Eschew_NP1 Effective_JJ 
+Relief_NN1 From_II Official_JJ Wrongs_NN2 At_II the_AT heart_NN1 of_IO 
+comity_NN1 is_VBZ the_AT nature_NN1 of_IO the_AT issue_NN1 ._. 
+Petitioners_NN2 disembodied_VVD address_NN1 of_IO the_AT issues_NN2 here_RL 
+notwithstanding_RR ,_, this_DD1 case_NN1 concerns_VVZ real_JJ wrongs_NN2 to_II 
+real_JJ people_NN and_CC the_AT state_NN1 statute_NN1 whose_DDQGE 
+enforcement_NN1 is_VBZ at_II issue_NN1 has_VHZ concrete_JJ historical_JJ 
+context_NN1 9_MC ._. 
+See_VV0 ,_, e.g._REX ,_, Chapman_NP1 v._II Houston_NP1 Welfare_NN1 Rights_NN2 
+Organization_NN1 ,_, 441_MC U._NP1 S._NP1 600_MC ,_, 672_MC (_( 1979_MC )_) 
+(_( dissenting_VVG )_) ,_, where_CS the_AT often_RR repeated_VVN theme_NN1 
+tha_DD1 &lsqb_( P_ZZ1 &rsqb_) revision_NN1 of_IO remedies_NN2 for_IF 
+denial_NN1 of_IO rights_NN2 to_II some_DD persons_NN2 is_VBZ essential_JJ 
+to_II the_AT realization_NN1 of_IO these_DD2 rights_NN2 for_IF all_DB 
+persons_NN2 ._. 
+However_RR ,_, a_AT1 remedya_NN1 cause_NN1 of_IO action_NN1 without_IW 
+moreguarantees_NN2 neither_RR equality_NN1 or_CC underlying_VVG rights._NNU 
+was_VBDZ stated_VVN by_II Justice_NP1 White_NP1 1_MC1 Argumen_NP1 Fair_JJ 
+Assessment_NN1 in_II Real_JJ Estate_NN1 Assn_NN1 ,_, Inc._JJ v._II McNary_NP1 
+,_, 102_MC S._NP1 Ct_NP1 ._. 
+177_MC (_( 1981_MC )_) ,_, in_II both_DB2 the_AT concurring_NN1 and_CC the_AT 
+prevailing_JJ Opinions_NN2 ,_, makes_VVZ exactly_RR the_AT point_NN1 ._. 
+Considerations_NN2 of_IO comity_NN1 do_VD0 ,_, and_CC should_VM ,_, yield_VV0 
+opposite_JJ results_NN2 in_II the_AT exercise_NN1 or_CC not_XX of_IO 
+iederal_JJ court_NN1 jurisdiction_NN1 ,_, depending_VVG upon_II the_AT 
+concrete_JJ historical_JJ context_NN1 in_II which_DDQ the_AT issue_NN1 is_VBZ 
+formulated_VVN The_AT nature_NN1 ,_, purpose_NN1 and_CC context_NN1 of_IO 
+the_AT state_NN1 statute_NN1 here_RL ,_, the_AT circumstances_NN2 which_DDQ 
+bear_VV0 upon_II its_APPGE effective_JJ judicial_JJ enforcement_NN1 ,_, and_CC 
+the_AT certainty_NN1 with_IW which_DDQ it_PPH1 must_VM be_VBI said_VVN 
+that_CST in_II this_DD1 case_NN1 state_NN1 officials_NN2 have_VH0 acted_VVN 
+outside_II the_AT bounds_NN2 of_IO their_APPGE state_NN1 statutory_JJ 
+charge_NN1 illustrate_VV0 exactly_RR the_AT situation_NN1 in_II which_DDQ 
+pendent_JJ jurisdiction_NN1 is_VBZ untroubled_JJ by_II comity_NN1 and_CC 
+should_VM be_VBI exercised_VVN 1_MC1 ._. 
+The_AT State_NN1 Statute_NN1 Here_RL Is_VBZ Peculiarly_RR Appropriate_JJ 
+for_IF Federal_JJ Enforcement_NN1 Since_CS It_PPH1 Embodies_VVZ 
+Authoritatively_RR Declared_VVN Federal_JJ Policy_NN1 In_II Gibbs_NP1 ,_, 
+383_MC U._NP1 S._NP1 at_II 727_MC ,_, the_AT Court_NN1 wrote_VVD There_EX 
+may_VM ..._... be_VBI situations_NN2 in_II which_DDQ the_AT state_NN1 
+claim_NN1 is_VBZ so_RG closely_RR tied_VVN to_II questions_NN2 of_IO 
+federal_JJ policy_NN1 that_CST the_AT argument_NN1 for_IF the_AT exercise_NN1 
+of_IO pendent_JJ jurisdiction_NN1 is_VBZ particularly_RR strong_JJ ._. 
+This_DD1 case_NN1 presents_VVZ such_DA a_AT1 situation_NN1 ._. 
+Pennsylvanias_NP2 1966_MC Retardation_NN1 Act_NN1 ,_, for_IF consideration_NN1 
+of_IO which_DDQ in_II31 light_II32 of_II33 the_AT then_JJ recent_JJ 
+Pennsylvania_NP1 Supreme_JJ Court_NN1 decision_NN1 in_II In_RP re_II 
+Schmidt_NP1 this_DD1 Court_NN1 remanded_VVN this_DD1 case_NN1 to_II the_AT 
+Court_NN1 of_IO Appeals_NN2 ,_, is_VBZ no_AT mere_JJ state_NN1 statute_NN1 ._. 
+This_DD1 state_NN1 statute_NN1 reflects_VVZ and_CC embraces_VVZ national_JJ 
+values_NN2 in_II the_AT treatment_NN1 of_IO retarded_JJ people_NN ,_, 
+which_DDQ had_VHD been_VBN authoritatively_RR declared_VVN by_II the_AT 
+very_JJ instrument_NN1 to_II which_DDQ the_AT Founding_JJ Fathers_NN2 
+confided_VVD their_APPGE promulgation_NN1 ,_, the_AT federal_JJ Congress.10_FO 
+Thi_NN1 10_MC ._. 
+The_AT Federalist_JJ Papers_NN2 ,_, e.g._REX ,_, Nos._NN2 9_MC ,_, 43_MC 
+Argumen_NN2 1_MC1 state_NN1 statute_NN1 is_VBZ avowedly_RR a_AT1 product_NN1 
+of_IO precisely_RR the_AT encouragement_NN1 which_DDQ the_AT 
+Developmentally_NP1 Disabled_JJ Assistance_NN1 and_CC Bill_NN1 of_IO 
+Rights_NN2 Act_NN1 and_CC its_APPGE predecessor_NN1 Acts_NN2 of_IO 
+Congress_NN1 ,_, in_II the_AT word_NN1 of_IO this_DD1 Court_NN1 in_II 
+Pennhurst_NP1 I_ZZ1 ,_, 451_MC U._NP1 S._NP1 at_II 20_MC ,_, undertook_VVD 
+to_TO give_VVI the_AT states_NN2 Written_VVN over_RG two_MC years_NNT2 
+under_II the_AT chairmanship_NN1 of_IO then_RT Pennsylvania_NP1 Secretary_NN1 
+of_IO Public_JJ Welfare_NN1 ,_, Arlin_NP1 M._NN1 Adams_NP1 ,_, enacted_VVN 
+by_II a_AT1 unanimous_JJ state_NN1 legislature_NN1 meeting_VVG in_II 
+special_JJ session_NNT1 ,_, the_AT 1966_MC state_NN1 statute_NN1 was_VBDZ 
+a_AT1 direct_JJ response_NN1 by_II the_AT state_NN1 to_II federal_JJ 
+initiatives_NN2 and_CC explicitly_RR incorporated_VVN as_CSA its_APPGE 
+mandate_NN1 the_AT objectives_NN2 of_IO federal_JJ policy_NN1 ._. 
+On_II February_NPM1 5_MC ,_, 1963_MC ,_, following_VVG the_AT findings_NN2 
+of_IO his_APPGE Presidents_NN2 Panel_NN1 on_II Mental_JJ Retardation_NN1 ,_, 
+President_NNB Kennedy_NP1 had_VHD delivered_VVN a_AT1 Special_JJ Message_NN1 
+to_II the_AT Congress_NN1 calling_VVG its_APPGE attention_NN1 to_II the_AT 
+antiquated_JJ ,_, vastly_RR overcrowded_JJ chain_NN1 of_IO custodial_JJ 
+state_NN1 institutions_NN2 ,_, declaring_VVG that_CST Services_NN2 to_II 
+the_AT mentally_RR retarded_JJ must_VM be_VBI community_NN1 based_VVN ._. 
+._. ._. ._. &lsqb_( That_DD1 &rsqb_) &lsqb_( w_ZZ1 &rsqb_) e_ZZ1 must_VM 
+move_VVI from_II the_AT outmoded_JJ use_NN1 of_IO distant_JJ custodial_JJ 
+institutions_NN2 to_II the_AT concept_NN1 of_IO community_NN1 centered_VVD 
+agencies._NNU and_CC calling_VVG upon_II the_AT Congress_NN1 to_TO 
+legislate_VVI To_TO retain_VVI in_RP and_CC return_VVI to_II the_AT 
+community_NN1 ._. 
+._. ._. the_AT mentally_RR retarded_JJ and_CC there_RL to_TO restore_VVI 
+and_CC revitalize_VVI their_APPGE lives._NNU 1963_MC Public_JJ Papers_NN2 
+of_IO the_AT President_NN1 ,_, 126_MC ,_, at_II 128_MC ,_, 134.137_MC ;_; 
+109_MC Cong_NP1 ._. 
+Rec._NP1 1837_MC ,_, at_II 1838_MC ,_, 1841-42_MCMC ._. 
+Congress_NN1 thereupon_RT had_VHD enacted_VVN the_AT Maternal_JJ and_CC 
+Child_NN1 Health_NN1 and_CC Mental_JJ Retardation_NN1 Planning_NN1 
+Amendments_NN2 of_IO 1963_MC ,_, P._NP1 L._NP1 68-156_MCMC ,_, 77_MC Stat._NP1 
+273_MC ._. 
+This_DD1 federal_JJ act_NN1 provided_CS funds_NN2 to_TO be_VBI used_VVN by_II 
+the_AT states_NN2 to_TO determine_VVI what_DDQ action_NN1 is_VBZ needed_VVN 
+to_TO combat_VVI mental_JJ retardation_NN1 in_II the_AT state_NN1 and_CC 
+the_AT resources_NN2 available_JJ for_IF this_DD1 purpose._NNU 1_MC1 11_MC ._. 
+The_AT Presidents_NN2 Panel_NN1 on_II Mental_JJ Retardation_NN1 had_VHD 
+urged_VVN that_CST the_AT governor_NN1 of_IO each_DD1 state_NN1 ._. 
+._. ._. should_VM review_VVI the_AT array_NN1 o_ZZ1 1_MC1 Argumen_NP1 
+Pennsylvania_NP1 did_VDD so_RR determine_VVI and_CC its_APPGE 
+determination_NN1 is_VBZ set_VVN forth_RR in_II the_AT 1966_MC Act_NN1 ._. 
+Pennsylvania_NP1 was_VBDZ encouraged_VVN ._. 
+It_PPH1 embraced_VVD in_II state_NN1 statutory_JJ mandate_NN1 what_DDQ 
+this_DD1 Court_NN1 itself_PPX1 found_VVN to_TO be_VBI clear_JJ federal_JJ 
+policy_NN1 ,_, Pennhurst_VV0 I_PPIS1 ,_, 451_MC U._NP1 S._NP1 at_II 22_MC (_( 
+Courts_NN2 italics_NN2 )_) ,_, to_TO be_VBI implemented_VVN in_II a_AT1 
+co-operative_JJ program_NN1 of_IO shared_JJ responsibilities_NN2 ._. 
+Ibid_RR ._. 
+(_( Italics_NN2 supplied_VVD ._. )_) 
+Senator_NNB Pechan_NP1 ,_, the_AT 1966_MC Acts_VVZ chief_JJ legislative_JJ 
+sponsor_NN1 ,_, was_VBDZ explicit_JJ :_: The_AT community-based_JJ mandate_NN1 
+of_IO Pennsylvanias_NP2 1966_MC Act_NN1 tied_VVD local_JJ government_NN1 
+into_II a_AT1 partnership_NN1 which_DDQ already_RR includes_VVZ the_AT 
+State_NN1 and_CC the_AT Federal_JJ Government_NN1 ._. 
+He_PPHS1 acknowledged_VVD that_CST Federal_JJ legislation_NN1 and_CC 
+federal_JJ funds_NN2 ._. 
+._. ._. have_VH0 given_VVN a_AT1 mighty_JJ impetus_NN1 to_II the_AT 
+improvement_NN1 of_IO services_NN2 for_IF the_AT mentally_RR disabled_JJ ._. 
+The_AT Senate_NN1 Minority_NN1 Leader_NN1 noted_VVD that_CST the_AT Act_NN1 
+required_VVN what_DDQ President_NNB Kennedy_NP1 had_VHD promoted_VVN so_RG 
+assiduously_RR ,_, namely_REX community_NN1 mental_JJ health_NN1 services_NN2 
+._. 
+As_II21 to_II22 the_AT future_NN1 of_IO the_AT joint_JJ venture_NN1 
+cemented_VVN by_II the_AT 1966_MC Act_NN1 ,_, the_AT chief_JJ sponsor_NN1 
+said_VVD :_: This_DD1 partnership_NN1 will_VM extend_VVI into_II 
+policy-making_NN1 ,_, as_RG well_RR as_CSA into_II the_AT administration_NN1 
+and_CC financing_NN1 of_IO the_AT program._NNU 1966_MC Pa_NP1 ._. 
+Legislative_JJ Journal_NN1 ,_, 3d_NNU Special_JJ Sess._NP1 ,_, No._NN1 34_MC 
+at_II 76_MC ,_, 77_MC (_( Septem-ber_NPM1 27_MC ,_, 1966_MC )_) .11_MC 1_MC1 
+11_MC ._. 
+(_( Contd_VV0 major_JJ services_NN2 outlined_VVN in_II this_DD1 report_NN1 ,_, 
+identifying_VVG the_AT branch_NN1 of_IO state_NN1 government_NN1 which_DDQ 
+is_VBZ ,_, or_CC should_VM be_VBI ,_, discharging_VVG each_DD1 
+responsibility_NN1 noted_VVN ;_; and_CC assess_VV0 the_AT extent_NN1 to_II 
+which_DDQ each_DD1 function_NN1 should_VM be_VBI strengthened_VVN ._. 
+Report_NN1 to_II the_AT President_NN1 :_: A_ZZ1 Proposed_JJ Program_NN1 for_IF 
+National_JJ Action_NN1 to_TO Combat_VV0 Mental_JJ Retardation_NN1 165_MC (_( 
+1962_MC )_) 12_MC ._. 
+The_AT development_NN1 of_IO the_AT 1966_MC Act_NN1 is_VBZ described_VVN ,_, 
+inter_RR21 alia_RR22 ,_, in_II Com_NN1 ._. 
+of_IO Pa._NP1 ,_, Comprehensive_JJ Mental_JJ Retardation_NN1 Plan_NN1 ,_, 
+December_NPM1 ,_, 1965_MC ,_, 7-17_MCMC ,_, 59_MC ,_, which_DDQ is_VBZ 
+PARC_NP1 Exhibit_NN1 18_MC in_II the_AT record_NN1 of_IO this_DD1 case_NN1 
+The_AT legislative_JJ history_NN1 of_IO the_AT 1966_MC Act_NN1 is_VBZ fully_RR 
+described_VVN at_II pages_NN2 23-27_MCMC in_II the_AT blue_JJ Brief_NN1 in_II 
+Opposition_NN1 of_IO Respondents_NN2 PARC_NP1 et_RA21 al_RA22 ._. 
+(_( Nos._NN2 79-1404_MCMC et_RA21 al_RA22 ._. )_) 
+Argumen_NN2 1_MC1 The_AT mandate_NN1 of_IO this_DD1 state_NN1 statute_NN1 ,_, 
+therefore_RR ,_, is_VBZ so_RG clearly_RR tied_VVN toso_NN1 clearly_RR 
+expressive_JJ of_IO central_JJ values_NN2 declared_VVD infederal_JJ policy_NN1 
+that_CST the_AT argument_NN1 for_IF the_AT exercise_NN1 of_IO pendent_JJ 
+jurisdiction_NN1 to_TO enforce_VVI this_DD1 state_NN1 statute_NN1 is_VBZ 
+particularly_RR strong_JJ ._. 
+Gibbs_NP1 ,_, supra_NN1 Comity_NN1 bears_NN2 against_II the_AT exercise_NN1 
+of_IO federal_JJ jurisdiction_NN1 over_II tax_NN1 cases_NN2 in_II 
+substantial_JJ part_NN1 because_CS fair_JJ state_NN1 taxation_NN1 of_IO 
+out-of-state_JJ corporations_NN2 has_VHZ long_RR since_CS ceased_VVN to_TO 
+be_VBI a_AT1 concern_NN1 of_IO national_JJ policy_NN1 ,_, e.g._REX ,_, 102_MC 
+S._NP1 Ct_NP1 ._. 
+at_II 194_MC ,_, as_CSA both_RR the_AT majority_NN1 and_CC concurring_VVG 
+opinions_NN2 in_II Fair_JJ Assessment_NN1 hold_NN1 ,_, reflecting_VVG both_RR 
+a_AT1 change_NN1 in_II world_NN1 relationship_NN1 between_II such_DA 
+corporations_NN2 and_CC state_VV0 officials_NN2 and_CC in_II the_AT 
+adequacy_NN1 and_CC effectiveness_NN1 of_IO state_NN1 court_NN1 remedies_NN2 
+,_, e.g._REX ,_, 102_MC S._NP1 Ct_NP1 ._. 
+at_II 186_MC ._. 
+Here_RL ,_, national_JJ policy_NN1 concerns_NN2 are_VBR very_RG much_DA1 
+still_RR open_VV0 ._. 
+State_VV0 officials_NN2 ,_, as_CSA the_AT record_NN1 of_IO this_DD1 case_NN1 
+shows_NN2 ,_, have_VH0 not_XX in_II fact_NN1 struck_VVD a_AT1 relationship_NN1 
+with_IW retarded_JJ people_NN that_CST satisfies_VVZ the_AT state_NN1 
+statute_NN1 or_CC national_JJ policy_NN1 ._. 
+There_EX is_VBZ good_JJ reason_NN1 to_TO know_VVI that_CST the_AT state_NN1 
+courts_NN2 probably_RR can_VM not_XX ,_, because_II21 of_II22 their_APPGE 
+institutional_JJ situation_NN1 ,_, effectively_RR enforce_VV0 the_AT 
+requirements_NN2 of_IO the_AT law_NN1 This_DD1 is_VBZ not_XX a_AT1 tax_NN1 
+case_NN1 ;_; it_PPH1 concerns_VVZ rather_RG enforcement_NN1 of_IO the_AT 
+civil_JJ rights_NN2 of_IO retarded_JJ people_NN ._. 
+It_PPH1 is_VBZ in_II the_AT tradition_NN1 of_IO those_DD2 civil_JJ rights_NN2 
+matters_NN2 as_II21 to_II22 which_DDQ this_DD1 Court_NN1 has_VHZ 
+consistently_RR been_VBN protective_JJ of_IO the_AT exercise_NN1 of_IO 
+federal_JJ court_NN1 jurisdiction_NN1 ._. 
+Cf._VV0 Patsy_NN1 v._II Board_NN1 of_IO Regents_NP1 of_IO State_NN1 of_IO 
+Florida_NP1 ,_, supra_NN1 ._. 
+This_DD1 case_NN1 is_VBZ like_JJ Patsy_NN1 in_CS21 that_CS22 the_AT 
+national_JJ policy_NN1 expressed_VVN in_II the_AT Civil_JJ Rights_NN2 of_IO 
+Institutionalized_JJ Persons_NN2 Act_VV0 also_RR bears_VVZ upon_II this_DD1 
+case_NN1 ._. 
+The_AT United_NP1 States_NP1 is_VBZ a_AT1 party_NN1 plaintiff_NN1 in_II 
+this_DD1 case_NN1 in_RR21 part_RR22 under_II authority_NN1 of_IO that_DD1 
+federal_JJ statute.13_FO No_AT less_DAR than_CSN as_II t_ZZ1 13_MC ._. 
+Note_VV0 that_CST in_II the_AT Civil_JJ Rights_NN2 of_IO Institutionalized_JJ 
+Persons_NN2 Act_VV0 ,_, Congress_NN1 explicitly_RR provided_CS21 that_CS22 
+the_AT jurisdictional_JJ prerequisites_NN2 of_IO the_AT Act_NN1 do_VD0 not_XX 
+obtain_VVI for_IF private_JJ parties_NN2 suing_VVG on_II similar_JJ 
+matters_NN2 ._. 
+42_MC U._NP1 S._NP1 C._NP1 1997_MC et_FW seq_FW 2_MC Argumen_NN2 prisoners_NN2 
+and_CC more_RRR ,_, because_II21 of_II22 the_AT additional_JJ authoritative_JJ 
+statements_NN2 of_IO national_JJ policy_NN1 with_II31 respect_II32 to_II33 
+retarded_JJ people_NN ,_, that_DD1 statute_NN1 expresses_VVZ the_AT 
+national_JJ interest_NN1 in_II the_AT exercise_NN1 of_IO federal_JJ court_NN1 
+jurisdiction_NN1 effectively_RR to_TO protect_VVI retarded_JJ people_NN 2_MC 
+._. 
+Absent_JJ Article_NN1 III_MC Independence_NN1 ,_, Effective_JJ Enforcement_NN1 
+of_IO the_AT Undoubted_JJ Rights_NN2 Here_RL Would_VM Be_VBI Problematic_JJ 
+A_ZZ1 defining_JJ characteristic_NN1 of_IO the_AT Article_NN1 III_MC 
+judiciary_NN1 is_VBZ its_APPGE independence_NN1 ._. 
+L._NP1 G._NP1 Sager_NP1 ,_, The_AT Supreme_JJ Court_NN1 ,_, 1980_MC 
+TermForeward_NP1 Constitutional_JJ Limitations_NN2 on_II Congress_NN1 
+Authority_NN1 to_TO Regulate_VV0 the_AT Jurisdiction_NN1 of_IO the_AT 
+Federal_JJ Courts_NN2 ,_, 95_MC Harv_NP1 ._. 
+L._NP1 Rev._NNU 17_MC (_( 1981_MC )_) When_RRQ the_AT national_JJ policy_NN1 
+embodied_VVN in_II the_AT state_NN1 statute_NN1 here_RL was_VBDZ being_VBG 
+formulated_VVN ,_, the_AT Presidents_NN2 Panel_NN1 on_II Mental_JJ 
+Retardation_NN1 warned_VVN After_CS nearly_RR 200_MC years_NNT2 of_IO 
+orientation_NN1 to_II the_AT concept_NN1 of_IO congregate_VV0 care_NN1 for_IF 
+the_AT mentally_RR retarded_JJ ._. 
+._. ._. ,_, it_PPH1 is_VBZ difficult_JJ to_TO change_VVI the_AT pattern_NN1 
+and_CC adopt_VVI a_AT1 new_JJ frame_NN1 of_IO reference_NN1 ._. 
+As_CS31 long_CS32 as_CS33 we_PPIS2 have_VH0 major_JJ financial_JJ 
+investments_NN2 in_II large_JJ plants_NN2 ,_, it_PPH1 will_VM be_VBI a_AT1 
+temptation_NN1 to_II some_DD to_TO defend_VVI them_PPHO2 as_CSA 
+satisfactory_JJ or_CC even_RR preferable_JJ ._. 
+Report_NN1 to_II the_AT President_NN1 :_: A_ZZ1 Proposed_JJ Plan_NN1 for_IF 
+National_JJ Action_NN1 to_TO Combat_VV0 Mental_JJ Retardation_NN1 143_MC (_( 
+1962_MC )_) Forty-six_MC million_NNO dollars_NNU2 are_VBR spent_VVN 
+annually_RR at_II Penn-hurst_NN1 ;_; twenty-seven_MC million_NNO annually_RR 
+in_II the_AT year_NNT1 of_IO trial_NN1 ._. 
+Three_MC hundred_NNO million_NNO dollars_NNU2 are_VBR spent_VVN annually_RR 
+in_II Pennsylvanias_NP2 17_MC retardation_NN1 institutions_NN2 ;_; one_MC1 
+hundred_NNO forty_MC four_MC million_NNO in_II the_AT year_NNT1 of_IO 
+trial_NN1 ._. 
+Retardation_NN1 institutions_NN2 are_VBR the_AT single_JJ largest_JJT 
+employer_NN1 in_II Pennsylvania_NP1 government_NN1 ,_, and_CC among_II the_AT 
+largest_JJT employers_NN2 in_II the_AT state_NN1 ,_, wit_NN1 Argumen_NN2 2_MC 
+more_DAR than_CSN 10,000_MC employees_NN2 ._. 
+Pennhurst_VV0 itself_PPX1 had_VHD 1,523_MC employees_NN2 at_II the_AT 
+time_NNT1 of_IO trial_NN1 and_CC 1,436_MC still_RR ._. 
+This_DD1 large_JJ number_NN1 of_IO employees_NN2 makes_VVZ their_APPGE 
+union_NN1 ,_, the_AT American_JJ Federation_NN1 of_IO State_NN1 County_NN1 
+and_CC Municipal_JJ Employees_NN2 ,_, one_MC1 of_IO the_AT most_RGT 
+powerful_JJ political_JJ forces_NN2 in_II the_AT state_NN1 and_CC in_II 
+most_DAT of_IO its_APPGE counties_NN2 ,_, including_II all_DB of_IO the_AT 
+counties_NN2 in_II Southeastern_JJ Pennsylvania_NP1 ._. 
+The_AT size_NN1 of_IO institutional_JJ budgets_NN2 makes_VVZ them_PPHO2 a_AT1 
+major_JJ source_NN1 of_IO business_NN1 for_IF a_AT1 large_JJ number_NN1 of_IO 
+suppliers_NN2 These_DD2 facts_NN2 ,_, and_CC the_AT stake_NN1 they_PPHS2 
+give_VV0 powerful_JJ constituencies_NN2 in_II the_AT major_JJ financial_JJ 
+investments_NN2 in_II large_JJ plants_NN2 ,_, are_VBR foremost_JJT among_II 
+the_AT reasons_NN2 why_RRQ state_NN1 officials_NN2 who_PNQS had_VHD 
+concluded_VVN more_RRR than_CSN a_AT1 decade_NNT1 ago_RA that_CST the_AT 
+only_JJ cure_NN1 for_IF Pennhursts_NP1 abominable_JJ conditions_NN2 was_VBDZ 
+to_TO replace_VVI Pennhurst_NN1 with_IW community_NN1 facilities_NN2 ,_, 
+and_CC who_PNQS without_IW exception_NN1 had_VHD resolved_VVN to_TO do_VDI 
+so_RR ,_, had_VHD not_XX done_VDN so_RR by_II the_AT time_NNT1 of_IO the_AT 
+trial_NN1 of_IO this_DD1 case.14_FO (_( Indeed_RR that_CST the_AT 14_MC ._. 
+See_VV0 ,_, e.g._REX ,_, the_AT testimony_NN1 of_IO Dybwad_NP1 and_CC 
+Schmidt_NP1 ,_, App_NP1 ._. 
+III-562a_FO ,_, 804a_FO ,_, 679a_FO (_( Nos._NN2 79-1404_MCMC et_RA21 al_RA22 
+._. )_) 
+To_TO overcome_VVI this_DD1 obstacle_NN1 plaintiffs_NN2 sought_VVN and_CC 
+secured_VVN an_AT1 order_NN1 from_II the_AT district_NN1 court_NN1 (_( 
+which_DDQ tracked_VVD 6063(b)_FO (_( 7_MC )_) (_( 13_MC )_) of_IO the_AT 
+federal_JJ Developmentally_RR Disabled_JJ Assistance_NN1 and_CC Bill_NN1 of_IO 
+Rights_NN2 Act_NN1 )_) requiring_VVG state_NN1 officials_NN2 to_TO assist_VVI 
+Pennhurst_NN1 employees_NN2 with_IW alternate_JJ jobs_NN2 ._. 
+The_AT Court_NN1 of_IO Appeals_NN2 vacated_VVD this_DD1 part_NN1 of_IO the_AT 
+orders_NN2 The_AT American_JJ Federation_NN1 of_IO State_NN1 County_NN1 and_CC 
+Municipal_JJ Employees_NN2 has_VHZ never_RR been_VBN a_AT1 formal_JJ party_NN1 
+in_II this_DD1 action_NN1 ._. 
+They_PPHS2 have_VH0 nonetheless_RR been_VBN major_JJ participants_NN2 in_II 
+it_PPH1 since_CS its_APPGE appeal_NN1 in_II 1979_MC ._. 
+The_AT Pennhurst_NN1 Parent-Staff_JJ Association_NN1 ,_, formally_RR 
+representing_VVG parents_NN2 and_CC staff_NN of_IO Pennhurst_NP1 
+intervened_VVD on_II appeal_NN1 and_CC has_VHZ since_RR served_VVN as_CSA 
+lead_NN1 counsel_NN1 on_II appeal_NN1 for_IF the_AT entire_JJ set_NN1 of_IO 
+official_JJ defendants_NN2 ._. 
+The_AT costs_NN2 of_IO the_AT prosecution_NN1 of_IO the_AT Associations_NN2 
+appeals_NN2 has_VHZ been_VBN borne_VVN by_II the_AT American_JJ Federation_NN1 
+of_IO State_NN1 County_NN1 and_CC Municipal_JJ Employees_NN2 ._. 
+See_VV0 Deposition_NN1 Testimony_NN1 of_IO AFSCME_NP1 District_NN1 Counsel_NP1 
+Director_NN1 (_( July_NPM1 26_MC ,_, 1979_MC )_) ,_, filed_VVN in_II this_DD1 
+Court_NN1 on_II June_NPM1 24_MC ,_, 1980_MC ,_, with_IW a_AT1 Response_NN1 
+of_IO PARC_NP1 et_RA21 al_RA22 ._. 
+to_II Application_NN1 of_IO Stay_NN1 (_( No_UH ._. 
+A-1134_MC )_) 2_MC Argumen_NN2 had_VHD not_XX done_VDN so_RR was_VBDZ the_AT 
+only_JJ reason_NN1 this_DD1 case_NN1 was_VBDZ brought_VVN ._. 
+The_AT wishes_NN2 of_IO state_NN1 officials_NN2 and_CC their_APPGE own_DA 
+judgments_NN2 of_IO what_DDQ was_VBDZ an_AT1 effective_JJ and_CC necessary_JJ 
+remedy_NN1 were_VBDR never_RR at_II issue_NN1 in_II this_DD1 case_NN1 ._. 
+Their_APPGE judgment_NN1 was_VBDZ the_AT same_DA as_CSA plaintiffs_NN2 ,_, 
+they_PPHS2 only_RR did_VDD not_XX carry_VVI it_PPH1 out_RP ._. )_) 
+The_AT political_JJ power_NN1 of_IO suppliers_NN2 and_CC especially_RR the_AT 
+employees_NN2 union_NN1 caused_VVD Pennhurst_NP1 to_TO be_VBI maintained_VVN 
+and_CC 1,230_MC people_NN to_TO suffer_VVI its_APPGE conditions_NN2 ,_, 
+despite_II the_AT incontestable_JJ mandate_NN1 of_IO state_NN1 law_NN1 ,_, 
+the_AT substantial_JJ constitutional_JJ necessity_NN1 to_TO remedy_VVI 
+its_APPGE conditions_NN2 (_( and_CC ,_, of_RR21 course_RR22 ,_, the_AT 
+constantly_RR expressed_VVN resolve_NN1 of_IO state_NN1 officials_NN2 )_) 
+Thus_RR upon_II the_AT difference_NN1 between_II the_AT life-time_NNT1 
+tenure_NN1 of_IO Article_NN1 III_MC courts_NN2 and_CC the_AT elected_JJ 
+ten-year_JJ tenure_NN1 of_IO the_AT state_NN1 judiciary_NN1 in_II a_AT1 
+state_NN1 like_II Pennsylvania_NP1 turns_VVZ the_AT institutional_JJ 
+capability_NN1 of_IO the_AT courts_NN2 effectively_RR to_TO enforce_VVI the_AT 
+undoubted_JJ rights_NN2 of_IO 1,230_MC retarded_JJ people_NN ._. 
+The_AT point_NN1 is_VBZ not_XX that_CST Pennsylvanias_NP2 trial_NN1 and_CC 
+appellate_JJ courts_NN2 lack_VV0 the_AT institutional_JJ capability_NN1 
+fairly_RR and_CC freely_RR to_TO interpret_VVI state_NN1 statutes_NN2 
+which_DDQ bear_VV0 on_II a_AT1 matter_NN1 like_II this_DD1 ._. 
+They_PPHS2 do_VD0 not_XX ;_; they_PPHS2 have_VH0 done_VDN so_RR ._. 
+See_VV0 ,_, e.g._REX ,_, the_AT state_NN1 Supreme_JJ Court_NN1 decision_NN1 
+in_II In_RP re_II Schmidt_NP1 ,_, supra_NN1 ,_, the_AT State_NN1 Superior_JJ 
+Courts_NN2 decision_NN1 in_RP In_II Interest_NN1 of_IO Stover_NP1 ,_, 
+supra_NN1 ,_, the_AT state_NN1 Commonwealth_NN1 Courts_NN2 decision_NN1 in_II 
+In_RP re_II Sauers_NP1 ,_, supra_NN1 ,_, and_CC the_AT several_DA2 score_VV0 
+decisions_NN2 of_IO the_AT Common_JJ Pleas_NN2 Courts_NN2 rejecting_VVG 
+individual_JJ institutional_JJ commitment_NN1 applications_NN2 and_CC 
+instead_RR ordering_VVG the_AT provision_NN1 of_IO structured_JJ community_NN1 
+living_NN1 arrangements_NN2 and_CC other_JJ services.15_FO Each_DD1 of_IO 
+these_DD2 decisions_NN2 ,_, however_RR ,_, was_VBDZ made_VVN in_II an_AT1 
+individual_JJ action_NN1 The_AT point_NN1 is_VBZ not_XX that_CST the_AT 
+state_NN1 courts_NN2 are_VBR institutionally_RR constrained_VVN from_II 
+deciding_VVG what_DDQ are_VBR the_AT governin_NN1 15_MC ._. 
+Citations_NN2 to_II many_DA2 of_IO these_DD2 unreported_JJ decisions_NN2 
+were_VBDR collected_VVN and_CC placed_VVN before_II the_AT Court_NN1 of_IO 
+Appeals_NN2 en_FW banc_NN1 in_II the_AT Brief_NN1 of_IO PARC_NP1 et_RA21 
+al_RA22 ._. 
+dated_JJ August_NPM1 15_MC ,_, 1979_MC ._. 
+Illustrative_JJ is_VBZ the_AT reported_JJ decision_NN1 in_II In_RP re_II 
+Joyce_NP1 Z._NP1 ,_, 123_MC Pitt_NP1 L._NP1 J._NP1 181_MC (_( 1975_MC )_) (_( 
+by_II Judge_NP1 Maurice_NP1 Cohill_NP1 ,_, then_RT presiding_VVG judge_NN1 
+of_IO the_AT Allegheny_NP1 County_NN1 Family_NN1 Court_NN1 ,_, now_RT a_AT1 
+federal_JJ district_NN1 judge_NN1 )_) Argumen_NP1 2_MC legal_JJ principles_NN2 
+and_CC what_DDQ the_AT statute_NN1 requires_VVZ ._. 
+They_PPHS2 have_VH0 ._. 
+And_CC those_DD2 principles_NN2 and_CC the_AT requirement_NN1 of_IO the_AT 
+state_NN1 statute_NN1 is_VBZ clear_JJ ._. 
+The_AT point_NN1 is_VBZ that_CST the_AT institutional_JJ capability_NN1 of_IO 
+a_AT1 state_NN1 trial_NN1 or_CC appellate_JJ court_NN1 to_TO effectively_RR 
+enforce_VVI the_AT undoubted_JJ rights_NN2 of_IO 1,253_MC retarded_JJ 
+persons_NN2 heretofore_RR resident_JJ in_II one_MC1 institution_NN1 is_VBZ 
+prejudiced_VVN by_II the_AT absence_NN1 in_II state_NN1 court_NN1 of_IO 
+Article_NN1 III_MC tenure_NN1 and_CC independence_NN1 This_DD1 basic_JJ 
+federal_JJ constitutional_NN1 considerationadverted_VVD to_II by_II the_AT 
+Court_NN1 in_II Fair_JJ Assessment_NN1 itselfcounsels_VVZ strongly_RR 
+against_II the_AT surrender_NN1 of_IO jurisdiction_NN1 by_II an_AT1 
+Article_NN1 III_MC court_NN1 on_II comity_NN1 grounds_NN2 or_CC otherwise_RR 
+and_CC strongly_RR in_II31 favor_II32 of_II33 the_AT exercise_NN1 of_IO 
+properly_RR pendent_JJ jurisdiction_NN1 as_CSA in_II this_DD1 case_NN1 ._. 
+Cf._VV0 Patsy_NN1 v._II Board_NN1 of_IO Regents_NP1 of_IO State_NN1 of_IO 
+Florida_NP1 ,_, supra_NN1 3_MC ._. 
+Violations_NN2 of_IO State_NN1 Law_NN1 by_II State_NN1 Officials_NN2 Are_VBR 
+Outside_II the_AT Eleventh_MD Amendment_NN1 and_CC Raise_VV0 No_AT 
+Considerations_NN2 of_IO Comity_NP1 The_AT state_NN1 officials_NN2 who_PNQS 
+here_RL seek_VV0 to_TO claim_VVI some_DD benefit_NN1 from_II a_AT1 curious_JJ 
+mix_NN1 of_IO the_AT Eleventh_MD Amendment_NN1 and_CC comity_NN1 are_VBR 
+here_RL also_RR as_CSA undoubted_JJ and_CC uncontested_JJ violators_NN2 of_IO 
+the_AT state_NN1 statute_NN1 Last_MD term_NN1 ,_, this_DD1 Court_NN1 had_VHD 
+two_MC occasions_NN2 to_TO remind_VVI that_DD1 state_NN1 officials_NN2 
+whose_DDQGE disputed_JJ actions_NN2 or_CC omissions_NN2 violated_VVD state_NN1 
+statutes_NN2 are_VBR outside_II any_DD protection_NN1 of_IO the_AT Eleventh_MD 
+Amendment_NN1 ._. 
+In_II Florida_NP1 Department_NN1 of_IO State_NN1 v._II Treasurer_NN1 
+Salvors_NN2 ,_, Inc._JJ ,_, 102_MC S._NP1 Ct_NP1 ._. 
+3304_MC ,_, 3315_MC (_( 1982_MC )_) ,_, a_AT1 plurality_NN1 of_IO the_AT 
+Court_NN1 ,_, by_II Justice_NP1 Stevens_NP1 ,_, wrote_VVD &lsqb_( T_ZZ1 
+&rsqb_) he_PPHS1 Eleventh_MD Amendment_NN1 does_VDZ not_XX bar_VVI an_AT1 
+action_NN1 against_II a_AT1 state_NN1 official_NN1 that_CST is_VBZ based_VVN 
+on_II a_AT1 theory_NN1 that_CST the_AT officer_NN1 acted_VVN beyond_II the_AT 
+scope_NN1 of_IO his_APPGE statutory_JJ authority_NN1 ._. 
+._. ._. ._. In_II Cory_NP1 v._II White_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+2325_MC ,_, 2329_MC (_( 1982_MC )_) ,_, the_AT Court_NN1 ,_, by_II Justice_NP1 
+White_NP1 ,_, called_VVN to_II attention_NN1 approvingly_RR 2_MC Argumen_NN2 
+the_AT unanimous_JJ opinion_NN1 in_II V_ZZ1 or_CC Chester_NP1 &lsqb_( 
+County_NN1 Trust_NN1 Co._NN1 v._II Riley_NP1 ,_, 302_MC U._NP1 S._NP1 292_MC 
+,_, 297_MC (_( 1937_MC )_) &rsqb_) that_CST the_AT Eleventh_MD Amendment_NN1 
+bars_NN2 suits_VVZ against_II state_NN1 officers_NN2 unless_CS they_PPHS2 
+are_VBR alleged_VVN to_TO be_VBI acting_VVG contrary_II21 to_II22 federal_JJ 
+law_NN1 or_CC against_II the_AT authority_NN1 of_IO state_NN1 law_NN1 ._. 
+Any_DD decision_NN1 that_CST remedying_VVG the_AT violation_NN1 of_IO 
+state_NN1 law_NN1 by_II state_NN1 officials_NN2 in_II this_DD1 case_NN1 is_VBZ 
+barred_VVN by_II the_AT Eleventh_MD Amendment_NN1 completely_RR undermines_VVZ 
+Ex_RR21 parte_RR22 Young_JJ ,_, a_AT1 case_NN1 decided_VVN in_II tandem_NN1 
+with_IW Siler_JJR 16_MC and_CC upon_II which_DDQ Siler_NP1 and_CC seven_MC 
+decades_NNT2 of_IO adjudication_NN1 have_VH0 been_VBN premised_VVN D._NP1 
+Petitioners_NN2 13th-Hour_JJ Abstention_NN1 Plea_NN1 Is_VBZ Untimely_JJ 
+Under_II the_AT Customary_JJ Rules_NN2 of_IO Abstention_NN1 At_II no_AT 
+time_NNT1 during_II pre-trial_JJ proceedings_NN2 ,_, or_CC during_II the_AT 
+three_MC month_NNT1 trial_NN1 ,_, or_CC thereafter_RT before_II entry_NN1 
+of_IO the_AT district_NN1 courts_NN2 judgment_NN1 and_CC orders_NN2 ,_, or_CC 
+during_II the_AT first_MD appeal_NN1 to_II the_AT Court_NN1 of_IO Appeals_NN2 
+,_, before_CS the_AT panel_NN1 and_CC then_JJ en_FW banc_NN1 ,_, or_CC in_RP 
+or_CC following_VVG the_AT grant_NN1 of_IO certiorari_NN2 (_( which_DDQ 
+included_VVD the_AT state_NN1 law_NN1 issue_NN1 )_) in_II Pennhurst_NP1 I_ZZ1 
+,_, did_VDD petitioners_NN2 raise_VVI an_AT1 abstention_NN1 plea_NN1 ._. 
+Only_RR after_II remand_NN1 ,_, when_CS the_AT case_NN1 was_VBDZ before_II 
+the_AT Court_NN1 of_IO Appeals_NN2 for_IF the_AT third_MD time_NNT1 was_VBDZ 
+abstention_NN1 for_IF the_AT first_MD time_NNT1 requested_VVN Curiously_RR ,_, 
+petitioners_NN2 sought_VVD abstention_NN1 only_RR after_CS they_PPHS2 
+were_VBDR foreclosed_VVN from_II one_MC1 of_IO the_AT common_JJ grounds_NN2 
+for_IF discretionary_JJ grant_NN1 of_IO abstentionuncertainty_NN1 in_II 
+possibly_RR dispositive_JJ state_NN1 lawby_NN1 the_AT Pennsylvania_NP1 
+Supreme_JJ Courts_NN2 decision_NN1 in_RP In_II Re_NP1 Schmidt_NP1 ,_, 
+supra_NN1 ._. 
+Here_RL the_AT state_NN1 law_NN1 question_NN1 had_VHD been_VBN 
+authoritatively_RR resolved_VVN and_CC this_DD1 customary_JJ ground_NN1 for_IF 
+abstention_NN1 ,_, e.g._REX ,_, Harris_NP1 County_NN1 Commissioners_NN2 
+Court_NN1 v._II Moore_NP1 ,_, 420_MC U._NP1 S._NP1 77_MC ,_, 83_MC (_( 1975_MC 
+)_) ,_, was_VBDZ entirely_RR gone_VVN 16_MC ._. 
+The_AT relationship_NN1 between_II the_AT cases_NN2 is_VBZ set_VVN forth_RR 
+in_II the_AT orange_JJ Brief_NN1 of_IO PARC_NP1 et_RA21 al_RA22 ._. 
+In_II Opposition_NN1 at_II 11-12_MCMC &; n._NNU 9_MC (_( May_NPM1 28_MC ,_, 
+1982_MC )_) Argumen_NP1 2_MC The_AT customary_JJ equitable_JJ ground_NN1 
+against_II abstention_NN1 is_VBZ surely_RR here_RL and_CC ,_, given_VVN the_AT 
+undoubted_JJ clarity_NN1 of_IO the_AT dispositive_JJ issues_NN2 of_IO 
+state_NN1 law_NN1 here_RL ,_, unlike_JJ Mills_NN2 v._II Rogers_NP1 ,_, 50_MC 
+U._NP1 S._NP1 L._NP1 W._NP1 4676_MC (_( 1982_MC )_) where_CS possibly_RR 
+dispositive_JJ state_NN1 law_NN1 issues_NN2 were_VBDR not_XX resolved_VVN ,_, 
+would_VM render_VVI abstention_NN1 unconscionable_JJ under_II the_AT normal_JJ 
+rules_NN2 :_: Abstention_NN1 was_VBDZ unwarranted_JJ ._. 
+._. ._. ,_, where_CS neither_DD1 party_NN1 requested_VVN it_PPH1 and_CC 
+where_CS the_AT litigation_NN1 had_VHD already_RR been_VBN long_RR delayed_VVN 
+._. 
+Hostetter_VV0 v._II Ildewild_NN1 Bon_UH21 Voyage_UH22 Liquor_NN1 Corp._NP1 ,_, 
+377_MC U._NP1 S._NP1 324_MC ,_, 329_MC (_( 1964_MC )_) ._. 
+This_DD1 Court_NN1 has_VHZ often_RR remarked_VVN that_CST the_AT equitable_JJ 
+practice_NN1 of_IO abstention_NN1 is_VBZ limited_VVN by_II considerations_NN2 
+of_IO the_AT delay_NN1 and_CC expense_NN1 to_II which_DDQ applications_NN2 
+of_IO abstention_NN1 doctrine_NN1 inevitably_RR gives_VVZ rise_NN1 ._. 
+Bellotti_NN2 v._II Baird_NP1 ,_, 428_MC U._NP1 S._NP1 132_MC ,_, 150-51_MCMC 
+(_( 1976_MC )_) The_AT cost_NN1 of_IO delay_NN1 inevitably_RR consequent_JJ 
+upon_II abstention_NN1 is_VBZ no_AT theoretical_JJ question_NN1 here_RL ._. 
+Five_MC hundred_NNO twentyseven_JJ retarded_JJ residents_NN2 of_IO 
+Pennhurst_NP1 have_VH0 moved_VVN to_II family-scale_JJ community_NN1 
+facilities_NN2 since_CS trial_NN1 of_IO this_DD1 case_NN1 ._. 
+Six_MC hundred_NNO and_CC thirty_MC remain_VV0 there_RL ._. 
+Seventy-four_MC have_VH0 died_VVN at_II Pennhurst_NP1 in_II this_DD1 time_NNT1 
+(_( a_AT1 death_NN1 rate_NN1 far_RR exceeding_VVG the_AT rate_NN1 of_IO 
+other_JJ Pennsylvania_NP1 institutions_NN2 with_IW a_AT1 similarly_RR aged_VVN 
+and_CC similarly_RR disabled_JJ population_NN1 )_) ,_, never_RR having_VHG 
+experienced_VVN what_DDQ state_VV0 law_NN1 provides_VVZ is_VBZ theirs_PPGE 
+by_II right_RR the_AT relative_JJ safety_NN1 ,_, freedom_NN1 and_CC 
+mastery_NN1 of_IO life-skills_NN2 that_CST in_II fact_NN1 accompanies_VVZ 
+structured_JJ family-scale_JJ community_NN1 living.1_FO 17_MC ._. 
+The_AT evidence_NN1 of_IO record_NN1 showing_VVG the_AT great_JJ gain_NN1 
+in_II life_NN1 skills_NN2 ,_, greatest_JJT for_IF those_DD2 most_RGT 
+severely_RR disabled_JJ ,_, the_AT four_MC to_II twelvefold_JJ increase_NN1 
+in_II family_NN1 participation_NN1 in_II the_AT life_NN1 of_IO the_AT 
+retarded_JJ person_NN1 and_CC the_AT family-perceived_JJ increase_NN1 in_II 
+the_AT happiness_NN1 of_IO their_APPGE retarded_JJ relative_NN1 has_VHZ 
+been_VBN before_II the_AT Court_NN1 inter_RR21 alia_RR22 ,_, in_II 
+Response_NN1 of_IO PARC_NP1 et_RA21 al_RA22 ._. 
+in_II Opposition_NN1 to_II Stay_NN1 Application_NN1 ,_, September_NPM1 3_MC 
+,_, 1981_MC and_CC September_NPM1 25_MC ,_, 1981_MC ;_; Response_NN1 of_IO 
+PARC_NP1 et_RA21 al_RA22 ._. 
+in_II Opposition_NN1 to_II Motion_NN1 for_IF Accelerated_JJ Consideration_NN1 
+of_IO Petition_NN1 For_IF Mandamus_NP1 and_CC Prohibition_NN1 ,_, June_NPM1 
+24_MC ,_, 1980_MC ,_, p._NN1 16_MC 2_MC Argumen_NP1 E._NP1 Pennsylvania_NP1 
+Not_XX Having_VHG Invoked_VVN Sovereign_JJ Immunity_NN1 at_II the_AT Time_NNT1 
+This_DD1 Case_NN1 Arose_VVD ,_, There_EX Can_VM Be_VBI No_AT Eleventh_MD 
+Amendment_NN1 Bar_NN1 Here_RL And_CC ,_, If_CS There_EX Were_VBDR One_MC1 ,_, 
+It_PPH1 Has_VHZ Been_VBN Waived_JJ Given_VVN apparently_RR prevailing_JJ 
+current_JJ case_NN1 law_NN1 equating_VVG sovereign_JJ immunity_NN1 and_CC 
+the_AT Eleventh_MD Amendment_NN1 bar_NN1 ,_, Edelman_NP1 v._II Jordan_NP1 ,_, 
+415_MC U._NP1 S._NP1 651_MC ,_, 662-663_MCMC (_( 1974_MC )_) ,_, there_EX 
+is_VBZ no_AT Eleventh_MD Amendment_NN1 bar_NN1 here_RL because_CS ,_, at_II 
+the_AT time_NNT1 this_DD1 case_NN1 arose_VVD ,_, Pennsylvania_NP1 had_VHD 
+no_AT sovereign_JJ immunity_NN1 The_AT Pennsylvania_NP1 legislature_NN1 
+chose_VVD not_XX to_TO invoke_VVI sovereign_JJ immunity_NN1 until_II 1978_MC 
+._. 
+Until_CS that_DD1 time_NNT1 immunity_NN1 was_VBDZ a_AT1 matter_NN1 of_IO 
+judicial_JJ ,_, rather_II21 than_II22 legislative_JJ construction_NN1 and_CC 
+has_VHZ since_RR been_VBN declared_VVN not_XX to_TO have_VHI existed_VVN ._. 
+Mayle_NN1 v._II Dept_NN1 ,_, of_IO Highways_NN2 ,_, 388_MC A._NNU 2d_NNU 
+709_MC ,_, 720_MC (_( 1978_MC )_) ._. 
+The_AT Pennsylvania_NP1 Constitution_NN1 provides_VVZ that_CST All_DB 
+courts_NN2 shall_VM be_VBI open_JJ ,_, and_CC every_AT1 man_NN1 for_IF an_AT1 
+injury_NN1 done_VDN him_PPHO1 in_II his_APPGE lands_NN2 ,_, goods_NN2 ,_, 
+person_NN1 or_CC reputation_NN1 shall_VM have_VHI remedy_NN1 by_II due_JJ 
+course_NN1 of_IO law_NN1 ,_, and_CC right_JJ and_CC justice_NN1 
+administered_VVN without_IW sale_NN1 ,_, denial_NN1 or_CC delay_NN1 ._. 
+Suits_NN2 may_VM be_VBI brought_VVN against_II the_AT Commonwealth_NN1 in_II 
+such_DA manner_NN1 ,_, in_II such_DA courts_NN2 and_CC in_II such_DA cases_NN2 
+as_CSA th_NNU -_- Legislature_NN1 may_VM by_II law_NN1 direct_JJ ._. 
+Pa_NP1 ._. 
+Const._NP1 ,_, Art_NN1 ._. 
+I_PPIS1 ,_, Sec._NNU 11_MC The_AT Supreme_JJ Court_NN1 in_II Mayle_NP1 
+held_VVD that_CST the_AT Pennsylvania_NP1 Constitution_NN1 intended_VVD ._. 
+._. ._. to_TO allow_VVI the_AT Legislature_NN1 ,_, if_CS it_PPH1 desired_VVD 
+,_, to_TO choose_VVI cases_NN2 in_II which_DDQ the_AT Commonwealth_NN1 
+should_VM be_VBI immune_JJ ,_, but_CCB did_VDD not_XX intend_VVI to_TO 
+grant_VVI constitutional_JJ immunity_NN1 to_II the_AT Commonwealth._NP1 388_MC 
+A._NNU 2d_NNU at_II 717_MC ._. 
+No_AT distinction_NN1 between_II state_NN1 and_CC federal_JJ courts_NN2 is_VBZ 
+made_VVN as_II21 to_II22 legislative_JJ invocation_NN1 of_IO immunity.1_FO 
+18_MC ._. 
+For_IF the_AT first_MD time_NNT1 in_II Pennsylvania_NP1 history_NN1 a_AT1 
+1978_MC statute_NN1 invoked_VVD sovereign_JJ immunity_NN1 ,_, 42_MC Pa_NP1 ._. 
+C._NP1 S._NP1 A._NP1 2310_MC ,_, but_CCB only_RR as_II21 to_II22 actions_NN2 
+arising_VVG after_II the_AT date_NN1 of_IO the_AT statute_NN1 and_CC only_RR 
+as_II21 to_II22 claim_NN1 Argumen_NN2 2_MC Thus_RR ,_, if_CS sovereign_JJ 
+immunity_NN1 and_CC the_AT Eleventh_MD Amendment_NN1 bar_NN1 are_VBR 
+correctly_RR equated_VVN ,_, Pennsylvania_NP1 ,_, by_II omitting_VVG to_TO 
+legislate_VVI sovereign_JJ immunity_NN1 ,_, has_VHZ waived_VVN any_RR 
+Eleventh_MD Amendment_NN1 bar_NN1 ._. 
+From_II its_APPGE earliest_JJT days_NNT2 ,_, Pennsylvania_NP1 eschewed_VVD 
+any_DD limitations_NN2 upon_II suits_NN2 against_II it_PPH1 by_II its_APPGE 
+citizens.1_FO F._NP1 Any_DD Reading_NN1 of_IO the_AT Eleventh_MD Amendment_NN1 
+to_II Bar_NN1 Suits_VVZ by_II Citizens_NN2 Against_II Their_APPGE Own_DA 
+State_NN1 Should_VM Be_VBI Reversed_VVN Last_MD Term_NN1 in_II Cory_NP1 v._II 
+White_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+at_II 2329_MC ,_, the_AT Court_NN1 ,_, by_II Justice_NP1 White_NP1 ,_, 
+rejected_VVD an_AT1 interpretation_NN1 of_IO the_AT Eleventh_MD Amendment_NN1 
+which_DDQ would_VM ignore_VVI the_AT explicit_JJ language_NN1 and_CC 
+contradict_VVI the_AT very_JJ words_NN2 of_IO the_AT Amendment_NN1 itself_PPX1 
+._. 
+Should_VM each_DD1 of_IO the_AT arguments_NN2 made_VVN above_RL in_II this_DD1 
+Brief_NN1 be_VBI resolved_VVN against_II respondents_NN2 here_RL ,_, then_RT 
+the_AT Court_NN1 would_VM face_VVI the_AT necessity_NN1 to_TO re-examine_VVI 
+whether_CSW the_AT Eleventh_MD Amendment_NN1 despite_II its_APPGE clear_JJ 
+terms_NN2 ,_, and_CC its_APPGE history_NN1 ,_, can_VM bar_VVI any_DD suit_NN1 
+of_IO which_DDQ a_AT1 federal_JJ court_NN1 otherwise_RR properly_RR has_VHZ 
+jurisdiction_NN1 between_II citizens_NN2 of_IO any_DD state_NN1 and_CC 
+their_APPGE own_DA state.2_FO T8T_NP1 (_( Contd._NP1 )_) for_IF damages_NN2 
+._. 
+Gibson_NP1 v._II Commonwealth_NN1 ,_, 415_MC A._NNU 2d_NNU 80_MC (_( Pa_NP1 
+._. 
+Sup_VV0 ._. 
+Ct_NP1 ._. 
+1980_MC )_) 19_MC ._. 
+And_CC further_RRR ,_, Pennsylvania_NP1 declined_VVD to_TO ratify_VVI the_AT 
+Eleventh_MD Amendment_NN1 ,_, because_CS ,_, having_VHG paid_VVN its_APPGE 
+own_DA debts_NN2 to_II citizens_NN2 of_IO other_JJ states_NN2 as_II31 
+well_II32 as_II33 its_APPGE own_DA citizens_NN2 ,_, Pennsylvania_NP1 
+determined_VVD that_CST other_JJ states_NN2 should_VM not_XX be_VBI freed_VVN 
+of_IO the_AT obligation_NN1 to_TO do_VDI similarly_RR ._. 
+Mayle_NN1 ,_, supra_NN1 ,_, 388_MC A._NNU 2d_NNU at_II 712_MC ,_, 718_MC ;_; 
+C._NP1 E._NP1 Jacobs_NP2 ,_, The_AT Eleventh_MD Amendment_NN1 &; 
+Sovereign_NN1 Immunity_NN1 65-67_MCMC and_CC n._NNU 99_MC (_( 1972_MC )_) 
+20_MC ._. 
+The_AT text_NN1 of_IO the_AT Eleventh_MD Amendment_NN1 is_VBZ The_AT 
+Judicial_JJ power_NN1 of_IO the_AT United_NP1 States_NP1 shall_VM not_XX 
+be_VBI construed_VVN to_TO extend_VVI to_II any_DD suit_NN1 in_II law_NN1 
+or_CC equity_NN1 ,_, commenced_VVN or_CC prosecuted_VVN against_II one_MC1 
+of_IO the_AT United_NP1 States_NP1 by_II Citizens_NN2 of_IO another_DD1 
+State_NN1 ,_, or_CC by_II Citizens_NN2 of_IO any_DD Foreign_JJ State._NP1 2_MC 
+Argumen_NN2 One_MC1 member_NN1 of_IO the_AT Court_NN1 has_VHZ consistently_RR 
+spoken_VVN his_APPGE view_NN1 that_CST in_II suits_NN2 by_II citizens_NN2 
+of_IO a_AT1 state_NN1 against_II officials_NN2 of_IO their_APPGE state_NN1 
+or_CC their_APPGE state_NN1 itself_PPX1 ,_, &lsqb_( the_AT state_NN1 &rsqb_) 
+may_VM not_XX invoke_VVI the_AT Eleventh_MD Amendment_NN1 ,_, since_CS 
+that_DD1 amendment_NN1 bars_NN2 only_RR federal_JJ court_NN1 suits_VVZ 
+against_II states_NN2 by_II citizens_NN2 of_IO other_JJ states_NN2 ._. 
+E.g._REX ,_, Florida_NP1 Department_NN1 of_IO State_NN1 v._II Treasure_NN1 
+Salvors_NN2 ,_, Inc._JJ ,_, 102_MC S._NP1 Ct_NP1 ._. 
+at_II 3316_MC ;_; Florida_NP1 Department_NN1 of_IO Health_NN1 and_CC 
+Rehabilitative_JJ Services_NN2 v._II Florida_NP1 Nursing_NN1 Home_NN1 
+Association_NN1 ,_, 101_MC S._NP1 Ct_NP1 ._. 
+1032_MC ,_, 1034_MC (_( 1981_MC )_) ;_; Edelman_NP1 v._II Jordan_NP1 ,_, 
+415_MC U._NP1 S._NP1 651_MC ,_, 687_MC (_( 1974_MC )_) ;_; Employees_NN2 v._II 
+Missouri_NP1 Public_JJ Health_NN1 Department_NN1 ,_, 411_MC U._NP1 S._NP1 
+279_MC ,_, 309-22_MCMC (_( 1973_MC )_) ._. 
+Further_RRR ,_, Justice_NP1 Brennan_NP1 has_VHZ urged_VVN that_CST no_AT 
+holding_NN1 of_IO the_AT Court_NN1 is_VBZ to_II the_AT contrary_NN1 ,_, 
+Hans_NP1 v._II Louisiana_NP1 ,_, 134_MC U._NP1 S._NP1 1_MC1 (_( 1890_MC )_) 
+not_XX relying_VVG upon_II the_AT Eleventh_MD Amendment_NN1 but_CCB upon_II 
+non-constitutional_JJ ,_, and_CC incorrect_JJ ,_, views_NN2 of_IO sovereign_JJ 
+immunity_NN1 Four_MC justices_NN2 have_VH0 disapproved_VVN Edelman_NN1 on_II 
+grounds_NN2 which_DDQ undercut_VV0 not_XX only_RR Edelman_NN1 but_CCB Hans_NP1 
+and_CC per_II force_NN1 require_VV0 ,_, we_PPIS2 submit_VV0 ,_, that_CST 
+the_AT rule_NN1 of_IO Hansif_NN1 it_PPH1 is_VBZ the_AT rule_NN1 of_IO 
+Hansbe_NP1 reversed_VVD ._. 
+A_AT1 fifth_MD ,_, Justice_NP1 White_NP1 ,_, has_VHZ also_RR opposed_VVN a_AT1 
+narrow_JJ reading_NN1 of_IO waivers_NN2 of_IO the_AT Eleventh_MD Amendment_NN1 
+._. 
+E.g._REX ,_, Patsy_NP1 ,_, 102_MC S._NP1 Ct_NP1 ._. 
+at_II 2569_MC ,_, n._NNU *_FU That_CST the_AT rule_NN1 of_IO Hans_NP1 
+should_VM be_VBI overruled_VVN proceeds_NN2 from_II the_AT considerations_NN2 
+addressed_VVN by_II Justice_NP1 Stevens_NP1 in_II Florida_NP1 Nursing_NN1 
+Home_NN1 Association_NN1 ,_, 101_MC S._NP1 Ct_NP1 ._. 
+at_II 1035-36_MCMC and_CC well_RR illustrated_VVN by_II this_DD1 case_NN1 ,_, 
+should_VM the_AT Eleventh_MD Amendment_NN1 in_II any_DD way_NN1 bar_NN1 
+itnamely_RR ,_, that_CST an_AT1 adequate_JJ remedy_NN1 for_IF citizens_NN2 
+injured_VVN by_II their_APPGE government_NN1 is_VBZ of_IO central_JJ 
+importance_NN1 in_II a_AT1 free_JJ society_NN1 and_CC tha_DD1 Citizens_NN2 
+must_VM have_VHI confidence_NN1 that_CST the_AT rules_NN2 on_II which_DDQ 
+they_PPHS2 rely_VV0 in_II ordering_VVG their_APPGE affairsparticularly_RR 
+when_CS they_PPHS2 are_VBR prepared_VVN to_TO take_VVI issue_NN1 with_IW 
+those_DD2 in_II power_NN1 in_II doing_VDG soare_NN1 rules_NN2 of_IO law_NN1 
+and_CC not_XX merely_RR the_AT opinions_NN2 of_IO a_AT1 small_JJ group_NN1 
+of_IO men_NN2 who_PNQS temporaril_VV0 Argumen_NP1 2_MC occupy_VV0 high_JJ 
+office_NN1 ._. 
+It_PPH1 is_VBZ the_AT beleaguered_JJ individual_NN1 not_XX the_AT man_NN1 
+in_II powerwho_NN1 has_VHZ the_AT greatest_JJT stake_NN1 in_II the_AT 
+integrity_NN1 of_IO the_AT law_NN1 (_( italics_NN2 supplied_VVN )_) .2_MC 
+Cf._VV0 Justice_NN1 Whites_NN2 Opinion_NN1 in_II Chapman_NP1 ,_, 441_MC U._NP1 
+S._NP1 600_MC ,_, 672_MC (_( 1979_MC )_) Justice_NN1 Marshalls_VVZ 
+dissenting_VVG opinion_NN1 in_II Edelman_NP1 would_VM have_VHI found_VVN a_AT1 
+waiver_NN1 ,_, because_CS he_PPHS1 applies_VVZ a_AT1 lesser_JJ standard_NN1 
+to_II the_AT determination_NN1 ._. 
+What_DDQ is_VBZ at_II stake_NN1 between_II his_APPGE opinion_NN1 (_( in_II 
+which_DDQ Justice_NP1 Blackmun_NP1 joined_VVD and_CC to_II which_DDQ 
+Justice_NP1 Stevens_NP1 has_VHZ written_VVN his_APPGE agreement_NN1 )_) and_CC 
+the_AT majority_NN1 ,_, we_PPIS2 submit_VV0 ,_, is_VBZ that_DD1 more_RGR 
+basic_JJ question_NN1 he_PPHS1 addressed_VVD in_II his_APPGE concurrence_NN1 
+in_II Employees_NN2 ,_, 411_MC U._NP1 S._NP1 at_II 288-89_MCMC ,_, namely_REX 
+that_CST the_AT Eleventh_MD Amendment_NN1 is_VBZ not_XX about_II sovereign_JJ 
+immunity_NN1 as_II such_DA ._. 
+On_II this_DD1 view_NN1 ,_, whatever_DDQV high_JJ standard_NN1 a_AT1 
+waiver_NN1 of_IO the_AT Eleventh_MD Amendment_NN1 may_VM have_VHI to_TO 
+meet_VVI ,_, the_AT standard_NN1 for_IF waiver_NN1 of_IO the_AT 
+non-constitutional_JJ ,_, non-Eleventh_MD Amendment_NN1 immunity_NN1 
+asserted_VVD (_( and_CC found_VVD ,_, wrongly_RR on_II the_AT declared_JJ 
+view_NN1 of_IO at_RR21 least_RR22 four_MC members_NN2 of_IO the_AT Court_NN1 
+,_, in_II Edelman_NP1 )_) is_VBZ of_RR21 course_RR22 lower_JJR ,_, since_CS 
+nonconstitutional_JJ sovereign_JJ immunity_NN1 was_VBDZ ,_, at_RR21 least_RR22 
+as_CSA to_II the_AT Constitutions_NN2 grant_NN1 of_IO power_NN1 to_II the_AT 
+Congress_NN1 ,_, surrendered_VVN in_II the_AT original_JJ constitutional_JJ 
+understanding_NN1 ._. 
+But_CCB the_AT same_DA analysis_NN1 must_VM obtain_VVI for_IF the_AT rest_NN1 
+of_IO the_AT Plan_NN1 of_IO Convention_NN1 including_II Article_NN1 III_MC ._. 
+The_AT Eleventh_MD Amendment_NN1 did_VDD not_XX retrieve_VVI sovereign_JJ 
+immunity_NN1 between_II citizens_NN2 and_CC their_APPGE own_DA states_NN2 ,_, 
+but_CCB only_RR as_CSA its_APPGE terms_NN2 provide_VV0 Chief_JJ Justice_NN1 
+Marshall_NP1 was_VBDZ correct_JJ in_II Cohens_NP2 v._II Virginia_NP1 ,_, 19_MC 
+U._NP1 S._NP1 (_( 6_MC Wheat._NP1 )_) 264_MC ,_, 406-07_MCMC (_( 1821_MC )_) 
+._. 
+The_AT plain_JJ meaning_NN1 of_IO the_AT Eleventh_MD Amendment_NN1 and_CC 
+a_AT1 prope_NN1 21_MC ._. 
+The_AT rule_NN1 of_IO Hans_NP1 surely_RR is_VBZ (_( and_CC we_PPIS2 would_VM 
+argue_VVI ,_, so_RR is_VBZ Edelman_NP1 )_) based_VVN on_II a_AT1 
+discredited_JJ interpretation_NN1 of_IO the_AT relevant_JJ historical_JJ 
+documents_NN2 ,_, Florida_NP1 Nursing_NN1 101_MC S._NP1 Ct_NP1 ._. 
+at_II 1035_MC ,_, which_DDQ confuse_VV0 non-constitutional_JJ sovereign_JJ 
+immunity_NN1 with_IW the_AT Eleventh_MD Amendment_NN1 3_MC Argumen_NN2 
+understanding_NN1 of_IO the_AT historical_JJ documents_NN2 and_CC their_APPGE 
+historical_JJ context_NN1 show_VV0 that_CST the_AT rule_NN1 of_IO Hans_NP1 
+is_VBZ incorrect_JJ ._. 
+C._NP1 E._NP1 Jacobs_NP2 ,_, The_AT Eleventh_MD Amendment_NN1 and_CC 
+Sovereign_JJ Immunity_NN1 (_( 1972_MC )_) ;_; M._NN1 A._NP1 Field_NP1 ,_, 
+The_AT Eleventh_MD Immunity_NN1 and_CC Other_JJ Sovereign_JJ Immunity_NN1 
+Doctrines_NN2 :_: Part_NN1 One_MC1 ,_, 126_MC U._NP1 Pa_NP1 ._. 
+L._NP1 Rev._NNU 515_MC (_( 1978_MC )_) and_CC The_AT Eleventh_MD Amendment_NN1 
+and_CC Other_JJ Sovereign_JJ Immunity_NN1 Doctrines_NN2 :_: Congressional_JJ 
+Imposition_NN1 of_IO Suit_NN1 Upon_II the_AT States_NP1 ,_, 126_MC U._NP1 
+Pa_NP1 ._. 
+L._NP1 Rev._NNU 1203_MC (_( 1978_MC )_) ._. 
+The_AT rule_NN1 of_IO Hans_NP1 should_VM be_VBI reversed_VVN ,_, and_CC 
+this_DD1 case_NN1 may_VM require_VVI that_CST it_PPH1 be_VBI reversed_VVN ,_, 
+if_CS it_PPH1 stands_VVZ as_II an_AT1 impediment_NN1 to_II providing_VVG 
+an_AT1 adequate_JJ remedy_NN1 for_IF citizens_NN2 injured_VVN by_II 
+their_APPGE governments_NN2 ._. 
+101_MC S._NP1 Ct_NP1 ._. 
+at_II 1035_MC II_MC ._. 
+The_AT March_NPM1 17_MC ,_, 1978_MC Order_NN1 Appointing_VVG a_AT1 Master_NN1 
+Was_VBDZ Proper_JJ When_CS Made_VVN and_CC Is_VBZ Now_RT Moot_VV0 The_AT 
+appointment_NN1 of_IO a_AT1 temporary_JJ Special_JJ Master_NN1 to_TO 
+assist_VVI in_II planning_NN1 and_CC monitoring_VVG the_AT injunctive_JJ 
+relief_NN1 granted_VVD below_RL is_VBZ distinctly_RR subsidiary_JJ issue_NN1 
+in_II this_DD1 case_NN1 ,_, as_CSA Petitioners_NN2 Brief_VV0 ,_, 33-37_MCMC 
+,_, shows_NN2 ._. 
+It_PPH1 is_VBZ also_RR moot_VV0 for_IF the_AT reasons_NN2 set_VV0 forth_RR 
+in_II Respondents_NN2 Motion_NN1 to_TO Dismiss_VV0 Certiorari_JJ and_CC 
+Reply_VV0 to_II Petitioners_NN2 Opposition_NN1 and_CC in_II the_AT Brief_NN1 
+In_II Opposition_NN1 of_IO PARC_NP1 et_RA21 al_RA22 ._. 
+at_II 9_MC ,_, 19_MC On_II no_AT count_NN1 properly_RR raised_VVN before_II 
+this_DD1 Court_NN1 was_VBDZ the_AT Order_NN1 of_IO March_NPM1 17_MC ,_, 
+1978_MC appointing_VVG the_AT master_NN1 erroneous_JJ ._. 
+This_DD1 is_VBZ especially_RR clear_JJ once_CS the_AT real_JJ record_NN1 
+below_RL ,_, rather_II21 than_II22 rhetorical_JJ characterizations_NN2 of_IO 
+it_PPH1 ,_, is_VBZ clearly_RR in_II focus_NN1 A._NP1 The_AT Appointment_NN1 
+Here_RL Was_VBDZ Consonant_JJ With_IW State_NN1 Practice_NN1 A_ZZ1 federal_JJ 
+court_NN1 applying_VVG state_NN1 law_NN1 is_VBZ under_II injunction_NN1 to_TO 
+perform_VVI as_CSA would_VM a_AT1 state_NN1 court_NN1 ._. 
+In_II Jackson_NP1 v._II Hendrick_NP1 ,_, 321_MC A._NNU 2d_NNU 603_MC (_( 
+1974_MC )_) the_AT Pennsylvania_NP1 Supreme_JJ Court_NN1 approved_VVD the_AT 
+appointment_NN1 of_IO a_AT1 master_NN1 to_TO assist_VVI in_II the_AT 
+implementation_NN1 of_IO a_AT1 decree_NN1 concerning_II prison_NN1 
+conditions_NN2 Argumen_NP1 3_MC There_RL ,_, as_CSA here_RL ,_, &lsqb_( 
+cjognizant_NN1 of_IO the_AT complex_JJ nature_NN1 of_IO the_AT problem_NN1 
+and_CC the_AT need_NN1 for_IF speedy_JJ action_NN1 to_TO correct_VVI it_PPH1 
+,_, the_AT court_NN1 provided_VVN for_IF the_AT appointment_NN1 of_IO a_AT1 
+master_NN1 ._. 
+The_AT master_NN1 was_VBDZ directed_VVN to_TO devise_VVI and_CC submit_VVI 
+a_AT1 plan_NN1 to_TO remedy_VVI conditions_NN2 in_II the_AT prisons_NN2 and_CC 
+empowered_VVD thereafter_RT to_TO serve_VVI as_II an_AT1 organizer_NN1 and_CC 
+a_AT1 conduit_NN1 ,_, a_AT1 mediator_NN1 and_CC reporter_NN1 B._NP1 
+Planning_NN1 After_II judgment_NN1 against_II them_PPHO2 ,_, the_AT 
+district_NN1 court_NN1 invited_VVD defendants_NN2 to_TO submit_VVI plans_NN2 
+for_IF implementation_NN1 ._. 
+They_PPHS2 refused_VVD to_TO submit_VVI any_DD further_JJR plan_NN1 apart_II21 
+from_II22 the_AT one_PN1 they_PPHS2 had_VHD submitted_VVN at_II trial_NN1 
+which_DDQ had_VHD been_VBN found_VVN to_TO be_VBI vague_JJ and_CC 
+indefinite_JJ by_II the_AT Court_NN1 ._. 
+446_MC F._NP1 Supp._NP1 at_II 1325_MC ._. 
+As_II an_AT1 initial_JJ matter_NN1 ,_, therefore_RR ,_, the_AT Court_NN1 
+had_VHD no_AT choice_NN1 but_CS to_TO plan_VVI itself_PPX1 or_CC to_TO 
+appoint_VVI a_AT1 master_NN1 to_TO do_VDI so_RR ._. 
+In_II preparing_VVG the_AT plans_NN2 (_( see_VV0 Paragraphs_NN2 6_MC and_CC 
+11_MC of_IO the_AT March_NPM1 17_MC ,_, 1978_MC Order_NN1 )_) ,_, the_AT 
+master_NN1 consulted_VVN extensively_RR with_IW all_DB parties_NN2 and_CC 
+held_VVN public_JJ hearings_NN2 ._. 
+The_AT plans_NN2 were_VBDR presented_VVN to_II the_AT court_NN1 and_CC 
+formal_JJ hearings_NN2 held_VVN on_II each_DD1 of_IO them_PPHO2 ._. 
+On_II April_NPM1 1_MC1 ,_, 1982_MC ,_, the_AT plans_NN2 completed_VVD ,_, 
+the_AT Court_NN1 amended_VVD the_AT March_NPM1 17_MC ,_, 1978_MC order_NN1 
+to_TO delete_VVI the_AT planning_NN1 charge_NN1 Planning_NN1 masters_NN2 
+are_VBR unexceptional_JJ in_II complex_JJ cases_NN2 where_RRQ effective_JJ 
+remedy_NN1 requires_VVZ careful_JJ planning_NN1 and_CC defendants_NN2 are_VBR 
+not_XX forthcoming_JJ ._. 
+In_II Swann_NP1 v._II Charlotte-Mecklenburg_NP1 Board_NN1 of_IO Education_NN1 
+,_, 402_MC U._NP1 S._NP1 1_MC1 (_( 1971_MC )_) ,_, for_REX21 example_REX22 ,_, 
+the_AT plans_NN2 approved_VVN by_II this_DD1 Court_NN1 had_VHD been_VBN 
+drawn_VVN by_II a_AT1 master_NN1 ._. 
+306_MC F._NP1 Supp._NP1 1291_MC ,_, 1313_MC (_( W._NP1 D._NP1 N._NP1 C._NP1 
+1963_MC )_) ;_; 311_MC F._NP1 Supp._NP1 265_MC ,_, 269_MC ._. 
+There_RL as_CSA here_RL (_( see_VV0 Paragraph_NN1 5_MC )_) ,_, the_AT 
+court_NN1 had_VHD directed_VVN defendants_NN2 to_TO cooperate_VVI fully_RR 
+with_IW the_AT master_NN1 ,_, there_RL including_II providing_VVG offices_NN2 
+,_, staff_NN assistance_NN1 ,_, computers_NN2 ,_, draftsmen_NN2 ,_, 
+complete_JJ access_NN1 to_II information_NN1 and_CC payment_NN1 of_IO all_DB 
+fees_NN2 and_CC expenses_NN2 ._. 
+Similarly_RR ,_, in_II Gautreux_NP1 v._II Chicago_NP1 Housing_NN1 
+Authority_NN1 ,_, 384_MC F_ZZ1 3_MC Argumen_NP1 Supp._NP1 37_MC ,_, 38-39_MCMC 
+(_( N._NP1 D._NP1 Ill._NP1 1974_MC )_) affirmed_VVD 511_MC F._NP1 2d_NNU 82_MC 
+(_( 7th_MD Cir._NP1 1975_MC )_) ._. 
+See_VV0 generally_RR ,_, Hart_NP1 v._II Community_NN1 School_NN1 Board_NN1 
+of_IO Brooklyn_NP1 ,_, 383_MC F._NP1 Supp._NP1 699_MC ,_, 764-69_MCMC (_( 
+E._NP1 D._NP1 N._NP1 Y._NP1 1974_MC )_) affirmed_VVD 512_MC F._NP1 2d_NNU 
+37_MC (_( 2d_NNU Cir._NP1 1975_MC )_) C._NP1 Monitoring_NN1 Because_CS the_AT 
+record_NN1 showed_VVD so_RG clearly_RR over_II such_DA a_AT1 long_JJ 
+period_NN1 of_IO time_NNT1 that_CST despite_II defendants_NN2 verbal_JJ 
+resolutions_NN2 ,_, and_CC their_APPGE acknowledgment_NN1 that_CST the_AT 
+things_NN2 necessary_JJ to_II effective_JJ habilitation_NN1 of_IO retarded_JJ 
+residents_NN2 of_IO Pennhurst_NN1 in_II the_AT community_NN1 had_VHD been_VBN 
+formally_RR required_VVN but_CCB had_VHD not_XX in_II fact_NN1 been_VBN 
+done_VDN (_( e.g._REX ,_, individual_JJ habilitation_NN1 plans_NN2 ,_, 446_MC 
+F._NP1 Supp._NP1 at_II 1313_MC and_CC coordinated_JJ professional_JJ 
+attention_NN1 to_II individuals_NN2 from_II the_AT county_NN1 units_NN2 and_CC 
+the_AT institution_NN1 ,_, 446_MC F._NP1 Supp._NP1 at_II 1304-1306_MCMC ,_, 
+1313_MC )_) ,_, because_CS defendants_NN2 had_VHN themselves_PPX2 done_VDN 
+no_AT monitoring_NN1 of_IO community_NN1 placements_NN2 and_CC because_CS 
+the_AT vague_JJ and_CC indefinite_JJ plan_NN1 they_PPHS2 submitted_VVD 
+proposed_VVD none_PN ,_, the_AT court_NN1 directed_VVD that_CST the_AT 
+master_NN1 monitor_NN1 implementation_NN1 of_IO the_AT injunctive_JJ 
+orders.22_FO As_II the_AT Court_NN1 of_IO Appeals_NN2 en_FW banc_NN1 held_VVN 
+When_CS the_AT Court_NN1 acted_VVN on_II March_NPM1 17_MC ,_, 1978_MC the_AT 
+Commonwealth_NN1 defendants_NN2 ,_, the_AT County_NN1 defendants_NN2 ,_, 
+the_AT Pennhurst_NN1 staff_NN and_CC some_DD parents_NN2 of_IO inmates_NN2 
+opposed_VVD any_DD significant_JJ relief_NN1 ._. 
+In_II31 face_II32 of_II33 such_DA intransigence_NN1 few_DA2 ,_, if_CS any_DD 
+,_, alternatives_NN2 were_VBDR available_JJ to_II the_AT Court_NN1 than_CSN 
+to_II resort_NN1 to_II the_AT use_NN1 of_IO Court_NN1 appointed_VVN 
+monitors_NN2 ._. 
+Halderman_NN1 v._II Pennhurst_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 ,_, 
+673_MC F._NP1 2d_NNU 628_MC ,_, 639_MC (_( 3d_NNU Cir._NP1 1982_MC )_) 22_MC 
+._. 
+A_AT1 defendant_NN1 county_NN1 at_II the_AT hearings_NN2 on_II remedy_NN1 
+before_II entry_NN1 of_IO the_AT March_NPM1 17_MC ,_, 1978_MC order_NN1 
+represented_VVN to_II the_AT court_NN1 that_CST implementation_NN1 of_IO 
+the_AT judgment_NN1 would_VM be_VBI impossible_JJ without_IW a_AT1 Master_NN1 
+Argumen_NN2 3_MC Master_NN1 monitoring_VVG involved_JJ review_NN1 of_IO 
+individual_JJ habilitation_NN1 plans_NN2 for_IF completeness_NN1 and_CC 
+compliance_NN1 with_IW professional_JJ standards_NN2 ,_, periodic_JJ 
+visitation_NN1 to_II community_NN1 programs_NN2 ,_, and_CC on-site_JJ 
+monitoring_NN1 of_IO conditions_NN2 at_II Penn-hurst_NN1 ._. 
+The_AT masters_NN2 observations_NN2 were_VBDR reported_VVN to_II the_AT 
+parties_NN2 and_CC periodic_JJ reports_NN2 of_IO her_APPGE observations_NN2 
+,_, conclusions_NN2 and_CC recommendations_NN2 were_VBDR made_VVN to_II the_AT 
+Court_NN1 The_AT part_NN1 of_IO the_AT March_NPM1 17_MC ,_, 1978_MC charge_NN1 
+to_II the_AT master_NN1 to_TO organize_VVI ,_, direct_JJ ,_, supervise_VV0 
+and_CC monitor_VVI the_AT implementation_NN1 of_IO this_DD1 and_CC any_DD 
+further_JJR orders_NN2 of_IO the_AT court_NN1 did_VDD not_XX occur_VVI in_II 
+the_AT manner_NN1 alarmingly_RR represented_VVN to_II this_DD1 Court_NN1 ._. 
+The_AT master_NN1 did_VDD ,_, in_RR21 full_RR22 consultation_NN1 with_IW 
+the_AT states_NN2 Deputy_NN1 Secretary_NN1 for_IF Retardation_NN1 ,_, 
+prepare_VV0 Guidelines_NN2 for_IF Case_NN1 Managers_NN2 which_DDQ were_VBDR 
+adopted_VVN by_II the_AT Deputy_NN1 Secretary_NN1 ,_, jointly_RR signed_VVN 
+by_II both_DB2 ,_, and_CC distributed_VVN to_II county_NN1 case_NN1 
+managers_NN2 and_CC later_RRR ,_, after_II hearing_VVG ,_, incorporated_VVN 
+in_II the_AT courts_NN2 orders_NN2 as_II the_AT standard_NN1 for_IF case_NN1 
+managers_NN2 ._. 
+At_II the_AT request_NN1 of_IO state_NN1 defendants_NN2 the_AT master_NN1 
+conducted_VVD training_NN1 for_IF case_NN1 managers_NN2 ._. 
+Otherwise_RR this_DD1 part_NN1 of_IO the_AT charge_NN1 resolved_VVN in_II 
+fact_NN1 to_II planning_NN1 and_CC monitoring_VVG implementation.2_FO 
+Although_CS they_PPHS2 have_VH0 complained_VVN bitterly_RR to_II this_DD1 
+Court_NN1 of_IO imagined_JJ wrongs_NN2 suffered_VVN at_II the_AT hands_NN2 
+of_IO the_AT master_NN1 ,_, defendants_NN2 at_II no_AT time_NNT1 filed_VVD 
+any_DD motion_NN1 in_II the_AT district_NN1 court_NN1 to_TO instruct_VVI 
+the_AT master_NN1 ,_, to_TO alter_VVI her_APPGE conduct_NN1 or_CC to_TO 
+change_VVI her_APPGE duties_NN2 in_II31 light_II32 of_II33 changed_JJ 
+circumstances_NN2 ._. 
+I_ZZ1 23_MC ._. 
+The_AT evidence_NN1 of_IO record_NN1 ,_, placed_VVN before_II this_DD1 
+Court_NN1 in_II the_AT Opposition_NN1 of_IO PARC_NP1 et_RA21 al_RA22 ._. 
+to_II Application_NN1 for_IF Stay_NN1 ,_, September_NPM1 3_MC ,_, 1981_MC ,_, 
+showed_VVD that_CST similarly_RR disabled_JJ people_NN who_PNQS had_VHD the_AT 
+benefit_NN1 of_IO individual_JJ habilitation_NN1 plans_NN2 ,_, trained_JJ 
+case_NN1 managers_NN2 ,_, and_CC periodic_JJ master_NN1 monitoring_NN1 of_IO 
+their_APPGE living_JJ arrangements_NN2 and_CC programs_NN2 under_II the_AT 
+court_NN1 orders_NN2 as_CSA compared_VVN to_II people_NN similarly_RR 
+entitled_VVN to_II such_DA under_II the_AT provisions_NN2 of_IO state_NN1 
+law_NN1 but_CCB not_XX in_II the_AT class_NN1 and_CC not_XX receiving_VVG 
+them_PPHO2 experienced_VVD significantly_RR greater_JJR gains_NN2 in_II 
+life_NN1 skills_NN2 during_II a_AT1 two_MC year_NNT1 period_NN1 3_MC 
+Argumen_NN2 January_NPM1 of_IO 1982_MC ,_, following_VVG a_AT1 motion_NN1 
+by_II plaintiffs_NN2 ,_, defendants_NN2 did_VDD agree_VVI to_TO assume_VVI 
+the_AT individual_JJ habilitation_NN1 plan_NN1 and_CC the_AT on-site_JJ 
+community_NN1 facility_NN1 monitoring_NN1 functions_NN2 which_DDQ had_VHD 
+been_VBN their_APPGE duty_NN1 under_II Paragraphs_NN2 2_MC and_CC 3_MC of_IO 
+the_AT March_NPM1 17_MC ,_, 1978_MC Order_NN1 ,_, but_CCB which_DDQ had_VHD 
+fallen_VVN to_II the_AT master_NN1 by_II defendants_NN2 default_NN1 and_CC 
+intransigence_NN1 Apparently_RR based_VVN upon_II petitioners_NN2 
+mischaracterization_NN1 of_IO the_AT masters_NN2 charge_NN1 and_CC her_APPGE 
+performance_NN1 (_( and_CC respondents_NN2 failure_NN1 to_TO put_VVI the_AT 
+matter_NN1 in_II focus_NN1 )_) ,_, three_MC members_NN2 of_IO the_AT Court_NN1 
+expressed_VVD serious_JJ concern_NN1 in_II Pennhurst_NP1 I_ZZ1 that_CST the_AT 
+master_NN1 was_VBDZ empowered_VVN to_TO decide_VVI which_DDQ of_IO the_AT 
+Pennhurst_NN1 inmates_NN2 should_VM remain_VVI and_CC which_DDQ should_VM 
+be_VBI moved_VVN to_II the_AT community_NN1 based_VVN facilities_NN2 and_CC 
+was_VBDZ managing_JJ Pennhurst_NN1 At_II no_AT time_NNT1 has_VHZ the_AT 
+master_NN1 managed_VVN Pennhurst_NP1 and_CC the_AT decision_NN1 as_II21 
+to_II22 who_PNQS and_CC whether_CSW a_AT1 person_NN1 moves_VVZ from_II 
+Pennhurst_NP1 has_VHZ been_VBN and_CC is_VBZ made_VVN by_II an_AT1 
+interdisciplinary_JJ team_NN1 of_IO county_NN1 and_CC state_VV0 
+professionals_NN2 ,_, not_XX by_II the_AT master_NN1 ._. 
+The_AT professional_JJ judgment_NN1 of_IO the_AT Superintendent_NN1 of_IO 
+Pennhurst_NP1 ,_, his_APPGE deputies_NN2 and_CC chief_JJ psychologist_NN1 
+expressed_VVN at_II trial_NN1 in_II 1977_MC was_VBDZ that_CST everyone_PN1 
+should_VM move_VVI ._. 
+The_AT fact_NN1 that_CST 1230_MC retarded_JJ were_VBDR still_RR there_EX 
+is_VBZ proof_NN1 that_CST official_JJ state_NN1 judgments_NN2 not_XX 
+professional_JJ judgments_NN2 had_VHD held_VVN sway_NN1 ._. 
+The_AT job_NN1 of_IO the_AT master_NN1 was_VBDZ to_TO monitor_VVI whether_CSW 
+,_, in_II the_AT words_NN2 of_IO this_DD1 Court_NN1 in_II Romeo_NP1 ,_, 102_MC 
+S._NP1 Ct_NP1 ._. 
+at_II 2461_MC ,_, professional_JJ judgment_NN1 in_II fact_NN1 was_VBDZ 
+exercised_VVN ._. 
+On_II April_NPM1 1_MC1 ,_, 1982_MC ,_, promptly_RR upon_II the_AT return_NN1 
+of_IO the_AT mandate_NN1 from_II the_AT Court_NN1 of_IO Appeals_NN2 and_CC 
+at_II the_AT first_MD opportunity_NN1 after_II the_AT Opinions_NN2 in_II 
+Pennhurst_NP1 1_MC1 when_CS it_PPH1 was_VBDZ possessed_VVN of_IO 
+jurisdiction_NN1 to_TO do_VDI so_RR ,_, the_AT district_NN1 court_NN1 
+amended_VVD the_AT March_NPM1 17_MC ,_, 1978_MC Order_NN1 formally_RR 
+redefining_VVG the_AT masters_NN2 charge_NN1 and_CC limiting_VVG its_APPGE 
+formal_JJ definition_NN1 to_II what_DDQ had_VHD been_VBN the_AT actual_JJ 
+practice_NN1 ,_, to_II monitoring_VVG implementation_NN1 of_IO the_AT 
+court_NN1 orders_NN2 ._. 
+The_AT district_NN1 court_NN1 wa_NN1 Argumen_NN2 3_MC explicit_JJ that_CST 
+it_PPH1 did_VDD so_RR to_TO lay_VVI to_II rest_NN1 once_RR and_CC forever_RT 
+the_AT perennial_JJ contention_NN1 that_CST the_AT Special_JJ Master_NN1 
+possesses_VVZ powers_NN2 over_RP and_CC beyond_II the_AT designated_JJ 
+function_NN1 of_IO monitoring_VVG compliance_NN1 with_IW the_AT Courts_NN2 
+Orders_NN2 in_II this_DD1 case_NN1 ._. 
+D._NP1 The_AT Issue_NN1 of_IO the_AT Special_JJ Master_NN1 Is_VBZ Moot_JJ 
+The_AT district_NN1 court_NN1 on_II August_NPM1 12_MC ,_, 1982_MC ,_, after_II 
+eight_MC months_NNT2 experience_VV0 under_II the_AT agreement_NN1 of_IO 
+January_NPM1 ,_, entered_VVD an_AT1 order_NN1 dissolving_VVG the_AT March_NPM1 
+17_MC ,_, 1978_MC appointment_NN1 of_IO the_AT Special_JJ Master_NN1 
+effective_JJ December_NPM1 31_MC ,_, 1982_MC ._. 
+However_RGQV unexceptional_JJ the_AT original_JJ appointment_NN1 of_IO the_AT 
+master_NN1 by_II Order_NN1 of_IO March_NPM1 17_MC ,_, 1978_MC ,_, and_CC 
+her_APPGE subsequent_JJ performance_NN1 ,_, any_DD issue_NN1 concerning_II 
+that_DD1 appointment_NN1 is_VBZ moot_JJ E._NP1 The_AT Hearing_NN1 Master_NN1 
+A_ZZ1 hearing_VVG master_NN1 was_VBDZ appointed_VVN by_II the_AT district_NN1 
+court_NN1 by_II order_NN1 of_IO April_NPM1 24_MC ,_, 1980_MC when_RRQ the_AT 
+mandate_NN1 of_IO the_AT Court_NN1 of_IO Appeals_NN2 had_VHD briefly_RR 
+returned_VVN to_II it_PPH1 and_CC before_CS certiorari_NN2 from_II the_AT 
+Court_NN1 of_IO Appeals_NN2 first_MD affirmance_NN1 was_VBDZ sought_VVN and_CC 
+granted_VVN in_II Pennhurst_NP1 I._NP1 The_AT grant_NN1 of_IO certiorari_NN2 
+now_RT before_II the_AT Court_NN1 runs_VVZ only_RR to_II the_AT judgment_NN1 
+of_IO the_AT Court_NN1 of_IO Appeals_NN2 ,_, following_VVG the_AT remand_NN1 
+by_II this_DD1 Court_NN1 again_RT affirming_VVG the_AT judgment_NN1 of_IO 
+the_AT district_NN1 court_NN1 and_CC its_APPGE March_NPM1 17_MC ,_, 1978_MC 
+Orders_NN2 ._. 
+No_AT defendant_NN1 has_VHZ appealed_VVN the_AT April_NPM1 24_MC ,_, 1980_MC 
+Order_NN1 of_IO appointment_NN1 or_CC its_APPGE terms_NN2 ,_, although_CS 
+one_PN1 did_VDD file_VVI but_CCB subsequently_RR withdrew_VVD a_AT1 notice_NN1 
+of_IO appeal_NN1 ,_, and_CC no_AT issue_NN1 concerning_II that_DD1 Order_NN1 
+is_VBZ before_II the_AT Court_NN1 on_II this_DD1 grant_NN1 of_IO 
+certiorari.2_FO 24_MC ._. 
+The_AT hearing_NN1 masters_NN2 particular_JJ decisions_NN2 are_VBR 
+reviewed_VVN by_II the_AT district_NN1 court_NN1 and_CC are_VBR reviewable_JJ 
+in_II the_AT Court_NN1 of_IO Appeals_NN2 and_CC ultimately_RR here_RL 36_MC 
+Argumen_NN2 The_AT only_JJ matters_NN2 touching_VVG the_AT hearing_NN1 
+master_NN1 which_DDQ may_VM be_VBI here_RL are_VBR the_AT general_JJ 
+instructions_NN2 of_IO the_AT Court_NN1 of_IO Appeals_NN2 to_II the_AT 
+district_NN1 court_NN1 to_TO take_VVI especial_JJ care_NN1 to_TO protect_VVI 
+Pennhurst_NN1 residents_NN2 who_PNQS move_VV0 from_II a_AT1 duplication_NN1 
+of_IO the_AT Pennhursts_NP1 conditions_NN2 in_II the_AT community_NN1 ,_, 
+612_MC F._NP1 2d_NNU at_II 116_MC ,_, and_CC to_TO see_VVI to_II it_PPH1 
+that_CST no_PN121 one_PN122 is_VBZ moved_VVN to_II the_AT community_NN1 
+who_PNQS could_VM not_XX be_VBI properly_RR served_VVN there_RL ,_, 612_MC 
+F._NP1 2d_NNU at_II 114_MC ._. 
+These_DD2 instructions_NN2 were_VBDR surely_RR proper_JJ Conclusio_NP1 3_MC 
+CONCLUSIO_NN1 For_IF the_AT above_JJ stated_JJ reasons_NN2 Respondents_NN2 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, Jo_NP1 
+Suzanne_NP1 Moscowitz_NP1 ,_, Robert_NP1 Hight_NP1 ,_, David_NP1 Preusch_NP1 
+and_CC Charles_NP1 DiNolfi_NP1 ,_, for_IF themselves_PPX2 and_CC the_AT 
+class_NN1 they_PPHS2 represent_VV0 ,_, respectfully_RR request_VV0 that_CST 
+the_AT judgment_NN1 of_IO the_AT United_NP1 States_NP1 Court_NN1 of_IO 
+Appeals_NN2 for_IF the_AT Third_MD Circuit_NN1 be_VBI affirmed_VVN 
+Respectfully_RR submitted_VVD Thomas_NP1 K._NP1 GilhoolJ_NP1 Frank_NP1 J._NP1 
+Laski_NP1 Michael_NP1 Churchil_NP1 Public_JJ Interest_NN1 Law_NN1 Center_NN1 
+of_IO Philadelphi_NP1 1315_MC Walnut_NP1 Street_NNL1 ,_, Suite_NN1 1632_MC 
+Philadelphia_NP1 ,_, Pennsylvania_NP1 19107_MC 215-735-720_MCMC Counsel_NN1 
+for_IF Respondents_NN2 PARC_NP1 et_NP1 al*_FO November_NPM1 15_MC ,_, 198_MC 
+f_RA Counsel_NP1 of_IO Record_NN1 *_FU Counsel_NP1 wish_VV0 gratefully_RR 
+to_TO acknowledge_VVI the_AT assistance_NN1 with_IW this_DD1 Brief_NN1 of_IO 
+William_NP1 F._NP1 Culleton_NP1 ,_, Jr._NNA ,_, Esquire_NN1 ,_, J._NP1 
+Benedict_NP1 Centifanti_NP1 ,_, Law_NN1 Clerk_NN1 ,_, and_CC Judith_NP1 A._NP1 
+Gran_NN1 and_CC Susan_NP1 L._NP1 Spence_NP1 ,_, Law_NN1 Students_NN2 ._. 
+--904f9249d232a53b8c6f1ac76855d93d--_FU 

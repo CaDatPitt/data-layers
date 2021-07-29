@@ -1,0 +1,124 @@
+
+PARC_NP1 ACTION_NN1 PLAN_NN1 FOR_IF COMMUNITY_NN1 SERVICE_NN1 OCTOBER_NPM1 ,_, 
+197_MC PARC_NP1 ACTION_NN1 PLAN_NN1 FOR_IF COMMUNITY_NN1 SERVICE_NN1 TABLE_NN1 
+OF_IO CONTENT_JJ SUMMARY_NN1 CHARTS_NN2 OF_IO ACTION_NN1 PLA_NP1 LIST_NN1 
+OF_IO ABBREVIATION_NP1 PARC_NP1 RESOLUTIO_NP1 INTRODUCTION_NN1 
+............................................_... 
+SERVICE_NN1 DELIVERY_NN1 SYSTEM_NN1 .................................._... 
+CASE_NP1 MANAGEMENT_NN1 ..................................._... ._. 1_MC1 
+PREVENTION_NN1 AND_CC HEALTH_NN1 CARE_NN1 ..............................._... 
+2_MC HOME_RL CARE_VV0 .............................................._... 4_MC 
+PRESCHOOL_JJ PROGRAMS_NN2 ......................................_... s_ZZ1 
+PUBLIC_JJ EDUCATION_NN1 ........................................_... 7_MC 
+HABITATION_NP1 AND_CC JOB_NN1 OPPORTUNITIES_NN2 ........................._... 
+8_MC RESIDENTIAL_JJ SERVICES_NN2 .................................._... 9_MC 
+RECREATION_NN1 ,_, SOCIAL_JJ AND_CC LEISURE_NN1 ACTIVITIES_NN2 
+.............._... 10_MC RELIGIOUS_JJ ACTIVITIES_NN2 
+..................................._... li_MC TRANSPORTATION_NN1 
+........................................._... 12_MC ACCOUNTABILITY_NN1 
+........................................._... 13_MC PERSONNEL_NN2 
+DEVELOPMENT_NN1 ..................................._... i_MC1 COMMUNITY_NN1 
+EDUCATION_NN1 ...................................._... 15_MC PERSONAL_JJ 
+AND_CC LEGAL_JJ RIGHTS_NN2 ..........................._... 
+FREEDOM_NN1 OF_IO ACCESS_NN1 ..................................._... 
+CONTRIBUTOR_NN1 CASE_NP1 MANAGEMEN_NP1 INTRODUCTIO_NP1 One_MC1 of_IO the_AT 
+most_RGT important_JJ and_CC vital_JJ needs_NN2 of_IO the_AT mentally_RR 
+retarded_JJ population_NN1 is_VBZ to_TO be_VBI assisted_VVN in_II the_AT 
+choice_NN1 of_IO appropriate_JJ programming_NN1 and_CC in_II securing_VVG 
+adequate_JJ public_JJ support_NN1 when_RRQ ,_, r'_NN1 requested_VVN by_II 
+or_CC in_II behalf_NN1 of_IO the_AT retarded_JJ person_NN1 ._. 
+To_TO insur_VVI k_ZZ1 continuity_NN1 of_IO quality_NN1 services_NN2 and_CC 
+progression_NN1 in_II the_AT develop_VV0 ment_NN1 of_IO the_AT individual_NN1 
+,_, as_II31 well_II32 as_II33 the_AT best_JJT use_NN1 of_IO the_AT public_JJ 
+dollar_NNU1 in_II behalf_NN1 of_IO the_AT individual_NN1 ,_, an_AT1 
+organized_JJ system_NN1 of_IO case_NN1 management_NN1 is_VBZ essential_JJ ._. 
+It_PPH1 is_VBZ evident_JJ that_CST an_AT1 effective_JJ ,_, efficient_JJ and_CC 
+beneficial_JJ program_NN1 can_VM be_VBI realized_VVN only_RR through_II a_AT1 
+competent_JJ and_CC identifiable_JJ case_NN1 management_NN1 component_NN1 ._. 
+It_PPH1 is_VBZ :_: important_JJ that_CST case_NN1 management_NN1 be_VBI 
+seen_VVN from_II the_AT outset_NN1 as_II a_AT1 program_NN1 component_NN1 
+standing_VVG free_JJ of_IO any_DD diagnostic_JJ label_NN1 (_( MH_NP1 ,_, 
+MR_NNB ,_, etc_RA ._. )_) ._. 
+A_AT1 pre-labeled_JJ case_NN1 management_NN1 system_NN1 runs_VVZ the_AT 
+risk_NN1 of_IO a_JJ21 priori_JJ22 decision_NN1 making_VVG and_CC referrals_NN2 
+that_CST can_VM have_VHI life-long_JJ effects_NN2 on_II an_AT1 individual_NN1 
+The_AT description_NN1 of_IO case_NN1 management_NN1 must_VM include_VVI 
+the_AT following_JJ elements_NN2 as_II a_AT1 minimum_NN1 1_MC1 ._. 
+Intake_NN1 :_: to_TO determine_VVI whether_CSW and_CC what_DDQ kind_NN1 of_IO 
+service_NN1 is_VBZ needed_VVN and_CC to_TO enter_VVI one_PN1 into_II the_AT 
+program_NN1 system_NN1 rendering_VVG them_PPHO2 eligible_JJ for_IF public_JJ 
+support_NN1 ._. 
+Included_VVN as_CSA elements_NN2 of_IO intake_NN1 are_VBR :_: the_AT 
+gathering_NN1 of_IO technical_JJ information_NN1 such_II21 as_II22 medical_JJ 
+,_, social_JJ and_CC educational_JJ data_NN ;_; personal_JJ information_NN1 
+;_; liability_NN1 determination_NN1 where_CS appropriate_JJ ;_; and_CC 
+supportive_JJ counseling_NN1 ._. 
+Emphasis_NN1 must_VM be_VBI placed_VVN ,_, at_II this_DD1 point_NN1 of_IO 
+contact_NN1 between_II individual_JJ and/or_CC family_NN1 and_CC the_AT 
+case_NN1 manager_NN1 ,_, on_II the_AT importance_NN1 of_IO attitudes_NN2 
+projected_VVN by_II the_AT case_NN1 manager_NN1 in_II the_AT intake_NN1 
+interview_NN1 ._. 
+It_PPH1 is_VBZ at_II this_DD1 time_NNT1 that_CST persons_NN2 needing_VVG 
+assistance_NN1 are_VBR most_RGT sensitive_JJ and_CC anxious_JJ and_CC are_VBR 
+in_II31 need_II32 of_II33 solid_JJ support_NN1 and_CC understanding_NN1 2_MC 
+._. 
+Arrangement_NN1 for_IF diagnosis_NN1 and_CC evaluation_NN1 :_: to_TO 
+insure_VVI accurate_JJ determination_NN1 of_IO needs_NN2 and_CC appropriate_JJ 
+evaluation_NN1 that_CST would_VM provide_VVI a_AT1 base_NN1 for_IF the_AT 
+individual_JJ program_NN1 plan_NN1 ,_, including_II goal_NN1 plans_NN2 and_CC 
+appropriate_JJ service_NN1 referral_NN1 3_MC ._. 
+Formulation_NN1 of_IO Individual_JJ Program_NN1 Plan_NN1 :_: to_TO be_VBI 
+based_VVN on_II the_AT current_JJ need_VV0 assessment_NN1 and_CC to_TO be_VBI 
+formulated_VVN in_II a_AT1 timely_JJ fashion_NN1 in_II31 conjunction_II32 
+with_II33 the_AT person_NN1 needing_VVG service_NN1 and_CC ,_, where_RRQ 
+and_CC when_CS appropriate_JJ ,_, with_IW famil_NN1 and_CC other_JJ 
+concerned_JJ individuals_NN2 ,_, e.g._REX guardians_NN2 ,_, personal_JJ t_ZZ1 
+advocates_NN2 ,_, agency_NN1 personnel_NN2 ,_, public_JJ school_NN1 
+administrators_NN2 and_CC teachers_NN2 ,_, etc_RA 4_MC ._. 
+Service_NN1 referral_NN1 :_: to_TO result_VVI from_II an_AT1 evaluation_NN1 
+of_IO service_NN1 options_NN2 by_II individual_JJ and/or_CC family_NN1 with_IW 
+the_AT assistance_NN1 of_IO the_AT case_NN1 management_NN1 staff_VV0 1_MC1 
+5_MC ._. 
+Supervision_NN1 of_IO continuity_NN1 of_IO care_NN1 :_: to_TO insure_VVI 
+that_DD1 adequate_JJ and_CC appropriate_JJ services_NN2 are_VBR being_VBG 
+delivered_VVN at_II all_DB times_NNT2 in_II behalf_NN1 of_IO the_AT 
+individual_NN1 and/or_CC family_NN1 and_CC to_TO concretize_VVI the_AT 
+lines_NN2 of_IO accountability_NN1 between_II the_AT County_NN1 Program_NN1 
+and_CC the_AT private_JJ and_CC public_JJ service_NN1 providers_NN2 from_II 
+whom_PNQO services_NN2 are_VBR being_VBG purchased_VVN ._. 
+This_DD1 includes_VVZ ongoing_JJ contact_NN1 with_IW individuals_NN2 ,_, 
+families_NN2 and_CC service_NN1 providers_NN2 6_MC ._. 
+Arrangement_NN1 for_IF discharge_NN1 from_II program_NN1 system_NN1 :_: to_TO 
+involve_VVI all_DB appropriate_JJ parties_NN2 and_CC to_TO result_VVI from_II 
+an_AT1 agreement_NN1 that_CST such_DA an_AT1 arrangement_NN1 is_VBZ 
+appropriate_JJ ._. 
+This_DD1 is_VBZ to_TO include_VVI a_AT1 plan_NN1 for_IF adaptation_NN1 in_II 
+the_AT community_NN1 including_II degree_NN1 and_CC kind_NN1 of_IO support_NN1 
+,_, by_II whom_PNQO ,_, and_CC how_RGQ frequently_RR Responsibility_NN1 for_IF 
+the_AT provision_NN1 of_IO case_NN1 management_NN1 services_NN2 should_VM 
+rest_VVI with_IW the_AT governmental_JJ agency_NN1 responsible_JJ for_IF 
+the_AT provision_NN1 of_IO services_NN2 since_CS case_NN1 management_NN1 
+is_VBZ one_PN1 means_VVZ by_II which_DDQ this_DD1 agency_NN1 is_VBZ to_TO 
+be_VBI held_VVN accountable_JJ ._. 
+If_CS the_AT County_NN1 is_VBZ to_TO have_VHI responsibility_NN1 for_IF 
+providing_VVG services_NN2 ,_, it_PPH1 is_VBZ also_RR to_TO be_VBI held_VVN 
+accountable_JJ to_II the_AT public_NN1 for_IF the_AT kinds_NN2 and_CC 
+quality_NN1 of_IO services_NN2 purchased_VVD ._. 
+The_AT County_NN1 must_VM have_VHI clear_JJ responsibility_NN1 for_IF and_CC 
+control_VV0 over_RP the_AT case_NN1 management_NN1 component_NN1 of_IO the_AT 
+program_NN1 ._. 
+The_AT case_NN1 manager_NN1 ,_, therefore_RR ,_, should_VM be_VBI the_AT 
+agent_NN1 of_IO the_AT County_NN1 Office_NN1 (_( in_II the_AT community_NN1 
+,_, whose_DDQGE responsibility_NN1 is_VBZ to_TO ensure_VVI the_AT 
+provision_NN1 and_CC continuance_NN1 of_IO needed_VVN programs_NN2 ._. 
+In_II this_DD1 way_NN1 ,_, all_DB case_NN1 management_NN1 responsibilities_NN2 
+are_VBR carried_VVN out_RP for_IF the_AT County_NN1 Office_NN1 and_CC in_II 
+behalf_NN1 of_IO the_AT consumer_NN1 ,_, and_CC not_XX for_IF any_DD 
+provider_NN1 agency_NN1 ._. 
+It_PPH1 is_VBZ ,_, therefore_RR ,_, imperative_JJ that_CST case_NN1 
+management_NN1 be_VBI separated_VVN from_II provider_NN1 of_IO service_NN1 
+agencies_NN2 in_II those_DD2 programs_NN2 where_RRQ such_DA a_AT1 union_NN1 
+exists_VVZ Services_NN2 are_VBR purchased_VVN in_RP and_CC from_II the_AT 
+community_NN1 by_II the_AT case_NN1 manager_NN1 for_IF the_AT County_NN1 
+and_CC can_VM be_VBI graphically_RR stated_VVN as_CSA follows_VVZ COUNTY_NN1 
+OFFICE_NN1 /_FO COMMUNIT_NN1 Accountability_NN1 

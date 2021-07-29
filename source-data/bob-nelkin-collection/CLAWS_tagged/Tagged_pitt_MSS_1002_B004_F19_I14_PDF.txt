@@ -1,0 +1,85 @@
+
+JAMES_NP1 R._NP1 CUFFORD_NP1 ._. 
+M.D_NP1 THEODORE_NP1 W._NP1 EASTLAND_NP1 ._. 
+JR_JJ .._... 
+M.D._NP1 Ill_NP1 EAST_ND1 HARRISON_NP1 STREE_NP1 EMMAUS_NP1 ._. 
+PENNSYLVANIA_NP1 1804_MC Telephone_NN1 (_( 215_MC )_) 967-414_MCMC April_NPM1 
+20_MC ,_, 197_MC Mrs._NNB Helene_NP1 Wohlgemut_NP1 Secretary_NN1 of_IO 
+Welfar_NP1 Commonwealth_NN1 of_IO Pennsylvani_NP1 Harrisbur_NP1 
+Pennsylvani_NP1 Re_NP1 :_: James_NP1 H._NP1 McClelland_NP1 ,_, M.D_NNA 
+Superintenden_NP1 Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 Pol_NP1 
+Pennsylvani_NP1 Dear_JJ Mrs._NNB Wohlgemuth_NP1 In_II the_AT Wednesday_NPD1 
+,_, April_NPM1 18_MC ,_, 1973_MC edition_NN1 of_IO The_AT Evening_NNT1 
+Chronicle_NN1 ,_, Allentown_NP1 ,_, Pennsylvania_NP1 ,_, I_PPIS1 read_VV0 
+an_AT1 article_NN1 with_IW the_AT caption_NN1 as_CSA follows_VVZ ;_; 
+Patient_JJ Cage_NN1 Draws_VVZ firing_NN1 Of_IO Doctor_NN1 ._. 
+I_PPIS1 am_VBM enclosing_VVG a_AT1 copy_NN1 of_IO this_DD1 article_NN1 for_IF 
+your_APPGE perusal_NN1 ._. 
+In_II the_AT Thursday_NPD1 ,_, April_NPM1 19_MC ,_, 1973_MC edition_NN1 of_IO 
+The_AT Morning_NNT1 Call_NN1 ,_, Allentown_NP1 ,_, Pennsylvania_NP1 ,_, 
+I_PPIS1 read_VV0 an_AT1 article_NN1 with_IW the_AT caption_NN1 Three_MC 
+Polk_NP1 Playpen_NN1 Patients_NN2 Stage_NN1 Unprovoked_JJ Outbursts_NN2 ._. 
+A_AT1 copy_NN1 of_IO this_DD1 is_VBZ also_RR enclosed_VVN for_IF your_APPGE 
+perusal_NN1 I_PPIS1 have_VH0 known_VVN Dr._NNB James_NP1 H._NP1 McClelland_NP1 
+for_IF approximately_RR twenty_MC three_MC years_NNT2 ._. 
+I_PPIS1 had_VHD the_AT distinct_JJ privilege_NN1 of_IO being_VBG a_AT1 
+Summer_NNT1 Intern_NN1 under_II Dr._NNB McClelland_NP1 at_II Polk_NP1 
+State_NN1 School_NN1 during_II the_AT summers_NNT2 of_IO 1954_MC and_CC 
+1955_MC ._. 
+I_PPIS1 am_VBM now_RT in_II the_AT private_JJ practice_NN1 of_IO medicine_NN1 
+in_II The_AT Lehigh_NN1 Valley_NN1 where_CS I_PPIS1 have_VH0 been_VBN since_II 
+July_NPM1 1958_MC ._. 
+Having_VHG been_VBN in_II practice_NN1 for_IF fifteen_MC years_NNT2 I_PPIS1 
+have_VH0 met_VVN and_CC been_VBN associated_VVN with_IW a_AT1 large_JJ 
+number_NN1 of_IO physicians_NN2 ._. 
+I_PPIS1 can_VM honestly_RR say_VVI that_CST I_PPIS1 have_VH0 never_RR had_VHN 
+the_AT privilege_NN1 of_IO knowing_VVG a_AT1 more_RGR compassionate_JJ and_CC 
+concerned_JJ physician_NN1 than_CSN Dr._NNB McClelland_NP1 ._. 
+It_PPH1 is_VBZ obvious_JJ that_CST noone_NN1 can_VM be_VBI correct_JJ all_DB 
+the_AT time_NNT1 ,_, but_CCB I_PPIS1 suspect_VV0 Dr._NNB McClelland_NP1 
+has_VHZ been_VBN wrong_JJ many_DA2 times_NNT2 less_RRR than_CSN myself_PPX1 
+and_CC many_DA2 of_IO my_APPGE colleagues_NN2 ._. 
+It_PPH1 is_VBZ with_IW this_DD1 in_II mind_NN1 that_CST I_PPIS1 write_VV0 
+you_PPY concerning_VVG these_DD2 articles_NN2 and_CC the_AT situation_NN1 
+which_DDQ prevoked_VVD the_AT writing_NN1 thereof_RR I_PPIS1 strongly_RR 
+protest_VV0 your_APPGE action_NN1 of_IO dismissal_NN1 of_IO Dr._NNB 
+McClelland_NP1 from_II his_APPGE duties_NN2 and_CC strongly_RR encourage_VV0 
+you_PPY to_TO reconsider_VVI the_AT action_NN1 which_DDQ you_PPY have_VH0 
+taken_VVN ._. 
+It_PPH1 is_VBZ rather_RG obvious_JJ after_II reading_VVG these_DD2 two_MC 
+articles_NN2 ,_, if_CS they_PPHS2 are_VBR in_II the_AT least_RGT correct_JJ 
+,_, that_CST you_PPY have_VH0 very_RG little_DA1 knowledge_NN1 of_IO the_AT 
+care_NN1 of_IO mentally_RR retarded_JJ ,_, especially_RR those_DD2 who_PNQS 
+become_VV0 agitated_JJ ._. 
+I_PPIS1 am_VBM utterly_RR appalled_JJ to_TO think_VVI that_CST you_PPY 
+would_VM fire_VVI a_AT1 man_NN1 of_IO Dr._NNB McClellands_NP1 ability_NN1 ,_, 
+especially_RR after_II his_APPGE long_JJ tenure_NN1 of_IO handling_VVG 
+this_DD1 type_NN1 of_IO patient_NN1 I_PPIS1 would_VM like_VVI to_TO 
+further_RRR inform_VVI you_PPY that_CST I_PPIS1 am_VBM an_AT1 extremely_RR 
+dis-satisfied_JJ tax_NN1 paying_VVG citizen_NN1 ,_, especially_RR when_CS 
+I_PPIS1 read_VV0 quotes_NN2 such_II21 as_II22 those_DD2 attributed_VVN to_II 
+you_PPY at_II a_AT1 news_NN1 conference_NN1 following_VVG this_DD1 
+dismissal_NN1 ._. 
+I_PPIS1 quote_VV0 from_II the_AT article_NN1 of_IO Thursday_NPD1 ,_, 
+April_NPM1 19_MC ,_, 1973_MC ,_, Morning_NNT1 Call_NN1 ,_, Allentown_NP1 ,_, 
+Pennsylvania_NP1 ;_; The_AT rally_NN1 was_VBDZ pretty_RG much_RR what_DDQ 
+we_PPIS2 anticipated_VVD ._. 
+He_PPHS1 s_VBZ been_VBN there_RL a_AT1 long_JJ time_NNT1 ._. 
+This_DD1 seems_VVZ to_TO be_VBI a_AT1 rather_RG juvenile_JJ response_NN1 on_II 
+your_APPGE part_NN1 ._. 
+I_PPIS1 would_VM anticipate_VVI that_CST anyone_PN1 who_PNQS has_VHZ been_VBN 
+there_RL a_AT1 long_JJ time_NNT1 would_VM have_VHI at_RR21 least_RR22 as_RG 
+many_DA2 ,_, if_CS not_XX more_DAR enemies_NN2 than_CSN friends_NN2 if_CS 
+he_PPHS1 were_VBDR not_XX doing_VDG an_AT1 extremely_RR adequate_JJ job_NN1 
+._. 
+This_DD1 obviously_RR is_VBZ not_XX the_AT case_NN1 with_IW Dr._NNB 
+McClelland_NP1 ,_, as_CSA his_APPGE friends_NN2 ,_, I_PPIS1 am_VBM sure_JJ 
+far_RR outnumber_VV0 his_APPGE enemies_NN2 ._. 
+Respect_NN1 ,_, certainly_RR must_VM be_VBI earned_VVN ,_, not_XX demanded_VVN 
+._. 
+I_PPIS1 respect_VV0 Dr._NNB McClelland_NP1 ._. 
+I_PPIS1 am_VBM angered_VVN by_II Helene_NP1 Wohlgemuth_NP1 I_PPIS1 
+sincerely_RR hope_VV0 ,_, Mrs._NNB Wohlgemuth_NP1 ,_, that_CST you_PPY will_VM 
+respond_VVI to_II my_APPGE concerns_NN2 as_CSA voiced_VVN in_II this_DD1 
+letter_NN1 JRC:b_FO Encl._NP1 (_( 2_MC )_) 
+--57a2e247021c4d5394fd9c322545433b--_FU 

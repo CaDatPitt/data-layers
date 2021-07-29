@@ -1,0 +1,22 @@
+
+G_ZZ1 t-JGUC_JJ V/tLfAK_FU 30_MC Paul_NP1 Revere_NP1 Roa_NP1 Oil_NN1 City_NN1 
+,_, Pennsylvania_NP1 1630_MC April_NPM1 19_MC ,_, 197_MC Honorable_NP1 
+Milton_NP1 J._NP1 Shap_NP1 Governor_NN1 of_IO Pennsylvani_NP1 State_NP1 
+Capito_NP1 Harrisburg_NP1 ,_, Pennsylvani_JJ Dear_JJ Mr._NNB Shapp_NP1 :_: 
+This_DD1 letter_NN1 is_VBZ to_TO protest_VVI the_AT unfair_JJ firing_NN1 of_IO 
+Dr._NNB James_NP1 McClelland_NP1 as_CSA superintendent_NN1 of_IO Polk_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 Dr._NNB McClelland_NP1 has_VHZ 
+given_VVN many_DA2 years_NNT2 of_IO service_NN1 to_II the_AT Commonwealth_NN1 
+of_IO Pennsylvania_NP1 and_CC this_DD1 action_NN1 was_VBDZ highly_RR 
+uncalled_JJ for_IF without_IW a_AT1 complete_JJ inquiry_NN1 into_II the_AT 
+facts_NN2 of_IO the_AT case_NN1 I_PPIS1 can_VM not_XX see_VVI how_RRQ a_AT1 
+person_NN1 in_II Just_RR two_MC hours_NNT2 can_VM ruin_VVI a_AT1 man_NN1 
+who_PNQS has_VHZ spent_VVN over_RG thirty_MC years_NNT2 in_II helping_VVG 
+the_AT mentally_RR retarded_JJ of_IO this_DD1 state_NN1 I_PPIS1 ask_VV0 
+that_CST you_PPY examine_VV0 Dr._NNB McClellands_NP1 record_NN1 and_CC 
+immediately_RR reinstate_VV0 him_PPHO1 as_CSA superintendent_NN1 at_II 
+Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 Very_RG truly_RR yours_PPGE 
+DALE_NP1 H._NP1 WILSO_NP1 Copies_NN2 sent_VVN to_II :_: Senator_NNB 
+Richard_NP1 C._NP1 Fram_NN1 Representive_NP1 Alvin_NP1 Kahl_NP1 Welfare_NN1 
+Secretary_NN1 Helene_NP1 Wohlgemuth_NP1 
+--7de19d0857055b1dda9320ae8ba493ca--_FU 

@@ -1,0 +1,39 @@
+
+January_NPM1 10/_FO 197_MC Mr._NNB Robert_NP1 Hiltner_NP1 ,_, 
+Superintendent_NNB Western_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 333_MC 
+Curry_NP1 Hill_NNL1 Roa_NP1 Canonsburg_NP1 ,_, Pa._NP1 1531_MC Dear_JJ Bob_NP1 
+While_CS visiting_VVG Western_JJ State_NN1 School_NN1 and_CC Hospita_NP1 on_II 
+Thursday_NPD1 ,_, January_NPM1 9_MC ,_, 1975_MC ,_, I_PPIS1 observed_VVD 
+Tony_NP1 MH_NP1 at_II lunch_NN1 time_NNT1 ._. 
+Tony_NP1 was_VBDZ marched_VVN into_II the_AT dining_NN1 room_NN1 by_II a_AT1 
+child_NN1 care_NN1 aide_NN1 ._. 
+The_AT child_NN1 care_NN1 aide_NN1 held_VVD Tony_NP1 's_GE arms_NN2 from_II 
+behind_RL and_CC pushed_VVD him_PPHO1 the_AT whole_JJ length_NN1 of_IO the_AT 
+dining_NN1 room_NN1 to_II a_AT1 table_NN1 ._. 
+Within_II two_MC minutes_NNT2 ,_, the_AT procedure_NN1 was_VBDZ reversed_VVN 
+and_CC Tony_NP1 was_VBDZ being_VBG pushed_VVN out_II21 of_II22 the_AT 
+dining_NN1 room_NN1 ._. 
+At_II a_AT1 moment_NN1 or_CC two_MC later_RRR ,_, Tony_NP1 was_VBDZ seen_VVN 
+running_VVG down_RP the_AT hallway_NN1 into_II the_AT dining_NN1 room_NN1 
+clad_VVN only_RR in_RP under_II shorts_NN2 ._. 
+He_PPHS1 grabbed_VVD another_DD1 resident_NN1 's_GE lunch_NN1 and_CC 
+stuffed_VVD it_PPH1 into_II his_APPGE mouth_NN1 ._. 
+The_AT child_NN1 care_NN1 aide_NN1 chased_VVN after_II Tony_NP1 and_CC 
+eventually_RR returned_VVD him_PPHO1 to_II the_AT bathroom_NN1 of_IO the_AT 
+unit_NN1 A_ZZ1 half_RR an_AT1 hour_NNT1 later_RRR when_CS Tony_NP1 had_VHD 
+not_XX returned_VVN to_II the_AT dining_NN1 room_NN1 to_TO finish_VVI 
+his_APPGE lunch_NN1 ,_, I_PPIS1 asked_VVD an_AT1 attendant_NN1 on_II his_APPGE 
+unit_NN1 (_( John_NP1 )_) when_RRQ Tony_NP1 was_VBDZ going_VVGK to_TO 
+receive_VVI his_APPGE lunch_NN1 ._. 
+He_PPHS1 said_VVD Tony_NP1 had_VHD received_VVN lunch_NN1 and_CC that_CST 
+he_PPHS1 eats_VVZ very_RG fast_JJ and_CC had_VHD gulped_VVN his_APPGE meal_NN1 
+down_RP in_II a_AT1 minute_NNT1 I_PPIS1 doubt_VV0 that_CST Tony_NP1 was_VBDZ 
+given_VVN an_AT1 opportunity_NN1 to_TO eat_VVI this_DD1 lunch_NN1 meal_NN1 ._. 
+If_CS he_PPHS1 was_VBDZ given_VVN an_AT1 opportunity_NN1 to_TO eat_VVI the_AT 
+meal_NN1 ,_, he_PPHS1 was_VBDZ n't_XX properly_RR supervised_VVN to_TO eat_VVI 
+the_AT meal_NN1 slowly_RR Tony_NP1 is_VBZ an_AT1 individual_NN1 who_PNQS 
+has_VHZ lost_VVN a_AT1 great_JJ deal_NN1 of_IO weight_NN1 during_II various_JJ 
+periods_NN2 of_IO the_AT past_JJ couple_NN1 of_IO years_NNT2 ._. 
+Is_VBZ he_PPHS1 being_VBG fed_VVN properly_RR Sincerely_RR RN:c_FO Robert_NP1 
+Nelkin_NP1 Associate_JJ Executive_NN1 Director_NN1 
+--af935e11f912319a4408724561f4a973--_FU 

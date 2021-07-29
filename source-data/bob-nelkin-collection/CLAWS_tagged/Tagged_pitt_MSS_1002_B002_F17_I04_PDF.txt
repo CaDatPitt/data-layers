@@ -1,0 +1,18 @@
+
+ABC_NP1 Nightly_JJ News_NN1 -_- 12/7/8_MF Tim_NP1 OBrie_NP1 "_" Helen_NP1 
+OBannon_NP1 ,_, Pennsylvania_NP1 Secretary_NN1 of_IO Welfare_NN1 ,_, 
+concedes_VVZ Pennhurst_NN1 is_VBZ still_RR more_RGR restrictive_JJ than_CSN 
+necessary_JJ ,_, but_CCB that_DD1 returning_JJ inmates_NN2 to_II the_AT 
+Community_NN1 wont_NN1 work_NN1 ,_, not_XX because_CS theyre_NN1 not_XX 
+ready_JJ for_IF the_AT outside_JJ world_NN1 ,_, but_CCB because_CS the_AT 
+outside_JJ world_NN1 might_VM not_XX be_VBI ready_JJ for_IF them_PPHO2 ._. 
+Helen_NP1 0*Banno_FO "_" We_PPIS2 should_VM in_II no_AT way_NN1 be_VBI 
+forced_VVN to_TO dump_VVI these_DD2 people_NN into_II unaccepting_VVG ,_, 
+hostile_JJ environments_NN2 where_CS they_PPHS2 cant_JJ get_VV0 services_NN2 
+and_CC where_CS they_PPHS2 will_VM be_VBI shoved_VVN to_II the_AT back_NN1 
+rooms_NN2 and_CC the_AT attics_NN2 that_CST replace_VV0 the_AT back_NN1 
+wards_NN2 of_IO these_DD2 institutions_NN2 of_IO yesteryear_NNT1 ._. 
+I_PPIS1 just_RR ca_VM n't_XX tolerate_VVI that_DD1 and_CC that_DD1 is_VBZ 
+what_DDQ the_AT plaintiffs_NN2 in_II this_DD1 case_NN1 would_VM have_VHI 
+us_PPIO2 do_VD0 ._. "_" 
+--b024ff7d1c16e1a5f373f390129f3eba--_FU 

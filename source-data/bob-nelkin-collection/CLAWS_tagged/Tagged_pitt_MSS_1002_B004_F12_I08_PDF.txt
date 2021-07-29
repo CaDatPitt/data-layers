@@ -1,0 +1,29 @@
+
+917-1001_MCMC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 (_( 412._MC )_) 
+322-6GG_JJ Presiden_NN1 Dr._NNB Norman_NP1 Mulgrav_NP1 Executive_NN1 
+Directo_NP1 C._NP1 A._NP1 Peter_NP1 November_NPM1 15_MC ,_, 197_MC Mr._NNB 
+Norman_NP1 J._NP1 Taylor_NP1 ,_, Regional_JJ Deputy_NN1 Secretar_NN1 
+Department_NN1 of_IO Public_JJ Welfar_NN1 State_NN1 Office_NN1 Building_NN1 
+,_, Room_NN1 70_MC 300_MC Liberty_NN1 Avenu_NP1 Pittsburgh_NP1 ,_, Pa._NP1 
+1522_MC Dear_JJ Norm_NP1 from_II Mike_NP1 Levine_NP1 and_CC Mr._NNB H._NP1 
+W_ZZ1 aror_NN1 to_II Dr._NNB James_NP1 McClel_NP1 After_II reading_VVG Mr_NNB 
+I_PPIS1 am_VBM sure_JJ you_PPY will_VM agree_VVI it_PPH1 is_VBZ very_RG 
+reasonable_JJ and_CC balance_VVI I_PPIS1 know_VV0 many_DA2 parents_NN2 
+who_PNQS would_VM take_VVI a_AT1 much_RR more_RGR hostile_JJ attitude_NN1 
+The_AT letter_NN1 State_NN1 School_NN1 and_CC Hospital_NN1 ,_, are_VBR 
+seIf-expIanaTory_JJ ._. 
+Ietter_VV0 ,_, frankly_RR It_PPH1 does_VDZ seem_VVI to_II me_PPIO1 that_CST 
+if_CS we_PPIS2 are_VBR serious_JJ about_II normalization_NN1 ,_, use_NN1 of_IO 
+the_AT telephone_NN1 is_VBZ one_MC1 of_IO the_AT most_RGT normal_JJ 
+activities_NN2 ._. 
+Possibly_RR your_APPGE regional_JJ task_NN1 force_NN1 should_VM address_VVI 
+itself_PPX1 to_II this_DD1 problem_NN1 and_CC advise_VVI you_PPY to_II a_AT1 
+course_NN1 of_IO action_NN1 I_ZZ1 wiI_NN2 I_PPIS1 also_RR refer_VV0 this_DD1 
+to_II our_APPGE State_NN1 School_NN1 and_CC Hospital_NN1 and_CC Interim_JJ 
+Care_NN1 Comm_NP1 i_MC1 ttee_NN1 Do_VD0 you_PPY anticipate_VVI that_CST 
+we_PPIS2 could_VM have_VHI an_AT1 opinion_NN1 by_II January_NPM1 I_MC1 
+Best_JJT personal_JJ wishes_NN2 C._NP1 A._NP1 Peter_NP1 Executive_NN1 Di_NP1 
+recto_NN1 CA_VM :_: l_ZZ1 enclosure_NN1 cc_NNU :_: Thornburgh_NP1 Mu_NN1 I_ZZ1 
+grave_JJ Lev_NP1 i_ZZ1 n_ZZ1 Member_NN1 Unit_NN1 -_- National_JJ As_CSA s_ZZ1 
+ociation_NN1 for_IF Retarded_JJ Children_NN2 ,_, Inc._JJ 
+--e9426b97084e5c7b40e001ad4ec375c8--_FU 

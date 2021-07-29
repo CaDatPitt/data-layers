@@ -1,0 +1,71 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ OOl_NP1 BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 15233_MC telephone_NN1 :_: (_( 412_MC )_) 
+o22_FO 600_MC PAR_NP1 JOAN_NP1 W._NP1 MURDOC_NP1 Chapter_NN1 Presiden_NP1 
+MICHAEL_NP1 A._NP1 TROWBRIDG_NP1 Executive_NN1 Directo_NN1 March_NPM1 29_MC 
+,_, 197_MC The_AT Honorable_NP1 Richard_NP1 J._NP1 Cessar_NP1 House_NN1 of_IO 
+Representatives_NN2 Harrisburg_NP1 ,_, Pa._NP1 1712_MC Dear_JJ 
+Representative_NP1 Cessar_NN1 Mrs._NNB Stella_NP1 W._NP1 Kandzer_NP1 ,_, 
+151_MC Elmwood_NP1 Drive_NN1 ,_, Glenshaw_NP1 ,_, Pa._NP1 15116_MC ,_, 
+requested_VVN that_CST we_PPIS2 inform_VV0 you_PPY of_IO the_AT lack_NN1 of_IO 
+services_NN2 for_IF citizens_NN2 who_PNQS are_VBR both_RR mentally_RR 
+retarded_JJ and_CC emotionally_RR disturbed_VVN or_CC exhibiting_VVG 
+behavior_NN1 oroblems_VVZ The_AT problem_NN1 is_VBZ serious_JJ ._. 
+Because_CS there_EX are_VBR few_DA2 services_NN2 ,_, individuals_NN2 
+tragically_RR regress_VV0 rather_CS21 than_CS22 progress_VVI ._. 
+Families_NN2 experience_VV0 intense_JJ stress_NN1 ._. 
+In_II some_DD cases_NN2 ,_, families_NN2 or_CC other_JJ individuals_NN2 
+suffer_VV0 bodily_JJ injury_NN1 The_AT Systems_NN2 "_" response_NN1 to_II 
+these_DD2 needs_NN2 disappoints_VVZ us_PPIO2 ._. 
+Mental_JJ health_NN1 programs_NN2 reject_VV0 the_AT clients_NN2 because_CS 
+they_PPHS2 are_VBR mentally_RR retarded_JJ ._. 
+Mental_JJ retardation_NN1 programs_NN2 reject_VV0 the_AT clients_NN2 
+because_CS they_PPHS2 are_VBR mentally_RR ill_JJ Some_DD Allegheny_NP1 
+Countv_NP1 residents_NN2 are_VBR sent_VVN to_II programs_NN2 far_RR out_II21 
+of_II22 the_AT county_NN1 or_CC out_II21 of_II22 the_AT state_NN1 ._. 
+Some_DD individuals_NN2 are_VBR dumped_VVN ,_, without_IW regard_NN1 for_IF 
+their_APPGE needs_NN2 ,_, into_II state_NN1 institutions_NN2 ._. 
+Outrageous_JJ levels_NN2 of_IO medication_NN1 are_VBR used_VVN to_II "_" 
+quiet_JJ "_" the_AT residents_NN2 in_II31 place_II32 of_II33 training_NN1 
+From_II our_APPGE view_NN1 ,_, state_VV0 ,_, region_NN1 ,_, and_CC county_NN1 
+officials_NN2 have_VH0 failed_VVN to_TO develop_VVI these_DD2 needed_VVN 
+services_NN2 during_II the_AT last_MD five_MC years_NNT2 ._. 
+Some_DD of_IO the_AT reasons_NN2 why_RRQ for_IF their_APPGE failure_NN1 
+include_VV0 :_: the_AT risk_NN1 of_IO dealing_VVG with_IW persons_NN2 with_IW 
+severe_JJ emotional_JJ problems_NN2 ,_, the_AT lack_NN1 of_IO expertise_NN1 
+of_IO mental_JJ retardation_NN1 program_NN1 staff_NN ,_, and_CC prejudice_NN1 
+against_II serving_VVG mentally_RR retarded_JJ individuals_NN2 by_II 
+psychiatrists_NN2 and_CC other_JJ professionals_NN2 who_PNQS are_VBR 
+experts_NN2 with_IW emotional_JJ problems_NN2 MEMBER_NN1 UNIT_NN1 -_- 
+National_JJ Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, Inc._JJ 
+fWRTICIfANT_JJ *_FU Allegheny_NP1 County_NN1 Mental_JJ Health/_NN1 Mental_JJ 
+Retardation_NN1 Progra_NP1 The_AT Honorable_NP1 Richard_NP1 J._NP1 Cessar_NP1 
+Page_NN1 I_PPIS1 think_VV0 the_AT families_NN2 we_PPIS2 represent_VV0 would_VM 
+like_VVI to_TO see_VVI 1_MC1 )_) a_AT1 communitv_NN1 MH/MR_FU system_NN1 
+which_DDQ provides_VVZ specialized_JJ services_NN2 to_TO help_VVI families_NN2 
+reduce_VVI aggressive_JJ or_CC abnormal_JJ behavior_NN1 of_IO their_APPGE 
+children_NN2 and_CC reduce_VV0 the_AT resulting_JJ stress_NN1 on_II the_AT 
+family_NN1 2_MC )_) the_AT development_NN1 of_IO community_NN1 residential_JJ 
+programs_NN2 for_IF adolescents_NN2 and_CC adults_NN2 in_II the_AT cases_NN2 
+where_RRQ the_AT family_NN1 can_VM no_RR21 longer_RR22 successfully_RR 
+fulfill_VVI this_DD1 responsibility_NN1 because_II21 of_II22 extreme_JJ 
+behavior_NN1 3_MC )_) the_AT conversion_NN1 of_IO some_DD units_NN2 in_II 
+the_AT state_NN1 centers_NN2 and_CC hospitals_NN2 to_TO specialize_VVI in_II 
+the_AT care_NN1 of_IO people_NN with_IW behavior_NN1 problems_NN2 ,_, who_PNQS 
+currently_RR reside_VV0 in_II the_AT institutions_NN2 4_MC )_) total_JJ 
+enforcement_NN1 of_IO each_DD1 persons_NN2 state_VV0 and_CC federal_JJ 
+right_NN1 to_II treatment_NN1 in_II the_AT least_RGT restrictive_JJ 
+alternative_NN1 and_CC due_JJ process_NN1 prior_II21 to_II22 such_DA 
+arrangements_NN2 If_CS you_PPY share_VV0 these_DD2 goals_NN2 and_CC are_VBR 
+as_RG concerned_JJ as_CSA members_NN2 of_IO our_APPGE chapter_NN1 ,_, you_PPY 
+might_VM wish_VVI to_TO meet_VVI with_IW us_PPIO2 or_CC others_NN2 to_TO 
+learn_VVI more_RRR about_II the_AT problem_NN1 and_CC eventually_RR 
+stimulate_VV0 the_AT Office_NN1 of_IO Mental_JJ Retardation_NN1 and_CC the_AT 
+Office_NN1 of_IO Mental_JJ Health_NN1 of_IO the_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 to_TO aggressively_RR develop_VVI quality_NN1 
+services_NN2 Thank_VV0 you_PPY very_RG much_DA1 Sincerely_RR Robert_NP1 
+Nelki_NP1 Associate_JJ Executive_NN1 Directo_NP1 RN_NP1 :_: c_ZZ1 CC_NP1 :_: 
+Charles_NP1 A._NP1 Peters_NP ,_, Administrator_NN1 ,_, MH/M_NN1 Marlene_NP1 
+Burda_NP1 ,_, Chairperson_NN1 ,_, ACC-PARC_NP1 Legislative_JJ Committe_NN1 
+Mrs._NNB Stella_NP1 W._NP1 Kandzer_NP1 --b778b43c811b2ba0c5ad56edc6797ee8--_FU 

@@ -1,0 +1,741 @@
+
+IN_II THE_AT UNITED_NP1 STATES_NP1 DISTRICT_NN1 COUR_NN1 --FOR_NN1 THE_AT 
+EASTERN_JJ DISTRICT_NN1 OF_IO PENNSYLVANI_NP1 TERRI_NP1 LEE_NP1 HALDERMAN_NP1 
+,_, et_RA21 al_RA22 v_II PENNHURST_NP1 STATE_NN1 SCHOOL_NN1 AND_CC 
+HOSPITAL_NN1 ,_, et_RA21 al_RA22 C.A._NP1 No._NN1 74-134_MCMC PLAINTIFFS_NN2 
+PROPOSED_JJ FINDINGS_NN2 REGARDING_II CONTEMPT_NN1 FOR_IF FAILURE_NN1 TO_TO 
+PAY_VVI COSTS_NN2 OF_IO MASTER_NNB David_NP1 Ferleger_NP1 ,_, Esquir_NP1 37_MC 
+S._NP1 20th_MD Street_NN1 ,_, Suite_NN1 601_MC Philadelphia_NP1 ,_, Pa._NP1 
+1910_MC Penelope_NP1 A._NP1 Boyd_NP1 ,_, Esquire_NN1 1700_MC Walnut_NP1 
+Street_NNL1 Philadelphia_NP1 ,_, Pa._NP1 1910_MC Attorneys_NN2 for_IF 
+Plaintiff_NN1 July_NPM1 29_MC ,_, 198_MC RECEIVE_VV0 JUL_NN1 2_MC 9_MC 198_MC 
+OFFICE_NN1 OF_IO SPECIAL_JJ MASTE_NP1 Introductio_NP1 1_MC1 ._. 
+On_II June_NPM1 4_MC ,_, 1981_MC ,_, the_AT Court_NN1 signed_VVD ,_, and_CC 
+on_II June_NPM1 5_MC ,_, 1981_MC ,_, the_AT Clerk_NN1 entered_VVD two_MC 
+routine_JJ monthly_JJ orders_NN2 for_IF paymen_NN2 of_IO the_AT costs_NN2 
+of_IO the_AT Special_JJ Master_NN1 and_CC the_AT Hearing_NN1 Master_NN1 in_II 
+the_AT amounts_NN2 ,_, respectively_RR ,_, of_IO $59,152.74_NNU and_CC 
+$8,593.34_NNU for_IF a_AT1 total_NN1 of_IO $67,746.08_NNU 2_MC ._. 
+Pursuant_II21 to_II22 the_AT Order_NN1 of_IO July_NPM1 27_MC ,_, 1978_MC ,_, 
+If4_FO ,_, the_AT costs_NN2 were_VBDR to_TO be_VBI paid_VVN by_II the_AT 
+Commonwealth_NN1 defendants_NN2 (_( i.e._REX ,_, the_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 of_IO the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 ,_, 
+the_AT Pennhurst_NN1 State_NN1 School_NN1 and_CC Hospital_NN1 ,_, 
+Secretary_NN1 of_IO Public_JJ Welfare_NN1 Helen_NP1 O'Bannon_NP1 ,_, 
+Deputy_NN1 Secretary_NN1 for_IF Mental_JJ Retardation_NN1 Jennifer_NP1 
+Howse_NP1 ,_, Pennhurst_VV0 Superintendent_NNB George_NP1 Kopchick_NP1 and_CC 
+other_JJ officials_NN2 )_) ._. 
+The_AT June_NPM1 5_MC ,_, 1981_MC orders_NN2 specified_VVD that_DD1 
+payment_NN1 was_VBDZ to_TO be_VBI made_VVN "_" on_II or_CC before_II the_AT 
+first_MD day_NNT1 of_IO July_NPM1 ,_, 1981._MC 3_MC ._. 
+No_AT payment_NN1 was_VBDZ made_VVN on_II or_CC before_II July_NPM1 1_MC1 ,_, 
+1981_MC ._. 
+No_AT request_NN1 for_IF an_AT1 extension_NN1 of_IO time_NNT1 to_TO pay_VVI 
+was_VBDZ filed_VVN ._. 
+No_AT appeal_NN1 was_VBDZ filed_VVN from_II either_DD1 order_NN1 4_MC ._. 
+On_II June_NPM1 25_MC ,_, 1981_MC ,_, counsel_VV0 for_IF defendants_NN2 
+Robert_NP1 Hoffman_NP1 wrote_VVD to_II the_AT Court_NN1 and_CC stated_VVD 
+that_CST the_AT "_" Commonwealth_NN1 will_VM deposit_VVI with_IW the_AT 
+Clerk_NN1 a_AT1 check_NN1 in_II the_AT amount_NN1 of_IO $35,000_NNU ._. "_" 
+He_PPHS1 also_RR stated_VVD that_CST the_AT "_" account_NN1 will_VM then_RT 
+be_VBI depleted_VVN ,_, subject_II21 to_II22 supplemental_JJ appropriation_NN1 
+._. "_" 
+Ex_NN1 ._. 
+P-25_FO ._. 
+At_II conference_NN1 in_II chambers_NN2 on_II July_NPM1 6_MC ,_, 1981_MC ,_, 
+Ex_NN1 ._. 
+P-6_FO ,_, and_CC in_II31 response_II32 to_II33 interrogatories_NN2 ,_, Ex_NN1 
+._. 
+P-10_FO and_CC P-11_FO (_( Question_NN1 10-12_MCMC )_) ,_, the_AT 
+defendants_NN2 have_VH0 made_VVN it_PPH1 clear_JJ that_CST not_XX only_RR 
+will_VM the_AT June_NP1 orders_NN2 for_IF p.yment_NNU not_XX be_VBI obeyed_VVN 
+but_CCB that_CST "_" no_AT further_JJR payments_NN2 could_VM be_VBI made_VVN 
+,_, "_" Ex_NN1 ._. 
+P-11_FO ,_, No._NN1 10-12_MCMC 5_MC ._. 
+The_AT reason_NN1 given_VVN by_II defendants_NN2 for_IF their_APPGE 
+refusal_NN1 to_TO pay_VVI the_AT costs_NN2 of_IO the_AT masters_NN2 is_VBZ 
+that_CST the_AT 1981-1982_MCMC Pennsylvania_NP1 Appropriations_NP1 Act_NN1 
+provides_VVZ $35,000_NNU specifically_RR for_IF "_" Pennhurst_NP1 -Special_JJ 
+Master_NN1 -_- Hearing_VVG Master_NN1 ._. 
+The_AT bill_NN1 also_RR states_VVZ tha_DD1 "_" It_PPH1 is_VBZ the_AT 
+intent_NN1 of_IO the_AT General_JJ Assembly_NN1 that_CST this_DD1 
+appropriation_NN1 be_VBI used_VVN for_IF shutdown_NN1 costs_NN2 and_CC 
+that_CST no_AT other_JJ funds_NN2 of_IO the_AT Commonwealth_NN1 be_VBI 
+spent_VVN for_IF these_DD2 functions._NNU 6_MC ._. 
+Plaintiffs_NN2 have_VH0 filed_VVN a_AT1 motion_NN1 for_IF contempt_NN1 
+against_II the_AT Commonwealth_NN1 defendants_NN2 for_IF failure_NN1 to_TO 
+pay_VVI the_AT costs_NN2 of_IO the_AT masters_NN2 ._. 
+An_AT1 evidentiary_JJ hearing_NN1 was_VBDZ held_VVN on_II July_NPM1 24_MC ,_, 
+1981_MC 7_MC ._. 
+The_AT issue_NN1 before_II the_AT Court_NN1 is_VBZ whether_CSW the_AT 
+Commonwealth_NN1 defendants_NN2 in_II this_DD1 litigation_NN1 are_VBR in_II 
+contempt_NN1 of_IO this_DD1 Court_NN1 's_GE orders_NN2 ._. 
+There_EX is_VBZ no_AT issue_NN1 before_II the_AT Court_NN1 regarding_II the_AT 
+actions_NN2 of_IO the_AT legislature_NN1 ._. 
+As_II the_AT discussion_NN1 below_RL demonstrates_VVZ ,_, the_AT 
+defendants_NN2 have_VH0 acted_VVN in_II bad_JJ faith_NN1 and_CC in_II open_JJ 
+defianc_NN1 of_IO the_AT Courts_NN2 orders_NN2 ;_; they_PPHS2 have_VH0 
+attempted_VVN to_TO precipitate_VVI a_AT1 constitutional_JJ crisis_NN1 as_II 
+a_AT1 means_NN of_IO evading_VVG concededly_RR valid_JJ orders_NN2 of_IO 
+the_AT Court_NN1 ._. 
+It_PPH1 is_VBZ the_AT actions_NN2 of_IO the_AT defendants_NN2 which_DDQ 
+must_VM be_VBI examined_VVN and_CC ,_, if_CS necessary_JJ ,_, brought_VVN 
+into_II compliance_NN1 with_IW the_AT law_NN1 The_AT Special_JJ Master_NN1 
+and_CC Hearing_VVG Maste_NN1 8_MC ._. 
+The_AT Special_JJ Master_NN1 and_CC the_AT Hearing_NN1 Master_NN1 perform_VVI 
+the_AT extremely_RR limited_JJ functions_NN2 of_IO monitoring_VVG 
+defendants_NN2 '_GE implementation_NN1 of_IO the_AT Courts_NN2 orders_NN2 
+and_CC assisting_VVG the_AT defendants_NN2 often_RR at_II their_APPGE 
+request_NN1 ,_, with_IW specific_JJ aspects_NN2 of_IO defendants_NN2 '_GE 
+activities_NN2 9_MC ._. 
+The_AT masters_NN2 do_VD0 not_XX identify_VVI people_NN for_IF movement_NN1 
+from_II Pennhurst_NP1 ,_, do_VD0 not_XX establish_VVI or_CC design_NN1 
+community_NN1 placements_NN2 do_VD0 not_XX make_VVI decisions_NN2 regarding_II 
+the_AT appropriateness_NN1 of_IO particular_JJ services_NN2 ,_, do_VD0 not_XX 
+manage_VVI or_CC operate_VVI any_DD service_NN1 program_NN1 either_RR at_II 
+Pennhurst_NP1 or_CC in_II the_AT community_NN1 ._. 
+The_AT Special_JJ Master_NN1 does_VDZ review_VVI individual_JJ 
+habilitation_NN1 plans_NN2 for_IF completeness_NN1 and_CC compliance_NN1 
+with_IW the_AT Guidelines_NN2 for_IF Case_NN1 Managers_NN2 approved_VVN by_II 
+the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 ._. 
+The_AT Hearing_NN1 Master_NN1 receives_VVZ from_II the_AT county_NN1 
+defendants_NN2 notices_NN2 of_IO when_RRQ those_DD2 defendants_NN2 
+themselves_PPX2 propose_VV0 that_CST a_AT1 particular_JJ person_NN1 would_VM 
+appropriately_RR be_VBI moved_VVN to_II community_NN1 services_NN2 and_CC 
+the_AT Hearing_NN1 Master_NN1 reviews_VVZ the_AT matter_NN1 for_IF 
+compliance_NN1 with_IW the_AT Courts_NN2 orders_NN2 ;_; in_II virtually_RR 
+every_AT1 case_NN1 ,_, there_EX is_VBZ no_AT dispute_NN1 or_CC opposition_NN1 
+(_( in_II fact_NN1 ,_, the_AT Commonwealth_NN1 defendants_NN2 as_II a_AT1 
+matter_NN1 of_IO custom_NN1 do_VD0 not_XX bother_VVI to_TO attend_VVI the_AT 
+hearings_NN2 )_) ._. 
+In_II just_RR a_AT1 handful_NN1 of_IO cases.has_NNU there_RL been_VBN any_DD 
+dispute_NN1 and_CC ,_, in_II those_DD2 ,_, no_AT party_NN1 has_VHZ 
+challenged_VVN the_AT Courts_NN2 rulings_NN2 on_II exceptions_NN2 to_II the_AT 
+Hearing_NN1 Masters_NN2 decisions_NN2 ._. 
+For_IF functions_NN2 of_IO the_AT Special_JJ Master_NN1 ,_, see_VV0 ex_NN1 ._. 
+P-7a_FO ,_, Deposition_NN1 of_IO Cnrla_NP1 Morgan_NP1 For_IF the_AT 
+Hearing_NN1 Master_NN1 ,_, see_VV0 the_AT Court_NN1 's_GE docket_NN1 and_CC 
+the_AT filed_JJ opinions_NN2 of_IO the_AT Hearing_NN1 Master_NN1 10_MC ._. 
+The_AT Special_JJ Master_NN1 has_VHZ endeavored_VVN to_TO transfer_VVI 
+many_DA2 of_IO its_APPGE activities_NN2 to_II the_AT defendants_NN2 and_CC 
+the_AT defendants_NN2 ,_, at_II various_JJ times_NNT2 ,_, have_VH0 
+promised_VVN to_TO undertake_VVI these_DD2 functions_NN2 ._. 
+Thus_RR far_RR ,_, the_AT Commonwealth_NN1 defendants_NN2 have_VH0 not_XX 
+taken_VVN up_II such_DA critical_JJ functions_NN2 and_CC activities_NN2 as_CSA 
+are_VBR necessary_JJ to_TO implement_VVI the_AT Courts_NN2 orders_NN2 ._. 
+Exhibit_VV0 P-7a_FO 11_MC ._. 
+The_AT vacuum_NN1 which_DDQ is_VBZ filled_VVN by_II the_AT Special_JJ 
+Master_NN1 is_VBZ illustrated_VVN in_II the_AT Commonwealth_NN1 and_CC 
+counties_NN2 own_VV0 "_" Pla_NP1 for_IF the_AT Implementation_NN1 of_IO the_AT 
+March_NPM1 2_MC ,_, 1981_MC Order_NN1 for_IF FY_NP1 1981-82_MCMC ,_, dated_JJ 
+June_NPM1 12_MC ,_, 1981_MC ._. 
+Exhibit_VV0 P-4_FO ._. 
+This_DD1 plan_NN1 promises_VVZ to_TO establish_VVI by_II January_NPM1 ,_, 
+1982_MC a_AT1 Special_JJ Management_NN1 Unit_NN1 to_TO review_VVI 
+individual_JJ habilitation_NN1 plans_NN2 ,_, monitor_VV0 schedules_NN2 for_IF 
+such_DA plans_NN2 ,_, monitor_VV0 voluntariness_NN1 of_IO placement_NN1 ,_, 
+train_VV0 case_NN1 managers_NN2 and_CC monitor_VV0 individual_JJ 
+habilitation_NN1 plan_NN1 implementation_NN1 ._. 
+Such_DA a_AT1 unit_NN1 would_VM be_VBI a_AT1 welcome_JJ activity_NN1 for_IF 
+defendants_NN2 to_TO undertake_VVI as_CSA it_PPH1 would_VM mirror_VVI most_DAT 
+of_IO the_AT masters_NN2 functions_NN2 and_CC would_VM be_VBI a_AT1 step_NN1 
+toward_II reduction_NN1 of_IO the_AT Courts_NN2 direct_JJ involvement_NN1 
+in_II implementation_NN1 ._. 
+Assuming_VVG that_CST the_AT Unit_NN1 is_VBZ established_VVN as_CSA 
+promised_VVN ,_, and_CC assuming_VVG that_CST the_AT two_MC persons_NN2 to_TO 
+be_VBI hired_VVN to_TO staff_VVI the_AT unit_NN1 can_VM accomplish_VVI 
+its_APPGE purposes_NN2 ,_, it_PPH1 will_VM be_VBI months_NNT2 before_CS any_DD 
+party_NN1 or_CC the_AT Court_NN1 knows_VVZ whether_CSW there_EX remains_VVZ 
+any_DD need_NN1 for_IF the_AT masters_NN2 or_CC whether_CSW or_CC how_RRQ 
+the_AT masters_NN2 roles_NN2 should_VM be_VBI modified_VVN 12_MC ._. 
+There_EX remains_VVZ a_AT1 need_NN1 for_IF the_AT masters_NN2 ;_; their_APPGE 
+activities_NN2 are_VBR critical_JJ to_II continuing_JJ implementation_NN1 
+of_IO the_AT Courts_NN2 decrees_NN2 ._. 
+Exhibit_VV0 P-4_FO ,_, the_AT defendants_NN2 '_GE own_DA plan_NN1 ,_, 
+recognizes_VVZ this_DD1 need_NN1 ._. 
+Serious_JJ problems_NN2 in_II implementation_NN1 continue_VV0 to_TO arise_VVI 
+,_, with_IW deadlines_NN2 set_VVN by_II the_AT defendants_NN2 themselves_PPX2 
+seriously_RR exceeded_VVN despite_II what_DDQ defendants_NN2 say_VV0 are_VBR 
+their_APPGE best_JJT efforts_NN2 ._. 
+The_AT monitoring_NN1 by_II the_AT Special_JJ Master_NN1 of_IO the_AT 
+implementation_NN1 of_IO the_AT first_MD part_NN1 of_IO the_AT March_NPM1 2_MC 
+,_, 1981s_MC2 orders_VVZ requirements_NN2 ,_, and_CC the_AT conceded_VVN 
+failure_NN1 of_IO defendants_NN2 to_TO comply_VVI with_IW that_DD1 order_NN1 
+,_, show_VV0 a_AT1 need_NN1 for_IF the_AT Court_NN1 to_TO have_VHI a_AT1 
+means_NN to_TO both_RR review_VVI and_CC prod_VVI the_AT defendants_NN2 '_GE 
+actions_NN2 ._. 
+As_II21 to_II22 conditions_NN2 at_II Pennhurst_NP1 ,_, while_CS they_PPHS2 
+have_VH0 improved_VVN somewhat_RR since_CS the_AT Courts_NN2 orders_NN2 
+were_VBDR put_VVN into_II place_NN1 (_( including_II an_AT1 addition_NN1 in_II 
+staffing_NN1 as_II a_AT1 result_NN1 of_IO plaintiffs_NN2 '_GE motion_NN1 )_) 
+,_, the_AT state_NN1 pre_II 'cts_NNU that_DD1 ,_, even_RR by_II October_NPM1 
+,_, 1981_MC ,_, Pennhurst_NP1 will_VM be_VBI crowded_VVN to_II 104X_FO of_IO 
+its_APPGE capacity_NN1 ._. 
+Exhibit_VV0 P-28_FO -4_MC Employees_NN2 have_VH0 been_VBN arrested_VVN at_II 
+Pennhurst_NN1 for_IF aggravated_JJ assault_NN1 and_CC recklessly_RR 
+endangering_VVG the_AT lives_NN2 of_IO residents_NN2 The_AT Special_JJ 
+Masters_NN2 regular_JJ reports_NN2 on_II Pennhurst_NP1 ,_, which_DDQ 
+compile_VV0 the_AT defendants_NN2 own_DA lists_NN2 and_CC charts_NN2 of_IO 
+accidents_NN2 and_CC injuries_NN2 show_VV0 that_CST Pennhurst_NP1 remains_VVZ 
+a_AT1 dangerous_JJ place_NN1 in_II which_DDQ to_TO live_VVI and_CC that_CST 
+more_DAR needs_NN2 to_TO be_VBI done_VDN ._. 
+It_PPH1 would_VM be_VBI irresponsible_JJ for_IF the_AT Court_NN1 to_TO 
+permit_VVI the_AT dissolution_NN1 of_IO its_APPGE intense_JJ monitoring_NN1 
+of_IO Pennhurst_NN1 Defendants_NN2 Commitment_NN1 to_II 
+Deinstitutionalizatio_NP1 13_MC ._. 
+The_AT record_NN1 of_IO the_AT hearing_NN1 regarding_II the_AT failure_NN1 
+to_TO pay_VVI the_AT masters_NN2 '_GE costs_NN2 reveals_VVZ a_AT1 fact_NN1 
+which_DDQ has_VHZ been_VBN true_JJ since_CS the_AT trial_NN1 of_IO this_DD1 
+case_NN1 ,_, and_CC before_RT ._. 
+The_AT defendants_NN2 hav_NN1 a_AT1 "_" commitment_NN1 to_II 
+deinsitutionalization_NN1 ._. "_" 
+Ex_NN1 ._. 
+P-8_FO ,_, dated_JJ June_NPM1 ,_, 1981_MC 14_MC ._. 
+That_DD1 commitment_NN1 has_VHZ been_VBN expressed_VVN in_II several_DA2 
+ways_NN2 ._. 
+Defendants_NN2 have_VH0 not_XX withdrawn_VVN their_APPGE statement_NN1 at_II 
+trial_NN1 of_IO their_APPGE intention_NN1 to_TO close_VVI Pennhurst_NN1 by_II 
+the_AT early_JJ 1980s_MC2 In_II June_NPM1 ,_, 1981_MC ,_, defendant_NN1 
+Howse_NP1 issued_VVD ,_, for_IF the_AT Department_NN1 of_IO Public_JJ 
+Welfare_NN1 ,_, a_AT1 Bulletin_NN1 ordering_VVG that_CST all_DB mental_JJ 
+retardation_NN1 admissions_NN2 be_VBI closed_VVN to_II Pennhurst_NP1 ,_, 
+Hamburg_NP1 ,_, Marcy_NP1 Ebensburg_NP1 and_CC the_AT retardation_NN1 unit_NN1 
+at_II Harrisburg_NP1 State_NN1 Hospital_NN1 ,_, and_CC ,_, in_RR21 
+addition_RR22 ,_, that_DD1 severe_JJ restrictions_NN2 be_VBI placed_VVN on_II 
+admissions_NN2 to_II other_JJ retardation_NN1 facilities_NN2 ._. 
+Ex_II P-8_FO ._. 
+The_AT Secretary_NN1 of_IO Public_JJ Welfare_NN1 Helen_NP1 O'Banno_NP1 has_VHZ 
+committed_VVN herself_PPX1 to_II replacing_VVG institutional_JJ with_IW 
+community_NN1 care_NN1 for_IF people_NN with_IW retardation_NN1 TP_NN1 
+Governor_NN1 and_CC I_PPIS1 are_VBR fully_RR committed_VVN to_II 
+de-institutionalization_NN1 and_CC the_AT placement_NN1 of_IO retarded_JJ 
+persons_NN2 in_II less_RGR restrictive_JJ ,_, appropriate_JJ community_NN1 
+living_NN1 settings_NN2 P-9_FO (_( July_NPM1 16_MC ,_, 1979_MC Press_NN1 
+Release_NN1 )_) 15_MC ._. 
+As_CSA will_VM be_VBI seen_VVN below_RL ,_, and_CC as_II the_AT protracted_JJ 
+history_NN1 of_IO this_DD1 case_NN1 demonstrates_VVZ ,_, that_DD1 policy_NN1 
+--_NN1 which_DDQ comports_VVZ with_IW the_AT mandates_NN2 of_IO the_AT 
+Court_NN1 --_NN1 has_VHZ been_VBN one_PN1 which_DDQ the_AT defendants_NN2 
+have_VH0 had_VHN great_JJ difficulty_NN1 in_II fulfilling_VVG ._. 
+Throughout_II the_AT time_NNT1 which_DDQ has_VHZ elapsed_VVN since_CS the_AT 
+December_NPM1 23_MC ,_, 1977_MC opinion_NN1 of_IO this_DD1 Court_NN1 ,_, 
+the_AT defendants_NN2 have_VH0 resisted_VVN the_AT Court_NN1 's_GE orders_NN2 
+and_CC ,_, simultaneously_RR ,_, have_VH0 refused_VVN to_TO submit_VVI an_AT1 
+plan_NN1 or_CC proposal_NN1 of_IO their_APPGE own_DA which_DDQ would_VM 
+protect_VVI the_AT declared_JJ rights_NN2 of_IO plaintiffs_NN2 ._. 
+That_DD1 resistance_NN1 has_VHZ now_RT escalated_VVN to_II recalcitrance_NN1 
+and_CC bad_JJ faith_NN1 which_DDQ ,_, on_II the_AT record_NN1 of_IO the_AT 
+hearing_NN1 on_II the_AT present_JJ motion_NN1 ,_, is_VBZ shown.beyond_NNU 
+doubt_NN1 Defendants_NN2 '_GE Contentio_NP1 16_MC ._. 
+Defendants_NN2 concede_VV0 that_CST the_AT payment_NN1 orders_NN2 are_VBR 
+valid_JJ orders_NN2 ._. 
+They_PPHS2 concede_VV0 that_CST the_AT masters_NN2 do_VD0 their_APPGE work_NN1 
+and_CC they_PPHS2 are_VBR entitled_VVN to_TO be_VBI paid_VVN ._. 
+They_PPHS2 concede_VV0 that_CST the_AT order_NN1 are_VBR proper_JJ 17_MC ._. 
+Defendants_NN2 do_VD0 not_XX challenge_VVI the_AT fact_NN1 that_CST for_IF 
+more_DAR than_CSN three_MC years_NNT2 they_PPHS2 have_VH0 regularly_RR and_CC 
+without_IW protest_NN1 paid_VVD the_AT expenses_NN2 of_IO the_AT masters_NN2 
+and_CC that_CST this_DD1 payment_NN1 has_VHZ taken_VVN place_NN1 without_IW 
+any_DD specific_JJ appropriation_NN1 of_IO the_AT Pennsylvania_NP1 
+legislature_NN1 ._. 
+In_II fact_NN1 ,_, the_AT Secretary_NN1 of_IO Public_JJ Welfare_NN1 made_VVD 
+the_AT decision_NN1 in_II 1978_MC ,_, and_CC the_AT decision_NN1 was_VBDZ 
+confirmed_VVN since_CS that_DD1 time_NNT1 ,_, to_TO pay_VVI for_IF the_AT 
+masters_NN2 from_II the_AT Department_NN1 's_GE institutional_JJ 
+appropriations_NN2 ._. 
+Exhibits_NN2 P-20_FO ,_, P-21_FO ,_, P-22_FO ,_, P-23_FO and_CC P-24_FO ._. 
+The_AT current_JJ Secretary_NN1 ,_, Helen_NP1 O'Bannon_NP1 ,_, has_VHZ 
+been_VBN personally_RR involved_JJ in_II these_DD2 prior_JJ activities_NN2 
+regarding_II payment_NN1 of_IO the_AT master_NN1 ._. 
+Exhibits_NN2 P-22_FO and_CC P-23_FO ._. 
+For_IF the_AT past_JJ budget_NN1 requests_NN2 ,_, see_VV0 Exhibits_NN2 P-13_FO 
+and_CC P-14_FO and_CC P-15_FO 18_MC ._. 
+Defendants_NN2 '_GE sole_JJ expressed_JJ reason_NN1 for_IF refusing_VVG to_II 
+pa_NN1 the_AT costs_NN2 of_IO the_AT masters_NN2 is_VBZ the_AT state_NN1 
+legislature_NN1 's_GE line-item_JJ appropriation_NN1 and_CC its_APPGE 
+expression_NN1 of_IO "_" intent_NN1 "_" against_II future_JJ payments_NN2 ._. 
+The_AT history_NN1 of_IO that_DD1 legislative_JJ prohibition_NN1 ,_, and_CC 
+its_APPGE relevance_NN1 vel_VV0 non_FU to_II the_AT legal_JJ issue_NN1 
+before_II the_AT Court_NN1 are_VBR discussed_VVN below_RL Past_II 
+Treatment_NN1 of_IO Master_NN1 Cos_CS in_II Defendants_NN2 '_GE Budget_NN1 
+19_MC ._. 
+The_AT Governor_NN1 's_GE budget_NN1 requests_NN2 to_II the_AT state_NN1 
+legislature_NN1 for_IF 1978-1979_MCMC ,_, 1979-1980_MCMC and_CC 1980-1981_MCMC 
+did_VDD not_XX include_VVI any_DD specific_JJ funds_NN2 for_IF the_AT 
+Pennhurst_NN1 masters_NN2 ._. 
+Exhibit_VV0 P-14_FO 20_MC ._. 
+The_AT Department_NN1 of_IO Public_JJ Welfare_NN1 's_GE budget_NN1 
+requests_NN2 to_II the_AT Governor_NN1 for_IF 1979-1980_MCMC and_CC 
+1980-1981_MCMC similarly_RR did_VDD not_XX include_VVI any_DD specific_JJ 
+funds_NN2 for_IF the_AT Pennhurst_NN1 masters_NN2 ._. 
+Exhibit_VV0 P-13_FO 21_MC ._. 
+In_II fact_NN1 ,_, the_AT Pennhurst_NN1 masters_NN2 '_GE costs_NN2 have_VH0 
+never_RR before_RT this_DD1 year_NNT1 been_VBN included_VVN as_II a_AT1 
+separate_JJ request_NN1 ._. 
+See_VV0 above_II exhibits_NN2 ,_, Exhibit_VV0 P-7b_FO (_( Kopchick_NP1 
+Deposition_NP1 )_) ,_, P-15_FO (_( Pennhurst_NP1 Center_NN1 ,_, Budget_NN1 
+Proposal_NN1 ,_, dated_JJ July_NPM1 31_MC ,_, 1979_MC )_) 22_MC ._. 
+Why_RRQ has_VHZ this_DD1 been_VBN the_AT case_NN1 ?_? 
+The_AT earliest_JJT reference_NN1 t_ZZ1 the_AT Pennhurst_NN1 master_NN1 
+costs_NN2 provided_VVN by_II defendants_NN2 in_II31 response_II32 to_II33 
+discovery_NN1 requests_NN2 calling_VVG for_IF all_DB such_DA documents_NN2 
+is_VBZ a_AT1 memorandum_NN1 dated_VVN October_NPM1 18_MC ,_, 1978_MC to_II 
+Secretary_NN1 of_IO Public_JJ Welfare_NN1 Aldo_NP1 Colautti_NP1 from_II 
+his_APPGE deputy_NN1 secretary_NN1 for_IF mental_JJ retardation_NN1 and_CC 
+an_AT1 assistant_NN1 and_CC titled_VVN "_" Special_JJ Master'_NN1 ;_; 
+Office_NN1 Budgetary_JJ Consideration_NN1 Fiscal_JJ Year_NNT1 79-80_MCMC ._. 
+"_" 
+Exhibit_VV0 P-20_FO ._. 
+This_DD1 document_NN1 ,_, from_II the_AT current_JJ Secretary_NN1 's_GE 
+file_NN1 opens_VVZ with_IW the_AT following_JJ Following_II my_APPGE 
+meeting_NN1 last_MD week_NNT1 with_IW th_NNU Special_JJ Master_NN1 ,_, 
+Peter_NP1 Polloni_NP1 and_CC Mel_NP1 Nolto_NP1 -7_MC regarding_II the_AT 
+development_NN1 of_IO the_AT separate_JJ PRR_NP1 &lsqb_( Program_NN1 
+Revision_NN1 Request_NN1 for_IF the_AT budget_NN1 &rsqb_) ,_, the_AT 
+Master_NN1 discussed_VVD the_AT situation_NN1 with_IW Judge_NP1 Broderick_NP1 
+._. 
+Judge_VV0 Broderick_NP1 is_VBZ not_XX inclined_JJ to_TO support_VVI the_AT 
+development_NN1 of_IO the_AT separate_JJ PRR_NP1 by_II the_AT Special_JJ 
+Master_NN1 ._. 
+In_II my_APPGE discussions_NN2 with_IW Dr._NNB Audette_NP1 ,_, he_PPHS1 
+indicated_VVD that_CST Judge_VV0 Broderick_NP1 felt_VVD that_CST proceding_VVG 
+in_II this_DD1 way_NN1 may_VM result_VVI in_II a_AT1 constitutional_JJ 
+crisis_NN1 "_" if_CS the_AT Legislature_NN1 decided_VVD to_TO refuse_VVI to_TO 
+approve_VVI this_DD1 separate_JJ PRR_NP1 ._. 
+We_PPIS2 have_VH0 proceeded_VVN to_TO develop_VVI 79-80_MCMC funding_NN1 
+projection_NN1 with_IW the_AT Special_JJ Master_NN1 's_GE Office_NN1 and_CC 
+the_AT work_NN1 that_CST is_VBZ to_TO accomplish_VVI in_II the_AT following_JJ 
+manner_NN1 1_MC1 ._. 
+Continued_JJ funding_NN1 of_IO the_AT operations_NN2 of_IO the_AT Special_JJ 
+Master_NN1 's_GE Office_NN1 through_II the_AT Pennhurst_NN1 appropriation_NN1 
+2_MC ._. 
+&lsqb_( Regarding_VVG services_NN2 '_GE funding_NN1 ,_, omitted_VVN &lsqb_( 
+end_NN1 of_IO memorandum_NN1 Regardless_RR of_IO the_AT accuracy_NN1 of_IO 
+the_AT attributions_NN2 in_II this_DD1 memorandum_NN1 ,_, it_PPH1 
+demonstrates_VVZ the_AT consciousness_NN1 of_IO the_AT decision-making_JJ 
+process_NN1 among_II the_AT defendants_NN2 in_II paying_VVG for_IF the_AT 
+masters_NN2 from_II money_NN1 not_XX appropriated_VVN for_IF that_DD1 
+purpose_NN1 ._. 
+P-22_FO shows_VVZ ,_, as_II21 of_II22 December_NPM1 19_MC ,_, 1978_MC ,_, 
+that_DD1 $183,695_NNU had_VHD been_VBN paid_VVN in_II the_AT latter_DA 
+half_NN1 of_IO 1978_MC 23_MC ._. 
+Before_CS this_DD1 year_NNT1 ,_, the_AT masters_NN2 '_GE costs_NN2 had_VHD 
+consistently_RR been_VBN treated_VVN as_CSA "_" contracts_NN2 "_" within_II 
+the_AT "_" Institutional_JJ Budget_NN1 (_( Appropriation_NN1 40_MC )_) "_" ._. 
+Exhibit_VV0 P-16_FO (_( fifth_MD and_CC sixth_MD page_NN1 in_II )_) ,_, 
+P-17_FO Treatment_NN1 of_IO Master_NN1 Cos_CS in_II 1981-1982_MCMC Budge_VV0 
+:_: 24_MC ._. 
+The_AT past_JJ practice_NN1 changed_VVN in_II late_JJ 1980_MC and_CC early_RR 
+1981_MC Defendant_NN1 Secretary_NN1 of_IO Public_JJ Welfare_NN1 Helen_NP1 
+O'Bannon_NP1 requeste_NN1 ._. 
+"_" a_AT1 distinct_JJ appropriation_NN1 of_IO $900,000_NNU for_IF the_AT 
+Masters_NN2 -8_MC Offices_NN2 ._. 
+Exhibit_VV0 P-11_FO at_II 111_MC (_( Defendants_NN2 Interrogatory_JJ 
+Replies_NN2 )_) ._. 
+She_PPHS1 did_VDD not_XX continue_VVI the_AT prior_JJ practice_NN1 ._. 
+The_AT Governors_NN2 request_VV0 to_II the_AT legislature_NN1 also_RR 
+included_VVD O'Bannons_NP1 request_NN1 Ex_NN1 ._. 
+P-27_FO (_( p._NNU 601_MC )_) ,_, P-28_FO ._. 
+O'Bannon_NP1 personally_RR requested_VVN a_AT1 "_" separate_JJ 
+appropriation_NN1 for_IF this_DD1 program_NN1 ,_, formerly_RR in_II State_NN1 
+Centers_NN2 for_IF the_AT Mentally_RR Retarded_JJ ._. "_" 
+as_RG early_RR as_CSA October_NPM1 31_MC ,_, 1980_MC ._. 
+Exhibit_VV0 P-25_FO 25_MC ._. 
+A_AT1 context_NN1 for_IF this_DD1 change_NN1 in_II practice_NN1 aids_NN2 in_II 
+understanding_VVG it_PPH1 ._. 
+In_II March_NPM1 ,_, 1980_MC ,_, the_AT defendants_NN2 petitioned_VVD the_AT 
+Supreme_JJ Court_NN1 for_IF certiorari_NN2 from_II the_AT decision_NN1 in_II 
+this_DD1 case_NN1 by_II the_AT Court_NN1 of_IO Appeals_NN2 ._. 
+Attempts_NN2 to_TO obtain_VVI stays_NN2 of_IO the_AT Courts_NN2 orders_NN2 ,_, 
+including_II halt_NN1 to_II the_AT operations_NN2 of_IO the_AT masters_NN2 ,_, 
+failed_VVD at_II several_DA2 levels_NN2 ._. 
+Argument_NN1 was_VBDZ had_VHN in_II the_AT Supreme_JJ Court_NN1 on_II 
+December_NPM1 8_MC ,_, 1980_MC but_CCB not_XX before_RT the_AT 
+Commonwealth_NN1 defendants_NN2 joined_VVN in_II a_AT1 mandamus_NN1 
+petition_NN1 against_II this_DD1 Court_NN1 which_DDQ sought_VVD 
+restrictions_NN2 on_II the_AT masters_NN2 '_GE activities_NN2 ;_; that_DD1 
+petition_NN1 was_VBDZ denied_VVN ._. 
+After_CS the_AT April_NPM1 20_MC ,_, 1981_MC decision_NN1 o_ZZ1 the_AT 
+Supreme_JJ Court_NN1 in_II this_DD1 case_NN1 ,_, the_AT Court_NN1 of_IO 
+Appeals_NN2 on_II May_NPM1 26_MC ,_, 1981_MC denied_VVD a_AT1 motion_NN1 
+for_IF stay_NN1 of_IO this_DD1 Court_NN1 's_GE order_NN1 of_IO March_NPM1 2_MC 
+,_, 1981_MC calling_VVG for_IF provision_NN1 of_IO services_NN2 to_II 
+certain_JJ members_NN2 of_IO plaintiff_NN1 class_NN1 within_II a_AT1 
+specified_JJ time_NNT1 frame_NN1 in_II31 accordance_II32 with_II33 
+defendants_NN2 '_GE past_JJ promises_NN2 to_II the_AT Court_NN1 26_MC ._. 
+The_AT support_NN1 given_VVN by_II Secretary_NP1 O'Bannon_NP1 to_II the_AT 
+new_JJ lineitem_NN1 request_NN1 was_VBDZ begrudging_VVG at_RR21 best_RR22 ._. 
+Her_APPGE testimony_NN1 to_II th_NNU two_MC legislative_JJ appropriation_NN1 
+committees_NN2 invited_VVD their_APPGE assistance_NN1 in_II circumventing_VVG 
+the_AT Court_NN1 's_GE orders_NN2 and_CC ,_, in_II haec_FW verba_NN1 ,_, 
+expressed_VVD the_AT hope_NN1 that_CST the_AT masters_NN2 '_GE budgets_NN2 
+be_VBI reduced_VVN to_II the_AT neighborhood_NN1 of_IO $32,000_NNU ;_; 
+she_PPHS1 got_VVD her_APPGE wish_NN1 ._. 
+Her_APPGE testimony_NN1 is_VBZ an_AT1 affront_NN1 to_II the_AT Court_NN1 
+and_CC to_TO respect_VVI for_IF the_AT judiciary_NN1 and_CC evidences_NN2 
+serious_JJ bad_JJ faith_NN1 ._. 
+The_AT fact_NN1 that_CST O'Bannon_NP1 did_VDD not_XX appear_VVI before_II 
+the_AT Court_NN1 at_II the_AT July_NPM1 24_MC ,_, 1981_MC hearing_NN1 (_( 
+or_CC at_II any_DD other_JJ hearing_NN1 )_) and_CC submitted_VVD no_AT 
+evidence_NN1 whatsoeve_NN1 -9_MC in_II mitigation_NN1 or_CC explanation_NN1 
+of_IO her_APPGE open_JJ defiance_NN1 further_RRR highlights_VVZ the_AT 
+depth_NN1 of_IO her_APPGE contempt_NN1 ._. 
+That_DD1 testimony_NN1 will_VM now_RT be_VBI reviewed_VVN in_RR21 brief_RR22 
+--_JJ although_CS the_AT full_JJ testimony_NN1 ,_, read_VVN in_II context_NN1 
+,_, supports_VVZ even_RR greater_JJR condemnation_NN1 27_MC ._. 
+The_AT Secretarys_NN2 Briefing_VVG Book_NN1 on_II the_AT 1981-1982_MCMC 
+budget_NN1 ,_, prepared_VVN in_II advance_NN1 of_IO her_APPGE testimony_NN1 
+,_, gives_VVZ halting_JJ and_CC critical_JJ "_" support_NN1 for_IF the_AT 
+$900,000_NNU request_NN1 ._. 
+It_PPH1 complain_VV0 that_CST the_AT Master_NN1 's_GE Office_NN1 "_" 
+duplicates_NN2 the_AT authority_NN1 and_CC responsibility_NN1 of_IO either_RR 
+DPW/OMR_VV0 or_CC the_AT counties_NN2 "_" ,_, complains_VVZ of_IO 
+confusion_NN1 ,_, the_AT size_NN1 of_IO the_AT Masters_NN2 staff_NN ,_, the_AT 
+requirements_NN2 that_CST services_NN2 be_VBI provided_VVN ,_, and_CC it_PPH1 
+belittles_VVZ the_AT Court_NN1 's_GE orders_NN2 by_II stating_VVG that_CST 
+the_AT funds_NN2 are_VBR requested_VVN "_" (_( ajlthough_VV0 the_AT 
+dollars_NNU2 will_VM not_XX provide_VVI for_IF the_AT maintenance_NN1 or_CC 
+expansion_NN1 of_IO client_NN1 services_NN2 in_II the_AT community_NN1 or_CC 
+Pennhurst_VV0 itself_PPX1 ._. "_" 
+Exhibit_VV0 P-19_FO 28_MC ._. 
+Secretary_NP1 O'Bannon_NP1 testified_VVD March_NPM1 4_MC ,_, 1981_MC before_II 
+the_AT House_NN1 of_IO Representatives_NN2 Committee_NN1 on_II 
+Appropriations_NP1 ._. 
+The_AT discussion_NN1 on_II the_AT masters_NN2 begins_VVZ at_II page_NN1 
+188_MC of_IO Exhibit_NN1 P-30_FO THE_AT CHAIRMAN_NN1 :_: We_PPIS2 will_VM 
+press_VVI forward_RL to_II the_AT Office_NN1 of_IO the_AT Special_JJ 
+Master_NN1 at_II Pennhurst_NP1 ._. 
+Page_NN1 39_MC ._. 
+My_APPGE first_MD request_NN1 is_VBZ if_CS we_PPIS2 could_VM have_VHI a_AT1 
+copy_NN1 of_IO his_APPGE budget_NN1 ,_, if_CS you_PPY would_VM SECRETARY_NN1 
+0BANNON_FO :_: Id_NN1 be_VBI happy_JJ to_II THE_AT CHAIRMAN_NN1 :_: And_CC 
+for_IF a_AT1 moment_NN1 I_PPIS1 thought_VVD the_AT budget_NN1 request_NN1 
+was_VBDZ for_IF 32,000_MC and_CC my_APPGE eyes_NN2 ,_, I_PPIS1 guess_VV0 
+I_PPIS1 did_VDD n't_XX read_VVI quite_RG right_JJ SECRETARY_NN1 0'BANNON_FO 
+:_: Would_VM that_CST it_PPH1 were_VBDR THE_AT CHAIRMAN_NN1 :_: Maybe_RR 
+we_PPIS2 will_VM make_VVI it_PPH1 that_DD1 way_NN1 ._. 
+I_PPIS1 gather_VV0 that_CST if_CS Broderick_NP1 's_GE decision_NN1 on_II 
+Pennhurst_NP1 is_VBZ upheld_VVN by_II the_AT Supreme_JJ Court_NN1 that_CST 
+a_AT1 number_NN1 of_IO other_JJ institutions_NN2 such_II21 as_II22 Polk_NP1 
+could_VM follow_VVI very_RG easily_RR ._. 
+Is_VBZ that_DD1 true_JJ SECRETARY_NN1 0BANNON_FO :_: Yes_UH -10_MC THE_AT 
+CHAIRMAN_NN1 :_: That_DD1 would_VM be_VBI true_JJ ,_, yes_UH SECRETARY_NP1 
+O'BANNON_NP1 :_: I_PPIS1 fear_VV0 At_II page_NN1 189_MC ,_, the_AT 
+Secretary_NN1 stated_VVD "_" we_PPIS2 also_RR have_VH0 a_AT1 presence_NN1 
+at_II every_AT1 hearing_NN1 that_CST the_AT hearing_NN1 master_NN1 holds_VVZ 
+"_" ._. 
+That_DD1 is_VBZ not_XX the_AT case_NN1 ._. 
+At_II pages_NN2 189-190_MCMC ,_, the_AT Secretary_NN1 is_VBZ asked_VVN ,_, "_" 
+Did_VDD you_PPY have_VHI any_DD say_VVI in_II who_PNQS the_AT special_JJ 
+master_NN1 was_VBDZ or_CC how_RRQ did_VDD Judge_NP1 Broderick_NP1 have_VHI 
+him_PPHO1 picked_VVN ?_? "_" 
+Secretary_NP1 OBannon_NP1 replies_VVZ that_CST Carla_NP1 Morgan_NP1 was_VBDZ 
+made_VVN special_JJ master_NN1 (_( after_II being_VBG acting_JJ special_JJ 
+master_NN1 )_) "_" without_IW consultation_NN1 with_IW me_PPIO1 ._. "_" 
+To_II the_AT contrary_NN1 ,_, all_DB parties_NN2 were_VBDR permitted_VVN 
+and_CC encouraged_VVN to_TO suggest_VVI candidates_NN2 for_IF the_AT 
+mastership_NN1 A_ZZ1 discussion_NN1 then_RT ensured_VVD ,_, beginning_VVG 
+at_II page_NN1 191_MC in_II which_DDQ the_AT Secretary_NN1 ,_, defendant_NN1 
+in_II this_DD1 case_NN1 ,_, explained_VVN to_II the_AT legislators_NN2 ,_, 
+who_PNQS are_VBR not_XX defendants_NN2 ,_, how_RRQ the_AT masters_NN2 
+costs_NN2 could_VM be_VBI eliminated_VVN ;_; in_II that_DD1 discussion_NN1 ,_, 
+she_PPHS1 pointedly_RR refused_VVN to_TO support_VVI her_APPGE own_DA 
+budget_NN1 request_NN1 ,_, insulted_VVD the_AT Court_NN1 and_CC the_AT 
+Courts_NN2 Special_JJ Master_NN1 ,_, and_CC was_VBDZ untruthful_JJ about_II 
+the_AT staffing_NN1 of_IO the_AT Special_JJ Master_NN1 's_GE office_NN1 and_CC 
+her_APPGE communications_NN2 with_IW the_AT Court_NN1 REPRESENTATIVE_NN1 
+COHEN_NP1 :_: I_PPIS1 'm_VBM just_RR curious_JJ as_II21 to_II22 what_DDQ 
+power_VV0 we_PPIS2 have_VH0 ,_, if_CS any_DD ._. 
+Suppose_VV0 we_PPIS2 cut_VV0 it_PPH1 to_II 450,000_MC ?_? 
+What_DDQ would_VM happen_VVI ?_? 
+We_PPIS2 would_VM be_VBI ordered_VVN to_TO increase_VVI it_PPH1 to_II 
+$900,000_NNU SECRETARY_NN1 0'BANNON_FO :_: No_UH ._. 
+Because_CS you_PPY 're_VBR not_XX defendants_NN2 on_II the_AT suit_NN1 
+REPRESENTATIVE_NN1 COHEN_NP1 :_: You_PPY as_II the_AT Department_NN1 
+SECRETARY_NN1 O'BANNON_NP1 :_: I_PPIS1 have_VH0 no_AT authority_NN1 to_TO 
+increase_VVI it_PPH1 ._. 
+I_PPIS1 do_VD0 not_XX appropriate_VVI money_NN1 REPRESENTATIVE_NN1 COHEN_NP1 
+:_: So_RG therefore_RR ,_, you_PPY are_VBR saying_VVG we_PPIS2 do_VD0 ha/e_FU 
+the_AT authority_NN1 to_TO cut_VVI or_CC increase_VVI -11_MC SECRETARY_NN1 
+0'BANNON_FO :_: Yes_UH ._. 
+And_CC you_PPY always_RR have_VH0 that_DD1 authority_NN1 ._. 
+Judge_VV0 Broderick_NP1 can_VM not_XX take_VVI that_DD1 away_II21 from_II22 
+you_PPY REPRESENTATIVE_JJ COHEN_NP1 :_: And_CC Judge_VV0 Broderick_NP1 has_VHZ 
+no_AT reasonable_JJ means_NN of_IO recourse_NN1 SECRETARY_NN1 0BANNON_FO :_: 
+Judge_VV0 Broderick_NP1 is_VBZ a_AT1 very_RG clever_JJ jurist_NN1 ._. 
+I_PPIS1 would_VM not_XX like_VVI to_TO guess_VVI his_APPGE means_NN of_IO 
+recourse_NN1 REPRESENTATIVE_NN1 COHEN_NP1 :_: I_PPIS1 am_VBM curious_JJ 
+as_II21 to_II22 who_PNQS would_VM go_VVI to_TO jail_VVI REPRESENTATIVE_JJ 
+ARTY_JJ :_: I_PPIS1 will_VM take_VVI you_PPY in_RP to_II protective_JJ 
+custody_NN1 REPRESENTATIVE_NN1 COHEN_NP1 :_: To_II what_DDQ degree_NN1 is_VBZ 
+the_AT $900,000_NNU justified_VVN ?_? 
+In_II terms_NN2 -_- SECRETARY_NN1 0BANNON_FO :_: I_PPIS1 cant_JJ answer_NN1 
+that_DD1 ._. 
+I_PPIS1 think_VV0 the_AT whole_JJ masters_NN2 office_NN1 is_VBZ a_AT1 
+redundant_JJ ,_, ridiculous_JJ piece_NN1 of_IO bureaucracy_NN1 (_( 
+Applause_NN1 SECRETARY_NN1 0BANNON_FO :_: I_PPIS1 think_VV0 what_DDQ is_VBZ 
+needed_VVN is_VBZ probably_RR a_AT1 five_MC person_NN1 staff_NN to_TO 
+monitor_VVI the_AT Commonwealths_NN2 and_CC the_AT county_NN1 's_GE 
+compliance_NN1 with_IW Judge_NP1 Broderick_NP1 's_GE orders_NN2 
+REPRESENTATIVE_JJ SIRIANNI_NN2 :_: Did_VDD you_PPY tell_VVI him_PPHO1 that_CST 
+SECRETARY_NP1 O'BANNON_NP1 :_: I_PPIS1 tell_VV0 him_PPHO1 that_CST every_AT1 
+day_NNT1 ._. 
+Judge_VV0 Broderick_NP1 has_VHZ created_VVN a_AT1 bureaucracy_NN1 of_IO 24_MC 
+or_CC 25_MC people_NN and_CC a_AT1 consulting_JJ budget_NN1 which_DDQ 
+probably_RR equals_VVZ all_DB of_IO the_AT consulting_JJ budgets_NN2 of_IO 
+the_AT Commonwealth_NN1 ,_, given_VVN the_AT scale_NN1 of_IO number_NN1 of_IO 
+employees_NN2 ._. 
+Astronomical_JJ REPRESENTATIVE_NN1 COHEN_NP1 :_: Judge_VV0 Broderick_NP1 
+has_VHZ ordered_VVN the_AT 24_MC or_CC 25_MC people_NN SECRETARY_NN1 
+0'BANNON_FO :_: Judge_VV0 Broderick_NP1 has_VHZ said_VVN you_PPY staff_VV0 
+for_IF whatever_DDQV you_PPY need_VV0 and_CC the_AT Commonwealth_NN1 will_VM 
+pay_VVI REPRESENTATIVE_JJ COHEN_NP1 :_: So_CS he_PPHS1 has_VHZ given_VVN 
+the_AT special_JJ master_NN1 the_AT authority_NN1 SECRETARY_NN1 0'BANNON_FO 
+:_: A_ZZ1 free_JJ hand_NN1 :_: Pp._NNU2 191-193_MCMC ._. 
+Several_DA2 errors_NN2 in_II the_AT above_JJ may_VM be_VBI noted_VVN :_: 
+the_AT Secretary_NN1 har_VV0 not_XX complained_VVN "_" every_AT1 day_NNT1 "_" 
+about_II the_AT master_NN1 's_GE staff_NN ,_, the_AT estimated_JJ and_CC 
+documented_VVD budgets_NN2 have_VH0 not_XX been_VBN challenged_VVN by_II 
+the_AT Secretary_NN1 although_CS the_AT Court_NN1 's_GE orders_NN2 require_VV0 
+such_DA advance_NN1 notice_NN1 of_IO expenses_NN2 as_CSA to_TO permit_VVI 
+an_AT1 -12_MC party_NN1 to_TO challenge_VVI them_PPHO2 ,_, the_AT staff_NN 
+is_VBZ not_XX 24_MC or_CC 25_MC people_NN as_II the_AT Secretary_NN1 had_VHD 
+reason_NN1 to_TO know_VVI (_( see_VV0 Ex_NN1 ._. 
+P-26_FO (_( staff_NN of_IO eight_MC )_) ,_, and_CC the_AT Court_NN1 has_VHZ 
+not_XX given_VVN the_AT Special_JJ Master_NN1 "_" a_AT1 free_JJ hand_NN1 ._. 
+It_PPH1 is_VBZ noteworthy_JJ that_CST there_EX is_VBZ not_XX a_AT1 single_JJ 
+word_NN1 in_II the_AT testimony_NN1 thus_RR far_JJ (_( and_CC to_TO follow_VVI 
+)_) suggesting_VVG that_CST the_AT Secretary_NN1 wishes_VVZ to_TO comply_VVI 
+with_IW the_AT Courts_NN2 orders_NN2 or_CC that_CST she_PPHS1 requests_VVZ 
+the_AT legislature_NN1 's_GE assistance_NN1 in_II complying_VVG After_II 
+an_AT1 interchange_NN1 on_II salaries_NN2 ,_, the_AT discussion_NN1 
+continues_VVZ on_II page_NN1 194_MC with_IW the_AT Secretary_NN1 stating_VVG 
+that_CST she_PPHS1 is_VBZ willing_JJ to_TO risk_VVI jail_NN1 for_IF 
+non-compliance_NN1 THE_AT CHAIRMAN_NN1 :_: We_PPIS2 also_RR have_VH0 to_TO 
+pay_VVI the_AT court_NN1 costs_VVZ for_IF all_DB these_DD2 yo-yoes_NN2 
+REPRESENTATIVE_JJ COHEN_NP1 :_: We_PPIS2 have_VH0 no_AT recourse_NN1 
+other_II21 than_II22 to_TO slash_VVI the_AT budget_NN1 from_II $900,000_NNU 
+?_? 
+If_CS we_PPIS2 do_VD0 n't_XX want_VVI you_PPY to_TO go_VVI to_TO jail_VVI 
+SECRETARY_NP1 O'BANNON_NP1 :_: You_PPY have_VH0 all_DB the_AT recourse_NN1 
+and_CC power_NN1 at_II your_APPGE command_NN1 and_CC we_PPIS2 will_VM see_VVI 
+what_DDQ we_PPIS2 will_VM see_VVI ._. 
+I_PPIS1 am_VBM a_AT1 risk_NN1 taker_NN1 ._. 
+I_PPIS1 would_VM n't_XX be_VBI in_II this_DD1 job_NN1 if_CS I_PPIS1 were_VBDR 
+n't_XX ._. 
+REPRESENTATIVE_JJ COHEN_NP1 :_: Okay_RR ._. 
+I_PPIS1 have_VH0 no_AT further_JJR questions_NN2 In_II a_AT1 later_JJR 
+discussion_NN1 on_II implementation_NN1 of_IO the_AT March_NPM1 2_MC ,_, 
+1981_MC Order_NN1 of_IO this_DD1 Court_NN1 ,_, 1&lsqb1_FO thereof_RR ,_, 
+Secretary_NP1 O'Bannon_NP1 --_NN1 with_IW her_APPGE Department_NN1 having_VHG 
+promised_VVN services_NN2 for_IF the_AT very_RG same_DA number_NN1 of_IO 
+people_NN the_AT Court_NN1 ordered_VVD --_NN1 complained_VVD that_CST "_" 
+with_IW no_AT resources_NN2 the_AT Court_NN1 wanted_VVD people_NN dumped_VVN 
+from_II Pennhurst_NP1 ;_; she_PPHS1 agreed_VVD with_IW a_AT1 
+representatives_NN2 characterization_NN1 of_IO the_AT Court_NN1 's_GE 
+order_NN1 as_CSA "_" dumping_VVG and_CC stated_VVD her_APPGE determination_NN1 
+to_TO be_VBI in_II contempt_NN1 SECRETARY_NN1 O'BANNON_NP1 :_: We_PPIS2 
+will_VM not_XX comply_VVI and_CC we_PPIS2 will_VM be_VBI in_II contempt_NN1 
+._. 
+I_PPIS1 will_VM not_XX dump_VVI patients_NN2 out_II21 of_II22 Pennhurst_NN1 
+for_IF any_DD court_NN1 order_NN1 Page_NN1 198_MC -13_MC 29_MC ._. 
+O'Bannon_NP1 's_GE words_NN2 were_VBDR publicised_VVN ._. 
+P-49_FO ,_, P-50_FO 30_MC ._. 
+Six_MC days_NNT2 after_II her_APPGE appearance_NN1 in_II the_AT House_NN1 ,_, 
+O'Bannon_NP1 testified_VVD before_II the_AT Senate_NN1 Appropriations_NN2 
+Committee_NN1 ._. 
+She_PPHS1 again_RT testified_VVD in_II words_NN2 inviting_VVG the_AT 
+legislature_NN1 to_TO refuse_VVI to_TO fund_VVI the_AT masters_NN2 and_CC 
+she_PPHS1 again_RT declined_VVD to_TO justify_VVI or_CC explain_VVI the_AT 
+need_NN1 for_IF compliance_NN1 with_IW the_AT Court_NN1 's_GE orders_NN2 
+SECRETARY_NN1 0'BANNON_FO :_: It_PPH1 's_VBZ when_RRQ -_- compliments_NN2 
+of_IO Judge_NP1 Broderick_NP1 's_GE machinery_NN1 ,_, namely_REX the_AT 
+Master_NN1 -_- that_CST we_PPIS2 ca_VM n't_XX move_VVI anyone_PN1 ._. 
+Ah_UH ,_, and_CC we_PPIS2 have_VH0 set_VVN up_RP a_AT1 decisionmaking_NN1 ,_, 
+and_CC a_AT1 professional_JJ evaluation_NN1 process_NN1 outside_II the_AT 
+state_NN1 system_NN1 ,_, and_CC outside_II the_AT state_NN1 and_CC county_NN1 
+'s_GE responsibility_NN1 ,_, named_VVD the_AT Master_NN1 ._. 
+And_CC nothing_PN1 is_VBZ good_JJ enough_RR for_IF the_AT Master_NN1 ._. 
+And_CC enough_RR ,_, and_CC redundant_JJ enough_RR ,_, is_VBZ never_RR 
+enough_RR ._. 
+In_II other_JJ words_NN2 ,_, we_PPIS2 have_VH0 got_VVN to_TO do_VDI more_RRR 
+and_CC more_RRR ._. 
+So_RR I_PPIS1 think_VV0 that_CST ,_, absent_JJ Judge_NN1 Broderick_NP1 's_GE 
+Order_NN1 ,_, you_PPY would_VM see_VVI a_AT1 much_RR more_RGR orderly_JJ 
+flow_NN1 of_IO lower_JJR cost_NN1 programs_NN2 ,_, in_II the_AT sense_NN1 
+that_CST we_PPIS2 would_VM be_VBI able_JK to_TO serve_VVI more_DAR clients_NN2 
+through_II Wood-Haven_NP1 Q._NP1 Okay_RR ._. 
+This_DD1 is_VBZ a_AT1 third_MD ,_, and_CC unfair_JJ question_NN1 ,_, but_CCB 
+what_DDQ do_VD0 you_PPY think_VVI would_VM happen_VVI if_CSW this_DD1 
+legislature_NN1 refused_VVD to_TO fund_VVI the_AT Master_NN1 's_GE Office_NN1 
+of_IO Judge_NP1 Broderick_NP1 ?_? 
+Would_VM that_DD1 go_VVI out_II21 of_II22 existence_NN1 ?_? 
+Or_CC ,_, what_DDQ would_VM happen_VVI A._NNU No_UH ,_, I_PPIS1 think_VV0 
+I_PPIS1 would_VM be_VBI held_VVN in_II contempt_NN1 Q._NN1 You_PPY have_VH0 
+already_RR announced_VVN that_CST you_PPY are_VBR going_VVG to_II ,_, ah_UH 
+,_, ah_UH ,_, oppose_VV0 the_AT implementation_NN1 of_IO this_DD1 latest_JJT 
+Order_NN1 A._NP1 Ah_UH ,_, I_PPIS1 do_VD0 n't_XX believe_VVI everything_PN1 
+I_PPIS1 read_VV0 in_II the_AT newspapers_NN2 ._. 
+Fortunately_RR ._. 
+What_DDQ I_PPIS1 did_VDD say_VVI was_VBDZ ,_, I_PPIS1 would_VM not_XX move_VVI 
+people_NN into_II the_AT community_NN1 before_II the_AT community_NN1 and_CC 
+the_AT person_NN1 was_VBDZ ready_JJ ._. 
+I_PPIS1 will_VM not_XX dumpt_VVI clients_NN2 SENATOR_NN1 HOWARD_NP1 :_: 
+Thank_VV0 you_PPY both_RR ,_, Senator_NN1 Early_RR and_CC Chairman_NN1 
+Tilghman_NN1 THE_AT CHAIRMAN_NN1 :_: Just_RR a_AT1 second_NNT1 ,_, I_PPIS1 
+did_VDD nt_XX hear_VVI it_PPH1 ._. 
+Would_VM would_VM be_VBI held_VVN in_II contempt_NN1 if_CS we_PPIS2 did_VDD 
+n't_XX fund_VVI it_PPH1 SECRETARY_NP1 O'BANNON_NP1 :_: I_PPIS1 would_VM ._. 
+For_IF not_XX paying_VVG their_APPGE bills_NN2 &lsqb_( Discussion_NN1 
+turns_VVZ to_II other_JJ topics_NN2 PP._NNU2 59-60_MCMC ,_, Exhibit_VV0 
+P-31_FO -14_MC 31_MC ._. 
+Secretary_NN1 0Bannon_FO has_VHZ attacked_VVN the_AT Court_NN1 and_CC 
+blame_VV0 the_AT Court_NN1 in_II the_AT past_NN1 for_IF defendants_NN2 '_GE 
+own_DA failure_NN1 or_CC inability_NN1 to_TO comply_VVI with_IW the_AT 
+requirement_NN1 that_CST plaintiffs_NN2 rights_NN2 be_VBI protected_VVN ._. 
+Ex_NN1 ._. 
+P-9_FO at_II July_NPM1 16_MC ,_, 1979_MC (_( "_" However_RRQV our_APPGE own_DA 
+efforts_NN2 have_VH0 been_VBN slowed_VVN and_CC weve_NN1 been_VBN unable_JK 
+to_TO take_VVI the_AT initiative_NN1 because_CS weve_NN1 been_VBN 
+preoccupied_VVN with_IW court_NN1 proceedings_NN2 ._. "_" )_) ,_, 
+Ex_NN1 ._. 
+P-9_FO at_II July_NPM1 31_MC ,_, 1979_MC (_( The_AT Special_JJ Master_NN1 
+'s_GE factual_JJ affidavit_NN1 to_II the_AT Court_NN1 of_IO Appeals_NN2 is_VBZ 
+"_" unprofessional_JJ ,_, injudicious_JJ and_CC a_AT1 blatant_JJ attempt_NN1 
+to_TO insure_VVI that_CST the_AT court_NN1 does_VDZ not_XX do_VDI away_JJ 
+with_IW her_APPGE job_NN1 "_" )_) ,_, Ex_NN1 ._. 
+P-9_FO at_II May_NPM1 8_MC ,_, 1981_MC (_( "_" There_EX is_VBZ no_AT 
+reason_NN1 whatsoever_DDQV for_IF the_AT continued_JJ oversight_NN1 by_II 
+the_AT Court_NN1 or_CC the_AT Office_NN1 of_IO the_AT Special_JJ Master_NN1 
+...._... "_" )_) ._. 
+&lsqb_( These_DD2 are_VBR quotations_NN2 from_II the_AT Secretary_NN1 from_II 
+her_APPGE own_DA press_NN1 releases_NN2 ._. 
+32_MC ._. 
+There_EX has_VHZ been_VBN a_AT1 failure_NN1 by_II defendant_NN1 O'Bannon_NP1 
+to_TO take_VVI necessary_JJ steps_NN2 in_II good_JJ faith_NN1 to_TO ensure_VVI 
+compliance_NN1 with_IW the_AT Court_NN1 's_GE orders_NN2 ._. 
+The_AT mischaracterization_NN1 of_IO the_AT facts_NN2 and_CC ,_, of_IO 
+great_JJ importance_NN1 ,_, of_IO this_DD1 Court_NN1 's_GE orders_NN2 ,_, 
+which_DDQ permeates_VVZ the_AT above_JJ testimony_NN1 and_CC statements_NN2 
+is_VBZ illustrated_VVN most_RGT forcefully_RR by_II O'Bannon_NP1 's_GE 
+statement_NN1 on_II the_AT national_JJ news_NN1 the_AT night_NNT1 before_II 
+the_AT Supreme_JJ Court_NN1 argument_NN1 in_II this_DD1 case_NN1 where_CS 
+she_PPHS1 stated_VVD that_CST the_AT plaintiffs_NN2 (_( plaintiffs_NN2 
+who_PNQS defended_VVD this_DD1 Court_NN1 's_GE decree_NN1 )_) "_" would_VM 
+have_VHI us_PPIO2 do_VD0 "_" the_AT following_JJ dump_NN1 these_DD2 people_NN 
+into_II unaccepting_VVG ,_, hostile_JJ environments_NN2 where_CS they_PPHS2 
+ca_VM n't_XX get_VVI services_NN2 and_CC where_CS they_PPHS2 will_VM be_VBI 
+shoved_VVN to_II the_AT back_NN1 rooms_NN2 and_CC the_AT attics_NN2 that_CST 
+replace_VV0 ;_; the_AT back_NN1 wards_NN2 of_IO these_DD2 institutions_NN2 
+of_IO yesteryear_NNT1 Exhibit_NN1 46_MC (_( ABC_NP1 Nightly_JJ News_NN1 ,_, 
+December_NPM1 7_MC ,_, 1980_MC )_) ._. 
+She_PPHS1 expressed_VVD similar_JJ views_NN2 four_MC months_NNT2 later_RRR 
+on_RP CBS_NP1 Evening_NNT1 News_NN1 ,_, April_NPM1 20_MC ,_, 1981_MC ._. 
+Exhibit_VV0 P-47_FO 33_MC ._. 
+O'Bannon_NP1 eing_VVG absent_JJ ,_, and_CC no_AT request_NN1 having_VHG 
+been_VBN made_VVN by_II defendants_NN2 to_TO present_VVI her_APPGE 
+testimony_NN1 ,_, the_AT Court_NN1 inquired_VVD of_IO defendants_NN2 '_GE 
+counsel_NN1 whether_CSW he_PPHS1 had_VHD advised_VVN her_PPHO1 in_II the_AT 
+past_NN1 that_CST the_AT nature_NN1 of_IO the_AT Court_NN1 's_GE orders_NN2 
+in_II this_DD1 cas_VVZ -15_MC require_VV0 adequate_JJ services_NN2 and_CC 
+forbid_VV0 dumping_NN1 of_IO Pennhurst_NN1 residents_NN2 ._. 
+Counsel_NP1 did_VDD not_XX describe_VVI his_APPGE advice_NN1 to_II his_APPGE 
+client_NN1 or_CC explain_VV0 her_APPGE comments_NN2 other_II21 than_II22 to_TO 
+say_VVI that_CST she_PPHS1 was_VBDZ expressing_VVG her_APPGE view_NN1 to_II 
+"_" angry_JJ "_" legislators_NN2 ._. 
+The_AT transcript_NN1 of_IO her_APPGE legislative_JJ testimony_NN1 does_VDZ 
+not_XX reveal_VVI any_DD anger_NN1 on_II41 the_II42 part_II43 of_II44 the_AT 
+legislators_NN2 ;_; it_PPH1 does_VDZ reveal_VVI 0Bannons_FO encouragement_NN1 
+of_IO attempts_NN2 to_TO evade_VVI the_AT Court_NN1 's_GE mandate_NN1 34_MC 
+._. 
+The_AT costs_NN2 of_IO the_AT masters_NN2 have_VH0 been_VBN regularly_RR 
+paid_VVN until_CS the_AT orders_NN2 entered_VVN June_NPM1 5_MC ,_, 1981_MC 
+became_VVD an_AT1 issue_NN1 ._. 
+On_II Jun_NPM1 9_MC ,_, 1981_MC ,_, defendant_NN1 Jennifer_NP1 Howse_NP1 ,_, 
+Deputy_NN1 Secretary_NN1 for_IF Mental_JJ Retardation_NN1 prepared_VVN two_MC 
+memoranda_NN2 requesting_VVG the_AT Comptroller_NN1 to_TO pay_VVI the_AT 
+costs_NN2 pursuant_II21 to_II22 those_DD2 orders_NN2 ._. 
+These_DD2 memoranda_NN2 were_VBDR never_RR signed_VVN or_CC sent_VVD ._. 
+Exhibits_NN2 P-32_FO ,_, P-33_FO 35_MC ._. 
+Two_MC weeks_NNT2 later_RRR ,_, the_AT Department_NN1 's_GE general_JJ 
+counsel_NN1 sent_VVD a_AT1 memorandum_NN1 to_II the_AT Comptroller_NN1 
+advising_VVG him_PPHO1 that_CST ,_, although_CS the_AT June_NP1 orders_NN2 
+had_VHD arrived_VVN ,_, in_II June_NPM1 and_CC the_AT legislative_JJ "_" 
+intent_JJ "_" expression_NN1 applied_VVD beginning_VVG July_NPM1 1_MC1 ,_, 
+the_AT June_NP1 bills_NN2 should_VM not_XX be_VBI paid_VVN ._. 
+Exhibit_VV0 P-34_FO (_( memorandum_NN1 of_IO June_NPM1 23_MC ,_, 1981_MC )_) 
+36_MC ._. 
+Two_MC days_NNT2 later_JJR --_NN1 in_II the_AT first_MD step_NN1 by_II 
+O'Bannon_NP1 which_DDQ ,_, at_RR21 least_RR22 on_II its_APPGE face_NN1 ,_, 
+looks_VVZ toward_II eventual_JJ compliance_NN1 --Secretary_NN1 O'Bannon_NP1 
+wrote_VVD to_II the_AT Budget_NN1 Secretary_NN1 askin_NN1 for_IF a_AT1 
+supplemental_JJ appropriation_NN1 when_CS the_AT legislature_NN1 returns_NN2 
+for_IF payment_NN1 of_IO the_AT masters_NN2 ._. 
+Exhibit_VV0 P-35_FO (_( dated_JJ June_NPM1 25_MC ,_, 1981_MC )_) 37_MC ._. 
+On_II July_NPM1 1_MC1 ,_, 1981_MC ,_, defendant_NN1 Howse_NP1 sent_VVD a_AT1 
+memorandum_NN1 t_ZZ1 the_AT Comptroller_NN1 asking_VVG for_IF payment_NN1 
+of_IO the_AT June_NP1 orders_NN2 ,_, Exhibit_VV0 P-36_FO ,_, but_CCB on_II 
+Tuly_NP1 2_MC ,_, 1981_MC ,_, O'Bannon_NP1 ,_, Howse_NP1 and_CC others_NN2 
+met_VVN and_CC O'Bannon_NP1 decided_VVD not_XX to_TO comply_VVI with_IW the_AT 
+payment_NN1 orders_NN2 Exhibit_VV0 P-11_FO ,_, 117-9_MCMC ._. 
+That_DD1 same_DA day_NNT1 ,_, July_NPM1 2_MC ,_, O'Bannon'_NP1 -16_MC 
+general_JJ counsel_NN1 instructed_VVD the_AT Comptroller_NN1 (_( who_PNQS 
+had_VHD been_VBN at_II the_AT meeting_NN1 )_) to_TO ignore_VVI Howses_NP2 
+memo_NN1 of_IO the_AT previous_JJ day_NNT1 and_CC to_TO refuse_VVI to_TO 
+pay_VVI ._. 
+Exhibit_VV0 P-37_FO 38_MC ._. 
+On_II June_NPM1 22_MC ,_, 1981_MC ,_, from_II 4:30_MC to_II 5:30_MC P.M._RA 
+,_, the_AT suggestion_NN1 that_CST the_AT Governor_NN1 veto_NN1 the_AT 
+legislative_JJ provision_NN1 was_VBDZ discussed_VVN by_II O'Bannon_NP1 ,_, 
+Howse_NP1 and_CC others_NN2 ;_; the_AT defendants_NN2 took_VVD no_AT steps_NN2 
+toward_II seeking_VVG a_AT1 veto_NN1 ._. 
+Exhibit_VV0 P-11_FO ,_, Ex_NN1 ._. 
+P-54_FO 39_MC ._. 
+Defendants_NN2 have_VH0 produced_VVN all_DB documents_NN2 in_II the_AT 
+Secretary_NN1 's_GE office_NN1 relating_VVG to_II this_DD1 payment_NN1 
+issue_NN1 and_CC the_AT budget_NN1 process_NN1 ._. 
+No_AT documents_NN2 showing_VVG any_DD letters_NN2 ,_, phone_NN1 calls_NN2 
+or_CC other_JJ attempts_NN2 to_TO secure_VVI different_JJ action_NN1 from_II 
+the_AT legislature_NN1 have_VH0 been_VBN submitted_VVN ._. 
+No_AT factual_JJ defense_NN1 has_VHZ been_VBN offered_VVN by_II the_AT 
+defendants_NN2 ._. 
+No_AT factual_JJ dispute_NN1 is_VBZ presented_VVN The_AT Procedural_JJ 
+Postur_NN1 40_MC ._. 
+The_AT so-called_JJ legislative_JJ inhibition_NN1 did_VDD not_XX arise_VVI 
+until_CS mid-_NN1 to_II late_JJ June_NPM1 ,_, 1981_MC ,_, well_RR within_II 
+the_AT time_NNT1 for_IF appea_NN1 of_IO the_AT June_NPM1 5_MC ,_, 1981_MC 
+orders_NN2 ._. 
+No_AT appeal_NN1 was_VBDZ filed_VVN 41_MC ._. 
+The_AT defendants_NN2 '_GE appeal_NN1 to_II the_AT Court_NN1 of_IO Appeals_NN2 
+did_VDD not_XX question_VVI their_APPGE obligation_NN1 to_TO pay_VVI for_IF 
+the_AT Special_JJ Master_NN1 (_( only_RR the_AT necessity_NN1 of_IO a_AT1 
+master_NN1 was_VBDZ challenged_VVN )_) ._. 
+In_II other_JJ respects_NN2 not_XX affecting_VVG the_AT Master_NN1 ,_, 
+Eleventh_MD Amendment_NN1 issues_NN2 were_VBDR raised_VVN and_CC rejected_VVN 
+by_II the_AT Court_NN1 of_IO Appeals_NN2 42_MC ._. 
+The_AT defendants_NN2 '_GE certiorari_NN2 petition_VV0 to_II the_AT Supreme_JJ 
+Court_NN1 did_VDD not_XX raise_VVI any_DD question_NN1 regarding_II 
+payment_NN1 to_II the_AT masters_NN2 or_CC the_AT Eleventh_MD Amendment_NN1 
+43_MC ._. 
+In_II this_DD1 Court_NN1 on_II this_DD1 motion_NN1 ,_, the_AT propriety_NN1 
+and_CC validity_NN1 of_IO the_AT payment_NN1 orders_NN2 are_VBR not_XX 
+challenged_VVN -17_MC 44_MC ._. 
+The_AT applicable_JJ law_NN1 is_VBZ set_VVN forth_RR in_II the_AT 
+memorandum_NN1 filed_VVN on_II July_NPM1 24_MC ,_, 1981_MC and_CC the_AT 
+motion_NN1 and_CC brief_JJ filed_VVN on_II Jul_NP1 1_MC1 ,_, 1981_MC 45_MC ._. 
+Plaintiffs_NN2 will_VM shortly_RR file_VVI ,_, although_CS on_II a_AT1 
+contempt_NN1 matter_NN1 such_II21 as_II22 this_DD1 they_PPHS2 are_VBR not_XX 
+required_VVN to_TO do_VDI so_RR ,_, a_AT1 statement_NN1 of_IO their_APPGE 
+hours_NNT2 so_CS21 that_CS22 the_AT Court_NN1 may_VM consider_VVI them_PPHO2 
+in_II awarding_VVG attorney_NN1 fees_NN2 for_IF this_DD1 contempt_NN1 
+matter_NN1 ._. 
+As_CSA set_VVN forth_RR i_MC1 the_AT memorandum_NN1 ,_, a_AT1 fee_NN1 
+award_NN1 (_( without_IW regard_NN1 to_II hours_NNT2 )_) is_VBZ properly_RR 
+a_AT1 part_NN1 of_IO the_AT relief_NN1 on_II contempt_NN1 aimed_VVN at_II "_" 
+inclining_VVG the_AT Department_NN1 "_" to_TO respect_VVI for_IF the_AT 
+Court_NN1 's_GE orders_NN2 Respectfully_RR submitted_VVD David_NP1 Ferlege_NP1 
+,_, Esquir_NP1 37_MC S._NP1 20th_MD Street_NN1 ,_, Suite_NN1 60_MC 
+Philadelphia_NP1 ,_, Pa._NP1 19103_MC 215-567-282_MCMC Penelope_NP1 A._NP1 
+Boyd_NP1 ,_, Esquir_NP1 1700_MC Walnut_NP1 Street_NNL1 ,_, Suite_NN1 525_MC 
+Philadelphia_NP1 ,_, Pa._NP1 1910_MC Attorneys_NN2 for_IF Plaintiff_NN1 
+-18---28af91dcde9f371ba7953158135adb56--_FU 

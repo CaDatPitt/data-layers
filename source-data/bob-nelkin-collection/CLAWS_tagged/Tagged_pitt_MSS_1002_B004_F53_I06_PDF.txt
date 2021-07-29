@@ -1,0 +1,93 @@
+
+Program_NN1 Services_NN2 Departmen_NP1 Status_NN1 Repor_NN1 January_NPM1 27_MC 
+,_, 198_MC IOC_NP1 'Cea_NN1 The_AT IOC_NN1 Team_NN1 has_VHZ commended_VVN 
+the_AT Program_NN1 Services_NN2 Department_NN1 for_IF its_APPGE 
+organization_NN1 and_CC programs_NN2 ._. 
+They_PPHS2 noted_VVD that_CST 70_MC out_II21 of_II22 130_MC residents_NN2 
+were_VBDR on_II maladaptive_JJ programs_NN2 md_NN1 that_CST there_EX 
+appears_VVZ to_TO be_VBI a_AT1 decrease_NN1 in_II maladaptive_JJ behaviors_NN2 
+and_CC a_AT1 increase_NN1 in_II rewards_NN2 ._. 
+They_PPHS2 stated_VVD that_CST the_AT monthly_JJ summaries_NN2 were_VBDR 
+well_RR written_VVN Pay_NN1 room_NN1 Recently_RR ,_, the_AT Board_NN1 of_IO 
+Directors_NN2 gave_VVD their_APPGE approval_NN1 to_TO refurnish_VVI the_AT 
+dayrooms_NN2 ._. 
+Ibis_NN1 is_VBZ an_AT1 excellent_JJ idea_NN1 ,_, since_CS we_PPIS2 do_VD0 
+not_XX want_VVI our_APPGE residents_NN2 '_GE living_JJ environmental_JJ to_TO 
+be_VBI "_" institutional_JJ "_" but_CCB to_TO have_VHI a_AT1 home_NN1 like_II 
+atmosphere_NN1 ._. 
+However_RR ,_, I_PPIS1 am_VBM gravely_RR concerned_JJ about_II the_AT 
+effects_NN2 that_CST it_PPH1 will_VM have_VHI on_II our_APPGE programs_NN2 ,_, 
+since_CS no_AT consideration_NN1 was_VBDZ given_VVN to_II the_AT residents_NN2 
+'_GE programs_NN2 when_CS these_DD2 ideas_NN2 were_VBDR formulated_VVN 
+We_PPIS2 have_VH0 been_VBN given_VVN compliments_NN2 and_CC commended_VVN 
+for_IF our_APPGE different_JJ programs_NN2 and_CC their_APPGE organization_NN1 
+._. 
+For_REX21 example_REX22 ,_, on_II the_AT third_MD floor_NN1 ,_, which_DDQ 
+the_AT majority_NN1 of_IO residents_NN2 are_VBR non-ambulatory_JJ and_CC 
+require_VV0 sensory_JJ stimulation_NN1 ,_, positioning_VVG and_CC range_NN1 
+of_IO motion_NN1 exercises_NN2 ._. 
+There_EX are_VBR 34_MC residents_NN2 remaining_VVG (_( Tuesday-Friday_NPD1 )_) 
+on_II the_AT floor_NN1 to_TO be_VBI actively_RR programmed_VVN and_CC 44_MC 
+residents_NN2 (_( Saturday-Monday_NPD1 ;_; in_II the_AT evenings_NNT2 )_) ._. 
+The_AT present_NN1 ._. plans_NN2 include_VV0 a_AT1 water_NN1 mattress_NN1 ,_, 
+bookshelves_NN2 ,_, mats_NN2 ,_, table_NN1 ,_, chairs_NN2 ,_, living.room_NNU 
+area_NN1 ,_, TV_NN1 on_II the_AT floor_NN1 ._. 
+Where_RRQ are_VBR these_DD2 residents_NN2 going_VVG to_TO be_VBI feed_NN1 
+and_CC programmed_VVD ?_? 
+Is_VBZ there_RL going_VVG to_TO be_VBI the_AT physical_JJ space_NN1 needed_VVD 
+to_TO implement_VVI programs_NN2 Presently_RR ,_, our_APPGE third_MD floor_NN1 
+programs_NN2 meet_VV0 the_AT programmatic_JJ and_CC space_NN1 needs_NN2 of_IO 
+our_APPGE residents_NN2 ._. 
+The_AT third_MD floor_NN1 dayroom_NN1 feeding_VVG program_NN1 is_VBZ 
+divided_VVN into_II taco_NN1 areas_NN2 (_( feeding_VVG ;_; in_II activity_NN1 
+area_NN1 )_) ._. 
+The_AT Surveyors_NN2 require_VV0 that_CST all_DB staff_NN should_VM be_VBI 
+involved_JJ in_II feeding_VVG and_CC that_CST residents_NN2 are_VBR not_XX 
+to_TO be_VBI waiting_VVG to_TO be_VBI feed_NN1 ._. 
+It_PPH1 will_VM be_VBI almost_RR impossible_JJ to_TO accomplish_VVI these_DD2 
+goals_NN2 ,_, if_CS the_AT necessary_JJ physical_JJ space_NN1 is_VBZ not_XX 
+available_JJ ._. 
+In_BCL21 order_BCL22 to_TO program_VVI 34-44_MCMC residents_NN2 ,_, and_CC 
+to_TO meet_VVI their_APPGE needs_NN2 ,_, two_MC structured_JJ programs_NN2 
+have_VH0 to_TO be_VBI simultaneously_RR be_VBI conducted_VVN with_IW all_DB 
+the_AT physical_JJ changes_NN2 in_II the_AT third_MD floor_NN1 dayroom_NN1 ,_, 
+this_DD1 will_VM almost_RR be_VBI impossible_JJ The_AT scheduling_NN1 of_IO 
+the_AT wallpapering_NN1 of_IO the_AT dayrooms_NN2 ,_, I_PPIS1 can_VM not_XX 
+understand_VVI ,_, why_RRQ wallpapering_NN1 the_AT third_MD floor_NN1 and_CC 
+the_AT sanding_NN1 of_IO the_AT fourth_MD floor_NN1 had_VHD to_TO be_VBI 
+scheduled_VVN for_IF the_AT same_DA day_NNT1 (_( 1/25/83_MF )_) ,_, which_DDQ 
+produces_VVZ alot_NN1 of_IO strain_NN1 on_II the_AT Program_NN1 Services_NN2 
+Department_NN1 The_AT survey_NN1 will_VM probably_RR be_VBI early_RR this_DD1 
+year_NNT1 (_( May_NPM1 )_) ._. 
+Due_II21 to_II22 the_AT physical_JJ changes_NN2 in_II the_AT dayrooms_NN2 
+which_DDQ no_AT consideration_NN1 was_VBDZ given_VVN to_II residents_NN2 '_GE 
+programs_NN2 ,_, the_AT new_JJ avograms_NN2 will_VM not_XX have_VHI enough_DD 
+time_NNT1 to_TO be_VBI organized_VVN and_CC implemented_VVN for_IF us_PPIO2 
+to_TO do_VDI well_RR i_MC1 s_ZZ1 writer_NN1 's_GE concerns_NN2 are_VBR 
+being_VBG ignored_VVN and_CC arc_NN1 not_XX being_VBG addressed_VVN ._. 
+Mv_NNU concerns_NN2 should_VM not_XX be_VBI interpreted_VVN as_CSA being_VBG 
+uncooperative_JJ or_CC negative_JJ ;_; (_( as_CSA they_PPHS2 often_RR are_VBR 
+)_) ,_, hut_NN1 of_IO deep_JJ concerns_NN2 of_IO problems_NN2 that_CST will_VM 
+occur_VVI Ihcrc_NP1 are_VBR other_JJ avenues_NN2 that_CST can_VM be_VBI 
+pursued_VVN instead_II21 of_II22 going_VVG straight_JJ fo_NN1 -5_MC ._. 
+jest_VV0 ruction_NN1 of_IO our_APPGE present_JJ organization_NN1 of_IO 
+our_APPGE residents_NN2 programs_NN2 '5_MC '_GE f_ZZ1 program_NN1 Aides_NN2 
+Attendance_NN1 Contes_NN2 The_AT second_MD and_CC fourth_MD floors_NN2 
+have_VH0 maintained_VVN a_AT1 90%_NNU or_CC better_JJR attendance_NN1 
+record_NN1 for_IF six_MC Keeks_NP2 !_! 
+The_AT third_MD floor_NN1 slipped_VVD one_MC1 week_NNT1 but_CCB are_VBR 
+back_RP on_II track_NN1 ._. 
+This_DD1 urogram_NN1 appears_VVZ to_II achieved_VVD our_APPGE main_JJ 
+objective_NN1 of_IO trying_VVG to_TO decrease_VVI absenteeism_NN1 
+Comp-Stor_NP1 Program_NN1 Aide_NN1 Schedul_NN1 Program_NN1 Aides_NN2 '_GE 
+schedules_NN2 were_VBDR revised_VVN to_TO give_VVI us_PPIO2 maxium_NN1 
+coverage_NN1 on_II all_DB the_AT floors_NN2 for_IF three_MC shifts_NN2 and_CC 
+placed_VVN on_II the_AT Comp-Stor_NP1 The_AT names_NN2 of_IO staff_NN ,_, 
+days_NNT2 of_IO the_AT week_NNT1 ,_, vacation_NN1 ,_, personal_JJ holidays_NN2 
+,_, will_VM be_VBI entered_VVN onto_II these_DD2 schedules_NN2 ,_, then_RT 
+they_PPHS2 will_VM be_VBI posted_VVN ._. 
+Due_II21 to_II22 unforeseen_JJ events_NN2 ,_, these_DD2 schedules_NN2 ,_, 
+will_VM be_VBI implemented_VVN in_II March_NPM1 instead_II21 of_II22 
+February_NPM1 Submitted_VVD by_II Millie_NP1 Telega_NP1 ,_, M.Ed_NP1 
+Assistant_JJ Executive_NN1 Director_NN1 for_IF Program_NN1 Service_NN1 I_ZZ1 
+--9a4087b0eb267880a734b85473498795--_FU 

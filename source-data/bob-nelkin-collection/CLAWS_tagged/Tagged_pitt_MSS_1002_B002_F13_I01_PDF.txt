@@ -1,0 +1,6 @@
+
+MRS_NNB ._. 
+TEDDI_NP1 LEIDE_NP1 Presiden_NP1 he_PPHS1 Honorable_NP1 Richard_NP1 
+Thornburgh_NP1 Governor_NN1 of_IO Pennsylvania_NP1 Main_JJ Capito_NP1 
+Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC n_ZZ1 *_FU I_PPIS1 -_- A_ZZ1 ,_, 
+Sf/IR_NN1 &TIRV’S; OFFICE_NN1 

@@ -1,0 +1,24 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTER_NN1 of_IO the_AT PENNSYLVANIA_NP1 
+ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 ,_, INC._JJ 517-1001_MCMC 
+Brighton_NP1 Road_NNL1 ._. 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 Phone_NN1 322-6008_MCMC 322-078_MCMC 
+The_AT 1973_MC "_" CALL_NN1 OF_IO HOPE_NN1 "_" IS_VBZ CALLING_VVG YOU_PPY 
+The_AT 1973_MC "_" CALL_NN1 OF_IO HOPE_NN1 "_" through_II September_NPM1 
+30._MC if_CS you_PPY wil_NN1 We_PPIS2 will_VM not_XX contact_VVI an_AT1 
+Fund_NN1 Drive_NN1 Wont_NN1 you_PPY let_VV0 be_VBI able_JK to_TO help_VVI ?_? 
+We_PPIS2 are_VBR call_VV0 you_PPY before_II mailing_VVG the_AT w_ZZ1 Thank_VV0 
+Yo_UH Yes_UH No_UH is_VBZ us_PPIO2 s_ZZ1 scheduled_VVN from_II September_NPM1 
+1_MC1 know_VV0 as_RG quickly_RR as_CSA possible_JJ grateful_JJ for_IF 
+your_APPGE past_JJ help_NN1 ._. 
+Kit_NN1 ._. 
+This_DD1 will_VM serve_VVI as_II ou_FW will_VM volunteer_VVI as_II a_AT1 
+door-to-door_JJ solicitor_NN1 will_VM not_XX volunteer_VVI as_II a_AT1 
+door-to-door_JJ solicitor_NN1 (_( Name_NN1 of_IO street_NN1 )_) you_PPY 
+cover_VV0 for_IF us._NNU ._. /Z7_VV0 Z_ZZ1 YOUR_APPGE NAME_NN1 STREET_NN1 
+CIT_FW PHONE_NN1 Z7_FO 7_MC ZIP_VV0 COD_NN z-X_FO z/r/_FU If_CSW you_PPY 
+have_VH0 friends_NN2 or_CC neighbors_NN2 who_PNQS you_PPY believe_VV0 would_VM 
+be_VBI willing_JJ to_TO work_VVI on_II the_AT Fun_JJ Drive_NN1 ,_, please_RR 
+list_VV0 names_NN2 and_CC addresses_VVZ on_II the_AT back_NN1 of_IO this_DD1 
+form_NN1 y_ZZ1 /_FO P_ZZ1 /_FO ?_? s_ZZ1 &r); -po/o._FU so//_FU ?_? /_FO 
+A'_NP1 /_FO )_) /st_FU 

@@ -1,0 +1,197 @@
+
+new_JJ frOm_II mary_JJ LOU_NP1 magistri_NN2 Phone_VV0 :_: 322-600_MCMC of_IO 
+the_AT Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Childn_NN1 I_ZZ1 
+917_MC Brighton_NP1 Road_NNL1 Pittsburgh_NP1 ,_, Pa._NP1 152--_NN1 P._NP1 
+R_NP1 DIRECTO_NP1 August_NPM1 28_MC ,_, 197_MC NEWS_NN1 CONFERENC_NP1 
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NN1 of_IO the_AT Pennsylvania_NP1 
+Association_NN1 For_IF Retarded_JJ Children_NN2 PURPOSE_NN1 :_: To_TO 
+unravel_VVI story_NN1 of_IO State_NN1 government_NN1 's_GE incompetanc_NN1 
+leading_VVG to_II the_AT death_NN1 of_IO Louis_NP1 Novak_NP1 ,_, Allegheny_NP1 
+County_NN1 mentally_RR retarded_JJ youth_NN1 ATTENDING_VVG Norman_NP1 W._NP1 
+Mulgrave_NP1 ,_, President_NN1 ,_, ALLEGHENY_NP1 COUNTY_NN1 CHAPTER_NN1 ,_, 
+PARC_NP1 Mrs._NNB Barbara_NP1 Sistik_NP1 ,_, Representative_NN1 from_II 
+ACC-PARC_NP1 's_GE Board_NN1 of_IO Directors_NN2 to_II Ridge_NN1 View_NN1 
+Investigating_VVG team_NN1 Mrs._NNB J._NP1 J._NP1 Isherwood_NP1 ,_, PARC_NP1 
+Residential_JJ Services_NN2 Chairman_NN1 during_II the_AT Hillcrest_JJT and_CC 
+Ridge_NN1 View_NN1 investigations_NN2 Robert_NP1 F._NP1 Jennings_NP1 ,_, 
+Wayne_NP1 County_NN1 Corone_NP1 Robert_NP1 Nelkin_NP1 ,_, Director_NN1 of_IO 
+ACC_NP1 's_GE Community_NN1 &; Chapter_NN1 Affairs_NN2 Div_MC ,_, ;_; ._. 
+Staff_NN Liaison_NN1 to_II Ridge_NN1 View_NN1 investigating_VVG team_NN1 
+Mr._NNB &; Mrs._NNB Andrew_NP1 Novak_NP1 ,_, Parents_NN2 of_IO Louis_NP1 
+Novak_NP1 ,_, the_AT most_RGT recent_JJ victim_NN1 at_II Ridge_NN1 View_NN1 
+William_NP1 B._NP1 Dixon_NP1 ,_, Esq._NNA ,_, Legal_JJ council_NN1 for_IF 
+the_AT Novak_NP1 family_NN1 Michael_NP1 R._NP1 Kelly_NP1 ,_, Esq._NNA ,_, 
+Legal_JJ council_NN1 for_IF the_AT Novak_NP1 family_NN1 ._. 
+of_IO the_AT Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Children_NN2 
+,_, IU'_NP1 ._. 
+917_MC Brighton_NP1 Road_NNL1 Pittsburgh_NP1 ,_, Pa._NP1 1523_MC MARY_NP1 
+L0U_FO MAGISTRI_NN2 ,_, p._NNU r._NNU directo_NN1 VZIII_NN1 Phone_NN1 :_: 
+322-600_MCMC August_NPM1 28_MC ,_, 197_MC press_NN1 conference_NN1 ,_, 9:30_MC 
+a.m._RA ,_, 8/28/7_MF STATEMENT_NN1 OF_IO THE_AT ALLEGHENY_NP1 COUNTY_NN1 
+CHAPTE_NP1 NORMAN_NP1 W._NP1 MULGRAVE_NP1 ,_, PRESIDEN_NP1 In_II31 
+response_II32 to_II33 the_AT August_NPM1 20th_MD death_NN1 of_IO Louis_NP1 
+Novak_NP1 ,_, a_AT1 fifteen-year-old_JJ Allegheny_NP1 County_NN1 youth_NN1 
+at_II Ridge_NN1 View_NN1 Center_NN1 ,_, the_AT ALLEGHENY_NP1 COUNTY_NN1 
+CHAPTER_NN1 of_IO the_AT Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Children_NN2 (_( ACC-PARC_NP1 )_) immediately_RR dispatched_VVN an_AT1 
+investigating_JJ team_NN1 to_II the_AT institution_NN1 ._. 
+This_DD1 was_VBDZ the_AT third_MD ACC-PARC_NP1 visitation_NN1 to_II Ridge_NN1 
+View_NN1 in_II the_AT past_JJ two_MC months_NNT2 ._. 
+The_AT previous_JJ visits_NN2 were_VBDR motivated_VVN by_II the_AT death_NN1 
+of_IO one_MC1 of_IO the_AT residents_NN2 of_IO this_DD1 center_NN1 in_II a_AT1 
+garbage_NN1 compacting_VVG truck_NN1 ;_; as_II31 well_II32 as_II33 the_AT 
+Allegheny_NP1 County_NN1 Chapter_NN1 's_GE long_JJ standing_NN1 concern_NN1 
+that_CST state_VV0 government_NN1 has_VHZ abdicated_VVN its_APPGE 
+responsibility_NN1 to_TO monitor_VVI and_CC correct_JJ inhumane_JJ 
+conditions_NN2 existing_VVG in_II interim_JJ care_NN1 institutions_NN2 ._. 
+The_AT above_JJ ,_, coupled_VVN with_IW the_AT Department_NN1 of_IO 
+Welfare_NN1 's_GE lack_NN1 of_IO commitment_NN1 to_II the_AT provision_NN1 
+of_IO quality_NN1 services_NN2 to_II the_AT mentally_RR retarded_JJ 
+citizens_NN2 of_IO the_AT Commonwealth_NN1 ,_, causes_VVZ us_PPIO2 to_TO 
+make_VVI public_RR the_AT results_NN2 of_IO the_AT investigating_JJ team_NN1 
+'s_GE effort_NN1 The_AT Allegheny_NP1 County_NN1 Chapter_NN1 has_VHZ been_VBN 
+working_VVG since_II 1970_MC to_TO effect_VVI the_AT closing_NN1 of_IO 
+Ridge_NN1 View_NN1 ,_, formerly_RR called_VVN Hillcrest_NP1 ;_; to_TO 
+obtain_VVI the_AT removal_NN1 of_IO all_DB Allegheny_NP1 County_NN1 
+residents_NN2 from_II this_DD1 institution_NN1 ;_; and_CC to_TO halt_VVI 
+further_JJR placement_NN1 of_IO Allegheny_NP1 County_NN1 residents_NN2 in_II 
+this_DD1 institution_NN1 ._. 
+It_PPH1 is_VBZ now_RT hoped_VVN that_CST an_AT1 enraged_JJ citizenry_NN1 
+can_VM accomplish_VVI what_DDQ we_PPIS2 have_VH0 been_VBN unable_JK to_TO 
+accomplish_VVI through_II regular_JJ channels_NN2 -mor_JJ Mary_NP1 Lou_NP1 
+Magistri_NP1 -_- Public_JJ Relations_NN2 Directo_NP1 ACC-PARC_NP1 -_- 
+322-600_MCMC August_NPM1 28_MC ,_, 197_MC Add_VV0 'V_NN1 In_II the_AT 16_MC 
+month_NNT1 period_NN1 that_CST Ridge_NN1 View_NN1 operated_VVN thi_NN2 
+school_NN1 ,_, the_AT State_NN1 cited_VVD Violations_NN2 of_IO regulations_NN2 
+and_CC threatened_VVD legal_JJ action_NN1 to_TO revoke_VVI Ridge_NN1 Views_NN2 
+license_VV0 at_RR21 least_RR22 six_MC times_NNT2 No_AT action_NN1 was_VBDZ 
+taken_VVN until_II last_MD week_NNT1 ..._... and_CC then_RT only_RR after_II 
+protest_NN1 from_II citizens_NN2 groups_NN2 regarding_II the_AT alledged_JJ 
+forced_JJ drowning_NN1 of_IO an_AT1 adolescent_JJ resident_NN1 Reports_VVZ 
+from_II the_AT DPW_NP1 staff_NN and_CC Elliot_NP1 Knauer_NP1 's_GE personal_JJ 
+visits_NN2 to_II Ridge_NN1 View_NN1 tell_VV0 of_IO dangerous_JJ physical_JJ 
+conditions_NN2 ,_, inade-quate_JJ staff_NN and_CC supervision_NN1 ,_, 
+filthy_JJ sanitary_JJ conditions_NN2 ,_, and_CC depersonalized_VVD living_JJ 
+conditions_NN2 ._. 
+There_EX were_VBDR at_RR21 least_RR22 one_MC1 dozen_NNO staff_NN reports_VVZ 
+on_II inadequate_JJ conditions_NN2 -_- received_VVN by_II Knaue_NP1 On_II 
+our_APPGE most_RGT recent_JJ visit_NN1 ,_, we_PPIS2 received_VVD reports_NN2 
+alledgin_NN1 *_FU ._. 
+*_FU ._. '_" 
+U_ZZ1 excessive_JJ physical_JJ punishment_NN1 ,_, the_AT use_NN1 of_IO 
+tranquilizers_NN2 as_II a_AT1 means_NN of_IO punishment_NN1 ,_, residents_NN2 
+being_VBG asked_VVN to_TO enforce_VVI punishment_NN1 against_II other_JJ 
+residents_NN2 or_CC perform_VV0 staff_NN duties_NN2 ,_, such_II21 as_II22 
+bathing_VVG another_DD1 resident_NN1 ,_, and_CC other_JJ improperly_RR 
+reported_VVN deaths_NN2 Some_DD of_IO the_AT violations_NN2 cited_VVN in_II 
+the_AT first_MD DPW_NP1 report_NN1 in_II September_NPM1 ,_, 1971_MC 
+remained_VVD violations_NN2 when_RRQ ACC-PARC_NP1 sent_VVD an_AT1 
+inspection_NN1 team_NN1 in_II June_NPM1 and_CC August_NPM1 ,_, 1972_MC The_AT 
+recommendations_NN2 of_IO the_AT investigating_JJ team_NN1 and_CC th_NNU 
+Allegheny_NP1 County_NN1 Chapter_NN1 are_VBR (_( 1_MC1 )_) THAT_CST THE_AT 
+325_MC ALLEGHENY_NP1 COUNTY_NN1 MENTALLY_RR RETARDE_NP1 CHILDREN_NN2 AND_CC 
+ADULTS_NN2 PRESENTLY_RR CONFINED_VVN IN_II INTERIM_JJ CARE_NN1 FACILITIES_NN2 
+THROUGHOUT_II THE_AT STATE_NN1 SHOULD_VM NOT_XX BE_VBI ,_, 
+INSTITUTIONALIZED_VVD OUTSIDE_II21 OF_II22 THE_AT WESTERN_JJ PRNNSYLVANIA_NN1 
+AREA_NN1 AND_CC SHOULD_VM BE_VBI IMMEDIATELY_RR RETURNED_VVN TO_II THIS_DD1 
+REGION_NN1 mor_NN1 Mary_NP1 Lou_NP1 Magistri_NP1 -_- Public_JJ Relations_NN2 
+Directo_NP1 Acc-PARC_NP1 -_- 322-600_MCMC August_NPM1 28_MC ,_, 197_MC Add_VV0 
+The_AT institutional_JJ placement_NN1 of_IO the_AT mentally_RR retarded_JJ 
+must_VM be_VBI close_JJ enough_RR that_CST parents_NN2 ,_, friends_NN2 and_CC 
+relatives_NN2 may_VM ._. 
+frequently_RR visit--and_CC close_VV0 enough_RR that_DD1 Mental_JJ 
+Health/Mental_FU Retardation_NN1 officials_NN2 can_VM fulfill_VVI their_APPGE 
+responsibility_NN1 to_TO monitor_VVI these_DD2 services_NN2 (_( 2_MC )_) 
+THAT_CST HELENE_NP1 WOHLGEMUTH_NP1 ,_, SECRETARY_NN1 OF_IO PUBLIC_JJ 
+WELFARE_NN1 ,_, IMMEDIATELY_RR INVESTIGATE_VV0 ALL_DB INTERIM_JJ CARE_NN1 
+FACILITIES_NN2 :_: THEIR_APPGE PROGRAMS_NN2 ,_, EMPLOYEES_NN2 ,_, 
+PLACEMENT_NN1 PROCEDURES_NN2 ,_, LIVING_VVG CONDITIONS_NN2 ,_, AN_AT1 THE_AT 
+REGULATIONS_NN2 FOR_IF LICENSURE_NP1 FURTHER_RRR ,_, THAT_CST THE_AT 
+DEPARTMENT_NN1 OF_IO PUBLIC_JJ WELFARE_NN1 DISCONTINUE_VV0 AND_CC PROHIBIT_VV0 
+CONTRACTING_JJ OF_IO MENTAL_JJ RETARDATION_NN1 SERVICES_NN2 TO_II PRIVATE_JJ 
+,_, PROFIT_NN1 MAKING_NN1 CONCERNS_VVZ The_AT Allegheny_NP1 County_NN1 
+Chapter_NN1 has_VHZ guaranteed_VVN the_AT Secretary_NN1 that_CST the_AT 
+Chapter_NN1 will_VM be_VBI unyielding_JJ on_II conditions_NN2 that_CST 
+need_VV0 correction_NN1 ._. 
+We_PPIS2 promise_VV0 to_TO continue_VVI our_APPGE investigations_NN2 
+throughout_II the_AT State_NN1 ,_, wherever_RRQV an_AT1 Allegheny_NP1 
+County_NN1 resident_NN1 is_VBZ warehoused_VVN ,_, and_CC ,_, as_CSA 
+advocates_NN2 for_IF the_AT retarded_JJ ,_, we_PPIS2 will_VM not_XX relent_JJ 
+until_CS the_AT safety_NN1 of_IO all_DB is_VBZ guaranteed_VVN (_( 3_MC )_) 
+THAT_CST TIIE_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ WELFARE_NN1 RESCIND_VV0 
+THE_AT CONTRACTS_NN2 FOR_IF THE_AT SEVEN_MC PROPOSED_JJ COMMUNITY_NN1 
+RESIDENCES_NN2 THEY_PPHS2 HAVE_VH0 BEEN_VBN NEGOTIATING_VVG WITH_IW 
+COMMONWEALTH_NN1 CONCERNS_NN2 ,_, INC_JJ FURTHERMORE_RR ,_, THAT_CST THE_AT 
+DEPARTMENT_NN1 OF_IO PUBLIC_JJ WELFARE_NN1 CEAS_NN2 NEGOTIATING_VVG ANY_DD 
+ADDITIONAL_JJ CONTRACTS_NN2 WITH_IW COMMONWEALTH_NN1 CONCERNS_NN2 ,_, INC_JJ 
+This_DD1 is_VBZ demanded_VVN in_II31 light_II32 of_II33 the_AT conditions_NN2 
+at_II Ridge_NN1 View_NN1 which_DDQ is_VBZ operated_VVN by_II this_DD1 
+combine_NN1 ,_, Commonwealth_NN1 Concerns_NN2 ,_, Inc_JJ mor_NN1 Mary_NP1 
+Lou_NP1 Magistri_NP1 -_- Public_JJ Relations_NN2 Directo_NP1 ACC-PARC_NP1 -_- 
+322-600_MCMC August_NPM1 28_MC ,_, 197_MC Add_VV0 (_( 4_MC )_) THAT_CST ,_, 
+BECAUSE_II21 OF_II22 HIS_APPGE FAILURE_NN1 TO_TO ACT_VVI AS_II AM_RA 
+ADVOCATE_VV0 FOR_IF THE_AT CHILDREN_NN2 AT_II RIDGE_NN1 VIEW_NN1 ;_; 
+BECAUSE_CS HE_PPHS1 WAS_VBDZ AWARE_JJ OF_IO RIDGE_NN1 VIEW_NN1 CONDITIONS_NN2 
+THROUGH_II STAFF_NN REPORTS_NN2 AND_CC HI_UH OWN_VV0 PERSONAL_JJ VISITS_NN2 
+;_; AND_CC BECAUSE_CS HE_PPHS1 FAILED_VVD TO_TO ENFORCE_VVI HIS_APPGE MANY_DA2 
+COMPLIANCE_NN1 ORDERS_NN2 TO_II RIDGE_NN1 VIEW_NN1 ,_, WE_PPIS2 QUESTION_VV0 
+THE_AT RIGHT_NN1 OF_IO THE_AT REGIONAL_JJ SECRETARY_NN1 OF_IO PUBLIC_JJ 
+WELFARE_NN1 ,_, ELLIOTT_NP1 R._NP1 KNAUER_NP1 ,_, TO_TO CONTINUE_VVI IN_II 
+THAT_DD1 POST_NN1 THE_AT ALLEGHENY_NP1 COUNTY_NN1 CHAPTER_NN1 THEREFORE_RR 
+CALLS_VVZ FOR_IF THE_AT RESIGNATION_NN1 OF_IO ELLIOTT_NP1 R._NP1 KNAUER_NP1 
+(_( 5_MC )_) THAT_DD1 GOVERNOR_NN1 MILTON_NP1 SHAPP_NP1 IMMEDIATELY_RR 
+INSTRUCT_VV0 THE_AT ATTORNEY_NN1 GENERAL_JJ 'S_GE OFFICE_NN1 TO_TO CONDUCT_VVI 
+A_AT1 SPECIAL_JJ INVESTIGATION_NN1 INTO_II ALL_DB OF_IO THE_AT REPORTED_JJ 
+AND_CC ALLEGED_JJ INCIDENTS_NN2 THAT_CST HAVE_VH0 OCCURRED_VVN AT_II RIDGE_NN1 
+VIEW_NN1 ,_, FORMERLY_RR HILLCREST_NP1 The_AT Allegheny_NP1 County_NN1 
+Chapter_NN1 is_VBZ calling_VVG for_IF this_DD1 special_JJ investigation_NN1 
+because_II21 of_II22 the_AT long_JJ history_NN1 of_IO deaths_NN2 ,_, 
+reported_VVD brutalities_NN2 ,_, inhumane_JJ living_JJ conditions_NN2 ,_, 
+and_CC excessive_JJ number_NN1 of_IO run-away_JJ residents_NN2 Over_II the_AT 
+years_NNT2 ,_, Wayne_NP1 County_NN1 Coroner_NN1 ,_, Robert_NP1 Jennings_NP1 
+,_, has_VHZ investigated_VVN and_CC attempted_VVN to_TO publicize_VVI and_CC 
+bring_VVI to_II justice_NN1 those_DD2 individuals_NN2 responsible_JJ for_IF 
+the_AT heinous_JJ conditions_NN2 at_II Ridge_NN1 View_NN1 Center_NN1 and_CC 
+Hillcrest_NP1 ._. 
+State_VV0 government_NN1 must_VM now_RT assume_VVI the_AT responsibility_NN1 
+since_CS Coroner_NN1 Jennings_NP1 ,_, a_AT1 local_JJ official_NN1 ,_, has_VHZ 
+been_VBN frustrated_VVN in_II his_APPGE every_AT1 effort_NN1 Both_RR 
+Coroner_NN1 Robert_NP1 Jennings_NP1 and_CC the_AT attorneys_NN2 for_IF the_AT 
+family_NN1 of_IO Louis_NP1 Novak_NP1 concur_VV0 with_IW this_DD1 demand_NN1 
+mor_NN1 Mary_NP1 Lou_NP1 Magistri_NP1 -_- Public_JJ Relations_NN2 Directo_NP1 
+ACC-PARC_NP1 -_- 322-600_MCMC August_NPM1 28_MC ,_, 197_MC Add_VV0 (_( 6_MC 
+)_) THAT_CST A_ZZ1 SPECIAL_JJ GRAND_JJ JURY_NN1 BE_VBI CONVENED_VVN TO_II 
+DETERMIN_NN1 WHAT_DDQ CRIMINAL_JJ PROSECUTIONS_NN2 SHOULD_VM BE_VBI 
+INSTITUTED_VVN (_( 7_MC )_) THAT_CST THE_AT MISSING_JJ ALLEGHENY_NP1 
+COUNTY_NN1 RESIDENT_NN1 OF_IO WHIT_NNT1 DEER_NN ,_, ANOTHER_DD1 INTERIM_JJ 
+CARE_NN1 FACILITY_NN1 IN_II HAWLEY_NP1 ,_, PENNSYLVANIA_NP1 ,_, B_NP1 
+FOUND_VVD IMMEDIATELY_RR ._. 
+FURTHER_RRR ,_, THAT_CST A_ZZ1 COMPLETE_JJ REPORT_NN1 OF_IO THIS_DD1 
+INCIDENT_NN1 BE_VBI MADE_VVN PUBLIC_RR This_DD1 youth_NN1 has_VHZ been_VBN 
+missing_VVG long_RR enough_RR for_IF the_AT state_NN1 t_ZZ1 be_VBI 
+concerned_JJ about_II the_AT continuance_NN1 of_IO their_APPGE 
+reimbursement_NN1 to_II Whit_NNT1 Deer_NN for_IF his_APPGE care_NN1 ._. 
+The_AT Allegheny_NP1 County_NN1 Chapter_NN1 ,_, conversely_RR ,_, is_VBZ 
+intensely_RR interested_JJ in_II his_APPGE well-being_NN1 THE_AT ALLEGHENY_NP1 
+COUNTY_NN1 CHAPTER_NN1 REQUESTS_VVZ THAT_CST ALL_DB CITIZEN_NN1 WRITE_VV0 
+TO_II THE_AT GOVERNOR_NN1 AND_CC THEIR_APPGE LEGISLATORS_NN2 DEMANDING_VVG 
+THAT_CST a_AT1 special_JJ investigation_NN1 by_II the_AT Justice_NN1 
+Department_NN1 into_II the_AT deaths_NN2 ,_, brutalities_NN2 ,_, living_VVG 
+conditions_NN2 and_CC runaways_NN2 at_II Ridge_NN1 View_NN1 the_AT 
+Department_NN1 of_IO Public_JJ Welfare_NN1 stop_NN1 contracting_VVG with_IW 
+Commonwealth_NN1 Concerns_NN2 ,_, Inc_JJ --_NN1 the_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 conduct_VV0 an_AT1 immediat_NN1 and_CC ongoing_JJ 
+investigation_NN1 of_IO all_DB interim_JJ care_NN1 facilities_NN2 for_IF 
+the_AT mentally_RR retarded_JJ --_NN1 a_AT1 resignation_NN1 be_VBI 
+obtained_VVN from_II Deputy_NN1 Secretary_NN1 o_ZZ1 Public_JJ Welfare_NN1 ,_, 
+Elliott_NP1 R._NP1 Knauer_NP1 ,_, and_CC others_NN2 responsible_JJ for_IF 
+allowing_VVG the_AT continuance_NN1 of_IO inhumane_JJ conditions_NN2 at_II 
+Ridge_NN1 View_NN1 mor_NN1 Mary_NP1 Lou_NP1 Magistri_NP1 -_- Public_JJ 
+Relations_NN2 Directo_NP1 ACC-PARC_NP1 -_- 322-600_MCMC August_NPM1 28_MC ,_, 
+197_MC Add_VV0 6_MC the_AT State_NN1 government_NN1 demonstrate_VV0 its_APPGE 
+commitment_NN1 to_II services_NN2 to_II mentally_RR retarded_JJ children_NN2 
+and_CC adults_NN2 by_II restoring_VVG the_AT $10,962_NNU million_NNO 
+dollars_NNU2 removed_VVN from_II services_NN2 to_II the_AT mentally_RR 
+retarded_JJ due_II21 to_II22 the_AT $12_NNU million_NNO cut_VVN in_II the_AT 
+appropriation_NN1 to_II the_AT Department_NN1 of_IO Welfare_NN1 #_FO #_FO #_FO 
+--377681d983b29e60c41f1f93bb7fa560--_FU 

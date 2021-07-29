@@ -1,0 +1,76 @@
+
+ACC-PARC_NP1 RESIDENTIAL_JJ SERVICES_NN2 COMMITTE_NN1 LISTING_NN1 O_ZZ1 
+OBJECTIVE_JJ NOVEMBER_NPM1 28_MC 197_MC DPW_NP1 Reforms_NN2 (_( I_ZZ1 )_) 
+Put_VV0 profiteers_NN2 out_II21 of_II22 busines_NN2 (_( 2_MC )_) Tighten_VV0 
+DPW_NP1 licensin_NN1 (_( 3_MC )_) Improve_VV0 BSU_NN1 monitorin_NN1 (_( 4_MC 
+)_) Bring_VV0 Allegheny_NP1 County_NN1 citizens_NN2 back_RP hom_VV0 Insti_JJ 
+tutionaIi_NN2 ze_AT (_( 5_MC )_) Transfer_VV0 residents_NN2 who_PNQS do_VD0 
+nt_XX belong_VVI at_II the_AT institutio_NN1 (_( 6_MC )_) Reduce_VV0 
+overcrowdin_NN1 (_( 7_MC )_) Encourage_VV0 alternatives_NN2 Group_NN1 
+Homes_NN2 /_FO Foster_NP1 Homes_NN2 /_FO Community_NN1 Program_NN1 Rights_NN2 
+(_( 8_MC )_) Reduce_VV0 overmedicatin_NN1 (_( 9_MC )_) Insure_VV0 
+residents_NN2 right_NN1 (_( 10_MC )_) Humanize_VV0 and_CC personalize_VV0 
+institution_NN1 Programs_NN2 (_( 11_MC )_) Implement_VV0 Right_RR to_II 
+Education_NN1 -_- Private_JJ facilitie_NN1 (_( 12_MC )_) Implement_VV0 
+Right_RR to_II Education_NN1 -_- Institution_NN1 Committee_NN1 Rol_NN1 (_( 
+13_MC )_) Monitor_VV0 and_CC upgrade_VV0 facilitie_NN1 (_( 14_MC )_) 
+Expand_VV0 citizen_NN1 involvement_NN1 at_II ACC-PAR_JJ Page_NN1 (_( 1_MC1 )_) 
+Put_VV0 profiteers_NN2 out_II21 of_II22 busines_NN2 (_( a_ZZ1 )_) Expose_VV0 
+profiteerin_NN1 (_( b_ZZ1 )_) Make_VV0 profiteering_NN1 difficul_NN1 
+reduce_VV0 population_NN1 require_VV0 better_JJR physical_JJ plant_NN1 ,_, 
+care_NN1 ,_, and_CC programmin_NN1 (_( c_ZZ1 )_) Legislate_VV0 a_AT1 
+profit_NN1 limi_NN2 (_( 2_MC )_) Tighten_VV0 DPW_NP1 licensin_NN1 (_( a_ZZ1 
+)_) Policy_NN1 of_IO surprise_NN1 visit_NN1 (_( b_ZZ1 )_) Increase_VV0 
+number_NN1 of_IO Inspection_NN1 (_( c_ZZ1 )_) Reverse_JJ inspector_NN1 
+role_NN1 -_- (_( advocate_VV0 for_IF kids/not_FU operator_NN1 (_( d_ZZ1 )_) 
+Insure_VV0 new_JJ standards_NN2 are_VBR toug_NN1 (_( 3_MC )_) Improve_VV0 
+BSU_NN1 monitorin_NN1 (_( a_ZZ1 )_) Allegheny_NP1 County_NN1 residents_NN2 
+back_RP hom_NN1 (_( b_ZZ1 )_) Require_VV0 a_AT1 plan_NN1 from_II each_DD1 
+BS_NP1 (_( 4_MC )_) Bring_VV0 Allegheny_NP1 County_NN1 citizens_NN2 back_RP 
+hom_NN1 (_( a_ZZ1 )_) Policy_NN1 of_IO County_NN1 MH/M_NN1 (_( b_ZZ1 )_) 
+Policy_NN1 of_IO Office_NN1 of_IO Mental_JJ Retardatio_NP1 (_( 5_MC )_) 
+Transfer_VV0 residents_NN2 who_PNQS do_VD0 nt_XX belong_VVI at_II 
+Institutio_NP1 (_( a_ZZ1 )_) Inform_VV0 Juvenile_JJ Court_NN1 and_CC Child_NN1 
+Welfar_NN1 (_( b_ZZ1 )_) New_JJ Procedure_NN1 DPW_NP1 licensing_NN1 -_- 
+review_NN1 of_IO residents_NN2 need_VV0 vs._II progra_NN1 (_( 6_MC )_) 
+Reduce_VV0 overcrowding/understaffI_FU n_ZZ1 (_( a_ZZ1 )_) Document_NN1 
+neglec_NN1 (_( b_ZZ1 )_) Expose_VV0 pub_NN1 Iicl_NN1 (_( c_ZZ1 )_) Federal_JJ 
+standards_NN2 adhered_VVD t_ZZ1 (_( d_ZZ1 )_) Tours_NN2 with_IW legislator_NN1 
+(_( e_ZZ1 )_) Pressure_NN1 DPW/Governo_NN1 Page_NN1 (_( 7_MC )_) Encourage_VV0 
+alternatives_NN2 -_- Group_NN1 Homes_NN2 /_FO Foster_NP1 Homes_NN2 /_FO 
+Community_NN1 Program_NN1 (_( a_ZZ1 )_) Push_VV0 DPW_NP1 for_IF 
+commitments_NN2 for_IF fund_NN1 (_( b_ZZ1 )_) Plan_VV0 for_IF areas_NN2 
+where_RRQ suburban_JJ BSUs_NN1 wont_NN1 serv_NN1 (_( c_ZZ1 )_) Write_VV0 
+only_JJ model_NN1 group_NN1 home_NN1 proposal_NN1 (_( d_ZZ1 )_) Encourage_VV0 
+others_NN2 to_TO come_VVI up_RP with_IW group_NN1 home_NN1 plan_NN1 (_( 8_MC 
+)_) Reduce_VV0 overmedicatin_NN1 (_( a_ZZ1 )_) Subcommittee_NN1 -_- study_NN1 
+(_( including_II physicians_NN2 (_( b_ZZ1 )_) Stand_VV0 on_II optimum_JJ 
+practice_NN1 (_( c_ZZ1 )_) Present_NN1 to_II DP_NP1 (_( 9_MC )_) Insure_VV0 
+residents_NN2 right_NN1 (_( a_ZZ1 )_) Take_VV0 stand_NN1 on_II restraints_NN2 
+,_, medication_NN1 ,_, quiet_JJ room_NN1 ,_, corporal_JJ punishmen_NN2 (_( 
+b_ZZ1 )_) Take_VV0 stand_NN1 on_II work_NN1 without_IW pa_NNU (_( c_ZZ1 )_) 
+Take_VV0 stand_NN1 on_II visiting_VVG and_CC communication_NN1 rules_NN2 (_( 
+telephone_NN1 (_( d_ZZ1 )_) Not_XX spend_VV0 day_NNT1 In_II one_MC1 settin_NN1 
+(_( e_ZZ1 )_) Freedoms_NN2 -_- choosing_VVG bedtime_NNT1 ,_, or_CC clothin_NN1 
+(_( 10_MC )_) Humanize_VV0 and_CC personalize_VV0 Institutio_NP1 (_( a_ZZ1 )_) 
+Statement_NN1 -_- Every_AT1 child_NN1 to_TO have_VHI personal_JJ belonging_VVG 
+(_( b_ZZ1 )_) Statement_NN1 -_- Every_AT1 child_NN1 to_TO have_VHI own_DA 
+clothe_NN1 (_( c_ZZ1 )_) Statement_NN1 -_- Semi-prlvate_VV0 rooms_NN2 at_II 
+private_JJ facilitie_NN1 (_( d_ZZ1 )_) Statement_NN1 -_- Reduce_VV0 
+bedroom_NN1 size_NN1 at_II state_NN1 facilitie_NN1 (_( 11_MC )_) Implement_VV0 
+Right_RR to_II Education_NN1 -_- Private_NNB Facilitie_NP1 (_( a_ZZ1 )_) 
+Allegheny_NP1 Valley_NP1 Schoo_NP1 (_( 1_MC1 )_) AVS_NN2 Board_VV0 -_- 
+presentatio_NN1 (_( 2_MC )_) Masters*_FO opinio_NN1 (_( 3_MC )_) License_VV0 
+revoke_NN1 (_( b_ZZ1 )_) Study_NN1 -_- degree_NN1 of_IO compliance_NN1 at_II 
+all_DB private_JJ facilitie_NN1 Page_NN1 (_( 12_MC )_) Implement_VV0 Right_RR 
+to_II Education_NN1 State_NN1 Institutions_NN2 ._. 
+(_( a_ZZ1 )_) Letter_NN1 to_II parents_NN2 on_II their_APPGE right_NN1 (_( 
+b_ZZ1 )_) Model_NN1 case_NN1 (_( c_ZZ1 )_) Pressure_NN1 Harrisbur_NN1 (_( 
+13_MC )_) Monitor/upgrade_VV0 facilitie_NN1 (_( a_ZZ1 )_) Monitor_VV0 each_DD1 
+facility_NN1 where_CS there_EX are_VBR Allegheny_NP1 County_NN1 childre_NN1 
+(_( b_ZZ1 )_) Monthly_JJ visits_NN2 to_II WSSH_NP1 and_CC Pol_NP1 (_( c_ZZ1 
+)_) Distribute_VV0 reports_NN2 widel_VV0 (_( d_ZZ1 )_) Gather_VV0 specific_JJ 
+data_NN for_IF Right_NN1 to_II Treatment_NN1 Sui_NN1 (_( 14_MC )_) Expand_VV0 
+citizen_NN1 involvement_NN1 at_II ACC-PAR_NP1 (_( a_ZZ1 )_) Involve_VV0 
+volunteer_NN1 (_( b_ZZ1 )_) Publicize_VV0 efforts_NN2 of_IO committee_NN1 (_( 
+ACCENTS_NN2 --5b3500fafafe80c4e920162ee973d975--_FU 

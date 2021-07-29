@@ -1,0 +1,28 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC telephone_NN1 :_: (_( 412_MC )_) 
+322_MC 600_MC VIRGINIA_NP1 J._NP1 THORNBURGH_NP1 RONALD_NP1 E._NP1 ARCHE_NP1 
+Chapter_NN1 President_NNB Executive_NP1 Directo_NP1 February_NPM1 27_MC ,_, 
+197_MC TO_II :_: Ginny_NP1 Thornburgh_NP1 ,_, Harry_NP1 Goldberg_NP1 ,_, 
+Norma_NP1 Mulgrave_NP1 ,_, Jean_NP1 Isherwood_NP1 ,_, Sally_NP1 Hollyfield_NP1 
+,_, Marlene_NP1 Burda_NP1 ,_, Charles_NP1 Robb_NP1 ,_, Jim_NP1 O'Connor_NP1 
+,_, Dan_NP1 Torisky_NP1 ,_, Peter_NP1 Polloni_NP1 ,_, Doug_NP1 Spencer_NP1 ,_, 
+Ronald_NP1 Arche_NP1 FROM_II :_: Robert_NP1 Nelkin_NP1 ,_, Associate_JJ 
+Executive_NN1 Directo_NP1 RE_NP1 :_: Justice_NN1 Department_NN1 's_GE 
+Information_NN1 from_II ACC-PAR_JJ Enclosed_JJ is_VBZ the_AT table_NN1 of_IO 
+contents_NN2 for_IF information_NN1 sent_VVN to_II both_DB2 the_AT 
+Pennsylvania_NP1 and_CC United_NP1 States_NP1 Justice_NN1 Departments_NN2 ._. 
+The_AT Pennsylvania_NP1 Justice_NN1 Department_NN1 is_VBZ investigating_VVG 
+conditions_NN2 at_II Western_NP1 ._. 
+The_AT United_NP1 States_NP1 Justice_NN1 Department_NN1 is_VBZ 
+investigating_VVG ,_, state-wide_RR ,_, the_AT conditions_NN2 to_TO extend_VVI 
+the_AT scope_NN1 of_IO the_AT Halderman_NN1 Right_NN1 to_II Treatment_NN1 
+Law_NN1 Suit_NN1 Please_RR review_VV0 your_APPGE files_NN2 to_TO see_VVI if_CS 
+we_PPIS2 've_VH0 neglected_VVN to_TO include_VVI any_DD valuable_JJ 
+documentation_NN1 ._. 
+Let_VV0 me_PPIO1 know_VVI if_CS we_PPIS2 should_VM submit_VVI additional_JJ 
+materials_NN2 RN_NP1 :_: c_ZZ1 MEMBER_NN1 UNIT_NN1 -_- National_JJ 
+Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, Inc_JJ PARTICIPANT_NN1 -_- 
+Allegheny_NP1 County_NN1 Mental_JJ Health/_NN1 Mental_JJ Retardation_NN1 
+Program_NN1 --a002db851c8306163747df92e4cfe21d--_FU 

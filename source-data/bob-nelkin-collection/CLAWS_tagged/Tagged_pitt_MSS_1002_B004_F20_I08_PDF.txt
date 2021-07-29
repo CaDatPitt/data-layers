@@ -1,0 +1,40 @@
+
+t_ZZ1 WEDNESDAY_NPD1 ,_, AfRIL_NP1 25_MC ,_, 1973_MC Association_NN1 Backs_VVZ 
+McClellan_NP1 Bans_NN2 Use_VV0 Post-Gozette_JJ Harrlsburo_NP1 Burea_NP1 
+HARRISBURGThe_NP1 association_NN1 of_IO State_NN1 Mental_JJ Hospital_NN1 
+Physicians_NN2 has_VHZ called_VVN for_IF the_AT reinstatement_NN1 of_IO 
+Dr._NNB Janies_NP1 McClelland_NP1 as_CSA superintendent_NN1 of_IO the_AT 
+Polk_NP1 State_NN1 School_NN1 an_AT1 Hospital_NN1 Meanwhile_RR Welfare_NN1 
+Secretary_NN1 Helen_NP1 Wohlgemuth_NP1 issued_VVD an_AT1 order_NN1 banning_VVG 
+the_AT use_NN1 of_IO locked_JJ cages_NN2 or_CC pens_NN2 for_IF the_AT 
+incarceration_NN1 of_IO residents_NN2 at_II all_DB other_JJ state_NN1 
+institution_NN1 under_II her_APPGE control_NN1 or_CC supervision_NN1 ._. 
+These_DD2 institutions_NN2 house_VV0 some_DD 40.000_MC residents_NN2 The_AT 
+use_NN1 of_IO five_MC feet_NN2 by_II fiv_NN1 feet_NN2 by_II five_MC feet_NN2 
+pens_NN2 at_II Polk_NP1 led_VVD to_II the_AT firing_NN1 last_MD week_NNT1 
+of_IO Dr._NNB McClelland_NP1 ._. 
+Mrs._NNB Wohlgemuth_NP1 said_VVD she_PPHS1 first_MD saw_VVD the_AT pens_NN2 
+in_II use_NN1 at_II Polk_NP1 during_II a_AT1 surprise_NN1 visit_NN1 to_II 
+the_AT Venango_NN1 County_NN1 institution_NN1 April_NPM1 14_MC The_AT 
+mental_JJ hospital_NN1 phjsi-cians_NN2 adopted_VVD a_AT1 resolution_NN1 
+supporting_VVG Dr._NNB McCelland_NP1 at_II a_AT1 meeting_NN1 here_RL ._. 
+The_AT organization_NN1 asked_VVD for_IF a_AT1 complete_JJ impartial_JJ 
+investigation_NN1 of_IO the_AT case_NN1 ._. 
+THE_AT RESOLUTION_NN1 ,_, sent_VVN to_II Gov_NN1 ._. 
+Shapp_VV0 ,_, said_VVD the_AT charge_NN1 that_CST Dr._NNB McCelland_NP1 
+permitted_VVD cruel_JJ ,_, degrading_VVG and_CC inhumane_JJ conditons_NN2 
+at_II Polk_NP1 are_VBR defaming_VVG of_IO his_APPGE known_JJ character_NN1 ,_, 
+his_APPGE personal_JJ and_CC professional_JJ integrity_NN1 ,_, his_PPGE 
+well_RR documented_VVN actions_NN2 in_II his_APPGE love_NN1 and_CC care_NN1 
+of_IO the_AT retarded_JJ patients_NN2 ,_, and_CC are_VBR in_II fact_NN1 
+without_IW sub-s_NN2 rance_NN1 ._. 
+The_AT resolutfoif*1_FO was_VBDZ auced_VVN by_II Dr._NNB Albert_NP1 G._NP1 
+Roodc_NP1 of_IO the_AT Polk_NP1 staff_NN ._. 
+It_PPH1 was_VBDZ passed_VVN unanimously_RR In_II her_APPGE directive_NN1 to_TO 
+top_VVI welfare_NN1 department_NN1 o_ZZ1 f_ZZ1 f_ZZ1 i_ZZ1 c_ZZ1 i_ZZ1 a_AT1 
+Is_VBZ ,_, Mrs._NNB Wohlgemuth_NP1 said_VVD she_PPHS1 did_VDD not_XX want_VVI 
+the_AT pens_NN2 used_VVN in_II any_DD institutions_NN2 for_IF which_DDQ the_AT 
+department_NN1 has_VHZ operational_JJ ,_, licensing_VVG ,_, approval_NN1 or_CC 
+supervisory_JJ powers_NN2 i_MC1 TU_NN1 I_MC1 $_NN zwi_NN2 A_ZZ1 v_ZZ1 IS_VBZ 
+n_ZZ1 Wohlgemuth_NP1 Acte_NP1 Too_RG Hastily_RR at_II Pol_NP1 I_PPIS1 was_VBDZ 
+disturbed_VVN by_II the_AT hasty_JJ 

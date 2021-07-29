@@ -1,0 +1,72 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc._JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC telephone_NN1 (_( 412_MC )_) 
+322_MC 600_MC BR_NP1 ROBERT_NP1 M._NN1 MATESIC_NN1 Chapter_NN1 Presiden_NP1 
+RONALD_NP1 E._NP1 ARCHER_NP1 Executive_NN1 Directo_NN1 June_NPM1 7_MC ,_, 
+197_MC Dear_JJ Friends_NP1 I_PPIS1 have_VH0 an_AT1 18_MC year_NNT1 old_JJ 
+son_NN1 who_PNQS requires_VVZ 24_MC hour_NNT1 a_AT1 day_NNT1 supervision_NN1 
+._. 
+The_AT choices_NN2 that_CST we_PPIS2 will_VM face_VVI in_II the_AT future_NN1 
+are_VBR not_XX satisfactory_JJ ._. 
+I_PPIS1 can_VM continue_VVI to_TO provide_VVI 24_MC hour_NNT1 a_AT1 day_NNT1 
+supervision_NN1 or_CC I_PPIS1 can_VM commit_VVI him_PPHO1 to_II an_AT1 
+understaffed_JJ ,_, overcrowded_JJ warehouse_NN1 where_CS he_PPHS1 will_VM 
+lead_VVI a_AT1 bleak_JJ existence_NN1 I_PPIS1 do_VD0 n't_XX like_VVI 
+either_DD1 choice_NN1 ._. 
+I_PPIS1 'd_VM like_VVI my_APPGE son_NN1 to_TO enjoy_VVI a_AT1 humane_JJ 
+existence_NN1 and_CC I_PPIS1 'd_VM like_VVI to_TO be_VBI free_JJ to_TO 
+live_VVI a_AT1 normal_JJ life_NN1 myself_PPX1 ._. 
+I_PPIS1 'd_VM like_VVI him_PPHO1 to_TO live_VVI close_VV0 by_RP so_CS21 
+that_CS22 I_PPIS1 can_VM watch_VVI out_RP for_IF problems_NN2 and_CC make_VVI 
+sure_JJ that_CST he_PPHS1 is_VBZ in_II the_AT kind_NN1 of_IO place_NN1 
+where_RRQ he_PPHS1 will_VM continue_VVI to_TO have_VHI a_AT1 decent_JJ 
+life_NN1 even_RR after_II the_AT family_NN1 is_VBZ gone_VVN On_II May_NPM1 
+24_MC ,_, 110_MC parents_NN2 met_VVN because_CS they_PPHS2 care_VV0 ,_, too_RR 
+,_, about_II where_RRQ their_APPGE kids_NN2 will_VM live_VVI when_RRQ 
+they_PPHS2 (_( parents_NN2 )_) die_VV0 ._. 
+We_PPIS2 found_VVD out_RP ,_, during_II the_AT meeting_NN1 ,_, that_CST 
+there_EX are_VBR parents_NN2 whose_DDQGE sons_NN2 and_CC daughters_NN2 
+need_VV0 a_AT1 residential_JJ placement_NN1 right_RR now_RT !_! 
+And_CC there_EX is_VBZ no_AT place-----no_JJ place----in_NN1 Allegheny_NP1 
+County_NN1 fo_NN1 these_DD2 children_NN2 and_CC adults_NN2 ._. 
+And_CC ,_, unless_CS we_PPIS2 get_VV0 involved_VVN ,_, there_EX will_VM be_VBI 
+no_AT place_NN1 in_II our_APPGE community_NN1 this_DD1 year_NNT1 or_CC 
+years_NNT2 to_TO come_VVI (_( when_CS our_APPGE need_NN1 may_VM be_VBI as_RG 
+serious_JJ )_) We_PPIS2 ,_, parents_NN2 ,_, sent_VVD a_AT1 petition_NN1 to_II 
+Secretary_NN1 of_IO Welfare_NN1 ,_, Frank_NP1 Beal_NP1 ,_, asking_VVG 
+him_PPHO1 to_TO meet_VVI with_IW us_PPIO2 ._. 
+Mr._NNB Beal_NP1 is_VBZ responsible_JJ for_IF the_AT development_NN1 of_IO 
+alternatives_NN2 to_II institutions_NN2 in_II the_AT state_NN1 ._. 
+We_PPIS2 plan_VV0 to_TO share_VVI with_IW Mr._NNB Beal_NP1 our_APPGE 
+present_NN1 and_CC future_JJ needs_NN2 and_CC our_APPGE concern_NN1 that_CST 
+there_EX is_VBZ no_AT place_NN1 for_IF our_APPGE sons/_FU daughters_NN2 to_TO 
+go_VVI ._. 
+We_PPIS2 will_VM ask_VVI him_PPHO1 when_CS there_EX will_VM be_VBI places_NN2 
+available_JJ in_II our_APPGE community_NN1 MEMBER_NN1 UNIT_NN1 -_- National_JJ 
+Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, Inc_JJ PARTICIPANT_NN1 
+Allegheny_NP1 County_NN1 Mental_JJ Health_NN1 -2_MC Mr._NNB Beal_NP1 has_VHZ 
+repeatedly_RR expressed_VVN the_AT states_NN2 preference_NN1 for_IF 
+mentally_RR retarded_JJ citizens_NN2 to_TO live_VVI and_CC learn_VVI in_II 
+their_APPGE home_NN1 community_NN1 ,_, rather_II21 than_II22 institutions_NN2 
+._. 
+Yet_RR ,_, Allegheny_NP1 County_NN1 received_VVD state_NN1 funds_NN2 to_TO 
+start_VVI only_RR one_MC1 group_NN1 home_RL last_MD year_NNT1 ._. 
+Next_MD year_NNT1 ,_, the_AT projection_NN1 is_VBZ that_CST Allegheny_NP1 
+County_NN1 will_VM get_VVI zero_NN1 ._. 
+We_PPIS2 do_VD0 nt_XX understand_VVI why_RRQ ._. 
+We_PPIS2 will_VM meet_VVI with_IW Mr._NNB Beal_NP1 at_II the_AT Downtown_JJ 
+Pittsburgh_NP1 Branch_NN1 of_IO the_AT YWCA_NP1 ,_, 4th_MD &; Wood_NN1 
+Streets_NN2 ,_, on_II Saturday_NPD1 morning_NNT1 ,_, June_NPM1 26th_MD ,_, 
+at_II 10:00_MC a.m_RA ._. 
+We_PPIS2 hope_VV0 you_PPY will_VM come_VVI ._. 
+Please_RR bring_VV0 other_JJ parents_NN2 and_CC friends_NN2 ._. 
+Call_VV0 and_CC invite_VV0 your_APPGE state_NN1 legislators_NN2 ._. 
+Get_VV0 up_RP and_CC tell_VV0 your_APPGE need_NN1 -whether_CSW your_APPGE 
+child_NN1 is_VBZ multiply_RR handicapped_VVN or_CC mildly_RR retarded_JJ -_- 
+whether_CSW your_APPGE need_NN1 is_VBZ immediate_JJ or_CC far_RR in_II the_AT 
+future_NN1 Do_VD0 n't_XX miss_VVI this_DD1 meeting_NN1 !_! 
+It_PPH1 will_VM affect_VVI your_APPGE son's/_FU daughter_NN1 's_GE future_JJ 
+Mary_NP1 Wilso_NP1 A_ZZ1 Fellow_JJ Paren_NN1 MW:c_FO MEETIN_NP1 SATURDAY_NPD1 
+,_, JUNE_NPM1 26T_FO 10:00_MC A.M_RA YWCA_NP1 ,_, DOWNTOWN_JJ PITTSBURGH_NP1 
+BRANC_NP1 ATH_NP1 8_MC WOOD_NP1 --2ecfd5d46e9450aeb4471da67d0ecad0--_FU 

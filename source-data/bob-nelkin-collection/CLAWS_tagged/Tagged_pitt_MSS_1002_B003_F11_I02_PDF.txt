@@ -1,0 +1,52 @@
+
+ROBERT_NP1 J._NP1 HILTNER_NN1 ,_, ACSW_NP1 SUPERINTENDEN_NP1 g_ZZ1 
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFAR_NN1 WESTERN_JJ STATE_NN1 SCHOOL_NN1 AND_CC HOSPITAL_NN1 333_MC 
+Curry_NP1 Hill_NNL1 Road_NN1 Canonsburg_NP1 ._. 
+Pennsylvania_NP1 1531_MC March_NPM1 24_MC ,_, 197_MC TELEPHON_NP1 AREA_NN1 
+CODE_NN1 412_MC ,_, 745-070_MCMC Representative_NN1 H._NP1 John_NP1 Heinz_NP1 
+III_MC 2031_MC Federal_JJ Building_NN1 Pittsburgh_NP1 ,_, pA_NN1 1522_MC 
+Dear_JJ Representative_NP1 Heinz_NP1 *_FU RE_NP1 :_: Pau_NP1 Pau_NP1 Thank_VV0 
+yo_UH Street_NN1 ,_, Pittsburg_NP1 for_IF your_APPGE of_IO Mr._NNB an_AT1 ,_, 
+P_ZZ1 letter_NN1 of_IO March6_FO Mrs._NNB George_NP1 15212_MC Our_APPGE 
+records_NN2 indicate_VV0 that_CST Paul_NP1 was_VBDZ first_MD referred_VVN 
+to_II Western_JJ State_NN1 School_NN1 May_NPM1 16_MC ,_, 1973_MC ._. 
+At_II that_DD1 time_NNT1 Paul_NP1 's_GE parents_NN2 were_VBDR not_XX 
+seeking_VVG admission_NN1 but_CCB ,_, rather_RR ,_, had_VHD made_VVN 
+application_NN1 in_II the_AT event_NN1 that_CST admission_NN1 was_VBDZ 
+required_VVN at_II a_AT1 later_JJR time_NNT1 On_II March_NPM1 5_MC ,_, 1975_MC 
+,_, we_PPIS2 received_VVD an_AT1 inquiry_NN1 from_II the_AT Northern_JJ 
+Communities_NN2 Mental_JJ Healtn/Mental_FU Retardation_NN1 Program_NN1 
+regarding_II the_AT possibility_NN1 of_IO admitting_VVG Paul_NP1 on_II 
+eigher_NN1 a_AT1 short_JJ or_CC long_JJ term_NN1 basis_NN1 ._. 
+Because_II21 of_II22 Western_JJ Stare_NN1 's_GE current_JJ condition_NN1 of_IO 
+overcrowding_VVG ,_, particularly_RR on_II our_APPGE residence_NN1 units_NN2 
+for_IF non-ambulatory_JJ residents_NN2 like_II Paul_NP1 ,_, it_PPH1 has_VHZ 
+been_VBN necessary_JJ for_IF us_PPIO2 to_TO offer_VVI our_APPGE assistance_NN1 
+in_II finding_VVG alternative_JJ placement_NN1 and_CC to_TO indicate_VVI 
+that_DD1 admission_NN1 to_II Western_NP1 was_VBDZ not_XX possible_JJ at_II 
+this_DD1 time_NNT1 ._. 
+I_PPIS1 might_VM add_VVI that_CST I_PPIS1 learned_VVD from_II our_APPGE 
+Social_JJ Service_NN1 Department_NN1 late_RR last_MD week_NNT1 that_CST 
+Paul_NP1 has_VHZ been_VBN admitted_VVN to_II Kane_NP1 Hospi_NP1 tai_NN2 
+It_PPH1 is_VBZ a_AT1 matter_NN1 of_IO some_DD concern_NN1 co_NN1 me_PPIO1 
+that_CST Mrs._NNB bH_NNU believes_VVZ that_DD1 P.A.R.C_NP1 ._. 
+wst_NNU to_TO hinder_VVI the_AT admission_NN1 son_NN1 ._. 
+I_PPIS1 fear_VV0 that_CST Mrs._NNB B_NP1 has_VHZ received_VVN erroneous_JJ 
+information_NN1 ._. 
+P.A.R.C_NP1 ._. 
+has_VHZ been_VBN quite_RG concerned_JJ ,_, as_CSA has_VHZ the_AT 
+administration_NN1 of_IO Western_JJ State_NN1 ,_, about_II the_AT 
+overcrowded_JJ conditions_NN2 which_DDQ exist_VV0 in_II our_APPGE 
+residence_NN1 units_NN2 for_IF our_APPGE most_RGT disabled_JJ residents_NN2 
+._. 
+Our_APPGE concern_NN1 regarding_II overcrowding_NN1 has_VHZ been_VBN 
+intensified_VVN because_II21 of_II22 the_AT fact_NN1 that_CST unless_CS 
+we_PPIS2 are_VBR able_JK to_TO reduce_VVI our_APPGE overcrowding_VVG our_APPGE 
+certification_NN1 for_IF Medicaid_NP1 is_VBZ in_II jeopardy_NN1 ._. 
+It_PPH1 is_VBZ because_II21 of_II22 the_AT concern_NN1 for_IF the_AT 
+health_NN1 and_CC safety_NN1 of_IO present_JJ residents_NN2 of_IO Western_JJ 
+State_NN1 that_CST both_DB2 P.A.R.C_NP1 ._. 
+and_CC Western_NP1 have_VH0 sought_VVN alternatives_NN2 to_II placement_NN1 
+at_II Western_NP1 for_IF individuals_NN2 like_II Paul_NP1 ._. 
+--70a53c3bdc9b9f897e9d107a55d12764--_FU 

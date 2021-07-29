@@ -1,0 +1,92 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFARE_NN1 HARRISBUR_NP1 FRANK_NP1 S._NP1 BEAL_NP1 SECRETAR_NP1 nc_NNU u_ZZ1 
+T_NP1 Each_DD1 year_NNT1 the_AT Governor_NN1 of_IO Pennsylvania_NP1 
+designates_VVZ November_NPM1 as_II Mental_JJ Retardation_NN1 Month_NNT1 ._. 
+This_DD1 year_NNT1 ,_, Governor_NNB Milton_NP1 J._NP1 Shapp_NP1 urged_VVD 
+all_DB citizens_NN2 of_IO the_AT Commonwealth_NN1 to_TO give_VVI full_JJ 
+support_NN1 to_II public_NN1 and_CC private_JJ efforts_NN2 to_TO provide_VVI 
+all_DB retarded_JJ individuals_NN2 with_IW the_AT best_JJT possible_JJ 
+opportunity_NN1 to_TO live_VVI and_CC work_VVI in_II their_APPGE 
+communities_NN2 ._. 
+In_II Pennsylvania_NP1 ,_, that_DD1 statement_NN1 is_VBZ not_XX a_AT1 
+formality_NN1 ._. 
+It_PPH1 is_VBZ the_AT goal_NN1 toward_II which_DDQ the_AT Department_NN1 of_IO 
+Public_JJ Welfares_NN2 programs_NN2 and_CC services_NN2 for_IF mentally_RR 
+retarded_JJ people_NN are_VBR striving_VVG Some_DD 365,000_MC 
+Pennsylvanians_NP2 are_VBR mentally_RR retarded_JJ ,_, approximately_RR 3_MC 
+per_NNU21 cent_NNU22 of_IO the_AT population_NN1 ._. 
+The_AT condition_NN1 causes_VVZ more_DAR disability_NN1 among_II children_NN2 
+than_CSN any_DD other_JJ physical_JJ or_CC mental_JJ abnormality_NN1 Until_CS 
+relatively_RR recent_JJ times_NNT2 ,_, mentally_RR retarded_JJ children_NN2 
+and_CC adults_NN2 were_VBDR often_RR hidden_VVN from_II viewsometimes_NNT2 
+in_II institutions_NN2 far_RR removed_VVN from_II their_APPGE home_NN1 
+communities_NN2 ;_; sometimes_RT in_II their_APPGE own_DA homes_NN2 by_II 
+parents_NN2 who_PNQS were_VBDR reluctant_JJ to_TO admit_VVI to_II having_VHG 
+a_AT1 mentally_RR retarded_JJ child_NN1 Mental_JJ Retardation_NN1 is_VBZ 
+found_VVN in_II every_AT1 community_NN1 ,_, in_II every_AT1 racial_JJ and_CC 
+ethnic_JJ group_NN1 ,_, among_II the_AT rich_JJ and_CC poor_JJ ,_, the_AT 
+educated_JJ and_CC the_AT uneducated_JJ ._. 
+Wherever_RRQV it_PPH1 is_VBZ found_VVN ,_, there_EX is_VBZ a_AT1 need_NN1 
+for_IF services_NN2 to_TO help_VVI the_AT mentally_RR retarded_JJ 
+individual_NN1 learn_VV0 the_AT skills_NN2 that_CST will_VM enable_VVI 
+him_PPHO1 or_CC her_PPHO1 to_TO live_VVI with_IW dignity_NN1 and_CC 
+self-respect_NN1 Today_RT ,_, many_DA2 of_IO the_AT stereotypes_NN2 about_II 
+mentally_RR retarded_JJ individuals_NN2 have_VH0 been_VBN eliminated_VVN ._. 
+We_PPIS2 know_VV0 that_CST the_AT vast_JJ majority_NN1 of_IO mentally_RR 
+retarded_JJ people_NN are_VBR able_JK to_TO live_VVI in_II the_AT 
+community_NN1 ,_, to_II work_NN1 ,_, to_TO learn_VVI ,_, and_CC to_TO 
+participate_VVI in_II social_JJ activities_NN2 This_DD1 issue_NN1 of_IO 
+Challenge_NN1 discusses_VVZ many_DA2 of_IO the_AT programs_NN2 and_CC 
+services_NN2 that_CST are_VBR helping_VVG mentally_RR retarded_JJ persons_NN2 
+and_CC their_APPGE families_NN2 ._. 
+In_II large_JJ measure_NN1 ,_, the_AT success_NN1 of_IO these_DD2 programs_NN2 
+depends_VVZ upon_II an_AT1 enlightened_JJ community_NN1 whose_DDQGE 
+citizens_NN2 are_VBR concerned_JJ and_CC responsive_JJ to_II the_AT needs_NN2 
+of_IO their_APPGE mentally_RR retarded_JJ neighbors_NN2 Frank_NP1 S._NP1 
+Bea_NP1 Secretar_NP1 DIRECTIONS_NN2 A_ZZ1 DIALOGUE_NN1 WIT_NN1 PETER_NP1 
+POLLON_NP1 (_( CHALLENGE_NN1 interviewed_VVD Peter_NP1 P._NP1 Polloni_NP1 ,_, 
+Deputy_NN1 Secretary_NN1 of_IO Mental_JJ Retardation_NN1 for_IF the_AT 
+Department_NN1 of_IO Public_JJ Welfare_NN1 ._. 
+Assuming_VVG his_APPGE duties_NN2 on_II March_NPM1 21_MC ,_, Mr._NNB 
+Polloni_NP1 brings_VVZ to_II his_APPGE position_NN1 an_AT1 extensive_JJ 
+background_NN1 and_CC experience_NN1 in_II the_AT field_NN1 of_IO mental_JJ 
+retardation_NN1 ._. 
+Mr._NNB Polloni_NP1 has_VHZ served_VVN as_CSA director_NN1 of_IO the_AT 
+Bucks_NP1 County_NN1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, 
+the_AT Montgomery_NP1 County_NN1 Association_NN1 for_IF Retarded_JJ 
+Citizens_NN2 and_CC the_AT Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Citizens_NN2 ._. 
+Mr._NNB Polloni_NP1 has_VHZ served_VVN as_II a_AT1 special_JJ advisor_NN1 
+to_II the_AT President_NN1 's_GE Committee_NN1 on_II Mental_JJ Retardation_NN1 
+and_CC on_II the_AT Governor_NN1 's_GE Task_NN1 Force_NN1 on_II the_AT 
+Right_NN1 to_II Education_NN1 ._. 
+CHALLENGE_VV0 :_: What_DDQ do_VD0 you_PPY see_VVI as_II the_AT most_RGT 
+important_JJ goal_NN1 for_IF the_AT Office_NN1 of_IO Mental_JJ Retardation_NN1 
+POLLONI_NP1 :_: I_PPIS1 see_VV0 the_AT prime_JJ objective_NN1 for_IF our_APPGE 
+office_NN1 at_II this_DD1 time_NNT1 as_II the_AT achievement_NN1 of_IO a_AT1 
+uniform_NN1 and_CC continuous_JJ delivery_NN1 system_NN1 to_TO serve_VVI 
+the_AT needs_NN2 of_IO each_DD1 mentally_RR retarded_JJ individual_NN1 with_IW 
+the_AT least_RGT restrictive_JJ and_CC most_RGT appropriate_JJ program_NN1 
+for_IF that_DD1 person_NN1 ._. 
+Thus_RR ,_, within_II a_AT1 well-organized_JJ system_NN1 ,_, each_DD1 
+person_NN1 can_VM move_VVI through_II programs_NN2 and_CC services_NN2 
+according_II21 to_II22 his/her_APPGE individual_NN1 needs_VVZ CHALLENGE_NN1 
+:_: What_DDQ steps_NN2 are_VBR needed_VVN to_TO help_VVI realize_VVI a_AT1 
+uniform_JJ system_NN1 for_IF mental_JJ retardation_NN1 services_NN2 in_II 
+Pennsylvania_NP1 POLLONI_NP1 :_: As_CSA stepping_VVG stones_NN2 to_II a_AT1 
+complete_JJ service_NN1 delivery_NN1 system_NN1 ,_, the_AT Office_NN1 of_IO 
+Mental_JJ Retardation_NN1 is_VBZ seeking_VVG the_AT passage_NN1 of_IO three_MC 
+major_JJ legislative_JJ programs_NN2 which_DDQ will_VM make_VVI available_JJ 
+the_AT most_RGT comprehensive_JJ services_NN2 The_AT first_MD is_VBZ the_AT 
+creation_NN1 of_IO an_AT1 Advisory_JJ Board_NN1 for_IF Mental_JJ 
+Retardation_NN1 ._. 
+This_DD1 board_NN1 which_DDQ will_VM have_VHI inherent_JJ within_II 
+itself_PPX1 a_AT1 strong_JJ expertise_NN1 in_II the_AT MR_NNB field_NN1 ,_, 
+will_VM be_VBI an_AT1 active_JJ working_JJ board_NN1 ._. 
+They_PPHS2 will_VM deal_VVI directly_RR with_IW the_AT main_JJ issues_NN2 
+arising_VVG in_II MR_NNB ._. 
+I_PPIS1 see_VV0 the_AT Board_NN1 working_VVG in_II an_AT1 integral_JJ way_NN1 
+with_IW the_AT staff_NN of_IO this_DD1 office_NN1 ._. 
+We_PPIS2 are_VBR seeking_VVG out_RP member_NN1 4_MC 
+--7ecabe127a4c6ded212886923639a25e--_FU 

@@ -1,0 +1,837 @@
+
+FOR_IF THE_AT EASTERN_JJ DISTRICT_NN1 OF_IO PENNSYLVANI_NP1 PENNSYLVANIA_NP1 
+ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 ,_, NANCY_NP1 BETH_NP1 
+BOWMAN_NP1 ,_, et_RA21 al_RA22 Plaintiff_NN1 v_II COMMONWEALTH_NN1 OF_IO 
+PENNSYLVANIA_NP1 ,_, :_: DAVID_NP1 H._NP1 KURTZMAN_NP1 ,_, et_RA21 al_RA22 
+CIVIL_JJ ACTIO_NP1 NO._NP1 71-4_MCMC Defendant_NN1 AMENDED_JJ CONSENT_NN1 
+AGREEMEN_NN2 The_AT Complaint_NN1 in_II this_DD1 action_NN1 having_VHG 
+been_VBN filed_VVN on_II January_NPM1 7_MC ,_, 1971_MC ,_, alleging_VVG the_AT 
+ancons_NN2 titutionality_NN1 of_IO certain_JJ Pennsylvania_NP1 statutes_NN2 
+and_CC practices_NN2 under_II the_AT Equal_JJ Protection_NN1 Clause_NN1 of_IO 
+the_AT Fourteenth_MD Amendment_NN1 and_CC certain_JJ pendent_JJ claims_NN2 ;_; 
+a_AT1 three-judge_JJ court_NN1 having_VHG been_VBN constituted_VVN ,_, 
+after_CS motion_NN1 ,_, briefing_VVG and_CC argument_NN1 thereon_RR ,_, on_II 
+May_NPM1 26_MC ,_, 1971_MC ;_; and_CC Order_NN1 and_CC Stipulation_NN1 
+having_VHG been_VBN entered_VVN on_II June_NPM1 18_MC ,_, 1971_MC ,_, 
+requiring_VVG notice_NN1 and_CC a_AT1 due_JJ process_NN1 hearing_VVG before_II 
+the_AT educational_JJ assignment_NN1 of_IO any_DD retarded_JJ child_NN1 may_VM 
+be_VBI changed_VVN ;_; and_CC evidence_NN1 having_VHG been_VBN received_VVN 
+at_II preliminary_JJ hearing_NN1 on_II August_NPM1 12_MC ,_, 197_MC The_AT 
+parties_NN2 being_VBG desirous_JJ of_IO effecting_VVG an_AT1 amicable_JJ 
+settlement_NN1 of_IO this_DD1 action_NN1 ,_, having_VHG entered_VVN into_II 
+a_AT1 Consent_NN1 Agreement_NN1 on_II October_NPM1 7_MC ,_, 1971_MC ,_, 
+approved_VVN by_II the_AT Court_NN1 on_II an_AT1 interim_JJ basis_NN1 that_DD1 
+day_NNT1 ,_, and_CC notic_JJ having_VHG been_VBN given_VVN to_II members_NN2 
+of_IO plaintiff_NN1 and_CC defendant_NN1 classes_NN2 and_CC certain_JJ 
+objections_NN2 having_VHG been_VBN raised_VVN by*_FO members_NN2 of_IO the_AT 
+classes_NN2 ,_, the_AT objections_NN2 having_VHG been_VBN heard_VVN ,_, and_CC 
+in_II the_AT particulars_NN2 set_VV0 forth_RR below_RL ,_, agreed_VVN to_II 
+,_, and_CC all_RR21 but_RR22 one_MC1 objection_NN1 having_VHG been_VBN 
+withdrawn_VVN by_II the_AT members_NN2 of_IO the_AT classes_NN2 NOW_RT ,_, 
+THEREFORE_RR ,_, the_AT parties_NN2 agree_VV0 thia_NN1 /_FO day_NNT1 of_IO 
+February_NPM1 ,_, 1972_MC ,_, subject_II21 to_II22 the_AT approval_NN1 and_CC 
+Order_NN1 of_IO this_DD1 Court_NN1 ,_, to_II the_AT following_JJ final_JJ 
+amended_JJ Consent_NN1 Agreement_NN1 1_MC1 ._. 
+This_DD1 action_NN1 may_VM and_CC hereby_RR shall_VM be_VBI maintained_VVN 
+by_II plaintiffs_NN2 as_II a_AT1 class_NN1 action_NN1 on_II31 behalf_II32 
+of_II33 all_DB mentally_RR retarded_JJ persons_NN2 ,_, residents_NN2 of_IO 
+the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 ,_, who_PNQS have_VH0 been_VBN 
+,_, are_VBR being_VBG ,_, or_CC may_VM be_VBI denied_VVN access_NN1 to_II 
+a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_NN1 
+while_CS they_PPHS2 are_VBR ,_, or_CC were_VBDR ,_, less_DAR than_CSN 
+twenty-one_MC years_NNT2 of_IO age_NN1 It_PPH1 is_VBZ expressly_RR 
+understood_VVN ,_, subject_II21 to_II22 the_AT provisions_NN2 of_IO 
+Paragraph_NN1 45_MC below_RL ,_, that_CST the_AT immediate_JJ relief_NN1 
+hereinafter_RR provided_VVN shall_VM be_VBI provided_VVN to_II those_DD2 
+persons_NN2 less_DAR than_CSN twenty-one_MC years_NNT2 of_IO age_NN1 as_II21 
+of_II22 the_AT date_NN1 of_IO the_AT Order_NN1 of_IO the_AT Court_NN1 
+herein_RR 2_MC ._. 
+This_DD1 action_NN1 may_VM and_CC hereby_RR shall_VM be_VBI maintained_VVN 
+again_RT defendant_NN1 school_NN1 districts_NN2 and_CC intermediate_JJ ._. 
+units_NN2 as_II a_AT1 class_NN1 action_NN1 against_II all_DB of_IO the_AT 
+School_NN1 Districts_NN2 and_CC Intermediate_JJ United_JJ of_IO the_AT Com_NN1 
+wealth_NN1 of_IO Pennsylvania_NP1 3_MC ._. 
+Pursuant_II21 to_II22 Rule_NN1 23_MC ,_, Fed_VVD ._. 
+R_ZZ1 ._. 
+Civ_MC ._. 
+P._NP1 ,_, notice_NN1 of_IO the_AT extent_NN1 of_IO the_AT Consent_NN1 
+Agreement_NN1 and_CC the_AT proposed_JJ Order_NN1 approving_VVG this_DD1 
+Consent_NN1 Agreement_NN1 ,_, in_II the_AT form_NN1 set_VVN out_RP in_II 
+Appendix_NN1 A_ZZ1 ,_, shall_VM be_VBI given_VVN as_CSA follows_VVZ (_( a_ZZ1 
+)_) to_II the_AT class_NN1 of_IO defendants_NN2 ,_, by_II the_AT Secretar_NN1 
+of_IO Education_NN1 ,_, by_II mailing_VVG immediately_RR a_AT1 copy_NN1 of_IO 
+this_DD1 proposed_JJ Order_NN1 and_CC Consent_NN1 Agreement_NN1 to_II the_AT 
+Superintendent_NN1 and_CC the_AT Director_NN1 of_IO Special_JJ Education_NN1 
+of_IO each_DD1 School_NN1 District_NN1 and_CC Intermediate_JJ Unit_NN1 in_II 
+the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 (_( b_ZZ1 )_) to_II the_AT 
+class_NN1 of_IO plaintiffs_NN2 ,_, (_( i_ZZ1 )_) by_II the_AT Pennsylvania_NP1 
+Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, by_II immediately_RR 
+mailing_VVG a_AT1 copy_NN1 of_IO this_DD1 proposed_JJ Order_NN1 and_CC 
+Consent_NN1 Agreement_NN1 to_II each_DD1 of_IO its_APPGE Chapters_NN2 in_II 
+fifty-four_MC counties_NN2 of_IO Pennsylvania_NP1 ;_; (_( ii_MC )_) by_II 
+the_AT Department_NN1 of_IO Justice_NN1 ,_, by_II causing_VVG an_AT1 
+advertisement_NN1 in_II the_AT form_NN1 set_VVN out_RP in_II Appendix_NN1 
+A_ZZ1 ,_, to_TO be_VBI placed_VVN i_ZZ1 one_MC1 newspaper_NN1 of_IO general_JJ 
+circulation_NN1 in_II each_DD1 County_NN1 in_II the_AT Commonwealth_NN1 ,_, 
+and_CC (_( iii_MC )_) by_II delivery_NN1 of_IO a_AT1 joint_JJ press_NN1 
+release_NN1 of_IO the_AT parties_NN2 to_II the_AT television_NN1 and_CC 
+radio_NN1 stations_NN2 ,_, newspapers_NN2 ,_, and_CC wire_NN1 services_NN2 
+in_II the_AT Commonwealth_NN1 II_MC 4_MC ._. 
+Expert_NN1 testimony_NN1 in_II this_DD1 action_NN1 indicates_VVZ that_CST 
+all_DB mentally_RR retarded_JJ persons_NN2 are_VBR capable_JJ of_IO 
+benefiting_VVG from_II a_AT1 program_NN1 of_IO education_NN1 and_CC 
+training_NN1 ;_; that_CST the_AT greatest_JJT number_NN1 of_IO retarded_JJ 
+persons_NN2 ,_, given_JJ suc_NN1 education_NN1 and_CC training_NN1 ,_, are_VBR 
+capable_JJ of_IO achieving_VVG self-sufficiency_NN1 ,_, and_CC th_NNU 
+remaining_VVG few_DA2 ,_, with_IW such_DA education_NN1 and_CC training_NN1 
+,_, are_VBR capable_JJ of_IO achieving_VVG some_DD degree_NN1 of_IO 
+self-care_NN1 ;_; that_CST the_AT earlier_JJR such_DA education_NN1 and_CC 
+training_NN1 b'dgins_NN2 ,_, the_AT more_RGR thoroughly_RR and_CC the_AT 
+more_RGR efficiently_RR a_AT1 mentally_RR retarded_JJ person_NN1 will_VM 
+benefit_VVI from_II it_PPH1 ;_; and_CC ,_, whether_CSW begun_VVN early_RR 
+or_CC not_XX ,_, that_CST a_AT1 mentally_RR retarded_JJ person_NN1 can_VM 
+benefit_VVI at_II any_DD point_NN1 in_II his_APPGE life_NN1 and_CC 
+development_NN1 from_II a_AT1 program_NN1 of_IO education_NN1 and_CC 
+training_NN1 5_MC ._. 
+The_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 has_VHZ undertaken_VVN to_TO 
+provide_VVI a_AT1 free_JJ public_JJ education_NN1 to_II all_DB of_IO its_APPGE 
+children_NN2 between_II the_AT ages_NN2 of_IO six_MC and_CC twenty-one_MC 
+years_NNT2 ,_, and_CC further_RRR ,_, has_VHZ undertaken_VVN to_TO provide_VVI 
+education_NN1 and_CC training_NN1 for_IF all_DB of_IO its_APPGE mentally_RR 
+retarded_JJ children_NN2 6_MC ._. 
+Having_VHG undertaken_VVN to_TO provide_VVI a_AT1 free_JJ public_JJ 
+education_NN1 t_ZZ1 all_RR of_IO its_APPGE children_NN2 ,_, including_II 
+its_APPGE mentally_RR retarded_JJ children_NN2 ,_, the_AT Commonwealt'_NP1 :_: 
+of_IO Pennsylvania_NP1 may_VM not_XX deny_VVI any_DD mentally_RR retarded_JJ 
+child_NN1 access_NN1 to_II a_AT1 free_JJ public_JJ program_NN1 of_IO 
+education_NN1 and_CC training_NN1 7_MC ._. 
+It_PPH1 is_VBZ the_AT Commonwealths_NN2 obligation_NN1 to_TO place_VVI 
+each_DD1 mentally_RR retarded_JJ child_NN1 in_II a_AT1 free_JJ ,_, public_JJ 
+program_NN1 of_IO education_NN1 and_CC training_NN1 appropriat_NN1 I_ZZ1 j_ZZ1 
+to_II the_AT child_NN1 's_GE capacity_NN1 ,_, within_II the_AT context_NN1 
+of_IO the_AT general_JJ educational_JJ policy_NN1 that_CST ,_, among_II the_AT 
+alternative_JJ programs_NN2 of_IO education_NN1 and_CC training_NN1 
+required_VVN by_II statute_NN1 to_TO be_VBI available_JJ ,_, placement_NN1 
+in_II a_AT1 regular_JJ public_JJ school_NN1 class_NN1 is_VBZ preferable_JJ 
+to_II placement_NN1 in_II a_AT1 special_JJ public_JJ school_NN1 class_NN1 
+and_CC placement_NN1 ir_NN1 *i_FO special_JJ public_JJ school_NN1 class_NN1 
+is_VBZ preferable_JJ to_II placement_NN1 in_II any_DD other_JJ type_NN1 of_IO 
+program_NN1 of_IO education_NN1 and_CC training_NN1 -4_MC Il_FW Section_NN1 
+130_MC 8_MC ._. 
+Section_NN1 1304_MC of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, as_CSA 
+amended_VVN ,_, 2_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1304_MCMC ,_, provides_VVZ 'dmission_NN1 of_IO begitiner_JJR 
+The_AT admission_NN1 of_IO beginners_NN2 to_II the_AT public_JJ schools_NN2 
+shall_VM be_VBI confined_VVN to_II the_AT first_MD two_MC weeks_NNT2 of_IO 
+the_AT annual_JJ school_NN1 term_NN1 in_II districts_NN2 operating_VVG on_II 
+an_AT1 annual_JJ promotion_NN1 basis_NN1 ,_, and_CC to_II the_AT first_MD 
+two_MC weeks_NNT2 of_IO either_RR the_AT first_MD or_CC the_AT second_MD 
+semester_NN1 of_IO the_AT school_NN1 term_NN1 to_II districts_NN2 
+operating_VVG on_II a_AT1 semi-annual_JJ promotion_NN1 basis_NN1 ._. 
+Admission_NN1 shall_VM be_VBI limited_VVN to_II beginners_NN2 who_PNQS 
+have_VH0 attained_VVN the_AT age_NN1 of_IO five_MC years_NNT2 and_CC seven_MC 
+months_NNT2 before_II the_AT first_MD day_NNT1 of_IO September_NPM1 if_CS 
+they_PPHS2 are_VBR to_TO be_VBI admitted_VVN in_II the_AT fall_NN1 ,_, and_CC 
+to_II those_DD2 who_PNQS have_VH0 attained_VVN the_AT age_NN1 of_IO five_MC 
+years_NNT2 and_CC seven_MC months_NNT2 before_II the_AT first_MD day_NNT1 
+of_IO February_NPM1 if_CS they_PPHS2 are_VBR to_TO be_VBI admitted_VVN at_II 
+the_AT beginning_NN1 of_IO the_AT second_MD semester_NN1 ._. 
+The_AT boar.d_NNU of_IO school_NN1 directors_NN2 of_IO any_DD school_NN1 
+district_NN1 may_VM admit_VVI beginners_NN2 who_PNQS are_VBR less_DAR than_CSN 
+five_MC years_NNT2 and_CC seven_MC months_NNT2 of_IO age_NN1 ,_, in_II31 
+accordance_II32 with_II33 standards_NN2 prescribed_VVN by_II the_AT State_NN1 
+Board_NN1 of_IO Education_NN1 ._. 
+The_AT board_NN1 of_IO school_NN1 directors_NN2 may_VM refuse_VVI to_TO 
+accept_VVI or_CC retain_VVI beginners_NN2 who_PNQS have_VH0 not_XX 
+attained_VVN a_AT1 mental_JJ age_NN1 of_IO five_MC years_NNT2 ,_, as_CSA 
+determined_VVN by_II the_AT supervisor_NN1 of_IO special_JJ education_NN1 
+or_CC a_AT1 properly_RR certificated_VVD public_JJ school_NN1 psychologist_NN1 
+in_II31 accordance_II32 with_II33 standards_NN2 prescribed_VVN by_II the_AT 
+State_NN1 Board_NN1 of_IO Education_NN1 The_AT term_NN1 'beginners_NN2 ,_, 
+as_CSA used_VVN in_II this_DD1 section_NN1 ,_, shall_VM mean_VVI any_DD 
+child_NN1 that_CST should_VM enter_VVI the_AT lowest_JJT grade_NN1 of_IO 
+the_AT primary_JJ school_NN1 ,_, or_CC the_AT lowest_JJT primary_JJ class_NN1 
+above_II the_AT kindergarten_NN1 level_NN1 ._. 
+9_MC ._. 
+The_AT Secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 of_IO 
+Education_NN1 ,_, the_AT named_JJ School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 ,_, each_DD1 of_IO them_PPHO2 ,_, for_IF 
+themselves_PPX2 ,_, their_APPGE officers_NN2 ,_, employees_NN2 ,_, agents_NN2 
+,_, and_CC successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI 
+and_CC desist_VVI from_II applying_VVG Section_NN1 1304_MC so_BCL21 as_BCL22 
+to_TO post_NN1 pone_NN1 or_CC In_II any_DD way_NN1 to_TO deny_VVI access_NN1 
+to_II a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC 
+training_NN1 to_II any_DD mentally_RR retarded_JJ child_NN1 10_MC ._. 
+The_AT Attorney_NN1 General_JJ of_IO the_AT Commonwealth_NN1 of_IO 
+Pennsylvania_NP1 (_( hereinafter_RR "_" The_AT Attorney_NN1 General_JJ "_" )_) 
+agrees_VVZ to_TO issue_VVI an_AT1 Opinion_NN1 declaring_VVG that_DD1 
+Section_NN1 1304_MC means_VVZ only_RR that_CST a_AT1 school_NN1 district_NN1 
+may_VM refuse_VVI to_TO accept_VVI into_II or_CC to_TO retain_VVI in_II the_AT 
+lowest_JJT grade_NN1 of_IO the_AT regular_JJ primary_JJ school_NN1 or_CC 
+the_AT lowest_JJT regular_JJ primary_JJ class_NN1 above_II the_AT 
+kindergarten_NN1 level_NN1 ,_, any_DD child_NN1 who_PNQS has_VHZ not_XX 
+attained_VVN a_AT1 mental_JJ age_NN1 of_IO five_MC years_NNT2 11_MC ._. 
+The_AT Attorney_NN1 General_JJ of_IO the_AT Commonwealth_NN1 of_IO 
+Pennsylvania_NP1 shall_VM issue_VVI an_AT1 Opinion_NN1 thus_RR construing_VVG 
+Section_NN1 1304_MC ,_, and_CC the_AT State_NN1 Boar_NN1 of_IO Education_NN1 
+(_( hereinafter_RR "_" the_AT Board_NN1 "_" )_) shall_VM issue_VVI 
+regulations_NN2 to_TO implement_VVI said_JJ construction_NN1 and_CC to_TO 
+supersede_VVI Sections_NN2 5-200_MCMC of_IO the_AT Pupil_NN1 Attendanc_NP1 
+Regulations_NN2 ,_, copies_NN2 of_IO which_DDQ Opinion_NN1 and_CC 
+Regulations_NN2 shall_VM be_VBI filed_VVN with_IW the_AT Court_NN1 and_CC 
+delivered_VVN to_TO counsel_VVI for_IF plaintiffs_NN2 on_II or_CC before_II 
+February_NPM1 28_MC 1972_MC ,_, and_CC they_PPHS2 shall_VM be_VBI issued_VVN 
+and_CC promulgated_VVN respectively_RR on_II or_CC before_II March_NPM1 8_MC 
+,_, 1972_MC 12_MC ._. 
+The_AT aforementioned_JJ Opinion_NN1 and_CC Regulations_NN2 shal_JJ (_( a_ZZ1 
+)_) provide_VV0 for_IF notice_NN1 and_CC an_AT1 opportunity_NN1 for_IF a_AT1 
+hearing_NN1 as_CSA set_VVN out_RP i_MC1 this_DD1 Court_NN1 's_GE Order_NN1 
+of_IO June_NPM1 18_MC ,_, 1971_MC ,_, as_CSA amended_VVN ,_, before_CS a_AT1 
+child_NN1 's_GE admission_NN1 as_II a_AT1 beginner_NN1 in_II the_AT lowest_JJT 
+grade_NN1 ;_; of_IO a_AT1 regular_JJ primary_JJ school_NN1 ,_, or_CC the_AT 
+lowest_JJT regular_JJ primary_JJ class_NN1 above_II kindergarten_NN1 ,_, 
+may_VM be_VBI postponed_VVN (_( b_ZZ1 )_) require_VV0 the_AT automatic_JJ 
+re-evaluation_NN1 every_AT1 two_MC years_NNT2 of_IO any_DD educational_JJ 
+assignment_NN1 other_II21 than_II22 to_II a_AT1 regular_JJ class_NN1 ,_, 
+and_CC (_( c_ZZ1 )_) provide_VV0 for_IF an_AT1 annual_JJ re-evaluation_NN1 
+at_II the_AT request_NN1 of_IO the_AT child_NN1 's_GE parent_NN1 or_CC 
+guardian_NN1 and_CC (_( d_ZZ1 )_) provide_VV0 upon_II each_DD1 such_DA 
+re-evaluation_NN1 that_CST the_AT school_NN1 district_NN1 or_CC 
+intermediate_JJ unit_NN1 shall_VM give_VVI notice_NN1 and_CC an_AT1 
+opportunity_NN1 for_IF a_AT1 hearing_NN1 as_CSA set_VVN out_RP in_II this_DD1 
+Court_NN1 's_GE Order_NN1 of_IO June_NPM1 18_MC ,_, 1971_MC ,_, as_CSA 
+amended_VVN ,_, on_II the_AT findings_NN2 of_IO the_AT re-evaluation_NN1 
+and_CC the_AT appropriateness_NN1 of_IO the_AT educational_JJ assignment_NN1 
+based_VVN thereon_RR ._. 
+As_CSA used_VVN herein_RR and_CC throughout_II this_DD1 Agreement_NN1 the_AT 
+term_NN1 "_" re-evaluation_NN1 "_" contemplates_VVZ that_DD1 degree_NN1 of_IO 
+analysis_NN1 and_CC investigation_NN1 necessary_JJ to_TO make_VVI a_AT1 
+sound_NN1 judgment_NN1 as_II21 to_II22 the_AT appropriateness_NN1 of_IO the_AT 
+educational_JJ assignment_NN1 of_IO the_AT child_NN1 thought_VVD to_TO be_VBI 
+mentally_RR retarded_JJ ,_, which_DDQ in_II some_DD instances_NN2 ,_, may_VM 
+involve_VVI reviewing_VVG existing_JJ cumulative_JJ data_NN and_CC 
+documentation_NN1 or_CC ,_, in_II other_JJ instances_NN2 may_VM involve_VVI 
+comprehensive_JJ psycho-educational_JJ testing_NN1 13_MC ._. 
+The_AT aforementioned_JJ Opinion_NN1 and_CC Regulations_NN2 shall_VM also_RR 
+require_VVI the_AT timely_JJ placement_NN1 of_IO any_DD child_NN1 whose_DDQGE 
+admission_NN1 to_II regular_JJ primary_JJ school_NN1 or_CC to_II the_AT 
+lowest_JJT regular_JJ primary_JJ class_NN1 above'_NN1 kinder-garten_NN1 is_VBZ 
+postponed_VVN ,_, or_CC who_PNQS is_VBZ not_XX retained_VVN in_II such_DA 
+school_NN1 or_CC class_NN1 in_II a_AT1 free_JJ public_JJ program_NN1 of_IO 
+education_NN1 and_CC training_NN1 pursuant_II21 to_II22 Sections_NN2 1371_MC 
+through_II 1382_MC of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, as_CSA 
+amended_VVN 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1371_MCMC through_II Sec._NNU 13-1382_MCMC Section_NN1 132_MC 
+14_MC ._. 
+Section_NN1 1326_MC of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, as_CSA 
+amended_VVN 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-_NN1 1326_MC ,_, provides_VVZ 'Definition_NN1 The_AT term_NN1 
+'compulsory_JJ school_NN1 age_NN1 ,_, '_GE as_RG hereinafter_RR used_VVN 
+shall_VM mean_VVI the_AT period_NN1 of_IO a_AT1 child_NN1 's_GE life_NN1 
+from_II the_AT time_NNT1 the_AT child_NN1 's_GE parents_NN2 elect_VV0 to_TO 
+have_VHI the_AT child_NN1 enter_VV0 school_NN1 ,_, which_DDQ shall_VM be_VBI 
+not_XX later_RRR than_CSN at_II the_AT age_NN1 of_IO eight_MC (_( 8_MC )_) 
+years_NNT2 ,_, until_CS the_AT age_NN1 of_IO seventeen_MC (_( 17_MC )_) 
+years_NNT2 ._. 
+The_AT term_NN1 shall_VM not_XX include_VVI any_DD child_NN1 who_PNQS 
+holds_VVZ a_AT1 certificate_NN1 of_IO graduation_NN1 from_II a_AT1 
+regularly_RR accredited_JJ senior_JJ high_JJ school_NN1 ._. 
+-7_MC 15_MC ._. 
+The_AT Secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 of_IO 
+Education_NN1 ,_, the_AT named_JJ School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 ,_, each_DD1 of_IO them_PPHO2 ,_, for_IF 
+themselves_PPX2 ,_, their_APPGE officers_NN2 ,_, employees_NN2 ,_, agents_NN2 
+and_CC successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI and_CC 
+desist_VVI from_II applying_VVG Section_NN1 1326_MC s_ZZ1 as_II21 to_II22 
+postpone_VV0 ,_, to_TO terminate_VVI ,_, or_CC in_II any_DD way_NN1 to_TO 
+deny_VVI access_NN1 to_II a_AT1 free_JJ public_JJ program_NN1 of_IO 
+education_NN1 and_CC training_NN1 to_II any_DD mental_JJ ly_RR retarded_JJ 
+child_NN1 16_MC ._. 
+The_AT Attorney_NN1 General_JJ agrees_VVZ to_TO issue_VVI an_AT1 Opinion_NN1 
+declaring_VVG that_DD1 Section_NN1 1326_MC means_VVZ only_RR that_CST 
+parents_NN2 of_IO a_AT1 child_NN1 have_VH0 a_AT1 compulsory_JJ duty_NN1 
+while_CS the_AT child_NN1 is_VBZ between_II eight_MC and_CC seventeen_MC 
+years_NNT2 of_IO age_NN1 to_TO assure_VVI his_APPGE attendance_NN1 in_II a_AT1 
+program_NN1 of_IO education_NN1 and_CC training_NN1 ;_; and_CC Section_NN1 
+1326_MC does_VDZ not_XX limit_VVI the_AT ages_NN2 between_II which_DDQ a_AT1 
+child_NN1 mus_NN2 be_VBI granted_VVN access_NN1 to_II a_AT1 free_JJ ,_, 
+public_JJ program_NN1 of_IO education_NN1 and_CC training_NN1 ._. 
+Defendants_NN2 are_VBR bound_VVN by_II Section_NN1 1301_MC of_IO the_AT 
+School_NN1 Code_NN1 of_IO 1949_MC ,_, 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1301_MCMC ,_, to_TO provide_VVI free_JJ public_JJ education_NN1 
+to_II all_DB children_NN2 six_MC to_II twenty-one_MC years_NNT2 of_IO age_NN1 
+._. 
+In_II the_AT event_NN1 that_CST a_AT1 parent_NN1 elects_VVZ to_TO exercise_VVI 
+the_AT right_NN1 of_IO a_AT1 child_NN1 six_MC through_II eight_MC years_NNT2 
+and/or_CC seventeen_MC through_II twenty-one_MC years_NNT2 of_IO age_NN1 to_II 
+a_AT1 free_JJ public_JJ education_NN1 ,_, defendants_NN2 may_VM not_XX 
+deny_VVI such_DA child_NN1 access_NN1 to_II a_AT1 program_NN1 of_IO 
+education_NN1 and_CC training_NN1 ._. 
+Furthermore_RR ,_, if_CS a_AT1 parent_NN1 does_VDZ not_XX discharge_VVI the_AT 
+duty_NN1 of_IO compulsory_JJ attendance_NN1 with_II31 regard_II32 to_II33 
+any_DD mentally_RR retarded_JJ child_NN1 between_II eight_MC and_CC 
+seventeen_MC years_NNT2 of_IO age_NN1 ,_, defendants_NN2 must_VM and_CC 
+shall_VM take_VVI those_DD2 steps_NN2 necessary_JJ to_TO compel_VVI the_AT 
+child_NN1 's_GE attendance_NN1 pursuant_II21 to_II22 Section_NN1 1327_MC of_IO 
+the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-_NN1 1327_MC ,_, and_CC related_JJ provisions_NN2 of_IO the_AT 
+School_NN1 Code_NN1 ,_, and_CC to_II the_AT relevant_JJ regulations_NN2 
+with_II31 regard_II32 to_II33 compulsory_JJ attendance_NN1 promulgated_VVN 
+by_II the_AT Bo._NP1 *_FU rd_NN1 -8_MC 17_MC ._. 
+The_AT Attorney_NN1 General_JJ shall_VM issue_VVI an_AT1 Opinion_NN1 thu_NN1 
+construing_VVG Section_NN1 1326_MC ,_, and_CC related_JJ Sections_NN2 ,_, 
+and_CC the_AT Board_NN1 shal_JJ promulgate_NN1 Regulations_NN2 to_TO 
+implement_VVI said_JJ construction_NN1 ,_, copies_NN2 o_ZZ1 which_DDQ 
+Opinion_NN1 and_CC Regulations_NN2 shall_VM be_VBI filed_VVN with_IW the_AT 
+Court_NN1 and_CC delivered_VVN to_II plaintiffs*_FO counsel_VV0 on_II or_CC 
+before_II February_NPM1 28_MC ,_, 1972_MC ,_, and_CC they_PPHS2 shall_VM 
+be_VBI issued_VVN and_CC promulgated_VVN respectively_RR on_II or_CC before_II 
+March_NPM1 8_MC ,_, 1972_MC Section_NN1 1330_MC (_( 2_MC 18_MC ._. 
+Section_NN1 1330_MC (_( 2_MC )_) of_IO the_AT School_NN1 Code_NN1 of_IO 
+1949_MC ,_, as_CSA amended_VVN 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1330_MCMC (_( 2_MC )_) provides_VVZ Exceptions_NN2 to_II 
+compulsory_JJ attendance_NN1 The_AT provisions_NN2 of_IO this_DD1 action_NN1 
+requiring_VVG regular_JJ attendance_NN1 shall_VM not_XX apply_VVI to_II any_DD 
+child_NN1 who_PNQS (_( 2_MC )_) Has_VHZ been_VBN examined_VVN by_II an_AT1 
+approved_JJ mental_JJ clinic_NN1 or_CC by_II a_AT1 person_NN1 certified_VVN 
+as_II a_AT1 public_JJ school_NN1 psychologist_NN1 or_CC psychological_JJ 
+examiner_NN1 ,_, and_CC has_VHZ been_VBN found_VVN to_TO be_VBI unable_JK 
+to_TO profit_VVI from_II further_JJR public_JJ school_NN1 attendance_NN1 ,_, 
+and_CC who_PNQS has_VHZ been_VBN reported_VVN to_II the_AT board_NN1 of_IO 
+school_NN1 directors_NN2 and_CC excused_VVD ,_, in_II31 accordance_II32 
+with_II33 regulations_NN2 prescribed_VVN by_II the_AT State_NN1 Board_NN1 ;_; 
+of_IO Education_NN1 ._. 
+19_MC ._. 
+The_AT Secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 o_ZZ1 
+Education_NN1 ,_, the_AT named_JJ School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 each_DD1 of_IO them_PPHO2 ,_, for_IF themselves_PPX2 
+,_, their_APPGE officers_NN2 ,_, employees_NN2 ,_, agents_NN2 and_CC 
+successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI and_CC 
+desist_VVI from_II applyin_NN1 Section_NN1 1330_MC (_( 2_MC )_) so_BCL21 
+as_BCL22 to_TO terminate_VVI or_CC in_II any_DD way_NN1 to_TO deny_VVI 
+access_NN1 to_II a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 
+and_CC training_NN1 to_II any_DD mentally_RR retarded_JJ child_NN1 -9_MC 20_MC 
+._. 
+The_AT Attorney_NN1 General_JJ agrees_VVZ to_TO issue_VVI an_AT1 Opinion_NN1 
+declaring_VVG that_DD1 Section_NN1 1330(2)_FO means_VVZ only_RR that_CST a_AT1 
+parent_NN1 may_VM be_VBI excused_VVN from_II liability_NN1 under_II the_AT 
+compulsory_JJ attendance_NN1 provisions_NN2 of_IO the_AT School_NN1 Code_NN1 
+when_RRQ ,_, with_IW the_AT approval_NN1 of_IO the_AT local_JJ school_NN1 
+board_NN1 and_CC the_AT Secretary_NN1 of_IO Education_NN1 and_CC a_AT1 
+finding_NN1 by_II an_AT1 approved_JJ clini_NN2 or_CC public_JJ school_NN1 
+psychologist_NN1 or_CC psychological_JJ examiner_NN1 ,_, the_AT parent_NN1 
+elects_VVZ to_TO withdraw_VVI the_AT child_NN1 from_II attendance_NN1 ._. 
+Section_NN1 1330(2)_FO may_VM not_XX be_VBI invoked_VVN by_II defendants_NN2 
+,_, contrary_II21 to_II22 the_AT parents_NN2 '_GE wishes_NN2 ,_, to_TO 
+terminate_VVI or_CC in_II any_DD way_NN1 to_TO deny_VVI access_NN1 to_II a_AT1 
+free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_NN1 to_II 
+any_DD mentally_RR retarded_JJ child_NN1 21_MC ._. 
+The_AT Attorney_NN1 General_JJ shall_VM issue_VVI an_AT1 Opinion_NN1 so_RG 
+construing_JJ Section_NN1 1330(2)_FO and_CC related_JJ provisions_NN2 and_CC 
+the_AT Board_NN1 shall_VM promulgate_VVI Regulations_NN2 to_TO implement_VVI 
+said_JJ construction_NN1 and_CC to_TO supersede_VVI Section_NN1 5-400_MCMC 
+of_IO the_AT Pupil_NN1 Attendance_NN1 Regulation_NN1 ,_, a_AT1 copy_NN1 of_IO 
+which_DDQ Opinion_NN1 and_CC Regulations_NN2 shall_VM be_VBI filed_VVN with_IW 
+the_AT Court_NN1 and_CC delivered_VVN to_TO counsel_VVI for_IF plaintiff_NN1 
+on_II or_CC before_II February_NPM1 28_MC ,_, 1972_MC ,_, and_CC they_PPHS2 
+shall_VM be_VBI issued_VVN and_CC promulgated_VVN respectively_RR on_II or_CC 
+before_II March_NPM1 8_MC ,_, 1972_MC Pre-School_JJ Educatio_NP1 22_MC ._. 
+Defendants_NN2 ,_, the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 ,_, the_AT 
+Secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 of_IO 
+Education_NN1 ,_, the_AT named_JJ School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 ,_, and_CC the_AT Secretary_NN1 of_IO Public_JJ 
+Welfare_NN1 -10_MC each_DD1 of_IO them_PPHO2 ,_, for_IF themselves_PPX2 ,_, 
+their_APPGE officers_NN2 ,_, employees_NN2 ,_, agents_NN2 ,_, and_CC 
+successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI and_CC 
+desist_VVI from_II applying_VVG Section_NN1 1371(1)_FO of_IO the_AT School_NN1 
+Code_NN1 of_IO 1949_MC ,_, as_CSA amended_VVN ,_, 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1371(1)_NN1 so_RR as_CSA tc_NNU deny_VV0 access_NN1 to_II a_AT1 
+free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_NN1 to_II 
+any_DD mentally_RR retarded_JJ child_NN1 ,_, and_CC they_PPHS2 further_VV0 
+agree_VV0 that_CST wherever_RRQV the_AT Department_NN1 of_IO Education_NN1 
+through_II its_APPGE instrumentalities_NN2 ,_, the_AT School_NN1 Districts_NN2 
+and_CC Intermediate_JJ Units_NN2 ,_, or_CC the_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 through_II any_DD of_IO its_APPGE instrumentalities_NN2 
+provides_VVZ a_AT1 pre-school_JJ program_NN1 of_IO regular_JJ education_NN1 
+and_CC training_NN1 to_II children_NN2 below_II the_AT age_NN1 of_IO six_MC 
+,_, they_PPHS2 shall_VM also_RR provide_VVI a_AT1 program_NN1 of_IO 
+education_NN1 and_CC training_VVG appropriate_JJ to_II their_APPGE 
+learning_NN1 capacities_NN2 to_II all_DB retarded_JJ children_NN2 of_IO the_AT 
+same_DA age_NN1 23_MC ._. 
+Section_NN1 1371(1)_FO of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, 
+as_CSA amended_VVN ,_, 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1371(1)_NN1 ,_, provides_VVZ ''Definition_NN1 of_IO exceptional_JJ 
+children_NN2 ;_; reports_NN2 ;_; examination_NN1 (_( 1_MC1 )_) Tim_NP1 
+term_NN1 'exceptional_JJ children'_NN1 shall_VM mean_VVI children_NN2 of_IO 
+school_NN1 age_NN1 who_PNQS deviate_VV0 from_II the_AT average_NN1 in_II 
+physical_JJ ,_, mental_JJ ,_, emotional_JJ or_CC social_JJ characteristics_NN2 
+to_II such_DA an_AT1 extent_NN1 that_CST they_PPHS2 require_VV0 special_JJ 
+educational_JJ facilities_NN2 or_CC servit_NN1 and_CC shall_VM include_VVI 
+all_DB children_NN2 in_II detention_NN1 homes_NN2 ._. 
+?_? 4_MC ._. 
+The_AT Al'roey_NP1 General_NN1 agrees_VVZ to_TO issue_VVI an_AT1 Opinion_NN1 
+declaring_VVG that_CST the_AT phia_NN1 hiidren_NN1 of_IO school_NN1 age_NN1 
+"_" as_CSA used_VVN in_II Section_NN1 I_ZZ1 571_MC mcaou'_JJ children_NN2 
+a_AT1 ;_; ._. -'_GE ,_, six_MC to_II twenty-one_MC and_CC also_RR ,_, 
+whenever_RRQV the_AT Department_NN1 of_IO Educaton_NP1 through_II any_DD of_IO 
+its_APPGE instrumentalities_NN2 ,_, th_NNU local_JJ School_NN1 District_NN1 
+,_, Intermediate_JJ Unit_NN1 ,_, or_CC the_AT Department_NN1 o_ZZ1 Public_JJ 
+Welfare_NN1 ,_, through_II any_DD of_IO its_APPGE instrumentalities_NN2 ,_, 
+provides_VVZ a_AT1 pre-school_JJ program_NN1 of_IO regular_JJ education_NN1 
+and_CC training_NN1 for_IF children_NN2 below_II the_AT age_NN1 of_IO six_MC 
+,_, whether_CSW kindergarten_NN1 or_CC however_RR so_JJ21 called_JJ22 ,_, 
+means_VVZ all_DB mentally_RR retarded_JJ children_NN2 who_PNQS have_VH0 
+reached_VVN the_AT age_NN1 less_DAR than_CSN six_MC at_II which_DDQ such_DA 
+pre-school_JJ programs_NN2 are_VBR available_JJ to_II others_NN2 25_MC ._. 
+The_AT Attorney_NN1 General_JJ shall_VM issue_VVI an_AT1 Opinion_NN1 thus_RR 
+construing_VVG Section_NN1 1371_MC and_CC the_AT Board_NN1 shall_VM issue_VVI 
+regulations_NN2 to_TO implement_VVI saisj._NNU construction_NN1 ,_, copies_NN2 
+of_IO which_DDQ Opinion_NN1 and_CC Regulations_NN2 shall_VM be_VBI filed_VVN 
+with_IW the_AT Court_NN1 and_CC delivered_VVN to_TO counsel_VVI for_IF 
+plaintiff_NN1 on_II or_CC before_II February_NPM1 28_MC ,_, 1972_MC ,_, and_CC 
+they_PPHS2 shall_VM be_VBI issued_VVN and_CC promulgated_VVN respectively_RR 
+on_II or_CC before_II March_NPM1 8_MC ,_, 1972_MC Tuition_NN1 and_CC 
+Tuition_NN1 and_CC Maintenanc_NP1 26_MC ._. 
+The_AT Secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 o_ZZ1 
+Education_NN1 ,_, the_AT named_JJ School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 ,_, each_DD1 of_IO them_PPHO2 ,_, for_IF 
+themselves_PPX2 ,_, their_APPGE officers_NN2 ,_, employees_NN2 ,_, agents_NN2 
+and_CC successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI and_CC 
+desist_VVI from_II applying_VVG Section_NN1 1376_MC of_IO the_AT School_NN1 
+Code_NN1 of_IO 1949_MC ,_, as_CSA amended_VVN ,_, 24_MC Purd_NP1 State_NN1 ._. 
+Sec._NNU 13-1376_MCMC ,_, so_BCL21 as_BCL22 to_TO deny_VVI tuition_NN1 or_CC 
+tuition_NN1 and_CC maintenance_NN1 to_II any_DD mentally_RR retarded_JJ 
+person_NN1 27_MC ._. 
+The_AT Attorney_NN1 General_JJ agrees_VVZ to_TO issue_VVI an_AT1 Opinion_NN1 
+and_CC the_AT Council_NN1 of_IO Basic_JJ Education_NN1 of_IO the_AT State_NN1 
+Board_NN1 of_IO Educatio_NP1 agrees_VVZ to_TO promulgate_VVI Regulations_NN2 
+,_, construing_VVG the_AT term_NN1 'brain_NN1 damage_NN1 'as_VHZ used_VVN 
+in_II Section_NN1 1376_MC and_CC as_CSA defined_VVN in_II the_AT Boards_NN2 
+Criteria_NN2 for_IF Approval_NN1 ._. 
+..._... of_IO Reimbursement_NN1 "_" so_BCL21 as_BCL22 to_TO include_VVI 
+thereunder_RR all_DB mentally_RR retarded_JJ persons_NN2 ,_, thereby_RR 
+making_VVG available_JJ to_II them_PPHO2 tuition_NN1 far_JJ day_NNT1 
+school_NN1 and_CC tuition_NN1 and_CC maintenance_NN1 for_IF residential_JJ 
+school_NN1 up_II21 to_II22 the_AT maximum_JJ sum_NN1 available_JJ for_IF 
+day_NNT1 school_NN1 or_CC residential_JJ school_NN1 ,_, whichever_DDQV 
+provides_VVZ the_AT more_RGR appropriate_JJ program_NN1 of_IO education_NN1 
+and_CC training_NN1 ._. 
+Copies_NN2 of_IO the_AT aforesaid_JJ Opinion_NN1 and_CC Regulations_NN2 
+shall_VM be_VBI filed_VVN with_IW the_AT Court_NN1 and_CC delivered_VVN to_TO 
+counsel_VVI for_IF plaintiff_NN1 on_II or_CC before_II February_NPM1 28_MC ,_, 
+1972_MC ,_, and_CC they_PPHS2 shall_VM be_VBI issued_VVN and_CC 
+promulgated_VVN respectively_RR on_II or_CC before_II March_NPM1 8_MC ,_, 
+1972_MC 28_MC ._. 
+Defendants_NN2 may_VM deny_VVI or_CC withdraw_VVI payments_NN2 of_IO 
+tuition_NN1 or_CC tuition_NN1 and_CC maintenance_NN1 whenever_RRQV the_AT 
+school_NN1 district_NN1 or_CC intermediate_JJ unit_NN1 m_ZZ1 which_DDQ a_AT1 
+mentally_RR retarded_JJ child_NN1 resides_VVZ provide_VV0 a_AT1 program_NN1 
+of_IO special_JJ education_NN1 and_CC training_VVG appropriate_JJ to_II the_AT 
+child_NN1 's_GE learning_NN1 capacities_NN2 into_II which_DDQ the_AT child_NN1 
+may_VM be_VBI placed_VVN 29_MC ._. 
+The_AT decision_NN1 of_IO defendants_NN2 to_TO deny_VVI or_CC withdraw_VVI 
+payments_NN2 of_IO tuition_NN1 or_CC tuition_NN1 and_CC maintenance_NN1 
+shall_VM be_VBI deemed_VVN a_AT1 change_NN1 in_II educational_JJ 
+assignment_NN1 as_II21 to_II22 which_DDQ notice_VV0 shall_VM be_VBI given_VVN 
+and_CC an_AT1 opportunity_NN1 for_IF a_AT1 hearing_NN1 afforded_VVN as_CSA 
+set_VVN out_RP in_II this_DD1 Court_NN1 's_GE Orde_NN1 of_IO June_NPM1 18_MC 
+,_, 1971_MC ,_, as_CSA amended_VVN ._. 
+The_AT issue_NN1 at_II such_DA hearing_NN1 shall_VM be_VBI whether_CSW the_AT 
+School_NN1 District_NN1 or_CC Intermediate_JJ Unit_NN1 provides_VVZ a_AT1 
+-13_MC appropriate_JJ program_NN1 of_IO education_NN1 and_CC training_NN1 
+for_IF the_AT particular_JJ child_NN1 Whenever_RRQV an_AT1 additional_JJ 
+facility_NN1 ar_UH newly_RR created_VVN program_NN1 within_II a_AT1 School_NN1 
+District_NN1 or_CC Intermediate_JJ Unit_NN1 is_VBZ submitted_VVN for_IF 
+approval_NN1 by_II the_AT Secretary_NN1 of_IO Education_NN1 ,_, then_RT in_II 
+timely_JJ fashion_NN1 ,_, a_AT1 School_NN1 District_NN1 or_CC Intermediate_JJ 
+Unit_NN1 ,_, upon_II written_JJ notice_NN1 to_II the_AT parent_NN1 or_CC 
+guardian_NN1 ,_, may_VM in_II writing_VVG request_NN1 approval_NN1 of_IO 
+the_AT Director_NN1 of_IO the_AT Bureau_NN1 of_IO Special_JJ Education_NN1 ,_, 
+acting_VVG as_II the_AT Secretarys_NP2 designee_NN1 ,_, for_IF the_AT 
+transfer_NN1 of_IO particular_JJ children_NN2 from_II private_JJ schools_NN2 
+to_II the_AT additional_JJ facility_NN1 or_CC newly_RR created_VVN program_NN1 
+._. 
+Any_DD district_NN1 or_CC unit_NN1 so_RR requesting_VVG shall_VM submit_VVI 
+documentation_NN1 of_IO the_AT appropriateness_NN1 of_IO the_AT new_JJ 
+facility_NN1 or_CC program_NN1 for_IF the_AT particular_JJ childre_NN1 
+proposed'_NN1 for_IF transfer_NN1 ._. 
+The_AT parents_NN2 or_CC guardian_NN1 shall_VM be_VBI afforded_VVN a_AT1 
+timely_JJ opportunity_NN1 to_TO comment_VVI and_CC to_TO submit_VVI any_DD 
+documentation_NN1 wit_NN1 regard_NN1 to_II the_AT approval_NN1 by_II the_AT 
+Department_NN1 of_IO Education_NN1 of_IO an_AT1 additonal_JJ facility_NN1 
+or_CC newly_RR created_VVN program_NN1 and_CC with_II31 regard_II32 to_II33 
+its_APPGE appropriateness_NN1 for_IF the_AT particular_JJ child_NN1 ._. 
+If_CS after_CS appropriate_JJ investigation_NN1 the_AT Director_NN1 of_IO 
+the_AT Bureau_NN1 certifies_VVZ the_AT new_JJ facility_NN1 or_CC newly_RR 
+created_VVN program_NN1 as_CSA appropriate_JJ for_IF those_DD2 children_NN2 
+and_CC approves_VVZ their_APPGE transfers_NN2 ,_, such_DA certification_NN1 
+and_CC approval_NN1 shall_VM be_VBI in_II31 lieu_II32 of_II33 individual_JJ 
+hearings_NN2 as_CSA provided_VVN above_RL in_II this_DD1 paragraph_NN1 
+Homebound_JJ Instructio_NP1 30_MC ._. 
+Section_NN1 1372(3)_FO of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, 
+as_CSA amended_VVN ,_, 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1372(3)_NN1 ,_, provides_VVZ in_II relevant_JJ part_NN1 -14_MC 
+Standards_NN2 ;_; plans_NN2 ;_; special_JJ classes_NN2 or_CC school_NN1 *_FU 
+(_( 3_MC )_) Special_JJ Classes_NN2 or_CC Schools_NN2 Established_VVN and_CC 
+Maintained_VVN by_II School_NN1 Districts_NN2 ..._... 
+If_CS ..._... it_PPH1 is_VBZ not_XX feasible_JJ to_TO form_VVI a_AT1 
+special_JJ class_NN1 in_II any_DD district_NN1 or_CC to_TO provide_VVI such_DA 
+education_NN1 for_IF any_RR (_( exceptional_JJ )_) child_NN1 in_II the_AT 
+public_JJ schools_NN2 of_IO the_AT district_NN1 ,_, the_AT board_NN1 of_IO 
+school_NN1 directors_NN2 of_IO the_AT district_NN1 shall_VM secure_VVI such_DA 
+proper_JJ education_NN1 and_CC training_NN1 outside_II the_AT public_JJ 
+schools_NN2 of_IO the_AT district_NN1 or_CC in_II special_JJ institutions_NN2 
+,_, or_CC by_II providing_VVG for_IF teaching_VVG the_AT child_NN1 in_II 
+his_APPGE home_NN1 31_MC ._. 
+The_AT Secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 o_ZZ1 
+Education_NN1 ,_, the_AT named_JJ School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 each_DD1 of_IO them_PPHO2 ,_, for_IF themselves_PPX2 
+,_, their_APPGE officials_NN2 ,_, employees_NN2 ,_, agents_NN2 and_CC 
+successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI and_CC 
+desist_VVI from_II denying_VVG homebound_JJ instruction_NN1 under_II 
+Section_NN1 1372(3)_FO to_II mentally_RR retarded_JJ children_NN2 merely_RR 
+because_CS no_AT physical_JJ disability_NN1 accompanies_VVZ the_AT 
+retardation_NN1 or_CC because_CS retardation_NN1 is_VBZ not_XX a_AT1 
+short-term_JJ disability_NN1 32_MC ._. 
+The_AT Attorney_NN1 General_JJ agrees_VVZ to_TO issue_VVI an_AT1 Opinio_NN1 
+declaring_VVG that_CST a_AT1 mentally_RR retarded_JJ child_NN1 ,_, 
+whether_CSW31 or_CSW32 not_CSW33 physical_JJ 1-._MCMC disabled_JJ ,_, may_VM 
+receive_VVI homebound_JJ instruction_NN1 and_CC the_AT State_NN1 Board_NN1 
+of_IO Education_NN1 and/or_CC the_AT Secretary_NN1 of_IO Education_NN1 
+agrees_VVZ to_TO promulgate_VVI revised_JJ Regulations_NN2 and_CC forms_NN2 
+in_II accord_NN1 therewith_RR ,_, superseding_VVG the_AT "_" Homebound_JJ 
+Instruction_NN1 Manual_NN1 "_" (_( 1970_MC )_) insofar_CS21 as_CS22 it_PPH1 
+concerns_VVZ mentally_RR retarded_JJ children_NN2 -15_MC 33_MC ._. 
+The_AT aforesaid_JJ Opinion_NN1 and_CC Regulations_NN2 shall_VM also_RR 
+provide_VVI (_( a_ZZ1 )_) that_CST homebound_JJ instruction_NN1 is_VBZ the_AT 
+least_RRT preferabl_VV0 of_IO the_AT programs_NN2 of_IO education_NN1 and_CC 
+training_NN1 administered_VVN by_II the_AT Departs_VVZ ;_; of_IO Education_NN1 
+and_CC a_AT1 mentally_RR retarded_JJ child_NN1 shall_VM not_XX be_VBI 
+assigned_VVN to_II it_PPH1 unless_CS it_PPH1 is_VBZ the_AT program_NN1 
+most_RGT appropriate_JJ to_II the_AT child_NN1 's_GE capacities_NN2 (_( b_ZZ1 
+)_) that_CST homebound_JJ instruction_NN1 shall_VM involve_VVI educatio_NN1 
+and_CC training_NN1 for_IF at_RR21 least_RR22 five_MC hours_NNT2 a_AT1 
+week_NNT1 or_CC for_IF such_DA other_JJ reasonable_JJ period_NN1 as_CSA the_AT 
+State_NN1 Board_NN1 of_IO Education_NN1 may_VM by_II regulation_NN1 
+provide_VV0 (_( c_ZZ1 )_) that_CST an_AT1 assignment_NN1 to_II homebound_JJ 
+instruction_NN1 shal_NN1 be_VBI re-evaluated_VVN not_XX less_DAR than_CSN 
+every_AT1 three_MC months_NNT2 ,_, and_CC notice_NN1 of_IO the_AT 
+evaluation_NN1 and_CC an_AT1 opportunity_NN1 for_IF a_AT1 hearing_NN1 
+thereon_RR shall_VM be_VBI accorde_NN1 to_II the_AT parent_NN1 or_CC 
+guardian_NN1 ,_, as_CSA set_VVN out_RP in_II the_AT Order_NN1 of_IO this_DD1 
+Court_NN1 dated_VVN June_NPM1 18_MC ,_, 1971_MC ,_, as_CSA amended_VVN 34_MC 
+._. 
+Copies_NN2 of_IO the_AT aforementioned_JJ Opinion_NN1 and_CC Regulation_NN1 
+shall_VM be_VBI filed_VVN with_IW the_AT Court_NN1 and_CC delivered_VVN to_TO 
+counsel_VVI for_IF plaintiffs_NN2 on_II or_CC before_II February_NPM1 28_MC 
+,_, 1972_MC ,_, and_CC they_PPHS2 shall_VM be_VBI issued_VVN and_CC 
+promulgated_VVN respectively_RR on_II or_CC before_II March_NPM1 8_MC ,_, 
+1972_MC Section_NN1 137_MC 35_MC ._. 
+Section_NN1 1375_MC of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, as_CSA 
+amended_VVN 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 13-1375_MCMC ,_, provides_VVZ "_" Uneducable_JJ children_NN2 
+provided_VVN for_IF by_II Department_NN1 of_IO Public_NN1 Welfar_VV0 The_AT 
+State_NN1 Board_NN1 of_IO Education_NN1 shall_VM establish_VVI standards_NN2 
+for_IF temporary_JJ or_CC permanent_JJ exclusion_NN1 from_II the_AT public_JJ 
+school_NN1 of_IO children_NN2 who_PNQS are_VBR found_VVN to_TO be_VBI 
+uneducable_JJ and_CC untrainingable_JJ in_II the_AT public_JJ schools_NN2 ._. 
+Any_DD child_NN1 who_PNQS is_VBZ reported_VVN by_II a_AT1 person_NN1 who_PNQS 
+is_VBZ certified_VVN as_II a_AT1 public_JJ school_NN1 psychologist_NN1 as_CSA 
+being_VBG uneducable_JJ and_CC untrain-able_JJ in_II the_AT public_JJ 
+schools_NN2 ,_, may_VM be_VBI reported_VVN by_II the_AT board_NN1 of_IO 
+school_NN1 directors_NN2 to_II the_AT Superintendent_NN1 of_IO Public_JJ 
+Instruction_NN1 and_CC when_CS approved_VVN by_II him_PPHO1 ,_, in_II31 
+accordance_II32 with_II33 the_AT standards_NN2 of_IO the_AT State_NN1 
+Board_NN1 of_IO Education_NN1 ,_, shall_VM be_VBI certified_VVN to_II the_AT 
+Department_NN1 of_IO Public_JJ Welfare_NN1 as_II a_AT1 child_NN1 who_PNQS 
+is_VBZ uneducable_JJ and_CC untrainable_JJ in_II the_AT public_JJ schools_NN2 
+._. 
+When_CS a_AT1 child_NN1 is_VBZ thus_RR certified_VVN ,_, the_AT public_JJ 
+schools_NN2 shall_VM be_VBI relieved_VVN of_IO the_AT obligation_NN1 of_IO 
+providing_VVG education_NN1 or_CC training_NN1 for_IF such_DA child_NN1 ._. 
+The_AT Department_NN1 of_IO Public_NN1 ._. /elfare_VV0 shall_VM thereupon_RT 
+arrange_VVI for_IF the_AT care_NN1 ,_, training_NN1 anL_NN1 supervis_NN1 
+ion_NN1 of_IO such_DA child_NN1 in_II a_AT1 manner_NN1 not_XX inconsistent_JJ 
+with_IW the_AT laws_NN2 governing_VVG mentally_RR defective_JJ 
+individuals._NNU 36_MC ._. 
+Defendants_NN2 the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 ,_, th_NNU 
+secretary_NN1 of_IO Education_NN1 ,_, the_AT State_NN1 Board_NN1 of_IO 
+Education_NN1 ,_, the_AT name_NN1 School_NN1 Districts_NN2 and_CC 
+Intermediate_JJ Units_NN2 ,_, and_CC the_AT Secretary_NN1 of_IO P_ZZ1 ublic_JJ 
+Welfare_NN1 ,_, each_DD1 of_IO them_PPHO2 ,_, for_IF themselves_PPX2 ,_, 
+their_APPGE officers_NN2 ,_, employees_NN2 ,_, agents_NN2 and_CC 
+successors_NN2 agree_VV0 that_CST they_PPHS2 shall_VM cease_VVI and_CC 
+desist_VVI from_II applying_VVG Section_NN1 1375_MC so_BCL21 as_BCL22 to_TO 
+deny_VVI access_NN1 to_II a_AT1 free_JJ public_JJ program_NN1 u_ZZ1 
+''location_NN1 and_CC training_NN1 to_II any_DD mentally_RR retarded_JJ 
+child_NN1 -17_MC 38_MC ._. 
+The_AT Attorney_NN1 General_JJ agrees_VVZ to_TO issue_VVI an_AT1 Opinio_NN1 
+hiring_VVG that_DD1 Section_NN1 1375_MC means_VVZ that_CST when_CS it_PPH1 
+is_VBZ found_VVN ,_, on_II the_AT recommendation_NN1 of_IO a_AT1 public_JJ 
+school_NN1 psychologist_NN1 and_CC upon_II the_AT approval_NN1 of_IO the_AT 
+I_MC1 cal_NNU board_NN1 of_IO school_NN1 directors_NN2 and_CC the_AT 
+Secretary_NN1 of_IO Education_NN1 ,_, as_CSA reviewed_VVN in_II the_AT due_JJ 
+process_NN1 hearing_NN1 as_CSA set_VVN out_RP in_II the_AT Order_NN1 of_IO 
+this_DD1 Court_NN1 dated_VVN June_NPM1 18_MC ,_, 1971_MC ,_, that_CST a_AT1 
+mentally_RR retarded_JJ child_NN1 would_VM benefit_VVI more_RRR from_II 
+placement_NN1 in_II a_AT1 program_NN1 of_IO education_NN1 and_CC training_NN1 
+administered_VVN by_II the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 
+than_CSN he_PPHS1 would_VM from_II any_DD program_NN1 of_IO education_NN1 
+and_CC training_NN1 administered_VVN by_II the_AT Department_NN1 of_IO 
+Education_NN1 ,_, he_PPHS1 shall_VM be_VBI certified_VVN to_II the_AT 
+Tepartment_NN1 of_IO Public_JJ Welfare_NN1 for_IF placement_NN1 in_II a_AT1 
+program_NN1 of_IO education_NN1 and_CC training_NN1 39_MC ._. 
+To_TO assure_VVI that_CST any_DD program_NN1 of_IO education_NN1 and_CC 
+trainin_NN1 i_ZZ1 administered_VVN by_II the_AT department_NN1 of_IO Public_JJ 
+Welfare_NN1 shall_VM provide_VVI education_NN1 and_CC training_VVG 
+appropriate_JJ to_II a_AT1 child_NN1 's_GE capacities_NN2 the_AT plan_NN1 
+referre_NN1 to_II in_II Paragraph_NN1 50_MC below_RL shall_VM specify_VVI ,_, 
+inter_RR21 alia_RR22 (_( a_ZZ1 )_) the_AT standards_NN2 for_IF hours_NNT2 
+of_IO instruction_NN1 ,_, pupilteacher_NN1 ratios_NN2 ,_, curriculum_NN1 ,_, 
+facilities_NN2 ,_, and_CC teacher_NN1 qualifications_NN2 that_CST shall_VM 
+be_VBI met_VVN in_II programs_NN2 administered_VVN by_II the_AT Departmen_NN2 
+of_IO Public_JJ Welfare_NN1 (_( b_ZZ1 )_) the_AT standards_NN2 whichwll_VV0 
+qualify_VV0 any_DD mentally_RR retarded_JJ person_NN1 who_PNQS completes_VVZ 
+a_AT1 program_NN1 administered_VVN by_II th_NNU Department_NN1 of_IO Public_JJ 
+Welfare_NN1 for_IF a_AT1 HighSchool_NN1 Certificate_NN1 or_CC a_AT1 
+Certificate_NN1 of_IO Attendance_NN1 as_CSA contemplated_VVN in_II 
+Sections_NN2 8-13_MCMC ?_? and_CC 8-133_MCMC of_IO !_! h_ZZ1 Special_JJ 
+Education_NN1 Regulations_NN2 -_- 18_MC (_( c_ZZ1 )_) the_AT reports_NN2 
+which_DDQ will_VM be_VBI required_VVN in_II the_AT continuing_JJ discharge_NN1 
+by_II the_AT Department_NN1 of_IO Education_NN1 of_IO its_APPGE duty_NN1 
+under_II Section_NN1 1302(1)_FO of_IO the_AT Administrative_JJ Code_NN1 of_IO 
+1929_MC ,_, as_CSA amended_VVN ,_, 71_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 352(1)_FO ,_, tD_NNU inspect_VV0 and_CC to_TO require_VVI reports_NN2 
+of_IO programs_NN2 of_IO educatio_NN1 and_CC training_NN1 administered_VVN 
+by_II the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 ,_, which_DDQ 
+reports_VVZ shall_VM include_VVI ,_, for_IF each_DD1 child_NN1 in_II such_DA 
+programs_NN2 an_AT1 annual_JJ statement_NN1 of_IO educational_JJ strategy_NN1 
+(_( as_CSA defined_VVN in_II Section_NN1 8-123_MCMC of_IO the_AT Special_JJ 
+Education_NN1 Regulations_NN2 )_) for_IF the_AT coming_JJ year_NNT1 and_CC 
+at_II the_AT close_NN1 of_IO the_AT year_NNT1 an_AT1 evaluation_NN1 of_IO 
+that_DD1 strategy_NN1 (_( d_ZZ1 )_) that_CST the_AT Department_NN1 of_IO 
+Education_NN1 shall_VM exercise_VVI the_AT power_NN1 under_II Section_NN1 
+1926_MC of_IO the_AT School_NN1 Code_NN1 of_IO 1949_MC ,_, as_CSA amended_VVN 
+,_, 24_MC Purd_NP1 ._. 
+Stat_VV0 ._. 
+Sec._NNU 19-1926_MCMC to_TO supervise_VVI the_AT programs_NN2 of_IO 
+educatio_NN1 and_CC training_NN1 in_II all_DB institutions_NN2 wholly_RR or_CC 
+partly_RR supported_VVN by_II the_AT Department_NN1 of_IO Public_JJ 
+Welfare_NN1 ,_, and_CC the_AT procedures_NN2 to_TO be_VBI adopte_NN1 
+therefor_RR ._. 
+40_MC ._. 
+The_AT Attorney_NN1 General_JJ agrees_VVZ to_TO issue_VVI an_AT1 Opinion_NN1 
+so_RG construing_JJ Section_NN1 1375_MC and_CC the_AT Board_NN1 to_TO 
+promulgate_VVI Regulat_NN1 ions_NN2 implementing_VVG said_JJ construction_NN1 
+,_, which_DDQ Opinion_NN1 and_CC Regulations_NN2 *_FU shall_VM also_RR 
+provide_VVI (_( a_ZZ1 )_) that_CST the_AT Secretary_NN1 of_IO Education_NN1 
+shall_VM be_VBI responsible_JJ for_IF assuring_VVG that_CST every_AT1 
+mentally_RR retarded_JJ child_NN1 is_VBZ placed_VVN in_II a_AT1 program_NN1 
+of_IO education_NN1 and_CC training_VVG appropriate_JJ to_II his_APPGE 
+learning_NN1 capacities_NN2 ,_, and_CC to_II that_DD1 end_NN1 ,_, by_II 
+Rules_NN2 of_IO Procedure_NN1 requiring_VVG that_CST reports_NN2 of_IO the_AT 
+annua_NN1 census_NN1 and_CC evaluation_NN1 ,_, under_II Section_NN1 1371_MC 
+(_( ?_? )_) of_IO the_AT School_NN1 Code_NN1 o_ZZ1 1949_MC ,_, as_CSA 
+amended_VVN ,_, 24_MC Purd_NP1 ._. 
+Stat._NP1 13-1371(2)_NN1 ,_, be_VBI made_VVN to_II him_PPHO1 ,_, he_PPHS1 
+shall_VM be_VBI informed_VVN as_II21 to_II22 the_AT identity_NN1 ,_, 
+condition_NN1 ,_, and_CC educational_JJ status_NN1 of_IO every_AT1 mentally_RR 
+retarded_JJ child_NN1 within_II the_AT variouc_NN1 school_NN1 districts_NN2 
+(_( b_ZZ1 )_) that_CST should_VM it_PPH1 appear_VVI that_CST the_AT 
+provisions_NN2 of_IO th_NNU School_NN1 Code_NN1 relating_VVG to_II the_AT 
+proper_JJ education_NN1 and_CC training_NN1 of_IO mentally_RR retarded_JJ 
+children_NN2 have_VH0 not_XX been_VBN complied_VVN with_IW or_CC the_AT 
+needs_NN2 of_IO the_AT mentally_RR retarded_JJ child_NN1 are_VBR not_XX 
+being_VBG adequately_RR served_VVN in_II any_DD program_NN1 administered_VVN 
+by_II the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 ,_, the_AT 
+Department_NN1 of_IO Education_NN1 shall_VM provide_VVI such_DA education_NN1 
+and_CC training_VVG pursuant_JJ t_ZZ1 Section_NN1 1926_MC of_IO the_AT 
+School_NN1 Code_NN1 of_IO 1949_MC ,_, as_CSA amended_VVN ,_, 24_MC Purd_NP1 
+._. 
+Stat_VV0 ._. 
+Sec._NNU 19-1926_MCMC (_( c_ZZ1 )_) that_CST the_AT same_DA right_NN1 to_TO 
+notice_VVI and_CC an_AT1 opportunity_NN1 for_IF a_AT1 hearing_NN1 as_CSA 
+is_VBZ set_VVN out_RP in_II the_AT Order_NN1 of_IO this_DD1 Cour_NN1 '_GE :_: 
+of_IO June_NPM1 18_MC ,_, 1971_MC ,_, shall_VM be_VBI accorded_VVN on_II 
+any_DD change_NN1 in_II educational_JJ assignment_NN1 amon_NN1 the_AT 
+programs_NN2 of_IO education_NN1 and_CC training_NN1 administered_VVN by_II 
+the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 (_( d_ZZ1 )_) that_CST 
+not_XX less_DAR than_CSN every_AT1 two_MC years_NNT2 the_AT assignment_NN1 
+of_IO any_DD mentally_RR retarded_JJ child_NN1 to_II a_AT1 program_NN1 of_IO 
+education_NN1 and_CC training_NN1 administered_VVN by_II the_AT Department_NN1 
+of_IO Public_JJ Welfare_NN1 shall_VM be_VBI re-evaluated_VVN by_II the_AT 
+Department_NN1 of_IO Education_NN1 and_CC upon_II such_DA re-evaluation_NN1 
+notice_NN1 and_CC an_AT1 opportunity_NN1 to_TO be_VBI heard_VVN rhall_NN1 
+be_VBI accorded_VVN as_CSA set_VVN out_RP i_MC1 the_AT Order_NN1 of_IO 
+this_DD1 Court_NN1 ,_, dated_JJ June_NPM1 18_MC ,_, 1971_MC ,_, as_CSA 
+amended_VVN -20_MC 41_MC ._. 
+Copies_NN2 of_IO the_AT aforesaid_JJ Opinion_NN1 and_CC Regulations_NN2 
+shal_NN1 be_VBI filed_VVN with_IW the_AT Court_NN1 and_CC delivered_VVN to_TO 
+counsel_VVI for_IF plaintiffs_NN2 on_II or_CC before_II February_NPM1 28_MC 
+,_, 1972_MC ,_, and_CC they_PPHS2 shall_VM be_VBI issued_VVN and_CC 
+promulgated_VVN respectively_RR on_II or_CC before_II March_NPM1 8_MC ,_, 
+1972_MC IV_MC 42_MC ._. 
+Each_DD1 of_IO the_AT named_JJ plaintiffs_NN2 shall_VM be_VBI immediately_RR 
+re-evaluated_VVN by_II defendants_NN2 and_CC ,_, as_RG soon_RR as_CSA 
+possible_JJ ,_, but_CCB in_II no_AT event_NN1 later_RRR than_CSN October_NPM1 
+13_MC ,_, 1971_MC ,_, shall_VM be_VBI accorded_VVN access_NN1 to_II a_AT1 
+free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_VVG 
+appropriate_JJ to_II his_APPGE learning_NN1 capacities_NN2 43_MC ._. 
+Every_AT1 retarded_JJ person_NN1 between_II the_AT ages_NN2 of_IO six_MC 
+and_CC twenty-one_MC years_NNT2 as_II21 of_II22 the_AT date_NN1 of_IO this_DD1 
+Order_NN1 and_CC thereafter_RT shall_VM be_VBI provided_VVN access_NN1 to_II 
+a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_VVG 
+appropriate_JJ to_II his_APPGE capacities_NN2 as_RG soon_RR as_CSA possible_JJ 
+but_CCB in_II no_AT event_NN1 later_RRR than_CSN September_NPM1 1_MC1 ,_, 
+1972_MC 44_MC ._. 
+Wherever_RRQV defendants_NN2 provide_VV0 a_AT1 pre-school_JJ program_NN1 of_IO 
+regular_JJ education_NN1 and_CC training_NN1 for_IF children_NN2 less_DAR 
+than_CSN six_MC years_NNT2 o_ZZ1 age_NN1 ,_, whether_CSW kindergarten_NN1 
+or_CC however_RR called_VVN ,_, every_AT1 mentally_RR retarded_JJ child_NN1 
+of_IO the_AT same_DA age_NN1 as_CSA of_IO the_AT date_NN1 of_IO this_DD1 
+Order_NN1 and_CC hereafter_RT shall_VM be_VBI provided_VVN access_NN1 to_II 
+a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_VVG 
+appropriate_JJ to_II his_APPGE capacities_NN2 as_RG soon_RR as_CSA possible_JJ 
+but_CCB in_II no_AT event_NN1 later_RRR than_CSN September_NPM1 1_MC1 ,_, 
+1972_MC -21_MC 45_MC ._. 
+The_AT parties_NN2 explicitly_RR reserve_VV0 their_APPGE right_NN1 to_II 
+hearing_NN1 and_CC argument_NN1 on_II the_AT question_NN1 of_IO the_AT 
+obligation_NN1 of_IO defendants_NN2 to_TO accord_VVI compensatory_JJ 
+educational_JJ opportunity_NN1 to_II members_NN2 of_IO the_AT plaintiff_NN1 
+class_NN1 of_IO whatever_DDQV age_NN1 who_PNQS were_VBDR denied_VVN access_NN1 
+to_II a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC 
+training_NN1 without_IW notice_NN1 and_CC without_IW a_AT1 due_JJ process_NN1 
+hearing_NN1 while_CS they_PPHS2 were_VBDR aged_II six_MC years_NNT2 to_II 
+twenty-one_MC years_NNT2 ,_, for_IF a_AT1 period_NN1 equal_JJ to_II the_AT 
+period_NN1 of_IO such_DA wrongful_JJ denial_NN1 46_MC ._. 
+To_TO implement_VVI the_AT aforementioned_JJ relief_NN1 and_CC to_TO 
+assure_VVI that_CST it_PPH1 is_VBZ extended_VVN to_II all_DB members_NN2 of_IO 
+the_AT class_NN1 entitled_VVN to_II it_PPH1 ,_, Herbert_NP1 Goldstein_NP1 ,_, 
+Ph.D_NNA ._. 
+and_CC Dennis_NP1 E._NP1 Haggerty_NP1 ,_, Esq_NNA ._. 
+are_VBR appointed_VVN Masters_NN2 for_IF the_AT purpose_NN1 of_IO 
+overseeing_VVG a_AT1 prbcess_NN1 of_IO identification_NN1 ,_, evaluation_NN1 
+,_, notification_NN1 ,_, and_CC compliance_NN1 hereinafter_RR described_VVN 
+47_MC ._. 
+Notice_NN1 of_IO this_DD1 Order_NN1 and_CC of_IO the_AT Order_NN1 of_IO 
+June_NPM1 18_MC ,_, 1971_MC ,_, in_II form_NN1 to_TO be_VBI agreed_VVN upon_II 
+by_II counsel_NN1 for_IF the_AT parties_NN2 ,_, shall_VM be_VBI given_VVN 
+by_II Commonwealth_NN1 defendants_NN2 to_II the_AT parents_NN2 and_CC 
+guardian_NN1 of_IO every_AT1 mentally_RR retarded_JJ person_NN1 ,_, and_CC 
+of_IO every_AT1 person_NN1 thought_VVN by_II defendants_NN2 to_TO be_VBI 
+mentally_RR retarded_JJ ,_, of_IO the_AT ages_NN2 specified_VVN in_II 
+Paragraphs_NN2 43_MC ,_, and_CC 44_MC above_RL ,_, now_RT resident_JJ in_II 
+the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 ,_, wh_NNU is_VBZ not_XX 
+being_VBG accorded_VVN access_NN1 to_II a_AT1 free_JJ public_JJ program_NN1 
+of_IO education_NN1 and_CC training_NN1 ,_, whether_CSW as_II a_AT1 result_NN1 
+of_IO exclusion_NN1 ,_, postponement_NN1 excusal_NN1 ,_, or_CC in_II any_DD 
+other_JJ fashion_NN1 ,_, formal_JJ or_CC informal_JJ 48_MC ._. 
+Within_II thirty_MC days_NNT2 of_IO the_AT date_NN1 of_IO this_DD1 Order_NN1 
+,_, Commonwealth_NN1 defendants_NN2 shall_VM formulate_VVI and_CC shall_VM 
+submit_VVI to_II the_AT Master_NN1 -22_MC for_IF their_APPGE approval_NN1 
+a_AT1 satisfactory_JJ plan_NN1 to_TO identify_VVI ,_, Locate_VV0 ,_, 
+evaluate_VV0 and_CC give_VVI notice_NN1 to_II all_DB the_AT persons_NN2 
+described_VVN in_II the_AT foregoing_JJ paragraphs_NN2 ,_, and_CC to_TO 
+identify_VVI all_DB persons_NN2 described_VVN in_II Paragraph_NN1 45_MC ,_, 
+which_DDQ plan_NN1 shall_VM include_VVI ,_, but_CCB not_XX be_VBI limited_VVN 
+to_II ,_, a_AT1 search_NN1 of_IO the_AT records_NN2 of_IO the_AT local_JJ 
+school_NN1 districts_NN2 ,_, of_IO the_AT Intermediate_JJ Units_NN2 ,_, of_IO 
+County_NN1 MH/MR_FU units_NN2 ,_, of_IO the_AT State_NN1 Schools_NN2 and_CC 
+Hospitals_NN2 ,_, including_II the_AT waiting_JJ lists_NN2 for_IF 
+admission_NN1 thereto_RR ,_, and_CC of_IO interim_JJ care_NN1 facilities_NN2 
+,_, and_CC ,_, to_II the_AT extent_NN1 necessary_JJ ,_, publication_NN1 in_II 
+newspapers_NN2 and_CC the_AT use_NN1 of_IO radio_NN1 and_CC television_NN1 
+in_II a_AT1 manner_NN1 calculated_VVD to_TO reach_VVI the_AT persons_NN2 
+described_VVN ;_; in_II the_AT foregoing_JJ paragraph_NN1 ._. 
+A_AT1 copy_NN1 of_IO the_AT proposed_JJ plan_NN1 shall_VM be_VBI delivered_VVN 
+to_TO counsel_VVI for_IF plaintiffs_NN2 who_PNQS shall_VM be_VBI accorded_VVN 
+a_AT1 right_NN1 to_TO be_VBI heard_VVN thereon_RR 49_MC ._. 
+Within_II ninety_MC days_NNT2 of_IO the_AT date_NN1 of_IO this_DD1 Order_NN1 
+,_, Common_JJ wealth_NN1 defendants_NN2 shall_VM identify_VVI and_CC 
+locate_VVI all_DB persons_NN2 described_VVN in_II paragraph_NN1 47_MC above_RL 
+,_, give_VV0 them_PPHO2 notice_VV0 and_CC provide_VV0 for_IF their_APPGE 
+evaluation_NN1 and_CC shall_VM report_VVI to_II the_AT Masters_NN2 the_AT 
+names_NN2 ,_, circumstances_NN2 ,_, the_AT educational_JJ histories_NN2 and_CC 
+the_AT educational_JJ diagnoses_NN2 of_IO all_DB persons_NN2 so_RR 
+identified_VVN ._. 
+50_MC ._. 
+By_II April_NPM1 1_MC1 ,_, 1972_MC ,_, Commonwealth_NN1 defendants_NN2 
+shall_VM formulate_VVI and_CC submit_VVI to_II the_AT Masters_NN2 for_IF 
+their_APPGE approval_NN1 a_AT1 plan_NN1 ,_, to_TO be_VBI effectuated_VVN by_II 
+September_NPM1 1_MC1 ,_, 1972_MC ,_, to_TO commence_VVI or_CC recommence_VVI 
+a_AT1 free_JJ public_JJ program_NN1 of_IO education_NN1 and_CC training_NN1 
+for_IF all_DB mentally_RR retarded_JJ persons_NN2 described_VVN in_II 
+Paragraph_NN1 47_MC above_RL ,_, and_CC for_IF al_NP1 -23_MC mentally_RR 
+retarded_JJ persons_NN2 of_IO such_DA ages_NN2 hereafter_RT ._. 
+The_AT plan_NN1 shall_VM specify_VVI the_AT range_NN1 of_IO programs_NN2 of_IO 
+education_NN1 and_CC training_VVG their_APPGE kind_NN1 and_CC number_NN1 ,_, 
+necessary_JJ to_TO provide_VVI an_AT1 appropriate_JJ program_NN1 of_IO 
+education_NN1 and_CC training_NN1 to_II all_DB mentally_RR retarded_JJ 
+children_NN2 ,_, where_CS they_PPHS2 shall_VM be_VBI conducted_VVN ,_, 
+arrangements_NN2 for_IF their_APPGE financing_NN1 ,_, and_CC ,_, if_CS 
+additional_JJ teachers_NN2 are_VBR found_VVN to_TO be_VBI necessary_JJ ,_, 
+the_AT plan_NN1 shall_VM specify_VVI recruitment_NN1 ,_, hiring_VVG ,_, and_CC 
+training_NN1 arrangements_NN2 ._. 
+The_AT plan_NN1 shall_VM specify_VVI such_DA additional_JJ standards_NN2 
+and_CC procedures_NN2 ,_, including_VVG but_CCB not_XX limited_VVN to_II 
+those_DD2 specified_VVN in_II Paragraph_NN1 39_MC above_RL ,_, as_CSA may_VM 
+be_VBI consistent_JJ with_IW this_DD1 Order_NN1 and_CC necessary_JJ to_II 
+its_APPGE effectuation_NN1 ._. 
+A_AT1 copy_NN1 of_IO the_AT proposed_JJ plan_NN1 will_VM be_VBI delivered_VVN 
+to_TO counsel_VVI for_IF plaintiffs_NN2 who_PNQS shall_VM be_VBI accorded_VVN 
+a_AT1 right_NN1 to_TO be_VBI heard_VVN thereon_RR 51_MC ._. 
+If_CS by_II September_NPM1 1_MC1 ,_, 1972_MC ,_, any_DD local_JJ school_NN1 
+dis_DD1 trict_NN1 is_VBZ not_XX providing_VVG a_AT1 free_JJ public_JJ 
+education_NN1 to_II all_DB mentally_RR retarded_JJ persons_NN2 within_II 
+its_APPGE responsibility_NN1 as_CSA provided_VVN hereinbefore_RR in_II 
+special_JJ classes_NN2 or_CC schools_NN2 established_VVN and_CC maintained_VVN 
+by_II school_NN1 districts_NN2 or_CC has_VHZ not_XX secured_VVN such_DA 
+proper_JJ education_NN1 and_CC training_NN1 outside_II the_AT public_JJ 
+schools_NN2 of_IO the_AT district_NN1 or_CC in_II special_JJ institutions_NN2 
+,_, and_CC if_CS an_AT1 intermediate_JJ unit_NN1 is_VBZ not_XX providing_VVG 
+such_DA education_NN1 by_II31 means_II32 of_II33 additional_JJ classes_NN2 
+or_CC schools_NN2 as_CSA are_VBR necessary_JJ or_CC otherwise_RR providing_VVG 
+for_IF the_AT proper_JJ education_NN1 and_CC training_NN1 of_IO such_DA 
+persons_NN2 who_PNQS are_VBR not_XX enrolled_VVN in_II classes_NN2 or_CC 
+schools_NN2 maintained_VVN and_CC operated_VVN by_II s_ZZ1 chool_VV0 
+districts_NN2 or_CC who_PNQS are_VBR not_XX otherwise_RR provided_VVN for_IF 
+,_, th_NNU Secretary_NN1 of_IO Education_NN1 ,_, pursuant_II21 to_II22 
+Section_NN1 1372(5)_FO of_IO the_AT Publi_JJ School_NN1 Code_NN1 of_IO 1949_MC 
+,_, 24_MC Purd_NP1 ._. 
+Stat._NP1 1372(5)_FO ,_, shall_VM directly_RR provide_VVI ,_, maintain_VV0 ,_, 
+administer_VV0 ,_, supervise_VV0 and_CC operate_VV0 programs_NN2 for_IF the_AT 
+education_NN1 and_CC training_NN1 of_IO these_DD2 children_NN2 52_MC ._. 
+The_AT Masters_NN2 shall_VM hear_VVI any_DD members_NN2 of_IO the_AT 
+plaintiff_NN1 class_NN1 who_PNQS may_VM be_VBI aggrieved_VVN in_II the_AT 
+implementation_NN1 of_IO this_DD1 Order_NN1 53_MC ._. 
+The_AT Masters_NN2 shall_VM be_VBI compensated_VVN by_II Commonwealth_NN1 
+defendants_NN2 54_MC ._. 
+This_DD1 Court_NN1 shall_VM retain_VVI jurisdiction_NN1 of_IO the_AT matte_NN1 
+until_CS it_PPH1 has_VHZ heard_VVN the_AT final_JJ report_NN1 of_IO the_AT 
+Masters_NN2 on_II or_CC befor_NN1 October_NPM1 15_MC ,_, 1972_MC 55_MC ._. 
+Any_DD child_NN1 who_PNQS is1_FO mentally_RR retarded_JJ and_CC wh_NNU also_RR 
+has_VHZ another_DD1 exceptionality_NN1 or_CC other_JJ exceptionalities_NN2 ,_, 
+whether_CSW blind_JJ ,_, deaf_JJ ,_, cerebral_JJ palsied_JJ ,_, brain_NN1 
+damaged_VVN ,_, muscular_JJ clystrophied_JJ or_CC social_JJ or_CC 
+emotionally_RR disturbed_VVN ,_, or_CC otherwise_RR ,_, irrespective_II21 
+of_II22 the_AT primary_JJ diagnosis_NN1 ,_, shall_VM be_VBI considered_VVN 
+mentally_RR retarded_JJ for_IF purposes_NN2 of_IO the_AT Agreements_NN2 and_CC 
+Orders_NN2 herein_RR Thomas_NP1 K._NP1 Gilhoo_NP1 Attorney_NN1 for_IF 
+Plaintiff_NN1 Deputy_NN1 Attorney_NN1 Genera_NN2 Attorneys_NN2 for_IF 
+Defendant_NN1 Acknowledged_VVD a_AT1 ._. 
+i_ZZ1 x_ZZ1 ._. 
+Secretary_NN1 of_IO Educatio_NP1 Dr._NNB William_NP1 F._NP1 Ohrtma_NP1 
+Director_NN1 ,_, Bureau_NN1 o_ZZ1 Special_JJ Educatio_NP1 -25_MC Edward_NP1 
+R._NP1 Goldma_NP1 Commissioner_NN1 of_IO Menta_NP1 Retardation_NN1 
+--aa45677099874af9d235e448db8a1220--_FU 

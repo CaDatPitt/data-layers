@@ -1,0 +1,47 @@
+
+COMMONWEALTH_NN1 Or_CC PENNSYLVANI_JJ DEPARTMENT_NN1 Or_CC PUBLIC_JJ 
+WELFAR_NP1 POLK_NP1 STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 POLK_NP1 ._. 
+PENNSYLVANI_NP1 534_MC April_NPM1 15_MC ,_, 197_MC TO_II FROM_II SUBJECT_NN1 
+Joseph_NP1 J._NP1 Colombatto_NP1 ,_, Superintenden_NP1 C._NP1 Richard_NP1 
+jSdLater_NN1 ,_, Director_NN1 Residential_JJ Program_NN1 Departmen_NN2 
+Residential_JJ Program_NN1 Department_NN1 Actions_VVZ -Carl_NP1 Fisher_NP1 -_- 
+#5,07_NNU We_PPIS2 have_VH0 reviewed_VVN our_APPGE Supervisors_NN2 Daily_JJ 
+Report_NN1 and_CC Critical_JJ Incident_NN1 Report_NN1 for_IF April_NPM1 15_MC 
+,_, 1975_MC ,_, concerning_II Carl_NP1 Fisher_NP1 who_PNQS was_VBDZ 
+reported_JJ '_GE missing_JJ on_II April_NPM1 14_MC and_CC was_VBDZ found_VVN 
+deceased_JJ today_RT Carls_NP2 last_VV0 contact_NN1 with_IW our_APPGE 
+personnel_NN2 occurred_VVD at_II 12:30_MC P.M._RA on_II April_NPM1 14_MC 
+when_RRQ he_PPHS1 asked_VVD MRA_NP1 I_ZZ1 Willis_NP1 Boyd_NP1 if_CS he_PPHS1 
+could_VM go_VVI for_IF a_AT1 walk_NN1 in_II the_AT yard_NN1 outside_II the_AT 
+cottage_NN1 at_II Hillcrest_NP1 colony_NN1 ._. 
+Mr._NNB Boyd_NP1 instructed_VVD Carl_NP1 that_CST he_PPHS1 may_VM go_VVI 
+out_RP for_IF a_AT1 walk_NN1 but_CCB not_XX to_TO leave_VVI the_AT lawn_NN1 
+area_NN1 ._. 
+He_PPHS1 was_VBDZ last_MD seen_VVN standing_VVG in_II the_AT lawn_NN1 area_NN1 
+outside_II the_AT cottage_NN1 at_II approximately_RR 1:00_MC P.M-_NN1 
+Following_VVG the_AT shift_NN1 change_NN1 at_II 2:00_MC P.M._RA ,_, Mr._NNB 
+Fred_NP1 Young_NP1 ,_, MRA_NP1 II_MC ,_, was_VBDZ unable_JK to_TO find_VVI 
+him_PPHO1 ._. 
+Mr._NNB Young_NP1 searched_VVD for_IF Carl_NP1 in_II the_AT grounds_NN2 
+immediately_RR surrounding_VVG the_AT cottage_NN1 as_II31 well_II32 as_II33 
+within_II the_AT building_NN1 proper_JJ and_CC notified_VVD the_AT 
+Northsidg_NN1 ,_, Supervisor_NN1 of_IO Carls_NP2 absence_NN1 at_II 3:00_MC 
+P.M._NP1 Our_APPGE only_JJ other_JJ possible_JJ information_NN1 to_TO 
+account_VVI for_IF Carls_NP2 leaving_VVG the_AT area_NN1 came_VVD as_II a_AT1 
+result_NN1 of_IO questioning_VVG other_JJ residents_NN2 ._. 
+Joseph_NP1 Martino_NP1 ,_, a_AT1 resident_NN1 of_IO Hillcrest_NP1 colony_NN1 
+,_, said_VVD that_CST Carl_NP1 had_VHD left_VVN soon_RR after_II dinner_NN1 
+saying_VVG that_CST there_EX was_VBDZ too_RG much_DA1 snoring_VVG at_II 
+night_NNT1 ._. 
+A_AT1 description_NN1 of_IO Carl_NP1 and_CC the_AT clothing_NN1 which_DDQ 
+he_PPHS1 was_VBDZ wearing_VVG was_VBDZ tiven_VVN to_II Security_NN1 
+Officers_NN2 by_II Mr._NNB Young_NP1 when_CS they_PPHS2 began_VVD to_TO 
+investigate_VVI the_AT incident_NN1 shortly_RR after_II 3:00_MC P.M._NP1 
+Our_APPGE Northside_NP1 Supervisor_NN1 notified_VVD Security_NN1 
+immediately_RR following_VVG Mr._NNB Youngs_NP1 report_NN1 ,_, and_CC a_AT1 
+number_NN1 of_IO MRAs_NP2 participated_VVD in_II the_AT search_NN1 party_NN1 
+which_DDQ consequently_RR found_VVD Carl_NP1 on_II April_NPM1 15_MC ._. 
+Between_II 3:00_MC P.M._RA onApril_VV0 14_MC and_CC 1:00_MC P.M._RA on_II 
+April_NPM1 15_MC our_APPGE personnel_NN2 had_VHD no_AT further_JJR contact_NN1 
+with_IW the_AT situation_NN1 CRS:klb_FO 
+--05bbc7a1ddd5e0b34c13b045930df8e9--_FU 

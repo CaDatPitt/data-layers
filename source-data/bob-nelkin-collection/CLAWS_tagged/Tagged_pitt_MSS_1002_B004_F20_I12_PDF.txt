@@ -1,0 +1,16 @@
+
+Reedsville_NP1 ,_, Pa_NP1 April_NPM1 23_MC ,_, 197_MC Bear_NN1 Mrs._NNB 
+Wohlgemuth_NP1 I_PPIS1 am_VBM writing_VVG this_DD1 letter_NN1 as_II the_AT 
+mother_NN1 of_IO a_AT1 mentally_RR retarded_JJ child_NN1 in_II a_AT1 state_NN1 
+school_NN1 We_PPIS2 had_VHD to_TO place_VVI our_APPGE child_NN1 in_II a_AT1 
+state_NN1 school_NN1 We_PPIS2 were_VBDR unable_JK to_TO manage_VVI her_PPHO1 
+._. 
+We_PPIS2 felt_VVD so_RG helpless_JJ placing_VVG her_PPHO1 in_II the_AT 
+state_NN1 school_NN1 It_PPH1 was_VBDZ like_II a_AT1 nightmare_NN1 ,_, and_CC 
+another_DD1 nightmare_NN1 to_TO live_VVI with_IW her_PPHO1 For_IF the_AT 
+first_MD time_NNT1 since_CS we_PPIS2 have_VH0 placed_VVN her_PPHO1 at_II 
+the_AT state_NN1 school_NN1 ._. 
+1_MC1 feel_VV0 hope_NN1 Thank_VV0 you_PPY for_IF the_AT fantastic_JJ job_NN1 
+you_PPY are_VBR doing_VDG We_PPIS2 ,_, think_VV0 you_PPY are_VBR wonderful_JJ 
+The_AT time_NNT1 has_VHZ come_VVN for_IF change_NN1 Viole_NP1 Reedsville_NP1 
+,_, Pa._NP1 --6172abe8898dfbf11a10ec87c2acc813--_FU 

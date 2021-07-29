@@ -1,0 +1,39 @@
+
+c*_FO ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 
+for_IF Retarded_JJ Citizens_NN2 ,_, Inc_JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsborqh_NP1 Pennsylvania_NP1 1523_MC teleploie_NN1 (_( 412_MC )_) 322_MC 
+600_MC BR_NP1 VIRGINIA_NP1 J._NP1 THORNBURG_NP1 Chapter_NN1 Presiden_NP1 
+RONALD_NP1 E.ARCHF_NP1 Executive_NN1 Directo_NN1 September_NPM1 17_MC ,_, 
+197_MC TO_II :_: ACC-PARC_NP1 Board_NN1 of_IO Director_NN1 FROM_II :_: 
+Sally_NP1 Hollyfield_NP1 ,_, Residential_JJ Care_NN1 Committe_NP1 RE_NP1 :_: 
+Recommendations_NN2 to_II Close_JJ Admissions_NN2 at_II Western_JJ State_NN1 
+School_NN1 and_CC Hospita_NP1 Because_CS the_AT overcrowding_NN1 and_CC 
+understaffing_VVG at_II Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 
+results_NN2 in_II daily_JJ injury_NN1 or_CC death_NN1 and_CC inadequate_JJ 
+care_NN1 of_IO the_AT residents_NN2 ,_, the_AT Allegheny_NP1 County_NN1 
+Chapter_NN1 ,_, Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Citizens_NN2 demands_VVZ the_AT closing_NN1 of_IO all_DB admissions_NN2 and_CC 
+immediate_JJ reduction_NN1 of_IO overcrowding_VVG Admissions_NN2 should_VM 
+remain_VVI closed_JJ until_CS the_AT total_JJ care_NN1 lodges_NN2 comply_VV0 
+with_IW the_AT minimum_JJ standards_NN2 of_IO the_AT Joint_JJ Commission_NN1 
+on_II Accreditation_NN1 of_IO Hospitals_NN2 (_( JCAH_NP1 )_) and_CC Federal_JJ 
+Medical_JJ Assistance_NN1 (_( MA_NP1 )_) ._. 
+This_DD1 means_VVZ the_AT lodges_NN2 must_VM meet_VVI Joint_JJ Commission_NN1 
+on_II Accreditation_NN1 of_IO Hospitals_NN2 staff/_VV0 resident_JJ ratio_NN1 
+and_CC maximum_JJ population_NN1 requirements_NN2 The_AT Allegheny_NP1 
+County_NN1 Chapter_NN1 ,_, Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Citizens_NN2 insists_VVZ that_CST immediate_JJ alternatives_NN2 be_VBI 
+created_VVN by_II the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 and_CC 
+Mental_JJ Health/Mental_FU Retardation_NN1 for_IF mentally_RR retarded_JJ 
+citizens_NN2 who_PNQS are_VBR also_RR severely_RR physically_RR or_CC 
+emotionally_RR handicapped_VVN ,_, or_CC whose_DDQGE family_NN1 needs_VVZ 
+respite_NN1 care_VV0 The_AT Allegheny_NP1 County_NN1 Chapter_NN1 ,_, 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 will_VM 
+assist_VVI with_IW the_AT Development_NN1 of_IO Residential_JJ 
+Alternatives_NN2 and_CC will_VM obtain_VVI legal_JJ counsel_NN1 to_TO aid_VVI 
+the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 to_TO fight_VVI MH/MR_FU 
+or_CC Juvenile_JJ court_NN1 ordered_VVD commitments_NN2 SH:g_FO A_ZZ1 
+MEMBER_NN1 UNIT_NN1 -_- National_JJ Association_NN1 for_IF Retarde_NN1 
+Citizens_NN2 ,_, In_II PARTICIPANT_NN1 Allegheny_NP1 County_NN1 Mental_JJ 
+Health_NN1 Mental_JJ Retardation_NN1 Program_NN1 
+--74255317e543aafb27db8fa017130084--_FU 

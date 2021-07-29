@@ -1,0 +1,3 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 For_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ 1001_MC BRIGHTON_NP1 

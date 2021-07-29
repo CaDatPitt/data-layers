@@ -1,0 +1,20 @@
+
+PROPOSED_JJ AMENDMENT_NN1 TO_II SENATE_NN1 BILL_NN1 9_MC Printers_NN2 No._NN1 
+170_MC Section_NN1 1_MC1 is_VBZ amended_VVN to_TO read_VVI as_CSA follows_VVZ 
+A_AT1 community_NN1 residential_JJ facility_NN1 means_VVZ a_AT1 facility_NN1 
+providing_VVG residence_NN1 for_IF a_AT1 minimum_NN1 of_IO three_MC (_( 3_MC 
+)_) and_CC no_AT more_DAR than_CSN eight_MC (_( 8_MC )_) mentally_RR ill_JJ 
+persons_NN2 who_PNQS are_VBR not_XX receiving_VVG treatment_NN1 under_II 
+Article_NN1 III_MC of_IO the_AT Mental_JJ Health_NN1 Procedures_NN2 Act_VV0 
+,_, No._NN1 143_MC of_IO 1976_MC or_CC who_PNQS have_VH0 not_XX received_VVN 
+treatment_NN1 under_II Article_NN1 IV_MC of_IO the_AT Mental_JJ Health_NN1 
+Procedures_NN2 Act_VV0 ,_, No._NN1 143_MC of_IO 1976_MC and_CC who_PNQS 
+are_VBR approved_VVN by_II County_NN1 Mental_JJ Health_NN1 and_CC Mental_JJ 
+Retardation_NN1 as_CSA capable_JJ of_IO residing_VVG in_II a_AT1 group_NN1 
+home_RL and_CC as_CSA receiving_VVG services_NN2 from_II a_AT1 local_JJ 
+community_NN1 mental_JJ health_NN1 program_NN1 ;_; or_CC dependent_JJ 
+children_NN2 ;_; or_CC mentally_RR retarded_JJ persons_NN2 ;_; or_CC 
+physically_RR handicapped_JJ persons_NN2 ;_; and_CC providing_VVG 
+residence_NN1 for_IF one_MC1 (_( 1_MC1 )_) or_CC two_MC (_( 2_MC )_) other_JJ 
+persons_NN2 who_PNQS provide_VV0 services_NN2 for_IF such_DA residents_NN2 ._. 
+--a48044bccbe6da8ab2aaf012463b2bef--_FU 

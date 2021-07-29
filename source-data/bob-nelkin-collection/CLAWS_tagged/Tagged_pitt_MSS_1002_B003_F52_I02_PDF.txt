@@ -1,0 +1,13 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFAR_NP1 EBENSBURG_NP1 STATE_NN1 SCHOOL_NN1 AND_CC HOSPITAL_NN1 
+Ebensburg_NP1 ,_, Pennsylvania_NP1 1593_MC Ap/iZZ_FU 1_MC1 7_MC ,_, 797_MC 
+HARRY_NP1 M._NN1 HERMAN_NP1 SUPERINTENDEN_NP1 TELEPHON_NP1 AREA_NN1 CODE_NN1 
+814_MC ,_, 472-735_MCMC APR_NN1 -_- Honorable_NP1 Frank_NP1 Bea_NP1 
+Sec/ieZa/u/_FU of_IO PepoAZmenZ_NP1 oX_NN1 PabZZc_NP1 P._NP1 0_MC ._. 
+Box_NN1 ._. 
+2675_MC Harrisburg_NP1 ,_, Penn4ylvajtia_FO 1712_MC Dear_JJ Secretary_NP1 
+Beal_NP1 Tn_NP1 response_NN1 to_II Ak_NP1 ._. 
+Buchanan_NP1 's_GE letter_NN1 ,_, Xe_NN1 :_: the_AT construction_NN1 of_IO 
+modular_JJ units_NN2 on_II grounds_NN2 at_II Ebensburg_NP1 State_NN1 ._. 
+School_NN1 ,_, T_ZZ1 would_VM like_VVI to_TO 

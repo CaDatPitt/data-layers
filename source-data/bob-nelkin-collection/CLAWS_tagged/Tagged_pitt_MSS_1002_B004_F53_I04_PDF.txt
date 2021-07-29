@@ -1,0 +1,27 @@
+
+._. 
+Ml_NNU Staf_NP1 Peg_NP1 Veedock_NP1 ,_, R.N._NP1 ,_, Assoc_NN1 ,_, Ex_NN1 ._. 
+Dir_NN1 January_NPM1 25_MC ,_, 198_MC Annual_JJ Medical_JJ Assistance_NN1 
+Survey_NN1 by_II the_AT I.O.C._NP1 Tea_NN1 Congratulations_NN2 to_II all_DB 
+staff_NN for_IF a_AT1 very_RG successful_JJ survey_NN1 ._. 
+The_AT team_NN1 paid_VVD many_DA2 compliments_NN2 to_II the_AT facility_NN1 
+in_RR21 general_RR22 and_CC several_DA2 areas_NN2 in_RR21 particular_RR22 
+Tne_NP1 following_VVG areas_NN2 were_VBDR given_VVN special_JJ mention_NN1 
+1_MC1 ._. 
+Annex_VV0 II_MC staff_NN and_CC residents_NN2 were_VBDR quite_RG active_JJ 
+and_CC the_AT programmin_NN1 was_VBDZ impressive_JJ ._. 
+;_; 2_MC ._. 
+Tne_NN1 charts_NN2 are_VBR well_RR organized_VVN ,_, complete_VV0 ,_, and_CC 
+neat_JJ 3_MC ._. 
+The_AT maladaptive_JJ behavior_NN1 program_NN1 is_VBZ most_RGT impressive_JJ 
+,_, particularly-the_AT high_JJ percentage_NN1 of_IO residents_NN2 on_II 
+the_AT program_NN1 4_MC ._. 
+Social_JJ Service_NN1 files_NN2 are_VBR well_RR organized_VVN and_CC recent_JJ 
+social_JJ histories_NN2 are_VBR well_RR done_VDN 5_MC ._. 
+Discharge_VV0 plans_NN2 are_VBR well_RR done_VDN and_CC quite_RG conclusive_JJ 
+6_MC ._. 
+Very_RG good_JJ organization_NN1 of_IO programs_NN2 for_IF residents_NN2 (_( 
+Medical_JJ ,_, Therapies_NN2 ,_, O.T._NP1 ,_, P.T._NN1 and_CC Recreation_NN1 
+Therapeutic_JJ ,_, etc._RA )_) 7_MC ._. 
+Monthly_JJ summaries_NN2 are_VBR well_RR written_VVN and_CC informative_JJ 
+lsf_NNU --ae5c86bd2b962de97ba686bcc7a7b092--_FU 

@@ -1,0 +1,64 @@
+
+ERIE_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 ,_, Inc_JJ 136_MC 
+EAST_ND1 AVENUE_NN1 ERIE_NP1 ,_, PENNSYLVANIA_NP1 1650_MC Telephone_NN1 -_- 
+Area_NN1 Code_NN1 81_MC 456-534_MCMC April_NPM1 24_MC ,_, 197_MC kecT'_VV0 
+i_ZZ1 A_ZZ1 X_ZZ1 The_AT Honorable_NP1 Helene_NP1 Wohlgemuth_NP1 ,_, 
+Secretary_NN1 of_IO Welfar_NP1 Harrisburg_NP1 ,_, Pa_NP1 o_ZZ1 r_ZZ1 Dear_JJ 
+Mrs._NNB Wohlgemuth_NP1 C_NP1 i'_NN1 Enclosed_VVN is_VBZ a_AT1 copy_NN1 of_IO 
+our_APPGE positio_NN1 statement_NN1 whic_JJ w_ZZ1 sent_VVN to_II th_NNU 
+news_NN1 releases_VVZ on_II Tuesday_NPD1 ,_, April_NPM1 24_MC ._. 
+W_ZZ1 are_VBR sending_VVG a_AT1 cop_NN1 of_IO the_AT sam_NN1 ._. to_II the_AT 
+Governor_NN1 and_CC to_II the_AT President_NN1 o_ZZ1 the_AT Pennsylvania_NP1 
+Association_NN1 fo_NN1 Retarded_JJ Children_NN2 We_PPIS2 are_VBR deeply_RR 
+concerned_JJ with_IW the_AT adverse_JJ criticism_NN1 regarding_II ou_FW 
+retarded_JJ children_NN2 as_II a_AT1 result_NN1 of_IO the_AT dismissal_NN1 
+of_IO Dr._NNB James_NP1 McClelland_NP1 ,_, an_AT1 are_VBR hopeful_JJ tha_DD1 
+this_DD1 criticism_NN1 will_VM not_XX set_VVI us_PPIO2 back_RP in_II our_APPGE 
+programmin_NN1 for_IF children_NN2 fo_NN1 whom_PNQO you_PPY have_VH0 been_VBN 
+so_RG concerned_JJ Perhaps_RR ,_, w_ZZ1 in_II Northwestern_JJ Pennsylvania_NP1 
+are_VBR getting_VVG more_DAR of_IO th_NNU "_" flack_NN1 than_CSN th_NNU 
+easter_NNT1 part_NN1 of_IO the_AT state_NN1 ,_, but_CCB the_AT criticism_NN1 
+is_VBZ runnin_NN1 rampan_NN1 about_II the_AT manne_NN1 in_II which_DDQ the_AT 
+Superintendent_NN1 was_VBDZ released_VVN W_ZZ1 are_VBR trying_VVG as_II a_AT1 
+Association_NN1 to_TO cement_VVI the_AT relations_NN2 betwee_NN1 all_DB 
+groups_NN2 concerned_JJ with_IW retarded_JJ children_NN2 and_CC we_PPIS2 
+trust_VV0 that_CST our_APPGE effort_NN1 will_VM bear_VVI fruit_NN We_PPIS2 
+want_VV0 you_PPY to_TO know_VVI that_CST we_PPIS2 appreciate_VV0 all_DB 
+you_PPY are_VBR doing_VDG for_IF th_NNU welfare_NN1 of_IO retarded_JJ 
+children_NN2 Sincerely_RR yours_PPGE Mrs._NNB Edward_NP1 Lubecki_NP1 
+Presiden_NP1 ERIE_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDRE_NN1 (_( 
+ERIE_NP1 COUNTY_NN1 CHAPTER_NN1 Affiliated_VVN with_IW PENNSYLVANIA_NP1 AND_CC 
+NATIONAL_JJ ASSOCIATIONS_NN2 FOR_IF RETARDED_JJ CHILDRE_NN1 136_MC East_ND1 
+Avenue_NN1 Erie_NP1 ,_, Pennsylvani_JJ Mrs._NNB Edward_NP1 Lubecki_NP1 ,_, 
+President_NN1 of_IO the_AT Erie_NP1 Association_NN1 for_IF Retarded_JJ 
+Children_NN2 ,_, Inc._JJ ,_, meeting_VVG with_IW the_AT Executive_NN1 
+Committee_NN1 of_IO the_AT Erie_NP1 Association_NN1 for_IF Retarded_JJ 
+Children_NN2 on_II Monday_NPD1 evening_NNT1 ,_, April_NPM1 23_MC ,_, 1973_MC 
+,_, issued_VVD the_AT following_JJ position_NN1 statement_NN1 "_" The_AT 
+Erie_NP1 Association_NN1 for_IF Retarded_JJ Children_NN2 is_VBZ concerned_JJ 
+with_IW all_DB retarded_JJ persons_NN2 living_VVG in_II institutions_NN2 ,_, 
+private_JJ or_CC public_NN1 ,_, in_II the_AT community_NN1 ,_, in_II 
+their_APPGE homes_NN2 ,_, in_II foster_JJ homes_NN2 ,_, or_CC group_NN1 
+homes_NN2 The_AT Association_NN1 is_VBZ concerned_JJ that_CST all_DB 
+retarded_JJ children_NN2 and_CC adults_NN2 be_VBI treated_VVN with_IW 
+kindness_NN1 ,_, love_NN1 and_CC dignity_NN1 and_CC that_CST they_PPHS2 
+receive_VV0 training_NN1 and_CC education_NN1 that_CST will_VM move_VVI 
+them_PPHO2 from_II dependence_NN1 to_II independence_NN1 We_PPIS2 further_RRR 
+assert_VV0 the_AT right_NN1 of_IO parents_NN2 to_TO speak_VVI on_II31 
+behalf_II32 of_II33 their_APPGE children_NN2 whether_CSW they_PPHS2 are_VBR 
+in_II an_AT1 institution_NN1 or_CC in_II the_AT community_NN1 We_PPIS2 are_VBR 
+not_XX fully_RR cognizant_JJ of_IO all_DB of_IO the_AT reasons_NN2 for_IF 
+the_AT dismissal_NN1 of_IO Dr._NNB James_NP1 McClelland_NP1 ,_, 
+Superintendent_NN1 of_IO Polk_NP1 State_NN1 School_NN1 ._. 
+However_RR ,_, we_PPIS2 do_VD0 believe_VVI the_AT Board_NN1 of_IO Trustees_NN2 
+of_IO Polk_NP1 State_NN1 School_NN1 should_VM have_VHI been_VBN involved_JJ 
+in_II any_DD decision-making_NN1 regarding_II the_AT operation_NN1 of_IO 
+the_AT Institution_NN1 Wince_NP1 Erie_NP1 County_NN1 has_VHZ children_NN2 
+at_II Polk_NP1 State_NN1 School_NN1 ,_, we_PPIS2 as_II an_AT1 Association_NN1 
+fully_RR affirm_VV0 the_AT request_NN1 of_IO Dr._NNB James_NP1 McClelland_NP1 
+for_IF a_AT1 hearing_NN1 ,_, and_CC we_PPIS2 further_RRR concur_VV0 with_IW 
+the_AT request_NN1 of_IO our_APPGE local_JJ legislators_NN2 for_IF a_AT1 
+full_JJ review_NN1 of_IO the_AT facts_NN2 so_CS21 that_CS22 all_DB people_NN 
+affected_VVN will_VM be_VBI fully_RR aware_JJ of_IO th_NNU factors_NN2 upon_II 
+which_DDQ this_DD1 decision_NN1 was_VBDZ reached._NNU 
+--e006d0ce481e8ff7d2881f88df4a5e13--_FU 

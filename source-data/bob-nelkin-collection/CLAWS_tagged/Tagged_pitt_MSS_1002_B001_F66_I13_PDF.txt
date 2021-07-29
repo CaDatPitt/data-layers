@@ -1,0 +1,25 @@
+
+OF_IO THE_AT PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 
+,_, INC_JJ 917-1001_MCMC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 
+15233_MC (_( 412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 
+Mulgrav_NP1 Executive_NN1 Director_NN1 C._NP1 A._NP1 Peter_NP1 March_NPM1 9_MC 
+,_, 197_MC TO_II :_: THE_AT STATE_NN1 SCHOOL_NN1 AND_CC HOSPITAL_NN1 AND_CC 
+INTERIM_JJ CARE_NN1 COMMITTE_NN1 FROM_II :_: BOB_NP1 NELKI_NP1 Below_RL Is_VBZ 
+the_AT distribution_NN1 and_CC cost_NN1 of_IO Allegheny_NP1 County_NN1 
+citizens_NN2 in_II the_AT state_NN1 schools_NN2 and_CC hospitals_NN2 ._. 
+The_AT list_NN1 was_VBDZ compiled_VVN a_AT1 year_NNT1 and_CC a_AT1 half_DB 
+ago_RA ,_, but_CCB the_AT data_NN Is_VBZ basically_RR accurate_JJ As_II21 
+of_II22 June_NPM1 30_MC ,_, 1971_MC ,_, there_EX were_VBDR 3,948_MC 
+Allegheny_NP1 County_NN1 citizens_NN2 In_II residence_NN1 at_II state_NN1 
+mental_JJ hospitals_NN2 ._. 
+The_AT cost_NN1 Is_VBZ 22.5_MC million_NNO dollars_NNU2 or_CC a_AT1 per_NN121 
+diem_NN122 of_IO $15.60_NNU per_II day_NNT1 and_CC an_AT1 annual_JJ 
+patient_NN1 care_NN1 cost_NN1 of_IO $5,697_NNU Other_JJ Items_NN2 to_TO 
+note_VVI :_: (_( I_ZZ1 )_) There_EX are_VBR almost_RR three_MC times_NNT2 
+as_RG many_DA2 Allegheny_NP1 County_NN1 citizens_NN2 at_II Polk_NP1 than_CSN 
+Western_JJ State_NN1 ._. 
+(_( 2_MC )_) There_EX are_VBR 474_MC Allegheny_NP1 County_NN1 citizens_NN2 
+In_II state_NN1 schools_NN2 and_CC hospitals_NN2 besides_II Polk_NP1 and_CC 
+Western_NP1 (_( 3_MC )_) The_AT data_NN does_VDZ not_XX Include_VV0 the_AT 
+number_NN1 of_IO mentally_RR retarded_JJ Individuals_NN2 who_PNQS are_VBR 
+In_II residence_NN1 at_II the_AT state_NN1 mental_JJ hospitals_NN2 

@@ -1,0 +1,211 @@
+
+July_NPM1 1976_MC 1001_MC BRIGHTON_NP1 ROAD_NN1 Pittsburgh_NP1 ,_, 
+Pennsylvania_NP1 15233_MC telephone._NNU (_( 412_MC )_) 322600_MC 
+ALLEGHENY_NP1 COUNTY_NN1 URGENTLY_RR NEEDS_VVZ ALTERNATIVES_NN2 TO_II 
+INSTITUTION_NN1 Mary_NP1 Wilson_NP1 ,_, the_AT parent_NN1 of_IO an_AT1 
+18-year_JJ old_JJ son_NN1 who_PNQS requires_VVZ 24-hour_NNT1 a_AT1 day_NNT1 
+supervision_NN1 ,_, asked_VVD the_AT Allegheny_NP1 County_NN1 Chapter_NN1 
+to_TO organize_VVI a_AT1 meeting_NN1 to_TO answer_VVI for_IF her_PPHO1 and_CC 
+other_JJ parents_NN2 who_PNQS keep_VV0 their_APPGE retarded_JJ son_NN1 or_CC 
+daughter_NN1 at_II home_NN1 one_MC1 overwhelming_JJ question_NN1 :_: what_DDQ 
+will_VM happen_VVI to_II my_APPGE dependent_JJ child_NN1 when_CS I_PPIS1 
+die_VV0 The_AT meeting_NN1 was_VBDZ held_VVN on_II June_NPM1 26th_MD ,_, 
+attended_VVN by_II nearly_RR 300_MC parents_NN2 and_CC the_AT Secretary_NN1 
+of_IO the_AT Public_JJ Welfare_NN1 Department_NN1 ,_, Frank_NP1 Beal_NP1 ._. 
+For_IF two_MC hours_NNT2 the_AT parents_NN2 demonstrated_VVD the_AT need_NN1 
+for_IF more_DAR alternatives_NN2 to_TO state_VVI institutions_NN2 by_II 
+revealing_VVG to_II Secretary_NP1 Beal_NP1 their_APPGE family_NN1 's_GE 
+needs_NN2 Many_DA2 of_IO the_AT situations_NN2 that_CST parents_NN2 
+described_VVN were_VBDR "_" urgent_JJ "_" ,_, "_" critical_JJ "_" ,_, "_" 
+immediate_JJ "_" ,_, and_CC "_" desperate_JJ "_" ._. 
+Other_JJ parents_NN2 were_VBDR worried_VVN about_II what_DDQ would_VM 
+happen_VVI to_II their_APPGE son/daughter_NN1 when_CS they_PPHS2 (_( the_AT 
+parents_NN2 )_) die_VV0 The_AT parents_NN2 generally_RR were_VBDR 
+frustrated_VVN and/or_CC angered_VVN at_II the_AT state_NN1 DPW_NP1 for_IF 
+failing_VVG to_TO develop_VVI alternatives_NN2 to_II institutions_NN2 at_II 
+a_AT1 reasonable_JJ rate_NN1 ._. 
+Robert_NP1 Matesic_NN1 ,_, ACC-PARC_NP1 President_NN1 ,_, told_VVD Mr._NNB 
+Beal_NP1 "_" We_PPIS2 plead_VV0 with_IW the_AT government_NN1 of_IO the_AT 
+State_NN1 of_IO Pennsylvania_NP1 through_II the_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 to_TO provide_VVI our_APPGE children_NN2 with_IW a_AT1 
+decent_JJ place_NN1 to_TO live_VVI and_CC learn_VVI to_TO avert_VVI 
+their_APPGE possible_JJ warehousing_NN1 in_II an_AT1 institution_NN1 when_CS 
+we_PPIS2 die_VV0 ._. 
+We_PPIS2 do_VD0 n't_XX want_VVI just_RR a_AT1 bed_NN1 and_CC a_AT1 roof_NN1 
+for_IF our_APPGE sons_NN2 and_CC daughters_NN2 ._. 
+We_PPIS2 want_VV0 a_AT1 clean_JJ ,_, sanitary_JJ ,_, safe_JJ ,_, 
+comfortable_JJ living_JJ arrangement_NN1 with_IW the_AT type_NN1 of_IO 
+constant_JJ supervision_NN1 and_CC advice_NN1 we_PPIS2 've_VH0 given_VVN 
+our_APPGE children_NN2 all_DB their_APPGE lives_NN2 ._. 
+ACC-PARC_NP1 distributed_VVD a_AT1 paper_NN1 entitled_VVN "_" Pretty_JJ 
+Words_NN2 ?_? 
+Or_CC a_AT1 Real_JJ Commitment_NN1 ?_? 
+State_VV0 Officials_NN2 Talk_VV0 About_II Alternatives_NN2 to_II 
+Institutions_NN2 "_" ._. 
+Interspersed_VVN between_II the_AT Governor_NN1 's_GE and_CC Welfare_NN1 
+Secretary_NN1 's_GE proclamations_NN2 favoring_VVG community_NN1 living_NN1 
+were_VBDR these_DD2 facts_NN2 (_( 1_MC1 )_) the_AT state_NN1 funded_VVN 
+only_RR one_MC1 new_JJ group_NN1 home_RL for_IF the_AT county_NN1 in_II the_AT 
+last_MD year_NNT1 (_( 2_MC )_) the_AT state_NN1 is_VBZ funding_VVG no_AT 
+new_JJ group_NN1 homes_NN2 for_IF the_AT county_NN1 in_II the_AT next_MD 
+year_NNT1 (_( continued_VVN (_( continued_VVN (_( 3_MC )_) during_II the_AT 
+last_MD year_NNT1 the_AT state_NN1 funded_VVN no_AT new_JJ foster_JJ homes_NN2 
+in_II Allegheny_NP1 County_NN1 (_( 4_MC )_) according_II21 to_II22 the_AT 
+states_NN2 plan_VV0 ,_, the_AT county_NN1 has_VHZ received_VVN $1_NNU 
+million_NNO less_DAR for_IF community_NN1 living_NN1 than_CSN was_VBDZ 
+promised_VVN ._. 
+This_DD1 means_VVZ 100_MC less_DAR people_NN are_VBR being_VBG served_VVN 
+than_CSN planned_VVN (_( 5_MC )_) there_EX is_VBZ a_AT1 shortage_NN1 of_IO 
+adult_NN1 training_NN1 programs_NN2 in_II the_AT county_NN1 ._. 
+Nearly_RR 200_MC individuals_NN2 are_VBR sitting_VVG at_II home_NN1 
+awaiting_VVG the_AT start_NN1 of_IO new_JJ sheltered_JJ workshops_NN2 or_CC 
+adult_NN1 activity_NN1 centers_NN2 (_( 6_MC )_) there_EX is_VBZ no_AT 
+place_NN1 for_IF people_NN to_TO go_VVI who_PNQS need_VV0 residential_JJ 
+care_NN1 ._. 
+Admissions_NN2 to_II Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 
+are_VBR closed_VVN ._. 
+Private_JJ institutions_NN2 are_VBR filled_VVN and_CC no_AT alternatives_NN2 
+are_VBR being_VBG built_VVN Parents_NN2 ,_, not_XX wanting_VVG to_TO hear_VVI 
+any_DD more_DAR "_" pretty_JJ words_NN2 "_" from_II the_AT state_NN1 ,_, 
+had_VHD invited_VVN Secretary_NP1 Beal_NP1 to_TO listen_VVI only_RR ,_, not_XX 
+to_TO speak_VVI ._. 
+The_AT co-chairpersons_NN2 of_IO the_AT meeting_NN1 ,_, Marlene_NP1 Burda_NP1 
+and_CC Mary_NP1 Wilson_NP1 ,_, suggested_VVN to_II Mr._NNB Beal_NP1 that_CST 
+he_PPHS1 respond_VV0 through_II actions_NN2 rather_II21 than_II22 words_NN2 
+._. 
+They_PPHS2 suggested_VVD anong_NN1 other_JJ ways_NN2 that_CST he_PPHS1 
+might_VM ask_VVI for_IF a_AT1 supplemental_JJ appropriation_NN1 from_II the_AT 
+legislature_NN1 for_IF community_NN1 services_NN2 ,_, make_VV0 the_AT 
+five-year_JJ plan_NN1 more_RGR ambitious_JJ ,_, and_CC cut_VV0 some_DD of_IO 
+the_AT red_JJ tape_NN1 At_II the_AT end_NN1 of_IO the_AT meeting_NN1 
+Secretary_NN1 Beal_NP1 thanked_VVD the_AT parents_NN2 for_IF sharing_VVG 
+their_APPGE needs_NN2 with_IW him_PPHO1 ._. 
+He_PPHS1 stated_VVD ._. 
+"_" I_PPIS1 will_VM stand_VVI on_II my_APPGE words_NN2 and_CC those_DD2 of_IO 
+my_APPGE predecessors_NN2 ._. "_" 
+The_AT Secretary_NN1 plans_VVZ to_TO meet_VVI again_RT in_II September_NPM1 
+with_IW the_AT Allegheny_NP1 County_NN1 parents_NN2 to_TO tell_VVI them_PPHO2 
+of_IO the_AT actions_NN2 he_PPHS1 has_VHZ taken_VVN During_II the_AT 
+summer_NNT1 parents_NN2 plan_VV0 to_TO meet_VVI within_II their_APPGE own_DA 
+communities_NN2 ,_, to_TO "_" organize_VVI their_APPGE thoughts_NN2 and_CC 
+their_APPGE needs_NN2 "_" ._. 
+Parents_NN2 who_PNQS are_VBR interested_JJ in_II volunteering_VVG to_TO 
+participate_VVI in_II these_DD2 meetings_NN2 are_VBR asked_VVN to_TO call_VVI 
+the_AT Chapter_NN1 office_NN1 ,_, 322-6008_MCMC ,_, or_CC mail_VV0 the_AT 
+return_NN1 form_NN1 contained_VVN in_II this_DD1 issue_NN1 of_IO the_AT 
+Accents_NN2 Several_DA2 legislators_NN2 also_RR attended_VVD the_AT 
+meeting_NN1 ,_, and_CC expressed_VVD their_APPGE appreciation_NN1 for_IF 
+the_AT manner_NN1 in_II which_DDQ the_AT parents_NN2 publicly_RR voiced_VVD 
+their_APPGE concerns_NN2 :_: "_" anger_VV0 and_CC frustration_NN1 ,_, yes_UH 
+,_, but_CCB not_XX arm-waving_JJ hostility_NN1 "_" ._. 
+(_( NOTE_VV0 :_: legislators_NN2 attending_VVG were_VBDR Senators_NN2 Early_RR 
+and_CC Romanelli_NP1 ,_, Representatives_NN2 Abraham_NP1 ,_, Caputo_NP1 ,_, 
+Raven-stahl_NN1 ._. 
+Rep._NNB Fisher_NP1 sent_VVD a_AT1 representative_NN1 ._. 
+After_CS the_AT meeting_NN1 ,_, Mary_NP1 Wilson_NP1 knew_VVD one_MC1 thing_NN1 
+for_RR21 sure_RR22 .._... most_DAT parents_NN2 share_VV0 her_APPGE concern_NN1 
+for_IF her_APPGE son_NN1 's_GE future_NN1 ._. 
+As_CSA one_MC1 parent_NN1 said_VVD ,_, "_" My_APPGE heart_NN1 goes_VVZ out_RP 
+to_II all_DB of_IO us_PPIO2 ._. 
+Yes_UH ,_, I_PPIS1 would_VM like_VVI to_TO participate_VVI in_II meetings_NN2 
+to_TO discuss_VVI needed_VVN alterna_NN1 tives_NN2 to_II institutions_NN2 
+NAME_VV0 PHONE_NN1 ADDRESS_NN1 ZIP_NN1 Please_RR return_VV0 promptly_RR to_II 
+ACC-PARC_NP1 ,_, 1001_MC Brighton_NP1 Rd._NNL1 ,_, Pgh._NP1 ,_, Pa._NP1 
+15233_MC ,_, or_CC call_VV0 322-6008_MCMC S._NP1 ASHER_NN1 WINIKOFF_NN1 ,_, 
+ESQ_NN1 ..._... as_CSA Outstanding_JJ Advocate_NN1 ,_, especially_RR in_II 
+the_AT area_NN1 of_IO the_AT Right_NN1 to_II Education_NN1 decree_NN1 ._. 
+"_" He_PPHS1 is_VBZ sensitive_JJ to_II the_AT needs_NN2 of_IO people_NN 
+who_PNQS are_VBR mentally_RR retarded_JJ and_CC has_VHZ served_VVN to_TO 
+assure_VVI them_PPHO2 of_IO their_APPGE equal_JJ rights_NN2 ._. 
+lie_VV0 has_VHZ enabled_VVN them_PPHO2 to_TO receive_VVI the_AT education_NN1 
+to_II which_DDQ they_PPHS2 are_VBR entitled_VVN ._. 
+lie_VV0 has_VHZ spoken_VVN in_II their_APPGE behalf_NN1 ._. 
+MARLENE_NP1 BURD_NP1 ..._... as_CSA Parent_NN1 of_IO the_AT Year_NNT1 ._. 
+She_PPHS1 has_VHZ devoted_VVN her_APPGE energies_NN2 to_II the_AT 
+betterment_NN1 of_IO the_AT world_NN1 for_IF children_NN2 and_CC adults_NN2 
+who_PNQS are_VBR mentally_RR retarded_JJ ;_; has_VHZ traveled_VVN 
+throughout_II the_AT state_NN1 monitoring_NN1 conditions_NN2 in_II 
+residential_JJ facilities_NN2 ;_; has_VHZ been_VBN outspoken_JJ in_II 
+demanding_VVG the_AT rights_NN2 of_IO retarded_JJ citizens_NN2 ._. 
+Presented_VVN "_" on_II31 behalf_II32 of_II33 all_DB those_DD2 whom_PNQO 
+she_PPHS1 has_VHZ served_VVN and_CC whose_DDQGE lives_NN2 have_VH0 been_VBN 
+enriched_VVN through_II her_APPGE efforts_NN2 ._. 
+COMMUNITY_NN1 COLLEGE_NN1 OF_IO ALLEGHENY_NP1 COUNTY/CENTER_NN1 NORT_NN1 
+..._... for_IF outstanding_JJ educational_JJ programming_NN1 in_II the_AT 
+area_NN1 o_ZZ1 developmental_JJ disabilities_NN2 ._. 
+Benefitting_VVG from_II these_DD2 programs_NN2 have_VH0 been_VBN members_NN2 
+of_IO families_NN2 ,_, board_NN1 and_CC staff_NN members_NN2 ,_, and_CC 
+retarded_JJ citizens_NN2 themselves_PPX2 ._. 
+"_" For_IF significant_JJ contribution_NN1 in_II community_NN1 education_NN1 
+._. 
+JUNIOR_JJ CLUBWOME_NN1 ..._... 3,000_MC members_NN2 of_IO the_AT 27_MC 
+clubs_NN2 in_II the_AT Junior_JJ division_NN1 of_IO the_AT Allegheny_NP1 
+County_NN1 Federation_NN1 of_IO Women_NN2 's_GE Clubs_NN2 raised_VVD over_RG 
+$10,000_NNU during_II the_AT past_JJ 2_MC years_NNT2 to_TO furnish_VVI and_CC 
+equip_VVI the_AT North_ND1 Side_NN1 Developmental_JJ Center_NN1 ._. 
+With_IW mental_JJ retardation_NN1 as_CSA their_APPGE Director_NN1 's_GE 
+special_JJ project_NN1 ,_, the_AT Juniors_NN2 "_" furthered_VVD their_APPGE 
+many_DA2 years_NNT2 of_IO commitment_NN1 to_II ACC_NP1 by_II continuing_VVG 
+to_TO serve_VVI as_CSA volunteers_NN2 and_CC advocates_NN2 ._. 
+CLIPPED_JJ WINGS_NN2 ..._... for_IF 5_MC years_NNT2 volunteer_VV0 services_NN2 
+and_CC fund-raising_JJ activities_NN2 demonstrating_VVG continuing_JJ 
+interest_NN1 in_II the_AT growth_NN1 and_CC improvement_NN1 of_IO the_AT 
+North_ND1 Side_NN1 Developmental_JJ Center_NN1 ._. 
+"_" Year-round_JJ advocates_NN2 within_II their_APPGE communities_NN2 ,_, 
+truly_RR concerned_JJ about_II the_AT futures_NN2 of_IO those_DD2 we_PPIS2 
+serve_VV0 ._. 
+BETTY_NP1 SCHRASS_NP1 ..._... for_IF outstanding_JJ volunteer_NN1 services_NN2 
+to_II Parc-way_JJ Industries/_FU North_ND1 ._. 
+"_" A_AT1 dedicated_JJ ,_, trustworthy_JJ ,_, dependable_JJ woman_NN1 who_PNQS 
+has_VHZ compassion_NN1 and_CC understands_VVZ the_AT needs_NN2 of_IO the_AT 
+employees_NN2 ._. 
+DARLENE_NP1 RIZZA_NP1 ..._... as_CSA Outstanding_JJ Youth_NN1 Volunteer_NN1 
+._. 
+She_PPHS1 is_VBZ one_MC1 of_IO the_AT leaders_NN2 of_IO the_AT Hope_NN1 
+Corps_NN and_CC has_VHZ been_VBN a_AT1 volunteer_NN1 camp_NN1 counselor_NN1 
+for_IF the_AT past_JJ 2_MC years_NNT2 ._. 
+"_" An_AT1 invaluable_JJ asset_NN1 to_II our_APPGE program_NN1 ._. 
+PERRY-HIGHLAND_JJ JUNIOR_JJ WOMAN_NN1 'S_GE CLUB_NN1 ..._... for_IF 
+volunteer_NN1 services_NN2 to_II the_AT North_ND1 Hills_NN2 Developmental_JJ 
+Center_NN1 for_IF nearly_RR 17_MC years_NNT2 ._. 
+For_IF "_" continuing_JJ generosity_NN1 and_CC continuing_JJ concern_NN1 of_IO 
+members_NN2 who_PNQS have_VH0 given_VVN so_RG willingly_RR of_IO their_APPGE 
+time_NNT1 ,_, their_APPGE talents_NN2 and_CC their_APPGE affections_NN2 ._. 
+LOUIS_NP1 SLAIS_NP1 .._... for_IF Special_JJ Services_NN2 ._. 
+Mr._NNB Slais_NP1 '_GE award_NN1 recognizes_VVZ his_APPGE threefold_JJ 
+contribution_NN1 :_: as_CSA President_NN1 of_IO Pittsburgh_NP1 Brewing_NN1 
+Company_NN1 (_( ACC_NP1 's_GE "_" box_NN1 factory_NN1 "_" assembles_VVZ 
+cases_NN2 for_IF the_AT brewery_NN1 )_) ;_; as_II a_AT1 member_NN1 of_IO 
+ACC_NP1 's_GE Board_NN1 of_IO Directors_NN2 ;_; as_II a_AT1 member_NN1 of_IO 
+PARC-way_JJ Industries_NN2 '_GE Advisory_JJ Board_NN1 ._. 
+"_" lie_VV0 has_VHZ been_VBN concerned_JJ with_IW the_AT overall_JJ 
+development_NN1 of_IO Chapter_NN1 resources_NN2 and_CC programs_NN2 ._. 
+BELL_NN1 OF_IO PENNSYLVANIA_NP1 and_CC WESTERN_JJ ELECTRIC_JJ CO._NP1 ,_, 
+INC._JJ .._... for_IF contributing_VVG toward_II the_AT growth_NN1 and_CC 
+development_NN1 of_IO Parc-way_JJ Industries/East_FU ._. 
+"_" In_II recognition_NN1 of_IO their_APPGE contributions_NN2 in_II 
+developing_JJ work_NN1 skills_NN2 and_CC providing_VVG meaningful_JJ work_NN1 
+opportunities_NN2 and_CC for_IF their_APPGE confidence_NN1 in_II the_AT 
+abilities_NN2 of_IO workers_NN2 who_PNQS are_VBR mentally_RR retarded_JJ ._. 
+***_FO BICENTENNIAL_JJ BIKE/HIKE_NN1 AWARDS_NN2 Despite_II the_AT fact_NN1 
+that_CST rain_NN1 and_CC tornado-like_JJ winds_NN2 forced_VVD Allegheny_NP1 
+County_NN1 to_TO cancel_VVI or_CC curtail_VVI events_NN2 in_II some_DD 
+locations_NN2 ,_, ACC-PARC_NP1 had_VHD the_AT most_RGT successful_JJ Bike/_NN1 
+Hike_NN1 in_II the_AT entire_JJ state_NN1 For_IF this_DD1 success_NN1 we_PPIS2 
+thank_VV0 our_APPGE Chairman_NN1 ,_, Rocky_NP1 Bleier_NP1 (_( who_PNQS 
+carried_VVD his_APPGE 2-year_JJ old_JJ daughter_NN1 ,_, Samantha_NP1 ,_, on_II 
+his_APPGE back_NN1 for_IF 10_MC miles_NNU2 )_) ,_, 30_MC local_JJ 
+celebrities_NN2 (_( radio_NN1 and_CC TV_NN1 personalities_NN2 and_CC 
+Pittsburgh_NP1 Steelers_NP1 )_) ,_, 57_MC organizations_NN2 who_PNQS 
+coordinated_VVD and_CC helped_VVD at_II local_JJ bike/hikes_FU ,_, 50_MC 
+police_NN2 and_CC fire_NN1 departments_NN2 ,_, the_AT 28th_MD Signal_NN1 
+Battalion_NN1 of_IO the_AT National_JJ Guard_NN1 and_CC the_AT County_NN1 
+Sheriff_NN1 's_GE Department_NN1 ,_, and_CC 75_MC businesses_NN2 and_CC 
+organizations_NN2 who_PNQS donated_VVD refreshments_NN2 and_CC prizes_NN2 ._. 
+Most_DAT of_IO all_DB we_PPIS2 thank_VV0 all_DB who_PNQS braved_VVD the_AT 
+wind_NN1 and_CC rain_NN1 ,_, biking_VVG and_CC hiking_VVG in_II 33_MC 
+rides_NN2 and_CC hikes_NN2 held_VVN in_II 26_MC locations_NN2 throughout_II 
+Allegheny_NP1 County_NN1 ,_, their_APPGE sponsors_NN2 ,_, and_CC the_AT 
+coordinators_NN2 of_IO each_DD1 event_NN1 ._. 
+TRANK_VV0 YOU_PPY !_! 
+Outstandin_NN1 ,_, their_APPGE sponsors_NN2 

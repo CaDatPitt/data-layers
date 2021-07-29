@@ -1,0 +1,35 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFAR_NP1 POLK_NP1 STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 POLK_NP1 ._. 
+PENNSYLVANI_NP1 1634_MC August_NPM1 30_MC ,_, 197_MC Dear_JJ 
+Parents/Guardian_FU Your_APPGE child_NN1 will_VM be_VBI placed_VVN in_II 
+an_AT1 educational_JJ program_NN1 under_II the_AT supervision_NN1 of_IO 
+Intermediate_JJ Unit_NN1 6_MC effective_JJ September_NPM1 1_MC1 ,_, 1973_MC 
+This_DD1 plpcement_NN1 is_VBZ the_AT direct_JJ result_NN1 of_IO the_AT 
+Right_NN1 to_II Education_NN1 Consent_NN1 Agreement_NN1 At_II this_DD1 
+time_NNT1 we_PPIS2 want_VV0 to_TO provide_VVI you_PPY with_IW a_AT1 school_NN1 
+calendar_NN1 in_BCL21 order_BCL22 that_CST you_PPY can_VM plan_VVI your_APPGE 
+visits_NN2 to_II your_APPGE child_NN1 and_CC your_APPGE childs_NN2 
+vacations_NN2 around_II this_DD1 calendar_NN1 ._. 
+We_PPIS2 ask_VV0 that_CST vacations_NN2 and_CC visits_NN2 occur_VV0 during_II 
+off-school_JJ times_NNT2 ._. 
+For_REX21 example_REX22 ,_, during_II established_JJ Thanksgiving_NN1 and_CC 
+Christmas_NNT1 vacations_NN2 or_CC on_II weekends_NNT2 your_APPGE child_NN1 
+could_VM be_VBI taken_VVN home_RL for_IF vacation_NN1 ._. 
+Visits_NN2 will_VM be_VBI possible_JJ after_II school_NN1 hours_NNT2 and_CC 
+on_II weekends_NNT2 Of_RR21 course_RR22 ,_, there_EX may_VM be_VBI special_JJ 
+times_NNT2 when_RRQ you_PPY may_VM need_VVI to_TO have_VHI your_APPGE 
+child_NN1 home_RL during_II school_NN1 time_NNT1 ._. 
+This_DD1 should_VM be_VBI the_AT exception_NN1 rather_II21 than_II22 the_AT 
+rule_NN1 but_CCB we_PPIS2 will_VM try_VVI to_TO assist_VVI you_PPY during_II 
+these_DD2 special_JJ times_NNT2 We_PPIS2 look_VV0 forward_RL to_II your_APPGE 
+involvement_NN1 with_IW the_AT Intermediate_JJ Unit_NN1 6_MC staff_NN as_CSA 
+they_PPHS2 develop_VV0 educational_JJ programs_NN2 here_RL at_II Polk_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 ._. 
+It_PPH1 is_VBZ anticipated_VVN that_CST at_II some_DD future_JJ date_NN1 
+during_II the_AT school_NN1 term_NN1 a_AT1 Parents_NN2 Day_NP1 will_VM be_VBI 
+held_VVN when_CS you_PPY will_VM be_VBI given_VVN an_AT1 opportunity_NN1 to_TO 
+visit_VVI the_AT school_NN1 ._. and_CC observe_VVI programs_NN2 in_II 
+operation_NN1 and_CC talk_VV0 with_IW the_AT staff_NN members_NN2 Sincerely_RR 
+yours_PPGE Director_NN1 of_IO Special_JJ Educatio_NP1 Intermediate_JJ Unit_NN1 
+DBG/klb/dss_VV0 encl._NNU --db0b0adf0909a37f7ba79b0111990955--_FU 

@@ -1,0 +1,46 @@
+
+HELENE_NP1 WOHLGEMUTH_NP1 SECRETAR_NP1 February_NPM1 15_MC ,_, 197_MC 
+TELEPHONE_NN1 NUMBER_NN1 y_ZZ1 787-2600_MCMC ,_, 787-3600_MCMC AREA_NN1 
+CODE_NN1 71_MC Mrs._NNB Virginia_NP1 Thornburg_NP1 Chairman_NN1 ,_, State_VV0 
+Schools_NN2 and_CC Hospitals_NN2 and_CC Interim_JJ Care_NN1 Committe_NP1 
+Allegheny_NP1 County_NN1 Chapter_NN1 of_IO the_AT Pennsylvania_NP1 
+Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, Inc_JJ 917-1001_MCMC 
+Brighton_NP1 Roa_NP1 Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC Dear_JJ 
+Thank_VV0 you_PPY for_IF your_APPGE letter_NN1 of_IO January_NPM1 24_MC ,_, 
+1973._MC responding_VVG to_II the_AT item_NN1 concerning_II the_AT 
+composition_NN1 of_IO the_AT on_II Interim_JJ Care_NN1 I_PPIS1 a_AT1 Task_NN1 
+Forc_NP1 The_AT State-wide_JJ Task_NN1 Force_NN1 on_II Interim_JJ Care_NN1 
+will_VM include_VVI consumers_NN2 and/or_CC parents_NN2 of_IO retarded_JJ 
+persons_NN2 ,_, service_NN1 providers_NN2 ,_, base_NN1 service_NN1 unit_NN1 
+and_CC county_NN1 program_NN1 office_NN1 personnel_NN2 ,_, and_CC regional_JJ 
+mental_JJ retardation_NN1 staff_NN ._. 
+A_AT1 Sub-committee_NN1 on_II Mental_JJ Retardation_NN1 ,_, part_NN1 of_IO 
+the_AT Mental_JJ Health_NN1 and_CC Mental_JJ Retardation_NN1 Advisory_JJ 
+Committee_NN1 ,_, is_VBZ presently_RR organizing_VVG the_AT Task_NN1 Force_NN1 
+which_DDQ has_VHZ as_CSA its_APPGE ultimate_JJ objective_NN1 the_AT 
+restructuring_NN1 of_IO the_AT interim_JJ care_NN1 program_NN1 to_TO 
+secure_VVI the_AT highest_JJT possible_JJ quality_NN1 of_IO residential_JJ 
+care_NN1 provided_VVN by_II the_AT private_JJ sector_NN1 for_IF the_AT 
+mentally_RR retarded_VVD The_AT Task_NN1 Force_NN1 will_VM make_VVI the_AT 
+final_JJ review_NN1 of_IO the_AT regional_JJ team_NN1 findings_NN2 and_CC 
+recommend_VV0 action_NN1 priorities_NN2 for_IF those_DD2 private_JJ 
+licensed_JJ facilities_NN2 in_II31 need_II32 of_II33 improvement_NN1 ._. 
+One_MC1 of_IO the_AT primary_JJ functions_NN2 of_IO the_AT Interim_JJ Care_NN1 
+Task_NN1 Force_NN1 is_VBZ to_TO make_VVI policy_NN1 recommendations_NN2 for_IF 
+the_AT future_NN1 of_IO interim_JJ care_NN1 within_II the_AT framework_NN1 
+of_IO the_AT residential_JJ services_NN2 delivery_NN1 system_NN1 ._. 
+Secondarily_RR ,_, the_AT Task_NN1 Force_NN1 will_VM offer_VVI suggestions_NN2 
+to_TO improve_VVI the_AT private_JJ licensed_JJ facility_NN1 review_NN1 
+process_NN1 recently_RR completed_VVN throughout_II the_AT State_NN1 The_AT 
+Department_NN1 continues_VVZ to_TO demonstrate_VVI its_APPGE commitmen_NN2 
+to_TO improve_VVI the_AT care_NN1 and_CC treatment_NN1 of_IO mentally_RR 
+disabled_JJ citizens_NN2 in_II the_AT Commonwealth_NN1 ._. 
+I_PPIS1 appreciate_VV0 your_APPGE continuing_JJ support_NN1 and_CC 
+assistance_NN1 in_II our_APPGE efforts_NN2 leading_VVG to_II resolution_NN1 
+of_IO what_DDQ has_VHZ long_RR been_VBN recognized_VVN as_II a_AT1 problem_NN1 
+situation_NN1 ._. 
+We_PPIS2 welcome_VV0 the_AT participation_NN1 and_CC involvement_NN1 of_IO 
+all_DB those_DD2 concerned_JJ with_IW upgrading_VVG existing_JJ situations_NN2 
+and_CC ensuring_VVG that_CST those_DD2 situations_NN2 do_VD0 not_XX occur_VVI 
+for_IF future_JJ citizens_NN2 Sincerely_RR (_( Mrs._NNB )_) Helene_NP1 
+Wohlgemut_NP1 --d3bda27f6c6ade3c710f6e18b36b5458--_FU 

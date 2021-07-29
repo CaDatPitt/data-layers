@@ -1,0 +1,41 @@
+
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 t5CO_FO 
+NORTH_ND1 SECOND_MD STREET_NN1 HARRIS8URG_FO ,_, PA._NN1 1_MC1 71C_FO TEL_NN1 
+:_: (_( 717_MC )_) 234-262_MCMC :_: -J_NP1 MEMO_NN1 TO_II Officer_NN1 PARC_NP1 
+Residential_JJ Services_NN2 Committe_NN1 All_DB Regional_JJ Residential_JJ 
+Services_NN2 Committee_NN1 DATE_NN1 July_NPM1 11_MC ,_, 197_MC FROM_II RE_NP1 
+Recent_JJ l_ZZ1 Diane_NP1 J_ZZ1 Attached_VVN ,_, for_IF your_APPGE 
+information_NN1 and_CC review_NN1 ,_, are_VBR several_DA2 summaries_NN2 of_IO 
+recent_JJ court_NN1 cases_NN2 which_DDQ affect_VV0 residents_NN2 living_VVG 
+in_II Pennsylvania_NP1 facilities_NN2 1_MC1 ._. 
+-_- Vecchione_VV0 v._II Wohlgemuth_NP1 :_: ensures_VVZ that_CST no_AT 
+resident_NN1 of_IO a_AT1 state_NN1 hospital_NN1 shall_VM be_VBI deprived_VVN 
+of_IO any_DD property_NN1 unless_CS and_CC until_CS he_PPHS1 has_VHZ been_VBN 
+determined_VVN incompetent_JJ and_CC a_AT1 court_NN1 authorizes_VVZ such_DA 
+an_AT1 undertaking_NN1 2_MC ._. 
+Downs_NN2 v._II Pennsylvania_NP1 DPW_NP1 :_: outlines_NN2 the_AT plan_NN1 
+which_DDQ DPW_NP1 shall_VM implement_VVI to_TO prevent_VVI peonage_NN1 in_II 
+residential_JJ facilities_NN2 3_MC ._. 
+Mental_JJ Patients_NN2 Civil_JJ Liberties_NN2 Project_NN1 v._II DPW_NP1 :_: 
+assures_VVZ residents_NN2 in_II mental_JJ hospitals_NN2 the_AT right_NN1 to_TO 
+free_VVI communication_NN1 and_CC the_AT right_NN1 to_TO organize_VVI 4_MC ._. 
+In_RP re_II Zeiler_NP1 :_: involves_VVZ the_AT commitment_NN1 of_IO a_AT1 
+13-year-old_JJ girl_NN1 to_II the_AT County_NN1 MH/MR_FU Program_NN1 
+rather_II21 than_II22 Western_JJ State_NN1 School_NN1 ._. 
+Furthermore_RR ,_, the_AT court_NN1 affirmed_VVD DPW_NP1 's_GE financial_JJ 
+responsibility_NN1 for_IF the_AT child_NN1 cc_NNU :_: Gilhoo_NP1 Bazelon_NP1 
+Haggerty_NP1 Cohe_NP1 Polloni_NP1 Inlander_NP1 Sell_VV0 Rot_NN1 Nasta_NP1 
+V_ZZ1 mental_JJ health_NN1 la_FW Z._NP1 *_FU X_MC --_JJ 'V_NN1 
+Pennsylvania_NP1 Welfare_NN1 Department_NN1 Ordered_VVD to_TO Repay_VV0 to_II 
+Past_RL and_CC Present_JJ Patients_NN2 All1_FO Sums_VVZ Wrongfully_RR 
+Withheld_VVN and_CC Applied_VVN to_II Costs_NN2 of_IO Their_APPGE 
+Maintenanc_NP1 '_GE -_- ;_; '_" -_- .._... 
+._. The_AT plan_NN1 also_RR provides_VVZ that_CST patients_NN2 are_VBR 
+limited_VVN to_II working_VVG in-lhe_JJ areas_NN2 of_IO dietary_JJ ,_, 
+housekeeping_NN1 ,_, laundry_NN1 and_CC patient_NN1 care_NN1 ,_, and_CC all_DB 
+patients_NN2 are_VBR to_TO be_VBI paid_VVN according_II21 to_II22 their_APPGE 
+productive_JJ capacities_NN2 ._. 
+A_AT1 patient_NN1 may_VM not_XX work_VVI more_DAR than_CSN 15_MC hours_NNT2 
+per_II week_NNT1 ._. 
+Incidental_JJ work_NN1 which_DDQ is_VBZ nonproductive_JJ and_CC 
+interpersonal_JJ and_CC is_VBZ 

@@ -1,0 +1,202 @@
+
+IN_II THE_AT UNITED_NP1 STATES_NP1 DISTRICT_NN1 COURT_NN1 FOR_IF THE_AT 
+EASTERN_JJ DISTRICT_NN1 OF_IO PENNSYLVANI_NP1 TERRI_NP1 LEE_NP1 HALDERMAN_NP1 
+,_, et_RA21 al_RA22 ._. 
+Plaintiff_NN1 v_II PENNHURST_NP1 STATE_NN1 SCHOOL_NN1 AN_AT1 HOSPITAL_NN1 ,_, 
+et_RA21 al_RA22 ._. 
+Defendant_NN1 UNITED_JJ STATES_NN2 OF_IO AMERICA_NP1 Plaintiff-Interveno_NP1 
+PENNSYLVANIA_NP1 ASSOCIATION_NN1 FO_NP1 M_ZZ1 -RETARDED_JJ CITIZENS_NN2 ,_, 
+et_RA21 al_RA22 ._. 
+Plaintiffs-Intervenor_JJ CIVIL_JJ ACTION_NN1 NO._NP1 74-134_MCMC ORDE_NN1 
+AND_CC NOW_RT ,_, this_DD1 day_NNT1 of_IO May_NPM1 ,_, 1980_MC ,_, it_PPH1 
+is_VBZ hereb_NN1 ordered_VVN as_CSA follows_VVZ 1_MC1 ._. 
+The_AT Commonwealth_NN1 and_CC county_NN1 defendants_NN2 shall_VM provide_VVI 
+community_NN1 living_NN1 arrangements_NN2 and_CC other_JJ community_NN1 
+services_NN2 according_II21 to_II22 the_AT following_JJ priorities_NN2 (_( 
+a_ZZ1 )_) current_JJ residents_NN2 of_IO Pennhurst_NP1 (_( b_ZZ1 )_) 
+persons_NN2 who_PNQS resided_VVD at_II Pennhurst_NP1 on_II or_CC afte_NN1 
+May_NPM1 30_MC ,_, 1974_MC ,_, who_PNQS currently_RR reside_VV0 in_II othe_NN1 
+public_NN1 or_CC private_JJ institutions_NN2 (_( c_ZZ1 )_) all_DB persons_NN2 
+who_PNQS were_VBDR on_II the_AT waiting_JJ lis_NN1 for_IF admission_NN1 to_II 
+Pennhurst_NP1 on_II or_CC afte_NN1 March_NPM1 17_MC ,_, 1978_MC (_( d_ZZ1 )_) 
+mentally_RR retarded_JJ persons_NN2 residing_VVG i_MC1 Bucks_NP1 ,_, 
+Chester_NP1 ,_, Delaware_NP1 ,_, Montgomer_NP1 and_CC Philadelphia_NP1 
+Counties_NN2 who_PNQS require_VV0 services_NN2 in_II the_AT community_NN1 
+in_BCL21 order_BCL22 to_TO avoid_VVI placement_NN1 at_II Pennhurst_NP1 2_MC 
+._. 
+"_" Community_NN1 Living_NN1 Arrangement_NN1 ,_, "_" for_IF purpose_NN1 of_IO 
+this_DD1 order_NN1 means_NN (_( a_ZZ1 )_) a_AT1 variety_NN1 of_IO 
+structured_JJ and_CC supervised_VVD residences_NN2 in_II a_AT1 setting_NN1 
+of_IO no_AT more_DAR than_CSN eight_MC clients_NN2 in_II the_AT general_JJ 
+community_NN1 ;_; and_CC (_( b_ZZ1 )_) a_AT1 program_NN1 based_VVN upon_II 
+an_AT1 individualized_JJ habilitation_NN1 plan_NN1 to_TO meet_VVI the_AT 
+clients_NN2 individual_JJ needs_NN2 3_MC ._. 
+Defendants_NN2 are_VBR ordered_VVN to_TO provide_VVI community_NN1 living_NN1 
+arrangements_NN2 in_II31 accordance_II32 with_II33 the_AT following_JJ 
+schedule_NN1 ._. 
+The_AT defendants_NN2 are_VBR also_RR ordered_VVN to_TO provide_VVI 
+additional_JJ day_NNT1 programming_VVG in_II31 accordance_II32 with_II33 
+the_AT following_JJ schedule_NN1 for_IF persons_NN2 residing_VVG in_II the_AT 
+community_NN1 who_PNQS in_II the_AT absence_NN1 of_IO those_DD2 programs_NN2 
+would_VM go_VVI unserved_JJ and_CC increase_VVI the_AT likelihood_NN1 of_IO 
+needing_VVG alternative_JJ residential_JJ placement_NN1 PROPOSED_VVD 
+PENNHURST_NP1 PLACEMENT_NN1 PROJECTION_NP1 PENNHURST_NP1 SOUTHEAST_ND1 
+REGION_NN1 APPROXIMATE_VV0 SOUTHEAST_ND1 OUT-OF-REGION_NP1 COMMUNITY_NN1 
+DAY_NNT1 /_FO TOTAL_JJ ADDITIONA_NN1 PENNHURST_VV0 RESIDENTIAL_JJ 
+RESIDENTIAL_JJ RESIDENTIAL_JJ PROGRAM_NN1 RESIDENTIAL_JJ DAY_NNT1 PROGRA_NN1 
+POPULATION_NN1 PLACEMENTS_NN2 PLACEMENT_NN1 AS_II21 OF_II22 6/30/80_MF 650_MC 
+300_MC YEAR_NNT1 1_MC1 80-81_MCMC 150_MC 0_MC 100_MC 250_MC YEAR_NNT1 2_MC 
+81-82_MCMC 150_MC 0_MC 100_MC 250_MC YEAR_NNT1 3_MC 82-83_MCMC 100_MC 50_MC 
+100_MC 25_MC 250_MC 2_MC YEAR_NNT1 4_MC 83-84_MCMC 75_MC 75_MC 100_MC 25_MC 
+250_MC 2_MC YEAR_NNT1 5_MC 84-85_MCMC 75_MC 75_MC 100_MC 25_MC 250_MC 2_MC 
+YEAR_NNT1 6_MC 85-86_MCMC 50_MC 50_MC 150_MC 25_MC 250_MC 2_MC &lsqb_( 
+YEAR_NNT1 7_MC &lsqb_( 86-87_MCMC &rsqb_) ---_JJ TOTAL_NN1 600_MC 250_MC 
+650_MC 100_MC 1500_MC 10_MC (_( 40%_NNU )_) (_( 16%_NNU )_) (_( 44%_NNU )_) 
+(_( 100%_NNU )_) Placements_NN2 include_VV0 clients_NN2 from_II Woodhaven_NP1 
+and_CC Embreeville._NP1 4_MC ._. 
+An_AT1 equitable_JJ portion_NN1 of_IO the_AT places_NN2 in_II new_JJ 
+community_NN1 residences_NN2 ,_, as_CSA show_NN1 in_II the_AT preceding_JJ 
+chart_NN1 ,_, established_VVN for_IF class_NN1 members_NN2 residing_VVG at_II 
+Pennhurst_NP1 Center_NN1 ,_, shall_VM be_VBI reserved_VVN for_IF persons_NN2 
+currently_RR not_XX residing_VVG at_II Pennhurst_NP1 ._. 
+Non-Pennhurst_JJ residents_NN2 to_TO be_VBI placed_VVN shall_VM ,_, to_II 
+the_AT extent_NN1 possible_JJ ,_, have_VH0 characteristics_NN2 and_CC 
+program_NN1 needs_VVZ similar_JJ to_II Pennhurst_NP1 residents_NN2 being_VBG 
+placed_VVN ._. 
+The_AT defendants_NN2 shall_VM have_VHI the_AT discretion_NN1 and_CC 
+authority_NN1 to_TO vary_VVI from_II the_AT priorities_NN2 in_II paragraph_NN1 
+1_MC1 if_CS necessary_JJ to_TO meet_VVI the_AT needs_NN2 of_IO unserved_JJ 
+people_NN 5_MC ._. 
+Within_II 30_MC days_NNT2 from_II the_AT date_NN1 of_IO this_DD1 order_NN1 ,_, 
+the_AT Commonwealth_NN1 and_CC County_NN1 defendants_NN2 shall_VM submit_VVI 
+to_II the_AT Court_NN1 ,_, the_AT Office_NN1 of_IO Special_JJ Master_NN1 
+and_CC the_AT plaintiffs_NN2 a_AT1 comprehensive_JJ Community_NN1 
+Placement_NN1 Plan_NN1 for_IF the_AT implementation_NN1 and_CC monitoring_NN1 
+of_IO community_NN1 services_NN2 ._. 
+The_AT Plan_NN1 shall_VM include_VVI a_AT1 detailed_JJ two-year_JJ 
+implementation_NN1 cycle_NN1 specifying_VVG numbers_NN2 of_IO clients_NN2 
+projected_VVN for_IF placement_NN1 and_CC the_AT numbers_NN2 ,_, types_NN2 ,_, 
+size_NN1 and_CC location_NN1 of_IO planned_JJ community_NN1 services_NN2 to_TO 
+meet_VVI the_AT needs_NN2 of_IO the_AT clients_NN2 projected_VVN for_IF 
+placement_NN1 ._. 
+The_AT Community_NN1 Placement_NN1 Plan_NN1 shal_NN1 be_VBI suitable_JJ for_IF 
+immediate_JJ implementation_NN1 upon_II approval_NN1 of_IO the_AT Court_NN1 
+6_MC ._. 
+The_AT Community_NN1 Placement_NN1 Plan_NN1 shall_VM include_VVI th_NNU 
+following_II A._NNU Comprehensive_JJ review_NN1 of_IO the_AT curren_NN1 
+service_NN1 system_NN1 in_II the_AT Southeast_ND1 Region_NN1 This_DD1 
+review_NN1 shall_VM incorporate_VVI th_NNU existing_JJ legal_JJ ,_, 
+regulatory_JJ and_CC fiscal_JJ basis_NN1 under_II which_DDQ the_AT 
+community_NN1 servic_JJ system_NN1 operates_VVZ and_CC the_AT role_NN1 ,_, 
+function_NN1 ,_, responsibilities_NN2 and_CC interface_NN1 of_IO the_AT 
+responsible_JJ agencies_NN2 for_IF the_AT development_NN1 of_IO a_AT1 
+community_NN1 service_NN1 system_NN1 ,_, specifically_RR ,_, OMR_VV0 
+Central_JJ and_CC Regional_JJ Offices_NN2 ,_, County_NN1 MH/MR_FU Offices_NN2 
+,_, Office_NN1 of_IO the_AT Special_JJ Master_NN1 ,_, Governor_NNB Office_NP1 
+and_CC the_AT State_NN1 Legislature_NN1 ._. 
+This_DD1 is_VBZ to_TO include_VVI a_AT1 description_NN1 of_IO the_AT 
+number_NN1 ,_, size_NN1 type_NN1 and_CC location_NN1 of_IO existing_JJ MR_NNB 
+services_NN2 B._NP1 A_ZZ1 description_NN1 of_IO the_AT organizational_JJ 
+and_CC management_NN1 structure_NN1 needed_VVD to_TO develop_VVI ,_, 
+maintain_VV0 and_CC monitor_VVI the_AT required_JJ network_NN1 of_IO 
+community_NN1 service_NN1 programs_NN2 The_AT Plan_NN1 shall_VM include_VVI 
+the_AT propose_VV0 changes_NN2 in_II the_AT roles_NN2 ,_, responsibilitie_NN1 
+and_CC functions_NN2 of_IO the_AT County_NN1 MH/MR_FU Offices_NN2 OMR_VV0 
+Regional_JJ Office_NN1 ,_, OMR_VV0 Central_JJ Office_NN1 ,_, Pennhurst_NP1 
+Implementation_NN1 Team_NN1 ,_, Pennhurs_NP1 State_NN1 Center_NN1 staff_NN ,_, 
+Office_NN1 of_IO the_AT Special_JJ Master_NN1 ,_, and_CC the_AT service_NN1 
+providers_NN2 ._. 
+This_DD1 is_VBZ to_TO examine_VVI the_AT impact_NN1 of_IO each_DD1 office_NN1 
+operations_NN2 on_II the_AT placement_NN1 effort_NN1 and_CC the_AT required_JJ 
+administrative_JJ initiatives_NN2 and/or_CC resources_NN2 necessary_JJ to_TO 
+accomplish_VVI desired_JJ changes_NN2 to_TO expedite_VVI the_AT delivery_NN1 
+of_IO services_NN2 C._NP1 Specifications_NN2 for_IF resource_NN1 
+development_NN1 of_IO a_AT1 community_NN1 service_NN1 program_NN1 This_DD1 
+section_NN1 of_IO the_AT report_NN1 shall_VM describe_VVI the_AT actions_NN2 
+and_CC resources_NN2 required_VVN to_TO successfully_RR implement_VVI a_AT1 
+community_NN1 placement_NN1 effort_NN1 ._. 
+This_DD1 shall_VM include_VVI the_AT identification_NN1 and_CC assessment_NN1 
+of_IO the_AT residential_JJ ,_, programmatic_JJ and_CC support_VV0 service_NN1 
+needs_NN2 of_IO all_DB affected_JJ clients_NN2 and_CC the_AT types_NN2 of_IO 
+programs_NN2 necessary_JJ to_TO meet_VVI clients_NN2 assessed_VVN needs_NN2 
+._. 
+This_DD1 shall_VM review_VVI the_AT residential_JJ and_CC day_NNT1 program_NN1 
+service_NN1 models_NN2 to_TO be_VBI utilized_VVN ,_, and_CC prescribe_VV0 
+the_AT required_JJ support_NN1 service_NN1 systems_NN2 needed_VVN to_TO 
+address_VVI clients_NN2 '_GE needs_NN2 ,_, including_VVG but_CCB not_XX 
+limited_VVN to_II medical_JJ ,_, dental_JJ and_CC behavioral_JJ support_NN1 
+services_NN2 .._... 
+The_AT Plan_NN1 shall_VM examine_VVI the_AT role_NN1 ,_, function_NN1 and_CC 
+responsibilities_NN2 of_IO case_NN1 managers_NN2 ,_, the_AT costs_NN2 
+associated_VVN with_IW the_AT provision_NN1 of_IO a_AT1 comprehensive_JJ 
+community_NN1 service_NN1 system_NN1 and_CC the_AT needed_JJ technical_JJ 
+assistance_NN1 ,_, training_NN1 and_CC support_VV0 for_IF community_NN1 
+residential_JJ providers_NN2 and_CC staff_NN D_ZZ1 P'Qvi_JJ sions_NN2 for_IF 
+the_AT p_ZZ1 1_MC1 an_AT1 n_ZZ1 i_ZZ1 ng_NNU a_AT1 nd_NNU mo_NN1 nitoring_NN1 
+of_IO community_NN1 service_NN1 system_NN1 The_AT Plan_NN1 shall_VM 
+specify_VVI the_AT necessary_JJ actions_NN2 to_TO assure_VVI the_AT 
+continued_JJ identification_NN1 and_CC assessment_NN1 of_IO all_DB affected_JJ 
+clients_NN2 ,_, the_AT role_NN1 of_IO the_AT County_NN1 and_CC State_VV0 
+offices_NN2 in_II planning_VVG for_IF individual_JJ client_NN1 needs_NN2 ,_, 
+including_VVG but_CCB not_XX limited_VVN to_TO out-of--region_VVI clients_NN2 
+and_CC out-of-county_JJ placement_NN1 requests_VVZ The_AT Plan_NN1 shall_VM 
+include_VVI a_AT1 description_NN1 of_IO the_AT client_NN1 tracking_NN1 and_CC 
+monitoring_VVG plan_NN1 of_IO client_NN1 movement_NN1 and_CC the_AT 
+development_NN1 of_IO commmunity_NN1 services_NN2 E._NP1 A_ZZ1 description_NN1 
+of_IO theimp1ementation_FO cycle_NN1 for_IF the_AT development_NN1 of_IO 
+community_NN1 services_NN2 The_AT Plan_NN1 shall_VM provide_VVI the_AT 
+placement_NN1 projections_NN2 spanning_VVG six_MC years_NNT2 as_CSA 
+specified_VVN in_II paragraph_NN1 3_MC above_RL and_CC a_AT1 two-year_JJ 
+implementation_NN1 cycle_NN1 specifying_VVG number_NN1 of_IO clients_NN2 to_TO 
+be_VBI served_VVN ,_, specific_JJ service_NN1 needs_NN2 and_CC service_NN1 
+models_NN2 to_TO be_VBI developed_VVN ._. 
+The_AT Plan_NN1 shall_VM provide_VVI an_AT1 estimate_NN1 of_IO the_AT 
+volume_NN1 and_CC types_NN2 of_IO case_NN1 management_NN1 ,_, technical_JJ 
+assistance_NN1 ,_, crisis_NN1 intervention_NN1 ,_, respite_VV0 care_NN1 ,_, 
+emergency_NN1 and_CC non-emergency_NN1 medical_JJ and_CC dental_JJ care_NN1 
+,_, and_CC other_JJ support_NN1 services_NN2 including_VVG but_CCB not_XX 
+limited_VVN to_II behavior_NN1 sharpin_NN1 and_CC day_NNT1 programs_NN2 
+which_DDQ will_VM be_VBI needed_VVN to_TO maintain_VVI clients_NN2 in_II 
+the_AT community_NN1 ._. 
+Additionally_RR ,_, this_DD1 plan_NN1 shall_VM prescribe_VVI procedures_NN2 
+for_IF budgeting_VVG and_CC allocations_NN2 The_AT Plan_NN1 shall_VM 
+provide_VVI a_AT1 detailed_JJ schedule_NN1 for_IF implementation_NN1 of_IO 
+the_AT following_JJ activities_NN2 (_( a_ZZ1 )_) allocation_NN1 (_( b_ZZ1 )_) 
+client_NN1 identificatio_NN1 (_( c_ZZ1 )_) client_NN1 assessment_NN1 (_( d_ZZ1 
+)_) requests_NN2 for_IF proposal_NN1 (_( e_ZZ1 )_) I.H.P._NP1 developmen_NN2 
+(_( f_ZZ1 )_) site_NN1 developmen_NN2 (_( g_ZZ1 )_) staff_NN trainin_NN1 (_( 
+h_ZZ1 )_) client_NN1 movement_NN1 projection_NN1 (_( i_ZZ1 )_) monitorin_NN1 
+(_( j_ZZ1 )_) auditin_NN1 -_- community_NN1 service_NN1 -_- operational_JJ 
+procedure_NN1 F._NP1 Provision_NN1 for_IF assuring_VVG quality_NN1 control_NN1 
+and_CC on-going_JJ monitoringof_NN1 the_AT community_NN1 service_NN1 
+system_NN1 The_AT Plan_NN1 shall_VM include_VVI the_AT description_NN1 of_IO 
+and_CC schedules_NN2 for_IF a_AT1 community_NN1 placement_NN1 and_CC 
+operational_JJ audit_NN1 ._. 
+The_AT Plan_NN1 shall_VM describe_VVI other_JJ mechanisms_NN2 to_TO assure_VVI 
+I.H.P._NP1 prescribed_JJ services_NN2 ._. 
+The_AT Plan_NN1 shall_VM describe_VVI existin_NN1 and_CC proposed_JJ 
+program_NN1 evaluation_NN1 and_CC fiscal_JJ accountability_NN1 measures_NN2 
+required_VVN by_II regulation_NN1 and_CC policy_NN1 The_AT Plan_NN1 shall_VM 
+describe_VVI due_JJ process_NN1 procedures_NN2 7_MC ._. 
+Within_II 20_MC days_NNT2 of_IO receipt_NN1 of_IO the_AT Plan_NN1 ,_, the_AT 
+Special_JJ Master_NN1 and_CC the_AT parties_NN2 shall_VM file_VVI with_IW 
+the_AT Court_NN1 any_DD comments_NN2 ,_, proposed_JJ amendments_NN2 or_CC 
+modifications_NN2 of_IO the_AT Plan_NN1 ._. 
+After_CS an_AT1 opportunity_NN1 for_IF a_AT1 hearing_NN1 ,_, the_AT Court_NN1 
+shall_VM approve_VVI ,_, disapprove_VVI or_CC modify_VVI the_AT Plan_NN1 ._. 
+8_MC ._. 
+The_AT Commonwealth_NN1 and_CC County_NN1 defendants_NN2 shal_JJ w_ZZ1 M_ZZ1 
+revise_VV0 and_CC update_VV0 the_AT implementation_NN1 cycle_NN1 ,_, 
+specified_VVN in_II paragraph_NN1 5_MC above_RL ,_, every_AT1 two_MC 
+years_NNT2 ,_, and_CC submit_VV0 an_AT1 annual_JJ report_NN1 on_II the_AT 
+status_NN1 of_IO the_AT implementation_NN1 to_II the_AT Court_NN1 ,_, the_AT 
+Special_JJ Master_NN1 and_CC the_AT plaintiffs_NN2 9_MC ._. 
+The_AT Commonwealth_NN1 defendants_NN2 and_CC other_JJ interested_JJ 
+parties_NN2 will_VM submit_VVI within_II 30_MC days_NNT2 a_AT1 memorandum_NN1 
+of_IO law_NN1 to_TO specify_VVI the_AT individuals_NN2 with_IW status_NN1 
+as_CSA members_NN2 of_IO the_AT plaintiff_NN1 class_NN1 10_MC ._. 
+The_AT Court_NN1 shall_VM retain_VVI jurisdiction_NN1 until_II June_NPM1 30_MC 
+,_, 1987_MC or_CC until_CS one_MC1 year_NNT1 after_II the_AT placements_NN2 
+specified_VVN in_II the_AT placement_NN1 schedule_NN1 in_II 113_MC above_RL 
+have_VH0 been_VBN made_VVN RAYMOND_NP1 J._NP1 BRODERICK_NP1 ,_, J._NP1 
+--4237ff28b2512804d90d9eb21194efd0--_FU 

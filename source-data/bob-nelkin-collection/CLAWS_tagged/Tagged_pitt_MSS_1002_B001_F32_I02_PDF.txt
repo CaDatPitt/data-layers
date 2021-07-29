@@ -1,0 +1,52 @@
+
+NANCY_NP1 ZIRNGIB_NP1 public_JJ relations_NN2 coordinato_NN1 ALLEGHENY_NP1 
+COUNTY_NN1 CHAPTER_NN1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Cith_NN1 ?_? ns_FO 1001_MC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 
+15233_MC TELEPHONE_NN1 (_( 412_MC )_) 322-600_MCMC November_NPM1 4_MC ,_, 
+197_MC FOR_IF IMMEDIATE_JJ RELEAS_NN2 Pennsylvania_NP1 's_GE Secretary_NN1 
+of_IO Public_JJ Welfare_NN1 ,_, Frank_NP1 Beal_NP1 ,_, will_VM address_VVI 
+a_AT1 public_JJ meeting_NN1 sponsored_VVN by_II the_AT Allegheny_NP1 
+County_NN1 Chapter_NN1 of_IO the_AT Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 (_( ACC-PARC_NP1 )_) on_II Saturday_NPD1 ,_, 
+November_NPM1 20_MC ._. 
+The_AT meeting_NN1 will_VM be_VBI held_VVN at_II 10:00_MC a.m._RA at_II the_AT 
+Bell_NP1 Telephone_NN1 Building_NN1 Auditorium_NN1 in_II downtown_JJ 
+Pittsburgh_NP1 ._. 
+Secretary_NP1 Beal_NP1 has_VHZ been_VBN asked_VVN to_TO outline_VVI the_AT 
+Commonwealth_NN1 's_GE five-year_JJ plan_NN1 for_IF the_AT development_NN1 
+of_IO community-based_JJ residential_JJ facilities_NN2 and_CC programs_NN2 
+as_CSA alternatives_NN2 to_II the_AT institutionalization_NN1 of_IO 
+children_NN2 and_CC adults_NN2 who_PNQS are_VBR mentally_RR retarded_JJ 
+This_DD1 is_VBZ the_AT third_MD in_II a_AT1 series_NN of_IO meetings_NN2 
+sponsored_VVN by_II ACC-PARC_NP1 concerned_JJ with_IW the_AT State_NN1 's_GE 
+plans_NN2 for_IF community_NN1 alternatives_NN2 to_II institutionalization_NN1 
+._. 
+Ms._NNB Mary_NP1 Wilson_NP1 ,_, ACC_NP1 's_GE parent_NN1 member_NN1 who_PNQS 
+was_VBDZ instrumental_JJ in_II initiating_VVG the_AT meetings_NN2 ,_, 
+questions_NN2 why_RRQ funds_NN2 projected_VVN for_IF residences_NN2 needed_VVN 
+in_II Allegheny_NP1 County_NN1 next_MD year_NNT1 are_VBR zero_MC ,_, 
+although_CS "_" the_AT Commonwealth_NN1 is_VBZ committed_VVN 
+philosophically_RR to_II the_AT establishment_NN1 of_IO such_DA facilities_NN2 
+._. 
+MOR_NP1 ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 
+for_IF Retarded_JJ Citizen_NN1 Nancy_NP1 Zrngibl_NP1 ,_, Public_JJ 
+Relations_NN2 Coordinator_NN1 322-600_MCMC ADD_VV0 At_II the_AT second_MD 
+meeting_NN1 ,_, held_VVD June_NPM1 26_MC ,_, parents_NN2 charged_VVD 
+Secretary_NP1 Beal_NP1 with_IW three_MC responsibilities_NN2 :_: 1_MC1 )_) 
+to_TO make_VVI the_AT State_NN1 's_GE five-year_JJ plan_NN1 for_IF 
+residential_JJ alternatives_NN2 more_RGR ambitious_JJ ;_; 2_MC )_) to_TO 
+assure_VVI that_CST the_AT funds_NN2 currently_RR allocated_VVN are_VBR 
+used_VVN effectively_RR ;_; and_CC 3_MC )_) to_TO ask_VVI the_AT 
+Legislature-to_NN1 appropriate_VV0 more_DAR money_NN1 in_II this_DD1 fiscal_JJ 
+year_NNT1 ._. 
+On_II November_NPM1 20_MC ,_, Mr._NNB Beal_NP1 to_II expected_JJ to_TO 
+declare_VVI the_AT intentions_NN2 of_IO the_AT Department_NN1 of_IO Public_JJ 
+Welfare_NN1 on_II these_DD2 specific_JJ points_NN2 and_CC on_II the_AT 
+overall_JJ subject_NN1 of_IO the_AT present_NN1 and_CC future_JJ care_NN1 
+of_IO handicapped_JJ residents_NN2 of_IO Pennsylvania_NP1 ACC-PARC_NP1 has_VHZ 
+issued_VVN an_AT1 appeal_NN1 to_II families_NN2 of_IO all_DB people_NN 
+who_PNQS are_VBR in_II31 need_II32 of_II33 residential_JJ placements_NN2 ,_, 
+urging_VVG them_PPHO2 to_TO attend_VVI this_DD1 meeting_NN1 ._. 
+Additional_JJ information_NN1 is_VBZ available_JJ at_II the_AT Chapter_NN1 
+office_NN1 ,_, 1001_MC Brighton_NP1 Rd_NNL1 ;_; ,_, Pgh._NP1 ,_, Pa._NP1 
+15233_MC ,_, phone_NN1 322-6008._MCMC --1c7cf4e1c04af7097c706a9fd6232590--_FU 

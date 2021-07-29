@@ -1,0 +1,92 @@
+
+OF_IO THE_AT PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 
+,_, INC_JJ 917-1001_MCMC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 
+15233_MC (_( 412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 
+Mulgrave_NP1 Acting_VVG Executive_NN1 Directo_NP1 Ronald_NP1 E._NP1 Arche_NP1 
+January_NPM1 10_MC ,_, 197_MC Mr._NNB Joseph_NP1 Colombatt_NP1 Polk_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 Box_NN1 9_MC Polk_NP1 ,_, 
+Pennsylvania_NP1 ._. 
+1634_MC Dear_JJ Joe_NP1 Enclosed_VVD is_VBZ an_AT1 expression_NN1 of_IO 
+some_DD of_IO our_APPGE concerns_NN2 resulting_VVG from_II our_APPGE 
+Residential_JJ Care_NN1 Committees_NN2 December_NPM1 11th_MD visit_VV0 
+Our_APPGE report_NN1 (_( enclosed_JJ letter_NN1 )_) is_VBZ being_VBG 
+distributed_VVN only_RR to_II our_APPGE committee_NN1 and_CC you_PPY ,_, 
+Chuck_NP1 ,_, and_CC Stan_NP1 at_II this_DD1 time_NNT1 If_CS the_AT 
+response_NN1 to_II the_AT enclosed_JJ letter_NN1 is_VBZ inadequate_JJ ,_, 
+the_AT Polk_NP1 status_NN121 quo_NN122 maintained_VVD ,_, we_PPIS2 do_VD0 
+nt_XX know_VVI what_DDQ were_VBDR going_VVGK to_TO do_VDI next_MD ,_, we_PPIS2 
+have_VH0 used_VVN up_RP our_APPGE reasonable_JJ patience_NN1 The_AT 
+Committee_NN1 had_VHD some_DD concerns_NN2 about_II Right_NN1 To_II 
+Education_NN1 for_IF Polk_NP1 students_NN2 ._. 
+We_PPIS2 will_VM express_VVI these_DD2 to_II you_PPY soon_RR ._. 
+Our_APPGE Chapter_NN1 will_VM continue_VVI to_TO visit_VVI Polk_NP1 ._. 
+No_RGQV31 matter_RGQV32 how_RGQV33 critical_JJ our_APPGE observations_NN2 
+may_VM be_VBI ,_, I_PPIS1 hope_VV0 we_PPIS2 can_VM continue_VVI the_AT open_JJ 
+and_CC understanding_NN1 relationship_NN1 between_II you_PPY and_CC 
+ACC-PARC_NP1 members_NN2 Sincerely_RR Ginny_NP1 Thornburg_NP1 Chairperson_NN1 
+,_, Residentia_NP1 Care_NN1 Coronet_NN1 te_FW cc_NNU :_: Stanley_NP1 Meyer_NP1 
+C.A._NP1 Peter_NP1 Member_NN1 Unit_NN1 -_- National_JJ Association_NN1 for_IF 
+Retarded_JJ Children_NN2 ,_, Inc_JJ Participant_NN1 in_II the_AT Allegheny_NP1 
+County_NN1 Mental_JJ Health/Mental_FU Retardation_NN1 Progra_NP1 Visit_NN1 
+to_II Polk_NP1 -_- 'December_NN1 1_MC1 Gardenside_NP1 Bldg._NP1 -_- 
+Population_NN1 of_IO 300_MC wome_NN1 This_DD1 visit_NN1 prompted_VVD the_AT 
+following_JJ cuestions_NN2 1_MC1 ._. 
+The_AT development_NN1 of_IO a_AT1 special_JJ program_NN1 of_IO behavior_NN1 
+mod._JJ for_IF one_MC1 particular_JJ resident_NN1 (_( and_CC others_NN2 
+like_II her_PPHO1 )_) 2_MC ._. 
+Restraints_NN2 were_VBDR still_RR in_II use_NN1 in_II this_DD1 building_NN1 
+._. 
+The_AT tray_NN1 chair_NN1 we_PPIS2 considered_VVD a_AT1 type_NN1 of_IO 
+restraint_NN1 31_MC Right_JJ to_II Ed_NP1 implementation_NN1 raised_VVD 
+issues_NN2 such_II21 as_II22 a_AT1 ._. 
+Why_RRQ could_VM not_XX those_DD2 200_MC residents_NN2 referred_VVD to_TO 
+go_VVI out_II21 of_II22 Polk_NP1 to_II school_NN1 b_ZZ1 ._. 
+Why_RRQ only_RR 1_MC1 resident_NN1 leaving_VVG grounds_NN2 at_RR21 
+present_RR22 c_ZZ1 ._. 
+Why_RRQ is_VBZ DPW_NP1 in_II31 charge_II32 of_II33 Speech_NN1 and_CC 
+Hearing_VVG program_NN1 d_ZZ1 ._. 
+Why_RRQ did_VDD someone_PN1 not_XX make_VVI effort_NN1 to_TO retain_VVI 
+specially_RR funded_JJ programs_NN2 under_II Federal_JJ Grants_NN2 (_( 
+I.T.U._NP1 for_IF ex-_JJ mole_NN1 4_MC ._. 
+Conversations_NN2 with_IW the_AT nurses_NN2 raised_VVD serious_JJ 
+Questions_NN2 of_IO peonage_NN1 practice_NN1 ._. 
+One_MC1 unit_NN1 had_VHD 26_MC residents_NN2 going_VVG to_II work_NN1 ,_, 
+in_II other_JJ cottages_NN2 on_II the_AT grounds_NN2 (_( Quote_VV0 staff_NN 
+)_) ,_, and_CC onl_VV0 one_MC1 woman_NN1 seemed_VVD to_TO be_VBI in_II an_AT1 
+independent_JJ work_NN1 program_NN1 ,_, by_II that_CST I_PPIS1 mean_VV0 not_XX 
+employed_VVN by_II Polk_NP1 ,_, on_II the_AT grounds_NN2 ._. 
+What_DDQ of_IO these_DD2 monies_NN2 ,_, wrho_NN1 accounts_VVZ for_IF 
+them_PPHO2 ._. 
+The_AT script_NN1 type_NN1 of_IO payment_NN1 is_VBZ fine_JJ in_II learning_VVG 
+situation_NN1 ,_, but_II21 for_II22 actual_JJ work_NN1 these_DD2 residents_NN2 
+should_VM be_VBI paid_VVN 5_MC ._. 
+What_DDQ is_VBZ the_AT function_NN1 of_IO Cottage_NN1 #1_NNU at_II this_DD1 
+time_NNT1 ?_? 
+This_DD1 cottage_NN1 disturbed_VVN us._NNU 16_MC residents_NN2 supposedly_RR 
+live_VV0 there_RL at_II this_DD1 time_NNT1 ,_, and_CC from_II there_RL 
+they_PPHS2 will_VM go_VVI out_RP permanently_RR ******_FO 
+******************_FO These_DD2 are_VBR my_APPGE own_DA random_JJ 
+reactions_NN2 and_CC questions_NN2 20_MC toilets_NN2 in_II one_MC1 room_NN1 
+,_, no_AT partition_NN1 to_TO allow_VVI privacy_NN1 ._. 
+Isolation_NN1 room_NN1 admittedly_RR had_VHD been_VBN in_II use_NN1 the_AT 
+day_NNT1 of_IO visit_NN1 ._. 
+Pipes_NN2 were_VBDR Quite_RG warm_JJ in_II this_DD1 room_NN1 ,_, co_NN1 Id_NN1 
+be_VBI touched_VVN by_II occupant_NN1 ._. 
+Residents_NN2 in_II Gardenside_NP1 (_( except_II21 for_II22 the_AT homey_NN1 
+"_" section_NN1 )_) smelled_VVD bad_JJ ,_, and_CC tho'_CS I.U._NP1 is_VBZ 
+supposedly_RR teaching_VVG grooming_NN1 ,_, dressing_VVG ,_, these_DD2 
+residents_NN2 were_VBDR in_II great_JJ need_NN1 of_IO help_NN1 ._. 
+Their_APPGE clothes_NN2 were_VBDR dreadful_JJ ._. 
+I_PPIS1 Question_VV0 who_PNQS monitors_VVZ the_AT program_NN1 of_IO the_AT 
+I.U._NP1 I_PPIS1 seriously_RR doubt_VV0 th_NNU t_ZZ1 these_DD2 persons_NN2 
+left_VVD their_APPGE living_JJ Qu_NN1 rters_NN2 daily_RR ._. 
+And_CC if_CS so_RR ,_, is_VBZ going_VVG t_ZZ1 the_AT gym_NN1 adequate_JJ 
+educational_JJ programming_NN1 for_IF them_PPHO2 ._. 
+I_PPIS1 think_VV0 this_DD1 is_VBZ the_AT present_JJ lack_NN1 in_II this_DD1 
+entire_JJ Right_NN1 to_II Ed_NP1 bit_VVD ..._... who_PNQS can_VM give_VVI 
+you_PPY actual_JJ proof_NN1 that_CST these_DD2 things_NN2 are_VBR 
+happening_VVG ?_? 
+If_CS it_PPH1 is_VBZ the_AT miserable_JJ I.U_NP1 ...._... then_RT cuote_VV0 
+Chuck_NP1 Peters_VVZ ..._... this_DD1 is_VBZ like_II the_AT Mafia_NN1 
+policing_VVG its_APPGE own_DA ranks_NN2 !_! 
+--f2246cacc973ba53c2a0895fd6a4e6e0--_FU 

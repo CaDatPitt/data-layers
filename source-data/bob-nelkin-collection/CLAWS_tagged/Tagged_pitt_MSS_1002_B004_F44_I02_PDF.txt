@@ -1,0 +1,12 @@
+
+January_NPM1 13_MC ,_, 197_MC Mr._NNB Nick_NP1 D'Aluisl_NP1 PoIk_NP1 Cente_NP1 
+Box_NN1 9_MC Polk_NP1 ,_, Pa._NP1 1634_MC Dear_JJ Nick_NP1 We_PPIS2 hear_VV0 
+that_CST the_AT state-ordered_JJ freeze_NN1 on_II position_NN1 filling_NN1 
+Is_VBZ seriously_RR affecting_VVG the_AT care_NN1 of_IO residents_NN2 at_II 
+Polk_NP1 If_CS this_DD1 Is_VBZ true_JJ ,_, we_PPIS2 would_VM appreciate_VVI 
+receiving_VVG Information_NN1 that_CST would_VM help_VVI make_VVI this_DD1 
+point_NN1 with_IW state_NN1 officials_NN2 In_II the_AT executive_NN1 or_CC 
+legislative_JJ branches_NN2 I_PPIS1 would_VM appreciate_VVI hearing_VVG 
+from_II you_PPY as_CS31 soon_CS32 as_CS33 possIbIe_NN1 SIncereIy_NP1 
+Robert_NP1 Nelkin_NP1 Associate_JJ Executive_NN1 Director_NN1 
+--5eb14d0ecb83bcbf8590e53f9aaf431f--_FU 

@@ -1,0 +1,66 @@
+
+FAMILY_NN1 SERVICE_NN1 &; CHILDRENS_NN2 AID_VV0 SOCIET_NN1 300_MC Seneca_NP1 
+Stree_NP1 Oil_NN1 City_NN1 ,_, Pennsylvania_NP1 1630_MC April_NPM1 25_MC ,_, 
+197_MC Covemor_NP1 Hilton_NP1 Shapp_NP1 Harrisburg_NP1 ,_, Pennsylvani_JJ 
+Dear_JJ Governor_NNB Shapp_NP1 The_AT Board_NN1 of_IO Directors_NN2 of_IO 
+Family_NN1 Service_NN1 &; Childrens_NN2 Aid_VV0 Society_NN1 of_IO Venango_NP1 
+County_NN1 passed_VVD a_AT1 resolution_NN1 at_II their_APPGE jaonthly_RR 
+board_VV0 meeting_VVG that_CST a_AT1 letter_NN1 of_IO protest_NN1 be_VBI 
+sent_VVN to_II your_APPGE office_NN1 regarding_II the_AT firing_NN1 of_IO 
+Dr_NNB ,_, McClelland_NP1 ,_, Director_NN1 of_IO Polk_NP1 State_NN1 School_NN1 
+,_, Enclosed_VVD also_RR find_VV0 a_AT1 Hat_NN1 of_IO our_APPGE Boar_NN1 
+Mntbers_NN2 It_NN1 wae_NN2 felt_VVD that_CST our_APPGE agency_NN1 in_II 
+its_APPGE concern_NN1 for_IF the_AT emotional_JJ health_NN1 of_IO f_ZZ1 
+&nily life_NN1 must_VM protest_VVI the_AT rusnner_NN1 in_II which_DDQ 
+this_DD1 entire_JJ Incident_NN1 hos_NN2 been_VBN handled_VVN ,_, Va_FW 
+appreciate_VV0 the_AT need_NN1 to_TO provide_VVI adequate_JJ care_NN1 end_NN1 
+supervision_NN1 for_IF the_AT retarded_JJ to_TO protect_VVI their_APPGE 
+rights_NN2 ._. 
+The_AT issue_NN1 here_RL though_CS is_VBZ ths_NNU rash_NN1 ,_, 
+unprofessional_JJ and_CC unethical_JJ Banner_NN1 in_II which_DDQ Dr_NNB ,_, 
+McClelland_NP1 was_VBDZ deprived_VVN of_IO his_APPGE rights_NN2 We_PPIS2 
+are_VBR requesting_VVG that_CST your_APPGE office_NN1 call_NN1 for_IF an_AT1 
+iwraedlate_NN1 investigation_NN1 of_IO all_DB the_AT facts_NN2 and_CC that_CST 
+this_DD1 be_VBI carried_VVN out_RP by_II professionals_NN2 in_II the_AT 
+field_NN1 of_IO oental_JJ retardation_NN1 ._. 
+This_DD1 should_VM not_XX be_VBI done_VDN by_II emotional_JJ individual_NN1 
+with_IW vested_JJ interests_NN2 and/or_CC biased_JJ attitudes_NN2 about_II 
+nental_JJ retardation_NN1 We_PPIS2 are_VBR aBSutalng_VV0 your_APPGE office_NN1 
+will_VM take_VVI a_AT1 definite_JJ stand_NN1 to_TO protect_VVI the_AT 
+rights_NN2 of_IO everyone_PN1 involved_JJ in_II this_DD1 ost_NN1 
+unfortunate_JJ and_CC unnecessary_JJ incident_NN1 Vo_NN1 will_VM expect_VVI 
+a_AT1 response_NN1 to_II our_APPGE letter_NN1 at_II your_APPGE earliest_JJT 
+convenience_NN1 as_II an_AT1 indication_NN1 of_IO our_APPGE mutual_JJ 
+concern_NN1 Robert_NP1 A._NP1 Carone_NP1 ,_, ACSW_NP1 Executive_NN1 
+Directo_NP1 RAC/ml_FU Enclosures_NN2 (_( 1_MC1 CC_NP1 :_: Dr._NNB Janes_NP1 
+McClellan_NP1 Mra_NP1 ._. 
+Helena_NP1 Vbhlgeaauth_NP1 ,_, Secretar_NN1 Senator_NNB Richard_NP1 Frcsa_NP1 
+Representative_NN1 Alvin_NP1 Kahl_NP1 The_AT Derric_JJ FAMILY_NN1 SERVICE_NN1 
+L_ZZ1 CHILDREN_NN2 'S_GE AID_NN1 SOCIET_NN1 BOARD_NN1 OF_IO DIRECTOR_NN1 
+Mrs._NNB 11_MC liar_NN1 ._. 
+A._NP1 Horck_VV0 Rev._NNB Thoaas_NP1 Hartle_NP1 President_NN1 049_MC 
+Liburty_JJ ._. 
+Street_NN1 205_MC Vest_NN1 First_MD Street_NN1 Franklin_NP1 ,_, 
+Pennsylvania_NP1 1632_MC Oil_NN1 City_NN1 ,_, Pennsylvania_NP1 16301_MC 
+Mr._NNB Prank_NP1 Huff_VV0 Mrs._NNB Jay_NP1 F._NP1 Millar_NP1 312_MC West_NP1 
+Park_NP1 Street_NNL1 First_MD Vic_NN1 President_NNB Franklin_NP1 ,_, 
+Pennsylvania_NP1 1632_MC 2_MC Parkway_NP1 -_- Hiller_NN1 Park_NN1 Franklin_NP1 
+,_, Pennsylvania_NP1 16323_MC Dr._NNB Dolores_NP1 Land.olt_NP1 9_MC 
+Glenview_NP1 Avnnue_NP1 Kra_NP1 ._. 
+T._NP1 P._NP1 Avery_NP1 Oil_NN1 City_NN1 ,_, Pennsylvania_NP1 1630_MC 
+Second_NNT1 Vice_II Preaidant_NP1 511_MC Want_VV0 Sixth_MD Street_NN1 Mrs._NNB 
+Earle_NP1 Magee_NP1 ,_, Jr_NNA ._. 
+Oil_NN1 City_NN1 ,_, Pennsylvania_NP1 16301_MC R._NP1 D._NP1 fl_NNU Oil_NN1 
+City_NN1 ,_, Pennsylvania_NP1 1630_MC Mrs._NNB MiIliac_NP1 Parker_NP1 
+Treasurer_NN1 Er_FU ._. 
+Edvard_NP1 J._NP1 Moore_NP1 20_MC Edpevood_NP1 Drive_NP1 KcClintockvillc_NP1 
+Road_NNL1 Oil_NN1 City_NN1 ,_, Pennsylvania_NP1 16301_MC R._NP1 D._NP1 ._. 
+fl_NNU Oil_NN1 City_NN1 ,_, Pennsylvania_NP1 1630_MC Mr._NNB Kenneth_NP1 
+L._NP1 Montag_NP1 Assistant_JJ Treasurer_NN1 Mr._NNB John_NP1 Rynd_NP1 ,_, 
+Jr_NNA ._. 
+12_MC Piuoak_NP1 Drive_VV0 Attornoy-At-Law_NP1 Oil_NN1 City_NN1 ,_, 
+Pennsylvania_NP1 16301_MC 410_MC Veach_NP1 Building_NN1 Oil_NN1 City_NN1 ,_, 
+Pennsylvania_NP1 1630_MC Mrs._NNB Manson_NP1 Brown_NP1 Secretary_NP1 Hiss_NP1 
+Elizabeth_NP1 Selden_NP1 1263_MC Elk_NP1 Street_NNL1 14_MC Pinoak_NP1 
+Circle_NN1 Franklin_NP1 ,_, Pennsylvania_NP1 16323_MC Oil_NN1 City_NN1 ,_, 
+Pennsylvania_NP1 1630_MC 

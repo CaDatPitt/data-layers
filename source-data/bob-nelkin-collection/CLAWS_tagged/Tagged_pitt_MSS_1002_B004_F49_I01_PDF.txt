@@ -1,0 +1,31 @@
+
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC 
+NORTH_ND1 SECOND_MD STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC 
+TEL_NN1 :_: (_( 71_MC 7_MC )_) 234-252_MCMC MRS_NNB ._. 
+ELSIE_NP1 SCHMID_NP1 Presiden_NP1 PETER_NP1 P._NP1 POLLON_NP1 Executive_NN1 
+Directo_NN1 January_NPM1 9_MC ,_, 197_MC The_AT Honorable_NP1 Frank_NP1 S._NP1 
+Beal_NP1 Secretary_NN1 of_IO Public_JJ Welfare_NN1 Department_NN1 of_IO 
+Public_JJ Welfare_NN1 P._NP1 0_MC ._. 
+Box_NN1 2675_MC Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC Dear_JJ Frank_NP1 
+Enclosed_VVD is_VBZ a_AT1 report_NN1 by_II the_AT PARC_NP1 Residential_JJ 
+Services_NN2 Committee_NN1 concerning_II &; recent_JJ visit_NN1 to_II 
+Ebensburg_NP1 State_NN1 School_NN1 ._. 
+The_AT conditions_NN2 found_VVN at_II that_DD1 institution_NN1 were_VBDR 
+quite_RG alarming_JJ ,_, particularly_RR in_II the_AT areas_NN2 of_IO :_: 
+programming_NN1 ;_; drug_NN1 abuse_NN1 ;_; restriction_NN1 of_IO movement_NN1 
+by_II residents_NN2 ;_; staff_NN attitude_NN1 toward_II and_CC knowledge_NN1 
+about_II residents_NN2 ;_; clothing_NN1 ;_; medical_JJ and_CC dental_JJ 
+care_NN1 ;_; and_CC privacy_NN1 In_II31 light_II32 of_II33 the_AT serious_JJ 
+problems_NN2 outlined_VVN in_II the_AT PARC_NP1 report_NN1 ,_, as_II31 
+well_II32 as_II33 observations_NN2 made_VVN in_II a_AT1 confidential_JJ 
+report_NN1 by_II several_DA2 visitors_NN2 from_II out-of-state_RL ,_, we_PPIS2 
+are_VBR hopeful_JJ that_CST you_PPY will_VM read_VVI the_AT material_NN1 in_II 
+its_APPGE entirety_NN1 and_CC advise_VV0 this_DD1 Association_NN1 of_IO the_AT 
+Departments_NN2 plans_VVZ for_IF correction_NN1 Copies_NN2 of_IO these_DD2 
+materials_NN2 have_VH0 also_RR been_VBN forwarded_VVN to_II Ford_NP1 
+Thompson_NP1 ,_, Deputy_NN1 Secretary_NN1 of_IO Central_JJ Region_NN1 We_PPIS2 
+look_VV0 forward_RL to_II hearing_VVG from_II you_PPY in_II this_DD1 
+regard_NN1 Sincerely_RR Elsie_NP1 Schmidt_NP1 ,_, Presiden_NP1 Marlene_NP1 
+Burda_NP1 ,_, Chairman_NN1 PARC_NP1 Residential_JJ Services_NN2 Committe_NN1 
+ES:MB:rm_FO Enclosur_VV0 cc_NNU :_: Thompson_NP1 Meyers_NP2 Pol_NP1 1oni_FO 
+Leiden_NP1 Gorlow_NP1 --b413404cbe555254dfca646ceb88a90c--_FU 

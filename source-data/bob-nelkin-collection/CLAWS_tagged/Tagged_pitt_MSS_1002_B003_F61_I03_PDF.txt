@@ -1,0 +1,31 @@
+
+OFFICE_NN1 OF_IO MENTAL_JJ RETARDATION_NP1 STANLEY_NP1 MEYERS_NP2 DEPUTY_NN1 
+SECRETAR_NN1 January_NPM1 13_MC ,_, 197_MC TELEPHONE_NN1 AREA_NN1 CODE_NN1 
+717_MC 787-370_MCMC Mr._NNB L._NP1 Steuart_NP1 Brown_NP1 ,_, Presiden_NP1 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 1500_MC 
+North_ND1 Second_MD Stree_NP1 Harrisburg_NP1 ,_, Pennsylvania_NP1 1710_MC 
+JAN_NPM1 1_MC1 5_MC iS7_FO PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ 
+CITIZEN_NN1 Dear_JJ Steu_NP1 Thank_VV0 you_PPY for_IF your_APPGE recent_JJ 
+letter_NN1 concerning_II the_AT number_NN1 of_IO deaths_NN2 in_II our_APPGE 
+State_NN1 Schools_NN2 The_AT attached_JJ sheets_NN2 represent_VV0 a_AT1 
+breakout_NN1 ,_, as_CSA requested_VVN ,_, of_IO those_DD2 deaths_NN2 
+occurring_VVG during_II fiscal_JJ year_NNT1 1973-74_MCMC ._. 
+My_APPGE delay_NN1 in_II responding_VVG was_VBDZ necessitated_VVN by_II the_AT 
+fact_NN1 that_CST this_DD1 information_NN1 was_VBDZ not_XX totally_RR 
+available_JJ in_II present_JJ statistical_JJ reports_NN2 Please_RR be_VBI 
+assured_VVN that_CST we_PPIS2 not_XX only_RR appreciate_VV0 ,_, but_CCB 
+also_RR share_VV0 your_APPGE concerns_NN2 over_II these_DD2 deaths_NN2 ._. 
+Our_APPGE office_NN1 is_VBZ now_RT preparing_VVG a_AT1 policy_NN1 
+relative_II21 to_II22 the_AT reporting_NN1 and_CC follow-up_JJ procedures_NN2 
+to_TO be_VBI utilized_VVN for_IF institutional_JJ deaths_NN2 ._. 
+We_PPIS2 are_VBR also_RR requesting_VVG that_CST an_AT1 epidemiological_JJ 
+study_NN1 be_VBI completed_VVN to_TO identify_VVI the_AT cause_NN1 and_CC 
+prevention_NN1 for_IF each_DD1 occurance_NN1 ._. 
+In_II these_DD2 ways_NN2 ,_, we_PPIS2 feel_VV0 we_PPIS2 can_VM 
+significantly_RR impact_NN1 on_II the_AT increasing_JJ numbers_NN2 If_CS 
+we_PPIS2 can_VM be_VBI of_IO further_JJR assistance_NN1 ,_, please_RR do_VD0 
+not_XX hesitate_VVI to_TO inform_VVI me_PPIO1 ._. 
+I_PPIS1 look_VV0 forward_RL to_II your_APPGE cooperation_NN1 Sincerely_RR 
+Deputy_NN1 Secretary_NN1 fo_NN1 Mental_JJ Retardatio_NN1 ......_... 
+CAUSES_NN2 OF_IO DEATH_NN1 ._. 
+AT-_JJ PENNSYLVANIA_NP1 STRTZ-SCHOOLS_NN2 W_ZZ1 PERIOD_NN1 x-_NN1 xtfuju_NN1 

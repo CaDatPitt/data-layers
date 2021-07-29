@@ -1,0 +1,32 @@
+
+4_MC )_) Standard_JJ Report_NN1 Forma_NN1 for_IF visits_NN2 to_II 
+residential_JJ Facilitie_NP1 P.A.R.C_NP1 HARRISBURG_NP1 ,_, PA_NN1 17102_MC 
+(_( 717_MC )_) 234-262_MCMC REPORT_NN1 FORMA_NP1 PARC_NP1 Residential_JJ 
+Services_NN2 Committe_NP1 I._NP1 Physical_JJ Surrounding_JJ A._NP1 
+Exterior_NN1 (_( PLF_NP1 's_GE or_CC Group_NN1 Homes_NN2 )_) -_- 
+Neighborhood_NN1 ,_, conditions_NN2 of_IO grounds_NN2 and_CC building_NN1 ,_, 
+nearness_NN1 to_II schools_NN2 ,_, churches_NN2 ,_, community_NN1 ,_, etc_RA 
+B._NP1 Interior_NN1 -_- furnishings_NN2 ,_, use_NN1 of_IO color_NN1 and_CC 
+decorations_NN2 ,_, cleanliness_NN1 of_IO al_NP1 1_MC1 living_JJ areas_NN2 ,_, 
+privacy_NN1 for_IF residents_NN2 ,_, etc_RA II_MC ._. 
+Food_NN1 and_CC Food_NN1 Service_NN1 :_: quantity_NN1 and_CC quality_NN1 of_IO 
+food_NN1 ,_, how_RRQ served_VVN ,_, etc_RA III_MC ._. 
+Clothing_NN1 :_: Appearance_NN1 ,_, size_NN1 ,_, suitabily_RR for_IF age_NN1 
+and_CC sex_NN1 of_IO resident_NN1 ,_, fzit_VV0 ,_, style_NN1 ,_, etc_RA IV_MC 
+._. 
+Linens_NN2 :_: Personal_JJ linen_NN1 supply_NN1 ,_, cleanliness_NN1 ,_, etc_RA 
+V._II Appearance_NN1 of_IO Residents_NN2 :_: Grooming_NP1 (_( hair_NN1 ,_, 
+skin_NN1 ,_, teeth_NN2 ,_, etc._RA )_) alertness_NN1 ,_, sociability_NN1 ,_, 
+general_JJ health_NN1 IV_MC ._. 
+Program_NN1 :_: What_DDQ do_VD0 residents_NN2 do_VDI (_( job_NN1 ,_, 
+school_NN1 ,_, recreation_NN1 ,_, church_NN1 ,_, etc_RA ._. )_) ._. 
+Daily_JJ routine_NN1 ,_, special_JJ events_NN2 ,_, training_VVG in_II such_DA 
+areas_NN2 as_CSA self_NN1 help_NN1 ,_, money_NN1 management_NN1 ,_, social_JJ 
+skills_NN2 VII_MC ._. 
+Dental_JJ and_CC Medical_JJ Car_NN1 VIII_MC ._. 
+Staff_NN Attitudes_NN2 :_: Your_APPGE observations_NN2 of_IO how_RRQ staff_NN 
+speaks_VVZ of_IO residents_NN2 ,_, refer_VV0 to_II residents_NN2 ,_, work_VV0 
+with_IW residents_NN2 IX_MC ._. 
+Residents_NN2 Rights_NN2 :_: Mail_NN1 ,_, phone_NN1 calls_NN2 ,_, personal_JJ 
+possessions_NN2 ,_, money_NN1 ,_, etc_RA i_ZZ1 
+--44dfe789c01fa11209c2514300815efe--_FU 

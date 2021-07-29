@@ -1,0 +1,122 @@
+
+CHILDRENS_NN2 REHABILITATION_NN1 CENTER_NN1 R._NP1 D._NP1 #6_NNU 
+Dinnerbell_NP1 Road_NNL1 Butler_NP1 ,_, Pennsylvania_NP1 1600_MC November_NPM1 
+29_MC ,_, 197_MC (_( Unannounced_JJ Visit_NN1 Inspection_NN1 Team_NN1 :_: 
+Nelkin_NP1 ,_, OSullivan_NP1 ,_, Hollyfield_NP1 ,_, Thornburgh_NP1 Thomas_NP1 
+E._NP1 Bridge_NN1 -_- Presiden_NP1 Director_NN1 of_IO Nursing_NN1 -_- Mrs._NNB 
+Constance_NP1 J._NP1 May_NP1 (_( Tour_NP1 Guide_NN1 )_) Fact_NN1 Eleven_MC 
+wooded_JJ acres_NNU2 $14.50_NNU per_RA21 diem_RA22 Facility_NN1 Is_VBZ 
+licensed_VVN for_IF 100_MC 96_MC at_II the_AT Center_NN1 Lengthy_JJ 
+waiting_NN1 list_NN1 "_" ._. 
+Three_MC groups_NN2 of_IO children_NN2 served_VVD 1_MC1 ._. 
+Profoundly_RR retarded_JJ non-ambulatory_JJ 2_MC ._. 
+Severely_RR retarded_JJ ambulatory_JJ out_RP to_II school_NN1 3_MC ._. 
+Low_RR moderately_RR retarded_JJ Self_NN1 help_NN1 ski_NN1 I_ZZ1 I_ZZ1 
+Groomin_NP1 Family_NN1 livin_NN1 Community_NN1 awarenes_NN2 64._MC 
+children_NN2 bussed_VVN to_II school_NN1 under_II Butler_NP1 County_NN1 
+Intermediate_JJ Unit_NN1 Child_NN1 care_NN1 aides_NN2 have_VH0 been_VBN 
+hired_VVN as_CSA teacher_NN1 aides_NN2 (_( All_DB 96_MC children_NN2 have_VH0 
+been_VBN evaluated_VVN by_II Intermediate_JJ Unit_NN1 ._. 
+Of_IO the_AT remaining_JJ 32_MC childre_NN1 20_MC -_- school_NN1 age_NN1 -_- 
+could_VM and_CC should_VM have_VHI an_AT1 educational_JJ program_NN1 ._. 
+Mr._NNB Mixer_NP1 ,_, Director_NN1 of_IO Special_JJ Education_NN1 ,_, had_VHD 
+hired_VVN a_AT1 teacher_NN1 for_IF them_PPHO2 who_PNQS chose_VVD not_XX to_TO 
+come_VVI 12_MC below_II school_NN1 ag_NN1 Progra_NP1 Held_VVD trips_NN2 on_II 
+Saturda_NP1 Childrens_NN2 Rehabilitation_NN1 Center_NN1 November_NPM1 29_MC 
+,_, 1972_MC -_- Page_NN1 2_MC Volunteer_NP1 Progra_NP1 Sr._NNA Fidel_NP1 I_MC1 
+Council_NN1 for_IF Exceptional_JJ Children_NN2 at_II Slippery_JJ Rock_NN1 -_- 
+65_MC volunteers_NN2 come_VV0 every_AT1 night_NNT1 but_CCB Friday_NPD1 and_CC 
+Saturday_NPD1 )_) Staf_NP1 R.N._NP1 on_II duty_NN1 around_II the_AT clock_NN1 
+Director_NN1 of_IO Nursin_NP1 Coordinator_NN1 of_IO Bevelopmental_NP1 
+Activitie_NP1 P.T._NN1 -_- once_RR a_AT1 week_NNT1 *_FU who_PNQS 
+prescribes_VVZ for_IF P.T._NN1 (_( 40_MC hour_NNT1 a_AT1 week_NNT1 
+employee_NN1 )_) aid_NN1 and_CC 20_MC chiIdren_NN1 Licensed_JJ Pharmacist_NN1 
+-_- 2_MC or_CC 3_MC evenings_NNT2 a_AT1 week_NNT1 Dr._NNB McKelvey_NP1 *_FU 
+Pediatrician_NN1 M/Th_NN1 Hospitals_NN2 Minor_JJ problems_NN2 -_- Passavan_NP1 
+Major_NP1 -_- Children_NN2 76_MC employees_NN2 (_( Including_II 
+maintenance_NN1 Child_NN1 Care_NN1 Staf_NN1 (_( 6:00_MC A.M._RA -_- 9:00_MC 
+A.M._RA -_- II_MC full_JJ staf_NN1 Dally_NP1 (_( 9:00_MC A.M._RA -_- 3:15_MC 
+P.M._RA -_- 6_VV0 (_( constraint_NN1 care_NN1 patients_NN2 (_( 3:15_MC P.M._RA 
+-_- 11:00_MC P.M._RA -_- I_MC1 Weekend_NNT1 schedule_NN1 -_- unknow_VV0 
+Problem_NN1 1_MC1 ._. 
+10_MC children_NN2 over_RG 12_MC years_NNT2 of_IO age_NN1 (_( up_RG21 to_RG22 
+15_MC years_NNT2 )_) Inappropriately_RR placed_VVN Pressure_NN1 on_II BSU_NN1 
+which_DDQ has_VHZ been_VBN more_RGR responsive_JJ In_II the_AT past_JJ 6_MC 
+months_NNT2 Allegheny_NP1 County_NN1 MH/MR_FU owes_VVZ $15,000_NNU ._. 
+Pays_VVZ when_RRQ Is_VBZ ready_JJ to_TO pay_VVI Butler_NP1 Rehab_NP1 ._. 
+Is_VBZ hopeful_JJ that_CST these_DD2 residents_NN2 can_VM go_VVI to_II the_AT 
+new_JJ adolescent_JJ unit_NN1 at_II Allegheny_NP1 Valley_NN1 School_NN1 22_MC 
+residents_NN2 have_VH0 been_VBN discharged_VVN In_II the_AT past_JJ three_MC 
+years_NNT2 some_DD to_II other_JJ Institutions_NN2 ;_; e.g._REX ,_, White_JJ 
+Deer_NN ;_; others_NN2 home_RL and_CC to_TO foster_VVI homes_NN2 2_MC ._. 
+No_AT central_JJ air_NN1 conditioning_NN1 or_CC central_JJ heating_NN1 
+Room_NN1 unit_NN1 heating_NN1 Is_VBZ very_RG uneven_JJ Childrens_NN2 
+Rehabilitation_NN1 Center_NN1 -_- Nov._NPM1 29_MC ,_, 1972_MC -_- Page_NN1 
+Prob_NN1 Iems_NN2 (_( Continued_VVN 3_MC ._. 
+Although_CS profit_NN1 making_VVG claim_NN1 only_RR a_AT1 $500_NNU profit_NN1 
+In_II 197_MC Corporation_NN1 of_IO businessmen_NN2 United_JJ Cause_NN1 -_- 
+went_VVD Into_II human_JJ services_NN2 business_NN1 In_II 1964_MC ._. 
+Butler_NP1 Rehab_NP1 ,_, opened_VVD In_II June_NPM1 ,_, 1967_MC ._. 
+There_EX has_VHZ been_VBN no_AT return_NN1 on_II the_AT Investment_NN1 to_II 
+date_NN1 Where_RRQ are_VBR the_AT businessmen_NN2 getting_VVG the_AT new_JJ 
+capital_NN1 to_TO Invest_VV0 In_II a_AT1 second_MD home_NN1 In_II Hershey_NP1 
+,_, Pa._NP1 -_- Childrens_NN2 Care_VV0 Center_NN1 ?_? ?_? 4_MC ._. 
+Mrs._NNB May_NP1 claims_VVZ money_NN1 Is_VBZ the_AT big_JJ problem_NN1 ._. 
+Can_VM not_XX provide_VVI the_AT dirired_JJ human_JJ services_NN2 (_( as_CSA 
+stimulation_NN1 and_CC play_VV0 with_IW severely_RR retarded_JJ 
+non-ambulatory_JJ children_NN2 )_) on_II $14.50_NNU dally_RR Mrs._NNB Mays_NP1 
+dream_NN1 of_IO an_AT1 outdoor_JJ gross_JJ motor_NN1 playground_NN1 with_IW 
+shapes_NN2 ,_, colors_NN2 and_CC caboose_NN1 was_VBDZ not_XX funded_VVN 5_MC 
+._. 
+Few_DA2 personal_JJ belongings_NN2 found_VVN -_- particularly_RR evident_JJ 
+In_II Center_NN1 Hall_NN1 Rooms_NN2 where_RRQ children_NN2 attend_VV0 
+outside_JJ school_NN1 (_( Exception_NN1 -_- one_MC1 room_NN1 of_IO older_JJR 
+boys_NN2 ...._... 
+In_II mat_NN1 room_NN1 -_- Inappropriate_JJ very_RG small_JJ crib_NN1 for_IF 
+one_MC1 boy_NN1 )_) 6_MC ._. 
+Nettings_NN2 over_II cribs_NN2 would_VM not_XX be_VBI necessary_JJ If_CS 
+staff_NN were_VBDR available_JJ to_TO monitor_VVI childrens_NN2 climbing_VVG 
+out_II21 of_II22 beds_NN2 7_MC ._. 
+Bathroom_NN1 In_II South_ND1 Wing_NN1 Inadequate_JJ number_NN1 of_IO 
+handwashing_VVG sinks_NN2 Toilet_NN1 paper_NN1 and_CC soap_NN1 completely_RR 
+out_II21 of_II22 childs_NN2 reach_VV0 8_MC ._. 
+Pharmacy_NN1 -_- certainly_RR cheaper_JJR and_CC more_RGR convenient_JJ ._. 
+But_CCB Is_VBZ It_PPH1 safer_JJR Three_MC people_NN with_IW keys_NN2 Mrs._NNB 
+Ma_NP1 Mrs._NNB Wilson_NP1 -_- Director_NN1 of_IO Nursing_JJ Pharmacis_NN1 
+Keys_NN2 are_VBR given_VVN on_II occasion_NN1 to_II an_AT1 R.N.when_NP1 
+necessary_JJ Some_DD members_NN2 of_IO the_AT Inspection_NN1 Team_NN1 felt_VVD 
+there_EX was_VBDZ a_AT1 urine_NN1 odor_NN1 -_- others_NN2 did_VDD not_XX 10_MC 
+._. 
+Misleading_JJ signs_NN2 -_- as_CSA "_" Montessourl_NP1 when_CS no_AT such_DA 
+equipment_NN1 existed_VVD 11_MC ._. 
+Mrs._NNB May_NP1 stated_VVD ,_, "_" The_AT children_NN2 are_VBR seen_VVN 
+as_CSA Individuals_NN2 ._. 
+This_DD1 would_VM appear_VVI not_XX be_VBI be_VBI true_JJ In_II the_AT 
+understaffed_JJ situation_NN1 with_IW the_AT "_" constant_JJ care_NN1 
+patients_NN2 Little_RR play_VV0 -_- stimulatio_NN1 These_DD2 children_NN2 
+were_VBDR not_XX as_RG responsive_JJ as_CSA others_NN2 who_PNQS function_VV0 
+on_II this_DD1 same_DA level_NN1 -_- whom_PNQO we_PPIS2 have_VH0 observed_VVN 
+elsewhere_RL Childrens_NN2 Rehab_VV0 ._. 
+Center_NN1 -_- Nov._NPM1 29_MC ,_, 1972_MC -_- Page_NN1 Bedroom_NN1 Area_NN1 
+North_ND1 Wing_NN1 -_- Constant_JJ care_NN1 -_- one_MC1 child_NN1 care_NN1 
+worker_NN1 In_II each_DD1 room_NN1 of_IO six_MC children_NN2 I_ZZ1 
+activities_NN2 are_VBR Center_NN1 Hal_NP1 I_MC1 Room_NN1 8_MC rooms_NN2 
+with_IW 4-5_MCMC residents_NN2 -_- 3_MC staff_NN -_- Most_RGT difficult_JJ 
+group_NN1 ,_, hyperactive_JJ ,_, ambulatory_JJ ,_, severely_RR retarded._NNU 
+-_- Many_DA2 are_VBR not_XX tollettralned_VVN 1_MC1 large_JJ and_CC I_PPIS1 
+small_JJ activity_NN1 roo_NN1 Hall_NN1 (_( uncarpeted_JJ )_) used_VVD also_RR 
+Genera_NN2 Personalized_JJ clothing_NN1 -_- excellen_JJ Visitation_NN1 
+officially_RR 1:30-4:00_MCMC Parents_NN2 are_VBR welcomed_VVN ,_, however_RR 
+,_, any_DD time_NNT1 Child_NN1 care_NN1 staff_NN On_II Job_NN1 brainin_NN1 
+One_MC1 week_NNT1 of_IO paid_JJ orientation_NN1 2_MC women_NN2 work_VV0 40_MC 
+hours_NNT2 a_AT1 week_NNT1 Just_RR having_VHG school_NN1 outfits_NN2 
+cleaned_VVN and_CC ready_JJ ;_; -'Ini_NN2 ft-._NNU -_- Large_JJ Dining_NN1 
+Room_NN1 -_- long_JJ table_NN1 Small_NP1 Dining_NN1 Room_NN1 -_- sma11_FO 
+tab_VV0 Ie_REX Kitche_NP1 Basemen_NP1 Activity_NN1 Room_NN1 for_IF Center_NN1 
+Hall_NN1 children_NN2 called_VVN Home_RL Living_JJ Activity_NN1 Room_NN1 
+where_RRQ volunteers_NN2 can_VM work_VVI one_MC1 to_II one_MC1 School_NN1 
+Room_NN1 (_( Under_II Butler_NP1 County_NN1 Intermediate_JJ Unit_NN1 
+Teacher_NN1 (_( Mrs._NNB Bowser_NP1 )_) and_CC aide_NN1 with_IW 10_MC 
+children_NN2 -_- could_VM use_VVI an_AT1 additional_JJ hidd_NN1 Laundr_NP1 
+Pharmac_NP1 Maintenance_NN1 Room_NN1 -_- (_( Ex-retardate_NN1 employed_VVD 
+here._NNU )_) --9b4f40b5c17085e0bc626a47ed4b7d7a--_FU 
