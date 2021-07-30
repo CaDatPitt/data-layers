@@ -1,13 +1,16 @@
-# README
-
-## Bob Nelkin Collection Extension Layer - Pre-processing
+# Bob Nelkin Collection of ACC-PARC Records
 
 <br>
 
-**Author:** Ben Naismith (bnaismith@pitt.edu)  
+## Natural Language Processing Layer – Naismith
+
+**Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))  
+
 **Last modified:** July 15, 2021
 
 <br>
+
+### Pre-processing
 
 This folder contains the notebook for the pre-processing stage of the Bob Nelkin Collection. Pre-processing is carried out here to create a single dataframe with the texts and their metadata, with standardized fields and no missing data.  
 
@@ -17,11 +20,11 @@ The notebook contains the following sections:
 2. Combined dataframe
 3. Missing data
 4. Standardization
-5. Save dataframe
+5. Save dataframe   
 
 <br>
 
-**Output:**  
+#### Output  
 The output of this notebook is a pickle file of the pre-processed dataframe which is ready for processing. The dataframe contains the following columns:
 
 column        | description
@@ -38,3 +41,11 @@ depositor     | the depositor of the object (same for all objects): _Detre Libra
 collection_id |	internal collection_id number (same for all objects): _collection.341_
 text          | the text of the documents (all objects except for 5 photos)
 language      | the text language (same for all objects): _English_
+
+<br>
+
+#### Notes
+In addition to the elements in the item level of the [CaD@Pitt Archival Collection Metadata Element Set](https://cadatpitt.github.io/documentation/data-dictionary/archival-collections.html#item-level) and data in the [Bob Nelkin Collection base layer](https://github.com/CaDatPitt/data-layers/blob/master/base-layers/bob-nelkin-collection/bob-nelkin-collection_item-base-layer_archival.csv), this extension layer contributes the following element and/or data:
+- `abstract` (adds `abstract` data missing in base layer)
+- `text`
+- `language` (adds `language` data missing in base layer)

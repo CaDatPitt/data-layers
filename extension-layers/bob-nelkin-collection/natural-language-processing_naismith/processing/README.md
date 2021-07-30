@@ -1,15 +1,18 @@
-# README
-
-## Bob Nelkin Collection Extension Layer - Processing
+# Bob Nelkin Collection of ACC-PARC Records
 
 <br>
 
-**Author:** Ben Naismith (bnaismith@pitt.edu)  
+## Natural Language Processing Layer – Naismith
+
+**Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))
+
 **Last modified:** July 15, 2021
 
 <br>
 
-This repository contains the notebook for the processing stage of the Bob Nelkin Collection. Processing involves manipulating the text into formats which may be of use to researchers and allows for greater analysis.  
+### Processing
+
+This folder contains the notebook for the processing stage of the Bob Nelkin Collection. Processing involves manipulating the text into formats which may be of use to researchers and allows for greater analysis.  
 
 The notebook contains the following sections:
 
@@ -23,8 +26,9 @@ The notebook contains the following sections:
 
 <br>
 
-**Output:**  
-The output of this notebook is a pickle file of the processed dataframe called `bob_df.pkl`. The dataframe contains the following columns:
+#### Output
+
+The output of this notebook is a pickle file of the processed dataframe called [`bob_df.pkl`](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/README.md#output). The dataframe contains the following columns:
 
 column                     | description
 :---                       | :---
@@ -47,12 +51,25 @@ tok_lem_POS_NLTK_corrected | a spell-corrected version of the the `tok_lem_POS_N
 misspelling_correction     | the words which were corrected in the spell-corrected version to allow for manual verification if desired
 len_errors                 | the number of misspelled words based on the previous column
 genre                      | the genre of the text as deduced from the title and abstract of the text
-genre_MODS                 | the genre of the text coverted to the [MODS metadata terms](https://github.com/uls-mad/islandora_metadata/wiki/Genre-Terms-for-Historic-Pittsburgh-Digital-Objects)
+genre_MODS                 | the genre of the text coverted to the comply with the [genre terms list for University of Pittsburgh Library System (ULS) digital collections](https://github.com/uls-mad/islandora_metadata/wiki/Genre-Terms-for-Historic-Pittsburgh-Digital-Objects)
 resource_type              | the resource type based on the previous column (either _text_ or _still image_)
 
 <br>
 
-**Notes:**  
-As part of the processing, frequency data from an external corpus, [COCA](https://www.english-corpora.org/coca/) (Davies, 2008-), is used. This data was accessed through a paid license. Please see [Dr Na-Rae Han](https://www.linguistics.pitt.edu/people/na-rae-han) for access information for Pitt students and faculty or the [COCA website](https://www.wordfrequency.info/purchase.asp) for purchase information.  
+#### Notes  
+
+In addition to the elements in the item level of the [CaD@Pitt Archival Collection Metadata Element Set](https://cadatpitt.github.io/documentation/data-dictionary/archival-collections.html#item-level) and data in the [Bob Nelkin Collection base layer](https://github.com/CaDatPitt/data-layers/blob/master/base-layers/bob-nelkin-collection/bob-nelkin-collection_item-base-layer_archival.csv), this extension layer contributes the following elements and/or data:
+- `text`
+- `len`
+- `tok_lem_POS_NLTK`
+- `tok_lem_POS_CLAWS`
+- `tok_lem_POS_NLTK_corrected`
+- `misspelling_correction`
+- `len_errors`
+- `genre` (adds `genre` data missing in base layer)
+- `genre_MODS` (adds `genre` data missing in base layer)
+- `resource_type` (adds `type_of_resource` data missing in base layer)
+
+As part of the processing, frequency data from an external corpus, [COCA](https://www.english-corpora.org/coca/) (Davies, 2008-), is used. This data was accessed through a paid license. Please see [Dr. Na-Rae Han](https://www.linguistics.pitt.edu/people/na-rae-han) for access information for Pitt students and faculty or the [COCA website](https://www.wordfrequency.info/purchase.asp) for purchase information.  
 
 Davies, Mark. (2008-) _The Corpus of Contemporary American English (COCA)_. Available online at https://www.english-corpora.org/coca/.
