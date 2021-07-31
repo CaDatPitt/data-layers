@@ -1,0 +1,328 @@
+
+A-S0_NP1 12-6_MCMC COMMONWEALTH_NN1 OF_IO PENNSYLVANI_JJ February_NPM1 9_MC 
+,_, 197_MC SUBJECT_NN1 :_: Dental_JJ Inventory_NN1 Planned_VVD Strategy_NN1 
+r_ZZ1 ._. n._NNU for_IF the_AT Balance_NN1 of_IO MR_NNB State_NP1 Centers_NN2 
+79_MC FEB_NPM1 13_MC ul_VV0 TO_II :_: Helen_NP1 OBannon_NP1 Secretary_NN1 
+of_IO Public_JJ Welfare_NN1 M_NN1 FROM_II :_: Peter_NP1 P._NP1 Polloni_NP1 
+Deputy_NN1 Secretary_NN1 for_IF Mental_JJ Retardatio_NN1 Attached_VVN are_VBR 
+the_AT specific_JJ strategies_NN2 that_CST are_VBR recommended_VVN to_II 
+you_PPY to_TO be_VBI carried_VVN out_RP in_II the_AT balance_NN1 of_IO 
+our_APPGE MR_NNB State_NP1 Centers_NN2 I_PPIS1 believe_VV0 we_PPIS2 have_VH0 
+covered_VVN adequately_RR the_AT procedures_NN2 that_CST will_VM give_VVI 
+us_PPIO2 the_AT assessment_NN1 of_IO dental_JJ services_NN2 within_II the_AT 
+MR_NNB Centers_NP1 and_CC which_DDQ will_VM enable_VVI us_PPIO2 to_TO 
+determine_VVI any_DD additional_JJ actions_NN2 which_DDQ may_VM need_VVI to_TO 
+be_VBI taken_VVN I_MC1 and_CC members_NN2 of_IO my_APPGE staff_NN are_VBR 
+prepared_VVN to_TO meet_VVI with_IW you_PPY to_TO answer_VVI questions_NN2 
+related_VVN to_II the_AT documents_NN2 Attachment_NN1 cc_NNU Mr._NNB Else_RR 
+Dr._NNB Smit_NP1 PROPOSED_VVD DENTAL_JJ SERVICE_NN1 INVENTOR_NP1 
+Introductio_NP1 The_AT Department_NN1 of_IO Public_JJ Welfare_NN1 and_CC 
+the_AT Office_NN1 of_IO Mental_JJ Retardation_NN1 are_VBR committed_VVN to_II 
+providing_VVG all_DB of_IO the_AT professional_JJ services_NN2 required_VVN 
+to_TO meet_VVI the_AT needs_NN2 of_IO the_AT mentally_RR retarded_JJ 
+residents_NN2 of_IO State_NN1 Centers_NN2 ._. 
+One_MC1 such_DA service_NN1 is_VBZ the_AT provision_NN1 of_IO appropriate_JJ 
+dental_JJ care_NN1 In_II recent_JJ months_NNT2 ,_, a_AT1 great_JJ deal_NN1 
+of_IO emphasis_NN1 has_VHZ been_VBN directed_VVN toward_II the_AT review_NN1 
+of_IO the_AT dental_JJ services_NN2 at_II two_MC State_NN1 Centers_NN2 -_- 
+Ebensburg_NP1 and_CC Cresson_NP1 ._. 
+These_DD2 reviews_NN2 ,_, while_CS emphasizing_VVG specific_JJ problems_NN2 
+at_II these_DD2 two_MC facilities_NN2 ,_, also_RR indicated_VVD the_AT 
+importance_NN1 of_IO completing_VVG similar_JJ reviews_NN2 at_II all_DB of_IO 
+the_AT remaining_JJ State_NN1 Centers_NN2 ._. 
+This_DD1 proposal_NN1 details_NN2 a_AT1 process_NN1 to_II inventory_NN1 
+dental_JJ services_NN2 at_II each_DD1 remaining_JJ State_NN1 Center_NN1 ._. 
+Inventories_NN2 will_VM be_VBI completed_VVN during_II site_NN1 visits_NN2 
+conducted_VVN by_II an_AT1 independent_JJ (_( not_XX employed_VVN at_II the_AT 
+facility_NN1 )_) dentist_NN1 ._. 
+These_DD2 visits_NN2 will_VM be_VBI devoted_JJ primarily_RR to_II 
+completion_NN1 of_IO oral_JJ examinations_NN2 on_II a_AT1 sample_NN1 of_IO 
+approximately_RR 10%_NNU of_IO each_DD1 facility_NN1 's_GE population_NN1 ._. 
+The_AT dentist_NN1 will_VM provide_VVI the_AT Department_NN1 a_AT1 report_NN1 
+in_II a_AT1 format_NN1 described_VVD herein_RR which_DDQ will_VM be_VBI 
+used_VVN to_TO define_VVI needs_NN2 for_IF improving_VVG dental_JJ 
+services_NN2 at_II each_DD1 facility_NN1 Facility_NN1 Prioritie_NP1 The_AT 
+Office_NN1 of_IO Mental_JJ Retardation_NN1 has_VHZ established_VVN the_AT 
+following_JJ facility_NN1 priorities_NN2 for_IF the_AT dental_JJ 
+inventories_NN2 1_MC1 ._. 
+Selinsgrove_VV0 Cente_NN1 2_MC ._. 
+White_JJ Haven_NN1 Cente_NN1 3_MC ._. 
+Hamburg_NP1 Cente_NP1 4_MC ._. 
+Polk_NP1 Cente_NP1 5_MC ._. 
+Woodhaven_JJ Cente_NN1 6_MC ._. 
+Western_NP1 Cente_NP1 7_MC ._. 
+Pennhurst_VV0 Cente_NN1 8_MC ._. 
+Marcy_NN1 State_NN1 Hospita_NP1 9_MC ._. 
+Embreeville_NP1 State_NN1 Hospita_NP1 10_MC ._. 
+Laurelton_NN1 Cente_NN1 Time_NNT1 Frame_NN1 for_IF Completio_NP1 It_PPH1 
+is_VBZ believed_VVN that_CST a_AT1 period_NN1 of_IO approximately_RR two_MC 
+days_NNT2 will_VM be_VBI required_VVN to_TO complete_VVI the_AT dental_JJ 
+inventories_NN2 at_II each_DD1 MR_NNB facility_NN1 ._. 
+In_RR21 addition_RR22 ,_, approximately_RR three_MC weeks_NNT2 will_VM be_VBI 
+required_VVN to_TO complete_VVI each_DD1 written_JJ report_NN1 and_CC to_TO 
+prepare_VVI it_PPH1 for_IF presentation_NN1 for_IF review_NN1 to_II the_AT 
+facility_NN1 ,_, the_AT Regional_JJ Office_NN1 and_CC the_AT Central_JJ 
+Office_NN1 of_IO Mental_JJ Retardation_NN1 ._. 
+These_DD2 time_NNT1 frames_NN2 are_VBR based_VVN on_II the_AT experience_NN1 
+of_IO the_AT review_NN1 teams_NN2 who_PNQS completed_VVD the_AT initial_JJ 
+Dental_JJ Reports_NN2 for_IF Cresson_NP1 and_CC Ebensburg_NP1 Centers_NN2 
+With_IW these_DD2 time_NNT1 frames_VVZ in_II mind_NN1 ,_, and_CC with_IW 
+the_AT understanding_NN1 that_CST the_AT appropriate_JJ staff_NN must_VM 
+have_VHI approximately_RR one_MC1 week_NNT1 to_TO review_VVI the_AT written_JJ 
+reports_NN2 ,_, the_AT following_JJ tentative_JJ scheduled_JJ is_VBZ 
+proposed_VVN for_IF the_AT inventories_NN2 -2_MC Facility_NN1 On-Site_JJ 
+Review_NN1 Dates_VVZ 1979_MC Completion_NN1 of_IO Report_NN1 1979_MC 
+Review_NN1 Meeting_NN1 197_MC Seiinsgrove_VV0 March_NPM1 29_MC ,_, 30_MC 
+April_NPM1 20_MC April_NPM1 2_MC White_JJ Haven_NN1 April_NPM1 26_MC ,_, 27_MC 
+May_NPM1 18_MC May_NPM1 2_MC Hamburg_NP1 May_NPM1 24_MC ,_, 25_MC June_NPM1 
+15_MC June_NPM1 2_MC Polk_NP1 June_NPM1 21_MC ,_, 22_MC July_NPM1 13_MC 
+July_NPM1 2_MC Woodhaven_JJ July_NPM1 19_MC ,_, 20_MC August_NPM1 10_MC 
+August_NPM1 1_MC1 Western_JJ August_NPM1 16_MC ,_, 17_MC September_NPM1 7_MC 
+September_NPM1 1_MC1 Pennhurst_NN1 September_NPM1 13_MC ,_, 14_MC October_NPM1 
+5_MC October_NPM1 1_MC1 Marcy_NN1 October_NPM1 11_MC ,_, 12_MC November_NPM1 
+2_MC November_NPM1 Embreeville_NP1 November_NPM1 8_MC ,_, 9_MC November_NPM1 
+30_MC December_NPM1 Laurel_NP1 ton_NNU1 December_NPM1 6_MC ,_, 7_MC 
+December_NPM1 28_MC January_NPM1 4_MC ,_, 198_MC This_DD1 schedule_NN1 
+would_VM allow_VVI us_PPIO2 to_TO complete_VVI all_DB facility_NN1 reviews_VVZ 
+by_II the_AT ned_JJ of_IO this_DD1 calendar_NN1 year_NNT1 ,_, with_IW the_AT 
+final_JJ review_NN1 meeting_NN1 being_VBG held_VVN in_II early_JJ January_NPM1 
+,_, 1980_MC ._. 
+Personnel_NN2 Completing_VVG Inventories_NN2 A_ZZ1 single_JJ dentist_NN1 
+will_VM be_VBI utilized_VVN to_TO complete_VVI the_AT inventory_NN1 at_II 
+each_DD1 State_NN1 Center_NN1 ._. 
+This_DD1 person_NN1 must_VM 1_MC1 ._. 
+Be_VB0 appropriately_RR licensed_VVN to_II practice_NN1 dentistry_NN1 i_ZZ1 
+the_AT Commonwealth_NN1 of_IO Pennsylvania_NP1 2_MC ._. 
+Have_VH0 experience_NN1 in_II providing_VVG dental_JJ services_NN2 directly_RR 
+to_II developmentally_RR disabled_JJ persons_NN2 3_MC ._. 
+Be_VB0 willing_JJ to_TO accept_VVI the_AT condition_NN1 that_CST all_DB 
+reviews_NN2 are_VBR the_AT property_NN1 of_IO the_AT Department_NN1 and_CC 
+are_VBR for_IF their_APPGE use_NN1 This_DD1 dentist_NN1 would_VM be_VBI 
+assisted_VVN in_II the_AT completion_NN1 of_IO the_AT required_JJ oral_JJ 
+examinations_NN2 by_II appropriate_JJ staff_NN from_II the_AT facility_NN1 
+reviewed_VVN and/or_CC the_AT staff_NN person_NN1 from_II the_AT Office_NN1 
+of_IO Mental_JJ Retardation_NN1 -3_MC Inventory_NN1 Coordinatio_NP1 An_AT1 
+individual_NN1 from_II the_AT Department_NN1 's_GE Office_NN1 of_IO Mental_JJ 
+Retardation_NN1 shall_VM be_VBI designated_VVN with_IW the_AT following_JJ 
+inventory_NN1 responsibilities_NN2 1_MC1 ._. 
+Will_VM collect_VVI all_DB pertinent_JJ background_NN1 information_NN1 
+regarding_II the_AT dental_JJ services_NN2 and_CC staff_NN at_II each_DD1 
+State_NN1 Center_NN1 to_TO be_VBI inventoried_VVN 2_MC ._. 
+Will_VM oversee_VVI all_DB activities_NN2 related_VVN to_II the_AT reviews_NN2 
+,_, including_II the_AT establishment_NN1 of_IO any_DD on-site_JJ meetings_NN2 
+with_IW Department_NN1 or_CC facility_NN1 personnel_NN2 3_MC ._. 
+Will_VM coordinate_VVI the_AT meeting_NN1 to_TO review_VVI the_AT report_NN1 
+with_IW the_AT facility_NN1 staff_NN ,_, the_AT Regional_JJ Office_NN1 
+staff_NN and_CC other_JJ pertinent_JJ staff_NN from_II the_AT Department_NN1 
+,_, following_VVG the_AT receipt_NN1 of_IO the_AT dental_JJ inventory_NN1 4_MC 
+._. 
+Will_VM develop_VVI a_AT1 summary_NN1 of_IO recommendations_NN2 ,_, in_II 
+an_AT1 order_NN1 of_IO priority_NN1 ,_, for_IF referral_NN1 and_CC 
+approval_NN1 to_II the_AT Deputy_NN1 Secretary_NN1 for_IF Mental_JJ 
+Retardation_NN1 ._. 
+It_PPH1 should_VM be_VBI noted_VVN that_DD1 is_VBZ some_DD or_CC all_DB of_IO 
+the_AT recommendations_NN2 are_VBR not_XX supportable_JJ ,_, this_DD1 
+person_NN1 will_VM prepare_VVI a_AT1 statement_NN1 as_II21 to_II22 why_RRQ 
+that_DD1 is_VBZ the_AT case_NN1 prior_II21 to_II22 presentation_NN1 to_II 
+the_AT Deputy_NN1 Secretary_NN1 for_IF Mental_JJ Retardation_NN1 5_MC ._. 
+._. Will_VM insure_VVI the_AT timely_JJ compilation_NN1 of_IO quarterly_JJ 
+update_NN1 on_II the_AT status_NN1 of_IO all_DB recommendations_NN2 by_II 
+the_AT responsible_JJ Regional_JJ Office_NN1 to_II the_AT Deputy_NN1 
+Secretary_NN1 for_IF Mental_JJ Retardation_NN1 ._. 
+This_DD1 status_NN1 report_NN1 will_VM list_VVI any_DD difficulties_NN2 in_II 
+the_AT implementation_NN1 of_IO any_DD recommendation_NN1 and_CC will_VM 
+propose_VVI any_DD additional_JJ action_NN1 which_DDQ may_VM be_VBI 
+necessary_JJ to_TO provide_VVI quality_NN1 dental_JJ services_NN2 6_MC ._. 
+Will_VM prepare_VVI a_AT1 final_JJ summary_NN1 of_IO all_DB of_IO the_AT 
+inventories_NN2 completed_VVN in_II the_AT MR_NNB Centers_NP1 ,_, listing_VVG 
+all_DB recommendations_NN2 implemented_VVN and_CC a_AT1 status_NN1 report_NN1 
+of_IO all_DB recommendations_NN2 for_IF presentation_NN1 to_II the_AT 
+Deputy_NN1 Secretary_NN1 for_IF Mental_JJ Retardation_NN1 by_II the_AT end_NN1 
+of_IO January_NPM1 ,_, 1980_MC 7_MC ._. 
+The_AT Deputy_NN1 Secretary_NN1 will_VM submit_VVI the_AT report_NN1 
+indicated_VVN in_II No._NN1 6_MC as_II31 well_II32 as_II33 any_DD further_JJR 
+recommendations_NN2 for_IF system_NN1 change_NN1 to_II the_AT Secretary_NN1 
+of_IO Public_JJ Welfare_NN1 Materials_NN2 to_TO be_VBI Received_VVN Prior_II21 
+to_II22 the_AT Site_NN1 Visi_NN1 Each_DD1 facility_NN1 will_VM be_VBI 
+required_VVN to_TO submit_VVI the_AT following_JJ information_NN1 prior_II21 
+to_II22 the_AT on-site_JJ review_NN1 to_II the_AT Office_NN1 of_IO Mental_JJ 
+Retardation_NN1 -4_MC 1_MC1 ._. 
+Standard_JJ Procedure_NN1 A._NP1 Methods_NN2 for_IF scheduling_VVG and_CC 
+recalling_VVG clients_NN2 for_IF dental_JJ service_NN1 B._NP1 Methods_NN2 
+for_IF performing_VVG prophylaxi_NN2 C._NP1 Method_NN1 for_IF performing_VVG 
+dental_JJ examination_NN1 D._NP1 Description_NN1 of_IO all_DB services_NN2 
+performed_VVN by_II contrac_JJ E._NP1 Summary_NN1 of_IO services_NN2 
+performed_VVD off-ground_NN1 2_MC ._. 
+Summary_NN1 of_IO Service_NN1 Activitie_NP1 Numbers_NN2 of_IO clients_NN2 
+receiving_VVG the_AT following_JJ services_NN2 for_IF the_AT 12_MC months_NNT2 
+immediately_RR preceding_VVG will_VM be_VBI reported_VVN accordingly_RR in_II 
+the_AT following_JJ categories_NN2 x_ZZ1 A._NNU Examination_NN1 B._NP1 
+Extraction_NP1 C._NP1 Prophylaxis_NP1 or_CC cleanin_NN1 D._NP1 Restoration_NN1 
+E._NP1 Emergency_NN1 visit_NN1 F._NP1 Other_JJ special_JJ procedures_NN2 
+including_II crowns_NN2 ,_, partials_NN2 ,_, bridges_NN2 '_GE root_NN1 
+canals_NN2 ,_, etc_RA 3_MC ._. 
+Summary_NN1 of_IO Personne_NP1 The_AT summary_NN1 of_IO personnel_NN2 
+compiled_VVN prior_II21 to_II22 the_AT site_NN1 visit_NN1 will_VM include_VVI 
+the_AT following_JJ for_IF employees_NN2 working_VVG in_II the_AT dental_JJ 
+service_NN1 A._NP1 Nam_NP1 B._NP1 Employee_NN1 Numbe_NP1 C._NP1 Job_NN1 
+Classificatio_NP1 D._NP1 Length_NN1 of_IO Servic_JJ E._NP1 Highest_JJT 
+Degre_NP1 F._NP1 Licensur_NP1 G._NP1 Evidence_NN1 of_IO special_JJ 
+training_NN1 in_II mental_JJ retardatio_NN1 H._NP1 A_ZZ1 summary_NN1 of_IO 
+continuing_JJ education_NN1 or_CC in-service_JJ training_NN1 for_IF eac_NN1 
+'_GE I._NP1 List_NN1 of_IO organization_NN1 memberships_NN2 for_IF eac_NN1 
+For_IF part-time_JJ staff_NN or_CC contracted_VVD employees_NN2 ,_, the_AT 
+facility_NN1 will_VM indicate_VVI the_AT number_NN1 of_IO hours_NNT2 per_II 
+week_NNT1 provided_VVN in_II dental_JJ service_NN1 4_MC ._. 
+The_AT facility_NN1 client_NN1 profile_NN1 (_( 1977-1978_MCMC )_) will_VM 
+be_VBI provided_VVN 5_MC ._. 
+Sample_NN1 Lis_NP2 The_AT sample_NN1 will_VM be_VBI selected_VVN and_CC a_AT1 
+list_NN1 of_IO clients_NN2 who_PNQS comprise_VV0 the_AT samples_NN2 will_VM 
+be_VBI compiled_VVN ._. 
+In_II31 addition_II32 to_II33 the_AT name_NN1 and_CC case_NN1 number_NN1 of_IO 
+each_DD1 client_NN1 in_II the_AT sample_NN1 ,_, the_AT following_JJ 
+information_NN1 will_VM be_VBI provided_VVN for_IF each_DD1 client_NN1 -5_MC 
+A._NNU Ag_FO B._NP1 Se_ND1 C._NP1 Level_NN1 of_IO mental_JJ retardatio_NN1 
+D._NP1 Existence_NN1 of_IO other_JJ physical_JJ handicaps_NN2 (_( seizures_NN2 
+,_, non-ambulatory_JJ E._NP1 The_AT name_NN1 of_IO the_AT responsible_JJ 
+dentis_NN1 G._NP1 An_AT1 indication_NN1 as_II21 to_II22 whether_CSW the_AT 
+client_NN1 is_VBZ known_VVN to_TO be_VBI agressiv_NN1 H._NP1 An_AT1 
+indication_NN1 as_II21 to_II22 whether_CSW the_AT client_NN1 is_VBZ on_II 
+dilantin_NN1 or_CC no_AT Methodolog_NN1 1_MC1 ._. 
+Presurve_VV0 A._NP1 One_MC1 month_NNT1 prior_II21 to_II22 the_AT scheduled_JJ 
+site_NN1 visit_NN1 ,_, the_AT OMR_NN1 liaison_NN1 will_VM inform_VVI the_AT 
+survey_NN1 facility_NN1 of_IO their_APPGE needs_NN2 to_TO compile_VVI the_AT 
+pre-sit_JJ visit_NN1 information_NN1 B._NP1 Two_MC weeks_NNT2 prior_II21 
+to_II22 the_AT scheduled_JJ site_NN1 visit_NN1 ,_, the_AT facility_NN1 will_VM 
+submit_VVI to_II the_AT OMR_NN1 liaison_NN1 a_AT1 complete_JJ package_NN1 
+of_IO the_AT presurvey_NN1 information_NN1 C._ZZ1 One_MC1 week_NNT1 prior_II21 
+to_II22 the_AT scheduled_JJ survey_NN1 date_NN1 ,_, the_AT OMR_NN1 liaison_NN1 
+will_VM compile_VVI the_AT pre-site_JJ information_NN1 and_CC provide_VVI 
+it_PPH1 to_II the_AT dentist_NN1 D._NP1 One_MC1 week_NNT1 prior_II21 to_II22 
+the_AT site_NN1 visit_VV0 the_AT OMR_NN1 liaison_NN1 will_VM assure_VVI 
+that_CST arrangements_NN2 have_VH0 been_VBN made_VVN at_II the_AT facility_NN1 
+2_MC ._. 
+Site_VV0 Visi_NP1 A._NP1 On_II the_AT day_NNT1 of_IO the_AT survey_NN1 the_AT 
+following_JJ persons_NN2 will_VM be_VBI present_JJ (_( 1_MC1 )_) the_AT 
+contracted_JJ dentis_NN1 (_( 2_MC )_) OMR_VV0 liaiso_NN1 (_( 3_MC )_) a_AT1 
+facility_NN1 liaiso_NN1 B._NP1 The_AT dentist_NN1 will_VM spend_VVI the_AT 
+majority_NN1 of_IO their_APPGE time_NNT1 during_II the_AT site_NN1 visit_NN1 
+performing_VVG oral_JJ examinations_NN2 on_II clients_NN2 who_PNQS are_VBR 
+part_NN1 of_IO the_AT sample_NN1 ._. 
+They_PPHS2 will_VM also_RR review_VVI records_NN2 to_TO compare_VVI the_AT 
+results_NN2 of_IO the_AT examination_NN1 with_IW existing_JJ documentation_NN1 
+C._NP1 The_AT sample_NN1 of_IO clients_NN2 to_TO be_VBI examined_VVN will_VM 
+be_VBI approximately_RR 10%_NNU of_IO the_AT facility_NN1 population_NN1 
+and_CC will_VM be_VBI constructed_VVN to_TO approximat_VVI the_AT makeup_NN1 
+of_IO the_AT facility_NN1 population_NN1 along_II the_AT following_JJ 
+dimensions_NN2 (_( 1_MC1 )_) ag_NN1 (_( 2_MC )_) se_NN1 (_( 3_MC )_) level_NN1 
+of_IO mental_JJ retardatio_NN1 (_( 4_MC )_) presence_NN1 of_IO other_JJ 
+physical_JJ handicaps_NN2 (_( seizures_NN2 ,_, non-ambulatory_JJ (_( 5_MC )_) 
+responsible_JJ dentis_NN1 (_( 6_MC )_) presence_NN1 or_CC absence_NN1 of_IO 
+agressivenes_VVZ (_( 7_MC )_) use_NN1 of_IO dilanti_NN2 -6_MC D._NP1 The_AT 
+dentist_NN1 will_VM complete_VVI a_AT1 "_" Dental_JJ Inventory_NN1 Report_NN1 
+"_" (_( see_VV0 Attachment_NN1 "_" A_ZZ1 "_" )_) for_IF each_DD1 facility_NN1 
+3_MC ._. 
+Post-Site_JJ Visi_NP1 A._NP1 The_AT dentist_NN1 's_GE inventory_NN1 report_NN1 
+will_VM be_VBI received_VVN by_II OMR_NP1 within_II three_MC weeks_NNT2 of_IO 
+the_AT date_NN1 of_IO the_AT site_NN1 visit_NN1 B._NP1 A_ZZ1 meeting_VVG 
+between_II the_AT facility_NN1 Superintendent_NN1 ,_, the_AT Regional_JJ 
+Commissioner_NN1 and_CC the_AT OMR_NN1 liaison_NN1 person_NN1 will_VM be_VBI 
+convened_VVN within_II one_MC1 week_NNT1 following_VVG receipt_NN1 of_IO 
+the_AT inventory_NN1 in_BCL21 order_BCL22 to_TO present_VVI it_PPH1 to_II 
+the_AT facility_NN1 C._NP1 The_AT OMR_NN1 liaison_NN1 will_VM follow_VVI up_RP 
+on_II the_AT completion_NN1 of_IO all_DB recommendations_NN2 for_IF 
+immediate_JJ action_NN1 ._. 
+Whenever_RRQV it_PPH1 is_VBZ not_XX feasible_JJ to_TO carry_VVI out_RP 
+these_DD2 actions_NN2 ,_, the_AT OMR_NN1 liaison_NN1 will_VM be_VBI 
+responsible_JJ to_TO explain_VVI why_RRQ and_CC justify_VVI D._NP1 A_ZZ1 
+summary_NN1 of_IO all_DB inventories_NN2 will_VM be_VBI compiled_VVN within_II 
+one_MC1 month_NNT1 of_IO the_AT completion_NN1 of_IO the_AT final_JJ 
+facility_NN1 inventory_NN1 E._NP1 Action_NN1 steps_NN2 will_VM be_VBI 
+developed_VVN in_II31 response_II32 to_II33 the_AT Statewide_JJ inventory_NN1 
+summary_NN1 by_II the_AT OMR_NN1 liaison_NN1 ._. 
+Those_DD2 steps_NN2 that_CST are_VBR within_II the_AT scope_NN1 of_IO the_AT 
+Deputy_NN1 Secretary_NN1 's_GE authority_NN1 will_VM be_VBI initiated_VVN 
+F._NP1 Recommendations_NN2 will_VM be_VBI made_VVN to_II the_AT Secretary_NN1 
+of_IO Public_JJ Welfare_NN1 in_BCL21 order_BCL22 to_TO carry_VVI out_RP 
+action_NN1 steps_NN2 that_CST are_VBR not_XX within_II the_AT scope_NN1 of_IO 
+the_AT Deputy_NN1 Secretary_NN1 's_GE authority_NN1 Projected_VVN Cos_CS A_ZZ1 
+cost_NN1 of_IO $250_NNU per_II day_NNT1 plus_II expenses_NN2 will_VM be_VBI 
+required_VVN for_IF the_AT dentist_NN1 completing_VVG the_AT reviews_NN2 ._. 
+Allowing_VVG this_DD1 cost_NN1 for_IF a_AT1 two-day_JJ review_NN1 plus_II 
+an_AT1 appropriate_JJ amount_NN1 for_IF expenses_NN2 ,_, it_PPH1 would_VM 
+indicate_VVI that_CST each_DD1 facility_NN1 inventory_NN1 will_VM cost_VVI 
+an_AT1 average_NN1 of_IO $600_NNU ._. 
+The_AT ten_MC reviews_NN2 will_VM ,_, therefore_RR ,_, cost_VVI an_AT1 
+estimated_JJ $6,000_NNU ._. 
+The_AT specific_JJ amount_NN1 for_IF each_DD1 facility_NN1 will_VM depend_VVI 
+on_II the_AT amount_NN1 of_IO expenses_NN2 involved_JJ in_II travel_NN1 
+lodging_VVG The_AT dentist_NN1 will_VM be_VBI paid_VVN by_II contract_NN1 
+with_IW the_AT Department_NN1 out_II21 of_II22 Appropriation_NN1 40_MC 
+funds_NN2 ._. 
+It_PPH1 would_VM be_VBI suggested_VVN that_CST each_DD1 facility_NN1 
+inventoried_VVN be_VBI responsible_JJ for_IF assuming_VVG the_AT cost_NN1 
+of_IO the_AT dentist_NN1 for_IF the_AT reviews_NN2 completed_VVN there_RL 
+f_ZZ1 '_GE 1_MC1 DENTAL_JJ INVENTORY_NN1 REPOR_NN1 Name_NN1 of_IO Facility_NN1 
+:_: Date_NN1 of_IO Inventory_NN1 Books_NN2 Population_NN1 on_II the_AT 
+Date_NN1 of_IO the_AT Site_NN1 Visit_NN1 Inventory_NN1 Compiled_VVN by_II 
+I._NP1 Dental_JJ Facilit_JJ Location_NN1 :_: Accessibility_NN1 to_II clien_JJ 
+Space_NN1 :_: Adequac_NP1 Working_VVG Conditions_NN2 (_( adequate_JJ 
+lighting_NN1 ,_, ventilation_NN1 ,_, etc_RA ._. 
+Appropriate_JJ ,_, like_II a_AT1 dental_JJ offic_JJ Equipment/Supplies_FU :_: 
+-_- Comment_VV0 upon_II appropriateness_NN1 ,_, modernness_NN1 ,_, 
+adequateness_NN1 and_CC the_AT dates_NN2 of_IO all_DB supplies_NN2 ,_, 
+whether_CSW in_II or_CC out-of-date_JJ II_MC ._. 
+Personnel_NN2 ._. 
+Summary_NN1 Employee_NN1 Number/Classification/Part-Time-Full-Time/Length_FU 
+of_IO Service/_NN1 Role_NN1 (_( including_II specialty_NN1 )_) /Highest_FU 
+Degree_NN1 Earned/License/Professiona_FU Organizatio_NP1 -_- Include_VV0 
+summary_NN1 of_IO data_NN for_IF contracted_JJ services_NN2 and_CC vendor_NN1 
+-_- Client_NN1 dentist_NN1 rati_NN2 -_- Client_NN1 hygienist_NN1 rati_NN2 
+Dental_JJ Car_NN1 A._NP1 Profile_NN1 of_IO Client_NN1 Sample_NN1 -_- Total_JJ 
+clients_NN2 examine_VV0 -_- Summary_NN1 ._. 
+Ag_FO Se_ND1 Level_NP1 of_IO Mental_JJ Retardatio_NN1 -_- Non-Ambulator_NP1 
+-_- Seizure_NN1 Pron_NN1 -_- Dilantin_NP1 Prescribe_VV0 -_- Assigned_VVN 
+Dentis_NN1 -_- Aggressiv_NP1 B._NP1 Comparative_JJ Summary_NN1 of_IO 
+Findings_NN2 Examination_NN1 Extraction_NN1 Prophylaxis_NN1 (_( Cleaning_VVG 
+Restoration_NN1 Fractured_VVD Teet_NP1 Peridontal_NP1 Treatmen_NP1 
+Orthodontic_JJ Oral_JJ Surger_NN1 Root_NN1 Cana_NP1 Prosthetic_JJ 
+Appliance_NN1 Entire_JJ Population_NN1 Sampl_NN1 During_II Previous_JJ 12_MC 
+Months_NNT2 (_( Needed_VVD Servi_NP1 -3_MC C._NP1 Summarize_NP1 
+Relationship_NN1 Between_II Oral_JJ Examination_NN1 Findings_NN2 and_CC 
+Documentatio_NP1 in_II Client_NN1 Charts_NN2 IV_MC ._. 
+Recommendations_NN2 for_IF Immediate_JJ Actio_NN1 -_- Individual_JJ client_NN1 
+needs_VVZ for_IF immediate_JJ servic_JJ -_- Remedies_NN2 to_II significant_JJ 
+deficits_NN2 in_II any_DD aspect_NN1 of_IO dental_JJ servic_NN1 V._II Other_JJ 
+Recommendation_NN1 -_- Include_VV0 here_RL recommendations_NN2 other_II21 
+than_II22 those_DD2 included_VVN in_II No_UH ._. 
+IV_MC abov_VV0 that_CST fall_VV0 into_II any_DD of_IO the_AT following_JJ 
+categories_NN2 -_- procedure_NN1 change_NN1 -_- personnel_NN2 issue_VV0 -_- 
+equipment/supplie_NN1 -_- alternate_JJ models_NN2 of_IO dental_JJ service_NN1 
+-_- quality_NN1 control_NN1 mechanism_NN1 *_FU *_FU Attach_VV0 si_FW ewt_VV0 
+"_" /3_MF ._. 
+DENTAL_JJ STAFF_NN AT_II STATE_NN1 CENTER_NN1 No._NN1 o_ZZ1 Facility_NN1 
+Staff_NN Positions_NN2 Filled_VVD Vacant_JJ Full_JJ Time_NNT1 Equivalen_NP1 
+Cresson_NP1 Dentist_NN1 I_ZZ1 (_( Staff_NN )_) 1_MC1 .5_MC Dental_JJ 
+Hygienist_NN1 1_MC1 -_- 1.0_MC Ebensburg_NP1 Dental_JJ Assistant_NN1 1_MC1 
+Dental_JJ Hygienist_NN1 -_- 1_MC1 Dentist_NN1 I_ZZ1 (_( Staff_NN )_) 1_MC1 -_- 
+1.0_MC Hamburg_NP1 Dentist_NN1 I_ZZ1 (_( Staff_NN )_) 1_MC1 1.0_MC Dentist_NN1 
+II_MC (_( Supervisory_JJ )_) 1_MC1 -_- 1.0_MC Dental_JJ Hygienist_NN1 1_MC1 
+1.0_MC Laurelton_NP1 Dental_JJ Assistant_NN1 1_MC1 1.0_MC Dentist_NN1 I_ZZ1 
+(_( Staff_NN )_) 1_MC1 -_- .6_MC Permhurst_VV0 Dental_JJ Assistant_NN1 2_MC 
+2.0_MC Dentist_NN1 I_ZZ1 (_( Staff_NN )_) 2_MC -_- 2.0_MC Dentist_NN1 II_MC 
+(_( Supervisory_JJ )_) 1_MC1 -_- 1.0_MC Dental_JJ Hygienist_NN1 2_MC -_- 
+2.0_MC Polk_NP1 Dental_JJ Assistant_NN1 2_MC 2.0_MC Dentist_NN1 I_ZZ1 (_( 
+Staff_NN )_) 1_MC1 -_- 1.0_MC Dentist_NN1 II_MC (_( Supervisory_JJ )_) 1_MC1 
+1.0_MC Dental_JJ Hygienist_NN1 1_MC1 1.0_MC Selinsgrove_NP1 Dentist_NN1 I_ZZ1 
+(_( Staff_NN )_) 3_MC 1_MC1 2.2_MC Dental_JJ Assistant_NN1 (_( 
+Appropriation_NN1 40_MC )_) 2_MC 1_MC1 2.0_MC Dental_JJ Assistant_NN1 (_( 
+Appropriation_NN1 14_MC )_) 1_MC1 1.0_MC Dental_JJ Hygienist_NN1 1_MC1 1.0_MC 
+Western_JJ Dentist_NN1 I_ZZ1 (_( Staff_NN )_) 1_MC1 .4_MC Dental_JJ 
+Hygienist_NN1 1_MC1 1.0_MC White_JJ Haven_NN1 Dental_JJ Assistant_NN1 2_MC 
+2.0_MC Dentist_NN1 I_ZZ1 (_( Staff_NN )_) 2_MC -_- 1.2_MC Woodhaven_JJ 
+Dental_JJ Technician_NN1 Dental_JJ Services_NN2 are_VBR provided_VVN 
+through_II our_APPGE contract_NN1 with_IW Temple_NP1 University_NN1 ._. 
+1_MC1 r_ZZ1 1.0_MC Embreeville_NP1 (_( MR_NNB Unit_NP1 )_) Dental_JJ 
+Assistant_JJ Other_JJ dental_JJ staff_NN are_VBR on_II 1_MC1 -_- 1.0_MC 
+Marc_NP1 Embreeville_NP1 MH_NP1 complemen_NN2 Dental_JJ Services_NN2 are_VBR 
+provided_VVN via_II contract_NN1 --14f2ef2317baddf77cb19ade0af07a8d--_FU 

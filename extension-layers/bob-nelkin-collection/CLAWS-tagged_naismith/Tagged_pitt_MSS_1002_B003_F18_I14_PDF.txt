@@ -1,0 +1,44 @@
+
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC 
+NORTH_ND1 SECOND_MD STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC 
+TEL_NN1 :_: (_( 71_MC 7_MC )_) 234_MC 262_MC L_ZZ1 STEUART_NP1 BROWN_NP1 
+Presiden_NP1 PETER_NP1 P._NP1 POLLON_NP1 Executive_NN1 Directo_NN1 
+December_NPM1 16_MC ,_, 197_MC Dr._NNB Daniel_NP1 A._NP1 Rohrbach_NP1 ,_, 
+Executive_NN1 Directo_NP1 Berks_NP1 County_NN1 Intermediate_JJ unit_NN1 #1_NNU 
+Court_NN1 House_NN1 ,_, 11th_MD Floo_NP1 Reading_NP1 ,_, Pennsylvania_NP1 
+1960_MC Dear_JJ Dr._NNB Rohrbach_NP1 It_PPH1 is_VBZ reported_VVN that_CST 
+Intermediate_JJ Unit_NN1 #14_NNU is_VBZ planning_VVG construction_NN1 of_IO 
+education_NN1 facilities_NN2 on_II the_AT grounds_NN2 of_IO Hamburg_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 ._. 
+This_DD1 is_VBZ to_TO inform_VVI you_PPY and_CC your_APPGE Board_NN1 that_DD1 
+P.A.R.C_NP1 ._. 
+is_VBZ opposed_VVN to_II such_DA construction_NN1 for_IF reasons_NN2 
+outlined_VVN in_II the_AT enclosed_JJ letter_NN1 to_II Donald_NP1 M._NP1 
+Carroll_NP1 Jr._NNA ,_, Deputy_NN1 Secretary_NN1 for_IF Basic_JJ Education_NN1 
+Our_APPGE position_NN1 is_VBZ that_CST all_DB construction_NN1 for_IF 
+instruction_NN1 of_IO retarded_JJ students_NN2 be_VBI such_CS21 that_CS22 
+a_AT1 persons_NN2 residence_NN1 does_VDZ not_XX influence_VVI his_APPGE 
+quality_NN1 of_IO education_NN1 ._. 
+Retarded_JJ students_NN2 within_II the_AT I.U._NP1 ride_VV0 a_AT1 bus_NN1 
+to_II school_NN1 ,_, and_CC the_AT same_DA should_VM apply_VVI to_II the_AT 
+students_NN2 at_II Hamburg_NP1 ._. 
+The_AT retarded_JJ students_NN2 within_II the_AT I.U._NP1 are_VBR subject_II21 
+to_II22 all_DB the_AT applicable_JJ instructional_JJ standards_NN2 ._. 
+It_PPH1 is_VBZ only_RR by_II the_AT integration_NN1 of_IO all_DB retarded_JJ 
+students_NN2 without_IW regard_NN1 to_II residence_NN1 can_VM we_PPIS2 be_VBI 
+assured_VVN that_CST these_DD2 standards_NN2 will_VM apply_VVI to_II all_DB 
+students_NN2 equally_RR In_II 1972_MC P.A.R.C_NP1 ._. 
+entered_VVN into_II a_AT1 consent_NN1 agreement_NN1 with_IW the_AT 
+Departments_NN2 of_IO Education_NN1 and_CC Welfare_NN1 because_CS in_RR21 
+part_RR22 the_AT education_NN1 of_IO residents_NN2 at_II state_NN1 schools_NN2 
+and_CC hospitals_NN2 was_VBDZ inadequate_JJ and_CC inferior_JJ ._. 
+We_PPIS2 will_VM not_XX accept_VVI the_AT maintenance_NN1 of_IO the_AT old_JJ 
+system_NN1 that_CST is_VBZ made_VVN even_RR worse_JJR by_II the_AT 
+fragmentation_NN1 of_IO accountability_NN1 for_IF a_AT1 residents_NN2 total_JJ 
+program_NN1 ._. 
+The_AT residents_NN2 of_IO Hamburg_NP1 have_VH0 the_AT right_NN1 to_II 
+equal_JJ access_NN1 to_II the_AT resources_NN2 the_AT Intermediate_JJ Unit_NN1 
+has_VHZ evidenced_VVN by_II integration_NN1 with_IW other_JJ retarded_JJ 
+students_NN2 within_II the_AT school_NN1 system_NN1 Sincerely_RR RogerE_JJ ._. 
+Buchanan_NP1 ,_, Chairma_NP1 Right_NN1 to_II Education_NN1 Committe_NN1 
+REB:ra_FO Enclosure_NN1 --25cf90ae58fc497154f3243148758cc9--_FU 

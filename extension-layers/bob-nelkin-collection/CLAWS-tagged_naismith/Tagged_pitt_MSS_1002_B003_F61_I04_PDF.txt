@@ -1,0 +1,53 @@
+
+nancy_NN1 zirngib_NN1 3_MC J_ZZ1 Is_VBZ a_AT1 Public_JJ Relations_NN2 
+Coordinato_NP1 ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NN1 ..._... of_IO the_AT 
+Citizen_NN1 Pennsylvania_NP1 Association_NN1 for_IF Retarde_NP1 1001_MC 
+Brighton_NP1 Road_NNL1 -_- Pittsburgh_NP1 ,_, Pa._NP1 1523_MC Phone_NN1 :_: 
+322-600_MCMC November_NPM1 14_MC ,_, 197_MC FOR_IF IMMEDIATE_JJ RELEAS_NN2 
+The_AT Presidents_NN2 of_IO the_AT Western_JJ State_NN1 School_NN1 and_CC 
+Hospitals_NN2 Parents_NN2 '_GE Group_NN1 and_CC the_AT Allegheny_NP1 
+County_NN1 Chapter_NN1 ,_, Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Citizens_NN2 have_VH0 expressed_VVN anger_NN1 at_II the_AT most_RGT recent_JJ 
+in_II a_AT1 series_NN of_IO deaths_NN2 at_II Western_JJ State_NN1 School_NN1 
+and_CC Hospital_NN1 ._. 
+Paul_NP1 Jenkins_NP1 ,_, of_IO Pittsburgh_NP1 ,_, a_AT1 17_MC year_NNT1 old_JJ 
+mentally_RR retarded_JJ and_CC physically_RR handicapped_JJ resident_NN1 ,_, 
+choked_VVN to_II death_NN1 following_VVG his_APPGE evening_NNT1 meal_NN1 
+yesterday_RT ._. 
+Western_JJ State_NN1 School_NN1 and_CC Hospitals_NN2 Parents_NN2 '_GE 
+Group_NN1 President_NN1 ,_, Dr._NNB Harry_NP1 Goldberg_NP1 ,_, described_VVD 
+this_DD1 death_NN1 as_CSA unnecessary_JJ ._. 
+Dr._NNB Goldberg_NP1 stated_VVD ,_, "_" Had_VHD the_AT dietary_JJ 
+procedure_NN1 been_VBN followed_VVN as_CSA ordered_VVN ,_, this_DD1 tragic_JJ 
+death_NN1 would_VM not_XX have_VHI occurred_VVN ._. 
+The_AT doctor_NN1 's_GE orders_NN2 called_VVN for_IF Jenkins_NP1 '_GE food_NN1 
+to_TO be_VBI cut_VVN into_II pieces_NN2 ._. 
+According_II21 to_II22 the_AT preliminary_JJ investigation_NN1 ,_, a_AT1 
+large_JJ piece_NN1 of_IO uncut_JJ meat_NN1 was_VBDZ found_VVN lodged_VVN in_II 
+his_APPGE throat_NN1 ._. 
+Virginia_NP1 Thornburgh_NP1 ,_, ACC-PARC_NP1 President_NN1 ,_, and_CC Dr._NNB 
+Goldberg_NP1 had_VHD visited_VVN the_AT institution_NN1 during_II the_AT 
+evening_NNT1 meal_NN1 prior_II21 to_II22 Jenkins_NP1 '_GE death_NN1 and_CC 
+questioned_VVD WSSH_NP1 authorities_NN2 why_RRQ the_AT meat_NN1 served_VVN 
+to_II most_DAT of_IO the_AT residents_NN2 had_VHD not_XX been_VBN cut_VVN 
+into_II bite-sized_JJ pieces_NN2 by_II staff_NN supervising_VVG the_AT 
+meal_NN1 Mrs._NNB Thornburgh_NP1 stressed_VVD that_CST a_AT1 death_NN1 like_II 
+this_DD1 was_VBDZ inevitable_JJ due_II21 to_II22 inappropriate_JJ 
+mealtime_NNT1 procedures_NN2 ._. 
+These_DD2 inadequacies_NN2 wer_VV0 (_( over_II ALLEGHENY_NP1 COUNTY_NN1 
+CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 
+Nancy_NP1 Zirngibl_NP1 ,_, P.R_NP1 ._. 
+Coordinator_NN1 322-600_MCMC ADD_VV0 called_VVN to_II the_AT attention_NN1 
+of_IO the_AT WSSH_NP1 authorities_NN2 over_RG six_MC months_NNT2 ago_RA by_II 
+both_DB2 groups_NN2 The_AT Parents_NN2 '_GE Group_NN1 and_CC ACC-PARC_NP1 
+called_VVD for_IF the_AT Washington_NP1 County_NN1 Coroner_NN1 ,_, Farrell_NP1 
+Jackson_NP1 ,_, to_TO immediately_RR begin_VVI an_AT1 intensive_JJ 
+investigation_NN1 to_TO determine_VVI if_CSW Jenkins_NP1 death_NN1 was_VBDZ 
+caused_VVN by_II negligence_NN1 "_" When_RRQ will_VM the_AT deaths_NN2 end_VVI 
+?_? "_" 
+Mrs._NNB Thornburgh_NP1 questione_VV0 "_" The_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 has_VHZ failed_VVN ,_, again_RT ,_, in_II its_APPGE 
+legal_JJ and_CC moral_JJ responsibilities_NN2 for_IF the_AT safety_NN1 of_IO 
+the_AT residents_NN2 at_II Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 
+._. 
+XXX_NP1 --16fb7dde710777909fc15f0042516e4c--_FU 

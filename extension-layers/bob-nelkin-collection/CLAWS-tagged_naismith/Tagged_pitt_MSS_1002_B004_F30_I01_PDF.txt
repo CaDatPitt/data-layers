@@ -1,0 +1,29 @@
+
+W1_FO BRIGHTON_NP1 ROA_NP1 Pirrscurah_NP1 ,_, Aemsvicna_NP1 L5233_FO 
+telephone_NN1 :_: (_( 412_MC )_) 322_MC 600_MC ALLEGHENY_NP1 COUNTY_NN1 
+CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 
+,_, Inc_JJ VIRGINIA_NP1 J._NP1 THORNBURG_NP1 Chcpter_NP1 Presiden_NP1 
+RONALD_NP1 E._NP1 ARCHE_NP1 Executive_NN1 Directo_NN1 May_NPM1 7_MC ,_, 197_MC 
+MEM_VV0 TO_II :_: Ginny_NP1 Thornburg_NP1 Ronald_NP1 E._NP1 Arche_NP1 Bob_NP1 
+Nelki_NP1 Sally_NP1 Hollyfield_NP1 Midge_NP1 Scannel_NP1 FROM_II :_: Doug_NP1 
+Spencer_NP1 ,_, Director_NN1 ,_, Community_NN1 &; Chapter_NN1 Affair_NN1 
+SUBJECT_NN1 :_: Recent_JJ Death_NN1 at_II Polk_NP1 State_NN1 School_NN1 and_CC 
+Hospita_NP1 DATE_NN1 :_: May_NPM1 6_MC ,_, 197_MC Enclosed_VVD please_RR 
+find_VV0 information_NN1 gathered_VVN from_II Polk_NP1 State_NN1 School_NN1 
+and_CC Hospital_NN1 regarding_II the_AT Carl_NP1 Fisher_NP1 death_NN1 ._. 
+The_AT information_NN1 enclosed_VVN and_CC the_AT information_NN1 obtained_VVN 
+from_II my_APPGE personal_JJ investigation_NN1 indicate_VV0 cause_NN1 of_IO 
+death_NN1 was_VBDZ accidental_JJ I_PPIS1 still_RR have_VH0 questions_NN2 
+regarding_II two_MC issues_NN2 1_MC1 )_) The_AT definition_NN1 of_IO a_AT1 
+undetermined_JJ "_" cause_NN1 of_IO death_NN1 ._. 
+Some_DD how_RRQ it_PPH1 is_VBZ hard_JJ for_IF me_PPIO1 to_TO digest_VVI 
+this_DD1 ruling_NN1 2_MC )_) Joe_NP1 Columbatto_NP1 mentioned_VVD that_CST 
+the_AT State_NN1 Police_NN2 conducted_VVD a_AT1 thorough_JJ investigation_NN1 
+;_; when_CS I_PPIS1 inquired_VVD about_II Carls_NP2 death_NN1 from_II the_AT 
+staff_NN at_II Hillcrest_NP1 Cottage_NN1 ,_, they_PPHS2 stated_VVD no_PN121 
+one_PN122 from_II the_AT State_NN1 Police_NN2 Department_NN1 came_VVD to_TO 
+question_VVI them_PPHO2 about_II the_AT incident_NN1 DS_NP1 :_: g_ZZ1 
+MEMBER_NN1 UNIT_NN1 -_- National_JJ Association_NN1 for_IF Retarded_JJ 
+Citizens_NN2 ,_, Inc_JJ PARTICIPANT_NN1 -_- Allegheny_NP1 County_NN1 Mental_JJ 
+Health/_NN1 Mental_JJ Retardation_NN1 Program_NN1 
+--8ff00a26c79ce37b5fb340948cceaa03--_FU 

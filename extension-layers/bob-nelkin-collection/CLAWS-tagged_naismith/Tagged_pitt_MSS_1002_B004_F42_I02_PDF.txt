@@ -1,0 +1,29 @@
+
+/v/_VV0 ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 
+for_IF Retarded_JJ Citizens_NN2 ,_, Inc._JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 1523_MC telephone_NN1 :_: (_( 412_MC )_) 
+322-600_MCMC ROBERT_NP1 M._NN1 MATESI_NN1 Chapter_NN1 Presiden_NP1 RONALD_NP1 
+E._NP1 ARCHE_NP1 Executive_NN1 Directo_NN1 May_NPM1 27_MC ,_, 197_MC Mrs._NNB 
+Anna_NP1 Belle_NP1 Calloway_NP1 Deputy_NN1 Secretar_NP1 DPW_NP1 ,_, 
+Western_NP1 Regio_NP1 702_MC State_NN1 Office_NN1 Buildin_NN1 300_MC 
+Liberty_NP1 Avenue_NNL1 Pittsburgh_NP1 ,_, Pa._NP1 1522_MC Dear_JJ Mrs._NNB 
+Calloway_NP1 On_II Tuesday_NPD1 ,_, May_NPM1 25_MC ,_, 1976_MC ,_, our_APPGE 
+association_NN1 and_CC state_VV0 association_NN1 made_VVD a_AT1 joint_JJ 
+visit_NN1 to_II Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 ._. 
+During_II the_AT course_NN1 of_IO the_AT visit_NN1 ,_, we_PPIS2 inquired_VVD 
+whether_CSW there_EX were_VBDR any_DD current_JJ plans_NN2 to_TO expand_VVI 
+the_AT Polk_NP1 Dispersal_NN1 Project_NN1 ._. 
+Polk_NP1 Superintendent_NN1 ,_, Nick_NP1 DAluisio_NP1 ,_, informed_VVD 
+us_PPIO2 that_CST ,_, currently_RR ,_, no_AT DPW_NP1 staff_NN person_NN1 
+was_VBDZ planning_VVG for_IF significant_JJ transfers_NN2 from_II Polk_NP1 
+to_II the_AT community_NN1 We_PPIS2 urge_VV0 you_PPY to_TO develop_VVI 
+additional_JJ plans_NN2 to_TO relieve_VVI overcrowding_VVG at_II Polk_NP1 
+and_CC provide_VVI the_AT transferred_JJ residents_NN2 with_IW a_AT1 more_RGR 
+humane_JJ and_CC beneficial_JJ setting_NN1 and_CC programming_NN1 ._. 
+Please_RR inform_VV0 us_PPIO2 of_IO specifications_NN2 ,_, if_CS you_PPY 
+do_VD0 develop_VVI additional_JJ plans_NN2 Sincerely_RR Robert_NP1 Nelkin_NP1 
+,_, Associat_NP1 Executive_NN1 Directo_NP1 RN_NP1 :_: c_ZZ1 MEMBER_NN1 
+UNIT_NN1 -_- National_JJ Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, 
+Inc_JJ ._. 
+PARTICIPANT_NN1 -_- Allegheny_NP1 County_NN1 Mental_JJ Health/_NN1 Mental_JJ 
+Retardation_NN1 Program_NN1 --4362f79639d8e2b508fce80a2e52c9a3--_FU 

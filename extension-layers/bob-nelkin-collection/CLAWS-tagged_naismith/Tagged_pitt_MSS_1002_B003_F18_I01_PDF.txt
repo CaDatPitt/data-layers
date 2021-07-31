@@ -1,0 +1,56 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc._JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 15233_MC telephone_NN1 :_: (_( 412_MC )_) 
+322-600_MCMC PAR_NP1 VIRGINIA_NP1 J._NP1 THORNBURGH_NP1 RONALD_NP1 E._NP1 
+ARCHE_NP1 Chapter_NN1 President_NNB Executive_NP1 Directo_NP1 February_NPM1 
+25_MC ,_, 197_MC TO_II :_: Ginny_NP1 Thornburgh_NP1 ,_, Sally_NP1 
+Hollyfield_NP1 ,_, Harr_NP1 Goldberg_NP1 ,_, Ronald_NP1 Archer_NP1 ,_, 
+Doug_NP1 Spence_NP1 FROM_II :_: Robert_NP1 Nelkin_NP1 ,_, Associate_JJ 
+Executive_NN1 Directo_NP1 RE_NP1 :_: Runaways_NN2 at_II WSS_NP1 Over_II the_AT 
+past_JJ year_NNT1 ,_, I_PPIS1 have_VH0 heard_VVN rumors_NN2 that_CST there_EX 
+have_VH0 been_VBN numerous_JJ runaways_NN2 from_II WSSH_NP1 ._. 
+To_TO validate_VVI these_DD2 rumors_NN2 ,_, I_PPIS1 asked_VVD Dr._NNB Ruth_NP1 
+Scott_NP1 ,_, Assistant_JJ Superintendent_NN1 at_II WSSH_NP1 ,_, to_TO 
+provide_VVI me_PPIO1 with_IW reports_NN2 of_IO these_DD2 incidents_NN2 ._. 
+Dr._NNB Scott_NP1 has_VHZ supplied_VVN the_AT security_NN1 report_NN1 ,_, 
+which_DDQ I_PPIS1 am_VBM summarizing_VVG below_II 1_MC1 )_) On_II July_NPM1 
+6_MC ,_, 1974_MC ,_, Mark_NP1 Leonard_NP1 was_VBDZ missing_VVG from_II 
+Pine_NN1 Lodge_NN1 for_IF approximately_RR two_MC hours_NNT2 ._. 
+Later_RRR in_II the_AT month_NNT1 ,_, Mark_NP1 drowned_VVD in_II the_AT 
+reservoir_NN1 after_CS similarly_RR running_VVG away_RL 2_MC )_) On_II 
+July_NPM1 19_MC ,_, 1974_MC ,_, a_AT1 couple_NN1 of_IO residents_NN2 were_VBDR 
+found_VVN at_II different_JJ times_NNT2 unsupervised_JJ at_II the_AT dam_NN1 
+3_MC )_) On_II July_NPM1 21_MC ,_, 1974_MC ,_, another_DD1 resident_NN1 
+was_VBDZ missing_VVG and_CC returned_VVN to_II his_APPGE unit_NN1 4_MC )_) 
+On_II July_NPM1 24_MC ,_, 1974_MC ,_, a_AT1 Cedar_NN1 resident_NN1 was_VBDZ 
+found_VVN frightened_JJ and_CC naked_JJ at_II Pine_NN1 Lodge_NN1 5_MC )_) 
+On_II July_NPM1 25_MC ,_, 1974_MC ,_, a_AT1 couple_NN1 of_IO residents_NN2 
+were_VBDR missing_VVG and_CC returned_VVN by_II security_NN1 or_CC off_II 
+duty_NN1 attendants_NN2 to_II their_APPGE lodge_NN1 6_MC )_) On_II July_NPM1 
+25_MC ,_, 1974_MC ,_, a_AT1 resident_NN1 was_VBDZ found_VVN at_II the_AT 
+dam_NN1 unsupervised_JJ August_NPM1 2_MC ,_, 1974_MC ,_, another_DD1 
+resident_JJ wa_NN1 On_II missing_VVG and_CC returned_VVN to_II his_APPGE 
+lodge_NN1 On_II August_NPM1 7_MC ,_, 1974_MC ,_, another_DD1 resident_NN1 
+was_VBDZ missing_VVG from_II Pine_NN1 and_CC returned_VVN to_II his_APPGE 
+lodg_NN1 MEMBER_NN1 UNIT_NN1 -_- National_JJ Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ ._. 
+PARTICIPANT_NN1 -_- Allegheny_NP1 County_NN1 Mental_JJ Health/_NN1 Mental_JJ 
+Retardation_NN1 Progra_NP1 7_MC 8_MC Runaways_NN2 at_II WSS_NP1 Page_NN1 9_MC 
+)_) On_II August_NPM1 10_MC ,_, 1974_MC ,_, the_AT state_NN1 police_NN2 
+returned_VVD a_AT1 resident_NN1 from_II Interstate_NN1 79_MC to_II his_APPGE 
+lodge_NN1 10_MC )_) On_II August_NPM1 12_MC ,_, 1974_MC ,_, another_DD1 
+resident_NN1 was_VBDZ missing_VVG for_IF three_MC hours_NNT2 11_MC )_) On_II 
+August_NPM1 14_MC ,_, 1974_MC ,_, from_II Beech_NN1 12_MC )_) On_II 
+August_NPM1 17_MC ,_, 1974_MC ,_, found_VVD two_MC resident_JJ 13_MC )_) On_II 
+August_NPM1 28_MC ,_, 1974_MC ,_, missing_VVG from_II Pine_NN1 ,_, him_PPHO1 
+on_II Interstate_NN1 a_AT1 resident_NN1 was_VBDZ missin_NN1 a_AT1 water_NN1 
+plant_NN1 operator_NN1 at_II the_AT dam_NN1 unattended_JJ a_AT1 resident_NN1 
+was_VBDZ reported_VVN State_NN1 police_NN2 recovere_NN1 14_MC )_) On_II 
+August_NPM1 29_MC ,_, 1974_MC ,_, another_DD1 resident_NN1 was_VBDZ 
+missing_VVG and_CC found_VVN by_II security_NN1 Apparently_RR ,_, we_PPIS2 
+would_VM find_VVI that_DD1 similar_JJ reports_NN2 of_IO runaways_NN2 if_CS 
+we_PPIS2 checked_VVD security_NN1 reports_VVZ from_II other_JJ months_NNT2 ._. 
+This_DD1 is_VBZ another_DD1 example_NN1 of_IO our_APPGE understaffed_JJ ,_, 
+underprogrammed_JJ condition_NN1 RN_NP1 :_: cp_NNU 
+--98173080024ffb2dddda2783caa2bb31--_FU 

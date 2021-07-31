@@ -1,0 +1,258 @@
+
+PENNHURST_NP1 STUD_NP1 BRIEF_JJ REPORT_NN1 #1_NNU PROGRESS_NN1 OF_IO 
+CLIENTS_NN2 IN_II COMMUNIT_NP1 LIVING_JJ ARRANGEMENTS_NN2 :_: CLASS_NN1 
+MEMBER_NN1 COMPARED_VVN TO_II OTHER_JJ BY_II Celia_NP1 S._NP1 Feinstei_NP1 
+James_NP1 A._NP1 Lemanowic_NN1 James_NP1 W._NP1 Conro_NP1 Evaluation_NN1 
+and_CC Research_NN1 Grou_NP1 Temple_NP1 University_NN1 Developmental_JJ 
+Disabilities_NN2 Cente_NN1 9th_MD Floor_NN1 Ritter_NP1 Anne_NP1 
+Philadelphia_NP1 ,_, PA_NN1 1912_MC (_( 215_MC )_) 787-_NN1 135_MC 
+September_NPM1 19_MC ,_, 198_MC Prepared_VVN under_II contract_NN1 No._NN1 
+130-81-0022_MCMC with_IW the_AT U.S._NP1 Department_NN1 of_IO Health_NN1 
+and_CC Human_JJ Service_NN1 ,_, Office_NN1 of_IO Human_JJ Development_NN1 
+Services_NN2 ,_, Region_NN1 III_MC INTRODUCTIO_NP1 The_AT Halderman_NN1 vs_II 
+._. 
+Pennhurst_VV0 suit_NN1 was_VBDZ first_MD filed_VVN in_II Federal_JJ 
+District_NN1 Court_NN1 in_II May_NPM1 1974_MC ._. 
+In_II an_AT1 opinion_NN1 filed_VVN on_II December_NPM1 23_MC ,_, 1977_MC 
+the_AT Court_NN1 found_VVD that_CST the_AT institution_NN1 was_VBDZ 
+unacceptable_JJ on_II Constitutional_JJ ,_, state_VV0 statutory_JJ and_CC 
+Federal_JJ statutory_JJ grounds_NN2 ._. 
+The_AT judge_NN1 suggested_VVD that_CST the_AT parties_NN2 meet_VV0 in_II 
+an_AT1 attempt_NN1 to_TO agree_VVI upon_II a_AT1 court_NN1 order_NN1 which_DDQ 
+would_VM be_VBI agreeable_JJ to_II all_DB parties_NN2 ._. 
+The_AT parties_NN2 informed_VVD the_AT Court_NN1 that_CST they_PPHS2 had_VHD 
+keen_JJ unable_JK to_TO agree_VVI and_CC would_VM never_RR be_VBI able_JK 
+to_TO come_VVI to_II an_AT1 agreement_NN1 ._. 
+As_II a_AT1 result_NN1 ,_, an_AT1 order_NN1 of_IO judgment_NN1 was_VBDZ 
+handed_VVN down_RP by_II the_AT Court_NN1 on_II March_NPM1 17_MC ,_, 1978_MC 
+in_II31 favor_II32 of_II33 the_AT plaintiffs_NN2 and_CC against_II the_AT 
+defendants_NN2 As_II part_NN1 of_IO Judge_NP1 Broderick_NP1 's_GE March_NPM1 
+17th_MD Order_NN1 ,_, the_AT Office_NN1 of_IO the_AT Special_JJ Master_NN1 
+was_VBDZ formed_VVN ._. 
+The_AT Special_JJ Master_NN1 was_VBDZ given_VVN "_" the_AT power_NN1 and_CC 
+duty_NN1 to_TO plan_VVI ,_, organize_VV0 ,_, direct_JJ ,_, supervise_VV0 ,_, 
+and_CC monitor_VV0 the_AT implementation_NN1 of_IO this_DD1 and_CC any_DD 
+further_JJR Orders_NN2 of_IO the_AT Court_NN1 ._. "_" 
+Included_VVN in_II this_DD1 Order_NN1 were_VBDR provisions_NN2 for_IF the_AT 
+development_NN1 of_IO an_AT1 Individual_JJ Habilitation_NN1 Plan_NN1 for_IF 
+each_DD1 member_NN1 of_IO the_AT plaintiff_NN1 class_NN1 ._. 
+In_RR21 addition_RR22 the_AT Court_NN1 requested_VVN a_AT1 plan_NN1 for_IF 
+the_AT development_NN1 of_IO mechanisms_NN2 to_TO monitor_VVI community_NN1 
+services_NN2 ,_, to_TO be_VBI sure_JJ that_CST appropriate_JJ services_NN2 
+were_VBDR continuously_RR being_VBG provided_VVN to_II members_NN2 of_IO 
+the_AT plaintiff_NN1 class_NN1 in_II the_AT least_RGT restrictive_JJ 
+environment_NN1 possible_JJ One_PN1 must_VM then_RT ask_VVI whether_CSW31 
+or_CSW32 not_CSW33 Judge_NP1 Broderick_NP1 's_GE Order_NN1 of_IO March_NPM1 
+17_MC ,_, as_II31 well_II32 as_II33 subsequent_JJ Orders_NN2 ,_, produced_VVD 
+any_DD visible_JJ changes_NN2 in_II the_AT lives_NN2 of_IO the_AT clients_NN2 
+in_II the_AT plaintiff_NN1 class_NN1 ._. 
+While_CS change_NN1 can_VM be_VBI measured_VVN along_II several_DA2 
+dimensions_NN2 ,_, we_PPIS2 have_VH0 chosen_VVN to_TO look_VVI at_II 
+developmental_JJ growth_NN1 over_II a_AT1 two_MC year_NNT1 period_NN1 in_II 
+both_DB2 adaptive_JJ and_CC maladaptive_JJ behavior_NN1 ._. 
+The_AT research_NN1 question_NN1 is_VBZ :_: once_CS they_PPHS2 have_VH0 
+been_VBN placed_VVN in_II CLAs_NN2 ,_, do_VD0 Pennhurst_NP1 Class_NN1 
+members_NN2 show_VV0 developmental_JJ growth_NN1 patterns_NN2 that_CST are_VBR 
+different_JJ from_II those_DD2 of_IO other_JJ CLA_NN1 clients_NN2 -1_MC 
+METHOD_NN1 Subject_NN1 The_AT subjects_NN2 for_IF this_DD1 study_NN1 were_VBDR 
+103_MC mentally_RR retarded_JJ people_NN livin_NN1 in_II Community_NN1 
+Living_NN1 Arrangements_NN2 (_( CLAs_NP2 )_) in_II Philadelphia_NP1 ._. 
+The_AT total_JJ Philadelphia_NP1 CLA_NP1 population_NN1 had_VHD 237_MC 
+residents_NN2 ,_, 174_MC of_IO which_DDQ had_VHD two_MC Behavior_NP1 
+Development_NN1 Surveys_NN2 administered_VVN ._. 
+The_AT members_NN2 of_IO our_APPGE sample_NN1 were_VBDR the_AT first_MD 103_MC 
+people_NN with_IW two_MC forms_NN2 completed_VVD ,_, and_CC there_EX was_VBDZ 
+no_AT reason_NN1 to_TO believe_VVI it_PPH1 was_VBDZ biased_JJ ._. 
+Table_NN1 1_MC1 presents_VVZ the_AT demographic_JJ information_NN1 on_II 
+the_AT sample_NN1 used_VVN (_( N=103_FO )_) and_CC the_AT population_NN1 
+from_II which_DDQ it_PPH1 was_VBDZ drawn_VVN (_( N=237_FO )_) TABLE_NN1 
+DEMOGRAPHICS_NN2 ON_II CLA_NP1 POPULATION_NN1 AND_CC SAMPL_NP1 Phila_NP1 ._. 
+CLA_NP1 Population_NN1 N_ZZ1 =_FO 237_MC Sample_NN1 N_ZZ1 =_FO 10_MC LEVEL_NN1 
+OF_IO RETARDATION_NP1 Mild_JJ 35%_NNU 33_MC Moderate_JJ 35%_NNU 37_MC 
+Severe_JJ 24%_NNU 22_MC Profound_JJ 6%_NNU 5_MC Unknown_JJ 1%_NNU 3_MC SEX_NN1 
+Male_NN1 64%_NNU 63_MC Female_JJ 36%_NNU 37_MC AGE_NN1 Mean_VV0 =_FO 34_MC 
+Mean_VV0 =_FO 3_MC -2_MC Although_CS the_AT sample_NN1 was_VBDZ not_XX 
+chosen_VVN randomly_RR ,_, the_AT demographics_NN2 are_VBR comparable_JJ to_II 
+that_DD1 of_IO the_AT total_JJ Philadelphia_NP1 CLA_NP1 population_NN1 (_( 
+particularly_RR for_IF sex_NN1 and_CC level_NN1 of_IO retardation_NN1 )_) ,_, 
+and_CC the_AT sample_NN1 appears_VVZ to_TO be_VBI representative_JJ of_IO 
+th_NNU entire_JJ population_NN1 The_AT sample_NN1 can_VM be_VBI broken_VVN 
+down_RP into_II three_MC groups_NN2 which_DDQ are_VBR of_IO particula_JJ 
+interest_NN1 ._. 
+They_PPHS2 are_VBR CLASS_NN1 Pennhurst_NN1 class_NN1 members_NN2 who_PNQS 
+were_VBDR at_II Pennhurst_NP1 Center_NN1 but_CCB left_VVD after_II Judge_NP1 
+Broderick_NP1 's_GE March_NPM1 1978_MC Order_NN1 (_( N=25_FO )_) NON-CLASS_JJ 
+Non-class_JJ members_NN2 who_PNQS were_VBDR at_II Pennhurst_NP1 Center_NN1 
+but_CCB left_VVD before_II the_AT March_NPM1 1978_MC Order_NN1 (_( N=36_FO )_) 
+NEVER_RR AT_II PC_NN1 This_DD1 group_NN1 was_VBDZ never_RR at_II Pennhurst_NP1 
+Center_NN1 (_( N=42_FO )_) Instrumentatio_NP1 The_AT Behavior_NN1 
+Development_NN1 Survey_NN1 (_( BDS_NP1 )_) is_VBZ the_AT instrument_NN1 
+used_VVN to_II measure_NN1 client_NN1 functioning_VVG ._. 
+It_PPH1 is_VBZ actually_RR a_AT1 short_JJ version_NN1 of_IO the_AT AAMD_NP1 
+Adaptive_NP1 Behavior_NP1 Scale_NN1 ,_, developed_VVN by_II the_AT UCLA_NP1 
+Neuropsychiatric_NP1 Research_NN1 Group_NN1 at_II Lanterman_NP1 State_NN1 
+Hospital_NN1 ,_, by_II selecting_VVG only_RR the_AT most_RGT reliable_JJ 
+and_CC valid_JJ items_NN2 from_II the_AT full_JJ scale_NN1 ._. 
+The_AT BDS_NP1 has_VHZ separate_JJ sections_NN2 on_II adaptive_JJ and_CC 
+maladaptive_JJ behavior_NN1 ,_, and_CC uses_NN2 change_VV0 over_II time_NNT1 
+to_TO measure_VVI developmental_JJ growth_NN1 Procedure_NN1 The_AT BDS_NP1 
+was_VBDZ first_MD administered_VVN in_II early_RR 1979_MC to_II all_DB 
+residents_NN2 o_ZZ1 Philadelphia_NP1 CLAs_NP2 ._. 
+In_II early_RR 1981_MC ,_, approximately_RR two_MC years_NNT2 later_RRR ,_, 
+the_AT BDS_NP1 was_VBDZ re-administered_VVN ._. 
+This_DD1 report_NN1 examines_VVZ the_AT changes_NN2 found_VVN in_II the_AT 
+three_MC groups_NN2 for_IF that_DD1 period_NN1 of_IO time_NNT1 -3_MC 
+RESULT_VV0 The_AT three_MC groups_NN2 which_DDQ form_VV0 the_AT sample_NN1 
+are_VBR broken_VVN down_RP by_II level_NN1 of_IO retardation_NN1 in_II 
+Table_NN1 2_MC TABLE_NN1 LEVEL_NN1 OF_IO RETARDATION_NN1 BY_II GROU_NP1 
+CLASS_NN1 NON-CLASS_NN NEVER_RR AT_II P_ZZ1 N_ZZ1 =_FO 25_MC N_ZZ1 =_FO 36_MC 
+N_ZZ1 =_FO 4_MC LEVEL_NN1 OF_IO RETARDATION_NP1 Mild_JJ 16%_NNU 47%_NNU 28_MC 
+Moderate_JJ 40%_NNU 39%_NNU 33_MC Severe_JJ 44%_NNU 11%_NNU 29_MC Profound_JJ 
+0%_NNU 3%_NNU 10_MC This_DD1 table_NN1 reveals_VVZ that_CST the_AT CLASS_NN1 
+and_CC NEVER_RR AT_II PC_NN1 groups_NN2 have_VH0 a_AT1 high_JJ proportion_NN1 
+of_IO severelyrofoundly_RR retarded_JJ residents_NN2 while_CS the_AT 
+NON-CLASS_JJ group_NN1 is_VBZ mostly_RR mild_JJ /moderate_JJ ._. 
+CLASS_NN1 and_CC NEVER_RR AT_II PC_NN1 groups_NN2 also_RR have_VH0 very_RG 
+similar_JJ male/female_JJ distributions_NN2 ;_; the_AT NON-CLASS_JJ 
+members_NN2 cot.tain_NNU a_AT1 very_RG high_JJ proportion_NN1 of_IO males_NN2 
+(_( 81%_NNU )_) ._. 
+The_AT CLASS_NN1 ,_, NON-CLASS_JJ and_CC NEVER_RR AT_II PC_NN1 groups_NN2 
+have_VH0 mean_JJ ages_NN2 of_IO 43_MC ,_, 41_MC ,_, and_CC 34_MC ,_, 
+respectively_RR ._. 
+A_AT1 one-way_JJ ANOVA_NN1 reveals_VVZ a_AT1 significant_JJ age_NN1 
+difference_NN1 (_( F_ZZ1 =_FO 5.8_MC ,_, p_ZZ1 =_FO .004_MC )_) between_II 
+the_AT NEVER_RR AT_II PC_NN1 group_NN1 and_CC the_AT other_JJ two_MC 
+groups_NN2 Since_CS the_AT Behavior_NN1 Development_NN1 Survey_NN1 has_VHZ 
+been_VBN administered_VVN twice_RR for_IF every_AT1 member_NN1 of_IO the_AT 
+sample_NN1 ,_, an_AT1 examination_NN1 of_IO the_AT data_NN can_VM show_VVI 
+what_DDQ progress_VV0 the_AT three_MC groups_NN2 have_VH0 made_VVN over_II 
+time_NNT1 ._. 
+Adding_VVG together_RL all_DB the_AT pertinent_JJ items_NN2 on_II the_AT 
+forms_NN2 ,_, we_PPIS2 have_VH0 computed_VVN adaptive_JJ and_CC maladaptive_JJ 
+behavior_NN1 sum_NN1 scores_NN2 ,_, which_DDQ represent_VV0 overall_RR 
+functioning_VVG levels_NN2 in_II each_DD1 area_NN1 ._. 
+The_AT overall_JJ change_NN1 scores_NN2 for_IF the_AT entire_JJ sample_NN1 
+were_VBDR 0.42_MC points_NN2 gained_VVN in_II adaptive_JJ behavio_NN1 -4_MC 
+sum_NN1 (_( NS_NP1 )_) and_CC 1.67_MC points_NN2 gained_VVN in_II 
+maladaptive_JJ behavior_NN1 sum_NN1 (_( T_ZZ1 =_FO 4.50_MC ,_, p_ZZ1 =_FO 
+.000_MC )_) ._. 
+These_DD2 figures_NN2 are_VBR very_RG similar_JJ to_II those_DD2 found_VVN 
+for_IF the_AT entire_JJ population_NN1 (_( increase_NN1 of_IO 0.53_MC 
+points_NN2 in_II adaptive_JJ behavior_NN1 and_CC 1.57_MC points_NN2 in_II 
+maladaptive_JJ behavior_NN1 )_) Table_NN1 3_MC shows_VVZ the_AT sum_NN1 
+score_NN1 changes_NN2 found_VVN for_IF the_AT three_MC groups_NN2 TABLE_NN1 
+SUM_NN1 SCORE_NN1 CHANGES_NN2 BY_II GROU_NP1 Adaptive_NP1 Behavior_NP1 X1_FO 
+x_ZZ1 N_ZZ1 CLASS_NN1 24_MC 87.42_MC 93.2_MC NON-CLASS_JJ 36_MC 100.69_MC 
+99.2_MC NEVER_RR AT_II PC_NN1 41_MC 89.10_MC 87.9_MC OVERAL_NP1 10_MC 92.8_MC 
+Chang_NP1 +5.8_MC -1.4_MC -1.1_MC 93.25_MC +0.4_MC Maladaptive_NP1 
+Behavior_NP1 N_ZZ1 *1_FO X2_FO Chang_NN1 CLASS_NN1 25_MC 18.36_MC 20.12_MC 
++1.7_MC NON-CLASS_JJ 36_MC 18.64_MC 19.72_MC +1.0_MC NEVER_RR AT_II PC_NN1 
+42_MC 17.52_MC 19.64_MC +2.1_MC OVERALL_RR 103_MC 18.19_MC 19.79_MC +1.6_MC 
+In_II31 regard_II32 to_II33 adaptive_JJ behavior_NN1 ,_, CLASS_NN1 members_NN2 
+gained_VVD 5.88_MC points_NN2 while_CS NON_FU CLASS_NN1 and_CC NEVER_RR AT_II 
+PC_NN1 members_NN2 lost_VVD 1.42_MC and_CC 1.17_MC points_NN2 ,_, 
+respectively_RR (_( it_PPH1 should_VM be_VBI noted_VVN that_CST an_AT1 
+increase_NN1 in_II the_AT adaptive_JJ behavior_NN1 sum_NN1 score_NN1 is_VBZ 
+desirable_JJ )_) ._. 
+A_AT1 one-way_JJ ANOVA_NN1 showed_VVD a_AT1 significant_JJ difference_NN1 
+between_II CLASS_NN1 members_NN2 and_CC the_AT other_JJ two_MC groups_NN2 (_( 
+F_ZZ1 =_FO 3.88_MC ,_, p_ZZ1 =_FO .024_MC )_) in_II the_AT amount_NN1 of_IO 
+change_NN1 in_II adaptive_JJ behavior_NN1 skills_NN2 ._. 
+Hence_RR we_PPIS2 conclude_VV0 that_DD1 CLASS_NN1 members_NN2 gained_VVD 
+significantly_RR in_II adaptive_JJ behavior_NN1 while_CS the_AT other_JJ 
+two_MC groups_NN2 did_VDD not_XX -5_MC Figure_NN1 1_MC1 presents_VVZ a_AT1 
+graph_NN1 of_IO adaptive_JJ behavior_NN1 sum_NN1 change_NN1 for_IF the_AT 
+three_MC groups_NN2 ._. 
+It_PPH1 shows_VVZ that_CST the_AT CLASS_NN1 and_CC NEVER_RR AT_II PC_NN1 
+groups_NN2 started_VVD at_II approxi-mately_RR the_AT same_DA adaptive_JJ 
+behavior_NN1 level_NN1 ;_; however_RR ,_, the_AT CLASS_NN1 members_NN2 
+gained_VVD points_NN2 while_CS the_AT NEVER_RR AT_II PC_NN1 groups_NN2 did_VDD 
+not_XX change_VVI significantly_RR ._. 
+The_AT NONCLASS_NN1 members_NN2 started_VVD at_II a_AT1 much_RR higher_JJR 
+level_NN1 than_CSN the_AT other_JJ two_MC groups_NN2 ,_, but_CCB failed_VVD 
+to_TO show_VVI a_AT1 significant_JJ change_NN1 No_AT difference_NN1 was_VBDZ 
+found_VVN among_II the_AT three_MC groups_NN2 in_II maladaptive_JJ 
+behavior_NN1 ;_; all_DB three_MC groups_NN2 improved_VVN ._. 
+An_AT1 increase_NN1 in_II maladaptive_JJ behavior_NN1 sum_NN1 score_NN1 is_VBZ 
+the_AT desired_JJ result_NN1 ,_, since_CS it_PPH1 indicates_VVZ a_AT1 
+decrease_NN1 in_II maladaptive_JJ behavior_NN1 ._. 
+The_AT one-way_JJ ANOVA_NN1 on_II maladaptive_JJ behavior_NN1 sum_NN1 
+change_NN1 failed_VVD to_TO show_VVI a_AT1 significant_JJ difference_NN1 
+among_II the_AT three_MC groups_NN2 (_( F_ZZ1 =_FO .759_MC ,_, p_ZZ1 =_FO 
+.471_MC )_) ._. 
+Hence_RR we_PPIS2 conclude_VV0 that_CST all_DB three_MC groups_NN2 
+improved_VVN about_II equally_RR in_II reducing_VVG problem_NN1 behavior_NN1 
+FIGURE_NN1 ADAPTIVE_NP1 BEHAVIOR_NP1 SUM_NN1 OVER_II TIM_NP1 -6_MC 
+DISCUSSIO_NN1 As_II the_AT results_NN2 indicate_VV0 ,_, there_EX are_VBR 
+differences_NN2 in_II characteristics_NN2 among_II the_AT three_MC groups_NN2 
+(_( CLASS_NN1 ,_, NON-CLASS_JJ ,_, and_CC NEVER_RR AT_II PC_NNU )_) ._. 
+When_CS one_MC1 looks_VVZ at_II the_AT three_MC groups_NN2 with_II31 
+regard_II32 to_II33 the_AT level_NN1 of_IO retardation_NN1 ,_, it_PPH1 is_VBZ 
+apparent_JJ that_CST the_AT NON-CLASS_JJ members_NN2 have_VH0 the_AT 
+highest_JJT proportion_NN1 of_IO mildly_RR and_CC moderately_RR impaired_JJ 
+individuals_NN2 ,_, while_CS the_AT other_JJ two_MC groups_NN2 have_VH0 a_AT1 
+larger_JJR percentage_NN1 of_IO severely_RR and_CC profoundly_RR impaired_JJ 
+clients_NN2 ._. 
+This_DD1 can_VM best_RRT be_VBI explained_VVN by_II a_AT1 process_NN1 
+called_VVN "_" creaming_VVG ._. "_" 
+Early_RR in_II the_AT deinstitutionalization_NN1 movement_NN1 those_DD2 
+individuals_NN2 selected_VVN for_IF community_NN1 placement_NN1 were_VBDR 
+those_DD2 who_PNQS would_VM be_VBI most_RGT likely_JJ to_TO succeed_VVI ._. 
+Therefore_RR the_AT highest_JJT functioning_JJ clients_NN2 left_VVN first_MD 
+;_; they_PPHS2 were_VBDR "_" creamed_VVN ._. "_" 
+This_DD1 process_NN1 has_VHZ not_XX been_VBN used_VVN for_IF class_NN1 
+members_NN2 ._. 
+According_II21 to_II22 the_AT orders_NN2 of_IO the_AT court_NN1 ,_, the_AT 
+only_JJ group_NN1 given_VVN priority_NN1 in_II the_AT placement_NN1 
+process_NN1 is_VBZ children_NN2 ._. 
+Beyond_II that_DD1 group_NN1 there_RL seem_VV0 to_TO be_VBI no_AT 
+consistent_JJ criteria_NN2 for_IF selection_NN1 for_IF placement_NN1 in_II 
+the_AT community_NN1 Upon_II examining_VVG adaptive_JJ behavior_NN1 growth_NN1 
+for_IF the_AT three_MC groups_NN2 ,_, significant_JJ differences_NN2 have_VH0 
+been_VBN found_VVN ._. 
+Both_DB2 the_AT NON-CLASS_JJ members_NN2 and_CC NEVER_RR AT_II PC_NN1 
+groups_NN2 lost_VVD slightly_RR in_II adaptive_JJ behavior_NN1 ,_, in_II 
+marked_JJ contrast_NN1 to_II the_AT 5.88_MC gain_VV0 in_II adaptive_JJ 
+behavior_NN1 for_IF CLASS_NN1 members_NN2 ._. 
+All_DB groups_NN2 improved_VVN significantly_RR ,_, and_CC the_AT same_DA 
+amount_NN1 ,_, in_II the_AT maladaptive_JJ behavior_NN1 area_NN1 While_CS 
+most_DAT provider_NN1 agencies_NN2 maintain_VV0 Individual_JJ Program_NN1 
+Plans_VVZ for_IF each_DD1 client_NN1 ,_, CLASS_NN1 members_NN2 ,_, as_CSA 
+ordered_VVN by_II the_AT Court_NN1 ,_, must_VM have_VHI Individual_JJ 
+Habilitation_NN1 Plans_NN2 which_DDQ must_VM be_VBI approved_VVN by_II the_AT 
+Office_NN1 of_IO the_AT Special_JJ Master_NN1 ._. 
+The_AT Individaul_NP1 Habilitation_NN1 Plan_NN1 contains_VVZ nine_MC areas_NN2 
+(_( Health_NN1 ,_, Sensory/Motor_FU Skills_NN2 ,_, Communication_NN1 
+Skills_NN2 ,_, Activities_NN2 of_IO Daily_NP1 Living_JJ Skills_NN2 ,_, 
+Vocational/_JJ Education_NN1 Skills_NN2 ,_, Social_JJ Interactions_NN2 ,_, 
+Self-concept/Coping_NN1 Skills_NN2 ,_, Leisure/_NN1 Recreational/Religious_JJ 
+Activities_NN2 ,_, and_CC Other_JJ Special_JJ Concerns_NN2 )_) ._. 
+The_AT Master_NN1 's_GE Office_NN1 has_VHZ requested_VVN that_CST there_EX 
+be_VBI one_MC1 goal_NN1 in_II each_DD1 area_NN1 ._. 
+In_RR21 addition_RR22 ,_, goal_NN1 -7_MC must_VM be_VBI written_VVN in_II 
+a_AT1 behavioral_JJ objective_JJ format_NN1 ,_, must_VM have_VHI a_AT1 
+timeline_NN1 ,_, and_CC must_VM list_VVI a_AT1 person_NN1 responsible_JJ 
+for_IF monitoring_VVG and_CC supervision_NN1 of_IO each_DD1 goal_NN1 ._. 
+The_AT Office_NN1 of_IO the_AT Special_JJ Master_NN1 periodically_RR 
+monitors_VVZ clients_NN2 '_GE programs_NN2 to_TO ensure_VVI that_CST 
+services_NN2 are_VBR being_VBG provided_VVN as_CSA prescribed_VVN in_II the_AT 
+IHP_NN1 ._. 
+The_AT responsibility_NN1 for_IF coordination_NN1 of_IO services_NN2 is_VBZ 
+that_DD1 of_IO the_AT Pennhurst_NN1 Case_NN1 Managers_NN2 ._. 
+Thus_RR the_AT clients_NN2 covered_VVN by_II the_AT Pennhurst_NN1 court_NN1 
+order_NN1 enjoy_VV0 several_DA2 protections_NN2 not_XX available_JJ to_II 
+others_NN2 ,_, among_II which_DDQ are_VBR strict_JJ written_JJ plan_NN1 
+requirements_NN2 ,_, regular_JJ monitoring_NN1 ,_, and_CC specially_RR 
+assigned_VVN Case_NN1 Managers_NN2 While_CS this_DD1 study_NN1 has_VHZ not_XX 
+established_VVN that_CST the_AT cause_NN1 of_IO greater_JJR developmental_JJ 
+growth_NN1 among_II CLASS_NN1 members_NN2 is_VBZ the_AT court_NN1 
+protections_NN2 ,_, the_AT data_NN certainly_RR suggest_VV0 that_DD1 class_NN1 
+members_NN2 have_VH0 been_VBN doing_VDG better_NN1 ._. 
+The_AT average_JJ CLA_NN1 client_NN1 improves_VVZ in_II the_AT maladaptive_JJ 
+behavior_NN1 area_NN1 ,_, but_CCB not_XX in_II adaptive_JJ behavior_NN1 ;_; 
+CLA_NP1 clients_NN2 who_PNQS are_VBR CLASS_NN1 members_NN2 improve_VV0 in_II 
+both_DB2 areas_NN2 ._. 
+We_PPIS2 regard_VV0 this_DD1 as_II the_AT first_MD evidence_NN1 that_CST 
+the_AT quality_NN1 of_IO written_JJ plans_NN2 ,_, systematic_JJ monitoring_NN1 
+,_, and_CC good_JJ case_NN1 management_NN1 do_VD0 make_VVI a_AT1 
+difference_NN1 -8---4074df6c58e7094af4b1ad9b8ddb2808--_FU 

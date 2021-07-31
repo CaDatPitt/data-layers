@@ -1,0 +1,92 @@
+
+OF_IO THE_AT PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 
+,_, INC_JJ 917-1001_MCMC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 (_( 
+412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 Mulgrav_NP1 
+Executive_NN1 Director_NN1 C._NP1 A._NP1 Peter_NP1 July_NPM1 11_MC ,_, 197_MC 
+TO_II :_: ACC_NP1 Board_NN1 of_IO Director_NN1 FROM_II :_: C._NP1 A._NP1 
+Peters_NP ,_, Executive_NN1 Directo_NP1 SUBJ_NP1 :_: Residential_JJ Care_NN1 
+of_IO the_AT Mentally_RR Retarde_NP1 INTRODUCTIO_NP1 A_ZZ1 series_NN of_IO 
+events_NN2 during_II the_AT last_MD ten_MC days_NNT2 has_VHZ served_VVN to_TO 
+emphasize_VVI the_AT failure_NN1 of_IO this_DD1 organization_NN1 to_TO 
+give_VVI appropriate_JJ attention_NN1 to_II the_AT plight_NN1 of_IO 
+mentally_RR retarded_JJ individuals_NN2 housed_VVN in_II state_NN1 schools_NN2 
+and_CC hospitals_NN2 and_CC Commonwealth_NN1 subsidized_VVD interim_JJ 
+care_NN1 facilities_NN2 ._. 
+A_AT1 report_NN1 from_II Bob_NP1 Nelkin_NP1 ,_, Acting_JJ Director_NN1 of_IO 
+Community_NN1 and_CC Chapter_NN1 Affairs_NN2 ,_, concerning_II two_MC 
+units_NN2 at_II Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 is_VBZ 
+appended_VVN ._. 
+On_II July_NPM1 9_MC ,_, Nelkin_NP1 attended_VVD a_AT1 meeting_NN1 of_IO 
+the_AT Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 parents_NN2 
+group_NN1 and_CC staff_NN during_II which_DDQ many_DA2 other_JJ equally_RR 
+horrendous_JJ incidents_NN2 were_VBDR recounted_VVN On_II July_NPM1 6_MC 
+and_CC 7_MC the_AT Executive_NN1 Director_NN1 ,_, accompanied_VVD Mrs._NNB 
+Ginny_NP1 Thornburgh_NP1 ,_, First_MD Vice_JJ President_NN1 ,_, ACC_NP1 ,_, 
+Mrs._NNB J._NP1 J._NP1 Isherwood_NP1 ,_, Chairman_NN1 ,_, PARC_NP1 
+Residential_JJ Care_NN1 Committee_NN1 and_CC Nelkin_NN1 on_II visits_NN2 to_II 
+two_MC (_( 2_MC )_) interim_JJ care_NN1 facilities_NN2 ._. 
+Conditions_NN2 in_II both_DB2 were_VBDR deplorable_JJ ._. 
+Mrs._NNB Thornburghs_NP1 report_NN1 has_VHZ been_VBN made_VVN available_JJ 
+to_II the_AT board_NN1 RECOMMENDATION_NN1 To_II evidence_NN1 commitment_NN1 
+and_CC concern_NN1 ,_, ACC_NP1 should_VM consider_VVI taking_VVG immediate_JJ 
+and_CC dramatic_JJ action_NN1 at_II Western_JJ State_NN1 School_NN1 and_CC 
+Hospital_NN1 ,_, even_CS21 if_CS22 it_PPH1 is_VBZ only_RR a_AT1 visit_NN1 
+by_II a_AT1 delegation_NN1 of_IO the_AT Board_NN1 ACC_NP1 should_VM then_RT 
+create_VVI a_AT1 committee_NN1 to_TO report_VVI to_II the_AT Board_NN1 by_II 
+the_AT September_NPM1 Board_NN1 meeting_VVG with_IW a_AT1 definite_JJ plan_NN1 
+of_IO action_NN1 to_TO involve_VVI ACC_NP1 in_II the_AT improvement_NN1 of_IO 
+both_RR plant_VV0 and_CC program_NN1 at_II Western_JJ State_NN1 School_NN1 
+and_CC Hospital_NN1 ,_, Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 
+and_CC all_DB interim_JJ care_NN1 facilities_NN2 in_II which_DDQ Allegheny_NP1 
+County_NN1 residents_NN2 are_VBR housed_VVN Such_DA a_AT1 plan_NN1 must_VM 
+include_VVI a_AT1 method_NN1 to_TO focus_VVI the_AT state_NN1 
+organizations_NN2 attention_NN1 on_II this_DD1 long_JJ neglected_JJ area_NN1 
+of_IO service_NN1 to_II the_AT mentally_RR retarded_JJ Member_NN1 Unit_NN1 -_- 
+National_JJ Association_NN1 for_IF Retarded_JJ Children_NN2 ._. 
+Inc_JJ Participant_NN1 in_II the_AT Allegheny_NP1 County_NN1 Mental_JJ 
+Health/Mental_FU Retardation_NN1 Progra_NP1 Page_NP1 July_NPM1 11_MC ,_, 
+197_MC ACC_NP1 Board_NN1 of_IO Director_NN1 Options_NN2 to_TO be_VBI 
+explored_VVN by_II the_AT committee_NN1 should_VM include_VVI legal_JJ 
+action_NN1 ,_, legislative_JJ investigation_NN1 ,_, media_NN exposes_VVZ ,_, 
+joint_JJ ACC_NP1 facility/staff_FU committees_NN2 or_CC a_AT1 combination_NN1 
+of_IO these_DD2 approaches_NN2 ._. 
+In_II no_AT case_NN1 should_VM a_AT1 "_" long_JJ range_NN1 plan_NN1 "_" 
+emerge_VV0 as_II the_AT committees_NN2 recommendation_NN1 ._. 
+Action_NN1 should_VM be_VBI immediate_JJ ,_, decisive_JJ and_CC have_VH0 a_AT1 
+built-in_JJ mechanism_NN1 to_TO insure_VVI that_CST never_RR again_RT does_VDZ 
+ACC_NP1 develop_VVI the_AT philosophy_NN1 common_JJ to_II the_AT citizens_NN2 
+of_IO Pennsylvania_NP1 ,_, "_" out_II21 of_II22 sight_NN1 ,_, out_II21 of_II22 
+mind_NN1 ._. "_" 
+Whatever_DDQV plan_NN1 is_VBZ adopted_VVN ,_, it_PPH1 must_VM have_VHI a_AT1 
+clearly_RR defined_VVN beginning_NN1 and_CC ending_VVG date_NN1 ._. 
+July_NPM1 1_MC1 ,_, 1973_MC should_VM be_VBI the_AT absolute_JJ latest_JJT 
+date_NN1 1_MC1 ._. 
+An_AT1 educational_JJ program_NN1 for_IF legislators_NN2 that_CST will_VM 
+result_VVI in_II greater_JJR financial_JJ commitment_NN1 by_II the_AT 
+State_NN1 to_II these_DD2 facilities_NN2 2_MC ._. 
+Model_NN1 legislation_NN1 for_IF decreasing_VVG parental_JJ financial_JJ 
+liability_NN1 for_IF residential_JJ care_NN1 and_CC terminating_VVG it_PPH1 
+totally_RR (_( in_II31 accordance_II32 with_II33 prior_JJ Board_NN1 action_NN1 
+)_) at_II age_NN1 twenty-one_MC (_( 21_MC )_) 3_MC ._. 
+Drafts_NN2 of_IO appropriate_JJ guidelines_NN2 and/or_CC regulations_NN2 
+covering_VVG both_RR plant_VV0 and_CC program_NN1 standards_NN2 should_VM 
+be_VBI prepared_VVN ._. 
+Provision_NN1 for_IF closing_VVG down_RP offending_JJ facilities_NN2 must_VM 
+be_VBI built_VVN into_II the_AT guideline_NN1 4_MC ._. 
+A_AT1 proposal_NN1 ,_, including_II feasibility_NN1 study_NN1 and_CC cost_NN1 
+estimates_NN2 ,_, that_DD1 will_VM make_VVI ACC_NP1 a_AT1 developer_NN1 and_CC 
+manager_NN1 of_IO interim_JJ care_NN1 programs._NNU *_FU This_DD1 should_VM 
+include_VVI contacts_NN2 with_IW Governors_NN2 Crime_NN1 Commission_NN1 
+concerning_II the_AT possibility_NN1 of_IO Law_NN1 Enforcement_NN1 
+Assistance_NN1 Agency_NN1 (_( LEAA_NP1 )_) funds_NN2 for_IF specialized_JJ 
+community_NN1 housing_VVG for_IF "_" defective_JJ delinquents_NN2 ._. 
+Before_CS the_AT end_NN1 of_IO the_AT summer_NNT1 this_DD1 committee_NN1 
+activity_NN1 should_VM include_VVI visits_NN2 to_II Western_JJ State_NN1 
+School_NN1 and_CC Hospital_NN1 ,_, Polk_NP1 State_NN1 School_NN1 and_CC 
+Hospital_NN1 and_CC interim_JJ care_NN1 facilities_NN2 in_II and_CC around_II 
+Allegheny_NP1 County_NN1 ,_, such_II21 as_II22 Allegheny_NP1 Valley_NN1 
+School_NN1 ,_, McGuire_NP1 Home_NN1 ,_, Mitchell_NP1 Home_NN1 and_CC 
+others_NN2 CAP:k_FO encl_VV0 *_FU This_DD1 should_VM be_VBI done_VDN in_II31 
+conjunction_II32 with_II33 the_AT Long_JJ Range_NN1 Planning_NN1 Committee_NN1 
+and_CC Community_NN1 Residential_JJ Committee_NN1 ._. 
+--50acd561c3ee9abb49fff59a8378af22--_FU 

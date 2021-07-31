@@ -1,0 +1,80 @@
+
+arc_NN1 Alleghen_NP1 Officer*_FO and_CC Board_NN1 of_IO Director_NN1 
+President_NNB Richard_NP1 S._NP1 Scott_NP1 ._. 
+Esq_NN1 Vice-President_NNB John_NP1 Koodrich_NP1 Mary_NP1 F._NP1 Sciulll_NP1 
+Alfred_NP1 E_NP1 Cambridge_NP1 ._. 
+Jr_JJ Secretary_NN1 Max_NP1 Janeir_NP1 Treasure_NN1 Sylvia_NP1 Masto_NP1 
+Past_II Presiden_NP1 N._NP1 Karen_NP1 Kell_NP1 Marjorie_NP1 Bruder_NP1 
+Michael_NP1 Cianfrocco_NP1 Anthony_NP1 Costello_NP1 ._. 
+M.D._NP1 Marlon_NP1 Damick_NP1 William_NP1 Eisen_NP1 John_NP1 R._NP1 
+Fulton_NP1 ,_, Jr_NNA Walter_NP1 Haglund_NP1 Robert_NP1 Hartle_NP1 William_NP1 
+P._NP1 Kennedy_NP1 David_NP1 L._NP1 McClanahan_NP1 ,_, Esq_NNA Hugh_NP1 
+Nesbitt_NP1 Charles_NP1 Partee_NP1 ._. 
+Ph.D_NP1 Jean_NP1 Petersen_NP1 Rebecca_NP1 Thoma_NP1 Executive_NN1 Directo_NP1 
+Marsha_NP1 S_NP1 Blanc_NP1 Member_NN1 Uni_NN1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 -_- US_NP1 Participant_NN1 Allegheny_NP1 County_NN1 
+Mental_JJ Health_NN1 Mental_JJ Retardation_NN1 Progra_NP1 Association_NN1 
+for_IF Retarded_JJ Citizens_NN2 ,_, Allegheny_NP1 County_NN1 Chapte_NN1 
+Mr._NNB Walter_NP1 Cohen_NP1 ,_, Secretary_NN1 Department_NN1 of_IO Public_JJ 
+Welfare_NN1 Health_NN1 and_CC Welfare_NN1 Building_NN1 Harrisburg_NP1 ,_, 
+PA_NN1 1712_MC Dear_JJ Mr._NNB Cohen_NP1 On_II June_NPM1 1_MC1 ,_, 1983_MC ,_, 
+I_PPIS1 spoke_VVD with_IW Brian_NP1 Baxter_NP1 about_II extreme_JJ 
+concerns_NN2 following_VVG a_AT1 recent_JJ visit_NN1 to_II Highland_NP1 
+Park_NN1 Center_NN1 ,_, an_AT1 Intermediate_JJ Care_NN1 Facility_NN1 for_IF 
+mentally_RR retarded_JJ people_NN here_RL in_II Pittsburgh_NP1 ._. 
+I_PPIS1 enclose_VV0 a_AT1 report_NN1 on_II that_DD1 visit_NN1 and_CC 
+several_DA2 documents_NN2 pertinent_JJ to_II our_APPGE continued_JJ 
+findings_NN2 of_IO client-abusive_JJ situations_NN2 at_II state-funded_JJ 
+facilities_NN2 for_IF retarded_JJ persons_NN2 During_II our_APPGE visit_NN1 
+to_II Highland_NP1 Park_NN1 Center_NN1 ,_, on_II May_NPM1 27_MC ,_, 1983_MC 
+,_, we_PPIS2 were_VBDR given_VVN an_AT1 animal_NN1 prod_VV0 that_DD1 was_VBDZ 
+used_VVN in_II aversive_JJ "_" therapy_NN1 "_" for_IF several_DA2 severely_RR 
+handicapped_JJ clients_NN2 of_IO the_AT Center_NN1 In_RR21 addition_RR22 ,_, 
+we_PPIS2 were_VBDR told_VVN that_CST seventy-one_MC (_( 71_MC )_) of_IO the_AT 
+one_MC1 hundred_NNO thirty-two_MC (_( 132_MC )_) clients_NN2 of_IO the_AT 
+Center_NN1 are_VBR on_II some_DD type_NN1 of_IO maladaptive_JJ behavior_NN1 
+program_NN1 ,_, including_II physical_JJ restraints_NN2 and_CC time_NNT1 
+out_RP ._. 
+The_AT Highland_NN1 Park_NN1 Center_NN1 Human_NN1 Rights_NN2 Committee_NN1 
+is_VBZ an_AT1 internal_JJ staff_NN committee_NN1 with_IW one_MC1 parent_NN1 
+representative_NN1 ARC_NN1 considered_VVD going_VVG public_NN1 with_IW 
+our_APPGE strong_JJ feelings_NN2 about_II this_DD1 outrageously_RR abusive_JJ 
+treatment_NN1 of_IO clients_NN2 ._. 
+We_PPIS2 would_VM prefer_VVI that_CST DPW_NP1 immediately_RR investigate_VV0 
+these_DD2 improprieties_NN2 and_CC correct_VV0 the_AT deficiencies_NN2 at_II 
+Highland_NP1 Park_NN1 Center_NN1 of_IO its_APPGE own_DA volition_NN1 We_PPIS2 
+request_VV0 that_CST DPW_NP1 immediately_RR take_VV0 the_AT following_JJ 
+actions_NN2 to_TO ensure_VVI the_AT safety_NN1 and_CC well_RR being_VBG of_IO 
+clients_NN2 at_II Highland_NP1 Park_NN1 Center_NN1 1_MC1 ._. 
+Form_VV0 an_AT1 investigative_JJ team_NN1 to_TO look_VVI into_II admitted_JJ 
+practices_NN2 of_IO avFrsive_JJ behavioral_JJ techniques_NN2 at_II the_AT 
+Center_NN1 ._. 
+We_PPIS2 under_II stand_NN1 that_CST Erik_NP1 Wittman_NP1 has_VHZ been_VBN 
+asked_VVN to_TO head_VVI up_RP such_DA a_AT1 team_NN1 1001_MC Brighton_NP1 
+Road_NNL1 ,_, Pittsburgh_NP1 ,_, Pennsylvania_NP1 15233_MC (_( 412_MC )_) 
+322-600_MCMC Mr._NNB Walter_NP1 Cohe_NP1 June_NPM1 2_MC ,_, 198_MC Page_NP1 
+Tw_NP1 We_PPIS2 do_VD0 not_XX think_VVI it_PPH1 appropriate_JJ to_TO ask_VVI 
+staff_NN of_IO Western_JJ Region_NN1 OMR_NN1 to_TO participate_VVI in_II 
+this_DD1 team_NN1 ,_, since_CS our_APPGE documents_NN2 indicate_VV0 Western_JJ 
+Regional_JJ OMR_NN1 staff_NN approval_NN1 of_IO aversive_JJ techniques_NN2 
+including_II the_AT animal_NN1 prod_NN1 ._. 
+The_AT Committee_NN1 should_VM have_VHI free_JJ reign_NN1 to_TO make_VVI 
+and_CC followup_VVI specific_JJ recommendations_NN2 for_IF change_NN1 at_II 
+the_AT facility_NN1 2_MC ._. 
+Release_VV0 the_AT DPW_NP1 audit_NN1 of_IO Highland_NP1 Park_NN1 Center_NN1 
+that_CST was_VBDZ completed_VVN in_II the_AT summer_NNT1 of_IO 1982_MC ._. 
+Despite_II repeated_JJ requests_NN2 ,_, DPW_NP1 has_VHZ not_XX released_VVN 
+an_AT1 audit_NN1 of_IO Highland_NP1 Park_NN1 Center_NN1 ,_, prompted_VVN by_II 
+allegations_NN2 of_IO improprieties_NN2 last_MD year_NNT1 As_CSA you_PPY 
+are_VBR aware_JJ ,_, the_AT situation_NN1 at_II Highland_NP1 Park_NN1 
+Center_NN1 is_VBZ but_CCB an_AT1 example_NN1 of_IO serious_JJ problems_NN2 
+and_CC abusive_JJ situations_NN2 throughout_II the_AT Commonwealth_NN1 ._. 
+We_PPIS2 urge_VV0 you_PPY to_TO work_VVI with_IW the_AT Department_NN1 of_IO 
+Health_NN1 to_TO improve_VVI the_AT certification_NN1 process_NN1 so_CS21 
+that_CS22 retardation_NN1 facilities_NN2 will_VM not_XX violate_VVI the_AT 
+legal_JJ and_CC human_JJ rights_NN2 of_IO clients_NN2 In_II31 view_II32 
+of_II33 the_AT Department_NN1 's_GE tacit_JJ approval_NN1 of_IO the_AT 
+electric_JJ shock_NN1 procedure_NN1 ,_, we_PPIS2 expect_VV0 your_APPGE 
+response_NN1 and_CC corrective_JJ action_NN1 to_TO begin_VVI immediately_RR 
+Sincerely_RR N._NP1 Karen_NP1 Kell_NP1 NKK:bj_FO cc_NNU :_: Brian_NP1 
+Baxte_NP1 Jennifer_NP1 Howse_NP1 --c19db6100231a3d72e9d55f04b1d54ef--_FU 

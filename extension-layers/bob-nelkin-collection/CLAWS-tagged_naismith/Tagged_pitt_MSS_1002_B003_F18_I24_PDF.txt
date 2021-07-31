@@ -1,0 +1,31 @@
+
+OA-SO_CS I_ZZ1 -6_MC COMMONWEALTH_NN1 OF_IO PENNSYLVANI_JJ September_NPM1 
+24_MC ,_, 197_MC SUBJEC_NP1 T_ZZ1 FRO_RR Admissions_NN2 and_CC Discharge_VV0 
+Mr._NNB C.A._NP1 Peter_NP1 Commissioner_NN1 of_IO Mental_JJ Retardatio_NP1 
+Western_NP1 Regio_NP1 Robert_NP1 J._NP1 Hiltne_NP1 Superintenden_NP1 
+Western_NP1 State_NN1 School_NN1 &; Hospita_NP1 The_AT following_JJ is_VBZ 
+information_NN1 requested_VVN and_CC covers_VVZ the_AT period_NN1 
+September_NPM1 1_MC1 ,_, 1973_MC to_II August_NPM1 31_MC ,_, 1974_MC Total_JJ 
+Number_NN1 of_IO Long_JJ Term_NN1 Admissions_NN2 ----_NN1 2_MC Total_JJ 
+Number_NN1 of_IO Long_JJ Term_NN1 Admissions_NN2 Placed_VVN ----_NN1 3_MC 
+Of_IO these_DD2 31_MC ,_, number_NN1 actually_RR discharged_VVN -----_NN1 
+2_MC Number_NN1 placed_VVN in_II community_NN1 on_II trial_NN1 visits--l_NN2 
+Total_JJ Number_NN1 of_IO Short_NP1 Term_NN1 Admissions_NN2 (_( exclusive_JJ 
+of_IO summer_NNT1 admissions_NN2 )_) ---Of_NN1 these_DD2 18_MC ,_, number_NN1 
+actually_RR discharged_VVN -----Number_NN1 ._. converted_VVN to_TO long_VVI 
+,_, term---Number_NN1 remaining_VVG at_II Western_JJ State_NN1 School_NN1 
+Average_NN1 length_NN1 of_IO stay_NN1 for_IF the_AT 18_MC short_JJ term_NN1 
+admissions_NN2 is_VBZ five_MC months_NNT2 For_IF seven_MC discharged_VVN ,_, 
+average_JJ length_NN1 of_IO stay_NN1 was_VBDZ two_MC months_NNT2 Total_JJ 
+Number_NN1 of_IO Court_NN1 Commitments-----Of_NN2 these_DD2 four_MC ,_, 
+three_MC were_VBDR committed_VVN under_II Section_NN1 406_MC ,_, and_CC 
+one_MC1 was_VBDZ committed_VVN under_II Section_NN1 410_MC (_( commitment_NN1 
+to_II institution_NN1 in_II31 lieu_II32 of_II33 sentencing_VVG )_) Total_JJ 
+Census_NN1 at_II Western_JJ State_NN1 School_NN1 (_( taken_VVN on_II 
+Monday_NPD1 ,_, September_NPM1 2_MC )_) 66_MC Composed_VVD of_IO residents_NN2 
+on_II temporary_JJ visits_NN2 numbered_VVD 12_MC 21_MC residents_NN2 on_II 
+trial_NN1 visits_NN2 ,_, 29_MC on_II other_JJ authorized_JJ absences_NN2 3_MC 
+on_II unauthorized_JJ absences_NN2 ,_, 1_MC1 in_II family_NN1 care_NN1 ,_, 
+and_CC remainder_NN1 physically_RR present_JJ at_II Western_JJ Total_JJ 
+Census_NN1 of_IO Children_NN2 's_GE Psychiatric_JJ Treatment_NN1 Service_NN1 
+----_NN1 2_MC 1_MC1 tb_NN1 --1ea019f76e759c791ba5c0c22c9da0e5--_FU 

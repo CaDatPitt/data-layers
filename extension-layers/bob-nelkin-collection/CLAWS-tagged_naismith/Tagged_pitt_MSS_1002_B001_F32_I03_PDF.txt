@@ -1,0 +1,43 @@
+
+NANCY_NP1 ZIRNGIB_NP1 PUBLIC_JJ RELATIONS_NN2 COORDINATO_NP1 ALLEGHENY_NP1 
+COUNTY_NN1 CHAPTER_NN1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+C_NP1 ;_; tize_VV0 1001_MC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 
+1523_MC TELEPHONE_NN1 (_( 412_MC )_) 322-600_MCMC November_NPM1 2_MC ,_, 
+197_MC REQUEST_VV0 FOR_IF COVERAG_NN1 EVENT_NN1 :_: 4_MC Opportunity_NN1 to_TO 
+interview_VVI Dr._NNB Frank_NP1 Menolascino_NP1 ,_, President_NN1 of_IO the_AT 
+National_JJ Association_NN1 for_IF Retarded_JJ Citizens_NN2 ._. 
+(_( NARC_NP1 headquarters_NN are_VBR in_II Texas_NP1 ;_; Dr._NNB 
+Menolascino_NP1 is_VBZ a_AT1 resident_NN1 of_IO Nebraska_NP1 ._. 
+DATE_NN1 :_: Friday_NPD1 ,_, November_NPM1 5_MC ,_, 197_MC TIME_NNT1 :_: 
+Dr._NNB Menolascino_NP1 will_VM be_VBI available_JJ for_IF interviews_NN2 
+fjrom_VV0 2:30_MC to_II 5:00_MC P.M_RA PLACE_VV0 :_: Western_JJ Psychiatric_JJ 
+Institute_NN1 &; Clinic_NN1 ,_, 3811_MC O'Hara_NP1 St._NNL1 ,_, Pgh._NP1 ,_, 
+Pa._NP1 15261_MC ._. 
+He_PPHS1 is_VBZ speaking_VVG on_II the_AT subject_NN1 of_IO "_" Psychiatric_JJ 
+Challenges_NN2 in_II the_AT Diagnosis_NN1 and_CC Management_NN1 of_IO the_AT 
+Mentally_RR Retarded_JJ "_" during_II the_AT morning_NNT1 session_NNT1 
+BACKGROUND_NN1 INFORMATION_NN1 :_: Dr._NNB Menolascino_NP1 will_VM receive_VVI 
+the_AT Institute_NN1 of_IO Pennsylvania_NP1 Hospital_NN1 Award_NN1 in_II 
+recognition_NN1 of_IO his_APPGE achievements_NN2 and_CC leadership_NN1 in_II 
+the_AT field_NN1 of_IO mental_JJ retardation_NN1 ._. 
+The_AT award_NN1 will_VM be_VBI presented_VVN next_MD Monday_NPD1 ,_, 
+November_NPM1 8_MC ._. 
+(_( See_VV0 enclosed_JJ clipping._NNU )_) r_ZZ1 We_PPIS2 hope_VV0 you_PPY 
+will_VM interview_VVI Dr._NNB Menolascino_NP1 concerning_II the_AT system_NN1 
+of_IO community_NN1 programs_NN2 he_PPHS1 developed_VVD in_II Nebraska_NP1 ._. 
+This_DD1 will_VM be_VBI a_AT1 logical_JJ tie-in_NN1 with_IW the_AT series_NN 
+of_IO public_JJ meetings_NN2 ACC-PARC_NP1 has_VHZ been_VBN sponsoring_VVG 
+concerning_II community_NN1 residential_JJ alternatives_NN2 to_II 
+institutionalization_NN1 ._. 
+Community_NN1 programing_NN1 is_VBZ a_AT1 priority_NN1 thrust_NN1 of_IO 
+PARC_NP1 ,_, this_DD1 Chapter_NN1 ,_, and_CC the_AT Department_NN1 of_IO 
+Public_JJ Welfare_NN1 ._. 
+Meetings_NN2 were_VBDR held_VVN in_II May_NPM1 and_CC in_II June_NPM1 ,_, 
+with_IW a_AT1 third_MD meeting_NN1 scheduled_VVN with_IW Secretary_NP1 
+Frank_NP1 Beal_NP1 on_II November_NPM1 20_MC ._. 
+(_( See_VV0 enclosed_JJ letter/meeting_NN1 notice_NN1 ._. )_) 
+We_PPIS2 believe_VV0 Dr._NNB Menolascino_NP1 's_GE comments_NN2 will_VM be_VBI 
+valuable_JJ in_II comparing_VVG community_NN1 programs_NN2 in_II Nebraska_NP1 
+with_IW the_AT lack_NN1 of_IO such_DA programs_NN2 in_II Pennsylvania_NP1 
+and_CC the_AT crucial_JJ need_NN1 for_IF their_APPGE development_NN1 
+--d0ad7fbf1ac1c26554df4219f0f75b56--_FU 

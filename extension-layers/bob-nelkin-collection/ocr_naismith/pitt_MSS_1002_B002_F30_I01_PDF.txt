@@ -1,0 +1,189 @@
+﻿PENNHURST STUDY
+BRIEF REPORT #10
+SURVEY OF FAMILIES OF CLIENTS DEINSTITUTIONALIZED FROM THE DATE OF THE COURT ORDER TO APRIL 30, 1980
+(02 YEAR FAMILY IMPACTS REPORT)
+BY:
+James W. Conroy
+EVALUATION I. RESEARCH GROUP
+TEMPLE UNIVERSITY DEVELOPMENTAL DISABILITIES CENTER 9th Floor Ritter Annex
+Philadelphia, PA 19122
+(215)-787-1356
+July 31, 1981
+Prepared Under Contract No. 130-81-0022 with the U. S. Department of Health & Human Services
+As an addition to the Longitudinal Study of the Court-Ordered Deinstitutionalization of Pennhurst, questionnaires were mailed to the families of clients who were relocated to Community Living Arrangements (CLAs) between the date of the Court Order, March 17, 1978, and April 30, 1980. This report summarizes the results.*
+There were 99 clients who were relocated to southeast region CLAs during that time period. Of these, family contacts were known for 79. Introductory letters were mailed to the 79 families in February, 1981. Five letters were returned by the Post Office for incorrect addresses. In late February, survey forms and return envelopes were mailed to the remaining 74 families.
+By March 25, 28 responses had been received (38%). Three of these were returned blank because the families were either disabled or had not seen their relatives since birth. A second mailing was conducted to reach the remaining families. Twelve additional valid responses were received; four others wrote that they chose not to participate, and one claimed no relationship with the client. The summary of the survey response was as follows:
+SURVEY RESPONSES
+79 ADDRESSES
+-5 INCORRECT ADDRESSES
+-3 BLANK, HAVE NOT SEEN CLIENT IN MANY YEARS
+-1 NO RELATIONSHIP TO CLIENT
+70 VALID POTENTIAL RESPONDENTS
+-4 REFUSED
+-29 NON-RESPONSE
+“37 VALID RESPONSES
+* This study is not to be confused with the survey of families of Pennhurst residents performed May-June 1980 and reported December 1, 1980. The present study surveyed the families of clients who were deinstitutionalized before that survey was conducted.
+-1-
+These 37 valid responses out of 70 potential responses indicated a valid
+response rate of 53%. The complete response rate would be calculated as
+3 + 1 + 4 + 37/74, or 59.5%.
+Because 53% was lower than we had hoped, we tested for non-respondent
+bias to see whether	the clients	not represented in the survey	were different
+from those who were	represented.	The results were as shown in	Table 2:
+	TESTS OF NON	-RESPONDENT BIAS	t-test
+Client Characteristics	Respondents	Non-Respondents	significance of difference
+Average date admitted to Pennhurst	10/59	1/57	Not Significant (NS)
+Average date discharged	2/79	1/79	NS
+Age	35.86	39.85	NS
+ADAPTIVE BEHAVIOR			
+Personal Self-Sufficiency	34.76	38.13	NS
+Community to Self-Sufficiency	'	17.00	21.97	p = .052
+Personal-Social Responsibility	13.08	15.92	p = .040
+MALADAPTIVE BEHAVIOR			
+Social Adaptation	12.64	11.62	NS
+Personal Adaptation	6.40	7.08	NS
+Level of retardation (4-point scale)	3.92	3.71	NS
+Clearly the respondent - group clients were not very different from the non-respondent group clients. We therefore accepted the 53% response rate as adequate; we rejected the possibility of telephoning all non-respondents, which, on such a sensitive topic, would have been highly intrusive.
+-2-
+RESULTS
+Among the 37 respondents, 20 were mothers of the clients, 8 were fathers, and 9 were other relatives. Ten respondents had less than a high school education, 14 were high school graduates, 5 had some college, and 5 had a college degree or more; 3 did not answer. There were 32 who listed themselves as White, 2 Black, and 3 who did not answer.
+SATISFACTION WITH RESIDENTIAL PLACEMENT
+Relatives responded to two 5-point Likert scales on "How satisfied (are/were) you with the services your relative (received/is receiving) from
+(Pennhurst/the CLA)?"
+1.	Very satisfied
+2.	Somewhat satisfied
+3.	Neutral
+4.	Somewhat dissatisfied
+5.	Very dissatisfied
+Blank
+Former satisfaction with Institution	Present satisfaction with CLA
+11	21
+10	8
+5	1
+6	5
+4	1
+1	1
+Average satisfaction on 5-point scale: 2.50 -------------1.81
+Test of difference: t = 2.04, df = 35, p = .024, 1-tai 1
+Thus the respondents were much more satisfied with the community settings than they had been with the institution. (Families of current residents of Penn-hurst reported higher satisfaction with Pennhurst, averaging 1.72 instead of 2.50 - from report of December 1,1980, already cited.)
+-3-
+FAMILY VISITS TO CLIENT
+When client was at Institution
+Now, in
+CLA
+1.	Weekly	6	8
+2.	Monthly	11	11
+3.	3-4 per year	10	9
+4.	Once per year	3	4
+5.	Less often	5	4
+	Blank	2	1
+Average frequency, 5-point scale: 2.68 ------ 2.65
+Significance of change: t = 0.20, df = 34, p = .422, 1-tail
+The often repeated assertion that clients released to community-based settings would experience increased visits from relatives was not supported. There was no significant change in the frequency of family visits to the service setting. (Current Pennhurst families visited clients less often than this 2.68 average; 2.94 was their average.)
+CLIENT VISITS TO FAMILY
+When client was at
+Institution
+Now, in
+CLA
+1.	Weekly	1	1
+2.	Monthly	6	13
+3.	3-4 per year	12	10
+4.	Once per year	4	2
+5.	Less often	14	11
+-4-
+Average frequency, 5-point scale: 3.65 ------- 3.24
+Significance of change: t = 1.78, df = 36, p = .042, 1-tail
+There was a slight increase in the frequency of client visits to their families' homes after community placement. (Current Pennhurst clients visited home much less often than had this relocated group while they were at Pennhurst: 3.65 for this group, 4.25 for the current Pennhurst group.)
+AGREEMENT WITH NOTION OF RELOCATION TO CLA
+When first	Now
+heard
+1.	Strongly	agree	11	16
+2.	Somewhat	agree	13	12
+3.	Neutral		2	1
+4.	Somewhat	disagree	7	7
+5.	Strongly	disagree	4	1
+Average agreement, 5-point scale 2.46 --------------- 2.05
+Significance of difference:	t = 2.58, df = 36, p = .007, 1-tail
+Thus relatives have become significantly more positive about CLA placement now that they have witnessed it. Initial fears have lessened considerably. A crosstabulation showed only 2 relatives to be more negative now than initially, while 13 were more positive - and 22 felt the same as they did initially - 18 agreed, 1 neutral, 3 disagreed. (Current Pennhurst families opposed relocation far more than these families when first considered: 4.12 versus 2.46.)
+-5-
+PERCEIVED CHANGES SINCE RELOCATION OF CLIENT
+Fourteen questions about changes since
+the client moved from Pennhurst
+to a CLA yielded the following responses:
+PERCEIVED CHANGES
+SINCE RELOCATION OF CLIENT
+	Not applicable or missing	1 Much Wors<	2 Wor □	3 •se Same	4 Bettei	5 r	Much Better	Average, 5-point scale
+Family social life	(7)	0	0	24	1	5	3.37
+Respondent's job	(15)	1	1	18	0	2	3.05
+Spouse's job	(21)	0	0	15	0	1	3.13
+Family recreation	(7)	0	0	24	1	5	3.37
+Family time alone	(8)	1	0	25	0	3	3.14
+Time with spouse	(17)	0	0	18	0	2	3.20
+Time with other children	(15)	0	0	19	1	2	3.23
+Vacations	(8)	0	1	25	0	3	3.17
+Family general happiness	(5)	2	5	10	2	13	3.59
+Client's relationships	(3)	1	0	13	6	14	3.94
+Client general happiness	(1)	2	1	8	5	20	4.11
+Client's relationship to respondent	(2)	0	0	18	5	12	3.83
+Client's relationship to spouse	(13)	0	0	16	3	5	3.54
+Client's relationship to siblings	(5)	0	0	20	2	10	3.69
+In the	column on the right, a		score	of 3 would	mean	that families,	on the
+average, felt there had been		no change.		Anything	above	3 would mean a	change for
+the better.	First, the data	show	that	no area has	been	affected negatively on the	
+-6-
+average. Second, the largest positive effect was in the clients' general happiness; next was in the clients' relationships with other people, followed by the clients' relationships with the respondent. (Current Penn-hurst families were previously asked how they thought each of these areas would be affected if their relative were relocated. Average scores were closer to "worse" for every item.)
+ATTITUDES AND BELIEFS
+A series of questions on attitudes and beliefs were included. Each response was on a 5-point scale, where 1 = Strongly Agree, to 5 = Strongly Disagree. We calculated the average score for each item. These results are shown on the following page.
+FAMILY ATTITUDES AND BELIEFS
+ITEM
+Average Score
+3 = Neutral < 3 = Agree >3 = Disagree
+13.
+14.
+I believe that my relative has reached (his/her) highest level of educational and psychological development and will not progress much beyond the level (he/she) is at now. . When my relative lives away from home, I prefer that (he/she) remain in the same place for (his/her) entire lifetime.
+CLA	(Current
+families pennhyrst
+.. 2.38 (1.OT1116S)
+.. 2.18 (1.72)
+15. When my relative lives away from home, I prefer that (he/she) move from a more protected residential setting to a more open setting as (he/she) achieves greater self-help skills.
+.......... 3.57	(3.68)
+16.	Persons who work in community living arrangements are knowledgeable and skillful enough to handle all situations which may arise with regard to your mentally retarded relative.
+17.	I believe that funding for community living arrangements is secure and permanent.
+18.	I believe that all services needed by my relative are available to (him/her) in the community.
+19.	My family has not had to assume added financial burdens for the care of our relative since (he/she) left Pennhurst.
+.......... 2.29	(3.64)
+.......... 3.15	(3.82)
+.......... 2.33	(3.90)
+.......... 1.77	(3.03)
+20. Normalization means that, as much as possible, mentally retarded persons are given normal opportunities for living, working and school. In thinking about what your relative will need in the future, how much do you agree with this?
+.......... 1.97	(3.38)
+• The Least Restrictive Alternative says that mentally retarded persons should be allowed to live in places which are as much like normal homes as possible. In thinking about what your relative will need in the future, how much do you agree with this?
+1.89 (3.39)
+-8-
+22. Deinstitutionalization is the moving of mentally retarded persons from the institution into places in the community. In thinking about what your relative will need in the future, how much do you agree with this?
+23. How much do you agree with Federal District Court Judge Raymond Broderick's decision that all, or nearly all, Pennhurst residents should be moved into small community settings?
+.......... 2.61	(4.01)
+.......... 3.39	(3.55)
+Notice that items were phrased in two ways. For items 15 to 23, a low score (agreement) indicated support of the ideology behind deinstitution-alization;but for items 13 and 14, agreement (low score) implied opposition to these component ideals of deinstitutionalization.
+As in the survey of families of clients still at Pennhurst, the responses to items 13 and 14 were discouraging for proponents of the developmental model. Even these families, who have recently seen the process of relocation and believed the clients became happier, largely retained their belief that there was no potential for further growth, and that the client should remain forever in one residence. The average disagreement with item 15 corroborated this.
+Families generally had confidence in the competence of CLA staff (item 16), but were concerned about the permanence of CLA funding, (item 17). The availability of services in the community (item 18) seemed to inspire moderate confidence. There was strong agreement with no-extra-financial-burden (item 19), with normalization (item 20), and least-restrictive-alternative (item 21);
+-9-
+yet agreement with deinstitutionalization was weak, (item 22), and there was average disagreement with the Court decision to relocate all clients.
+This mixture of attitudes, apparently internally inconsistent, was difficult to interpret. It should provide fertile ground for further study and for careful professional attention to parental feelings.
+(The numbers in the last column, in parentheses, were included to show the average responses of current Pennhurst families. They were uniformly less positive about each aspect of deinstitutionalization.)
+STRESS
+We wished to compare the stress experienced by families during deinstitutionalization to that experienced at diagnosis and during initial institutionalization. The 5-point scale ranged from 1 = Very Stressful through 3 = Somewhat Stressful to 5 = Not At All Stressful. The results were:
+EVENT	AVERAGE STRESS REPORTED (CURRENT PENNHURST FAMILIES)
+Diagnosis	1.79	(1.96)
+Initial Institutionalization	1.73	(2.40)
+Deinstitutionalization	3.50	-
+The amount of stress reported	at deinstitutionalization	(3.50) was, on the
+average, between "somewhat stressful" and "slightly stressful." This was significantly less stress than was reported for the two prior events, (paired t - tests, p = .001 in both cases).
+-10-
+DISCUSSION
+The results presented here are, we believe, representative of the experiences of all 99 clients who were relocated to CLAs in the Southeast region from the date of the Court Order through April 30, 1980, and their families. However, those 99 clients/families are not representative of the group of clients/families still at Pennhurst. The results clearly show large differences in opinion between the "movers" families and the "stayers" families. Up to April 30, 1980, it was a very rare event for a client to be relocated over parental objections. The majority of families of these early movers agreed with, or did not strenuously object to, the notion of relocation. Any strenuous objection would almost certainly have delayed the relocation beyond April 30, 1980. So to a large extent, the families described in this report were always less opposed to relocation than the families of clients still at the institution. The feelings of the current Pennhurst families have been portrayed in a previous report (already cited, December 1, 1980).
+Despite that caution, it is of great interest that even these families, who initially favored relocation more than the average Pennhurst parent, favor the idea even more now that it has happened. Moreover, they are far more satisfied with the CLA setting on the whole than they were with the institutional setting.
+In another previous report (Preliminary Analysis of Client Progress, Pre and Post Relocation: A Matched Comparison Study, February 25, 1981) we demonstrated that relocated clients displayed greater developmental growth than matched peers who remained at Pennhurst. Now we can also claim that families of relocated clients perceive them to be happier in the CLAs than
+-11-
+they were at Pennhurst, and also to have better relationships with the families and with other people. Developmental growth may not be the sole criterion of whether people are better off after deinstitutionalization; but if one adds the criteria of family satisfaction, family involvement, and perceived client happiness, these early Pennhurst Study results also suggest that CLA settings are programat-ically superior to the institution.
+12

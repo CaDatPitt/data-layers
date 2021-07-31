@@ -1,0 +1,199 @@
+
+OF_IO THE_AT PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 
+,_, INC_JJ 917-1001_MCMC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 
+15233_MC (_( 412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 
+Mulgrav_NP1 Acting_VVG Executive_NN1 Director_NN1 Ronald_NP1 E._NP1 Arche_NP1 
+ACC-PARC_NP1 Res_JJ ident_NN1 I_PPIS1 a_AT1 I_PPIS1 Care_VV0 Comm_NP1 i_MC1 
+ttee_NN1 Visit_NN1 to_II Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 
+October_NPM1 II_MC ,_, 197_MC Ginny_NP1 Thornburgh_NP1 ,_, Jean_NP1 
+Isherwood_NP1 and_CC Bob_NP1 Nelkin_NP1 met_VVD with_IW Superintendent_NNB 
+Joseph_NP1 Columbatto_NP1 to_TO determine_VVI whether_CSW changes_NN2 
+were_VBDR occuring_VVG in_II the_AT care_NN1 of_IO Polk_NP1 State_NN1 
+School_NN1 and_CC Hospital_NN1 residents_NN2 Mr._NNB Columbatto_NP1 said_VVD 
+,_, It_PPH1 will_VM be_VBI possible_JJ to_TO attract_VVI physicians_NN2 to_II 
+Polk_NP1 eventually_RR ._. 
+With_IW overtime_RR pay_VV0 a_AT1 physician_NN1 could_VM earn_VVI $35,000_NNU 
+-_- $40,000_NNU ._. 
+Medical_JJ Schools_NN2 are_VBR now_RT graduating_VVG physicians_NN2 
+assistants_NN2 ._. 
+Is_VBZ there_EX any_DD way_NN1 to_TO get_VVI the_AT University_NN1 of_IO 
+Pittsburgh_NP1 graduates_NN2 (_( physicians_NN2 assistants_NN2 )_) to_TO 
+come_VVI to_II Polk_NP1 ._. 
+Ginny_NP1 Thornburgh_NP1 and_CC Jean_NP1 Isherwood_NP1 will_VM check_VVI 
+Annual_JJ physicals_NN2 have_VH0 not_XX been_VBN done_VDN for_IF years_NNT2 
+._. 
+"_" Of_IO the_AT 118_MC persons_NN2 in_II the_AT hospital_NN1 unit_NN1 ,_, 
+62_MC are_VBR long-term_JJ residential_JJ placements_NN2 ._. 
+We_PPIS2 are_VBR re-evaluating_VVG and_CC moving_VVG them_PPHO2 off_II the_AT 
+unit_NN1 "_" There_EX was_VBDZ no_AT nursing_JJ supervision_NN1 of_IO 
+medications_NN2 ._. 
+"_" The_AT charge_NN1 that_CST 18_MC nurses_NN2 were_VBDR relieved_VVN of_IO 
+duty_NN1 is_VBZ not_XX true_JJ ._. 
+They_PPHS2 were_VBDR redeployed_VVN to_II other_JJ shifts_NN2 ._. 
+"_" Ive_NN1 taken_VVN the_AT decision_NN1 making_VVG powers_NN2 from_II the_AT 
+two_MC physicians_NN2 ._. 
+"_" There_EX is_VBZ inadequate_JJ staffing_NN1 in_II all_DB the_AT 
+cottages_NN2 in_II Polk_NP1 except_II21 for_II22 Northside_NP1 Building_NN1 
+._. 
+We_PPIS2 run_VV0 from_II .7_MC to_II 256_MC )_) 6_MC understaffed_JJ "_" "_" 
+I_PPIS1 would_VM rather_RR remove_VVI 1000_MC residents_NN2 than_CSN get_VV0 
+1200_MC new_JJ staff_NN ._. 
+After_CS we_PPIS2 remove_VV0 the_AT 1000_MC residents_NN2 ,_, Ill_NP1 need_VV0 
+another_DD1 430_MC staff_NN to_II beef_NN1 up_II Social_JJ Service_NN1 and_CC 
+Total_JJ Care_NN1 Units_NN2 "_" Member_NN1 Unit_NN1 -_- National_JJ 
+Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, Inc_JJ ._. 
+Participant_NN1 in_II the_AT Allegheny_NP1 County_NN1 Mental_JJ 
+Health/Mental_FU Retardation_NN1 Progra_NP1 Visit_NN1 to_II Polk_NP1 State_NN1 
+Hospita_NP1 October_NPM1 II_MC ,_, 197_MC Page_NN1 "_" In_BCL21 order_BCL22 
+to_TO meet_VVI the_AT JCAHs_NP2 standards_NN2 with_IW present_JJ bed_NN1 
+capacity_NN1 ,_, I_PPIS1 need_VV0 1,196_MC new_JJ staff_NN ._. 
+If_CS I_PPIS1 reduce_VV0 the_AT bed_NN1 capacity_NN1 to_TO meet_VVI JCAH_NN1 
+standards_NN2 I_PPIS1 would_VM need_VVI 470_MC new_JJ staff_NN ._. 
+"_" To_TO meet_VVI Medical_JJ Assistance_NN1 standards_NN2 at_II the_AT 
+present_JJ bed_NN1 capacity_NN1 I_PPIS1 would_VM need_VVI 772_MC new_JJ 
+staff_NN ._. 
+If_CS I_PPIS1 met_VVD the_AT Medical_JJ Assistance_NN1 bed_NN1 capacity_NN1 
+standards_NN2 ,_, I_PPIS1 would_VM need_VVI 511_MC new_JJ staff_NN ._. 
+"_" There_EX are_VBR no_AT really_RR good_JJ delicatessens_NN2 in_II the_AT 
+Polk_NP1 area_NN1 ._. 
+Mr._NNB Columbatto_NP1 would_VM appreciate_VVI any_DD contributions_NN2 of_IO 
+bagles_NN2 ._. 
+"_" Last_MD week_NNT1 the_AT staff_NN was_VBDZ present_JJ at_II a_AT1 
+demonstration_NN1 In_II Adaptive_NP1 Therapeutic_JJ Systems_NN2 Equipment_NN1 
+._. 
+This_DD1 equipment_NN1 helps_VVZ a_AT1 child_NN1 teach_VVI himself_PPX1 
+feeding_VVG ,_, etc._RA $50,000_NNU worth_NN1 of_IO these_DD2 chairs_NN2 
+will_VM prove_VVI Its_APPGE worth_NN1 and_CC further_JJR more_RRR the_AT 
+children_NN2 will_VM learn_VVI to_TO feed_VVI themselves_PPX2 ._. 
+"_" The_AT only_JJ surgery_NN1 going_VVG on_RP In_II the_AT Polk_NP1 
+Hospital_NN1 Is_VBZ minor_JJ orthopedics_NN1 surgery_NN1 by_II two_MC 
+surgical_JJ consultants_NN2 ._. 
+Our_APPGE long_JJ range_NN1 goal_NN1 Is_VBZ to_TO use_VVI the_AT Franklin_NP1 
+Hospital_NN1 ,_, up_II21 to_II22 now_RT they_PPHS2 are_VBR afraid_JJ to_TO 
+get_VVI involved_JJ with_IW us_PPIO2 ._. 
+"_" Ive_NP1 created_VVD a_AT1 commission_NN1 on_II human_JJ rights_NN2 ._. 
+This_DD1 commission_NN1 includes_VVZ line_NN1 level_NN1 persons_NN2 (_( 
+Child_NN1 Care_NN1 Workers_NN2 )_) "_" "_" Only_RR 29_MC out_II21 of_II22 
+1900_MC staff_NN are_VBR not_XX members_NN2 of_IO the_AT Unions_NN2 "_" "_" 
+There_EX were_VBDR on_II going_VVG studies_NN2 on_II absenteeism_NN1 going_VVG 
+back_RP several_DA2 years_NNT2 ._. 
+Absenteeism_NN1 has_VHZ not_XX increased_VVN since_II weve_NN1 been_VBN 
+here_RL "_" "_" The_AT Legislature_NN1 should_VM change_VVI the_AT 
+benefits_NN2 relating_VVG to_TO accurlng_VVI sick_JJ time_NNT1 ._. 
+Presently_RR there_EX are_VBR no_AT benefits_NN2 for_IF accurlng_NN1 sick_JJ 
+time_NNT1 ._. 
+"_" We_PPIS2 are_VBR trying_VVG to_TO arrange_VVI a_AT1 Personal_JJ 
+Services_NN2 Contract_VV0 with_IW a_AT1 painter_NN1 to_TO do_VDI artistic_JJ 
+work_NN1 in_II the_AT day_NNT1 rooms_NN2 ._. 
+This_DD1 will_VM be_VBI stuff_NN1 that_CST we_PPIS2 can_VM move_VVI around_RP 
+._. 
+"_" Ive_NP1 had_VHD great_JJ support_NN1 from_II the_AT dietary_JJ workers_NN2 
+._. 
+They_PPHS2 supported_VVD the_AT co-educationa_NN1 I_MC1 dining_NN1 room_NN1 
+._. 
+For_IF 4_MC days_NNT2 this_DD1 co-educationaI_VVZ dining_NN1 room_NN1 
+arrangement_NN1 was_VBDZ sabotaged_VVN by_II the_AT Child_NN1 Care_NN1 
+Workers_NN2 ._. 
+They_PPHS2 just_RR stood_VVD back_RP and_CC let_VV0 trays_NN2 fall_VVI ,_, 
+etc_RA ._. 
+It_PPH1 Is_VBZ now_RT working_VVG well_RR In_II both_RR Northside_NP1 and_CC 
+Souths_NP1 Ide_NP1 ._. 
+"_" You_PPY have_VH0 to_TO get_VVI to_TO know_VVI the_AT area_NN1 ._. 
+Mr._NNB Columbatto_NP1 went_VVD on_RP to_TO describe_VVI It_PPH1 as_II a_AT1 
+conservative_JJ bible_NN1 belt_NN1 ._. 
+Visit_VV0 to_II Polk_NP1 State_NN1 Hospital_NN1 October_NPM1 II_MC ,_, 197_MC 
+Page_NN1 The_AT morale_NN1 is_VBZ pretty_RG good_JJ In_II the_AT nursery_NN1 
+._. 
+However_RR ,_, Its_APPGE pretty_RG bad_JJ In_II Gardenside_NP1 and_CC 
+areas_NN2 like_II that._DD1 ln_NNU Connecticut_NP1 we_PPIS2 had_VHD a_AT1 
+philosophy_NN1 that_CST It_PPH1 was_VBDZ Inconstitutional_JJ to_TO give_VVI 
+a_AT1 bed_NN1 to_II a_AT1 family_NN1 for_IF their_APPGE lifetime_NNT1 (_( 
+indicating_VVG that_CST the_AT philosophy_NN1 was_VBDZ short-term_JJ 
+intensive_JJ treatment_NN1 )_) ._. 
+"_" We_PPIS2 are_VBR doing_VDG a_AT1 staffing_NN1 conference_NN1 on_II 25_MC 
+to_II 30_MC persons_NN2 per_II week_NNT1 ._. 
+"_" There_EX was_VBDZ no_AT readiness_NN1 (_( for_IF the_AT community_NN1 )_) 
+program_NN1 prior_II21 to_II22 our_APPGE coming_VVG on_RP ._. 
+"_" The_AT dentists_NN2 are_VBR doing_VDG a_AT1 dental_JJ review_NN1 on_II 
+each_DD1 patient_NN1 once_RR a_AT1 year_NNT1 ._. 
+The_AT Dental_JJ Department_NN1 wants_VVZ me_PPIO1 to_TO hire_VVI a_AT1 
+dental_JJ hygenlst_NN1 ._. 
+I_MC1 cant_JJ guarantee_NN1 that_CST oral_JJ hygiene_NN1 is_VBZ being_VBG 
+accomplished_VVN every_AT1 day_NNT1 for_IF each_DD1 resident._NNU 1_MC1 do_VD0 
+nt_XX have_VHI a_AT1 problem_NN1 ._. 
+We_PPIS2 all_DB have_VH0 a_AT1 problem_NN1 ._. 
+Thats_NN2 what_DDQ I_PPIS1 tell_VV0 the_AT people_NN In_II Harrisburg_NP1 ._. 
+"_" Parents_NN2 ought_VMK to_TO see_VVI where_RRQ their_APPGE kids_NN2 
+live_VV0 ,_, but_CCB I_PPIS1 do_VD0 nt_XX want_VVI them_PPHO2 just_RR 
+comeing_VVG In_RP ,_, folding_VVG their_APPGE hands_NN2 ,_, stand_VV0 over_RP 
+the_AT staff_NN and_CC observe_VV0 ._. 
+If_CS its_APPGE mealtime_NNT1 ,_, the_AT parent_NN1 should_VM feed_VVI 
+their_APPGE kid_NN1 ._. 
+If_CS their_APPGE child_NN1 needs_NN2 changed_VVN ,_, they_PPHS2 should_VM 
+change_VVI their_APPGE child_NN1 ._. 
+"_" Im_VV0 not_XX changing_VVG the_AT visitation_NN1 rules_NN2 now_RT 
+because_CS I_PPIS1 think_VV0 it_PPH1 would_VM be_VBI overwhelming_JJ to_II 
+the_AT parents_NN2 ._. 
+Theyd_NP1 have_VH0 to_TO stop_VVI saying_VVG Polk_NP1 Is_VBZ fantastic_JJ 
+and_CC the_AT staff_NN wouldnt_NN1 be_VBI able_JK to_TO get_VVI their_APPGE 
+Job_NN1 done_VDN ._. 
+"_" The_AT same_DA people_NN live_VV0 in_II Cottage_NN1 #1_NNU that_DD1 
+lived_VVD there_RL before_RT ._. 
+No_PN121 one_PN122 else_RR has_VHZ moved_VVN into_II Cottage_NN1 #1_NNU ._. 
+Cottage_NN1 #1_NNU reform_NN1 started_VVD prior_II21 to_II22 me_PPIO1 
+coming_VVG In_RP and_CC I_PPIS1 have_VH0 left_VVN it_PPH1 alone_JJ ._. 
+In_II31 response_II32 to_II33 questions_NN2 about_II what_DDQ sort_NN1 of_IO 
+punishment_NN1 is_VBZ permitted_VVN ,_, 1_MC1 would_VM deprive_VVI someone_PN1 
+of_IO a_AT1 movie_NN1 or_CC a_AT1 week-end_NNT1 dance_NN1 ,_, etc_RA ._. 
+There_EX Is_VBZ no_AT corporal_JJ punishment_NN1 ._. 
+Last_MD week_NNT1 we_PPIS2 dismissed_VVD a_AT1 staff_NN person_NN1 for_IF 
+use_NN1 of_IO corporal_JJ punishment._NNU 1_MC1 would_VM like_VVI to_TO 
+have_VHI an_AT1 autopsy_NN1 on_II every_AT1 death_NN1 ._. 
+"_" I_PPIS1 would_VM welcome_VVI an_AT1 advocate_NN1 "_" from_II ACC-PARC_NP1 
+"_" in_II 10_MC months_NNT2 ._. 
+Right_RR now_RT we_PPIS2 got_VVD to_TO give_VVI our_APPGE staff_NN a_AT1 
+chance_NN1 ._. 
+Were_VBDR professionals_NN2 and_CC we_PPIS2 should_VM be_VBI advocates_NN2 
+also_RR ._. 
+"_" You_PPY cant_JJ Just_JJ issue_NN1 directives_NN2 ._. 
+I_PPIS1 could_VM dictate_VVI a_AT1 policy_NN1 right_RR now_RT ,_, have_VH0 
+it_PPH1 typed_VVN up_RP and_CC published_VVN ._. 
+But_CCB you_PPY have_VH0 to_TO substitute_VVI something_PN1 positive_JJ for_IF 
+the_AT something_PN1 negative_JJ you_PPY are_VBR removing_VVG ._. 
+Visit_VV0 to_II Polk_NP1 State_NN1 Hospita_NP1 October_NPM1 II_MC ,_, 197_MC 
+Page_NN1 "_" There_EX are_VBR four_MC major_JJ cottages_NN2 where_RRQ 
+restraints_NN2 are_VBR being_VBG used_VVN :_: Gardenside_NP1 ,_, 
+Meadowside_NP1 ,_, Woodside_NP1 and_CC Lakeside_NP1 ._. 
+Our_APPGE goal_NN1 is_VBZ to_TO reduce_VVI the_AT numbers_NN2 ,_, hours_NNT2 
+and_CC time_NNT1 ,_, people_NN are_VBR in_II restraints_NN2 ._. 
+In_II31 response_II32 to_II33 the_AT question_NN1 how_RRQ people_NN ,_, if_CS 
+tied_VVN to_II their_APPGE beds_NN2 ,_, get_VV0 out_RP in_II31 case_II32 
+of_II33 fire_NN1 ,_, "_" They_PPHS2 are_VBR tied_VVN to_II the_AT beds_NN2 
+with_IW a_AT1 clove_NN1 hitch_NN1 which_DDQ is_VBZ easy_JJ for_IF another_DD1 
+person_NN1 to_TO pull_VVI out_RP ._. 
+"_" I_PPIS1 would_VM like_VVI to_TO see_VVI us_PPIO2 eliminate_VVI all_DB 
+bed_NN1 tops_NN2 (_( including_II crib_NN1 nets_NN2 )_) ._. 
+There_EX are_VBR close_JJ to_II 100_MC crib_NN1 nets_NN2 in_II use_NN1 now_RT 
+._. 
+"_" There_EX are_VBR 5_MC living_JJ areas_NN2 with_IW over_RG 90_MC beds_NN2 
+in_II a_AT1 room_NN1 ._. 
+"_" We_PPIS2 are_VBR shifting_JJ population_NN1 internally_RR ,_, trying_VVG 
+to_TO get_VVI children_NN2 with_IW children_NN2 and_CC adults_NN2 with_IW 
+adults_NN2 ._. 
+"_" Some_DD staff_NN are_VBR getting_VVG hurt_JJ without_IW the_AT 
+availability_NN1 of_IO the_AT cages_NN2 ._. 
+Of_RR21 course_RR22 some_DD of_IO that_DD1 is_VBZ a_AT1 self_NN1 
+fulfilling_VVG prophecy_NN1 ._. 
+"_" We_PPIS2 have_VH0 to_TO stop_VVI thinking_NN1 of_IO 
+institutionalization_NN1 as_CSA long-term_JJ care_NN1 ._. 
+We_PPIS2 have_VH0 to_TO create_VVI waiting_VVG lists_NN2 for_IF Base_NN1 
+Service_NN1 Units_NN2 (_( of_IO people_NN coming_VVG out_II21 of_II22 Polk_NP1 
+)_) ._. 
+"_" When_CS the_AT BSU_NN1 admits_VVZ someone_PN1 to_II Polk_NP1 ,_, 
+they_PPHS2 better_RRR tell_VVI us_PPIO2 what_DDQ they_PPHS2 want_VV0 us_PPIO2 
+to_TO accomplish_VVI (_( That_DD1 will_VM have_VHI to_TO be_VBI in_II small_JJ 
+pieces_NN2 so_CS21 that_CS22 we_PPIS2 can_VM accomplish_VVI it_PPH1 )_) and_CC 
+how_RGQ long_RR we_PPIS2 have_VH0 to_TO accomplish_VVI it_PPH1 ._. "_" 
+He_PPHS1 proposes_VVZ admission_NN1 procedure_NN1 changes_NN2 in_II term_NN1 
+of_IO amendment_NN1 to_II the_AT 1966_MC MH/MR_FU Act_NN1 RN/ps_FU 
+--2cdb9f0c052bb57e2fe1b71633516ad6--_FU 

@@ -1,0 +1,53 @@
+
+VISIT_VV0 TO_II CHILDRENS_NN2 REHABILITATION_NN1 CENTER_NN1 ,_, BUTLER_NP1 ,_, 
+PENNSYLVAN_NP1 I_ZZ1 A_ZZ1 ,_, JANUARY_NPM1 I_MC1 ,_, 197_MC Visitors_NN2 :_: 
+ACC-PARC_NP1 :_: Virginia_NP1 Thornburgh_NP1 ,_, Chairman_NN1 ;_; Bob_NP1 
+Nelkin_NP1 ,_, Staff_NN Member_NN1 ;_; Lorraine_NP1 Stefflns_NP1 ,_, Mental_JJ 
+Health/Mental_FU Retardation_NN1 Specialist_NN1 ,_, Regional_JJ DPW_NP1 
+Staf_NP1 After_II being_VBG refused_VVN admission_NN1 on_II Friday_NPD1 
+we_PPIS2 called_VVD Ralph_NP1 Meador_NP1 ,_, Commissioner_NN1 of_IO Mental_JJ 
+Heal_NP1 th/Mental_FU Retardation_NN1 for_IF the_AT Western_JJ Region_NN1 
+and_CC Normam_NP1 Taylor_NP1 ,_, Deputy_NN1 Secretary_NN1 of_IO Welfare_NN1 
+for_IF this_DD1 region_NN1 ._. 
+Both_DB2 were_VBDR sympathetic_JJ to_II our_APPGE cause_NN1 and_CC 
+suggested_VVD that_DD1 wo_FU attempt_NN1 to_TO visit_VVI again_RT with_IW 
+a_AT1 DPW_NP1 staff_NN member_NN1 ._. 
+Arrangements_NN2 were_VBDR made_VVN over_II the_AT week-end_NNT1 Mrs._NNB 
+May_NP1 ,_, the_AT Director_NN1 ,_, met_VVD us_PPIO2 at_II the_AT facility_NN1 
+._. 
+She_PPHS1 was_VBDZ openly_RR hostile_JJ toward_II Mrs._NNB Thornburgh_NP1 
+and_CC myself_PPX1 and_CC our_APPGE visit_NN1 ._. 
+We_PPIS2 then_RT took_VVD a_AT1 brief_JJ tour_NN1 observing_VVG all_DB the_AT 
+children_NN2 ._. 
+We_PPIS2 did_VDD not_XX take_VVI staff_NN away_II21 from_II22 direct_JJ 
+work_NN1 As_II a_AT1 result_NN1 of_IO the_AT strike_NN1 ,_, the_AT Center_NN1 
+Is_VBZ understaffed_JJ ._. 
+The_AT children_NN2 appear_VV0 to_TO be_VBI receiving_VVG adequate_JJ care_NN1 
+but_CCB little_DA1 programming_NN1 ._. 
+Mrs._NNB May_NP1 suggested_VVD that_CST within_II another_DD1 month_NNT1 
+she_PPHS1 hopes_VVZ to_TO have_VHI the_AT Center_NN1 back_RP to_II 100_MC ?_? 
+staffing_NN1 ._. 
+At_II the_AT present_JJ time_NNT1 R.N.s_NP2 are_VBR directly_RR caring_VVG 
+for_IF the_AT children_NN2 ._. 
+Most_DAT of_IO the_AT children_NN2 were_VBDR Inactive_JJ ._. 
+The_AT more_RGR ambulatory_JJ higher_JJR functioning_NN1 children_NN2 
+were_VBDR going_VVG outside_RL to_TO play_VVI on_II the_AT playground_NN1 ._. 
+Another_DD1 group_NN1 sat_VVD uninvolved_JJ with_IW the_AT blaring_JJ 
+television_NN1 ._. 
+Most_DAT of_IO the_AT physically_RR handicapped_JJ children_NN2 were_VBDR 
+In_II their_APPGE cribs_NN2 sleeping_VVG ._. 
+The_AT children_NN2 appeared_VVD generally_RR clean_VV0 The_AT exception_NN1 
+to_II our_APPGE observations_NN2 was_VBDZ a_AT1 room_NN1 for_IF 
+hyper-active_JJ children_NN2 ._. 
+These_DD2 children_NN2 were_VBDR not_XX clean_JJ and_CC were_VBDR 
+supervised_VVN by_II a_AT1 staff_NN member_NN1 busy_VV0 getting_VVG other_JJ 
+children_NN2 dressed_VVN to_TO go_VVI outside_RL ._. 
+She_PPHS1 was_VBDZ not_XX visually_RR In_II sight_NN1 of_IO these_DD2 
+children_NN2 who_PNQS were_VBDR more_RGR likely_JJ to_TO get_VVI Into_II 
+difficulty_NN1 A_ZZ1 room_NN1 marked_JJ Examination_NN1 Room_NN1 Is_VBZ 
+actually_RR a_AT1 space_NN1 for_IF a_AT1 candy_NN1 machine_NN1 and_CC 
+cigarette_NN1 machine_NN1 ._. 
+Although_CS on_II Friday_NPD1 we_PPIS2 felt_VVD the_AT building_NN1 was_VBDZ 
+very_RG cold_JJ ,_, today_RT the_AT temperature_NN1 seemed_VVD adequate_JJ ._. 
+There_EX was_VBDZ a_AT1 typical_JJ yet_RR not_XX overwhelming_JJ stench_NN1 
+of_IO urine_NN1 --7e6cbb46cf634ffa62b74efbfc162207--_FU 

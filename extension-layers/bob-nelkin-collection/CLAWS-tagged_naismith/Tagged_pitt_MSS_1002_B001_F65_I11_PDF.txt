@@ -1,0 +1,29 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFARE_NN1 WESTERN_NP1 REGIO_NP1 PITTSBURGH_NP1 STATE_NN1 OFFICE_NN1 
+BUILDING_NN1 PITTSBURGH_NP1 ,_, PENNSYLVANIA_NP1 1522_MC TELEPHONE_VV0 :_: 
+412,565-5220_MCMC December_NPM1 21_MC ,_, 197_MC Mr._NNB Charles_NP1 A._NP1 
+Peter_NP1 Executive_NN1 Directo_NP1 Allegheny_NP1 County_NN1 Chapte_NN1 of_IO 
+The_AT Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, 
+Inc._JJ 917-1001_MCMC Brighton_NP1 Roa_NP1 Pittsburgh_NP1 ,_, Pennsylvani_JJ 
+Dear_JJ Chuck_NP1 I_PPIS1 agree_VV0 with_IW your_APPGE assessment_NN1 of_IO 
+MrjHB1_FO s_ZZ1 letter_NN1 ,_, a_AT1 copy_NN1 of_IO which_DDQ you_PPY 
+forwarded_VVD to_II me_PPIO1 ._. 
+It_PPH1 does_VDZ seem_VVI inappropriate_JJ to_TO prohibit_VVI private_JJ 
+use_NN1 of_IO a_AT1 telephone_NN1 between_II residents_NN2 in_II a_AT1 
+state_NN1 facility_NN1 (_( including_II Folk_NN )_) and_CC their_APPGE 
+families_NN2 ._. 
+As_II a_AT1 matter_JJ31 of_JJ32 Fact_JJ33 ,_, this_DD1 will_VM be_VBI one_MC1 
+of_IO the_AT rights_NN2 in_II the_AT "_" Bill_NN1 of_IO Rights_NN2 "_" for_IF 
+the_AT mentally_RR retarded_JJ in_II institutions_NN2 and_CC private_JJ 
+licensed_JJ facilities_NN2 With_II31 regard_II32 to_II33 Polk_NP1 State_NN1 
+School_NN1 and_CC Hospital_NN1 ,_, we_PPIS2 will_VM instruct_VVI Dr._NNB 
+McClelland_NP1 to_TO review_VVI and_CC appropriately_RR revise_VVI his_APPGE 
+rule_NN1 to_TO permit_VVI use_NN1 of_IO a_AT1 private_JJ pay_NN1 telephone_NN1 
+I_PPIS1 am_VBM referring_VVG your_APPGE letter_NN1 with_IW attachments_NN2 
+along_II21 with_II22 my_APPGE letter_NN1 to_II you_PPY to_II my_APPGE staff_NN 
+._. 
+They_PPHS2 will_VM follow-up_NN1 with_IW Dr._NNB McClelland_NP1 Thank_VV0 
+you_PPY for_IF referring_VVG this_DD1 information_NN1 to_II us_PPIO2 
+Sincerely_RR Ralph_NP1 L._NP1 Meado_NP1 Commissione_NP1 Mental_JJ Health_NN1 
+and_CC Mental_JJ Retardation_NN1 --ffe30c5632bf581054fe0cc5ea47f107--_FU 

@@ -1,0 +1,57 @@
+
+NATIONS_NN2 MR_NNB INSTITUTIONS_NN2 STUDIE_NN1 DR_NNB ._. 
+EDWARD_NP1 EAGLE_NN1 ,_, IAMR_NP1 RESEARCH_NN1 CHAIRMAN_NN1 ,_, recently_RR 
+completed_VVN a_AT1 study_NN1 of_IO the_AT rankings_NN2 of_IO state_NN1 
+institutions_NN2 for_IF the_AT retarded_JJ throughout_II the_AT country_NN1 
+,_, based_VVN on_II five_MC parameters_NN2 (_( measures_NN2 )_) ._. 
+The_AT study_NN1 is_VBZ based_VVN on_II 1971_MC data_NN ,_, which_DDQ is_VBZ 
+the_AT latest_JJT information_NN1 obtainable_JJ ._. 
+The_AT states_NN2 are_VBR ranked_VVN 1_MC1 to_II 50_MC in_II each_DD1 
+parameter_NN1 with_IW 1_MC1 being_VBG the_AT best_JJT and_CC 50_MC the_AT 
+worst_JJT state_NN1 in_II that_DD1 category_NN1 ._. 
+The_AT numbers_NN2 in_II parenthesis_NN1 in_II Illinois_NP1 are_VBR the_AT 
+1970_MC rankings_NN2 for_IF comparison_NN1 purposes_NN2 STATE_VV0 RANKINGS_NN2 
+FOR_IF VARIOUS_JJ PARAMETERS_NN2 OF_IO RESIDENTIAL_JJ CARE_NN1 IN_II STATE_NN1 
+INSTITUTIONS_NN2 FOR_IF THE_AT MENTALLY_RR RETARDED_JJ ,_, FISCAL_JJ 1971_MC 
+State_NN1 Rank_NN1 for_IF maintenance_NN1 expenditure1_FO Rank_NN1 for_IF 
+number_NN1 of_IO full-time_JJ personnel31_FO Rank_NN1 for_IF least_DAT 
+number_NN1 of_IO deaths31_FO Rank_NN1 for_IF total_JJ admissions_NN2 Rank_VV0 
+for_IF net_NN1 releases_VVZ alive_JJ from_II institutions_NN2 Alabama_NP1 
+47_MC 48_MC 28_MC 41_MC 4_MC Alaska_NP1 1_MC1 2_MC 1_MC1 3_MC Arizona_NP1 
+41_MC 30_MC 9_MC 44_MC 4_MC Arkansas_NP1 16_MC 4_MC 25_MC 21_MC 4_MC 
+California_NP1 4_MC 18_MC 45_MC 31_MC 1_MC1 Colorado_NP1 12_MC 27_MC 11_MC 
+36_MC 2_MC Connecticut_NP1 8_MC 19_MC 23_MC 4_MC Delaware_NP1 32_MC 14_MC 4_MC 
+34_MC 3_MC Florida_NP1 28_MC 16_MC 47_MC 25_MC 3_MC Georgia_NP1 2_MC 1_MC1 
+7_MC 2_MC 1_MC1 Hawaii_NP1 20_MC 41_MC 24_MC 33_MC 4_MC Idaho_NP1 24_MC 29_MC 
+49_MC 7_MC 1_MC1 Illinois_NP1 6_MC (_( 13_MC )_) 10_MC (_( 18_MC )_) 44_MC (_( 
+34_MC )_) 26_MC (_( 37_MC )_) 4_MC (_( 16_MC Indiana_NP1 26_MC 22_MC 30_MC 
+42_MC 3_MC Iowa_NP1 9_MC 7_MC 3_MC 23_MC 1_MC1 Kansas_NP1 5_MC 6_MC 37_MC 9_MC 
+2_MC Kentucky_NP1 33_MC 24_MC 10_MC 6_MC Louisiana_NP1 35_MC 25_MC 19_MC 27_MC 
+4_MC Maine_NP1 10_MC 9_MC 14_MC 12_MC Maryland_NP1 29_MC 31_MC 34_MC 5_MC 
+1_MC1 Mas_JJ sachusetts_NN2 22_MC 35_MC 38_MC 40_MC 2_MC Michigan_NP1 14_MC 
+38_MC 35_MC 48_MC 2_MC Minne_NP1 sota_NN1 15_MC 17_MC 5_MC 30_MC 1_MC1 
+Mississippi_NP1 49_MC 46_MC 22_MC 16_MC 3_MC Missouri_NP1 18_MC 5_MC 29_MC 
+1_MC1 Montana_NP1 38_MC 36_MC 41_MC 29_MC 1_MC1 Nebraska_NP1 '_GE 37_MC 28_MC 
+31_MC 49_MC New_NP1 Hampshire_NP1 39_MC 42_MC 42_MC 47_MC 3_MC New_NP1 
+Jersey_NP1 31_MC 33_MC 16_MC 28_MC 4_MC New_NP1 Mexico_NP1 19_MC 8_MC 27_MC 
+22_MC 1_MC1 New_NP1 York_NP1 17_MC 20_MC 40_MC 45_MC 4_MC North_ND1 
+Carolina_NP1 36_MC 34_MC 43_MC 15_MC 2_MC North_ND1 Dakota_NP1 48_MC 40_MC 
+48_MC 37_MC 1_MC1 Ohio_NP1 42_MC 47_MC 32_MC 39_MC 3_MC Oklahoma_NP1 23_MC 
+13_MC 18_MC 20_MC 2_MC Oregon_NP1 34_MC 44_MC 8_MC 46_MC 3_MC Pennsylvania_NP1 
+13_MC 21_MC 17_MC 38_MC 2_MC Rhode_NP1 Island_NNL1 11_MC 37_MC 6_MC 32_MC 4_MC 
+South_NP1 Carolina_NP1 45_MC 43_MC 21_MC 10_MC 2_MC South_NP1 Dakota_NP1 46_MC 
+49_MC 33_MC 11_MC 1_MC1 Tennessee_NP1 27_MC 12_MC 43_MC 19_MC 3_MC Texas_NP1 
+40_MC 39_MC 15_MC 8_MC 2_MC Utah_NP1 25_MC 15_MC 36_MC 14_MC 2_MC Vermont_NP1 
+21_MC 23_MC 2_MC 17_MC Virginia_NP1 44_MC 45_MC 46_MC 24_MC 3_MC 
+Washington_NP1 -_- 7_MC 26_MC 20_MC 18_MC West_NP1 Virginia_NP1 30_MC 3_MC 
+26_MC 35_MC 4_MC Wi_JJ sconsin_NN1 3_MC 11_MC 39_MC 13_MC 2_MC Wyoming_NP1 
+43_MC 32_MC 12_MC 43_MC 4_MC *Prepared_FO by_II Edward_NP1 Eagle_NN1 ,_, 
+Ph_NN1 ._. 
+D._NP1 ,_, Illinois_NP1 Association_NN1 for_IF the_AT Mentally_RR Retarded_JJ 
+,_, from_II basic_JJ data_NN supplied_VVN by_II Division_NN1 of_IO 
+Developmental_JJ Disabilities_NN2 ,_, Rehabilitation_NN1 Services_NN2 
+Administration_NN1 ,_, U.S._NP1 Dept_NN1 ,_, of_IO Health_NN1 ,_, 
+Education_NN1 and_CC Welfare_NN1 ,_, 1973_MC rPer_JJR average_JJ daily_JJ 
+resident_NN1 ._. 
+nPer_NN1 1000_MC average_JJ daily_JJ residents_NN2 
+--381adcff39f92a24e63aedb4c0802f7c--_FU 

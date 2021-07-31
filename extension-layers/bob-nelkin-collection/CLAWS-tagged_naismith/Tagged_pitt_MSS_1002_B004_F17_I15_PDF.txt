@@ -1,0 +1,14 @@
+
+#_FO H_ZZ1 /_FO f_ZZ1 April_NPM1 27_MC ,_, 197_MC Mrs._NNB Helen_NP1 
+Wohlgemuth_NP1 ,_, Secretary_NN1 of_IO Welfare_NN1 ,_, Harrisburg_NP1 ,_, 
+Pa._NP1 1710_MC Dear_JJ Mr._NNB Wohlgemuth_NP1 Wont_NN1 you_PPY please_RR 
+reconsider_VV0 and_CC reinstate_VV0 Dr._NNB James_NP1 McClelland_NP1 as_CSA 
+Superintendant_NN1 of_IO Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 
+Upon_II checking_VVG into_II Dr._NNB McClellands_NP1 service_NN1 to_II 
+Polk_NP1 ,_, you_PPY -will_JJ find_VV0 him_PPHO1 compassionate_JJ and_CC 
+dedicated_VVD I_PPIS1 feel_VV0 we_PPIS2 can_VM not_XX afford_VVI to_TO 
+lose_VVI this_DD1 man_NN1 at_II Polk_NP1 ,_, and_CC I_PPIS1 ask_VV0 that_CST 
+you_PPY reconsider_VV0 your_APPGE early_JJ decision_NN1 Eleanor_NP1 S._NP1 
+Etter_NP1 4717_MC Homeland_NN1 Blvd_NP1 ._. 
+Erie_NP1 ,_, Pa._NP1 1650_MC rw_NNU TJ_NP1 
+--fde6c9f865f3fb39a9a13681c7d0a4e9--_FU 

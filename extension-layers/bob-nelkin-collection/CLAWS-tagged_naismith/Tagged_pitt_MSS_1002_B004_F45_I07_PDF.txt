@@ -1,0 +1,55 @@
+
+I_MC1 COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFAR_NN1 WESTERN_JJ STATE_NN1 SCHOOL_NN1 AND_CC HOSPITAL_NN1 333_MC 
+Curry_NP1 Hill_NNL1 Road_NN1 Canonsburg_NP1 ,_, Pennsylvania_NP1 1531_MC 
+ROBERT_NP1 J._NP1 HILTNER_NN1 ,_, ACSW_NP1 SUPERINTENDEN_NP1 March_NPM1 7_MC 
+,_, 197_MC TELEPHON_NP1 AREA_NN1 CODE_NN1 412_MC ,_, 745-070_MCMC Hr_NNU ._. 
+Charlas_NP1 Peters_NP Executive_NN1 Director_NN1 Allegheny_NP1 County_NN1 
+Chapter_NN1 PARC_NP1 917-1001_MCMC Brighton_NP1 Road_NNL1 Pittsburgh_NP1 ,_, 
+Pennsylvania_NP1 123_MC Dear_JJ Chuck_NP1 In_II thinking_VVG over_RP our_APPGE 
+meeting_NN1 of_IO the_AT afternoon_NNT1 of_IO March_NPM1 1_MC1 ,_, it_PPH1 
+seemed_VVD to_II me_PPIO1 that_CST it_PPH1 would_VM be_VBI in_II everyones_NN2 
+interest_NN1 if_CS I_PPIS1 would_VM put_VVI in_II writing_VVG my_APPGE 
+understanding_NN1 of_IO the_AT agreements_NN2 reached_VVN in_II our_APPGE 
+discussion#_FO Please_RR let_VV0 me_PPIO1 know_VVI if_CSW your_APPGE 
+understanding_NN1 differs_VVZ from_II mine_PPGE on_II any_DD point_NN1 1_MC1 
+._. 
+Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 recognizes_VVZ the_AT 
+legitimacy_NN1 of_IO the_AT Allegheny_NP1 County_NN1 Chapters_NN2 role_NN1 
+as_II an_AT1 advocate_NN1 for_IF residents_NN2 of_IO WSSH_NP1 and/or_CC 
+their_APPGE parents_NN2 or_CC guardians#_FO It_PPH1 was_VBDZ agreed_VVN ,_, 
+however_RR ,_, that_CST WSSH_NP1 must_VM ,_, for_IF its_APPGE protection_NN1 
+,_, require_VV0 a_AT1 statement_NN1 signed_VVN by_II the_AT parent_NN1 or_CC 
+guardian_NN1 indicating_VVG that_CST the_AT Allegheny_NP1 County_NN1 
+Chapter_NN1 has_VHZ been_VBN authorized_VVN by_II the_AT parent_NN1 or_CC 
+guardian_NN1 to_TO act_VVI for_IF them_PPHO2 ._. 
+It_PPH1 was_VBDZ also_RR agreed_VVN that_CST the_AT Allegheny_NP1 County_NN1 
+Chapter_NN1 would_VM assume_VVI responsibility_NN1 for_IF obtaining_VVG the_AT 
+statement_NN1 and_CC seeing_VVG to_II it_PPH1 that_CST it_PPH1 was_VBDZ in_II 
+the_AT hands_NN2 of_IO VJSSH_NP1 before_II seeing_VVG a_AT1 resident#_FO 
+In_RR21 addition_RR22 ,_, WSSH_NP1 requested_VVN (_( not_XX required_VVN )_) 
+that_CST the_AT Allegheny_NP1 County_NN1 Chapter_NN1 encourage_VV0 the_AT 
+parent_NN1 or_CC guardian_NN1 to_TO inform_VVI WSSH_NP1 of_IO the_AT 
+nature_NN1 of_IO their_APPGE concern_NN1 or_CC complaint_NN1 2_MC ._. 
+It_PPH1 was_VBDZ agreed_VVN that_CST in_II all_DB instances_NN2 ,_, 
+excepting_VVG cases_NN2 of_IO alleged_JJ abuse_NN1 ,_, which_DDQ will_VM 
+be_VBI discussed_VVN below_RL ,_, the_AT Allegheny_NP1 County_NN1 Chapter_NN1 
+will_VM give_VVI the_AT Social_JJ Worker_NN1 responsible_JJ for_IF the_AT 
+resident_JJ reasonable_JJ notice_NN1 of_IO their_APPGE intension_NN1 to_TO 
+visit_VVI a_AT1 resident_NN1 ._. 
+In_II the_AT event_NN1 that_CST the_AT Social_JJ Worker_NN1 or_CC his_APPGE 
+supervisor_NN1 is_VBZ not_XX available_JJ ,_, the_AT Allegheny_NP1 County_NN1 
+Chapter_NN1 may_VM contact_VVI the_AT Superintendents_NN2 office_NN1 3_MC ._. 
+It_PPH1 was_VBDZ felt_VVN that_CST in_II cases_NN2 of_IO alleged_JJ abuse_NN1 
+of_IO a_AT1 resident_NN1 the_AT circumstances_NN2 ,_, perhaps_RR ,_, 
+warrant_VV0 an_AT1 unannounced_JJ visit_NN1 ._. 
+It_PPH1 was_VBDZ agreed_VVN that_CST if_CS the_AT Joint_JJ Visitation_NN1 
+is_VBZ made_VVN permanent_JJ ,_, however_RR ,_, the_AT Allegheny_NP1 
+County_NN1 Chapter_NN1 will_VM work_VVI within_II the_AT Visitation_NN1 
+Team_NN1 structure_NN1 ._. 
+It_PPH1 was_VBDZ agreed_VVN that_CST at_II the_AT next_MD Liaison_NN1 
+Committee_NN1 meeting_NN1 (_( scheduled_VVN for_IF March_NPM1 27_MC ,_, 
+1973_MC at_II 6:30_MC p.m._RA )_) th_NNU -_- need_VV0 for_IF a_AT1 
+procedure_NN1 that_CST would_VM expedite_VVI arrangements_NN2 for_IF an_AT1 
+unannounced_JJ visit_NN1 in_II the_AT case_NN1 of_IO alleged_JJ abuse_NN1 
+would_VM 

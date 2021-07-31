@@ -1,0 +1,97 @@
+
+SUPERINTENDEN_NP1 COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO 
+PUBLIC_JJ WELFAR_NP1 POLK_NP1 STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 POLK_NP1 
+._. 
+PENNSYLVANI_NP1 1634_MC PLEASE_RR ADDRESS_VV0 AL_NP1 LETTERS_NN2 REGARDING_II 
+PATIENT_NN1 TO_II THE_AT SUPERINTENDEN_NN1 October_NPM1 30_MC ,_, 197_MC 
+Mr._NNB G._NP1 Richard_NP1 Sel_NP1 Compliance_NN1 Office_NN1 Allegheny_NP1 
+County_NN1 Chapte_NP1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Children_NN2 ,_, Inc._JJ 917-1001_MCMC Brighton_NP1 Roa_NP1 Pittsburgh_NP1 ,_, 
+Pennsylvania_NP1 lf23_FO Dear_JJ Mr._NNB Sell_VV0 This_DD1 is_VBZ in_II31 
+reply_II32 to_II33 your_APPGE letter_NN1 of_IO October_NPM1 17_MC ,_, 1973_MC 
+in_II reference_NN1 to_II Civil_JJ Action_NN1 No._NN1 71-U2_NP1 1_MC1 ._. 
+Q._NP1 Are_VBR all_DB children_NN2 between_II the_AT ages_NN2 of_IO It.7_FO 
+and_CC 21_MC years_NNT2 provide_VV0 with_IW educational_JJ programs_NN2 A._NNU 
+Yes_UH ,_, all_DB UU2_FO school-age_JJ children_NN2 in_II residence_NN1 
+are_VBR provided_VVN an_AT1 educational_JJ program_NN1 ._. 
+Three_MC have_VH0 not_XX returned_VVN from_II summer_NNT1 vacations_NN2 at_II 
+home_NN1 2_MC ._. 
+Q._NP1 How_RRQ many_DA2 children_NN2 are_VBR transported_VVN away_II21 
+from_II22 your_APPGE facility_NN1 fo_NN1 educational_JJ purposes_NN2 ?_? 
+How_RGQ many_DA2 children_NN2 are_VBR transported_VVN from_II one_MC1 
+section_NN1 of_IO the_AT facility_NN1 to_II another_DD1 for_IF their_APPGE 
+educational_JJ programs_NN2 ?_? 
+How_RGQ many_DA2 children_NN2 receive_VV0 their_APPGE educational_JJ 
+programs_NN2 within_II the_AT confines_NN2 of_IO their_APPGE own_DA living_JJ 
+units_NN2 A._NNU a_AT1 ._. 
+One_MC1 person_NN1 is_VBZ transported_VVN away_II21 from_II22 our_APPGE 
+facility_NN1 for_IF educational_JJ purposes_NN2 to_II Franklin_NP1 Area_NN1 
+Junior-Senior_JJ High_JJ School_NN1 b._NNU 39_MC are_VBR provided_VVN 
+educational_JJ programs_NN2 away_II21 from_II22 their_APPGE living_JJ 
+units_NN2 ._. 
+82_MC are_VBR provided_VVN educational_JJ programs_NN2 within_II the_AT 
+confines_NN2 of_IO their_APPGE own_DA living_JJ units_NN2 3_MC ._. 
+Q_ZZ1 Describe_VV0 the_AT process_NN1 through_II which_DDQ a_AT1 program_NN1 
+is_VBZ developed_VVN for_IF child_NN1 A._NP1 1_MC1 ._. 
+Evaluation_NN1 and_CC initial_JJ assessment_NN1 2_MC ._. 
+Prescription_NN1 writing_NN1 based_VVN on_II individual_JJ needs_NN2 
+consisting_VVG of_IO behavioral_JJ objectives_NN2 and_CC learning_VVG 
+activities_NN2 3_MC o_ZZ1 Re-evaluation_NN1 Mr._NNB G._NP1 Richard_NP1 Sel_NP1 
+October_NPM1 30_MC 197_MC Page_NP1 U._NP1 Q._NP1 Have_VH0 due_JJ process_NN1 
+notices_NN2 gone_VVN out_RP to_II all_DB parents_NN2 A._NNU No_UH ._. 
+Due_JJ Process_NN1 Notices_NN2 are_VBR in_II process_NN1 5_MC ._. 
+Q._NP1 Have_VH0 the_AT parents_NN2 been_VBN properly_RR informed_VVN 
+regarding_II program_NN1 descrip_NN1 tions_NN2 ,_, individual_JJ 
+implications_NN2 for_IF their_APPGE child_NN1 ,_, hours_NNT2 in_II 
+programming_NN1 ,_, the_AT teacher_NN1 ,_, the_AT location_NN1 of_IO the_AT 
+educational_JJ setting_NN1 ,_, etc_RA ._. 
+A._NP1 Whether_CSW31 or_CSW32 not_CSW33 they_PPHS2 have_VH0 been_VBN 
+properly_RR informed_VVN remains_VVZ a_AT1 question_NN1 ._. 
+However_RR ,_, we_PPIS2 have_VH0 through_II a_AT1 letter_NN1 from_II Mr._NNB 
+Colombatto_NP1 informed_VVD each_DD1 parent_NN1 of_IO the_AT children_NN2 
+involved_JJ in_II the_AT educational_JJ program_NN1 of_IO I.U._NP1 #6_NNU ._. 
+The_AT NEWS-LETTER_NN1 has_VHZ also_RR carried_VVN an_AT1 article_NN1 in_II31 
+regard_II32 to_II33 tlie_NN1 education_NN1 program_NN1 ._. 
+Hie_VV0 parents_NN2 have_VH0 all_RR been_VBN given_VVN school_NN1 
+calendars_NN2 and_CC have_VH0 also_RR been_VBN invited_VVN to_TO attend_VVI 
+an_AT1 Open-House_NP1 on_II October_NPM1 2$_FO and_CC 26_MC as_II part_NN1 
+of_IO American_JJ Education_NN1 Week_NNT1 ._. 
+We_PPIS2 have_VH0 also_RR furnished_VVN detailed_JJ educational_JJ reports_NN2 
+to_II any_DD parent_NN1 who_PNQS ha3_FO made_VVD a_AT1 request_NN1 6_MC ._. 
+Q._NP1 Have_VH0 the_AT parents_NN2 been_VBN informed_VVN of_IO their_APPGE 
+rights_NN2 and_CC have_VH0 alterna_NN1 tives_NN2 been_VBN presented_VVN A._NNU 
+It_PPH1 is_VBZ questionable_JJ as_II21 to_II22 whether_CSW they_PPHS2 have_VH0 
+been_VBN informed_VVN of_IO their_APPGE rights_NN2 and_CC alternatives_NN2 ._. 
+However_RR ,_, this_DD1 should_VM be_VBI covered_VVN through_II the_AT Due_JJ 
+Process_NN1 letter_NN1 once_CS it_PPH1 is_VBZ completed_VVN 7_MC ._. 
+Q._NP1 How_RRQ many_DA2 children_NN2 are_VBR in_II an_AT1 educational_JJ 
+program_NN1 for_IF 3_MC to_II $_NN hour_NNT1 per_II day_NNT1 ?_? 
+For_IF 1_MC1 to_II 3_MC hours_NNT2 ?_? 
+For_IF Hess_NP1 than_CSN 1_MC1 hour_NNT1 A._NP1 We_PPIS2 have_VH0 366_MC 
+who_PNQS are_VBR receiving_VVG 3-f_ZZ1 hours_NNT2 ,_, and_CC we_PPIS2 have_VH0 
+76_MC who_PNQS are_VBR receiving_VVG 1-3_MCMC hours_NNT2 ._. 
+None_PN are_VBR receiving_VVG less_DAR than_CSN one_MC1 hour_NNT1 8_MC ._. 
+Q_ZZ1 ,_, Do_VD0 you_PPY feel_VVI that_CST parents_NN2 are_VBR able_JK to_TO 
+make_VVI an_AT1 informed_JJ judgment_NN1 a_AT1 to_II the_AT 
+appropriateness_NN1 of_IO the_AT educational_JJ placement_NN1 of_IO 
+their_APPGE child_NN1 A._NNU As_II21 to_II22 parents_NN2 making_VVG 
+informed_JJ judgment_NN1 as_II21 to_II22 the_AT appropriateness_NN1 of_IO 
+the_AT placement_NN1 of_IO their_APPGE children_NN2 ,_, this_DD1 ability_NN1 
+would_VM vary_VVI with_IW every_AT1 parent_NN1 ._. 
+Some_DD parents_NN2 would_VM be_VBI able_JK to_TO assess_VVI the_AT 
+program_NN1 their_APPGE child_NN1 is_VBZ in_RP and_CC make_VV0 an_AT1 
+intelligent_JJ decision_NN1 as_II21 to_II22 its_APPGE appropriateness_NN1 ._. 
+For_IF others_NN2 ,_, it_PPH1 would_VM depend_VVI upon_II their_APPGE 
+knowledge_NN1 of_IO educational_JJ procedures_NN2 9_MC ._. 
+Q._NP1 What_DDQ type_NN1 of_IO in-service_JJ training_NN1 program_NN1 has_VHZ 
+been_VBN provided_VVN for_IF you_PPY staff_VV0 Mr._NNB G._NP1 Richard_NP1 
+Sel_NP1 October_NPM1 30_MC ,_, 197_MC Page_NN1 A._NNU For_IF new_JJ staff_VV0 
+one_MC1 week_NNT1 of_IO intensified_JJ inservice_NN1 training_NN1 was_VBDZ 
+provided_VVN covering_VVG a_AT1 variety_NN1 of_IO subjects_NN2 relating_VVG 
+to_II educational_JJ procedures_NN2 including_II feeding_VVG ,_, 
+positioning_VVG and_CC handling_NN1 ,_, physical_JJ therapy_NN1 ,_, music_NN1 
+therapy_NN1 ,_, behavior_NN1 modification_NN1 techniques_NN2 ,_, 
+prescription_NN1 writing_NN1 ,_, human_JJ development_NN1 ,_, speech_NN1 
+therapy_NN1 ,_, etc_RA If_CS I_PPIS1 can_VM be_VBI of_IO further_JJR 
+assistance_NN1 please_RR do_VD0 not_XX hesitate_VVI to_TO call_VVI on_II 
+me_PPIO1 JJC/cm_FU --d8149a0cf7f99dfe93acba8f6502e899--_FU 

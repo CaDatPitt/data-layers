@@ -1,0 +1,99 @@
+
+Pennsylvania_NP1 Association_NN1 tor_NN1 Retarded_JJ "_" Citizen_NN1 1500_MC 
+NORTH_ND1 SECOND_MD STREET_NN1 HARRISBURG_NP1 ,_, PA._NN1 1_MC1 7102_MC 
+TEL_NN1 (_( 7171'234*262_FO ._. '_" 
+MRS_NNB ._. 
+TEDDI_NP1 LEIDE_NP1 Presiden_NP1 January_NPM1 8_MC ,_, 197_MC THEODORE_NP1 
+E._NP1 JOHNSON_NP1 ,_, Ed_NP1 ._. 
+D._NP1 Executive_NN1 Director_NN1 pURLIC_JJ hELFA_NN1 The_AT Honorable_NP1 
+Aldo_NP1 Colautti_NP1 Secretary_NN1 of_IO Public_JJ Welfare_NN1 333_MC 
+Health_NN1 &; Welfare_NN1 Building_NN1 Harrisburg_NP1 ,_, Pennsylvania_NP1 
+1712_MC Dear_JJ Secretary_NP1 Colautti_NN1 We_PPIS2 greatly_RR appreciated_VVD 
+having_VHG the_AT opportunity_NN1 to_TO visit_VVI with_IW you_PPY on_II 
+January_NPM1 4_MC to_TO discuss_VVI our_APPGE grave_JJ concerns_NN2 about_II 
+the_AT lack_NN1 of_IO appropriate_JJ dental_JJ care_NN1 for_IF the_AT 
+residents_NN2 at_II Ebensburg_NP1 and_CC Cresson_NP1 Centers_NN2 As_CSA 
+we_PPIS2 noted_VVD ,_, PARC_NP1 's_GE Residential_JJ Services_NN2 
+Committee_NN1 has_VHZ recorded_VVN in_II our_APPGE visitation_NN1 reports_NN2 
+for_IF at_RR21 least_RR22 the_AT past_JJ three_MC years_NNT2 ,_, the_AT 
+poor_JJ dental_JJ health_NN1 among_II the_AT residents_NN2 at_II Ebensburg_NP1 
+._. 
+In_II February_NPM1 1977_MC ,_, Cresson_NP1 's_GE acting_JJ superintendent_NN1 
+Strolla_NP1 ,_, wrote_VVD to_TO inform_VVI DPW_NP1 regarding_II the_AT 
+urgent_JJ need_NN1 for_IF improved_JJ dental_JJ care_NN1 at_II Cresson_NP1 
+We_PPIS2 are_VBR indeed_RR greatful_JJ that_CST your_APPGE Department_NN1 ,_, 
+through_II the_AT Office_NN1 of_IO Mental_JJ Retardation_NN1 ,_, 
+authorized_VVN the_AT in-depth_JJ review_NN1 by_II Dr._NNB Jay_NP1 Reznik_NP1 
+in_II July_NPM1 1978_MC ,_, to_TO ascertain_VVI the_AT level_NN1 of_IO 
+dental_JJ care_NN1 among_II the_AT residents_NN2 of_IO Ebensburg_NP1 ._. 
+This_DD1 review_NN1 ,_, which_DDQ had_VHD been_VBN requested_VVN by_II Dr._NNB 
+Hartley_NP1 ,_, Superintendent_NN1 at_II Ebensburg_NP1 ,_, confirmed_VVD 
+our_APPGE worst_JJT suspicions_NN2 ._. 
+Though_CS the_AT report_NN1 to_II the_AT Committee_NN1 of_IO Dentists_NN2 
+chosen_VVN by_II OMR_NP1 to_TO verify_VVI the_AT results_NN2 of_IO Reznik_NP1 
+'s_GE investigation_NN1 is_VBZ incomplete_JJ ,_, it_PPH1 it_PPH1 our_APPGE 
+understanding_NN1 that_CST this_DD1 survey_NN1 found_VVD conditions_NN2 to_TO 
+be_VBI as_RG bad_JJ ,_, if_CS not_XX worse_RRR ,_, than_CSN had_VHD been_VBN 
+found_VVN by_II Dr._NNB Reznik_NP1 We_PPIS2 certainly_RR understand_VV0 
+your_APPGE reluctance_NN1 to_TO discuss_VVI the_AT nature_NN1 and_CC 
+extent_NN1 of_IO the_AT gross_JJ dental_JJ abuse_NN1 at_II Ebensburg_NP1 
+since_CS you_PPY did_VDD not_XX then_RT have_VHI the_AT benefit_NN1 of_IO 
+the_AT Dental_JJ Committee_NN1 's_GE report_NN1 ._. 
+Now_CS21 that_CS22 the_AT report_NN1 is_VBZ in_RP ,_, however_RR ,_, there_EX 
+can_VM be_VBI no_AT question_NN1 that_CST a_AT1 severe_JJ problem_NN1 ,_, 
+which_DDQ requires_VVZ your_APPGE personal_JJ attention_NN1 ,_, does_VDZ ,_, 
+in_II fact_NN1 ,_, exist_VV0 at_II Ebensburg_NP1 and_CC there_EX is_VBZ 
+every_AT1 reason_NN1 to_TO believe_VVI that_CST the_AT ongoing_JJ study_NN1 
+at_II Cresson_NP1 will_VM disclose_VVI a_AT1 similar_JJ situation_NN1 We_PPIS2 
+believe_VV0 that_CST the_AT $32,000_NNU recently_RR appropriated_VVD by_II 
+your_APPGE office_NN1 to_TO purchase_VVI dental_JJ equipment_NN1 for_IF 
+Ebensburg_NP1 and_CC Cresson_NP1 is_VBZ a_AT1 long-range_JJ step_NN1 toward_II 
+rectifying_VVG this_DD1 serious_JJ situation_NN1 ._. 
+Further_RRR the_AT contract_NN1 with_IW Dr._NNB Balachak_NP1 to_TO provide_VVI 
+dental_JJ care_NN1 and_CC consultation_NN1 on_II a_AT1 twice-weekly_JJ 
+basis_NN1 at_II Ebensburg_NP1 until_II July_NPM1 is_VBZ also_RR posi_NN2 
+ti_NN2 ve_VV0 As_RG commendable_JJ and_CC positive_JJ as_II the_AT above_JJ 
+steps_NN2 are_VBR ,_, they_PPHS2 are_VBR only_JJ steps_NN2 and_CC by_II 
+themselves_PPX2 can_VM in_II no_AT way_NN1 be_VBI expected_VVN to_TO 
+effectively_RR remedy_VVI the_AT years_NNT2 of_IO neglect_NN1 or_CC 
+provide_VV0 restorative_JJ and_CC preventive_JJ dentistry_NN1 for_IF the_AT 
+residents_NN2 at_II these_DD2 Centers_NN2 ._. 
+What_DDQ must_VM be_VBI done_VDN is_VBZ that_DD1 sufficient_JJ funds_NN2 
+must_VM be_VBI provided_VVN for_IF adequate_JJ qualified_JJ personnel_NN2 ,_, 
+either_RR on_II staff_NN or_CC by_II contract_NN1 ,_, to_TO remedy_VVI the_AT 
+past_JJ abuses_NN2 and_CC provide_VVI ongoing_JJ quality_NN1 dental_JJ 
+care_NN1 ._. 
+These_DD2 institutions_NN2 do_VD0 not_XX have_VHI discretionary_JJ funds_NN2 
+available_JJ to_TO remedy_VVI this_DD1 situation_NN1 without_IW the_AT 
+direct_JJ assistance_NN1 of_IO your_APPGE Departmen_NN2 -2_MC and_CC it_PPH1 
+is_VBZ ludicrous_JJ to_TO contemplate_VVI reductions_NN2 in_II staff_NN and_CC 
+programs_NN2 ,_, which_DDQ are_VBR marginal_JJ at_RR21 best_RR22 ,_, to_TO 
+provide_VVI these_DD2 funds_NN2 When_CS we_PPIS2 visited_VVD your_APPGE 
+Office_NN1 ,_, we_PPIS2 had_VHD hoped_VVN for_IF a_AT1 full_JJ commitment_NN1 
+from_II your_APPGE Department_NN1 to_TO undertake_VVI immediate_JJ remedial_JJ 
+action_NN1 as_RG well_RR as_CSA to_TO provide_VVI intermediate_JJ and_CC 
+long-range_JJ planning_NN1 to_II fully_RR correct_JJ past_NN1 and_CC 
+present_JJ deficiencies_NN2 ._. 
+We_PPIS2 were_VBDR acutely_RR disappointed_JJ in_II your_APPGE 
+unwillingness_NN1 to_TO address_VVI the_AT problem_NN1 at_II that_DD1 
+time_NNT1 ,_, but_CCB now_CS21 that_CS22 all_DB the_AT studies_NN2 are_VBR 
+in_RP ,_, there_EX is_VBZ no_AT reason_NN1 why_RRQ prompt_JJ action_NN1 can_VM 
+not_XX be_VBI taken_VVN ._. 
+It_PPH1 is_VBZ the_AT responsibility_NN1 of_IO the_AT Commonwealth_NN1 ,_, 
+through_II your_APPGE Department_NN1 ,_, ,_, to_TO provide_VVI humane_JJ 
+care_NN1 ._. 
+It_PPH1 is_VBZ therefore_RR your_APPGE responsibility_NN1 to_TO immediately_RR 
+address_VVI this_DD1 problem_NN1 We_PPIS2 would_VM appreciate_VVI your_APPGE 
+response_NN1 by_II January_NPM1 12_MC as_II21 to_II22 what_DDQ steps_NN2 
+will_VM be_VBI taken_VVN by_II DPW_NP1 to_TO bring_VVI immediate_JJ relief_NN1 
+Very_RG truly_RR yours_PPGE f_ZZ1 (_( 'Z'_NN1 ._. 
+Elsie_NP1 Schmidt_NP1 ,_, Regional_JJ Vice_JJ President_NN1 National_JJ 
+Association_NN1 for_IF Retarded_JJ Citizens_NN2 Immediate_JJ Past_II 
+Presiden_NP1 Pa_NP1 ._. 
+Association_NN1 for_IF Retarded_JJ Citizen_NN1 ---Midge_NP1 Scannell_NP1 ,_, 
+Chairma_NP1 Residential_JJ Services_NN2 Committee_NN1 ,_, PAR_NP1 A_ZZ1 
+Gloria_NP1 Mitchell_NP1 ,_, Paren_NP1 Resident_NN1 at_II Ebensburg_NP1 
+Cente_NP1 Board_NN1 Member_NN1 ,_, Westmoreland_NP1 Co_NP1 ._. 
+AR_UH Worth_II Helms_NP1 ,_, Board_NN1 Membe_NP1 Developmental_JJ 
+Disabilities_NN2 Advocacy_NN1 Network_NN1 
+--4dee74a1884efeabc7370ee891c5219e--_FU 

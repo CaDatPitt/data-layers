@@ -1,0 +1,35 @@
+
+December_NPM1 31_MC ,_, 197_MC Mr._NNB Robert_NP1 Hiltner_NP1 ,_, 
+Superintendent_NNB Western_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 333_MC 
+Curry_NP1 Hill_NNL1 Road_NN1 Canonsburg_NP1 ,_, Pa._NP1 1531_MC Dear_JJ 
+Bob_NP1 At_II the_AT Liaison_NN1 Committee_NN1 Meeting_NN1 on_II Thursday_NPD1 
+,_, December_NPM1 19th_MD ,_, 1974_MC ,_, it_PPH1 was_VBDZ stated_VVN that_CST 
+there_EX was_VBDZ a_AT1 massive_JJ weight_NN1 loss_NN1 at_II Pine_NN1 
+Lodge_NN1 ,_, Unit_NN1 III_MC during_II the_AT previous_JJ month_NNT1 ._. 
+Specifically_RR ,_, it_PPH1 was_VBDZ aledged_VVN "_" that_CST the_AT 
+children_NN2 on_II Pine_NN1 Lodge_NN1 ,_, Unit_NN1 III_MC ,_, lost_VVD an_AT1 
+average_NN1 from_II 6_MC to_II 11_MC pounds_NN2 per_II individual._NNU ._. 
+since_II November_NPM1 18_MC ,_, 1974_MC "_" ._. 
+Joe_NP1 McKenna_NP1 ,_, Intermediate_JJ Supervisor_NN1 ,_, verified_VVD 
+this_DD1 weight_NN1 loss_NN1 by_II checking_VVG the_AT nursing_JJ records_NN2 
+I_PPIS1 hope_VV0 you_PPY will_VM respond_VVI to_II these_DD2 questions_NN2 
+regarding_II the_AT weight_NN1 loss_NN1 allegations_NN2 1_MC1 )_) Did_VDD 
+Pine_NN1 Lodge_NN1 ,_, Unit_NN1 III_MC individuals_NN2 los_FW 6_MC to_II 11_MC 
+pounds_NN2 during_II the_AT period_NN1 from_II November_NPM1 18_MC to_II 
+December_NPM1 18_MC ,_, 1974_MC 2_MC )_) What_DDQ is_VBZ the_AT reason_NN1 
+for_IF this_DD1 weight_NN1 loss_NN1 3_MC )_) Did_VDD you_PPY ,_, the_AT 
+Assistant_JJ Superintendent_NN1 for_IF Mental_JJ Retardation_NN1 Services_NN2 
+,_, the_AT Directo_NN1 of_IO Medical_JJ Services_NN2 ,_, the_AT Director_NN1 
+of_IO Nursing_JJ Services_NN2 ,_, or_CC the_AT Director_NN1 of_IO Dietary_JJ 
+Services_NN2 know_VV0 of_IO this_DD1 problem_NN1 prior_II21 to_II22 
+December_NPM1 18_MC ,_, 1974_MC ?_? 
+If_CS not_XX ,_, why_RRQ did_VDD nt_XX you_PPY know_VVI 4_MC )_) How_RRQ 
+serious_JJ is_VBZ the_AT problem_NN1 5_MC )_) What_DDQ actions_NN2 have_VH0 
+been_VBN taken_VVN to_TO remedy_VVI this_DD1 problem_NN1 Mr._NNB Robert_NP1 
+Hiltner_NP1 Page_NN1 Otheremembers_NN2 of_IO the_AT Liaison_NN1 Committee_NN1 
+and_CC I_PPIS1 are_VBR disturbed_VVN by_II this_DD1 problem_NN1 ._. 
+We_PPIS2 will_VM be_VBI very_RG interested_JJ in_II your_APPGE reply_NN1 
+Sincerely_RR Robert_NP1 Nelkin_NP1 Associate_JJ Executive_NN1 Directo_NN1 
+RNic_NN1 CC_NP1 :_: Liaison_NN1 Committee_NN1 Member_NN1 BCC_NP1 :_: 
+Marlene_NP1 Burd_NP1 Elsie_NP1 Schmidt_NP1 
+--3ff88cd8ee42fed13099c871ca4d9ecd--_FU 

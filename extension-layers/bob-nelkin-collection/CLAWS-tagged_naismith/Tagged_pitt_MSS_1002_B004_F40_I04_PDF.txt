@@ -1,0 +1,18 @@
+
+June_NPM1 10_MC ,_, 197_MC Mr._NNB Joseph_NP1 Colombatto_NP1 ,_, 
+Superintenden_NP1 Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 Box_NN1 
+#9_NNU Polk_NP1 ,_, Pa._NP1 1634_MC Dear_JJ Joe_NP1 I_PPIS1 would_VM 
+appreciate_VVI answers_NN2 to_II the_AT following_JJ questions_NN2 
+regarding_II admissions_NN2 to_II Polk_NP1 1_MC1 )_) How_RGQ many_DA2 
+admissions_NN2 to_II Polk_NP1 in_II the_AT last_MD 12_MC months_NNT2 2_MC )_) 
+How_RGQ many_DA2 of_IO those_DD2 admissions_NN2 to_II Polk_NP1 were_VBDR by_II 
+court_NN1 order_NN1 3_MC )_) What_DDQ is_VBZ the_AT criteria_NN2 for_IF 
+admission_NN1 to_II Polk_NP1 4_MC )_) Are_VBR you_PPY satisfied_VVN with_IW 
+community_NN1 programs_NN2 developing_VVG alternatives_NN2 around_RP for_IF 
+individuals_NN2 who_PNQS have_VH0 requested_VVN admissions_NN2 We_PPIS2 
+had_VHD great_JJ success_NN1 in_II stopping_VVG all_DB admissions_NN2 to_II 
+Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 ._. 
+I_PPIS1 hope_VV0 it_PPH1 is_VBZ similar_JJ success_NN1 (_( without_IW 
+our_APPGE involvement_NN1 )_) at_II Polk_NP1 Sincerely_RR Robert_NP1 Nelki_NP1 
+Associate_JJ Executive_NN1 Director_NN1 
+--512c7d7a42fe2ddf658bef14cefd799d--_FU 

@@ -1,0 +1,108 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizen_NN1 PROGRAM_NN1 SUMMAR_NN1 COMMUNITY_NN1 AND_CC 
+CHAPTER_NN1 AFFAIRS_NN2 DIVISIO_NN1 The_AT Community_NN1 and_CC Chapter_NN1 
+Affairs_NN2 Division_NN1 (_( CCA_NP1 )_) was_VBDZ developed_VVN in_II 1969_MC 
+as_CSA ACC-PARC_NP1 's_GE advocacy_NN1 arm_NN1 ._. 
+The_AT job_NN1 of_IO Community_NN1 and_CC Chapter_NN1 Affairs_NN2 Division_NN1 
+'s_GE volunteers_NN2 and_CC staff_NN ,_, as_CSA advocates_NN2 ,_, is_VBZ to_TO 
+insure_VVI that_DD1 existing_JJ services_NN2 are_VBR adequate_JJ and_CC 
+appropriate_JJ ._. 
+CCA_NP1 also_RR pressures_VVZ governmental_JJ officials_NN2 for_IF news_NN1 
+services_NN2 and_CC advocates_NN2 for_IF the_AT rights_NN2 of_IO retarded_JJ 
+citizens_NN2 and_CC their_APPGE families_NN2 ._. 
+An_AT1 important_JJ characteristic_NN1 of_IO CCA_NP1 's_GE business_NN1 is_VBZ 
+that_CST parents_NN2 of_IO retarded_JJ persons_NN2 and_CC active_JJ 
+citizens_NN2 spearhead_VV0 the_AT Division_NN1 's_GE activities_NN2 The_AT 
+Community_NN1 and_CC Chapter_NN1 Affairs_NN2 Division_NN1 operates_VVZ in_II 
+six_MC related_JJ spheres_NN2 :_: right_RR to_II education_NN1 ,_, 
+residential_JJ care_NN1 ,_, MH/MR_FU community_NN1 services_NN2 ,_, 
+legislation_NN1 ,_, emergency_NN1 casework_NN1 ,_, and_CC campincj_JJ and_CC 
+recreation_NN1 programs_NN2 Education_NN1 The_AT Education_NN1 Committee_NN1 
+frequently_RR raises_VVZ issues_NN2 with_IW the_AT Pittsburgh_NP1 Public_JJ 
+Schools_NN2 and_CC the_AT Allegheny_NP1 Intermediate_JJ Unit_NN1 ._. 
+Recent_JJ Education_NN1 Committee_NN1 's_GE activities_NN2 :_: actions_NN2 
+to_TO increase_VVI the_AT length_NN1 of_IO the_AT school_NN1 day_NNT1 ,_, 
+to_TO provide_VVI safer_RRR and_CC more_RGR reliable_JJ transportation_NN1 
+of_IO students_NN2 ,_, to_TO improve_VVI vocational_JJ training_NN1 
+programs_NN2 ,_, and_CC to_TO provide_VVI safer_JJR school_NN1 buildings_NN2 
+more_RGR suitable_JJ for_IF the_AT education_NN1 of_IO trainable_JJ 
+students_NN2 ,_, and_CC equal_JJ opportunity_NN1 for_IF physical_JJ 
+education_NN1 ,_, speech_NN1 therapy_NN1 ,_, and_CC decent_JJ classroom_NN1 
+conditions_NN2 Right_RR to_II Education_NN1 The_AT Right_NN1 to_II 
+Education_NN1 Director_NN1 and_CC caseworker_NN1 advise_VV0 parents_NN2 on_II 
+how_RRQ to_TO improve_VVI their_APPGE son_NN1 's_GE or_CC daughter_NN1 's_GE 
+education_NN1 ._. 
+These_DD2 staff_NN members_NN2 are_VBR available_JJ to_TO assist_VVI 
+parents_NN2 in_II preparing_VVG for_IF school_NN1 conferences_NN2 or_CC due_JJ 
+process_NN1 hearings_NN2 ._. 
+Both_DB2 the_AT Committee_NN1 members_NN2 and_CC staff_NN members_NN2 meet_VV0 
+regularly_RR with_IW the_AT schools_NN2 to_TO insure_VVI that_CST the_AT 
+Right_NN1 to_II Education_NN1 Consent_NN1 Agreement_NN1 is_VBZ being_VBG 
+implemented_VVN and_CC all_DB children_NN2 are_VBR receiving_VVG 
+appropriate_JJ public_JJ education_NN1 Residential_JJ Care_NN1 The_AT 
+Residential_JJ Care_NN1 Committee_NN1 is_VBZ a_AT1 very_RG active_JJ 
+monitor_NN1 of_IO the_AT care_NN1 provided_VVN in_II state_NN1 
+institutions_NN2 ,_, private_JJ residential_JJ facilities_NN2 ,_, group_NN1 
+homes_NN2 ,_, and_CC foster_JJ care_NN1 ._. 
+Following_VVG frequent_JJ unannounced_JJ visits_NN2 ,_, the_AT Committee_NN1 
+makes_VVZ recommendations_NN2 to_II the_AT directors_NN2 of_IO the_AT 
+residential_JJ programs_NN2 and_CC the_AT state_NN1 officials_NN2 
+responsible_JJ for_IF the_AT quality_NN1 of_IO the_AT residential_JJ care_NN1 
+._. 
+It_PPH1 is_VBZ important_JJ to_TO note_VVI that_CST most_DAT of_IO 
+Pennsylvania_NP1 's_GE residential_JJ care_NN1 is_VBZ inadequate_JJ ,_, 
+expensive_JJ ,_, and_CC often_RR unsafe_JJ for_IF the_AT institutionalized_JJ 
+individuals_NN2 Program_VV0 Summary_NN1 CCA_NP1 Division_NN1 Page_NN1 MH/MR_FU 
+Community_NN1 Services_NN2 A_ZZ1 couple_NN1 years_NNT2 ago_RA this_DD1 
+was_VBDZ CCA_NP1 's_GE major_JJ area_NN1 of_IO work_NN1 ._. 
+As_II a_AT1 result_NN1 of_IO this_DD1 citizen_NN1 effort_NN1 ,_, activity_NN1 
+centers_NN2 in_II each_DD1 area_NN1 of_IO the_AT county_NN1 train_NN1 
+adults_NN2 who_PNQS are_VBR not_XX ready_JJ for_IF vocational_JJ training_NN1 
+._. 
+Periodically_RR ,_, Ad_JJ21 Hoc_JJ22 citizen_NN1 committees_NN2 and_CC CCA_NP1 
+staff_NN will_VM urge_VVI an_AT1 MH/MR_FU Base_NN1 Service_NN1 Unit_NN1 to_TO 
+develop_VVI a_AT1 new_JJ program_NN1 or_CC improve_VV0 an_AT1 old_JJ one_MC1 
+Legislation_NN1 The_AT Legislation_NN1 Committee_NN1 ,_, headed_VVN by_II 
+a_AT1 parent_NN1 of_IO a_AT1 retarded_JJ child_NN1 ,_, depends_VVZ on_II 
+the_AT action_NN1 of_IO all_DB ACC-PARC_NP1 members_NN2 ._. 
+In_II December_NPM1 of_IO 1972_MC ,_, the_AT Chapter_NN1 presented_VVD a_AT1 
+package_NN1 of_IO proposed_JJ legislation_NN1 to_II the_AT Allegheny_NP1 
+County_NN1 Delegation_NN1 of_IO the_AT State_NN1 Legislature_NN1 urging_VVG 
+supplemental_JJ appropriations_NN2 to_II MH/MR_FU Programs_NN2 ,_, and_CC 
+succeeded_VVD cooperatively_RR with_IW other_JJ citizen_NN1 groups_NN2 to_TO 
+have_VHI Senate_NN1 Bill_NN1 #53_NNU enacted_VVN as_CSA law_NN1 ._. 
+Senate_NN1 Bill_NN1 #53_NNU relieves_VVZ parents_NN2 of_IO 
+institutionalized_JJ sons_NN2 or_CC daughters_NN2 ,_, age_NN1 18_MC or_CC 
+over_RP ,_, of_IO financial_JJ liability_NN1 for_IF the_AT cost_NN1 of_IO 
+their_APPGE care_NN1 Emergency_NN1 Casework_NN1 The_AT CCA_NP1 staff_NN 
+supplements_NN2 the_AT social_JJ service_NN1 staff_NN when_CS cases_NN2 
+involve_VV0 courts_NN2 ,_, broad_JJ civil_JJ liberties_NN2 '_GE issues_NN2 ,_, 
+or_CC health_NN1 and_CC safety_NN1 Camping_NN1 and_CC Recreation_NN1 The_AT 
+Camping_NN1 Committee_NN1 composed_VVD entirely_RR of_IO parents_NN2 and_CC 
+siblings_NN2 of_IO retarded_JJ citizens_NN2 makes_VVZ all_DB decisions_NN2 
+concerning_II the_AT operation_NN1 of_IO our_APPGE camping_NN1 program_NN1 ._. 
+The_AT Committee_NN1 's_GE goal_NN1 is_VBZ to_TO obtain_VVI summer_NNT1 
+overnight_RT and_CC day_NNT1 camping_NN1 for_IF retarded_JJ children_NN2 
+and_CC adults_NN2 from_II existing_JJ community_NN1 agencies_NN2 such_II21 
+as_II22 YMCAs_NP2 ,_, community_NN1 centers_NN2 ,_, municipalities_NN2 ,_, 
+and_CC girl_NN1 scouts_NN2 ._. 
+The_AT Committee_NN1 also_RR provides_VVZ a_AT1 residential_JJ camp_NN1 (_( 
+Camp_NP1 Sunshine_NN1 )_) for_IF children_NN2 who_PNQS need_VV0 one-to-one_JJ 
+supervision_NN1 The_AT Camping_NN1 Committee_NN1 offers_VVZ camperships_NN2 
+to_II individuals_NN2 who_PNQS could_VM not_XX otherwise_RR ,_, be_VBI able_JJ 
+financially_RR ,_, attend_VV0 ._. 
+During_II the_AT 1974_MC summer_NNT1 ,_, 1,213_MC children_NN2 and_CC 
+adults_NN2 attend_VV0 more_DAR than_CSN 12_MC individual_JJ weeks_NNT2 of_IO 
+camping_NN1 Funding_NN1 Most_DAT of_IO the_AT camping_NN1 and_CC recrea_NN1 
+is_VBZ paid_VVN by_II a_AT1 grant_NN1 from_II the_AT Edith_NP1 L._NP1 
+Trees_NN2 The_AT Right_NN1 to_II Education_NN1 salaries_NN2 and_CC clerical_JJ 
+)_) are_VBR provided_VVN by_II the_AT Alleghen_JJ Volunteer_NN1 expenses_NN2 
+and_CC the_AT salary_NN1 of_IO the_AT CCA_NP1 Director_NN1 ,_, Secretary_NN1 
+,_, and_CC Camping_NN1 and_CC Recreation_NN1 Coordinator_NN1 (_( partially_RR 
+)_) are_VBR paid_VVN by_II proceeds_NN2 from_II ACC-PARC_NP1 's_GE fund_NN1 
+drive_NN1 ,_, tion_NN1 expenses_NN2 ,_, including_II part_NN1 of_IO the_AT 
+coordinators_NN2 salary_NN1 ,_, contributions_NN2 from_II community_NN1 
+groups_NN2 ,_, Charitable_JJ Trust_NN1 ,_, and_CC parents_NN2 '_GE fees_NN2 
+(_( director_NN1 ,_, caseworker_NN1 ,_, County_NN1 MH/MR_FU Program_NN1 
+11/74_MF --9fcfa4c83adba26c0c2a5ac6e39ff8f8--_FU 

@@ -1,0 +1,54 @@
+
+JOINT_JJ VISITATION_NN1 TEAM_NN1 VISI_NN2 WESTERN_JJ STATE_NN1 SCHOOL_NN1 
+AND_CC HOSPITA_NP1 Wednesday_NPD1 ,_, November_NPM1 13_MC ,_, 197_MC 4:00_MC 
+-_- 7:00_MC P.M_RA ATTENDING_VVG :_: Dr._NNB Harry_NP1 Goldberg_NP1 ,_, 
+President_NN1 ,_, WSSH_NP1 Parent_NN1 's_GE Grou_NP1 Virginia_NP1 
+Thornburgh_NP1 ,_, President_NN1 ,_, ACC-PAR_NP1 Robert_NP1 Nelkin_NP1 ,_, 
+Associate_JJ Executive_NN1 Director_NN1 ,_, ACC-PAR_NP1 The_AT purpose_NN1 
+of_IO the_AT visit_NN1 was_VBDZ to_TO review_VVI problems_NN2 of_IO the_AT 
+food_NN1 service_NN1 brought_VVN to_II the_AT WSSH_NP1 Parent_NN1 's_GE 
+Group_NN1 's_GE attention_NN1 ._. 
+The_AT visit_NN1 consisted_VVN of_IO a_AT1 meeting_NN1 with_IW Mrs._NNB 
+Webb_NP1 ,_, Dietician_NP1 ,_, and_CC her_APPGE staff_NN ._. 
+The_AT Team_NN1 also_RR visited_VVD the_AT evening_NNT1 meal_NN1 in_II 
+Spruce_NP1 Lodge_NN1 and_CC Beech_NN1 Cottage_NN1 Some_DD of_IO the_AT 
+Team_NN1 's_GE questions_NN2 were_VBDR answered_VVN in_II the_AT 
+investigation_NN1 following_II Paul_NP1 Jenkins_NP1 '_GE death_NN1 during_II 
+the_AT evening_NNT1 meal_NN1 of_IO our_APPGE inspection_NN1 ._. 
+However_RR ,_, after_CS a_AT1 review_NN1 of_IO our_APPGE visitation_NN1 
+notes_NN2 ,_, we_PPIS2 have_VH0 some_DD additional_JJ questions_NN2 
+regarding_II dietary_JJ department_NN1 1_MC1 )_) Residents_NN2 were_VBDR 
+unable_JK to_TO cut_VVI their_APPGE roast_JJ beef_NN1 a_ZZ1 )_) Why_RRQ 
+are_VBR n't_XX the_AT proper_JJ utensils_NN2 issued_VVN to_II the_AT 
+residents_NN2 (_( in_II this_DD1 case_NN1 ,_, knifes_NN2 )_) b_ZZ1 )_) In_II 
+the_AT case_NN1 of_IO a_AT1 resident_NN1 unable_JK to_TO cut_VVI their_APPGE 
+own_DA food_NN1 ,_, is_VBZ it_PPH1 the_AT CCA_NP1 's_GE responsibility_NN1 
+to_TO cut_VVI the_AT food_NN1 properly_RR c_ZZ1 )_) Have_VH0 the_AT CCAs_NP2 
+been_VBN informed_VVN of_IO this_DD1 responsibility_NN1 2_MC )_) There_EX 
+were_VBDR numerous_JJ complaints_NN2 from_II CCAs_NP2 and_CC nursing_NN1 
+staff_NN regarding_II the_AT dietary_JJ department_NN1 a_ZZ1 )_) Is_VBZ 
+there_EX an_AT1 established_JJ route_NN1 for_IF complaints_NN2 about_II the_AT 
+food_NN1 b_ZZ1 )_) Are_VBR any_DD WSSH_NP1 administrative_JJ staff_NN 
+responsible_JJ for_IF periodic_JJ inspection_NN1 and_CC review_NN1 of_IO 
+the_AT food_NN1 service_NN1 on_II the_AT lodges_NN2 and_CC in_II the_AT 
+cottages_NN2 c_ZZ1 )_) Can_VM there_EX be_VBI more_DAR communications_NN2 
+to_TO prevent_VVI the_AT hostility_NN1 between_II CCAs_NP2 ,_, nursing_VVG ,_, 
+and_CC dietary_JJ departments_NN2 3_MC )_) The_AT dietary_JJ department_NN1 
+claims_VVZ that_CST sufficient_JJ food_NN1 is_VBZ being_VBG provided_VVN 
+and_CC employees_NN2 on_II the_AT units_NN2 say_VV0 that_CST sufficient_JJ 
+food_NN1 is_VBZ not_XX being_VBG provided_VVN a_ZZ1 )_) In_II31 light_II32 
+of_II33 the_AT above_JJ difference_NN1 of_IO opinion_NN1 ,_, how_RRQ does_VDZ 
+the_AT WSSH_NP1 administration_NN1 determine_VV0 whether_CSW sufficient_JJ 
+food_NN1 is_VBZ being_VBG provided_VVN JOINT_JJ VISITATION_NN1 TEAM_NN1 
+VISIT_NN1 Page_NN1 4_MC )_) Mrs._NNB Webb_NP1 asked_VVD "_" Whether_CSW 
+baked_JJ potatoes_NN2 could_VM occasionally_RR be_VBI substituted_VVN for_IF 
+the_AT dehydrated_JJ potatoes_NN2 often_RR served_VVN "_" ?_? 
+She_PPHS1 replied_VVD that_CST "_" The_AT baked_JJ potatoes_NN2 would_VM 
+be_VBI thrown_VVN like_II balls_NN2 "_" a_ZZ1 )_) What_DDQ did_VDD Mrs._NNB 
+Webb_NP1 mean_VVI by_II that_DD1 statement_NN1 b_ZZ1 )_) What_DDQ is_VBZ 
+the_AT philosophy_NN1 regarding_II variety_NN1 of_IO foods_NN2 5_MC )_) 
+We_PPIS2 were_VBDR told_VVN that_CST "_" the_AT nourishment_NN1 "_" varies_VVZ 
+by_II lodge_NN1 according_II21 to_II22 the_AT instructions_NN2 of_IO the_AT 
+physician_NN1 a_ZZ1 )_) Why_RRQ is_VBZ the_AT food_NN1 on_II Cedar_NN1 
+less_RGR varied_JJ and_CC less_RGR nourishing_JJ than_CSN other_JJ lodges_NN2 
+(_( crackers_NN2 )_) RN_NP1 :_: cp_NNU --04a6e4150fd2b975654e95a5ed1e61d6--_FU 

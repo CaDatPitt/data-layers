@@ -1,0 +1,203 @@
+
+as_CSA program_NN1 substitut_NN1 Two_MC doctors_NN2 say_VV0 Pennhurst_NP1 
+uses_VVZ druggin_NN1 A_ZZ1 team_NN1 of_IO two_MC outside_JJ doctors_NN2 
+who_PNQS investigated_VVD medical_JJ and_CC related_JJ services_NN2 at_II 
+Pennsylvanias_NP2 Pennhurst_VV0 Center_NN1 for_IF the_AT mentally_RR 
+retarded_JJ found_VVD serious_JJ inadequacies_NN2 in_II treatment_NN1 ,_, 
+poor_JJ record-keeping_NN1 ,_, and_CC heavy_JJ emphasis_NN1 on_II drugging_VVG 
+which_DDQ appears_VVZ to_TO be_VBI carried_VVN out_RP on_II a_AT1 haphazard_JJ 
+and_CC irrational_JJ basis_NN1 ._. 
+They_PPHS2 said_VVD drugging_VVG is_VBZ used_VVN as_II a_AT1 substitute_NN1 
+for_IF programs_NN2 on_II a_AT1 large_JJ scale_NN1 ._. 
+Dr._NNB James_NP1 D._NP1 Clements_NP1 and_CC Dr._NNB John_NP1 W._NP1 
+Cooledge_NP1 said_VVD they_PPHS2 found_VVD Gaps_NN2 ,_, sometimes_RT of_IO 
+several_DA2 months_NNT2 ,_, in_II decedents_NN2 charts_NN2 (_( these_DD2 
+gaps_NN2 were_VBDR often_RR just_RR prior_II21 to_II22 death_NN1 )_) 
+Progress_NN1 notes_VVZ that_CST were_VBDR frag-mented_JJ and_CC 
+multidisciplinary_NN1 ,_, creat_VV0 s'*_FO *yng_FO hazardous_JJ situations_NN2 
+(_( for_REX21 example_REX22 ,_, zone_NN1 discipline_NN1 staff_NN member_NN1 
+would_VM note_VVI that_CST the_AT resident_NN1 appeared_VVD ill_JJ while_NNT1 
+on_II the_AT same_DA day_NNT1 ,_, on_II the_AT same_DA record_NN1 ,_, 
+another_DD1 would_VM state_VVI that_CST the_AT resident_NN1 was_VBDZ doing_VDG 
+well_RR )_) In_II many_DA2 instances_NN2 ,_, in_II the_AT records_NN2 of_IO 
+deceased_JJ residents_NN2 ,_, signs_NN2 of_IO problems_NN2 present_VV0 long_RR 
+enough_RR before_II the_AT death_NN1 which_DDQ ,_, if_CS they_PPHS2 had_VHD 
+been_VBN heeded_VVN and_CC acted_VVN upon_II ,_, could_VM have_VHI 
+prevented_VVN death_NN1 or_CC mitigated_VVD the_AT threat_NN1 of_IO serious_JJ 
+accident_NN1 or_CC disease_NN1 The_AT two_MC physicians_NN2 listed_VVD 
+several_DA2 case_NN1 histories_NN2 which_DDQ they_PPHS2 said_VVD typified_VVD 
+the_AT standard_NN1 of_IO medical_JJ care_NN1 shown_VVN in_II the_AT 
+records_NN2 they_PPHS2 reviewed_VVD ._. 
+They_PPHS2 commented_VVD Problems_NN2 of_IO this_DD1 kind_NN1 could_VM 
+surely_RR be_VBI ameliorated_VVN by_II better_JJR coordination_NN1 and_CC 
+standardization_NN1 of_IO medical_JJ and_CC medically-related_JJ care_NN1 
+at_II Pennhurst_NP1 ,_, together_RL with_IW more_RGR consistent_JJ efforts_NN2 
+by_II all_DB staff_NN memhnrs_VVZ to_TO identify_VVI and_CC respond_VVI in_II 
+a_AT1 more_RGR sensitive_JJ and_CC individualized_JJ manner_NN1 to_II each_DD1 
+residents_NN2 needs_VVZ ._. 
+In_II literally_RR all_DB the_AT records_NN2 reviewed_VVD ,_, Drs_NP1 ._. 
+Clements_NP1 and_CC Cooledge_NP1 said_VVD ,_, documentation_NN1 of_IO the_AT 
+process_NN1 of_IO medical_JJ diagnosis_NN1 and_CC treatment_NN1 is_VBZ 
+scandalously_RR poor_JJ ._. 
+They_PPHS2 said_VVD multi-handicapped_JJ patients_NN2 regularly_RR receive_VV0 
+long_JJ lists_NN2 of_IO medications_NN2 of_IO various_JJ kinds_NN2 while_CS 
+having_VHG no_AT stated_JJ diagnoses_NN2 ,_, signs_NN2 ,_, or_CC symptms_NN2 
+which_DDQ would_VM explain_VVI the_AT drugs_NN2 use_VV0 ._. 
+In_II one_MC1 ward_NN1 the_AT doctors_NN2 investigated_VVN because_II21 
+of_II22 its_APPGE rather_RG high_JJ incidence_NN1 of_IO resident_JJ deaths_NN2 
+,_, they_PPHS2 commonly_RR found_VVN residents_NN2 receiving_VVG from_II 
+six_MC to_II 12_MC or_CC more_DAR medications_NN2 ,_, of_IO which_DDQ many_DA2 
+have_VH0 serious_JJ known_JJ adverse_JJ side_NN1 effects_NN2 ,_, with_IW 
+identifiable_JJ justification_NN1 them_PPHO2 ._. 
+The_AT physicians_NN2 noted_VVD that_DD1 Penn-urst_NN1 uses_VVZ an_AT1 
+after_JJ hours_NNT2 (_( night_NNT1 and_CC weekend_NNT1 )_) medical-coverage_JJ 
+system_NN1 ich_NN1 places_VVZ a_AT1 premium_NN1 upon_II the_AT 
+abil-part-time_JJ physicians_NN2 to_TO assess_VVI at_II acute_JJ problems_NN2 
+in_II residents_NN2 long-term_JJ medical_JJ conditions_NN2 ,_, tionale_NN1 
+for_IF medications_NN2 being_VBG t_ZZ1 those_DD2 conditions_NN2 ,_, are_VBR 
+at_II nd_NNU obscure._NNU true_JJ ,_, the_AT doctors_NN2 said_VVD ,_, of_IO 
+medical_JJ staff_NN when_CS a_AT1 assigned_JJ physician_NN1 reason_NN1 ._. 
+The_AT resituation_NN1 for_IF ose_NN1 medica_NN1 literally_RR no_UH for_IF 
+usin_NN1 had_VHD some_DD relevance_NN1 to_II medical_JJ problems_NN2 are_VBR 
+being_VBG prescribed_VVN without_IW continuing_JJ evaluation_NN1 of_IO the_AT 
+clients_NN2 present_JJ needs_NN2 ._. 
+The_AT physicians_NN2 report_NN1 said_VVD the_AT use_NN1 of_IO psychotropic_JJ 
+medications_NN2 poses_VVZ a_AT1 particular_JJ problem_NN1 Orders_NN2 for_IF 
+these_DD2 drugs_NN2 are_VBR regularly_RR written_VVN without_IW a_AT1 
+precise_JJ statement_NN1 or_CC description_NN1 of_IO behaviors_NN2 which_DDQ 
+they_PPHS2 are_VBR intended_VVN to_TO control_VVI The_AT result_NN1 is_VBZ 
+that_CST staff_NN who_PNQS provide_VV0 day-in_NNT1 ,_, day-out_NNT1 care_NN1 
+have_VH0 no_AT specific_JJ information_NN1 concerning_II behavioral_JJ 
+observations_NN2 need_VV0 to_TO assist_VVI physicians_NN2 in_II assessing_VVG 
+the_AT effects_NN2 of_IO these_DD2 drugs_NN2 Consequently_RR ,_, behavioral_JJ 
+observations_NN2 ,_, when_CS recorded_VVN at_RR21 all_RR22 ,_, are_VBR 
+couched_VVN in_II vague_JJ and_CC highly_RR subjective_JJ terms_NN2 ._. 
+The_AT report_NN1 said_VVD the_AT problem_NN1 extends_VVZ even_RR to_II 
+clients_NN2 who_PNQS are_VBR regularly_RR seen_VVN by_II a_AT1 
+psychiatrist_NN1 This_DD1 consultants_VVZ notes_VVZ consistently_RR 
+contain_VV0 recommendations_NN2 for_IF psychotropic_JJ treatment_NN1 based_VVN 
+on_II sketchy_JJ information_NN1 whose_DDQGE source_NN1 is_VBZ not_XX 
+documented_VVN Drs_NP1 ._. 
+Clements_NP1 and_CC Cooledge_NP1 said_VVD that_CST psychotropic_JJ 
+medication_NN1 is_VBZ overused_VVN ,_, and_CC used_VVN as_II a_AT1 
+substitute_NN1 for_IF programs_NN2 on_II a_AT1 large_JJ scale_NN1 at_II 
+Pennhurst_NP1 ._. 
+In_II one_MC1 ward_NN1 ,_, the_AT doctors_NN2 reviewed_VVD 12_MC records_NN2 
+and_CC found_VVD 11_MC individuals_NN2 were_VBDR on_II psychoactive_JJ 
+drugs_NN2 ,_, and_CC one_MC1 of_IO these_DD2 was_VBDZ on_II five_MC 
+psychoactive_JJ drugs_NN2 simultaneously_RR In_II no_AT instance_NN1 of_IO 
+any_DD record_NN1 examined_VVD ,_, the_AT doctors_NN2 said_VVD ,_, was_VBDZ 
+there_RL documentation_NN1 of_IO less_RGR restrictive_JJ methods_NN2 of_IO 
+behavior_NN1 modification_NN1 being_VBG tried_VVN ._. 
+Nor_CC ,_, they_PPHS2 said_VVD ,_, did_VDD any_DD of_IO the_AT annual_JJ 
+program_NN1 reviews_NN2 reflect_VV0 any_DD serious_JJ attempt_NN1 to_TO 
+address_VVI the_AT issue_NN1 of_IO replacing_VVG psychoactive_JJ drugs_NN2 
+with_IW more_RGR constructive_JJ forms_NN2 of_IO behavior_NN1 management_NN1 
+Indeed_RR ,_, the_AT two_MC doctors_NN2 continued_VVD ,_, the_AT annual_JJ 
+reviews_NN2 are_VBR so_RR lacking_VVG in_II medical_JJ input_NN1 ..._... 
+that_CST we_PPIS2 have_VH0 the_AT impression_NN1 that_CST Pennhurst_VV0 
+physicians_NN2 are_VBR not_XX really_RR looked_VVN upon_II as_II part_NN1 
+of_IO the_AT program_NN1 team_NN1 ,_, but_CCB rather_RG as_RG detached_JJ 
+professionals_NN2 whose_DDQGE actions_NN2 are_VBR beyond_II the_AT realm_NN1 
+of_IO team_NN1 discussion_NN1 ._. 
+The_AT report_NN1 said_VVD the_AT Pennhurst_NN1 infirmary_NN1 is_VBZ used_VVN 
+as_II a_AT1 last_MD resort_NN1 placement_NN1 for_IF residents_NN2 who_PNQS 
+continue_VV0 to_TO exhibit_VVI unmanageable_JJ behaviors_NN2 despite_II 
+drugging_VVG They_PPHS2 said_VVD that_CST in_II the_AT absence_NN1 of_IO 
+even_RR a_AT1 trial_NN1 of_IO a_AT1 program_NN1 of_IO carefully_RR 
+designed_VVN behavior_NN1 management_NN1 ,_, this_DD1 practice_NN1 is_VBZ 
+clearly_RR highly_RR restrictive_JJ and_CC inappropriate_JJ ._. 
+One_MC1 of_IO the_AT most_RGT serious_JJ problems_NN2 observed_VVN and_CC 
+noted_VVN from_II the_AT Pennhurst_NN1 records_NN2 ,_, the_AT physicians_NN2 
+found_VVD ,_, was_VBDZ their_APPGE universal_JJ and_CC all-pervasive_JJ 
+idleness_NN1 While_CS ultimately_RR affecting_VVG resi_NN2 Retarded_JJ man_NN1 
+must_VM undergo_VVI tests_NN2 on_II keeping_VVG his_APPGE drivers_NN2 
+licens_NN2 Maryland_NP1 transportation_NN1 officials_NN2 have_VH0 decided_VVN 
+that_CST a_AT1 mentally_RR retarded_JJ man_NN1 with_IW a_AT1 perfect_JJ 
+driving_JJ record_NN1 must_VM undergo_VVI medical_JJ tests_NN2 to_TO 
+determine_VVI whether_CSW he_PPHS1 will_VM retain_VVI his_APPGE drivers_NN2 
+license_VV0 Michael_NP1 Epstein_NP1 ,_, an_AT1 office_NN1 worker_NN1 the_AT 
+U.S._NP1 Dept_NN1 ,_, of_IO Education_NN1 ,_, d_ZZ1 definite_JJ signs_NN2 
+of_IO mental_JJ re-when_CS he_PPHS1 was_VBDZ interviewed_VVN ing_VVG 
+officer_NN1 ,_, according_II21 to_II22 an_AT1 the_AT department_NN1 
+summoned_VVN to_II the_AT April_NPM1 accident_NN1 in_II and_CC seriously_RR 
+in-was_VBDZ no_AT dents_NN2 emotional_JJ and_CC intellectual_JJ devr-Z_NP1 
+opment_NN1 ,_, they_PPHS2 said_VVD ,_, the_AT most_RRT "_" mediate_VV0 and_CC 
+obvious_JJ effects_NN2 are_VBR accident_NN1 ,_, injury_NN1 ,_, self-abuse_NN1 
+,_, and_CC abuse_NN1 by_II staff_NN ._. 
+Drs_NP1 ._. 
+Clements_NP1 and_CC Cooledge_NP1 saw_VVD a_AT1 number_NN1 of_IO problems_NN2 
+while_CS observing_VVG one_MC1 lunchtime_NNT1 meal_NN1 in_II a_AT1 ward_NN1 
+Many_DA2 wheelchairs_NN2 were_VBDR not_XX properly_RR adapted_VVN either_RR 
+for_IF posture_NN1 or_CC fo_NN1 use_NN1 at_II "_" mealtime_NNT1 ._. 
+Some_DD were_VBDR too_RG high_JJ to_TO fit_VVI under_II the_AT tables_NN2 ,_, 
+requiring_VVG their_APPGE users_NN2 to_TO reach_VVI far_JJ to_TO feed_VVI 
+themselves_PPX2 comfortably_RR ._. 
+In_II others_NN2 ,_, a_AT1 built-on_JJ tray_NN1 was_VBDZ so_RG high_JJ as_CSA 
+to_TO make_VVI self-feeding_JJ awkward_JJ Unsupervised_JJ stealing_NN1 of_IO 
+food_NN1 was_VBDZ noted_VVN Non-self-feeding_JJ residents_NN2 were_VBDR 
+being_VBG fed_VVN hurriedly_RR ,_, using_VVG the_AT dangerous_JJ technique_NN1 
+of_IO raking_JJ food_NN1 off_II spoons_NN2 by_II drawing_VVG them_PPHO2 
+upwards_RL over_II the_AT upper_JJ teeth_NN2 an_AT1 open_JJ invitation_NN1 
+to_II choking_VVG and_CC aspiration_NN1 Rarely_RR could_VM we_PPIS2 locate_VVI 
+prescriptions_NN2 for_IF proper_JJ amounts_NN2 of_IO fluid_NN1 intake_NN1 ,_, 
+or_CC records_NN2 of_IO urinary_JJ output_NN1 ._. 
+The_AT two_MC physicians_NN2 were_VBDR also_RR sharply_RR critical_JJ of_IO 
+record-keeping_NN1 practices_NN2 at_II Pennhurst_NP1 Drs_NP1 ._. 
+Clements_NP1 and_CC Cooledge_NP1 offered_VVD 15_MC recommendations_NN2 
+There_EX must_VM be_VBI a_AT1 careful_JJ orientation_NN1 of_IO the_AT new_JJ 
+medical_JJ director_NN1 to_II problems_NN2 of_IO Pennhursts_NP1 medical_JJ 
+program_NN1 A_ZZ1 continuum_NN1 of_IO sensitivity-raising_JJ medical_JJ 
+grand_JJ rounds_NN2 should_VM be_VBI provided_VVN monthly_JJ for_IF one_MC1 
+year_NNT1 But_CCB the_AT departments_NN2 administrative_JJ adjudication_NN1 
+board_NN1 ruled_VVD that_CST Epstein_NP1 must_VM undergo_VVI extensive_JJ 
+tests_NN2 to_TO determine_VVI his_APPGE driving_JJ capabilities_NN2 
+Epsteins_NP2 attorney_NN1 ,_, Victor_NP1 M._NN1 Glasberg_NP1 ,_, said_VVD 
+there_EX was_VBDZ nothing_PN1 in_II the_AT proceeding_VVG that_CST 
+warrants_VVZ taking_VVG the_AT matter_NN1 any_RR further_RRR ._. 
+The_AT case_NN1 is_VBZ one_MC1 of_IO only_RR a_AT1 few_DA2 instances_NN2 in_II 
+which_DDQ mental_JJ retardation_NN1 has_VHZ been_VBN used_VVN as_II a_AT1 
+possible_JJ ground_NN1 for_IF the_AT revocation_NN1 of_IO a_AT1 drivers_NN2 
+license_VV0 If_CS Epstein_NP1 loses_VVZ his_APPGE ljcense_NN1 through_II 
+an_AT1 administrative_JJ process_NN1 ,_, those_DD2 close_JJ to_II him_PPHO1 
+say_VV0 he_PPHS1 is_VBZ prepared_VVN to_TO fight_VVI the_AT matter_NN1 in_II 
+court_NN1 ,_, according_II21 to_II22 the_AT Washington_NP1 Post_NN1 A_ZZ1 
+mandatory_JJ continuing-education_JJ program_NN1 for_IF all_DB physicians_NN2 
+should_VM be_VBI conducted_VVN Physicians_NN2 caseloads_NN2 should_VM be_VBI 
+no_AT more_DAR than_CSN 100_MC clients_NN2 Use_NN1 of_IO separate_JJ ,_, 
+part-time_JJ physicians_NN2 for_IF night_NNT1 coverage_NN1 should_VM be_VBI 
+discontinued_VVN Verbal_JJ orders_NN2 by_II physicians_NN2 should_VM be_VBI 
+minimized_VVN A_AT1 critical_JJ review_NN1 of_IO long-term_JJ medication_NN1 
+should_VM be_VBI done_VDN at_RR21 least_RR22 monthly_JJ ,_, stating_VVG the_AT 
+purpose_NN1 of_IO the_AT drug_NN1 ,_, results_NN2 ,_, and_CC reason_NN1 for_IF 
+continuing_VVG the_AT drug_NN1 There_EX should_VM be_VBI a_AT1 monthly_JJ 
+review_NN1 of_IO accidents_NN2 ,_, injuries_NN2 ,_, etc._RA ,_, for_IF the_AT 
+purpose_NN1 of_IO instigating_VVG general_JJ preventive_JJ measures_NN2 A_AT1 
+clearer_JJR definition_NN1 of_IO use_NN1 of_IO outside_JJ resources_NN2 
+such_II21 as_II22 outside_JJ hospitals_NN2 ,_, consultants_NN2 ,_, elective_JJ 
+surgery_NN1 ,_, restorative_JJ surgery_NN1 ,_, etc._RA ,_, should_VM be_VBI 
+developed_VVN by_II the_AT medical_JJ staff_NN ._. 
+Ward_NP1 records_NN2 should_VM be_VBI regularly_RR reviewed_VVN for_IF 
+continuity_NN1 ,_, clarity_NN1 ,_, and_CC pertinence_NN1 ._. 
+The_AT services_NN2 of_IO a_AT1 nutritionist_NN1 should_VM be_VBI obtained_VVN 
+to_TO assist_VVI in_II ordering_VVG individualized_JJ diets_NN2 ..._... 
+Staff_NN who_PNQS feed_VV0 residents_NN2 need_VV0 special_JJ training_NN1 
+in_II feeding_VVG techniques_NN2 ._. 
+Provision_NN1 should_VM be_VBI made_VVN for_IF adaptive_JJ equipment_NN1 
+such_II21 as_II22 wheelchairs_NN2 ,_, walkers_NN2 ,_, crutches_NN2 ,_, 
+braces_NN2 ,_, and_CC feeding_VVG devices_NN2 Monitoring_NN1 of_IO the_AT 
+use_NN1 of_IO psycho_NN1 tropic_JJ drugs_NN2 should_VM be_VBI considered_VVN 
+An_AT1 official_JJ with_IW the_AT medical_JJ advisory_JJ board_NN1 of_IO 
+the_AT Maryland_NP1 Motor_NN1 Vehicle_NN1 Administration_NN1 said_VVD 
+Epstein_NP1 will_VM be_VBI required_VVN to_TO submit_VVI to_II the_AT 
+board_NN1 the_AT results_NN2 of_IO medical_JJ examinations_NN2 conducted_VVN 
+by_II his_APPGE own_DA physicians_NN2 The_AT board_NN1 will_VM then_RT 
+analyze_VVI the_AT information_NN1 and_CC will_VM decide_VVI if_CSW it_PPH1 
+wants_VVZ to_TO meet_VVI with_IW Epstein_NP1 before_II making_VVG a_AT1 
+decision_NN1 on_II his_APPGE fitness_NN1 to_TO drive_VVI The_AT board_NN1 
+heard_VVD 14,000_MC cases_NN2 last_MD year_NNT1 and_CC approved_JJ 
+licenses_NN2 in_II 12,000_MC cases_NN2 ,_, including_II two_MC people_NN 
+who_PNQS were_VBDR retarded_JJ ._. 
+One_MC1 retarded_JJ person_NN1 seeking_VVG a_AT1 license_NN1 was_VBDZ 
+rejected_VVN CARC_NN1 NEWS_NN1 for_IF August_NPM1 ,_, 1980_MC 9_MC 
+--5caf5cd1fac7f6b6b28c518bfa124452--_FU 

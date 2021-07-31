@@ -1,0 +1,21 @@
+
+1_MC1 POLICIES_NN2 AND_CC PROCEDURE_NN1 fo_NN1 POLK_NP1 STATE_NN1 SCHOOL_NN1 
+AND_CC HOSPITA_NP1 General_JJ Statement_NN1 It_PPH1 shall_VM be_VBI the_AT 
+policy_NN1 of_IO this_DD1 Institution_NN1 to_TO attempt_VVI to_TO insure_VVI 
+the_AT rights_NN2 of_IO all_DB residents_NN2 to_II the_AT fullest_JJT 
+degree_NN1 possible_JJ ._. 
+Only_RR the_AT inability_NN1 to_TO function_VVI will_VM be_VBI the_AT 
+deterrent_NN1 to_II the_AT full_JJ use_NN1 of_IO these_DD2 rights_NN2 ._. 
+The_AT retarded_JJ who_PNQS are_VBR residents_NN2 here_RL do_VD0 enjoy_VVI 
+the_AT same_DA rights_NN2 as_CSA everyone_PN1 else_RR ._. 
+In_II31 accord_II32 with_II33 the_AT Preamble_NN1 of_IO the_AT National_JJ 
+Association_NN1 for_IF Retarded_JJ Children_NN2 Policy_NN1 Statement_NN1 on_II 
+Residential_JJ Care_NN1 ,_, the_AT policies_NN2 and_CC procedures_NN2 at_II 
+Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 will_VM aim_VVI at_II 
+eliminating_VVG practices_NN2 which_DDQ result_VV0 in_II such_DA things_NN2 
+a_AT1 (_( 1_MC1 )_) over-_JJ dependency_NN1 (_( 2_MC )_) lack_NN1 of_IO 
+personal_JJ identity_NN1 (_( 3_MC )_) lack_NN1 of_IO privacy_NN1 (_( ll_NNU 
+)_) lack_NN1 of_IO meaningful_JJ relationships_NN2 (_( 5_MC )_) lack_NN1 of_IO 
+self-esteem_NN1 (_( 6_MC )_) cultural_JJ and_CC sensory_JJ deprivation_NN1 (_( 
+7_MC )_) lack_NN1 of_IO individual_JJ programming._NNU 
+--dd3d741bb5d4cc339a51f29c6b461a74--_FU 

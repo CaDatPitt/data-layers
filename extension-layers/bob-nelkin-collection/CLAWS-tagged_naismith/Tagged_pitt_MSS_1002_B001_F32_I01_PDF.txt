@@ -1,0 +1,35 @@
+
+NANCY_NP1 ZIRNGLB_NP1 PUBLIC_JJ RELATIONS_NN2 COORDINATO_NP1 ALLEGHENY_NP1 
+COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ 
+Citiz_NP1 1001_MC BRIGHTON_NP1 ROAD_NN1 PITTSBURGH_NP1 ,_, PA._NN1 1523_MC 
+TELEPHONE_NN1 (_( 412_MC )_) 322-600_MCMC November_NPM1 9_MC ,_, 197_MC -_- 
+REQUEST_VV0 FO_NP1 ?_? 
+COVERAG_NP1 EVENT_NN1 :_: Public_JJ meeting_NN1 sponsored_VVN by_II the_AT 
+Allegheny_NP1 County_NN1 Chapter_NN1 of_IO the_AT Pennsylvania_NP1 
+Association_NN1 for_IF Retarded_JJ Citizens_NN2 ._. 
+To_TO be_VBI attended_VVN primarily_RR by_II families_NN2 of_IO handicapped_JJ 
+people_NN in_II31 need_II32 of_II33 community_NN1 placements_NN2 ._. 
+(_( Note_VV0 :_: not_XX just_RR families_NN2 of_IO people_NN who_PNQS are_VBR 
+mentally_RR retarded_JJ ._. 
+DATE_NN1 :_: Saturday_NPD1 ,_, November_NPM1 20_MC ,_, 197_MC TIME_NNT1 :_: 
+10:00_MC a.m_RA LOCATION_NN1 :_: Bell_NP1 Telephone_NN1 Building_NN1 
+Auditorium_NN1 ,_, 201_MC Stanwix_NP1 Street_NNL1 ,_, Gateway_NP1 Center_NN1 
+,_, downtown_JJ Pittsburg_NP1 SPEAKER_NN1 :_: Frank_NP1 S._NP1 Beal_NP1 ,_, 
+Secretary_NN1 of_IO Pennsylvanias_NP2 Department_NN1 of_IO Public_JJ 
+Welfar_NN1 BACKGROUND_NN1 INFORMATION_NN1 :_: This_DD1 is_VBZ the_AT third_MD 
+in_II a_AT1 series_NN of_IO meetings_NN2 concerning_II the_AT critical_JJ 
+lack_NN1 of_IO present_NN1 and_CC proposed_JJ residential_JJ facilities_NN2 
+,_, programs_NN2 and_CC services_NN2 ._. 
+Over_RG 120_MC people_NN attended_VVD the_AT first_MD meeting_NN1 in_II 
+May_NPM1 ._. 
+Nearly_RR 300_MC people_NN (_( including_II a_AT1 number_NN1 of_IO 
+legislators_NN2 )_) met_VVD with_IW Secretary_NP1 Beal_NP1 in_II June_NPM1 
+and_CC publicly_RR expressed_VVD their_APPGE families_NN2 needs_VVZ ,_, 
+present_JJ and_CC future_NN1 ._. 
+Secretary_NP1 Beal_NP1 was_VBDZ asked_VVN to_TO return_VVI on_II November_NPM1 
+20_MC to_TO declare_VVI the_AT Department_NN1 's_GE intentions_NN2 and_CC 
+to_TO outline_VVI the_AT Commonwealth_NN1 's_GE "_" five-year_JJ plan_NN1 "_" 
+on_II the_AT subject_NN1 of_IO community_NN1 alternatives_NN2 to_II 
+institutionalization_NN1 An_AT1 attendance_NN1 of_IO 500_MC is_VBZ 
+anticipated_VVN ._. 
+--446b343de561201614b13a35e132362f--_FU 

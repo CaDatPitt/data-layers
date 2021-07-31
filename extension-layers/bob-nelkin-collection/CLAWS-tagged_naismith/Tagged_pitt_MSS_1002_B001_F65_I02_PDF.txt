@@ -1,0 +1,44 @@
+
+MARY_NP1 LOU_NP1 MAGISTRI_NP1 ,_, Public_JJ Relationa_NN1 Director_NN1 
+Phone_NN1 :_: 322-600_MCMC of_IO the_AT Pennsylvania_NP1 Association_NN1 
+for_IF Retarded_JJ Children_NN2 ,_, Inc._JJ 917-1001_MCMC Brighton_NP1 
+Road_NNL1 Pittsburgh_NP1 ,_, Pa._NP1 1523_MC fo_NN1 October_NPM1 24_MC ,_, 
+197_MC Information_NN1 to_TO be_VBI used_VVN by_II Don_NP1 Cannon_NP1 and_CC 
+Bob_NP1 Sprague_NP1 in_II preparing_VVG television_NN1 interview_NN1 with_IW 
+Virginia_NP1 Thornburgh_NP1 for_IF October_NPM1 28th_MD "_" Closeup_NP1 "_" 
+Virginia_NP1 Thornburgh_NP1 :_: First_MD Vice_JJ President_NN1 of_IO 
+ACC-PARC_NP1 Chairman_NN1 of_IO ACC-PARC_NP1 's_GE State_NN1 School_NN1 and_CC 
+'V_NN1 Hospital_NN1 and_CC Interim_JJ Care_NN1 Committee_NN1 ;_; mother_NN1 
+of_IO a_AT1 retarded_JJ child_NN1 History_NN1 In_II June_NPM1 of_IO 1972_MC 
+,_, concerned_JJ that_CST the_AT Department_NN1 of_IO Public_JJ Welfare_NN1 
+was_VBDZ not_XX adequately_RR serving_VVG the_AT retarded_JJ under_II 
+their_APPGE jurisdiction_NN1 ,_, ACC-PARC_NP1 's_GE Board_NN1 of_IO 
+Directors_NN2 charged_VVD its_APPGE State_NN1 School_NN1 and_CC Hospital_NN1 
+and_CC Interim_JJ Care_NN1 Committee_NN1 to_TO re-activate_VVI visitations_NN2 
+to_II MR_NNB facilities_NN2 in_II the_AT western_JJ region_NN1 ._. 
+The_AT death_NN1 of_IO Richard_NP1 Hissim_NP1 at_II Ridge_NN1 View_NN1 
+Center_NN1 prompted_VVD several_DA2 on-site_JJ inspections_NN2 of_IO this_DD1 
+facility_NN1 ..._... with_IW request_NN1 to_II DPW_NP1 after_II each_DD1 
+visitation_NN1 that_CST the_AT facility_NN1 be_VBI closed_VVN ._. 
+These_DD2 requests_NN2 were_VBDR ignored_VVN ._. 
+The_AT death_NN1 of_IO Louis_NP1 Novak_NP1 at_II Ridge_NN1 View_NN1 
+reinforced_VVD the_AT local_JJ chapter_NN1 's_GE fears_NN2 for_IF the_AT 
+care_NN1 of_IO Allegheny_NP1 County_NN1 residents_NN2 placed_VVN in._NNU 
+facilities_NN2 throughout_II the_AT State_NN1 ..._... and_CC a_AT1 public_JJ 
+pledge_NN1 wa_NN1 made_VVN in_II August_NPM1 to_TO monitor_VVI all_DB 
+facilities_NN2 housing_VVG mentally_RR retarded_JJ children_NN2 cind_VV0 
+adults_NN2 from_II Allegheny_NP1 County_NN1 Mrs._NNB Thornburgh_NP1 
+visited_VVD the_AT following_JJ facilities_NN2 that.have_NNU recently_RR 
+been_VBN in_II the_AT news_NN1 :_: Ridge_NN1 View_NN1 ,_, Mountain_NN1 Top_NN1 
+,_, Polk_NP1 Mrs._NNB Mary_NP1 Lou_NP1 Magistr_NP1 Page_NP1 Tw_NP1 
+October_NPM1 24_MC ,_, 197_MC She_PPHS1 will_VM answer_VVI any_DD 
+questions_NN2 regarding_II what_DDQ she_PPHS1 saw_VVD on_II these_DD2 
+inspections_NN2 (_( physical_JJ plant_NN1 ,_, staffing_NN1 programming_NN1 ,_, 
+residents_NN2 )_) attitude_NN1 of_IO DPW_NP1 (_( especially_RR N.E._ND1 
+Regional_JJ office_NN1 )_) regarding_II these_DD2 facilities_NN2 and_CC 
+their_APPGE reaction_NN1 when_CS confronted_VVN by_II tea_NN1 recommended_VVD 
+changes_NN2 in_II care_NN1 and_CC treatment_NN1 of_IO mentally_RR retarded_JJ 
+'anything_NN1 else_RR Cannon_NN and_CC Sprague_NP1 wish_VV0 to_TO ask_VVI ._. 
+Published_VVN and_CC unpublished_JJ reports_NN2 of_IO ACC-PARC_NP1 site_NN1 
+visitations_NN2 are_VBR enclosed_VVN ._. 
+--0d4632c2534356dcb210e73807214805--_FU 

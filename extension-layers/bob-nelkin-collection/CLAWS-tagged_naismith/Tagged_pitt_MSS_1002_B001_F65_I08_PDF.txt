@@ -1,0 +1,22 @@
+
+REPORT_NN1 CONCERNING_II A_AT1 CALL_NN1 ABOUT_II CHILDRENS_NN2 
+REHABILITATION_NN1 CENTER_NN1 ,_, BUTLER_NP1 ,_, PA._NN1 12/29/7_MF The_AT 
+call_NN1 to_II the_AT ACC-PARC_NP1 Office_NN1 was_VBDZ made_VVN by_II an_AT1 
+employee_NN1 of_IO the_AT Childrens_NN2 Rehabilitation_NN1 Center_NN1 ._. 
+She_PPHS1 said_VVD that_CST since_CS the_AT strike_NN1 (_( 12/4_MF )_) new_JJ 
+aides_NN2 have_VH0 been_VBN hired_VVN ._. 
+However_RR ,_, there_EX have_VH0 not_XX been_VBN enough_DD aides_NN2 ,_, 
+and_CC they_PPHS2 have_VH0 not_XX received_VVN sufficient_JJ training_NN1 ._. 
+She_PPHS1 would_VM like_VVI somebody_PN1 to_TO look_VVI Into_II It_PPH1 ._. 
+Children_NN2 are_VBR not_XX being_VBG neglected_VVN ,_, but_CCB they_PPHS2 
+are_VBR not_XX receiving_VVG the_AT care_NN1 that_CST they_PPHS2 had_VHD 
+been_VBN before_II the_AT strike_NN1 ._. 
+The_AT Inadequate_JJ care_NN1 Is_VBZ reflected_VVN In_II the_AT chlldreAs_NN2 
+behavior_NN1 ._. 
+The_AT woman_NN1 who_PNQS called_VVD Is_VBZ presently_RR employed_VVN at_II 
+the_AT Center_NN1 and_CC not_XX on_II strike_NN1 ._. 
+She_PPHS1 said_VVD the_AT Center_NN1 was_VBDZ very_RG well_RR run_VVN In_II 
+the_AT past_NN1 and_CC feels_VVZ the_AT kIds_NN2 are_VBR regressing_VVG 
+because_II21 of_II22 Inadequate_JJ care_NN1 Robert_NP1 Nel_NP1 kin_NN ,_, 
+DI_NN1 rector_NN1 Community_NN1 &; Chapter_NN1 Affairs_NN2 
+--9342a8aa80ce49e0fabcd9ba50c8e900--_FU 

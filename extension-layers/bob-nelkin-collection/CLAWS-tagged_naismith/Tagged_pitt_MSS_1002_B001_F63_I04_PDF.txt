@@ -1,0 +1,30 @@
+
+SUMMARY_NN1 TN_NP1 SUPPORT_NN1 OF_IO SENATE_NN1 BILL_NN1 9_MC If_CS Senate_NN1 
+Bill_NN1 94_MC passes_NN2 with_IW the_AT attached_JJ proposed_JJ 
+amendments_NN2 ,_, who_PNQS will_VM be_VBI included_VVN in_II its_APPGE 
+protections_NN2 1_MC1 ._. 
+All_DB elderly_JJ persons_NN2 who_PNQS are_VBR mentally_RR retarded_JJ ,_, 
+mentall_VV0 ill_JJ (_( but_CCB not_XX involuntarily_RR committed_VVN or_CC 
+committed_VVN for_IF a_AT1 criminal_JJ act_NN1 )_) ,_, and_CC physically_RR 
+handicapped_VVN will_VM be_VBI included_VVN in_II the_AT protections_NN2 of_IO 
+Senate_NN1 Bill_NN1 94_MC and_CC therefore_RR permitted_VVN to_TO live_VVI 
+in_II group_NN1 homes_NN2 2_MC ._. 
+All_DB mentally_RR retarded_JJ persons_NN2 will_VM be_VBI permitted_VVN to_TO 
+live_VVI in_II group_NN1 homes_NN2 3_MC ._. 
+All_DB physically_RR handicapped_JJ persons_NN2 will_VM be_VBI permitte_NN1 
+to_TO live_VVI in_II group_NN1 homes_NN2 4_MC ._. 
+All_DB dependent_JJ children_NN2 will_VM be_VBI permitted_VVN to_TO live_VVI 
+in_II group_NN1 homes_NN2 5_MC ._. 
+Mentally_RR ill_JJ persons_NN2 who_PNQS have_VH0 not_XX been_VBN 
+involuntarily_RR committed_VVN or_CC who_PNQS have_VH0 not_XX committed_VVN 
+criminal_JJ acts_NN2 wil_NN1 be_VBI permitted_VVN to_TO live_VVI in_II 
+group_NN1 homes_NN2 after_II approval_NN1 by_II the_AT local_JJ county_NN1 
+mental_JJ health_NN1 and_CC mental_JJ retardation_NN1 agency_NN1 6_MC ._. 
+These_DD2 people_NN living_VVG in_II group_NN1 homes_NN2 will_VM be_VBI 
+residents_NN2 of_IO the_AT political_JJ sub-division_NN1 in_II which_DDQ 
+the_AT home_NN1 is_VBZ located_VVN or_CC in_II an_AT1 adjoining_JJ 
+political_JJ sub-division_NN1 ,_, unless_CS it_PPH1 is_VBZ certified_VVN by_II 
+the_AT appropriate_JJ agency_NN1 that_CST there_EX is_VBZ either_RR no_AT 
+appropriate_JJ home_NN1 available_JJ or_CC that_CST the_AT appropriate_JJ 
+home_NN1 is_VBZ full_JJ ._. 
+--7281c313a0d7745c6301ac19e6701478--_FU 

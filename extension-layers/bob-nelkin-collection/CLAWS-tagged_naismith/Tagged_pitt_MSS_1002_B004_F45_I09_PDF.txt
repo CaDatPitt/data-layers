@@ -1,0 +1,129 @@
+
+PENNSYLVANIA_NP1 ASSOCIATION_NN1 for_IF RETARDED_JJ CHILDREN_NN2 ,_, In_II 
+127_MC Locust_NP1 Street_NNL1 Harrisburg_NP1 ,_, Pa._NP1 17101_MC Tel_NN1 :_: 
+(_( 717_MC )_) 234-262_MCMC LAN_NN1 BE_VBI HELPE_NN1 OFFICER_NN1 Mrs._NNB 
+Harry_NP1 P._NP1 Clap_VV0 Presiden_NP1 L._NP1 Steuart_NP1 Brown_NP1 1st_MD 
+Vice_NNB President_NNB Jerome_NP1 L._NP1 Bernstein_NP1 2nd_MD Vice_NNB 
+President_NNB Kenneth_NP1 D._NP1 Plimpton_NP1 3rd_MD Vice_JJ President_NN1 
+Mrs._NNB J._NP1 J._NP1 Isherwood_NP1 Secretary_NP1 Sidney_NP1 V._II 
+Blecker_NP1 ,_, Esq_NNA ._. 
+Treasurer_NN1 John_NP1 McCrea_NP1 ,_, III_MC Counsel_NP1 Father_NNB John_NP1 
+A._NP1 Kirk_NP1 Chaplain_NP1 James_NP1 R._NP1 Wilson_NP1 ,_, Jr_NNA ._. 
+Immediate_JJ Past_JJ Presiden_NN1 EXECUTIVE_NN1 COMMITTE_NN1 Casimir_NN1 V._II 
+Yanish_NN1 ;_; ._. 
+Chester_NP1 Armbrust_VV0 Mrs._NNB Philip_NP1 Elkin_NP1 Shirley_NP1 Merlin_NP1 
+,_, Ed.D_NP1 ._. 
+Ann_NP1 Buchholtz_NP1 ,_, President_NN1 ,_, Youth-PARC_NP1 Charles_NP1 T._NP1 
+Mitchell_NP1 ,_, Jr._NNA ,_, NARC_NP1 Board_NN1 Mrs._NNB Andrew_NP1 
+Schmidt_NP1 ,_, Board_NN1 Representative_NN1 Mrs._NNB Parke_NP1 Speary_NP1 ,_, 
+Board_NN1 Representativ_NN1 Region_NN1 1_MC1 Director_NN1 Robert_NP1 Gin_NN1 
+Region_NN1 2_MC Director_NN1 Mrs._NNB Leo_NP1 Leve_NP1 Region_NN1 3_MC 
+Director_NN1 Luther_NP1 S._NP1 Beer_NN1 Region_NN1 4_MC Director_NN1 Mrs._NNB 
+John_NP1 E._NP1 Gano_NP1 Region_NN1 5_MC Director_NN1 Mrs._NNB Marvin_NP1 
+L._NP1 Crul_NP1 Region_NN1 6_MC Director_NN1 Mrs._NNB Irene_NP1 Smeric_NP1 
+*_FU Peter_NP1 P._NP1 Polloni_NP1 Executive_NN1 Director_NN1 Ms._NNB 
+Suzanne_NP1 Yenchko_NP1 Assistant_JJ Executive_NN1 Director_NN1 Richard_NP1 
+L._NP1 Parker_NP1 Resource_NN1 Development_NN1 Directo_NN1 February_NPM1 22_MC 
+,_, 197_MC Mr._NNB Ed_NP1 Goldma_NP1 Commissioner_NN1 of_IO Mental_JJ 
+Retardation_NN1 Department_NN1 of_IO Public_JJ Welfar_NN1 P.O._NN1 Box_NN1 
+2675_MC Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC Dear_JJ Commissioner_NP1 
+Goldman_NP1 Several_DA2 of_IO our_APPGE members_NN2 have_VH0 visited_VVN 
+the_AT Hamburg_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 recently_RR and_CC 
+the_AT Residential_JJ Services_NN2 Committee_NN1 has_VHZ asked_VVN me_PPIO1 
+to_TO write_VVI to_II you_PPY about_II our_APPGE concern_NN1 for_IF the_AT 
+mentally_RR retarded_JJ persons_NN2 living_VVG at_II that_DD1 institution_NN1 
+The_AT Committee_NN1 feels_VVZ that_CST in_II many_DA2 cases_NN2 ,_, the_AT 
+residents_NN2 are_VBR not_XX receiving_VVG treatment_NN1 and_CC training_NN1 
+which_DDQ they_PPHS2 need_VV0 due_II21 to_II22 a_AT1 shortage_NN1 of_IO 
+both_DB2 professional_JJ and_CC direct_JJ care_NN1 workers_NN2 ._. 
+For_REX21 example_REX22 in_II the_AT wards_NN2 for_IF women_NN2 and_CC 
+adolescent_JJ girls_NN2 ,_, the_AT surroundings_NN2 have_VH0 been_VBN made_VVN 
+more_RGR comfortable_JJ and_CC cheerful_JJ with_IW the_AT addition_NN1 of_IO 
+colorful_JJ bedspreads_NN2 ,_, drapes_NN2 ,_, sofas_NN2 ,_, chairs_NN2 and_CC 
+tables_NN2 in_II the_AT dayroom_NN1 ._. 
+However_RR ,_, all_DB of_IO these_DD2 wards_NN2 do_VD0 not_XX have_VHI 
+adequate_JJ dayroom_NN1 space_NN1 and_CC the_AT women_NN2 and_CC girls_NN2 
+are_VBR encouraged_VVN to_TO spend_VVI leisure_NN1 time_NNT1 in_II the_AT 
+sleeping_JJ areas_NN2 ._. 
+There_EX are_VBR no_AT chairs_NN2 in_II the_AT bedroom_NN1 section_NN1 ,_, 
+only_JJ beds_NN2 and_CC an_AT1 occasional_JJ chest_NN1 ._. 
+None_PN of_IO these_DD2 wards_NN2 had_VHD a_AT1 staff_NN person_NN1 
+present_NN1 at_II the_AT time_NNT1 of_IO our_APPGE visit_NN1 In_II a_AT1 
+locked_JJ ward_NN1 ,_, boys_NN2 were_VBDR lying_VVG on_II the_AT floor_NN1 ;_; 
+the_AT base_NN1 boards_NN2 looked_VVN as_CS21 though_CS22 they_PPHS2 had_VHD 
+been_VBN chewed_VVN and_CC since_CS the_AT paint_NN1 job_NN1 looked_VVD 
+very_RG old_JJ ,_, I_PPIS1 hope_VV0 it_PPH1 was_VBDZ not_XX lead_VV0 paint_NN1 
+._. 
+There_EX were_VBDR a_AT1 number_NN1 of_IO electrical_JJ outlets_NN2 within_II 
+reach_NN1 of_IO the_AT resident_NN1 ._. 
+At_II no_AT time_NNT1 were_VBDR there_EX any_DD male_JJ aids_NN2 present_VV0 
+There_EX was_VBDZ a_AT1 startling_JJ lack_NN1 of_IO child_NN1 care_NN1 and_CC 
+professional_JJ staff_NN in_II the_AT Total_JJ Care_NN1 Areas_NN2 ._. 
+Women_NN2 residents_NN2 were_VBDR working_VVG with_IW these_DD2 
+multihandicapped_JJ individuals_NN2 ._. 
+One_MC1 "_" helper_NN1 "_" ha_UH JUNE_NP1 6-9_MCMC ,_, 197_MC 23rd_MD 
+ANNUAL_JJ PARC_NP1 CONVENTION_NN1 JOHNSTOWN_NN1 CAMPUS_NN1 ,_, UNIVERSITY_NN1 
+OF_IO PITTSBURGH_NP1 Member_NN1 Unit_NN1 of_IO National_JJ Association_NN1 
+for_IF Retarded_JJ Children_NN2 ,_, Inc_JJ There_EX was_VBDZ no_AT nurse_NN1 
+there_RL a_AT1 One_MC1 resident_NN1 was_VBDZ supposedly_RR feedin_NN1 
+changed_VVD the_AT bed_NN1 and_CC completely_RR covered_VVD the_AT 
+patients_NN2 head_VV0 with_IW the_AT sheet_NN1 that_DD1 time_NNT1 another_DD1 
+but_CCB dropping_VVG more_RRR on_II the_AT floor_NN1 than_CSN sh_UH was_VBDZ 
+putting_VVG in_II the_AT handicapped_JJ chi_NN1 Ids_NN2 mouth_VV0 Tiring_JJ 
+of_IO the_AT whole_JJ business_NN1 ,_, the_AT the_AT plate_NN1 to_II the_AT 
+nurse_NN1 and_CC said_VVD anymore_RR "_" the_AT half_NN1 ful1_FO dish_NN1 
+'helper_NN1 "_" took_VVD le_FW does_VDZ n't_XX want_VVI t_ZZ1 "_" and_CC 
+accepte_NN1 The_AT nurse_NN1 said_VVD physical_JJ de_NP1 Most_DAT of_IO 
+these_DD2 residents_NN2 have_VH0 serious_JJ fects_NN2 ,_, but_CCB Hamburg_NP1 
+physical_JJ therapist_NN1 staff_NN consists_VVZ of_IO one_MC1 unlicensed_JJ 
+part-time_JJ therapist_NN1 In_II the_AT hospital_NN1 there_EX appears_VVZ 
+to_TO be_VBI a_AT1 similar_JJ shortage_NN1 of_IO staff_NN although_CS Mr._NNB 
+Baumstein_NP1 said_VVD it_PPH1 is_VBZ JCAH_NP1 accreditted_VVD Dinner_NN1 
+was_VBDZ being_VBG served_VVN at_II 3:30_MC p.m_RA ._. 
+Lack_NN1 of_IO staff_NN was_VBDZ given_VVN as_II the_AT reason_NN1 for_IF 
+the_AT unusual_JJ hours_NNT2 -_- breakfast_NN1 at_II 7:00_MC a.m._RA ,_, 
+lunch_NN1 starting_VVG at_II 9:45_MC a.m._RA and_CC dinner_NN1 starting_VVG 
+at_II 3:00_MC p.m_RA Mr._NNB Baumstein_NP1 indicated_VVD that_DD1 
+recruitment_NN1 of_IO nonprofessional_JJ staff_NN is_VBZ no_AT problem_NN1 
+in_II the_AT Hamburg_NP1 area_NN1 ._. 
+We_PPIS2 urge_VV0 you_PPY to_TO hire_VVI immediately_RR ,_, as_CSA many_DA2 
+child_NN1 care_NN1 workers_NN2 and_CC aids_NN2 as_CSA are_VBR necessary_JJ 
+to_TO meet_VVI the_AT care_NN1 and_CC development_NN1 needs_NN2 of_IO the_AT 
+residents_NN2 at_II Hamburg_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 
+Additional_JJ professional_JJ staff_NN ,_, particularly_RR those_DD2 
+skilled_JJ in_II working_VVG with_IW mentally_RR retarded_JJ persons_NN2 
+having_VHG gross_JJ physical_JJ involvement_NN1 ,_, must_VM be_VBI 
+recruited_VVN as_CS31 soon_CS32 as_CS33 poss_NN1 i_ZZ1 ble_VV0 It_PPH1 is_VBZ 
+essential_JJ that_CST residents_NN2 are_VBR not_XX employed_VVN as_CSA "_" 
+helpers_NN2 "_" on_II wards_NN2 ,_, unless_CS they_PPHS2 are_VBR properly_RR 
+trained_VVN and_CC under_II close_JJ supervision_NN1 at_II all_DB times_NNT2 
+The_AT people_NN working_VVG with_IW the_AT mu_NN1 11i-handicapped_NN1 
+appear_VV0 to_TO be_VBI kind_NN1 ,_, hard-working_JJ and_CC well_RR 
+motivated_VVN ._. 
+Nevertheless_RR ,_, it_PPH1 seems_VVZ that_CST many_DA2 of_IO these_DD2 
+workers_NN2 are_VBR not_XX familiar_JJ with_IW some_DD of_IO the_AT newer_JJR 
+methods_NN2 of_IO helping_VVG severely_RR handicapped_JJ people_NN ._. 
+For_REX21 example_REX22 the_AT beds_NN2 and_CC residents_NN2 were_VBDR 
+clean_JJ but_CCB there_EX were_VBDR no_AT stimulating_JJ or_CC corrective_JJ 
+devices_NN2 in_II the_AT crib_NN1 areas_NN2 -_- mobiles_NN2 ,_, bars_NN2 
+for_IF pulling_VVG ,_, crawling_JJ board_NN1 ,_, etc_RA ._. 
+Residents_NN2 were_VBDR seen_VVN being_VBG fed_VVN prone_JJ and_CC choking_VVG 
+There_EX is_VBZ not_XX enough_DD space_NN1 for_IF out_II21 of_II22 bed_NN1 
+activity_NN1 and_CC little_JJ indication_NN1 that_CST these_DD2 residents_NN2 
+leave_VV0 the_AT ward_NN1 The_AT Residential_JJ Services_NN2 Committee_NN1 
+believes_VVZ that_CST there_EX must_VM be_VBI intensive_JJ individual_JJ 
+programming_NN1 for_IF multi-handicapped_JJ residents_NN2 in_BCL21 order_BCL22 
+to_TO promote_VVI their_APPGE development_NN1 and_CC to_TO prevent_VVI 
+unnecessary_JJ physical_JJ ,_, intellectual_JJ and_CC social_JJ 
+deterioration_NN1 We_PPIS2 urge_VV0 you_PPY to_TO immediately_RR take_VVI 
+the_AT necessary_JJ steps_NN2 to_II institute_NN1 an_AT1 in-service_JJ 
+training_NN1 program_NN1 using_VVG the_AT multidisciplinary_JJ team_NN1 
+approach_NN1 for_IF all_DB personnel_NN2 working_VVG with_IW multi_JJ 
+handicapped_JJ persons_NN2 We_PPIS2 know_VV0 that_CST Hamburg_NP1 could_VM 
+have_VHI very_RG exciting_JJ programs_NN2 ._. 
+You_PPY can_VM be_VBI sure_JJ of_IO our_APPGE willingness_NN1 to_TO be_VBI 
+of_IO help_NN1 Mrs._NNB Philip_NP1 Elkin_NP1 ,_, Chairman_NN1 Residential_JJ 
+Services_NN2 Committe_NN1 cc_NNU :_: Secretary_NP1 Helene_NP1 Wohlgemut_VV0 
+Mr._NNB David_NP1 S._NP1 Baumstein_NP1 ,_, A.C.S.W_NP1 Mrs._NNB Betty_NP1 
+Herma_NP1 Mrs._NNB Jan_NP1 G._NP1 Saenger_NP1 
+--c645691e8e71c2d72a2d336638535f0f--_FU 

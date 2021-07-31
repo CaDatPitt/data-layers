@@ -1,0 +1,15 @@
+
+27_MC CITY_NN1 PLANNING_NN1 COM_NN1 ilSSIO_NN1 Minutes_NNT2 of_IO the_AT 
+Meeting_NN1 of_IO October_NPM1 11_MC The_AT regular_JJ meeting_NN1 of_IO 
+the_AT City_NN1 Planning_NN1 Commission_NN1 was_VBDZ Conference_NN1 Room_NN1 
+,_, Seventh_MD Floor_NN1 ,_, Public_JJ Safety_NN1 luilding_VVG ,_, Street_NN1 
+,_, Pittsburgh_NP1 ,_, Pennsylvania_NP1 15219_MC at_II 12:00_MC NOON_NNT1 
+27_MC 1977_MC held_VVD i_MC1 First_NP1 Avenue_NNL1 and_CC Gran_NN1 PRESENT_NN1 
+OF_IO THE_AT COMMISSION_NN1 PRESENT_NN1 OF_IO THE_AT STAFF_NN Rosemary_NP1 
+DAscenzo_NP1 ,_, Chairman_NN1 Sister_NNB Wellinger_NP1 ,_, Messrs_NN2 :_: 
+McClung_NP1 ,_, Sullivan_NP1 ,_, Sutton_NP1 ,_, Whitehill_NP1 ,_, Williams_NP1 
+and_CC Youn_NP1 Director_NN1 Lurcott_NP1 ,_, Deputy_NN1 Director_NN1 
+Reaves_NN2 ,_, Brown_NP1 ,_, LaFrance_NP1 ,_, Nascone_NP1 Nist_NN1 ,_, 
+Reiswig_NP1 ,_, Stephenson_NP1 ,_, Swiss_JJ ,_, Young_NP1 ,_, and_CC Ms_NNB 
+Hol_NP1 1_MC1 ._. 
+Action_NN1 on_II the_AT Minutes_NNT2 of_IO the_AT Meeting_NN1 

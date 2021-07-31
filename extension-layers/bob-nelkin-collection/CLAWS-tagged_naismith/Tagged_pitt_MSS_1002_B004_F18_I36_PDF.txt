@@ -1,0 +1,22 @@
+
+Erie_NP1 ,_, Pa_NP1 ._. 
+May_NPM1 3_MC ,_, 197_MC Governor_NNB Milton_NP1 J._NP1 Shapp_NP1 
+Harrisburg_NP1 ,_, Pa._NP1 1710_MC Dear_JJ Mr._NNB Shapp_NP1 This_DD1 plea_NN1 
+is_VBZ respectfully_RR submitted_VVN that_CST you_PPY correct_VV0 the_AT 
+gross_JJ injustice_NN1 done_VDN to_II the_AT patients_NN2 and_CC staff_NN 
+at_II Polk_NP1 State_NN1 School_NN1 when_CS Dr._NNB J._NP1 H._NP1 
+McClelland_NP1 was_VBDZ given_VVN the_AT "_" hatchet_NN1 "_" treatment_NN1 
+We_PPIS2 are_VBR parents_NN2 of_IO a_AT1 Polk_NP1 patient_NN1 and_CC well_RR 
+familiar_JJ with_IW the_AT situation_NN1 there_RL ._. 
+Dr._NNB McClelland_NP1 ;_; his_APPGE devoted_JJ staff_NN gained_VVD our_APPGE 
+confidence_NN1 long_RR ago_RA ,_, and_CC this_DD1 recent_JJ development_NN1 
+has_VHZ not_XX diminished_VVN it_PPH1 a_RR21 bit_RR22 Tliere_NP1 is_VBZ no_AT 
+evidence_NN1 of_IO Integrity_NN1 in_II Mrs._NNB Wohlgemuths_NP1 purpose_NN1 
+and_CC method_NN1 of_IO attaining_VVG her_APPGE objectives_NN2 ._. 
+How_RRQ can_VM we_PPIS2 ,_, as_CSA parents_NN2 of_IO patients_NN2 ,_, have_VH0 
+any_DD confidence_NN1 in_II Welfare_NN1 Department_NN1 "_" programs_NN2 
+after_II seeing_VVG "_" alley_NN1 cat_NN1 tactics_NN2 "_" used_VVN by_II 
+the_AT Director_NN1 ._. 
+Shame_NN1 on_II her_APPGE Sincer_NP1 c_ZZ1 ly_JJ John_NP1 A._NP1 and_CC 
+Dorothy_NP1 R_ZZ1 c_ZZ1 ._. 
+Mrs._NNB Helene_NP1 Wohlgemut_NP1 --a0bb9b4996d3ccbe0edabe32c3f4ec99--_FU 

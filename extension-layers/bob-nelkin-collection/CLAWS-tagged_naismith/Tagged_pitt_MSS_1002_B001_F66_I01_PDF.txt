@@ -1,0 +1,23 @@
+
+OF_IO THE_AT PENNSYLVANIA_NP1 ASSOCIATION_NN1 FOR_IF RETARDED_JJ CHILDREN_NN2 
+,_, INC_JJ 917-1001_MCMC Brighton_NP1 Road_NNL1 Pittsburgh_NP1 ,_, Pa._NP1 
+15233_MC (_( 412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 
+Mulgrav_NP1 Executive_NN1 Directo_NP1 C._NP1 A._NP1 Peter_NP1 March_NPM1 13_MC 
+,_, 197_MC MEMO_NN1 TO_II Barbara_NP1 Sisti_NP1 Jean_NP1 Isherwoo_NP1 
+Ginny_NP1 Thornburg_NP1 The_AT Office_NN1 Mental_JJ Health_NN1 of_IO 
+Somerset_NP1 o_ZZ1 USE_NN1 OF_IO SOMERSET_NP1 STATE_NN1 HOSPITA_NN1 Mental_JJ 
+Health_NN1 is_VBZ revising_VVG the_AT state-wide_JJ plan_NN1 for_IF 
+facilities_NN2 ._. 
+Included_VVN in_II the_AT plan_NN1 is_VBZ continued_VVN us_PPIO2 Therefore_RR 
+,_, the_AT Office_NN1 of_IO Mental_JJ Health_NN1 will_VM not_XX entertain_VVI 
+the_AT possibility_NN1 of_IO Mentally_RR Retarded_JJ Citizens_NN2 at_II 
+Somerset_NP1 Dispersal_NN1 from_II Polk_NP1 (_( and_CC other_JJ 
+institutions_NN2 for_IF retarded_JJ people_NN )_) is_VBZ the_AT concern_NN1 
+of_IO a_AT1 regional_JJ D.P.W._NP1 plan_NN1 being_VBG developed_VVN by_II 
+Dr._NNB Sid_NP1 Kaplan_NP1 ._. 
+This_DD1 plan_NN1 relies_VVZ heavily_RR on_II the_AT development_NN1 of_IO 
+commun_NN1 i_ZZ1 t_ZZ1 res_NN2 i_ZZ1 dences_NN2 BN*h_FO Member_NN1 Unit_NN1 
+-_- National_JJ As_CSA s_ZZ1 ociation_NN1 for_IF Retarde_NP1 d_ZZ1 
+Children_NN2 ,_, Inc_JJ ah_UH o_UH nh_NNU enn_NN1 County_NN1 Mental_JJ 
+Health/Mental_FU Retardation_NN1 Progra_NP1 /V_FU .._... 
+--f009da83149e94d328a0b8f343ec95cd--_FU 

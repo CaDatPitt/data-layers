@@ -1,0 +1,94 @@
+
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 L_ZZ1 
+STEUART&lsqb_NP1 Prai_NP1 lent_VVD 1500_MC NORTH_ND1 SECOND_MD STREET_NN1 
+BROWN_NP1 HARRISBURG_NP1 ,_, PA._NN1 17102_MC TEL_NN1 :_: (_( 717_MC )_) 
+234-2621_MCMC PETER_NP1 P._NP1 POLLONI_NP1 Executive_NN1 Directo_NN1 
+April_NPM1 4_MC ,_, 1975_MC The_AT Honorable_NP1 Frank_NP1 S._NP1 Bea_NP1 
+The_AT Secretary_NN1 of_IO Public_JJ Welfare_NN1 The_AT Commonwealth_NN1 of_IO 
+Pennsylvani_JJ Room_NN1 333_MC Welfare_NN1 Building_NN1 Harrisburg_NP1 ,_, 
+Pennsylvania_NP1 1702_MC Dear_JJ Secretary_NP1 Beal_NP1 :_: I_PPIS1 have_VH0 
+been_VBN asked_VVN to_TO give_VVI P.A.R.C_NP1 ._. 's_GE reply_NN1 to_II a_AT1 
+document_NN1 entitled_VVN "_" Modular_JJ Unit_NN1 Plan_NN1 "_" and_CC a_AT1 
+subsequent_JJ letter_NN1 dated_VVN March_NPM1 27th_MD ,_, both_RR written_VVN 
+by_II Harry_NP1 Herman_NP1 ,_, Superintendent_NN1 of_IO Ebensburg_NP1 
+State_NN1 School_NN1 and_CC Hospital_NN1 ,_, in_II which_DDQ he_PPHS1 
+requests_VVZ that_CST modular_JJ classrooms_NN2 be_VBI constructed_VVN on_II 
+grounds_NN2 We_PPIS2 appreciate_VV0 the_AT earnestness_NN1 of_IO Mr._NNB 
+Hermans_NP1 approach_NN1 to_II some_DD very_RG serious_JJ problems_NN2 ,_, 
+but_CCB there_EX are_VBR some_DD questions_NN2 that_CST must_VM be_VBI 
+asked_VVN and_CC some_DD options_NN2 that_CST need_VV0 to_TO be_VBI 
+considered_VVN as_CSA alternatives_NN2 to_II Mr._NNB Herman_NP1 's_GE 
+recommendations_NN2 It_PPH1 appears_VVZ that_CST Mr._NNB Herman_NP1 is_VBZ 
+addressing_VVG himself_PPX1 to_II two_MC problems_NN2 The_AT first_MD is_VBZ 
+the_AT need_NN1 for_IF transitional_JJ experiences_NN2 to_TO prepare_VVI 
+students_NN2 for_IF community_NN1 classroom_NN1 experiences_NN2 ,_, and_CC 
+the_AT second_MD problem_NN1 is_VBZ the_AT need_NN1 for_IF program_NN1 
+space_NN1 for_IF those_DD2 individuals_NN2 who_PNQS are_VBR over_RG 21_MC 
+years_NNT2 of_IO age_NN1 Tn_NP1 his_APPGE defense_NN1 of_IO transitional_JJ 
+experiences_NN2 ,_, M*_FO Hepyp_VV0 ?_? n_ZZ1 maks_VVZ s_ZZ1 om3_FO 
+comments_NN2 suggesting_VVG that_CST the_AT real_JJ intent_NN1 is_VBZ 
+permanence_NN1 not_XX transition_NN1 ._. 
+He_PPHS1 states_VVZ that_CST as_II the_AT school-aged_JJ population_NN1 
+declines_VVZ at_II this_DD1 point_NN1 Intermediate_JJ classes_NN2 all_DB 
+be_VBI held_VVN within_II the_AT modular_JJ unit_NN1 facility_NN1 "_" ._. 
+The_AT word_NN1 "_" all_DB "_" in_II this_DD1 sentence_NN1 is_VBZ 
+distressing_JJ because_CS apparently_RR many_DA2 students_NN2 are_VBR 
+going_VVG off_RP grounds_NN2 and_CC hence_RR such_DA an_AT1 arrangement_NN1 
+would_VM be_VBI a_AT1 step_NN1 backwards_RL ._. 
+Mr._NNB Herman_NP1 discusses_VVZ these_DD2 classrooms_NN2 in_II31 terms_II32 
+of_II33 better_JJR working_JJ conditions_NN2 and_CC in_II31 terms_II32 of_II33 
+the_AT normal_JJ curriculums_NN2 of_IO instruction_NN1 ,_, hence_RR they_PPHS2 
+sound_VV0 like_II alternatives_NN2 to_II community_NN1 facilities_NN2 
+rather_II21 than_II22 transitional_JJ ._. 
+Furthermore_RR ,_, Mr._NNB Herman_NP1 seems_VVZ to_II bo_NN1 saying_VVG 
+that_CST the_AT real_JJ slow-down_NN1 in_II moving_VVG students_NN2 into_II 
+the_AT community_NN1 is_VBZ not_XX the_AT inadequacy_NN1 of_IO his_APPGE 
+current_JJ transitional_JJ classroom_NN1 but_CCB the_AT lack_NN1 of_IO 
+space_NN1 within_II the_AT community_NN1 ,_, hence_RR we_PPIS2 conclude_VV0 
+that_CST the_AT problem_NN1 of_IO transitional_JJ experiences_NN2 can_VM 
+be_VBI solved_VVN with_IW the_AT present_JJ facility_NN1 provided_CS21 
+that_CS22 the_AT community_NN1 classroom_NN1 facilities_NN2 exist_VV0 ._. 
+Transition_NN1 for_IF the_AT individual_JJ student_NN1 should_VM not_XX be_VBI 
+made_VVN a_AT1 long-term_JJ problem_NN1 when_CS it_PPH1 can_VM be_VBI 
+solved_VVN with_IW short-term_JJ structured_JJ learning_NN1 The_AT 
+Honorable_NP1 Frank_NP1 S._NP1 Bea_NP1 -2_MC April_NPM1 4_MC ,_, 197_MC 
+We_PPIS2 note_VV0 that_CST the_AT Governor_NN1 's_GE budget_NN1 for_IF 
+1975-1976_MCMC for_IF Special_JJ Educatio_NP1 doubles_VVZ the_AT amount_NN1 
+of_IO funds_NN2 for_IF state_NN1 schools_NN2 and_CC hospitals_NN2 ._. 
+The_AT increase_NN1 is_VBZ greater_JJR than_CSN $4,600,000_NNU ,_, thus_RR 
+the_AT I.Uis_NP1 have_VH0 the_AT resources_NN2 for_IF solving_VVG their_APPGE 
+classroom_NN1 problems_NN2 without_IW having_VHG to_TO consider_VVI the_AT 
+option_NN1 on_II the_AT bottom_NN1 of_IO the_AT list_NN1 which_DDQ is_VBZ 
+favored_VVN by_II no_PN121 one_PN122 ,_, namely_REX ,_, building_NN1 
+classrooms_NN2 on_II the_AT grounds_NN2 of_IO state_NN1 schools_NN2 ._. 
+We_PPIS2 would_VM hope_VVI that_CST the_AT superintendents_NN2 would_VM 
+stop_VVI trying_VVG to_TO solve_VVI the_AT I._NP1 tils_VVZ problems_NN2 
+with_IW an_AT1 eye_NN1 out_RP for_IF possible_JJ space_NN1 some_DD day_NNT1 
+in_II the_AT future_NN1 which_DDQ might_VM be_VBI used_VVN for_IF those_DD2 
+individuals_NN2 over_RG 21_MC years_NNT2 of_IO age_NN1 We_PPIS2 agree_VV0 
+with_IW Mr._NNB Herman_NP1 that_CST programs_NN2 for_IF those_DD2 over_RG 
+21_MC years_NNT2 of_IO ag_NN1 is_VBZ a_AT1 seriuus_NN1 piubleui_NN2 ._. 
+Our_APPGE ._. hiembersiiip_VV0 is_VBZ becoming_VVG increasingly_RR 
+concerned_JJ with_IW this_DD1 matter_NN1 ._. 
+Let_VV0 us_PPIO2 deal_VVI with_IW this_DD1 issue_NN1 directly_RR and_CC 
+consider_VVI the_AT totality_NN1 of_IO the_AT problem_NN1 ._. 
+Perhaps_RR the_AT place_NN1 to_TO begin_VVI this_DD1 discussion_NN1 has_VHZ 
+begun_VVN with_IW the_AT request_NN1 of_IO ,_, the_AT State_NN1 Task_NN1 
+Force_NN1 on_II Right_NN1 to_II Education_NN1 to_II the_AT Departments_NN2 
+of_IO Public_JJ Welfare_NN1 and_CC Education_NN1 that_CST a_AT1 plan_NN1 
+be_VBI presented_VVN which_DDQ would_VM constitute_VVI compliance_NN1 or_CC 
+at_RR21 least_RR22 proposed_JJ compliance_NN1 with_IW that_DD1 section_NN1 
+of_IO the_AT Consent_NN1 Agreement_NN1 which_DDQ speaks_VVZ to_II the_AT 
+issue_NN1 of_IO those_DD2 over_RG 21_MC years_NNT2 of_IO age_NN1 who_PNQS 
+have_VH0 been_VBN denied_VVN an_AT1 appropriate_JJ program_NN1 of_IO 
+education_NN1 ._. 
+We_PPIS2 look_VV0 forward_RL to_II the_AT reply_NN1 to_II the_AT Task_NN1 
+Force_NN1 and_CC suggest_VV0 at_II this_DD1 time_NNT1 that_CST we_PPIS2 
+meet_VV0 with_IW the_AT superintendents_NN2 to_TO plan_VVI and_CC to_TO 
+implement_VVI proposed_JJ solutions_NN2 for_IF those_DD2 over_RG 21_MC 
+Roger_NP1 E._NP1 Buchanan_NP1 ,_, Chairman_NN1 Right_NN1 to_II Education_NN1 
+Committe_NN1 REB:ra_FO cc_NNU :_: L._NP1 Steuart_NP1 Brow_NN1 Elsie_NP1 
+Schmid_NP1 Peter_NP1 P._NP1 Pollon_NP1 G._NP1 Richard_NP1 Sel_NP1 Virginia_NP1 
+Thornburg_NP1 Gary_NP1 Makuc_NP1 Harry_NP1 Herma_NP1 Andrew_NP1 Vaveri_NP1 
+Right_NN1 to_II Education_NN1 Committee_NN1 Residential_JJ Services_NN2 
+Committee_NN1 --683fdbe09457f9d8cc52e182ab77a6f7--_FU 

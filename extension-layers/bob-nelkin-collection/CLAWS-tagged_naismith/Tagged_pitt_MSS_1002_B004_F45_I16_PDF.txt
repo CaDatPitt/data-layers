@@ -1,0 +1,13 @@
+
+917-1001_MCMC BRIGHTON_NP1 ROA_NP1 Pittsburgh_NP1 ,_, Pa._NP1 15233_MC (_( 
+412_MC )_) 322-600_MCMC Presiden_NN1 Dr._NNB Norman_NP1 Mulgrav_NP1 
+Executive_NN1 Director_NN1 C._NP1 A._NP1 Peter_NP1 June_NP1 I_ZZ1 1_MC1 ,_, 
+197_MC MEMO_NN1 TO_II :_: Ginny_NP1 FROM_II :_: Bo_NP1 Barbara_NP1 Jean_NP1 
+Chuck_NP1 Norman_NP1 Annual_JJ Cos_CS S._NP1 S._NP1 &; H._NP1 Per_RA21 
+Diem_RA22 Cost_VV0 Per_II Residen_NP1 Western_NP1 State_NN1 $33.68_NNU $_NN 
+12,29_MC Pol_NP1 k_ZZ1 $14.33_NNU $_NN 5,23_MC Cresson_NP1 $29.43_NNU $_NN 
+10,74_MC Ebensburg_NP1 $27.14_NNU $_NN 9,90_MC Member_NN1 Unit_NN1 -_- N_ZZ1 
+ational_JJ Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, Inc_JJ 
+Participant_NN1 in_II the_AT Allegheny_NP1 County_NN1 Mental_JJ 
+Health/Mental_FU Retardation_NN1 Program_NN1 
+--1d1baeda6b1b6b3ad75b6fb44e311bbb--_FU 

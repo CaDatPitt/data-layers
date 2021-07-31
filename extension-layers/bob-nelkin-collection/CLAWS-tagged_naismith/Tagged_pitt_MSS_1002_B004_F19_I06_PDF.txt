@@ -1,0 +1,10 @@
+
+APR_NN1 2_MC 6_MC 197_MC April_NPM1 25_MC ,_, 197_MC Re/._FU t_ZZ1 
+Secretary_NN1 of_IO Welfar_NP1 Harrisburg_NP1 ,_, Pennsylvani_JJ Dear_JJ 
+Sirs_NP1 I_PPIS1 feel_VV0 that_CST we_PPIS2 need_VV0 better_RRR support_VVI 
+and_CC better_JJR conditions_NN2 for_IF all_DB our_APPGE institutions_NN2 
+Sick_JJ people_NN are_VBR not_XX animals_NN2 ,_, but_CCB human_JJ beings_NN2 
+who_PNQS need_VM correct_VVI care_NN1 and_CC not_XX treated_VVN like_II 
+animals_NN2 in_II the_AT wild_JJ woods_NN2 IS_VBZ IT_PPH1 TRUE_JJ ,_, ARE_VBR 
+PEOPLE_NN TODAY_RT CIVILIZED_JJ Sincerely_RR yours_PPGE Bonnie_NP1 Pribich_NP1 
+--5cd3eb220681cd986f575bfde79cec4e--_FU 

@@ -1,0 +1,15 @@
+
+January_NPM1 24_MC ,_, 197_MC KDKA_NP1 Radi_NP1 One_MC1 Gateway_NP1 Cente_NP1 
+Pittsburgh_NP1 ,_, Pennsylvania_NP1 1522_MC ATTENTION_NN1 :_: Mr._NNB Mike_NP1 
+Levin_NP1 Attached_VVN is_VBZ a_AT1 copy_NN1 of_IO my_APPGE letter_NN1 of_IO 
+October_NPM1 20_MC and_CC your_APPGE response_NN1 of_IO October_NPM1 26_MC ._. 
+I_PPIS1 thought_VVD you_PPY would_VM be_VBI interested_JJ in_II the_AT 
+followup_NN1 response_NN1 I_PPIS1 received_VVD from_II Dr._NNB McClelland_NP1 
+,_, Superintendent_NN1 at_II Polk_NP1 ._. 
+While_CS this_DD1 solves_VVZ my_APPGE personal_JJ problem_NN1 ,_, it_PPH1 
+does_VDZ not_XX solve_VVI the_AT communications_NN2 problems_NN2 of_IO the_AT 
+other_JJ three_MC thousand_NNO families_NN2 of_IO patients_NN2 and_CC 
+patients_NN2 at_II Polk_NP1 It_PPH1 would_VM seem_VVI to_II me_PPIO1 that_CST 
+this_DD1 might_VM be_VBI a_AT1 worthwhile_JJ project_NN1 to_II the_AT 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Children_NN2 With_IW 
+best_RRT regards_VVZ Attachments_NN2 --f4c7c87f0439f9687973eab7329b3813--_FU 

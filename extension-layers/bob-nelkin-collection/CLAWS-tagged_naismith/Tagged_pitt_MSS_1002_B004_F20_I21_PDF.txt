@@ -1,0 +1,23 @@
+
+DON_NP1 L._NP1 BASHLINE_NP1 ,_, M._NN1 D_ZZ1 PINE_NN1 AND_CC CENTER_NN1 
+STREET_NN1 GROVE_NN1 CITY_NN1 ,_, PENNSYLVANIA_NP1 1612_MC April_NPM1 19_MC 
+,_, 197_MC Helene_NP1 Wohlgemut_NP1 State_NN1 Welfare_NN1 Secretar_NP1 
+Harrisburg_NP1 ,_, Pennsylvani_JJ Dear_JJ Madam_NP1 I_PPIS1 am_VBM writing_VVG 
+to_TO protest_VVI your_APPGE discharge_NN1 of_IO Dr._NNB James_NP1 H._NP1 
+McClelland_NP1 as_CSA Superintendent_NN1 of_IO Polk_NP1 State_NN1 
+Institution_NN1 Dr._NNB McClelland_NP1 has_VHZ been_VBN personally_RR 
+known_VVN to_II me_PPIO1 for_IF many_DA2 ,_, many_DA2 years_NNT2 ._. 
+His_APPGE father_NN1 was_VBDZ a_AT1 medical_JJ doctor_NN1 in_II the_AT 
+Grove_NN1 City_NN1 community_NN1 area_NN1 for_IF many_DA2 years_NNT2 and_CC 
+was_VBDZ most_RGT highly_RR respected_VVN as_CSA is_VBZ his_APPGE entire_JJ 
+family_NN1 ._. 
+Your_APPGE action_NN1 in_II summarily_RR discharging_VVG him_PPHO1 shows_VVZ 
+an_AT1 inept_JJ attitude_NN1 and_CC the_AT resultant_JJ disturbance_NN1 at_II 
+the_AT institution_NN1 displayed_VVD your_APPGE ignorance_NN1 I_PPIS1 am_VBM 
+sure_JJ you_PPY would_VM like_VVI to_TO be_VBI well_RR thought_VVN of_IO by_II 
+the_AT medical_JJ profession_NN1 in_II the_AT state_NN1 and_CC this_DD1 
+action_NN1 has_VHZ not_XX granted_VVN you_PPY this_DD1 courtesy_NN1 Very_RG 
+sincerely_RR yours_PPGE DLB:ma_FO C_ZZ1 :_: Pennsylvania_NP1 Congressme_NP1 
+Pennsylvania_NP1 State_NN1 Medical_JJ Societ_NN1 Governor_NNB Shap_NP1 Dr._NNB 
+George_NP1 Rosemond_NP1 ,_, Temple_NP1 University_NN1 Hospital_NN1 
+--e06d7de73ee7fda90659dec7ac78be18--_FU 

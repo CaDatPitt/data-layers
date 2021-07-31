@@ -1,0 +1,60 @@
+
+tOOl_NN1 BRIGHTON_NP1 ROA_NP1 Pittsburgh_NP1 ,_, Ftemsylvoma_NP1 15233_MC 
+telephone_NN1 :_: (_( 412_MC )_) 322_MC 600_MC ALLEGHENY_NP1 COUNTY_NN1 
+CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 
+,_, Inc_JJ PAR_NP1 JOAN_NP1 W._NP1 MURDOCH_NP1 Chapter_NN1 Presiden_NP1 
+MICHAEL_NP1 A._NP1 TROWBRIDGE_NP1 Executive_NN1 Directo_NN1 March_NPM1 23_MC 
+,_, 197_MC Mr._NNB Charles_NP1 A._NP1 Peters_NP ,_, Administrator_NN1 
+Allegheny_NP1 County_NN1 MH/MR_FU 901_MC Allegheny_NP1 Buildin_NP1 429_MC 
+Forbes_NP1 Avenu_NP1 Pittsburgh_NP1 ,_, Pa._NP1 1521_MC Dear_JJ Chuck_NP1 
+Urgent_JJ ,_, unmet_JJ needs_NN2 of_IO mentally_RR retarded_JJ citizens_NN2 
+and_CC their_APPGE families_NN2 were_VBDR shared_VVN with_IW you_PPY and_CC 
+the_AT MH/MR_FU Board_NN1 on_II February_NPM1 16_MC ,_, 1978_MC ._. 
+The_AT needs_NN2 are_VBR serious_JJ ._. 
+The_AT parents_NN2 presentations_NN2 were_VBDR sobering_JJ I_PPIS1 know_VV0 
+you_PPY agree_VV0 that_CST these_DD2 parents_NN2 should_VM not_XX be_VBI 
+ignored_VVN and_CC that_CST their_APPGE concerns_NN2 must_VM not_XX be_VBI 
+neglected_VVN The_AT parents_NN2 needs_NN2 are_VBR real_JJ and_CC should_VM 
+be_VBI included_VVN in_II the_AT County_NN1 Plan_NN1 ._. 
+Basically_RR ,_, these_DD2 needs_NN2 and_CC corresponding_JJ services_NN2 
+are_VBR not_XX mentioned_VVN in_II the_AT Plan_NN1 The_AT lack_NN1 of_IO 
+current_JJ plans_NN2 puzzles_VVZ us_PPIO2 ._. 
+Parents_NN2 made_VVD these_DD2 very_RG same_DA needs_NN2 known_VVN in_II 
+public_JJ meetings_NN2 in_II May_NPM1 ,_, June_NPM1 ,_, August_NPM1 ,_, and_CC 
+November_NPM1 ,_, 1976_MC ._. 
+The_AT results_NN2 of_IO those_DD2 meetings_NN2 (_( attended_VVN by_II 
+County_NN1 office_NN1 personnel_NN2 )_) were_VBDR duly_RR communicated_VVN 
+to_II you_PPY The_AT most_RGT often_RR mentioned_VVN needs_VVZ fall_NN1 
+into_II four_MC categories_NN2 1_MC1 )_) Respite_VV0 care_NN1 for_IF 
+families_NN2 of_IO persons_NN2 all_DB ages_NN2 and_CC needs_VVZ 2_MC )_) 
+Programs_NN2 for_IF severely_RR ,_, multiply_VV0 handicapped_JJ people_NN 3_MC 
+)_) Programs_NN2 for_IF individuals_NN2 who_PNQS are_VBR mentally_RR 
+retarded_JJ and_CC emotionally_RR disturbed_VVN or_CC mentally_RR retarded_JJ 
+and_CC exhibiting_VVG aggressive_JJ behavior_NN1 4_MC )_) Adult_NN1 
+training_NN1 programs_NN2 for_IF persons_NN2 with_IW a_AT1 variety_NN1 of_IO 
+needs_VVZ MEMBER_NN1 UNIT_NN1 -_- National_JJ Association_NN1 for_IF 
+Re*orc*c_FO Cisr._NP1 '_GE ?_? r_ZZ1 ._. '_GE ,_, 
+Inc_JJ ._. 
+AITTCIMNT_VV0 -_- Allegheny_NP1 County_NN1 Mental_JJ Health_NN1 Mr._NNB 
+Charles_NP1 A._NP1 Peter_NP1 Page_NN1 The_AT parents_NN2 spoke_VVD on_II31 
+behalf_II32 of_II33 others_NN2 (_( known_VVN and_CC unknown_JJ to_II MH/MR_FU 
+)_) with_IW similar_JJ needs_NN2 ._. 
+The_AT quantity_NN1 and_CC extent_NN1 of_IO these_DD2 needs_NN2 remains_VVZ 
+undocumented_JJ ._. 
+An_AT1 outreach_NN1 effort_NN1 and_CC a_AT1 complete_JJ needs_VVZ 
+assessment_NN1 has_VHZ not_XX been_VBN started_VVN At_II the_AT public_JJ 
+hearing_NN1 ,_, ACC-PARC_NP1 offered_VVD to_TO work_VVI with_IW your_APPGE 
+office_NN1 to_TO insure_VVI that_CST a_AT1 needs_VVZ assessment_NN1 and_CC 
+program_NN1 planning_NN1 are_VBR achieved_VVN and_CC necessary_JJ funding_NN1 
+is_VBZ obtained_VVN ._. 
+We_PPIS2 would_VM like_VVI to_TO hear_VVI from_II you_PPY how_RRQ we_PPIS2 
+can_VM be_VBI involved_VVN I_PPIS1 am_VBM sending_VVG a_AT1 copy_NN1 of_IO 
+this_DD1 letter_NN1 to_II each_DD1 parent_NN1 who_PNQS testified_VVD at_II 
+the_AT public_JJ hearing_NN1 ._. 
+I_PPIS1 would_VM like_VVI to_TO receive_VVI a_AT1 response_NN1 from_II you_PPY 
+,_, which_DDQ I_PPIS1 can_VM share_VVI with_IW each_DD1 of_IO the_AT 
+parents_NN2 ._. 
+They_PPHS2 are_VBR looking_VVG for_IF concrete_NN1 and_CC immediate_JJ 
+actions_NN2 Thank_VV0 you_PPY Sincerely_RR ikoan_JJ Murdoch_NP1 Presiden_NP1 
+JM_NP1 :_: c_ZZ1 CC_NP1 :_: Robert_NP1 Patton_NP1 ,_, Esq._NNA ,_, Chairma_NP1 
+MH/MR_FU Advisory_JJ Board_NN1 --1c4b95d19993b9fd01c9c5fcf8ab06c0--_FU 

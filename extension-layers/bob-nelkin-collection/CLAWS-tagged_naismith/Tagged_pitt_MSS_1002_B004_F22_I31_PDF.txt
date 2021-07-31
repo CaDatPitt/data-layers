@@ -1,0 +1,25 @@
+
+Ms._NNB Helene_NP1 Wohlgemuth_NP1 Dept_NN1 ,_, of_IO Public_JJ Welfare_NN1 
+Harrisburg_NP1 ,_, Pa_NP1 8_MC Little_JJ Pine_NN1 Pl_NP1 Franklin_NP1 ,_, 
+Pa_NP1 ._. 
+April_NPM1 18_MC ,_, 1973_MC ...._... 
+S_ZZ1 T_ZZ1 ,_, t_ZZ1 r_ZZ1 *_FU *_FU Madam_NN1 As_II an_AT1 employee_NN1 
+of_IO Polk_NP1 State_NN1 School_NN1 and_CC Hospital_NN1 ,_, I_PPIS1 am_VBM 
+protesting_VVG the_AT dismissal_NN1 of_IO Dr._NNB James_NP1 McClelland_NP1 ._. 
+I_PPIS1 feel_VV0 the_AT charges_NN2 brought_VVN against_II him_PPHO1 are_VBR 
+unjust_JJ and_CC totally_RR unfounded_JJ ._. 
+There_EX are_VBR inadequacies_NN2 at_II Polk_NP1 ,_, but_CCB Dr._NNB 
+McClelland_NP1 has_VHZ made_VVN a_AT1 concious_JJ effort_NN1 to_TO make_VVI 
+realistic_JJ improvements_NN2 considering_II the_AT overcrowed_JJ 
+conditions_NN2 which_DDQ exist_VV0 ._. 
+I_PPIS1 seriously_RR question_VV0 your_APPGE competency_NN1 as_CSA 
+Secretary_NN1 of_IO D.P.W._NP1 when_CS you_PPY make_VV0 decisions_NN2 sucn_VVI 
+as_CSA tuls_VVZ ._. 
+Your_APPGE ignorance_NN1 of_IO Polk_NP1 is_VBZ exemplified_VVN through_II 
+your_APPGE rash_JJ decision_NN1 from_II a_AT1 two_MC hour_NNT1 visit_NN1 
+and_CC from_II information_NN1 gathered_VVN from_II questionable_JJ 
+sources_NN2 ._. 
+I_PPIS1 feel_VV0 strongly_RR that_CST you_PPY must_VM reinstate_VVI Dr._NNB 
+McClelland_NP1 and_CC publicly_RR apologize_VV0 to_II him_PPHO1 Most_RGT 
+Sincerely_RR Michael_NP1 L._NP1 Ihlenfeld_NP1 
+--102909dfd4fe27c726138850fa6be83c--_FU 

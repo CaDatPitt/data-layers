@@ -1,0 +1,23 @@
+
+r_ZZ1 Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Citizen_NN1 1500_MC 
+NOH_NN1 nt_NNU SECOND_MD STREET_NN1 HARRISBURG_NP1 ,_, PA_NN1 17102_MC IM._NP1 
+(_( 71-71_MCMC 21_MC 26_MC ?_? 
+MRS_NNB ._. 
+TEDDI_NP1 I._NP1 EIDE_NP1 P_ZZ1 nsidpn_VV0 THEODORE_NP1 E._NP1 JOHNSON_NP1 ,_, 
+Ed_NP1 ._. 
+Executive_NN1 Di'ccto_NN1 January_NPM1 16_MC ,_, 197_MC The_AT Honorable_JJ 
+/'Xla'o_NN1 Colautti_NN1 Secretary_NN1 of_IO Public_JJ Welfare_NN1 333_MC 
+Health_NN1 and_CC Welfare_NN1 Harrisburg_NP1 ,_, Pennsylvania_NP1 1712_MC 
+Dear_JJ Secretary_NP1 Colautti_NN1 On_II31 behalf_II32 of_II33 the_AT 
+Association_NN1 for_IF Retarded_JJ Citizens_NN2 ,_, which_DDQ is_VBZ 
+representing_VVG the_AT mentally_RR retarded_JJ residents_NN2 of_IO 
+Ebensburg_NP1 and_CC Cresson_NP1 Centers_NN2 ,_, we_PPIS2 request_VV0 you_PPY 
+supply_VV0 us_PPIO2 with_IW a_AT1 copy_NN1 of_IO a_AT1 survey_NN1 
+conducted_VVN by_II Dr._NNB Jay_NP1 Resnick_NN1 of_IO dental_JJ services_NN2 
+at_II those_DD2 two_MC institutions_NN2 We_PPIS2 intend_VV0 to_TO review_VVI 
+this_DD1 document_NN1 as_II part_NN1 of_IO our_APPGE own_DA investigation_NN1 
+into_II crisis_NN1 conditions_NN2 in_II dental_JJ care_NN1 at_II these_DD2 
+facilities_NN2 We_PPIS2 appreciate_VV0 your_APPGE continued_JJ cooperation_NN1 
+and_CC look_VV0 forward_RL to_II receiving_VVG a_AT1 copy_NN1 of_IO the_AT 
+report_NN1 soon_RR Si_FW ncerely_RR Teddi_NP1 Leide_NP1 Presiden_NP1 TL/c_FU 
+cc_NNU :_: Johnson_NP1 --a92d7ff02611e169d6d3101442905cab--_FU 

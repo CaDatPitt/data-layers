@@ -1,0 +1,44 @@
+
+Russell_NP1 R._NP1 Brinker_NP1 3740_MC West_ND1 26_MC Street_NN1 Erie_NP1 ,_, 
+Pennsylvania_NP1 1650_MC April_NPM1 18_MC ,_, 197_MC Mrs._NNB Helene_NP1 
+Wohlgemuth_NP1 Secretary_NN1 of_IO Public_JJ Welfare_NN1 Harrisburg_NP1 ,_, 
+PA_NN1 1712_MC Dear_JJ Mrs._NNB Wohlgemut_NP1 It_PPH1 is_VBZ a_AT1 
+regrettable_JJ situation_NN1 when_CS we_PPIS2 must_VM dismiss_VVI a_AT1 
+person_NN1 for_IF doing_VDG a_AT1 top_JJ level_JJ job_NN1 under_II very_RG 
+difficult_JJ conditions_NN2 ._. 
+If_CS the_AT situations_NN2 at_II Polk_NP1 State_NN1 School_NN1 and_CC 
+Hospital_NN1 are_VBR as_CSA reported_VVN by_II you_PPY in_II the_AT local_JJ 
+newspaper_NN1 ,_, it_PPH1 is_VBZ the_AT direct_JJ result_NN1 of_IO 
+inadequate_JJ financial_JJ backing_NN1 of_IO the_AT controlling_JJ 
+officers_NN2 of_IO our_APPGE state_NN1 school_NN1 system_NN1 ._. 
+The_AT lack_NN1 of_IO sufficient_JJ funding_NN1 by_II the_AT legislature_NN1 
+has_VHZ resulted_VVN in_II the_AT over_NN1 crowding_VVG and_CC understaffed_JJ 
+conditions_NN2 at_II Polk_NP1 and_CC other_JJ state_NN1 institutions_NN2 ,_, 
+which_DDQ you_PPY give_VV0 as_CSA reason_NN1 for_IF dismissing_VVG the_AT 
+superintendent_NN1 Any_DD person_NN1 who_PNQS works_VVZ with_IW the_AT 
+retarded_JJ would_VM agree_VVI that_CST there_EX are_VBR times_NNT2 when_RRQ 
+it_PPH1 is_VBZ absolutely_RR necessary_JJ to_TO use_VVI restraints_NN2 and_CC 
+other_JJ means_NN to_TO control_VVI and_CC protect_VVI the_AT patient_NN1 
+and_CC those_DD2 around_II him_PPHO1 ._. 
+I_PPIS1 am_VBM positive_JJ that_CST any_DD such_DA situations_NN2 as_CSA 
+reported_VVN after_II your_APPGE visit_NN1 to_II Polk_NP1 ,_, were_VBDR the_AT 
+result_NN1 of_IO the_AT need_NN1 for_IF this_DD1 kind_NN1 of_IO action_NN1 
+to_TO protect_VVI the_AT patients_NN2 at_II the_AT institution_NN1 I_PPIS1 
+would_VM further_RRR have_VHI to_TO disagree_VVI with_IW this_DD1 type_NN1 
+of_IO direct_JJ ,_, hasty_JJ action_NN1 without_IW some_DD due_JJ process_NN1 
+in_II31 favor_II32 of_II33 the_AT superintendent_NN1 and_CC discussion_NN1 
+with_IW the_AT Polk_NP1 Board_NN1 of_IO Trustees_NN2 and_CC other_JJ 
+interested_JJ persons_NN2 ._. 
+If_CS such_DA a_AT1 Board_NN1 of_IO Trustees_NN2 are_VBR to_TO function_VVI 
+with_IW any_DD meaning_NN1 ,_, even_CS21 if_CS22 only_RR in_II an_AT1 
+advisory_JJ capacity_NN1 ,_, I_PPIS1 believe_VV0 their_APPGE counsel_NN1 
+and_CC advice_NN1 should_VM be_VBI sought_VVN out_RP in_II this_DD1 kind_NN1 
+of_IO situation_NN1 I_PPIS1 am_VBM awaiting_VVG further_JJR information_NN1 
+,_, from_II Mr._NNB Taylor_NP1 ,_, as_CSA indicated_VVN in_II your_APPGE 
+telegram_NN1 ,_, before_CS I_PPIS1 make_VV0 a_AT1 further_JJR decision_NN1 
+relative_II21 to_II22 my_APPGE association_NN1 with_IW the_AT Polk_NP1 
+State_NN1 School_NN1 ,_, as_CSA a_AT1 member_NN1 of_IO its_APPGE Board_NN1 
+of_IO Trustees_NN2 Sincerel_NP1 Russell_NP1 R._NP1 Brinke_NP1 cc_NNU :_: 
+Gov_NN1 ._. 
+Shap_NP1 cc_NNU :_: Dr._NNB McClellan_NP1 
+--a9773832b715911eb2d6fc075b9e53d0--_FU 

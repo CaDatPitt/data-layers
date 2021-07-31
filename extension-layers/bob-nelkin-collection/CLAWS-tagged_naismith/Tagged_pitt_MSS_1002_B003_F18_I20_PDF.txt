@@ -1,0 +1,25 @@
+
+JUDGE_NN1 'S_GE CHAMBER_NN1 COURT_NN1 OF_IO COMMON_JJ PLEA_NN1 FAMILY_NN1 
+DIVISIO_NN1 3333_MC FORBES_NP1 AVENU_NP1 PITTSBURGHPA._NP1 1521_MC Maurice_NP1 
+B._NP1 Cohill_NP1 ._. 
+Jr_JJ judge_NN1 October_NPM1 3_MC ,_, 197_MC Mrs._NNB Virginia_NP1 J._NP1 
+Thornburg_NP1 Presiden_NP1 Allegheny_NP1 County_NN1 Chapter_NN1 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, Inc._JJ 
+1001_MC Brighton_NP1 Roa_NP1 Pittsburgh_NP1 ,_, Pennsylvania_NP1 15_MC 23_MC 
+Dear_JJ Mrs._NNB Thornburgh_NP1 Thank_VV0 you_PPY for_IF your_APPGE letter_NN1 
+of_IO September_NPM1 30_MC ,_, asking_VVG to_TO appear_VVI as_II a_AT1 
+witness_NN1 in_II a_AT1 case_NN1 involving_VVG Joyce_NP1 Z_ZZ1 I_PPIS1 
+shall_VM be_VBI more_DAR than_CSN happy_JJ to_TO have_VHI you_PPY testify_VV0 
+as_II a_AT1 "_" friend_NN1 of_IO the_AT court_NN1 "_" I_PPIS1 would_VM 
+suggest_VVI that_CST you_PPY contact_VV0 R._NP1 Stanton_NP1 Wettick_NP1 ,_, 
+Esq._NNA ,_, Executive_NN1 Director_NN1 of_IO Neighborhood_NN1 Legal_JJ 
+Services_NN2 ,_, to_TO determine_VVI whether_CSW31 or_CSW32 not_CSW33 a_AT1 
+Neighborhood_NN1 Legal_JJ Services_NN2 attorney_NN1 has_VHZ been_VBN 
+appointed_VVN to_TO represent_VVI Joyce_NP1 ._. 
+If_CS not_XX ,_, it_PPH1 may_VM be_VBI that_CST MHMR_NP1 has_VHZ appointed_VVN 
+an_AT1 attorney_NN1 for_IF her_PPHO1 ._. 
+In_II any_DD event_NN1 I_PPIS1 imagine_VV0 it_PPH1 would_VM be_VBI a_AT1 
+good_JJ idea_NN1 for_IF you_PPY to_TO communicate_VVI with_IW the_AT 
+attorney_NN1 who_PNQS is_VBZ going_VVGK to_TO represent_VVI Joyce_NP1 Best_RRT 
+wishes_VVZ Sincerely_RR Maurice_NP1 B._NP1 Cohill_NP1 ,_, Jr_NNA Judg_NP1 
+MB_NNU C_ZZ1 /_FO ph_NN1 --3c31154c39b23a83a7d5e2e246e8256c--_FU 

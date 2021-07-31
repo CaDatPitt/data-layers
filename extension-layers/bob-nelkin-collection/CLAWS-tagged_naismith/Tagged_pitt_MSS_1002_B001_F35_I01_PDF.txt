@@ -1,0 +1,321 @@
+
+Growth_NN1 Opportunity_NN1 Security_NN1 COMMITMENT_NN1 T_ZZ1 PENNSYLVANI_JJ 
+HUMAN_JJ SERVICE_NN1 A_ZZ1 Statement_NN1 B_ZZ1 RICHARD_NP1 L._NP1 
+THORNBURG_NP1 PITTSBURGH_NP1 ,_, PENNSYLVANI_NP1 Wednesday_NPD1 ,_, May_NPM1 
+10_MC ,_, 197_MC i_ZZ1 have_VH0 a_AT1 vision_NN1 of_IO what_DDQ our_APPGE 
+Commonwealth_NN1 can_VM be_VBI -_- a_AT1 state_NN1 rid_VVN of_IO the_AT 
+destructive_JJ influences_NN2 of_IO organized_JJ crime_NN1 and_CC 
+corruption_NN1 -_- a_AT1 state_NN1 with_IW highways_NN2 and_CC bridges_NN2 
+safe_JJ for_IF travel_NN1 and_CC commerce_NN1 -_- a_AT1 state_NN1 with_IW 
+a_AT1 first-rate_JJ educational_JJ system_NN1 -_- a_AT1 state_NN1 whose_DDQGE 
+economy_NN1 is_VBZ flourishing_JJ ,_, not_XX withering_VVG -_- above_II all_DB 
+,_, a_AT1 state_NN1 in_II which_DDQ citizens_NN2 can_VM plan_VVI for_IF the_AT 
+future_NN1 with_IW hope_NN1 and_CC confidence_NN1 This_DD1 vision_NN1 for_IF 
+Pennsylvania_NP1 encompasses_VVZ all_DB citizens_NN2 -_- rich_JJ and_CC 
+poor_JJ ,_, young_JJ and_CC old_JJ ,_, male_JJ and_CC female_JJ --_NN1 a_AT1 
+state_NN1 in_II which_DDQ the_AT rights_NN2 of_IO all_DB are_VBR protected_VVN 
+so_CS21 that_CS22 the_AT future_NN1 for_IF each_DD1 is_VBZ secure_JJ Too_RG 
+often_RR some_DD of_IO our_APPGE citizens_NN2 have_VH0 been_VBN excluded_VVN 
+from_II this_DD1 vision_NN1 ._. 
+Too_RG often_RR handicapped_JJ individuals_NN2 or_CC older_JJR people_NN 
+reside_VV0 on_II the_AT outskirts_NN2 of_IO hope_NN1 ._. 
+I_PPIS1 believe_VV0 each_DD1 citizen_NN1 ought_VMK to_TO be_VBI able_JK to_TO 
+live_VVI in_II dignity_NN1 ._. 
+Each_DD1 citizen_NN1 ought_VMK to_TO be_VBI able_JK to_TO make_VVI 
+whatever_DDQV contribution_NN1 to_II society_NN1 his_APPGE or_CC her_APPGE 
+unique_JJ talents_NN2 allow_VV0 ._. 
+And_CC each_DD1 ought_VMK to_TO have_VHI a_AT1 productive_JJ place_NN1 in_II 
+our_APPGE Commonwealth_NN1 I_PPIS1 want_VV0 to_TO see_VVI a_AT1 state_NN1 
+government_NN1 that_CST supports_VVZ an_AT1 environment_NN1 to_TO 
+encourage_VVI the_AT creative_JJ energies_NN2 of_IO all_DB ._. 
+To_TO do_VDI less_DAR is_VBZ to_TO deprive_VVI society_NN1 of_IO talents_NN2 
+and_CC experience_VVI we_PPIS2 greatly_RR need_VV0 ._. 
+And_CC I_PPIS1 want_VV0 to_TO see_VVI those_DD2 unable_JK to_TO care_VVI 
+for_IF themselves_PPX2 cared_VVN for_IF equitably_RR ._. 
+To_TO do_VDI less_DAR is_VBZ to_TO divide_VVI people_NN into_II first-class_JJ 
+and_CC second-class_JJ citizens_NN2 ._. 
+It_PPH1 is_VBZ the_AT role_NN1 of_IO our_APPGE human_JJ services_NN2 
+system_NN1 to_TO promote_VVI growth_NN1 ,_, opportunity_NN1 ,_, and_CC 
+security_NN1 for_IF all_DB our_APPGE citizens_NN2 Today_RT this_DD1 system_NN1 
+is_VBZ almost_RR a_AT1 non-system_NN1 ._. 
+We_PPIS2 have_VH0 a_AT1 vast_JJ ,_, impersonal_JJ bureaucracy_NN1 that_CST 
+shuttles_NN2 people_NN from_II one_MC1 agency_NN1 to_II another_DD1 for_IF 
+different_JJ services_NN2 ._. 
+For_REX21 example_REX22 ,_, our_APPGE older_JJR citizens_NN2 receive_VV0 
+free_JJ transit_NN1 through_II the_AT Department_NN1 of_IO Transportation_NN1 
+,_, rent_VV0 rebates_NN2 from_II the_AT Department_NN1 of_IO Revenue_NN1 ,_, 
+medical_JJ assistance_NN1 from_II the_AT Department_NN1 of_IO Welfare_NN1 
+and_CC reside_VV0 in_II nursing_JJ homes_NN2 regulated_VVN by_II the_AT 
+Department_NN1 of_IO Health_NN1 Moreover_RR ,_, we_PPIS2 find_VV0 
+particular_JJ needs_NN2 ministered_VVD to_II by_II several_DA2 different_JJ 
+agencies_NN2 ._. 
+For_REX21 example_REX22 ,_, educational_JJ programs_NN2 are_VBR 
+administered_VVN not_XX only_RR by_II the_AT Department_NN1 of_IO 
+Education_NN1 ,_, but_CCB by_II the_AT Departments_NN2 of_IO Community_NN1 
+Affairs_NN2 ,_, Labor_NN1 and_CC Industry_NN1 ,_, and_CC Public_JJ Welfare_NN1 
+as_RR21 well_RR22 ._. 
+Finally_RR ,_, we_PPIS2 persist_VV0 in_II separating_JJ people_NN into_II 
+stereotyped_JJ categories_NN2 for_IF providing_VVG services_NN2 ._. 
+Thus_RR ,_, we_PPIS2 find_VV0 one_MC1 group_NN1 in_II society_NN1 
+competing_VVG with_IW another_DD1 for_IF scarce_JJ resources_NN2 We_PPIS2 
+must_VM end_VVI this_DD1 competition_NN1 among_II groups_NN2 by_II 
+recognizing_VVG the_AT difficulties_NN2 that_CST one_MC1 individua_NN1 p*_FO 
+**_FU *1_FO GROWTH_NN1 ,_, OPPORTUNITY_NN1 ,_, AND_CC SECURITY_NN1 
+COMMITMENT_NN1 T_ZZ1 PENNSYLVANIA_NP1 HUMAN_JJ SERVICE_NN1 encounters_NN2 
+are_VBR shared_VVN by_II others_NN2 :_: the_AT need_NN1 for_IF adequate_JJ 
+health_NN1 care_NN1 ,_, the_AT need_NN1 for_IF suitable_JJ living_JJ 
+arrangements_NN2 ,_, the_AT need_NN1 for_IF educational_JJ opportunities_NN2 
+,_, and_CC the_AT need_NN1 for_IF a_AT1 productive_JJ place_NN1 in_II 
+society_NN1 Today_RT ,_, I_PPIS1 want_VV0 to_TO share_VVI my_APPGE vision_NN1 
+of_IO the_AT human_JJ services_NN2 we_PPIS2 as_II a_AT1 state_NN1 must_VM 
+extend_VVI to_II our_APPGE citizens_NN2 ,_, the_AT new_JJ attitudes_NN2 
+we_PPIS2 must_VM cultivate_VVI ,_, the_AT new_JJ directions_NN2 we_PPIS2 
+must_VM take_VVI The_AT promise_NN1 for_IF handicapped_JJ individuals_NN2 
+is_VBZ one_MC1 of_IO which_DDQ my_APPGE wife_NN1 ,_, Ginny_NP1 ,_, and_CC 
+I_PPIS1 have_VH0 special_JJ knowledge_NN1 ._. 
+Our_APPGE 18-year-old_JJ son_NN1 ,_, Peter_NP1 ,_, who_PNQS lives_VVZ with_IW 
+us_PPIO2 ,_, was_VBDZ brain_NN1 damaged_VVN as_II a_AT1 result_NN1 of_IO a_AT1 
+car_NN1 accident_NN1 some_DD years_NNT2 ago_RA ._. 
+Through_II him_PPHO1 ,_, I_PPIS1 know_VV0 the_AT problems_NN2 that_CST 
+handicapped_JJ people_NN face_VV0 ._. 
+I_PPIS1 also_RR know_VV0 their_APPGE potential_NN1 for_IF growth_NN1 ,_, 
+their_APPGE potential_NN1 for_IF independence_NN1 -_- for_CS I_PPIS1 have_VH0 
+seen_VVN it_PPH1 first-hand_RR Peter_NP1 is_VBZ one_MC1 of_IO some_DD 
+365,000_MC Pennsylvanians_NP2 who_PNQS are_VBR mentally_RR retarded_JJ 
+citizens_NN2 ,_, 3%_NNU of_IO our_APPGE population_NN1 ._. 
+We_PPIS2 must_VM give_VVI real_JJ hope_NN1 that_CST these_DD2 citizens_NN2 
+can_VM take_VVI their_APPGE rightful_JJ places_NN2 in_II society_NN1 ._. 
+Ginny_NP1 and_CC I_PPIS1 have_VH0 no_AT more_RGR precious_JJ dream_NN1 
+than_CSN one_PN1 in_II which_DDQ Peter_NP1 finds_VVZ a_AT1 job_NN1 and_CC 
+gains_VVZ a_AT1 measure_NN1 of_IO his_APPGE own_DA independence_NN1 and_CC 
+personal_JJ fulfillment_NN1 ._. 
+I_PPIS1 know_VV0 we_PPIS2 share_VV0 this_DD1 dream_NN1 with_IW thousands_NNO2 
+of_IO other_JJ parents_NN2 in_II Pennsylvania_NP1 The_AT Presidents_NN2 
+Commission_NN1 on_II Mental_JJ Health_NN1 revealed_VVD only_RR two_MC 
+weeks_NNT2 ago_RA that_CST more_DAR than_CSN 2_MC million_NNO Americans_NN2 
+suffer_VV0 from_II depression_NN1 and_CC at_RR21 least_RR22 15%_NNU of_IO 
+all_DB Americans_NN2 need_VV0 some_DD form_VVI of_IO mental_JJ health_NN1 
+treatment_NN1 ._. 
+Mental_JJ disorders_NN2 strike_VV0 anyone_PN1 and_CC we_PPIS2 must_VM 
+remove_VVI the_AT barriers_NN2 in_II society_NN1 that_CST cause_VV0 us_PPIO2 
+to_TO ignore_VVI or_CC exclude_VVI mentally_RR restored_JJ citizens_NN2 
+from_II the_AT full_JJ flow_NN1 of_IO community_NN1 life_NN1 Some_DD 
+450,000_MC Pennsylvanians_NP2 are_VBR physically_RR handicapped_VVN ._. 
+They_PPHS2 form_VV0 a_AT1 vast_JJ resource_NN1 of_IO talent_NN1 and_CC 
+skill_NN1 that_CST has_VHZ not_XX been_VBN tapped_VVN ._. 
+Why_RRQ ?_? 
+Because_CS they_PPHS2 frequently_RR encounter_VV0 unnecessary_JJ physical_JJ 
+barriers_NN2 and_CC the_AT subtle_JJ hostile_JJ attitudes_NN2 of_IO others_NN2 
+blocking_VVG them_PPHO2 from_II productive_JJ pursuits_NN2 Our_APPGE older_JJR 
+citizens_NN2 also_RR discover_VV0 obstacles_NN2 to_II fruitful_JJ lives_NN2 
+._. 
+The_AT income_NN1 of_IO retired_JJ citizens_NN2 is_VBZ often_RR but_CCB a_AT1 
+fraction_NN1 of_IO what_DDQ it_PPH1 was_VBDZ before_II the_AT *_FU *_FU *_FU 
+*_FU *_FU retired_JJ ,_, making_VVG it_PPH1 more_RGR difficult_JJ to_TO 
+own_VVI or_CC retain_VVI their_APPGE own_DA homes_NN2 and_CC to_TO pursue_VVI 
+recreational_JJ opportunities_NN2 We_PPIS2 can_VM ill_RR afford_VVI 
+second-class_JJ citizenship_NN1 of_IO any_DD kind_NN1 in_II Pennsylvania_NP1 
+._. 
+We_PPIS2 must_VM pursue_VVI fundamental_JJ objectives_NN2 to_TO make_VVI 
+fulfilling_VVG lives_VVZ a_AT1 reality_NN1 for_IF everyone_PN1 First_MD ,_, 
+we_PPIS2 must_VM destroy_VVI the_AT stereotypes_NN2 that_CST inhibit_VV0 
+us_PPIO2 from_II seeing_VVG individual_JJ people_NN with_IW particular_JJ 
+needs_NN2 ._. 
+Our_APPGE tendency_NN1 to_II group_NN1 people_NN into_II homogeneous_JJ 
+categories_NN2 distorts_VVZ the_AT reality_NN1 of_IO the_AT circumstances_NN2 
+and_CC potential_NN1 of_IO each_DD1 individual_NN1 ._. 
+Among_II the_AT mentally_RR retarded_JJ ,_, for_REX21 example_REX22 ,_, 
+only_RR five_MC percent_NNU are_VBR severely_RR or_CC profoundly_RR 
+affected_VVN ,_, while_CS eighty-nine_MC percent_NNU are_VBR classified_VVN 
+as_CSA mildly_RR retarded_JJ Even_RR among_II the_AT severely_RR affected_VVN 
+,_, there_EX is_VBZ a_AT1 real_JJ potential_NN1 for_IF growth_NN1 ._. 
+For_REX21 example_REX22 ,_, while_CS Ginny_NP1 served_VVD as_CSA President_NN1 
+of_IO the_AT Allegheny_NP1 County_NN1 Chapter_NN1 of_IO the_AT 
+Pennsylvania_NP1 Association_NN1 for_IF Retarded_JJ Children_NN2 ,_, she_PPHS1 
+met_VVD a_AT1 young_JJ girl_NN1 named_VVD Joyce_NP1 ,_, a_AT1 severely_RR 
+retarded_JJ and_CC multiply_VV0 handicapped_JJ child_NN1 totally_RR 
+dependent_JJ on_II others_NN2 ._. 
+Ginny_NP1 helped_VVD place_NN1 Joyce_NP1 in_II a_AT1 foster_JJ home_NN1 ._. 
+In_II this_DD1 new_JJ home_NN1 ,_, Joyce_NP1 is_VBZ receiving_VVG love_NN1 
+and_CC making_VVG major_JJ gains_NN2 ,_, including_II taking_VVG her_APPGE 
+first_MD steps_NN2 in_II four_MC years_NNT2 ._. 
+Had_VHD Joyce_NP1 been_VBN shunted_VVN aside_RL by_II society_NN1 as_II a_AT1 
+hopeless_JJ case_NN1 ,_, then_RT she_PPHS1 indeed_RR might_VM have_VHI 
+become_VVN hopeless_JJ To_TO assure_VVI that_DD1 hope_NN1 is_VBZ not_XX 
+destroyed_VVN ,_, we_PPIS2 must_VM destroy_VVI the_AT self-fulfilling_JJ 
+stereotypes_NN2 that_CST confine_VV0 people_NN to_II irredeemable_JJ 
+categories_NN2 ._. 
+We_PPIS2 must_VM treat_VVI people_NN as_CSA unique_JJ and_CC individual_JJ ,_, 
+not_XX as_RG homogeneous_JJ groups_NN2 Second_MD ,_, we_PPIS2 must_VM 
+assure_VVI that_DD1 proper_JJ living_JJ arrangements_NN2 are_VBR available_JJ 
+to_TO match_VVI each_DD1 persons_NN2 needs_VVZ ._. 
+I_PPIS1 believe_VV0 the_AT best_JJT atmosphere_NN1 is_VBZ created_VVN in_II 
+a_AT1 loving_JJ home_NN1 ._. 
+And_CC that_DD1 is_VBZ where_RRQ we_PPIS2 ought_VMK to_TO concentrate_VVI 
+on_II enabling_VVG individuals_NN2 to_TO live_VVI in_II their_APPGE own_DA 
+home_NN1 and_CC neighborhood_NN1 Where_CS this_DD1 isnt_NN1 possible_JJ or_CC 
+desirable_JJ ,_, then_RT it_PPH1 is_VBZ best_JJT for_IF people_NN to_TO be_VBI 
+able_JK to_TO live_VVI in_II a_AT1 setting_NN1 where_RRQ they_PPHS2 are_VBR 
+part_NN1 of_IO a_AT1 community_NN1 in_II which_DDQ they_PPHS2 can_VM 
+participate_VVI ._. 
+But_CCB ,_, neither_RR home_RL or_CC communit_VV0 living_JJ arrangements_NN2 
+are_VBR best_JJT for_IF everyone_PN1 ._. 
+Sometimes_RT specialized_JJ institutions_NN2 may_VM be_VBI the_AT most_RGT 
+desirable_JJ alternative_NN1 ._. 
+We_PPIS2 should_VM make_VVI certain_JJ these_DD2 institutions_NN2 provide_VV0 
+quality_NN1 care_NN1 and_CC dignity_NN1 to_II the_AT individual_NN1 and_CC 
+are_VBR adequately_RR staffed_VVN by_II competent_JJ and_CC compassionate_JJ 
+professionals_NN2 There_EX are_VBR many_DA2 ways_NN2 to_TO achieve_VVI 
+our_APPGE goal_NN1 of_IO giving_VVG people_NN the_AT choice_NN1 of_IO 
+remaining_VVG in_II their_APPGE own_DA homes_NN2 ._. 
+Many_DA2 families_NN2 with_IW handcapped_JJ children_NN2 need_VV0 
+supportive_JJ services_NN2 in_II their_APPGE homes_NN2 to_TO keep_VVI 
+their_APPGE families_NN2 together_RL ._. 
+And_CC older_JJR people_NN face_VV0 the_AT special_JJ problems_NN2 of_IO 
+being_VBG forced_VVN from_II their_APPGE homes_NN2 by_II rising_VVG 
+property_NN1 taxes_NN2 ,_, especially_RR for_IF education_NN1 ,_, and_CC 
+inadequate_JJ in-home_JJ services_NN2 ._. 
+The_AT phase-out_NN1 of_IO our_APPGE present_JJ property_NN1 tax_NN1 for_IF 
+education_NN1 purposes_NN2 ,_, the_AT acceleration_NN1 of_IO in-home_JJ 
+care_NN1 and_CC home-making_JJ services_NN2 to_TO solve_VVI problems_NN2 
+that_CST might_VM otherwise_RR require_VVI a_AT1 nursing_NN1 home_NN1 ,_, 
+and_CC the_AT continuation_NN1 of_IO our_APPGE commitment_NN1 to_TO 
+support_VVI services_NN2 to_TO give_VVI our_APPGE older_JJR citizens_NN2 
+the_AT mobility_NN1 and_CC nutrition_NN1 they_PPHS2 need_VV0 will_NN1 help_NN1 
+solve_VVI these_DD2 special_JJ problems_NN2 Our_APPGE objective_NN1 must_VM 
+be_VBI to_TO insure_VVI that_CST a_AT1 variety_NN1 of_IO living_JJ 
+arrangements_NN2 are_VBR available_JJ in_II which_DDQ responsible_JJ people_NN 
+can_VM make_VVI choices_NN2 as_II21 to_II22 which_DDQ best_RRT suits_VVZ 
+their_APPGE needs_NN2 Third_MD ,_, we_PPIS2 must_VM assure_VVI educational_JJ 
+opportunities_NN2 to_TO help_VVI people_NN develop_VVI according_II21 to_II22 
+their_APPGE abilities_NN2 ._. 
+If_CS our_APPGE handicapped_JJ citizens_NN2 are_VBR to_TO grow_VVI ,_, 
+they_PPHS2 must_VM have_VHI an_AT1 education_NN1 that_CST prepares_VVZ 
+them_PPHO2 for_IF the_AT future_NN1 ._. 
+For_IF any_DD person_NN1 to_TO assume_VVI a_AT1 productive_JJ place_NN1 in_II 
+society_NN1 ,_, he_PPHS1 or_CC she_PPHS1 must_VM have_VHI knowledge_NN1 and_CC 
+skills_NN2 In_II October_NPM1 ,_, 1977_MC ,_, the_AT United_NP1 States_NP1 
+Department_NN1 of_IO Health_NN1 ,_, Education_NN1 and_CC Welfare_NN1 
+ordered_VVD schools_NN2 to_TO provide_VVI free_JJ appropriate_JJ public_JJ 
+education_NN1 for_IF all_DB handicapped_JJ children_NN2 ._. 
+This_DD1 year_NNT1 ,_, state_VV0 government_NN1 will_VM spend_VVI in_II31 
+excess_II32 of_II33 $370_NNU million_NNO to_TO achieve_VVI this_DD1 goal_NN1 
+._. 
+We_PPIS2 must_VM re-affirm_VVI this_DD1 commitment_NN1 so_CS21 that_CS22 
+the_AT talents_NN2 of_IO these_DD2 people_NN are_VBR not_XX wasted_VVN or_CC 
+undeveloped_JJ Fourth_MD ,_, we_PPIS2 must_VM find_VVI opportunities_NN2 
+for_IF productive_JJ work_NN1 ._. 
+Compassionate_JJ care_NN1 ,_, appropriate_JJ living_JJ arrangements_NN2 and_CC 
+education_NN1 unfairly_RR build_VV0 false_JJ expectations_NN2 when_RRQ a_AT1 
+person_NN1 is_VBZ not_XX allowed_VVN to_TO utilize_VVI knowledge_NN1 and_CC 
+skills_NN2 productively_RR ._. 
+The_AT dream_NN1 of_IO finding_VVG a_AT1 place_NN1 in_II the_AT mainstream_NN1 
+of_IO society_NN1 and_CC thus_RR gaining_VVG dignity_NN1 and_CC 
+independence_NN1 will_VM be_VBI shattered_VVN if_CS we_PPIS2 do_VD0 not_XX 
+provide_VVI suitable_JJ work_NN1 For_REX21 instance_REX22 ,_, many_DA2 
+citizens_NN2 who_PNQS have_VH0 suffered_VVN from_II an_AT1 attack_NN1 of_IO 
+mental_JJ illness_NN1 ,_, but_CCB Eire_NP1 now_RT mentally_RR restored_VVN ,_, 
+are_VBR already_RR educated_VVN or_CC trained_VVN in_II skills_NN2 ._. 
+But_CCB the_AT public_NN1 needs_VVZ to_TO be_VBI educated_VVN to_TO accept_VVI 
+the_AT mentally_RR restored_VVN back_RP into_II jobs_NN2 suitable_JJ to_II 
+those_DD2 skills_NN2 I_PPIS1 will_VM ensure_VVI that_CST the_AT Department_NN1 
+of_IO Labo_NP1 and_CC Industry_NN1 exerts_VVZ greater_JJR efforts_NN2 to_TO 
+counsel_VVI and_CC place_VVI our_APPGE handicapped_JJ citizens_NN2 in_II 
+productive_JJ jobs_NN2 ._. 
+Our_APPGE efforts_NN2 will_VM be_VBI empty_JJ if_CS the_AT growth_NN1 we_PPIS2 
+encourage_VV0 ,_, the_AT hope_NN1 we_PPIS2 inspire_VV0 is_VBZ not_XX 
+matched_VVN by_II commitment_NN1 to_TO make_VVI full_JJ and_CC productive_JJ 
+use_NN1 of_IO that_DD1 growth_NN1 and_CC hope_VV0 As_CSA we_PPIS2 review_VV0 
+human_JJ service_NN1 goals_NN2 ,_, we_PPIS2 begin_VV0 to_TO realize_VVI 
+that_CST people_NN are_VBR much_RR more_RGR alike_JJ than_CSN different_JJ 
+in_II their_APPGE basic_JJ needs_NN2 ._. 
+People_NN want_VV0 to_TO be_VBI treated_VVN as_CSA individuals_NN2 ._. 
+They_PPHS2 want_VV0 loving_JJ homes_NN2 in_II secure_JJ neighborhoods_NN2 ._. 
+They_PPHS2 want_VV0 an_AT1 education_NN1 that_CST will_VM lead_VVI to_II 
+financial_JJ security_NN1 To_II institute_NN1 new_JJ attitudes_NN2 and_CC 
+new_JJ directions_NN2 ,_, my_APPGE first_MD priority_NN1 as_CSA governor_NN1 
+in_II the_AT realm_NN1 of_IO human_JJ services_NN2 will_VM be_VBI to_TO 
+assure_VVI that_CST efforts_NN2 of_IO the_AT various_JJ agencies_NN2 in_II 
+state_NN1 government_NN1 are_VBR coordinated_VVN and_CC cooperatively_RR 
+undertaken_VVN Right_RR now_RT ,_, some_DD twelve_MC different_JJ state_NN1 
+agencies_NN2 ranging_VVG from_II the_AT Department_NN1 of_IO Agriculture_NN1 
+to_II the_AT Department_NN1 of_IO Transportation_NN1 are_VBR responsible_JJ 
+in_II one_MC1 way_NN1 or_CC another_DD1 for_IF human_JJ services_NN2 ._. 
+This_DD1 chaotic_JJ situation_NN1 is_VBZ expensive_JJ and_CC insensitive_JJ 
+to_II peoples_NN2 needs_NN2 and_CC must_VM be_VBI brought_VVN under_II 
+control_NN1 My_APPGE first_MD action_NN1 would_VM not_XX be_VBI to_TO 
+create_VVI another_DD1 committee_NN1 or_CC commission_NN1 ._. 
+Rather_RR ,_, I_PPIS1 will_VM insist_VVI that_CST the_AT highest_JJT 
+levels_NN2 of_IO executive_NN1 officers_NN2 ,_, including_II the_AT 
+Secretaries_NN2 of_IO Public_JJ Welfare_NN1 ,_, Health_NN1 ,_, Labor_NN1 
+and_CC Industry_NN1 ,_, Revenue_NN1 ,_, Community_NN1 Affairs_NN2 ,_, 
+Education_NN1 and_CC Transportation_NN1 stop_VV0 the_AT endless_JJ 
+bickering_NN1 over_II proposals_NN2 and_CC work_VV0 together_RL to_TO 
+clean_VVI up_RP the_AT bureaucratic_JJ mess_NN1 and_CC cut_VVN through_II 
+the_AT red_JJ tape_NN1 that_CST prolongs_VVZ problems_NN2 and_CC prevents_VVZ 
+solutions_NN2 Further_JJR ,_, I_PPIS1 will_VM insist_VVI on_II better_JJR 
+communication_NN1 between_II those_DD2 serving_VVG and_CC those_DD2 being_VBG 
+served_VVN ._. 
+Our_APPGE citizens_NN2 should_VM influence_VVI the_AT decisions_NN2 and_CC 
+policies_NN2 that_CST affect_VV0 them_PPHO2 ._. 
+And_CC I_PPIS1 would_VM insure_VVI the_AT many_DA2 good_JJ human_JJ 
+service_NN1 employes_NN2 have_VH0 the_AT leadership_NN1 and_CC skills_NN2 
+they_PPHS2 need_VV0 to_TO do_VDI their_APPGE jobs_NN2 and_CC be_VBI 
+responsive_JJ to_II the_AT needs_NN2 of_IO the_AT people_NN they_PPHS2 
+serve_VV0 ._. 
+I_PPIS1 will_VM direct_VVI that_DD1 all-out_JJ efforts_NN2 be_VBI made_VVN 
+to_TO secure_VVI safe_JJ and_CC suitable_JJ living_JJ arrangements_NN2 ,_, 
+to_TO provide_VVI the_AT education_NN1 necessary_JJ ,_, and_CC to_TO place_VVI 
+people_NN in_II jobs_NN2 that_CST will_VM give_VVI them_PPHO2 the_AT 
+chance_NN1 to_TO support_VVI themselves_PPX2 and_CC contribute_VVI to_II 
+their_APPGE community_NN1 I_PPIS1 speak_VV0 for_IF attitudes_NN2 and_CC 
+directions_NN2 to_TO seize_VVI a_AT1 new_JJ vision_NN1 of_IO our_APPGE 
+human_JJ services_NN2 ._. 
+We_PPIS2 must_VM see_VVI people_NN as_CSA whole_JJ ,_, not_XX as_CSA 
+fragments_NN2 ._. 
+We_PPIS2 must_VM end_VVI stereotypes_NN2 ._. 
+We_PPIS2 must_VM stress_VVI what_DDQ we_PPIS2 have_VH0 in_RR21 common_RR22 ,_, 
+rather_CS21 than_CS22 insist_VVI upon_II our_APPGE differences_NN2 ._. 
+We_PPIS2 are_VBR ,_, after_II all_DB ,_, a_AT1 Commonwealth_NN1 ._. 
+We_PPIS2 have_VH0 more_RGR in_RR21 common_RR22 than_CSN we_PPIS2 often_RR 
+admit_VV0 and_CC surely_RR we_PPIS2 have_VH0 a_AT1 wealth_NN1 of_IO 
+untapped_JJ talent_NN1 only_RR waiting_VVG to_TO be_VBI encouraged_VVN I_PPIS1 
+believe_VV0 we_PPIS2 can_VM begin_VVI anew_RR with_IW the_AT electio_NN1 of_IO 
+a_AT1 governor_NN1 who_PNQS understands_VVZ our_APPGE people_NN ._. 
+And_CC I_PPIS1 intend_VV0 to_TO be_VBI that_DD1 kind_NN1 of_IO governor_NN1 
+,_, a_AT1 governor_NN1 of_IO all_DB the_AT people_NN I_PPIS1 want_VV0 to_TO 
+see_VVI a_AT1 state_NN1 that_CST provides_VVZ opportunity_NN1 for_IF the_AT 
+handicapped_JJ I_PPIS1 want_VV0 a_AT1 state_NN1 that_CST seeks_VVZ 
+productive_JJ lives_NN2 for_IF our_APPGE retarded_JJ citizens_NN2 ,_, 
+providing_VVG training_NN1 and_CC jobs_NN2 so_CS they_PPHS2 can_VM take_VVI 
+their_APPGE rightful_JJ place_NN1 in_II society_NN1 I_PPIS1 want_VV0 a_AT1 
+state_NN1 that_CST recognizes_VVZ mental_JJ illness_NN1 is_VBZ not_XX a_AT1 
+stigma_NN1 ,_, but_CCB an_AT1 illness_NN1 from_II which_DDQ a_AT1 person_NN1 
+can_VM be_VBI fully_RR restored_VVN I_PPIS1 want_VV0 a_AT1 state_NN1 that_CST 
+breaks_VVZ down_RP attitudinal_JJ as_II31 well_II32 as_II33 physical_JJ 
+barriers_NN2 for_IF the_AT physically_RR handicapped_JJ I_PPIS1 want_VV0 a_AT1 
+state_NN1 that_CST assures_VVZ our_APPGE elderly_JJ have_VH0 fulfilling_JJ 
+lives_NN2 I_PPIS1 want_VV0 a_AT1 state_NN1 that_CST is_VBZ compassionate_JJ 
+,_, concerned_JJ and_CC committed_VVN to_II making_VVG the_AT lives_NN2 of_IO 
+each_DD1 citizen_NN1 in_II our_APPGE Commonwealth_NN1 ,_, lives_NN2 filled_VVN 
+with_IW opportunity_NN1 and_CC hope_VV0 ,_, not_XX disillusionment_NN1 and_CC 
+despair_NN1 ._. 
+As_CSA governor_NN1 ,_, I_PPIS1 promise_VV0 to_TO strive_VVI to_TO achieve_VVI 
+this_DD1 vision_NN1 ,_, to_TO enrich_VVI the_AT lives_NN2 of_IO our_APPGE 
+citizens_NN2 and_CC thus_RR ,_, in_II turn_NN1 ,_, to_TO enrich_VVI our_APPGE 
+entire_JJ state_NN1 RICHARD_NP1 L._NP1 THORNBURGH_NP1 is_VBZ the_AT 
+Republican_NN1 candidate_NN1 for_IF Governor_NN1 of_IO Pennsylvania_NP1 ._. 
+He_PPHS1 served_VVD as_CSA United_NP1 States_NP1 Attorney_NN1 for_IF 
+Western_NP1 Pennsylvania_NP1 from_II 1969-1975_MCMC and_CC thereafter_RT 
+as_CSA Assistant_JJ Attorney_NN1 General_JJ in_II31 charge_II32 of_II33 the_AT 
+Criminal_JJ Division_NN1 of_IO the_AT United_NP1 States_NP1 Department_NN1 
+of_IO Justice_NN1 under_II President_NNB Gerald_NP1 R._NP1 Ford_NP1 ._. 
+During_II his_APPGE career_NN1 ,_, he_PPHS1 has_VHZ been_VBN involved_JJ in_II 
+a_AT1 wide_JJ variety_NN1 of_IO civic_JJ ,_, public_JJ service_NN1 and_CC 
+governmental_JJ endeavors_NN2 devoted_VVD to_II a_AT1 better_JJR 
+Pennsylvania_NP1 Additional_JJ Copie_NN1 May_VM Be_VBI Obtained_VVN Fro_RR 
+THORNBURGH_NP1 FOR_IF GOVERNOR_NN1 2539_MC OLIVER_NP1 BUILDING_NN1 
+PITTSBURGH_NP1 ,_, PENNSYLVANIA_NP1 15222_MC 412-471-460_MCMC o_ZZ1 1535_MC 
+CHESTNUT_NN1 STREET_NN1 PHILADELPHIA_NP1 ,_, PENNSYLVANIA_NP1 19102_MC 
+215-563-787_MCMC Farrell_NP1 Rubenstein_NP1 ,_, Treasurer_NN1 
+--fa2bab0e0ea7fb871edc439d144f1296--_FU 

@@ -1,0 +1,31 @@
+
+PROPOSED_JJ AMENDMENT_NN1 TO_II SENATE_NN1 BILL_NN1 9_MC Printer_NN1 's_GE 
+No._NN1 170_MC Section_NN1 4_MC is_VBZ amended_VVN to_TO read_VVI as_CSA 
+follows_VVZ Each_DD1 political_JJ subdivision_NN1 shall_VM maintain_VVI 
+appropriate_JJ records_NN2 indicating_VVG the_AT location_NN1 and_CC 
+number_NN1 of_IO residents_NN2 served_VVN by_II each_DD1 community_NN1 
+residential_JJ facility_NN1 within_II its_APPGE jurisdiction_NN1 ;_; such_DA 
+information_NN1 shall_VM be_VBI available_JJ to_II the_AT public_NN1 ._. 
+Each_DD1 community_NN1 residential_JJ facility_NN1 shall_VM register_VVI 
+its_APPGE location_NN1 ,_, capacity_NN1 ,_, and_CC agent_NN1 with_IW the_AT 
+appropriate_JJ officials_NN2 of_IO the_AT political_JJ subdivison_NN1 ._. 
+The_AT agent_NN1 shall_VM be_VBI responsible_JJ for_IF maintaining_VVG the_AT 
+facility_NN1 to_TO ensure_VVI that_CST it_PPH1 is_VBZ similar_JJ in_II 
+appearance_NN1 and_CC condition_NN1 to_II other_JJ homes_NN2 in_II the_AT 
+community_NN1 ._. 
+The_AT municipality_NN1 may_VM require_VVI that_CST all_DB the_AT 
+occupants_NN2 of_IO the_AT community_NN1 residential_JJ facility_NN1 shall_VM 
+be_VBI residents_NN2 of_IO that_DD1 municipality_NN1 or_CC a_AT1 
+municipality_NN1 immediately_RR contiguous_JJ thereto_RR ._. 
+For_IF purposes_NN2 of_IO this_DD1 section_NN1 municipality_NN1 shall_VM 
+mean_VVI a_AT1 borough_NN1 ,_, township_NN1 ,_, city_NN1 ,_, or_CC local_JJ 
+home_NN1 rule_NN1 community_NN1 Notwithstanding_RR ,_, if_CS it_PPH1 is_VBZ 
+certified_VVN by_II the_AT appropriate_JJ local_JJ ,_, coun_NN1 or_CC 
+state_VV0 agency_NN1 either_RR that_CST there_EX is_VBZ no_AT space_NN1 
+available_JJ in_II an_AT1 appropriate_JJ community_NN1 residential_JJ 
+facility_NN1 ,_, or_CC that_CST there_EX is_VBZ no_AT appropriate_JJ 
+community_NN1 residential_JJ facility_NN1 available_JJ ,_, then_RT with_IW 
+the_AT approval_NN1 of_IO that_DD1 agency_NN1 an_AT1 occupant_NN1 may_VM 
+reside_VVI in_II the_AT nearest_JJT appropriate_JJ community_NN1 
+residential_JJ Eacility_NN1 with_IW space_NN1 available_JJ ._. 
+--7814b57991c310bf89a4cb71521ee240--_FU 

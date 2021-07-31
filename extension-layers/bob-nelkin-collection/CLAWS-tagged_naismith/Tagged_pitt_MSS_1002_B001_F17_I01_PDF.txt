@@ -1,0 +1,47 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Remsylvcmia_NP1 1523_MC telephone_NN1 ;_; (_( 412_MC )_) 
+322-600_MCMC PAR_NP1 JOAN_NP1 W._NP1 MURDOCH_NP1 Chapter_NN1 Presiden_NP1 
+MICHAEL_NP1 A._NP1 TROWBRIDGE_NP1 Executive_NN1 Directo_NN1 April_NPM1 11_MC 
+,_, 197_MC Mrs._NNB Ellen_NP1 Sicilian_JJ 516_MC Jenne_NP1 Drive_VV0 
+Pittsburgh_NP1 ,_, Pa._NP1 1523_MC Dear_JJ Mrs._NNB Siciliano_NP1 The_AT 
+article_NN1 in_II the_AT March_NPM1 31_MC ,_, 197_MC 8_MC edition_NN1 of_IO 
+Mov_NP1 *_FU n_ZZ1 On_II requests_NN2 that_CST we_PPIS2 keep_VV0 PARC_NP1 "_" 
+informed_VVD of_IO any_DD new_JJ Centers_NN2 proposed_VVN for_IF 
+development_NN1 "_" ._. 
+I_PPIS1 want_VV0 you_PPY to_TO know_VVI that_CST a_AT1 new_JJ Center_NN1 
+is_VBZ being_VBG planned_VVN in_II Allegheny_NP1 County_NN1 Its_APPGE hard_JJ 
+to_TO come_VVI to_II grips_NN2 with_IW our_APPGE feelings_NN2 toward_II 
+this_DD1 new_JJ Center_NN1 ._. 
+The_AT new_JJ Center_NN1 will_VM make_VVI integration_NN1 less_RGR possible_JJ 
+._. 
+The_AT new_JJ Center_NN1 will_VM limit_VVI options_NN2 of_IO families_NN2 
+and_CC students_NN2 ._. 
+We_PPIS2 know_VV0 that_CST the_AT new_JJ Center_NN1 is_VBZ wrong_JJ for_IF 
+these_DD2 reasons_NN2 On_II the_AT flip_NN1 side_NN1 ,_, the_AT parents_NN2 
+in_II the_AT Mon_NPD1 Valley_NN1 area_NN1 have_VH0 long_RR sought_VVN 
+better_JJR facilities_NN2 for_IF their_APPGE sons_NN2 and_CC daughters_NN2 ._. 
+Would_VM PARC_NP1 or_CC ACC-PARC_NP1 efforts_NN2 to_TO halt_VVI the_AT 
+development_NN1 of_IO this_DD1 new_JJ Center_NN1 be_VBI fair_JJ to_II 
+these_DD2 students_NN2 and_CC their_APPGE families_NN2 We_PPIS2 feel_VV0 
+confused_JJ ._. 
+We_PPIS2 hope_VV0 that_CST a_AT1 more_RGR detached_JJ PARC_NP1 Education_NN1 
+Committee_NN1 can_VM guide_VVI us_PPIO2 ._. 
+Should_VM we_PPIS2 oppose_VVI the_AT construction_NN1 of_IO a_AT1 new_JJ 
+Center_NN1 ?_? 
+Should_VM we_PPIS2 pursue_VVI other_JJ methods_NN2 to_TO increase_VVI more_DAR 
+integration_NN1 options_NN2 We_PPIS2 are_VBR sure_JJ that_CST you_PPY face_VV0 
+similar_JJ problems_NN2 in_II other_JJ Intermediate_JJ Units_NN2 throughout_II 
+the_AT state_NN1 (_( none_PN are_VBR as_RG lucky_JJ to_TO have_VHI the_AT 
+Chairman_NN1 of_IO the_AT PARC_NP1 Education_NN1 Committee_NN1 as_II an_AT1 
+active_JJ parent_NN1 and_CC citizen_NN1 )_) ._. 
+How_RRQ are_VBR the_AT other_JJ PARC_NP1 Chanters_NP1 resolving_VVG this_DD1 
+conflict_NN1 MEMBER_NN1 UNIT_NN1 -_- National_JJ Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc_JJ FARTICIWkNT_NN1 -_- Allegheny_NP1 
+County_NN1 Mental_JJ Heolth_NN1 Mrs._NNB Ellen_NP1 Sicilian_JJ Page_NN1 
+I_PPIS1 hope_VV0 that_CST the_AT leadership_NN1 will_VM hel_VVI clear_JJ 
+heads_NN2 of_IO the_AT PARC_NP1 education_NN1 us_PPIO2 ,_, confused_JJ 
+ACC-PARC_NP1 people_NN Sincerely_RR Robert_NP1 Nelki_NP1 Associate_JJ 
+Executive_NN1 Directo_NP1 RN_NP1 :_: c_ZZ1 CC_NP1 :_: Jeff_NP1 Strull_NP1 
+Ilene_NP1 Shane_NP1 Mary_NP1 Zajac_NP1 --3648047bf54d306e4899d87158eae02e--_FU 

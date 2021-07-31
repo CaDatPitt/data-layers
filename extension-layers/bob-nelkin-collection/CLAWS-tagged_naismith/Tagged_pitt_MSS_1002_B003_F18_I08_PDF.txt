@@ -1,0 +1,8 @@
+
+iw_VV0 VIRGINIA_NP1 J._NP1 THORNBURGH_NP1 Gi_NN1 cuter_JJR Presiden_NP1 
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTE_NP1 Pennsylvania_NP1 Association_NN1 for_IF 
+Retarded_JJ Citizens_NN2 ,_, Inc._JJ 1001_MC BRIGHTON_NP1 ROA_NP1 
+Pittsburgh_NP1 ,_, Ftemsylvania_NP1 1523_MC telephone-._NNU (_( 412_MC )_) 
+322_MC 600_MC RONALD_NP1 E.ARCHER_NP1 Executive_NN1 Directo_NN1 -_- ?_? 
+Reverend_NNB Joseph_NP1 Rodgers_NP1 WSSH_NP1 ,_, Board_NN1 of_IO Trustees_NN2 
+255_MC Center_NP1 Road_NNL1 McMurray_NP1 ,_, Pa._NP1 15317._MC -_- -_- -_- 

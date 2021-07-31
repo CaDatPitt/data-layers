@@ -1,0 +1,50 @@
+
+WALTER_NP1 W._NP1 COHE_NP1 SECRETAR_NP1 COMMONWEALTH_NN1 OF_IO PENNSYLVANI_JJ 
+DEPARTMENT_NN1 OF_IO PUBLIC_JJ WELFAR_NP1 P._NP1 O._NP1 Box_NN1 267_MC 
+HARRISBURG_NP1 ,_, PENNSYLVANIA_NP1 1710_MC RECEIVED_JJ JUN_NPM1 3_MC (_( 
+717_MC )_) 787-2600/360_MCMC JUN_NPM1 2_MC 7_MC 198_MC Mrs._NNB N._NP1 
+Karen_NP1 Kell_NP1 Association_NN1 for_IF Retarded_JJ Citizens_NN2 
+Allegheny_NP1 County_NN1 1001_MC Brighton_NP1 Road_NNL1 Pittsburgh_NP1 ,_, 
+Pennsylvania_NP1 1523_MC Dear_JJ Mrs._NNB Kelly_NP1 I_PPIS1 have_VH0 
+carefully_RR reviewed_VVN your_APPGE letter_NN1 of_IO June_NPM1 2_MC ,_, 
+1983_MC with_IW its_APPGE attached_JJ reports_NN2 ._. 
+I_PPIS1 completely_RR agree_VV0 with_IW your_APPGE concern_NN1 regarding_II 
+the_AT program_NN1 improprieties_NN2 and_CC deficiencies_NN2 noted_VVN at_II 
+the_AT Highland_NN1 Park_NN1 Center_NN1 ._. 
+The_AT use_NN1 of_IO "_" electric_JJ shock_NN1 "_" and_CC other_JJ aversive_JJ 
+therapies_NN2 is_VBZ a_AT1 major_JJ concern_NN1 to_II me_PPIO1 On_II May_NPM1 
+31_MC ,_, 1983_MC ,_, Dr._NNB Jennifer_NP1 Howse_NP1 ,_, Deputy_NN1 
+Secretary_NN1 for_IF Mental_JJ Retardation_NN1 ,_, established_VVD an_AT1 
+investigative_JJ team_NN1 to_TO address_VVI the_AT various_JJ problems_NN2 
+at_II this_DD1 facility_NN1 and_CC recommend_VV0 necessary_JJ corrective_JJ 
+action_NN1 ._. 
+As_CSA you_PPY note_VV0 ,_, the_AT team_NN1 is_VBZ headed_VVN by_II Erik_NP1 
+Wittmann_NP1 ._. 
+It_PPH1 includes_VVZ professionals_NN2 from_II both_DB2 the_AT private_JJ 
+and_CC public_JJ sector_NN1 ._. 
+I_PPIS1 understand_VV0 that_CST two_MC individuals_NN2 from_II the_AT ARC_NN1 
+Chapter_NN1 in_II Allegheny_NP1 County_NN1 are_VBR represented_VVN on_II 
+the_AT committee_NN1 ._. 
+In_II the_AT meantime_NNT1 ,_, the_AT Department_NN1 has_VHZ taken_VVN 
+several_DA2 steps_NN2 to_TO insure_VVI the_AT safety_NN1 and_CC well-being_NN1 
+of_IO Highland_NP1 Park_NN1 residents_NN2 On_II May_NPM1 11_MC ,_, 1983_MC ,_, 
+two_MC of_IO our_APPGE behavioral_JJ experts_NN2 conducted_VVD a_AT1 
+review_NN1 of_IO the_AT facility_NN1 ._. 
+Dr._NNB Michael_NP1 Dorsey_NP1 and_CC Dr._NNB Michael_NP1 Franzak_NP1 
+examined_VVD specific_JJ aspects_NN2 of_IO the_AT behavioral_JJ 
+programming_NN1 at_II the_AT facility_NN1 and_CC have_VH0 made_VVN several_DA2 
+recommendations_NN2 for_IF needed_VVN changes_NN2 ._. 
+On_II June_NPM1 7_MC ,_, 1983_MC ,_, Mr._NNB Wittmann_NP1 met_VVD with_IW 
+officials_NN2 from_II Highland_NP1 Park_NN1 Center_NN1 to_TO establish_VVI 
+the_AT parameters_NN2 of_IO the_AT review_NN1 process_VV0 I_PPIS1 will_VM 
+take_VVI steps_NN2 to_TO see_VVI that_CST the_AT Highland_NN1 Park_NN1 
+Center_NN1 audit_NN1 conducted_VVN by_II the_AT Department_NN1 last_MD 
+year_NNT1 is_VBZ released_VVN as_RG soon_RR as_CSA possible_JJ I_PPIS1 am_VBM 
+deeply_RR appreciative_JJ of_IO the_AT assistance_NN1 and_CC concern_NN1 of_IO 
+your_APPGE association_NN1 ._. 
+Together_RL we_PPIS2 have_VH0 a_AT1 mutual_JJ responsibility_NN1 to_TO 
+assure_VVI that_CST all_DB retardation_NN1 facilities_NN2 ,_, whether_CSW 
+public_JJ or_CC private_JJ ,_, do_VD0 not_XX violate_VVI the_AT legal_JJ 
+and_CC human_JJ rights_NN2 of_IO our_APPGE mentally_RR retarded_JJ 
+citizens_NN2 Sincerely_RR WALTER_NP1 W._NP1 COHEN_NP1 
+--0e84ae29beac2f710c182e7c07d802a5--_FU 

@@ -1,0 +1,42 @@
+
+LIAISON_NN1 MEETIN_NP1 WESTERN_NP1 STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 
+April_NP1 2U_FO ,_, 197_MC SUBJECT_NN1 :_: Disturbance_NN1 at_II WSSH_NP1 
+during_II previous_JJ weekend_NNT1 due_II21 to_II22 actions_NN2 of_IO one_MC1 
+male_JJ resident_NN1 ,_, Eddie_NP1 PRESENT_NN1 :_: Two_MC union_NN1 
+members_NN2 ,_, numerous_JJ parents_NN2 ,_, Dr._NNB Scott_NP1 and_CC one_MC1 
+administrative_JJ assistant_NN1 ,_, and_CC Midge_NP1 Scannell_NP1 from_II 
+ACC-PARC_NP1 Union_NP1 people_NN stated_VVD their_APPGE concern_NN1 for_IF 
+their_APPGE own_DA members_NN2 who_PNQS were_VBDR jeopardized_VVN and_CC 
+for_IF the_AT other_JJ residents_NN2 who_PNQS were_VBDR endangered_VVN ._. 
+They_PPHS2 were_VBDR forced_VVN to_TO picket_VVI to_TO publicize_VVI 
+their_APPGE plight_NN1 ._. 
+Union_NP1 may_VM initiate_VVI "_" Right_RR to_II Treatment_NN1 "_" suit_NN1 
+Dr._NNB Scott_NP1 accepted_VVD responsibility_NN1 for_IF the_AT situation_NN1 
+and_CC stated_VVD that_CST little_DA1 could_VM be_VBI done_VDN to_TO 
+minimize_VVI the_AT effect_NN1 of_IO such_DA disturbances_NN2 because_II21 
+of_II22 1_MC1 ._. 
+Inadequate_JJ staf_NN1 2_MC ._. 
+Great_JJ amount_NN1 of_IO absenteeism_NN1 on_II part_NN1 of_IO staff_NN ._. 
+She_PPHS1 must_VM schedule_VVI 7_MC workers_NN2 to_TO ensure_VVI that_CST 3_MC 
+will_VM actually_RR report_VVI for_IF work_NN1 3_MC ._. 
+Volunteers_NN2 can_VM not_XX be_VBI relied_VVN on_II21 to_II22 achieve_VV0 
+any_DD positive_JJ effects_NN2 because_II21 of_II22 sporadic_JJ 
+participation_NN1 Dr._NNB Scott_NP1 spoke_VVD of_IO transferring_VVG the_AT 
+resident_NN1 to_II another_DD1 facility_NN1 ,_, possibly_RR Mayview_VV0 or_CC 
+Woodville_NP1 Midge_NP1 Scannell_NP1 suggested_VVD that_CST 1_MC1 ._. 
+Transfer_VV0 to_II these_DD2 facilities_NN2 seems_VVZ inappropriate_JJ as_CSA 
+PARC_NP1 staff_NN reports_VVZ that_CST Eddie_NP1 seems_VVZ unmanagable_JJ 
+only_JJ when_CS there_EX is_VBZ insufficient_JJ activity_NN1 to_TO involve_VVI 
+his_APPGE total_JJ participation_NN1 2_MC ._. 
+Transfer_VV0 to_II these_DD2 facilities_NN2 may_VM preclude_VVI the_AT 
+resident_NN1 from_II participating_VVG in_II the_AT PARC_NP1 workshop_NN1 3_MC 
+._. 
+The_AT kind_NN1 of_IO sensational_JJ reporting_NN1 that_CST appeared_VVD 
+regarding_II the_AT picketing_NN1 was_VBDZ detrimental_JJ to_II the_AT 
+development_NN1 of_IO normalization_NN1 programs_NN2 of_IO community_NN1 
+residences_NN2 and_CC service_NN1 programs_NN2 Result_NN1 of_IO Meeting_NN1 
+:_: No_AT solution_NN1 was_VBDZ found_VVN to_II the_AT problem_NN1 of_IO 
+Eddies_NN2 periodic_JJ outbursts_NN2 ._. 
+Dr._NNB Scott_NP1 would_VM not_XX state_VVI what_DDQ her_APPGE plans_NN2 
+were_VBDR if_CSW ,_, in_II fact_NN1 ,_, she_PPHS1 has_VHZ any_DD Midge_NP1 
+Scannell_NP1 --7917d0bb3ce20e1c07a4bef368f81f06--_FU 

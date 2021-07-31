@@ -1,0 +1,71 @@
+
+COMMONWEALTH_NN1 OF_IO PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ 
+WELFARE_NN1 HARRISBURG_NP1 ,_, PENNSYLVANIA_NP1 1712_MC JAMES_NP1 R._NP1 
+ADAMS_NP1 GENERAL_JJ COUNSE_NN1 February_NPM1 3_MC ,_, 197_MC TELEPHONE_VV0 
+NUMBE_NP1 787-6398_MCMC AREA_NN1 CODE_NN1 71_MC Mr._NNB Thomas_NP1 F._NP1 
+Hallora_NP1 Assistant_JJ Attorney_NN1 General_JJ Community_NN1 Advocate_NN1 
+Uni_NN1 906_MC Fifth_NP1 Avenue_NNL1 ,_, 2nd_MD Floor_NN1 Pittsburgh_NP1 ,_, 
+Pennsylvania_NP1 1521_MC RECEIVE_VV0 FES_NP2 8197_MC DEPARTMENT_NN1 GF_NP1 
+JUSTICE_NN1 COMMUNITY_NN1 ADVOCATE_NN1 UNIT_NN1 PITTSBURG_NP1 Dear_JJ Tom_NP1 
+This_DD1 is_VBZ in_II31 response_II32 to_II33 your_APPGE request_NN1 for_IF 
+a_AT1 legal_JJ opinion_NN1 regarding_II the_AT impact_NN1 of_IO a_AT1 
+proposed_JJ amendment_NN1 to_II Senate_NN1 Bill_NN1 94_MC ,_, dealing_VVG 
+with_IW community_NN1 residential_JJ facilities_NN2 for_IF the_AT mentally_RR 
+ill_JJ ,_, mentally_RR retarded_JJ ,_, and_CC other_JJ individuals_NN2 ._. 
+The_AT amendment_NN1 would_VM define_VVI the_AT facility_NN1 as_CSA one_PN1 
+providing_VVG residence_NN1 for_IF ,_, among_II others_NN2 "_" mentally_RR 
+ill_JJ persons_NN2 who_PNQS do_VD0 not_XX pose_VVI a_AT1 clear_JJ and_CC 
+present_JJ danger_NN1 of_IO harm_NN1 to_II themselves_PPX2 or_CC others_NN2 
+,_, and_CC who_PNQS were_VBDR not_XX ,_, within_II the_AT past_JJ two_MC 
+years_NNT2 ,_, receiving_VVG mental_JJ health_NN1 treatment_NN1 under_II 
+Article_NN1 IV_MC of_IO Act_NN1 143_MC ._. 
+Specifically_RR ,_, you_PPY have_VH0 asked_VVN whether_CSW the_AT 
+above-language_NN1 would_VM permit_VVI dangerous_JJ mentally_RR ill_JJ 
+persons_NN2 to_TO reside_VVI ,_, in_II these_DD2 facilities_NN2 ._. 
+My_APPGE answer_NN1 is_VBZ in_II the_AT negative_JJ ._. 
+Initially_RR ,_, no_AT person_NN1 who_PNQS is_VBZ subject_II21 to_II22 
+civil_JJ commitment_NN1 under_II state_NN1 law_NN1 would_VM meet_VVI the_AT 
+limitation_NN1 of_IO danger_NN1 to_II himself_PPX1 or_CC others_NN2 ._. 
+The_AT standard_NN1 for_IF involuntary_JJ commitment_NN1 includes_VVZ 
+persons_NN2 who_PNQS ,_, because_II21 of_II22 mental_JJ illness_NN1 ,_, "_" 
+pose_VV0 a_AT1 clear_JJ and_CC present_JJ danger_NN1 of_IO harm_NN1 to_II 
+others_NN2 or_CC to_II himself_PPX1 ._. "_" 
+50_MC P.S._NN1 7301(a)_FO ._. 
+The_AT clear_JJ and_CC present_JJ danger_NN1 may_VM come_VVI in_II turn_NN1 
+,_, be_VBI shown_VVN by_II overt_JJ behavior_NN1 within_II 30_MC days_NNT2 ,_, 
+as_CSA specified_VVN in_II 7301_MC (_( b_ZZ1 )_) ._. 
+If_CS a_AT1 person_NN1 met_VVD these_DD2 standards_NN2 ,_, he_PPHS1 would_VM 
+be_VBI subject_II21 to_II22 involuntary_JJ commitment_NN1 upon_II petition_NN1 
+of_IO any_DD responsible_JJ party_NN1 ,_, rather_II21 than_II22 being_VBG 
+a_AT1 fit_JJ subject_NN1 for_IF community_NN1 residential_JJ facility_NN1 ._. 
+See_VV0 also_RR 305_MC ,_, 50_MC P.S._NN1 7305_MC ,_, regarding_VVG 
+standards_NN2 for_IF continued_JJ involuntary_JJ commitment_NN1 The_AT 
+reference_NN1 to_II Article_NN1 IV_MC of_IO Act_NN1 143_MC ,_, 50_MC P.S._NN1 
+7401_MC et_NP1 seq._NNU ,_, would_VM have_VHI a_AT1 further_JJR effect_NN1 
+of_IO excluding_VVG persons_NN2 committed_VVN to_II mental_JJ hospitals_NN2 
+via_II the_AT criminal_JJ justice_NN1 system_NN1 ._. 
+This_DD1 would_VM include_VVI persons_NN2 (_( 1_MC1 )_) charged_VVD with_IW 
+crime_NN1 and_CC in_II detention_NN1 or_CC undergoing_VVG sentence_NN1 (_( 
+50_MC P.S._NN1 7401_MC )_) ;_; (_( 2_MC )_) committe_NN1 to_TO determine_VVI 
+their_APPGE competency_NN1 to_TO stand_VVI trial_NN1 (_( 50_MC P.S._NN1 
+7402_MC )_) ;_; (_( 3_MC )_) committed_VVN following_II a_AT1 
+determination_NN1 of_IO incompetency_NN1 to_TO stand_VVI trial_NN1 (_( 50_MC 
+P.S._NN1 7403_MC ,_, 7406_MC )_) ;_; (_( 4_MC )_) committed_VVN following_II 
+a_AT1 acquittal_NN1 by_II31 reason_II32 of_II33 lack_NN1 of_IO 
+responsibility_NN1 (_( 50_MC P.S._NN1 7404_MC ,_, 7406_MC )_) ;_; and_CC (_( 
+5_MC )_) committed_VVN for_IF examination_NN1 in_II31 aid_II32 of_II33 
+sentencin_NN1 Mr._NNB Thomas_NP1 F._NP1 Hollora_NP1 February_NPM1 3_MC ,_, 
+197_MC (_( 50_MC P.S._NN1 7405_MC ,_, 7406_MC )_) ._. 
+I_PPIS1 would_VM note_VVI that_CST the_AT ._. limitation_NN1 regarding_II 
+Article_NN1 IV_MC is_VBZ supplementary_JJ to_II that_DD1 previously_RR 
+discussed_VVN regarding_II dangerousness_NN1 to_II self_NN1 or_CC others_NN2 
+In_II summary_NN1 ,_, the_AT proposed_JJ amendment_NN1 would_VM exclude_VVI 
+mentally_RR ill_JJ persons_NN2 who_PNQS are_VBR subject_II21 to_II22 
+involuntary_JJ commitment_NN1 ,_, and_CC would_VM further_RRR exclude_VVI 
+persons_NN2 who_PNQS had_VHD within_II the_AT past_JJ two_MC years_NNT2 
+been_VBN committed_VVN with_IW criminal_JJ justice_NN1 system_NN1 
+involvement_NN1 ._. 
+I_PPIS1 hope_VV0 this_DD1 is_VBZ responsive_JJ to_II your_APPGE request_NN1 
+Robert_NP1 B._NP1 /Hoffma_NN1 Assistant_NN1 Attorney_NN1 General_JJ 
+Department_NN1 of_IO Public_JJ Welfar_NN1 RBH:bmd_FO 
+--41833780c74b8da08fd0925e37283bde--_FU 

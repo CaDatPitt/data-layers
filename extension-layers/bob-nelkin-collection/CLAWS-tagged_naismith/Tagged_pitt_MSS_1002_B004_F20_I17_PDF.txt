@@ -1,0 +1,16 @@
+
+CLARENCE_NP1 W._NP1 BALDWIN_NP1 ._. 
+D.D_NP1 PASTO_NP1 first_MD United_JJ ttlettiodist_NN1 Churc_NP1 1102_MC 
+LIBERTY_NN1 STREET_NN1 PHONE_NN1 432-816_MCMC FRANKLIN_NP1 ._. 
+PA._NN1 1632_MC HOME_NN1 PHON_NN1 432-896_MCMC '_GE -i'/fiQ_NN1 ?_? r_ZZ1 
+April_NPM1 23_MC ,_, 197_MC Mrs._NNB Helene_NP1 Wohlgemuth_NP1 State_NN1 
+Welfare_NN1 Sect_NN1 ._. 
+Harrisburg_NP1 ,_, Pa_NP1 Dear_JJ Mrs._NNB Wohlgemuth_NP1 I_PPIS1 want_VV0 
+to_TO protest_VVI most_RGT strongly_RR the_AT precipitent_JJ dismissal_NN1 
+of_IO Dr._NNB McClelland_NP1 from_II the_AT Polk_NP1 State_NN1 School_NN1 ._. 
+Especially_RR to_TO do_VDI this_DD1 without_IW any_DD hearing_NN1 or_CC 
+full_JJ ,_, investigation_NN1 is_VBZ unbelievable_JJ in_II responsible_JJ 
+administration_NN1 ._. 
+I_PPIS1 strongly_RR urge_VV0 you_PPY to_TO have_VHI a_AT1 full_JJ and_CC 
+fair_JJ investigation_NN1 made_VVD I_PPIS1 Sincerely_RR yours_PPGE C._RG W_NNU 
+,_, Baldwd_NP1 n_ZZ1 --af7ee20342789d912d6219093be5b3e4--_FU 

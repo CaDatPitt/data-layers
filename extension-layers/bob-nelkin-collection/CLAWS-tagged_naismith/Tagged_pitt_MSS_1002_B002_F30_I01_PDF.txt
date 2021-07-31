@@ -1,0 +1,98 @@
+
+PENNHURST_NP1 STUD_NP1 BRIEF_JJ REPORT_NN1 #1_NNU SURVEY_NN1 OF_IO 
+FAMILIES_NN2 OF_IO CLIENTS_NN2 DEINSTITUTIONALIZED_VVD FROM_II THE_AT DATE_NN1 
+OF_IO THE_AT COURT_NN1 ORDER_NN1 TO_II APRIL_NPM1 30_MC ,_, 198_MC (_( 02_MC 
+YEAR_NNT1 FAMILY_NN1 IMPACTS_NN2 REPORT_VV0 BY_II James_NP1 W._NP1 Conro_NP1 
+EVALUATION_NN1 I._NP1 RESEARCH_NN1 GROU_NP1 TEMPLE_NP1 UNIVERSITY_NN1 
+DEVELOPMENTAL_JJ DISABILITIES_NN2 CENTER_NN1 9th_MD Floor_NN1 Ritter_NP1 
+Anne_NP1 Philadelphia_NP1 ,_, PA_NN1 1912_MC (_( 215_MC )_) -787-135_MC 
+July_NPM1 31_MC ,_, 198_MC Prepared_VVN Under_II Contract_NN1 No._NN1 
+130-81-0022_MCMC with_IW the_AT U._NP1 S._NP1 Department_NN1 of_IO Health_NN1 
+&; Human_NN1 Service_NN1 As_II an_AT1 addition_NN1 to_II the_AT 
+Longitudinal_JJ Study_NN1 of_IO the_AT Court-Ordered_JJ 
+Deinstitutionalization_NN1 of_IO Pennhurst_NP1 ,_, questionnaires_NN2 
+were_VBDR mailed_VVN to_II the_AT families_NN2 of_IO clients_NN2 who_PNQS 
+were_VBDR relocated_VVN to_II Community_NN1 Living_NN1 Arrangements_NN2 (_( 
+CLAs_NP2 )_) between_II the_AT date_NN1 of_IO the_AT Court_NN1 Order_NN1 ,_, 
+March_NPM1 17_MC ,_, 1978_MC ,_, and_CC April_NPM1 30_MC ,_, 1980_MC ._. 
+This_DD1 report_NN1 summarizes_VVZ the_AT results_NN2 ._. 
+There_EX were_VBDR 99_MC clients_NN2 who_PNQS were_VBDR relocated_VVN to_II 
+southeast_ND1 region_NN1 CLAs_NN2 during_II that_DD1 time_NNT1 period_NN1 ._. 
+Of_IO these_DD2 ,_, family_NN1 contacts_NN2 were_VBDR known_VVN for_IF 79_MC 
+._. 
+Introductory_JJ letters_NN2 were_VBDR mailed_VVN to_II the_AT 79_MC 
+families_NN2 in_II February_NPM1 ,_, 1981_MC ._. 
+Five_MC letters_NN2 were_VBDR returned_VVN by_II the_AT Post_NN1 Office_NN1 
+for_IF incorrect_JJ addresses_NN2 ._. 
+In_II late_JJ February_NPM1 ,_, survey_NN1 forms_NN2 and_CC return_VV0 
+envelopes_NN2 were_VBDR mailed_VVN to_II the_AT remaining_JJ 74_MC 
+families_NN2 By_II March_NPM1 25_MC ,_, 28_MC responses_NN2 had_VHD been_VBN 
+received_VVN (_( 38%_NNU )_) ._. 
+Three_MC of_IO these_DD2 were_VBDR returned_VVN blank_JJ because_CS the_AT 
+families_NN2 were_VBDR either_RR disabled_JJ or_CC had_VHD not_XX seen_VVN 
+their_APPGE relatives_NN2 since_CS birth_NN1 ._. 
+A_AT1 second_MD mailing_NN1 was_VBDZ conducted_VVN to_TO reach_VVI the_AT 
+remaining_JJ families_NN2 ._. 
+Twelve_MC additional_JJ valid_JJ responses_NN2 were_VBDR received_VVN ;_; 
+four_MC others_NN2 wrote_VVD that_CST they_PPHS2 chose_VVD not_XX to_TO 
+participate_VVI ,_, and_CC one_PN1 claimed_VVD no_AT relationship_NN1 with_IW 
+the_AT client_NN1 ._. 
+The_AT summary_NN1 of_IO the_AT survey_NN1 response_NN1 was_VBDZ as_CSA 
+follows_VVZ SURVEY_NN1 RESPONSE_NN1 79_MC ADDRESSE_NP1 -5_MC INCORRECT_JJ 
+ADDRESSE_NN1 -3_MC BLANK_JJ ,_, HAVE_VH0 NOT_XX SEEN_VVN CLIENT_NN1 IN_II 
+MANY_DA2 YEAR_NNT1 -1_MC NO_AT RELATIONSHIP_NN1 TO_II CLIEN_NP1 70_MC VALID_JJ 
+POTENTIAL_JJ RESPONDENT_NN1 -4_MC REFUSE_NN1 -29_MC NON-RESPONS_NN2 37_MC 
+VALID_JJ RESPONSE_NN1 *_FU This_DD1 study_NN1 is_VBZ not_XX to_TO be_VBI 
+confused_VVN with_IW the_AT survey_NN1 of_IO families_NN2 of_IO Pennhurst_NN1 
+residents_NN2 performed_VVD May-June_NP1 1980_MC and_CC reported_VVD 
+December_NPM1 1_MC1 ,_, 1980_MC ._. 
+The_AT present_JJ study_NN1 surveyed_VVD the_AT families_NN2 of_IO clients_NN2 
+who_PNQS were_VBDR deinstitutionalized_VVN before_II that_DD1 survey_NN1 
+was_VBDZ conducted_VVN -1_MC These_DD2 37_MC valid_JJ responses_NN2 out_II21 
+of_II22 70_MC potential_JJ responses_NN2 indicated_VVD a_AT1 vali_NN2 
+response_NN1 rate_NN1 of_IO 53%_NNU ._. 
+The_AT complete_JJ response_NN1 rate_NN1 would_VM be_VBI calculated_VVN a_AT1 
+3_MC +_FO 1_MC1 +_FO 4_MC +_FO 37/74_MF ,_, or_CC 59.5%_FO Because_CS 53%_NNU 
+was_VBDZ lower_JJR than_CSN we_PPIS2 had_VHD hoped_VVN ,_, we_PPIS2 tested_VVD 
+for_IF non-responden_JJ bias_NN1 to_TO see_VVI whether_CSW the_AT clients_NN2 
+not_XX represented_VVN in_II the_AT survey_NN1 were_VBDR differen_NN1 from_II 
+those_DD2 who_PNQS were_VBDR represented_VVN ._. 
+The_AT results_NN2 were_VBDR as_CSA shown_VVN in_II Table_NN1 2_MC TESTS_NN2 
+OF_IO NON_FU -RESPONDENT_JJ BIAS_NN1 t-tes_NN2 Client_NN1 Characteristics_NN2 
+Respondents_NN2 Non-Respondents_NN2 significance_NN1 of_IO differenc_NN1 
+Average_NN1 date_NN1 admitted_VVN to_II Pennhurst_NP1 10/59_MF 1/57_MF Not_XX 
+Significant_JJ (_( NS_NP1 Average_JJ date_NN1 discharged_VVN 2/79_MF 1/79_MF 
+N_NNU Age_NN1 35.86_MC 39.85_MC N_ZZ1 ADAPTIVE_JJ BEHAVIOR_NN1 Personal_JJ 
+Self-Sufficiency_NN1 34.76_MC 38.13_MC N_NNU Community_NN1 to_II 
+Self-Sufficiency_NN1 '_GE 17.00_MC 21.97_MC p_ZZ1 =_FO .05_MC 
+Personal-Social_JJ Responsibility_NN1 13.08_MC 15.92_MC p_ZZ1 =_FO .04_MC 
+MALADAPTIVE_NP1 BEHAVIOR_NP1 Social_JJ Adaptation_NN1 12.64_MC 11.62_MC N_ZZ1 
+Personal_JJ Adaptation_NN1 6.40_MC 7.08_MC N_NNU Level_NN1 of_IO 
+retardation_NN1 (_( 4-point_JJ scale_NN1 )_) 3.92_MC 3.71_MC N_NNU Clearly_RR 
+the_AT respondent_NN1 -_- group_NN1 clients_NN2 were_VBDR not_XX very_RG 
+different_JJ from_II the_AT non-respondent_JJ group_NN1 clients_NN2 ._. 
+We_PPIS2 therefore_RR accepted_VVD the_AT 53%_NNU response_NN1 rate_NN1 as_CSA 
+adequate_JJ ;_; we_PPIS2 rejected_VVD the_AT possibility_NN1 of_IO 
+telephoning_VVG all_DB non-respondents_NN2 ,_, which_DDQ ,_, on_II such_DA 
+a_AT1 sensitive_JJ topic_NN1 ,_, would_VM have_VHI been_VBN highly_RR 
+intrusive_JJ -2_MC RESULT_VV0 Among_II the_AT 37_MC respondents_NN2 ,_, 20_MC 
+were_VBDR mothers_NN2 of_IO the_AT clients_NN2 ,_, 8_MC were_VBDR fathers_NN2 
+,_, and_CC 9_MC were_VBDR other_JJ relatives_NN2 ._. 
+Ten_MC respondents_NN2 had_VHD less_DAR than_CSN a_AT1 high_JJ school_NN1 
+education_NN1 ,_, 14_MC were_VBDR high_JJ school_NN1 graduates_NN2 ,_, 5_MC 
+had_VHD some_DD college_NN1 ,_, and_CC 5_MC had_VHD a_AT1 college_NN1 
+degree_NN1 or_CC more_RRR ;_; 3_MC did_VDD not_XX answer_VVI ._. 
+There_EX were_VBDR 32_MC who_PNQS listed_VVD themselves_PPX2 as_CSA White_NP1 
+,_, 2_MC Black_JJ ,_, and_CC 3_MC who_PNQS did_VDD not_XX answer_VVI 
+SATISFACTION_NN1 WITH_IW RESIDENTIAL_JJ PLACEMEN_NN2 Relatives_NN2 
+responded_VVN to_II two_MC 5-point_JJ Likert_NP1 scales_NN2 on_II "_" How_RGQ 
+satisfied_JJ (_( are/were_FU )_) you_PPY with_IW the_AT services_NN2 
+your_APPGE relative_NN1 (_( received/is_FU receiving_JJ )_) fro_RR (_( 
+Pennhurst/the_FU CLA_NN1 )_) ?_? 1_MC1 ._. 
+Very_JJ satisfie_NN1 2_MC ._. 
+Somewhat_RR satisfie_NN1 3_MC ._. 
+Neutra_NN1 4_MC ._. 
+Somewhat_RR dissatisfie_NN1 5_MC ._. 
+Very_JJ dissatisfie_NN1 Blan_NN1 Former_DA satisfaction_NN1 with_IW 
+Institution_NN1 Present_NN1 satisfaction_NN1 with_IW CL_NP1 11_MC 2_MC 10_MC 
+5_MC 6_MC 4_MC 1_MC1 

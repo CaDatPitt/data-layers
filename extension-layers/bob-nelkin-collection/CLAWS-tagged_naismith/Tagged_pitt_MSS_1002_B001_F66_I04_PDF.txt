@@ -1,0 +1,233 @@
+
+ALLEGHENY_NP1 COUNTY_NN1 CHAPTER_NN1 ,_, PENNSYLVANIA_NP1 ASSOCIATION_NN1 
+FOR_IF RETARDED_JJ CHILDREN_NN2 RESIDENTIAL_JJ CARE_NN1 COMMITTEE_NN1 
+October_NPM1 14_MC ,_, 197_MC Questions_NN2 raised_VVN concerning_II the_AT 
+proposed_JJ 9200_MC regulations_NN2 :_: Residential_JJ Services_NN2 
+Facilities_NN2 subject_II21 to_II22 licensure_NN1 I._NP1 General_NN1 
+Concerns_VVZ A._NP1 Licensin_NP1 1_MC1 ._. 
+Our_APPGE overall_JJ concern_NN1 is_VBZ that_CST the_AT enforcement_NN1 
+power_NN1 of_IO these_DD2 regulations_NN2 is_VBZ not_XX specified_VVN ._. 
+In_II the_AT past_NN1 ,_, and_CC at_II this_DD1 very_JJ moment_NN1 ,_, 
+facilities_NN2 have_VH0 operated_VVN (_( do_VD0 operate_VVI )_) without_IW 
+licensure_NN1 How_RRQ can_VM the_AT DPW_NP1 allow_VVI a_AT1 facility_NN1 to_TO 
+operate_VVI legally_RR without_IW being_VBG inspected_VVN and_CC licensed_VVN 
+How_RRQ does_VDZ the_AT DPW_NP1 plan_VVI to_TO force_VVI compliance_NN1 2_MC 
+._. 
+With_IW the_AT proposed_JJ 9200_MC regulations_NN2 ,_, when_RRQ is_VBZ a_AT1 
+facility_NN1 in_II non-compliance_NN1 ?_? 
+Clearly_RR ,_, some_DD requirements_NN2 must_VM be_VBI mandatory_JJ ,_, 
+such_II21 as_II22 a_AT1 ._. 
+Meeting_VVG the_AT Life_NN1 Safety_NN1 Code_NN1 Standards_NN2 b_ZZ1 ._. 
+Meeting_VVG the_AT stated_JJ capacity_NN1 standards_NN2 c_ZZ1 ._. 
+Creating_VVG a_AT1 specified_JJ program_NN1 for_IF each_DD1 resident_NN1 
+with_IW short_JJ and_CC long-term_JJ goals_NN2 3_MC ._. 
+The_AT licensing_NN1 status_NN1 and_CC stages_NN2 ,_, and_CC their_APPGE 
+requirements_NN2 ,_, should_VM be_VBI clearly_RR specified_VVN and_CC 
+should_VM be_VBI public_JJ knowledge_NN1 ._. 
+(_( This_DD1 would_VM eliminate_VVI endless_JJ license_NN1 extensions_NN2 
+as_CSA is_VBZ the_AT present_JJ habit_NN1 ._. 
+a_AT1 ._. 
+Mandatory_JJ requirements_NN2 :_: At_II anytime_NNT1 that_CST this_DD1 is_VBZ 
+non-compliance_JJ with_IW mandatory_JJ requirements_NN2 would_VM mean_VVI 
+that_CST the_AT license_NN1 must_VM be_VBI revoked_VVN ._. 
+This_DD1 might_VM include_VVI such_DA things_NN2 as_CSA capacity_NN1 ,_, 
+Life_NN1 Safety_NN1 Standards_NN2 ,_, and_CC plans_NN2 for_IF individual_JJ 
+residents_NN2 b_ZZ1 ._. 
+Basic_JJ requirements_NN2 :_: If_CS the_AT facility_NN1 is_VBZ not_XX in_II 
+compliance_NN1 with_IW the_AT basic_JJ requirements_NN2 ,_, a_AT1 permanent_JJ 
+license_NN1 is_VBZ withheld_VVN and_CC a_AT1 provisional_JJ license_NN1 
+issued_VVD ._. 
+That_DD1 facility_NN1 is_VBZ given_VVN a_AT1 firm_JJ time_NNT1 limit_NN1 to_TO 
+upgrade_VVI the_AT services_NN2 to_TO fully_RR comply_VVI c_ZZ1 ._. 
+Standards_NN2 :_: The_AT facilities_NN2 should_VM attempt_VVI ,_, but_CCB 
+not_XX required_VVN ,_, to_TO provide_VVI services_NN2 on_II the_AT level_NN1 
+suggested_VVN by_II the_AT standards_NN2 4_MC ._. 
+A_AT1 permanent_JJ license_NN1 should_VM not_XX be_VBI granted_VVN until_CS 
+there_EX is_VBZ written_VVN evidence_NN1 from_II the_AT Department_NN1 of_IO 
+Labor_NN1 and_CC Industry_NN1 and_CC the_AT Department_NN1 of_IO Welfare_NN1 
+of_IO the_AT facilitys_NN2 compliance_NN1 with_IW the_AT particular_JJ 
+regulations_NN2 of_IO those_DD2 departments_NN2 Residential_JJ Care_NN1 
+Committe_NN1 Page_NN1 5_MC ._. 
+It_PPH1 is_VBZ especially_RR disappointing_JJ to_TO note_VVI that_DD1 
+consumer_NN1 groups_NN2 ,_, such_II21 as_II22 PARC_NP1 ,_, are_VBR not_XX 
+included_VVN on_II all_DB licensing_VVG inspections_NN2 6_MC ._. 
+It_PPH1 is_VBZ unclear_JJ which_DDQ person_NN1 ,_, within_II the_AT 
+Department_NN1 of_IO Public_JJ Welfare_NN1 ,_, actually_RR grants_VVZ a_AT1 
+license_NN1 ._. 
+This_DD1 should_VM be_VBI specified_VVN B._NP1 The_AT role_NN1 of_IO the_AT 
+Department_NN1 of_IO Public_JJ Welfare_NN1 as_CSA consultant_NN1 and_CC 
+resource_VV0 agency_NN1 is_VBZ not_XX mentioned_VVN in_II the_AT proposed_JJ 
+9200_MC regulations_NN2 ._. 
+In_II31 addition_II32 to_II33 licensing_VVG facilities_NN2 ,_, the_AT DPW_NP1 
+has_VHZ an_AT1 opportunity_NN1 to_TO enrich_VVI the_AT services_NN2 to_II 
+the_AT retarded_JJ of_IO Pennsylvani_NN1 by_II providing_VVG ,_, for_REX21 
+instance_REX22 ,_, staff_NN training_NN1 sessions_NNT2 and_CC specialists_NN2 
+trained_VVN in_II program_NN1 and_CC administration_NN1 to_TO work_VVI with_IW 
+the_AT facility_NN1 C._NP1 These_DD2 regulations_NN2 ,_, as_CSA they_PPHS2 
+are_VBR presently_RR written_VVN ,_, seem_VV0 designed_VVN to_TO cloud_VVI 
+the_AT issues_NN2 rather_CS21 than_CS22 provide_VVI a_AT1 clear_JJ concise_JJ 
+guide_NN1 ._. 
+For_REX21 example_REX22 ,_, of_IO what_DDQ help_VV0 to_II an_AT1 
+administrator_NN1 is_VBZ the_AT requirement_NN1 :_: "_" Grounds_NN2 shall_VM 
+be_VBI sufficiently_RR large_JJ to_TO provide_VVI necessary_JJ service_NN1 
+areas_NN2 "_" (_( 9212.1_MC Grounds_NN2 )_) D._NP1 The_AT general_JJ 
+organization_NN1 and_CC grouping_NN1 of_IO the_AT regulations_NN2 is_VBZ 
+confusing_JJ ._. 
+For_REX21 example_REX22 1_MC1 ._. 
+Why_RRQ are_VBR fire_NN1 drills_NN2 (_( 9218.3_MC )_) not_XX mentioned_VVN 
+under_II the_AT 9214_MC section_NN1 with_IW the_AT other_JJ fire_NN1 
+concerns_VVZ 2_MC ._. 
+Why_RRQ are_VBR the_AT regulations_NN2 in_II section_NN1 9219_MC (_( food_NN1 
+and_CC drink_VV0 sanitation_NN1 )_) and_CC those_DD2 in_II 9224.5_MC (_( 
+resident_JJ meals_NN2 )_) not_XX combined_VVN and/or_CC ordered_VVN so_CS21 
+that_CS22 an_AT1 administrator_NN1 would_VM know_VVI with_IW greater_JJR 
+ease_NN1 and_CC clarify_VVI what_DDQ the_AT DPW_NP1 requires_VVZ II_MC ._. 
+Particular_JJ Concern_NN1 9201.2_MC "_" Exceptions_NN2 A._NP1 Should_VM n't_XX 
+the_AT final_JJ determination_NN1 of_IO exceptions_NN2 rest_VV0 in_II the_AT 
+Regional_JJ DPW_NP1 office_NN1 rather_II21 than_II22 the_AT Central_JJ 
+office_NN1 B._NP1 Could_VM the_AT inadequacy_NN1 in_II this_DD1 section_NN1 
+be_VBI alleviated_VVN by_II the_AT addition_NN1 of_IO the_AT following_JJ 
+words_NN2 at_II the_AT end_NN1 of_IO section_NN1 9201.2_MC "_" and_CC 
+copies_NN2 sent_VVN to_II local_JJ consumer_NN1 groups_NN2 ,_, such_II21 
+as_II22 PARC_NP1 "_" 9202_MC "_" Definitions_NN2 "_" -_- Section_NN1 O_ZZ1 ,_, 
+"_" Residential_JJ Service_NN1 Facility_NN1 "_" Can_VM this_DD1 be_VBI 
+more_RGR clearly_RR defined_VVN ?_? 
+Does_VDZ this_DD1 definition_NN1 include_VVI state_NN1 institutions_NN2 ?_? 
+Can_VV0 the_AT words_NN2 "_" Private_JJ Licensed_JJ Facilities_NN2 "_" be_VBI 
+added_VVN 9206_MC "_" Capacity_NN1 of_IO Facilities_NN2 1_MC1 ._. 
+The_AT program_NN1 and_CC safety_NN1 of_IO children_NN2 and_CC adults_NN2 
+within_II the_AT present_JJ facility_NN1 are_VBR endangered_VVN when_CS 
+emergency_NN1 admissions_NN2 are_VBR more_RRR ._. 
+There_EX must_VM be_VBI a_AT1 limit_NN1 ._. 
+Ca_VM n't_XX this_DD1 section-_NN1 contain_VVI only_RR the_AT single_JJ 
+dictate_VV0 ,_, already_RR stated_VVD :_: "_" No_AT residential_JJ 
+facility_NN1 shall_VM admit_VVI more_DAR residents_NN2 than_CSN the_AT 
+number_NN1 for_IF which_DDQ it_PPH1 has_VHZ been_VBN licensed_VVN "_" J4_FO 
+Residential_JJ Care_NN1 Committe_NN1 Page_NN1 2_MC ._. 
+In_II fact_NN1 ,_, can_VM the_AT private_JJ licensed_JJ facility_NN1 
+populations_NN2 be_VBI reduced_VVN to_II capacity_NN1 by_II January_NPM1 1_MC1 
+,_, 1975_MC ,_, without_IW creating_VVG alternative_JJ residential_JJ 
+placements_NN2 ?_? 
+Who_PNQS is_VBZ doing_VDG this_DD1 planning_NN1 9207.1_MC "_" Annual_JJ 
+Inspection_NN1 Can_VM consumer_NN1 groups_NN2 ,_, such_II21 as_II22 PARC_NP1 
+,_, be_VBI included_VVN on_II all_DB licensing_VVG inspections_NN2 9208.5_MC 
+"_" Coroner_NN1 Notification_NN1 Shouldnt_VV0 the_AT coroner_NN1 be_VBI 
+notified_VVN in_II31 case_II32 of_II33 all_DB deaths_NN2 -not_XX just_RR 
+sudden_JJ or_CC unexplained_JJ deaths_NN2 9213.11_MC "_" Beds_NN2 and_CC 
+Residents_NN2 Rooms_NN2 "_" (_( paragraph_NN1 5_MC Is_VBZ this_DD1 section_NN1 
+not_XX inconsistent_JJ with_IW PARC_NP1 policy_NN1 if_CS it_PPH1 includes_VVZ 
+the_AT word_NN1 "_" research_NN1 "_" ?_? 
+Shouldnt_VV0 this_DD1 word_NN1 be_VBI deleted_VVN 9213.14_MC "_" 
+Educational_JJ Space_NN1 Isnt_VV0 the_AT intention_NN1 of_IO this_DD1 
+section_NN1 that_CST the_AT facility_NN1 is_VBZ required_VVN to_TO provide_VVI 
+space_NN1 for_IF Home_NN1 Bound_VVD Instruction_NN1 which_DDQ is_VBZ the_AT 
+"_" least_RGT desirable_JJ "_" of_IO the_AT educational_JJ alternatives_NN2 
+according_II21 to_II22 the_AT Right_NN1 to_II Education_NN1 Consent_NN1 
+Agreement_NN1 ?_? 
+The_AT present_JJ wording_NN1 is_VBZ labored_VVN 9213.16_MC "_" Laundry_NN1 
+Would_VM the_AT end_NN1 goal_NN1 of_IO self-independence_NN1 for_IF every_AT1 
+resident_NN1 be_VBI furthered_VVN by_II the_AT addition_NN1 of_IO the_AT 
+following_JJ to_II this_DD1 section_NN1 ?_? :_: 
+"_" Whenever_RRQV possible_JJ ,_, residents_NN2 should_VM use_VVI laundry_NN1 
+equipment_NN1 similar_JJ to_II that_DD1 found_VVD in_II the_AT community._NNU 
+9213.18_MC "_" Toilets_NN2 and_CC Lavatories_NN2 "_" (_( point_NN1 7_MC 
+Isnt_VV0 the_AT addition_NN1 of_IO the_AT words_NN2 at_II the_AT end_NN1 of_IO 
+the_AT sentence_NN1 "_" as_II31 well_II32 as_II33 the_AT inside_NN1 "_" -_- 
+an_AT1 important_JJ safeguard_NN1 to_II residents_NN2 rights_NN2 9214.1_MC "_" 
+Fire_NN1 Protection_NN1 Why_RRQ is_VBZ it_PPH1 not_XX suggested_VVN in_II 
+this_DD1 section_NN1 that_CST "_" Able_JJ residents_NN2 should_VM be_VBI 
+taught_VVN how_RRQ to_TO report_VVI fires_NN2 "_" 9216.3_MC "_" Admission_NN1 
+Policies_NN2 "_" (_( point_NN1 4_MC The_AT deletion_NN1 of_IO the_AT words_NN2 
+"_" or_CC at_II the_AT time_NNT1 of_IO "_" at_II the_AT end_NN1 of_IO the_AT 
+first_MD sentence_NN1 would_VM insure_VVI that_CST a_AT1 residents_NN2 
+records_NN2 would_VM arrive_VVI at_II the_AT facility_NN1 before_II the_AT 
+resident_NN1 arrived_VVD ._. 
+Is_VBZ that_DD1 not_XX important_JJ 9217.1_MC "_" Individual_JJ Records_NN2 
+"_" (_( point_NN1 19_MC Would_VM the_AT addition_NN1 of_IO the_AT words_NN2 
+"_" with_IW short_JJ and_CC long-term_JJ goals_NN2 "_" make_VV0 this_DD1 
+point_NN1 more_RGR meaningful_JJ Residential_JJ Care_NN1 Committe_NN1 Page_NN1 
+9219.2_MC "_" Menu_NN1 Planning_NN1 Isnt_VV0 the_AT following_JJ right_NN1 
+missing_VVG from_II this_DD1 section_NN1 ?_? :_: 
+"_" A_AT1 resident_NN1 shall_VM be_VBI offered_VVN an_AT1 interesting_JJ 
+variety_NN1 of_IO foods_NN2 -even_JJ if_CS he_PPHS1 is_VBZ not_XX able_JK 
+to_TO make_VVI this_DD1 demand_NN1 "_" 9222.3_MC "_" Interpretation_NN1 of_IO 
+Admission_NN1 and_CC Periodic_JJ Evaluation_NN1 "_" Shouldnt_VV0 an_AT1 
+interpretation_NN1 of_IO the_AT evaluation_NN1 ,_, in_II action_NN1 terms_NN2 
+,_, be_VBI made_VVN to_II the_AT resident_NN1 also_RR 9223.3_MC "_" 
+Educational_JJ Services_NN2 Is_VBZ the_AT confusion_NN1 of_IO this_DD1 
+section_NN1 alleviated_VVN by_II the_AT following_JJ changes_NN2 1_MC1 ._. 
+Delete_VV0 at_II the_AT end_NN1 of_IO the_AT first_MD sentence_NN1 the_AT 
+words_NN2 "_" and_CC the_AT facility_NN1 shall_VM make_VVI all_DB necessary_JJ 
+arrangements_NN2 with_IW the_AT responsible_JJ Intermediate_JJ Unit_NN1 ._. 
+2_MC ._. 
+The_AT facility_NN1 should_VM act_VVI as_II a_AT1 parent_NN1 would_VM ,_, 
+obtaining_VVG the_AT best_JJT possible_JJ education_NN1 for_IF the_AT 
+resident_NN1 ._. 
+This_DD1 will_VM include_VVI advocating_VVG for_IF better_JJR conditions_NN2 
+and_CC ,_, in_II some_DD cases_NN2 ,_, may_VM mean_VVI challenging_VVG the_AT 
+Intermediate_JJ Unit_NN1 in_II a_AT1 Due_JJ Process_NN1 Hearing_NN1 ._. 
+This_DD1 idea_NN1 is_VBZ not_XX contained_VVN in_II the_AT present_JJ 
+section_NN1 9223.3_MC 9223.6_MC "_" Recreational_JJ Services_NN2 Should_VM 
+n't_XX mention_VVI be_VBI made_VVN in_II this_DD1 recreation_NN1 section_NN1 
+of_IO encouraging_JJ normal_JJ co-educational_JJ experiences_NN2 9223.8_MC "_" 
+Volunteer_NN1 Services_NN2 Would_VM the_AT following_JJ substitution_NN1 ,_, 
+for_IF the_AT entire_JJ section_NN1 ,_, strengthen_VV0 this_DD1 important_JJ 
+service_NN1 "_" Community_NN1 volunteers_NN2 provide_VV0 residents_NN2 with_IW 
+varied_JJ and_CC normal_JJ human_JJ relationships_NN2 ._. 
+These_DD2 relationships_NN2 should_VM be_VBI encouraged_VVN and_CC actively_RR 
+sought_VVN ._. 
+Volunteers_NN2 should_VM be_VBI recruited_VVN ,_, trained_VVN ,_, 
+supervised_VVD ,_, nutured_VVD and_CC honored._NNU 9223.10_MC "_" Physical_JJ 
+Therapy_NN1 and_CC Occupational_JJ Therapy_NN1 Why_RRQ are_VBR the_AT 
+words_NN2 "_" under_II the_AT direction_NN1 of_IO a_AT1 licensed_JJ 
+therapist_NN1 "_" not_XX included_VVN at_II the_AT end_NN1 of_IO the_AT 
+first_MD sentence_NN1 9223.11_MC "_" Dental_JJ Services_NN2 1_MC1 ._. 
+The_AT number_NN1 of_IO this_DD1 section_NN1 in_II the_AT proposed_JJ 9200_MC 
+regulations_NN2 is_VBZ incorrectly_RR listed_VVN as_CSA 9223.1_MC 2_MC ._. 
+Do_VD0 the_AT dental_JJ services_NN2 as_CSA outlined_VVN in_II the_AT 9200_MC 
+regulations_NN2 seem_VV0 adequate_JJ Dental_JJ services_NN2 to_II all_DB 
+residents_NN2 should_VM include_VVI a_AT1 ._. 
+An_AT1 examination_NN1 and_CC cleaning_VVG by_II a_AT1 dentist_NN1 at_RR21 
+least_RR22 twice_RR a_AT1 year_NNT1 b_ZZ1 ._. 
+Treatment_NN1 as_RG often_RR as_CSA is_VBZ necessary_JJ c_ZZ1 ._. 
+Daily_RR oral_JJ hygiene_NN1 Residential_JJ Care_NN1 Committe_NN1 Page_NN1 
+9224.2_MC "_" Residents_NN2 Rights_NN2 The_AT rights_NN2 outlined_VVN in_II 
+this_DD1 section_NN1 pertain_NN1 principally_RR to_II the_AT residents_NN2 
+communication_NN1 rights_NN2 ._. 
+The_AT Western_JJ Region_NN1 has_VHZ developed_VVN ,_, through_II the_AT 
+Regional_JJ Review_NN1 Team_NN1 ,_, a_AT1 comprehensive_JJ Bill_NN1 of_IO 
+Rights_NN2 ._. 
+Why_RRQ are_VBR the_AT results_NN2 of_IO this_DD1 effort_NN1 not_XX 
+reflected_VVN in_II the_AT regulations_NN2 9224.6.1_MC "_" Discipline_NN1 
+Wouldnt_VV0 this_DD1 section_NN1 be_VBI strengthened_VVN by_II deleting_VVG 
+the_AT words_NN2 "_" Office_NN1 of_IO Mental_JJ Retardation_NN1 "_" and_CC 
+substituting_VVG the_AT words_NN2 "_" DPW_NP1 Regional_JJ Deputy_NN1 
+Secretary_NN1 "_" 9224.6.2_MC "_" Mechanical_JJ Restraints_NN2 and_CC 
+Seclusion_NN1 Wouldnt_VV0 this_DD1 section_NN1 be_VBI strengthened_VVN by_II 
+deleting_VVG the_AT words_NN2 "_" Office_NN1 of_IO Mental_JJ Retardation_NN1 
+"_" and_CC substituting_VVG the_AT words_NN2 "_" DPW_NP1 Regional_JJ 
+Deputy_NN1 Secretary_NN1 "_" 9224.6.4.2_MC "_" Enclosed_JJ Cribs_NP2 and_CC 
+Barred_VVD Enclosures_NN2 1_MC1 ._. 
+Is_VBZ nylon_NN1 netting_NN1 on_II31 top_II32 of_II33 a_AT1 crib_NN1 
+prohibited_VVN under_II this_DD1 section_NN1 2_MC ._. 
+Does_VDZ the_AT DPW_NP1 believe_VVI that_DD1 section_NN1 9224.6.4_MC is_VBZ 
+an_AT1 enforceable_JJ regulation_NN1 9224.6.4.4_MC "_" Chemical_JJ 
+Restraint_NN1 Wouldnt_VV0 this_DD1 section_NN1 be_VBI strengthened_VVN by_II 
+one_MC1 ,_, deleting_VVG the_AT word_NN1 "_" excessively_RR and_CC two_MC ,_, 
+in_II31 place_II32 of_II33 the_AT words_NN2 "_" in_II quantities_NN2 that_CST 
+interfere_VV0 "_" ,_, substituting_VVG the_AT word_NN1 "_" interferring_VVG 
+"_" ?_? 
+(_( Then_RT the_AT section_NN1 would_VM read_VVI :_: "_" Chemical_JJ 
+restraint_NN1 shall_VM not_XX be_VBI used_VVN as_CSA punishment_NN1 ,_, for_IF 
+the_AT convenience_NN1 of_IO staff_NN ,_, as_CSA a_AT1 substitute_NN1 for_IF 
+program_NN1 or_CC interferring_VVG with_IW a_AT1 residents_NN2 
+habilitation_NN1 program._NNU 9225.3_MC "_" Residents_NN2 Physical_JJ 
+Examination_NN1 Why_RRQ is_VBZ the_AT following_JJ procedure_NN1 not_XX 
+required_VVN within_II this_DD1 section_NN1 "_" The_AT family_NN1 or_CC 
+guardian_NN1 of_IO the_AT resident_NN1 shall_VM receive_VVI a_AT1 full_JJ 
+report_NN1 of_IO the_AT physical_JJ examination_NN1 and_CC shall_VM be_VBI 
+additionally_RR informed_VVN if_CS there_EX is_VBZ a_AT1 major_JJ 
+medication_NN1 change_NN1 prescribed_VVN ._. 
+Respectfully_RR submitted_VVN ACC-PAR_JJ Residential_JJ Care_NN1 Committee_NN1 
+Virginia_NP1 Thornburgh_NP1 ,_, Chairperso_NP1 cp_NNU 
+--d01debfad024830375411a721e9eaaf2--_FU 

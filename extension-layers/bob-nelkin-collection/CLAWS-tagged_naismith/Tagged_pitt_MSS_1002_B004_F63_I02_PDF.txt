@@ -1,0 +1,42 @@
+
+JOSEPH_NP1 J._NP1 SCARTELLI_NP1 Super_JJ intenden_NN1 COMMONWEALTH_NN1 OF_IO 
+PENNSYLVANIA_NP1 DEPARTMENT_NN1 OF_IO PUBLIC_JJ WELFAR_NN1 SELINSGROVE_NN1 
+STATE_NN1 SCHOOL_NN1 AND_CC HOSPITA_NP1 BOX_NN1 50_MC SELINSGROVE_NP1 ,_, 
+PENNSYLVANIA_NP1 1787_MC TELEPHONE_VV0 :_: 374-291_MCMC AREA_NN1 CODE_NN1 
+71_MC April_NPM1 14_MC ,_, 197_MC Mr._NNB Robert_NP1 Nelkin_NP1 ,_, 
+Associate_JJ Executive_NN1 Directo_NP1 Allegheny_NP1 County_NN1 Chapter_NN1 
+PARC_NP1 ,_, Inc_JJ 1001_MC Brighton_NP1 Roa_NP1 Pittsburg_NP1 ,_, Pa._NP1 
+1523_MC Dear_JJ Mr._NNB Nelkin_NP1 The_AT following_JJ is_VBZ in_II31 
+response_II32 to_II33 your_APPGE letter_NN1 of_IO March_NPM1 30_MC ,_, 1976_MC 
+1_MC1 ._. 
+When_CS the_AT institution_NN1 applies_VVZ to_TO be_VBI representative_JJ 
+payee_NN1 for_IF SSI_NN2 the_AT Social_JJ Security_NN1 Administration_NN1 
+contacts_NN2 the_AT family_NN1 and_CC inquires_VVZ if_CS they_PPHS2 wish_VV0 
+to_TO be_VBI named_VVN representative_JJ payee_NN1 ._. 
+If_CS someone_PN1 in_II the_AT family_NN1 wishes_VVZ to_TO be_VBI the_AT 
+representative_JJ payee_NN1 they_PPHS2 complete_VV0 an_AT1 application_NN1 
+an_AT1 are_VBR then_RT named_VVN representative_JJ payee_NN1 over_II the_AT 
+institution_NN1 2_MC ._. 
+Parents_NN2 are_VBR usually_RR not_XX contacted_VVN prior_II21 to_II22 
+application_NN1 for_IF SSI_NP1 3_MC ._. 
+There_EX are_VBR accounting_VVG controls_NN2 in_II the_AT revenue_NN1 and_CC 
+accounting_VVG offices_NN2 on_II the_AT funds_NN2 for_IF which_DDQ the_AT 
+institution_NN1 is_VBZ the_AT representative_JJ payee_NN1 ._. 
+The_AT use_NN1 of_IO the_AT funds_NN2 is_VBZ determined_VVN by_II the_AT 
+resident_NN1 himself_PPX1 if_CS he_PPHS1 is_VBZ capable_JJ ._. 
+The_AT staff_NN assists_VVZ those_DD2 residents_NN2 who_PNQS are_VBR not_XX 
+capable_JJ to_TO mak_VVI these_DD2 decisions_NN2 ._. 
+If_CS and_CC when_RRQ guardians_NN2 or_CC advocates_NN2 are_VBR appointed_VVN 
+for_IF residents_NN2 not_XX able_JK to_TO make_VVI these_DD2 decisions_NN2 
+this_DD1 would_VM be_VBI more_RGR acceptable_JJ 4_MC ._. 
+We_PPIS2 do_VD0 not_XX oppose_VVI a_AT1 member_NN1 of_IO the_AT family_NN1 
+to_TO be_VBI the_AT representative_JJ payee_NN1 if_CS the_AT benefits_NN2 
+are_VBR being_VBG used_VVN in_II the_AT beneficiarys_NN2 best_RRT interest_VV0 
+5_MC ._. 
+Not_XX to_II my_APPGE knowledge_NN1 VISITING_JJ HOURS_NNT2 DAILY_RR 9:00_MC 
+to_II 11:00_MC A.M._RA ,_, 2:00_MC to_II 4:00_MC P.M_RA Mr._NNB Nelki_NP1 
+-2_MC April_NPM1 14_MC ,_, 197_MC I_PPIS1 hope_VV0 you_PPY find_VV0 this_DD1 
+information_NN1 helpful_JJ ._. 
+If_CS we_PPIS2 can_VM be_VBI of_IO any_DD further_JJR assistance_NN1 ,_, 
+please_RR contact_VV0 me_PPIO1 Sincerely_RR yours_PPGE JJS/r_FU ph_NN1 dZ_NNU 
+Sca_NP1 Superintenden_NP1 i_ZZ1 --bd20654c64fc46705924abc63a8791aa--_FU 

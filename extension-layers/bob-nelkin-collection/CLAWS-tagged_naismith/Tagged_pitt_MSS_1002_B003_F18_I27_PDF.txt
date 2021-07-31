@@ -1,0 +1,97 @@
+
+ACC-PARC_NP1 RESIDENTIAL_JJ CARE_NN1 COMMITTE_NN1 CLOSCUG_NN1 OF_IO 
+ADMISSIONS_NN2 AT_II WESTERN_JJ STATE_NN1 SCHOOL_NN1 AND_CC HOSPITAL_NN1 
+3ackgroHi_FO !_! 
+Informatio_NN1 Area_NN1 serve_VV0 Western_JJ State_NN1 School_NN1 and_CC 
+Hospital_NN1 is_VBZ the_AT state_NN1 institution_NN1 serving_VVG mentally_RR 
+retarded_JJ citizens_NN2 from_II Allegheny_NP1 and_CC four_MC other_JJ 
+counties_NN2 Fails_VVZ Standard_NN1 ,_, Western_JJ State_NN1 is_VBZ 
+overcrowded_JJ and_CC understaffed_JJ by_II all_DB standards_NN2 (_( 
+2Iedical_FO Assistance_NN1 (_( M.A._NN1 )_) ;_; Joint_JJ Commission_NN1 on_II 
+Accreditation_NN1 of_IO Hospitals_NN2 (_( J.C.A.H._NP1 )_) ;_; Department_NN1 
+of_IO Public_JJ Welfare_NN1 (_( D.P.W._NP1 )_) ;_; and_CC Human_JJ decency_NN1 
+(_( ACC-PARC_NP1 )_) Admission_NN1 Admission_NN1 requests_NN2 are_VBR 
+considered_VVN by_II a_AT1 committee_NN1 of_IO Western_JJ State_NN1 
+employees_NN2 ._. 
+Requests_NN2 must_VM be_VBI presented_VVN by_II the_AT base_NN1 service_NN1 
+unit_NN1 of_IO the_AT Mental_JJ Health/Mental_FU Retardation_NN1 system_NN1 
+Most_DAT admissions_NN2 to_II Western_JJ State_NN1 are_VBR voluntary_JJ ._. 
+Less_DAR than_CSN 5%_NNU have_VH0 been_VBN court_NN1 committed_VVN to_II 
+the_AT institution_NN1 Population_NN1 Trend_NN1 The_AT current_JJ 
+population_NN1 and_CC admissions*_FO requests_NN2 are_VBR continually_RR 
+for_IF less_RGR able_JJ persons_NN2 ._. 
+The_AT present_JJ population_NN1 has_VHZ been_VBN labeled_VVN lo_FW 
+borderline_NN1 ,_, 132_MC mild_JJ ,_, 292_MC moderate_JJ ,_, and_CC 572_MC 
+severely_RR profound_JJ The_AT current_JJ population_NN1 and_CC admissions_NN2 
+requests_NN2 are_VBR continually_RR for_IF more_RGR physically_RR 
+handicapped_JJ persons_NN2 ;_; 70%_NNU of_IO the_AT residents_NN2 under_II 
+age_NN1 21_MC arc_NN1 physically_RR handicapped_VVN ;_; 64%_NNU of_IO the_AT 
+residents_NN2 over_II age_NN1 21_MC are_VBR physically_RR handicapped_VVN 
+Avoiding_VVG Court_NN1 Commitment_NN1 Western_JJ State_NN1 administrator_NN1 
+has_VHZ vzorked_VVN closely_RR with_IW base_NN1 service_NN1 units_NN2 to_TO 
+fairly_RR consider_VVI every_AT1 admission_NN1 request_NN1 ._. 
+Western_JJ State_NN1 employees_NN2 believe_VV0 that_CST this_DD1 approach_NN1 
+has_VHZ helped_VVN MH/MR_FU understand_VV0 admissions_NN2 criteria_NN2 and_CC 
+conditions_NN2 at_II Western_JJ State_NN1 ._. 
+The_AT superintendent_NN1 feels_VVZ that_CST closing_JJ admissions_NN2 will_VM 
+force_VVI base_NN1 service_NN1 units_NN2 to_TO seek_VVI court_NN1 
+commitments_NN2 ,_, destroying_VVG the_AT criteria_NN2 now_RT applied_VVD 
+ACC-PARC_NP1 &; Parents_NN2 Group_NN1 Stan_NP1 The_AT October_NPM1 15_MC ,_, 
+1973_MC letter_NN1 from_II the_AT parents_NN2 group_NN1 president_NN1 (_( 
+W.S.S.H._NP1 )_) reflects_VVZ his_APPGE opinion_NN1 that_CST admissions_NN2 
+should_VM be_VBI closed_VVN ._. 
+(_( Attached_VVN ._. 
+ACC-PARC_NP1 ,_, the_AT W.S.S.H._NP1 Board_NN1 of_IO Trustees_NN2 ,_, and_CC 
+the_AT W.S.S.H._NP1 parents_NN2 '_GE qroup_NN1 approached_VVD lasers_NN2 in_II 
+the_AT fall_NN1 of_IO 1973_MC to_TO close_VVI admissions_NN2 at_II Western_JJ 
+State_NN1 ._. 
+The_AT legal_JJ action_NN1 was_VBDZ never_RR undertaken_VVN The_AT 
+ACC-PARC_NP1 Board_NN1 supported_VVD the_AT W.S.S.H._NP1 parents_NN2 '_GE 
+group_NN1 resoluti-onof_NN1 last_MD October_NPM1 14_MC ,_, 1973_MC ._. 
+The_AT resolution_NN1 :_: (_( 1_MC1 )_) closing_JJ admissions_NN2 to_II 
+W.S.S.H._NP1 total_JJ care_NN1 units_NN2 (_( 2_MC )_) transferring_VVG 
+school_NN1 boys_NN2 (_( spruce_VV0 lodge_NN1 ,_, unit_NN1 IV_MC )_) to_II 
+a_AT1 cottage_NN1 ,_, using_VVG the_AT space_NN1 to_TO alleviate_VVI 
+overcrowding_VVG on_II total_JJ care_NN1 units_NN2 (_( 3_MC )_) DPW_NP1 
+develop_VV0 facilities_NN2 for_IF total_JJ care_NN1 cases_NN2 ,_, and_CC (_( 
+4_MC )_) the_AT parents*_FO group_NN1 support_VV0 the_AT construction_NN1 
+for_IF a_AT1 limited_JJ number_NN1 of_IO beds_NN2 if_CS the_AT proper_JJ 
+staff_NN was_VBDZ added_VVN ._. 
+ACC-PARC_NP1 Board_NN1 passed_VVD a_AT1 motion_NN1 to_TO support_VVI these_DD2 
+demands_NN2 ,_, Medical_JJ Aosistance_NN1 Problems_NN2 The_AT State_NN1 of_IO 
+Pennsylvania_NP1 fraudulently_RR receives_VVZ Medical_JJ Assistance_NN1 
+funds_NN2 for_IF Western_JJ State_NN1 School_NN1 and_CC Hospital_NN1 ._. 
+One_MC1 of_IO M.A.s_NN2 major_JJ requirements_NN2 is_VBZ no_AT more_DAR 
+than_CSN 28_MC persons_NN2 on_II any_DD of_IO those_DD2 units_NN2 ;_; Most_DAT 
+of_IO the_AT units_NN2 are_VBR above_II 40_MC in_II population_NN1 ._. 
+Residents_NN2 numbered_VVD 29-40_MCMC have_VH0 difficulty_NN1 (_( do_VD0 
+not_XX receive_VVI )_) with_IW S.S.I._NP1 benefits_NN2 because_CS they_PPHS2 
+are_VBR not_XX in_II M.A._NN1 approved_JJ beds_NN2 Lack_NN1 of_IO 
+Alternative_JJ Alternative_JJ placements_NN2 to_II Western_JJ State_NN1 
+are_VBR almost_RR non-existent_JJ ._. 
+Other_JJ State_NN1 institutions_NN2 with_IW Allegheny_NP1 County_NN1 
+residents_NN2 want_VV0 to_TO transfer_VVI them_PPHO2 closer_RRR to_II 
+Pittsburgh_NP1 ._. 
+Private_JJ liscensed_JJ facilities_NN2 (_( Interim_JJ Care_NN1 )_) are_VBR 
+being_VBG required_VVN to_TO reduce_VVI population_NN1 to_TO meet_VVI 
+regulations_NN2 ._. 
+Less_DAR than_CSN 10_MC group_NN1 homes_NN2 exist_VV0 ._. 
+Only_RR 25_MC foster_JJ homes_NN2 are_VBR available_JJ (_( suffering_VVG 
+from_II inadequate_JJ reimbursement_NN1 for_IF foster_JJ families_NN2 )_) ._. 
+All_DB these_DD2 conditions_NN2 increase_VV0 the_AT pressure_NN1 at_II 
+Western_JJ State_NN1 Temporary_JJ Admission_NN1 Western_JJ State_NN1 has_VHZ 
+increased_VVN the_AT number_NN1 of_IO temporary_JJ admissions_NN2 ._. 
+Temporary_JJ admissions_NN2 include_VV0 respite_NN1 care_NN1 ,_, summer_NNT1 
+program_NN1 ,_, and_CC time_NNT1 limited_JJ stays_NN2 until_CS an_AT1 
+alternative_NN1 is_VBZ found_VVN ._. 
+Some_DD temporary_JJ admissions_NN2 become_VV0 long-term_JJ when_CS base_NN1 
+service_NN1 units_NN2 fail_VV0 to_TO move_VVI residents_NN2 out_RP ._. 
+Some_DD of_IO the_AT 40-plus_JJ people_NN on_II units_NN2 are_VBR temporary_JJ 
+admissions_NN2 Understaffe_NP1 Western_NP1 State_NN1 will_VM obtain_VVI 45_MC 
+additional_JJ staff_NN positions_NN2 soon_RR ._. 
+This_DD1 will_VM still_RR leave_VVI Western_NP1 100_MC short_JJ of_IO 
+meeting_VVG J.C.A.H._NP1 staffing_NN1 requirements.jOften_NNU ,_, because_II21 
+of_II22 absenteeism_NN1 ,_, only_RR two_MC attendants_NN2 are_VBR caring_VVG 
+for_IF residents_NN2 on_II a_AT1 unit_NN1 ._. 
+The_AT staff_NN can_VM only_RR perform_VVI the_AT minimal_JJ duties_NN2 at_II 
+this_DD1 
