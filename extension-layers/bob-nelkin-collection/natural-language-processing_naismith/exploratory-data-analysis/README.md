@@ -31,12 +31,12 @@ There are two main sections to the notebook, _`source-data` folder_ and _`base-l
 
 #### `source-data` folder
 
-- `ead` folder: contains one large xml file with extensive metadata about the collection
-- `ocr` folder: contains 537 text files. The quality of OCR appears to be variable, leading to spelling issues.
-- `mods` and `rel-ext` folders: contain 542 .xml files with metadata which correspond to the OCR text files, plus one for the 'Finding aid content model'. These figures are in line with the [collection description](https://historicpittsburgh.org/collection/nelkin-acc-parc-records).
+- [`ead`](https://github.com/CaDatPitt/data-layers/tree/master/source-data/bob-nelkin-collection/ead/) folder: contains one large XML file with extensive metadata about the collection
+- [`ocr`](https://github.com/CaDatPitt/data-layers/tree/master/source-data/bob-nelkin-collection/ocr/) folder: contains 537 text files. The quality of OCR appears to be variable, leading to spelling issues.
+- [`mods`](https://github.com/CaDatPitt/data-layers/tree/master/source-data/bob-nelkin-collection/mods/) and [`rel-ext`](https://github.com/CaDatPitt/data-layers/tree/master/source-data/bob-nelkin-collection/rels-ext/) folders: contain 542 XML files with metadata which correspond to the OCR text files, plus one for the 'Finding aid content model'. These figures are in line with the [collection description](https://historicpittsburgh.org/collection/nelkin-acc-parc-records).
 
 <br>
 
 #### `base-layers` folder
-- `collection-base-layer.csv` contains information the guide to the collection
-- `base-layer_archival.csv` contains information about the objects in the collection (1 per row). There is one object missing an abstract.
+- [`collection-base-layer.csv`](https://github.com/CaDatPitt/data-layers/blob/master/base-layers/bob-nelkin-collection/bob-nelkin-collection_collection-base-layer.csv) contains information from the guide to the collection
+- [`base-layer_archival.csv`](https://github.com/CaDatPitt/data-layers/blob/master/base-layers/bob-nelkin-collection/bob-nelkin-collection_item-base-layer_archival.csv) contains information about the objects in the collection (1 per row). There is one object missing an abstract.

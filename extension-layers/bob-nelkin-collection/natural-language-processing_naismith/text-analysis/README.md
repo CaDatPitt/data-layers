@@ -27,7 +27,7 @@ The notebook contains the following sections:
 #### Output  
 The output of this notebook is two pickle files: the main [`bob_df`](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/README.md#output) dataframe produced in the [`processing`](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/) folder but with additional columns, and the `bob_cluster` dataframe. Both dataframes are described below.  
 
-There is also a csv file and a json file, both containing the same information found in the `bob_df` pickle file, in order to provide a range of data formats. However, due to data types and conversion issues, the csv does not contain the columns with lists of tokenized texts.
+There is also a CSV file and a JSON file, both containing the same information found in the `bob_df` pickle file, in order to provide a range of data formats. However, due to data types and conversion issues, the CSV does not contain the columns with lists of tokenized texts.
 
 <br>
 
