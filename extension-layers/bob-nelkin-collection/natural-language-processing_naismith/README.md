@@ -6,13 +6,13 @@
 
 **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))
 
-**Last modified:** July 16, 2021
+**Last modified:** July 31, 2021
 
 <br>
 
-This directory contains extension layers for the [Bob Nelkin Collection of Allegheny County Chapter of the Pennsylvania Association for Retarded Children (ACC-PARC) Records](https://historicpittsburgh.org/collection/nelkin-acc-parc-records) as part of Pitt's [CaD@Pitt](https://cadatpitt.github.io/) (short for Collections as Data at Pitt) project. Extension layers are "scholar-created datasets or outputs that enrich/augment library collections data".
+This directory contains a natural language processing extension layer for the [Bob Nelkin Collection of Allegheny County Chapter of the Pennsylvania Association for Retarded Children (ACC-PARC) Records](https://historicpittsburgh.org/collection/nelkin-acc-parc-records) as part of Pitt's [CaD@Pitt](https://cadatpitt.github.io/) (short for Collections as Data at Pitt) project. Extension layers are "scholar-created datasets or outputs that enrich/augment library collections data".
 
-This extension layer contains the following five sections (each in a separate folder) which may be of use to researchers interested in the collection:
+The natural language processing folder contains the following five sections (each in a separate folder) which may be of use to researchers interested in the collection:
 
 1. [Exploratory Data Analysis (EDA)](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/exploratory-data-analysis/): Exploratory data analysis provides a standard first step in any data exploration and corpus analysis. In this case, the EDA looks at the contents of the [`source-data`](https://github.com/CaDatPitt/data-layers/tree/master/source-data/bob-nelkin-collection) and [`base-layers`](https://github.com/CaDatPitt/data-layers/tree/master/base-layers/bob-nelkin-collection) folders to better understand the quantity and types of data present in the collection.   
 
@@ -27,4 +27,6 @@ This extension layer contains the following five sections (each in a separate fo
 <br>
 
 #### Notes
-It is suggested that the notebooks in these five folders be run in the order above, especially 1-3. For further information about any of these folders, please see the relevant README files. All code is Python 3.7.6 and presented in Jupyter notebooks.
+1. It is suggested that the notebooks in these five folders be run in the order above, especially 1-3. For further information about any of these folders, please see the relevant README files. All code is Python 3.7.6 and presented in Jupyter notebooks.  
+
+2. The final full dataframe with all of the combined data can be found in the `text-analysis` folder.
