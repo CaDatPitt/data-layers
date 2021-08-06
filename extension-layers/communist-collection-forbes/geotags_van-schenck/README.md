@@ -1,7 +1,5 @@
 # Communist Collection of A.E. Forbes
 
-<br>
-
 ## Geotags Layer – Van Schenck
 
 **Creator:** Reed Van Schenck (Email: [crv18@pitt.edu](mailto:crv18@pitt.edu); Twitter: Reed Van Schenck)
