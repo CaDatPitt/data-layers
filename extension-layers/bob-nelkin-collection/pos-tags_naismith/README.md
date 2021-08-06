@@ -2,7 +2,7 @@
 
 <br>
 
-## Parts-of-Speech Tags Layer – Naismith
+## Part-of-Speech Tags Layer – Naismith
 
 **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))
 
