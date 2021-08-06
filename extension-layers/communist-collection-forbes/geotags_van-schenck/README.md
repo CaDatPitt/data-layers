@@ -2,7 +2,7 @@
 
 ## Geotags Layer – Van Schenck
 
-**Creator:** Reed Van Schenck (Email: [crv18@pitt.edu](mailto:crv18@pitt.edu); Twitter: Reed Van Schenck)
+**Creator:** Reed Van Schenck (Email: [crv18@pitt.edu](mailto:crv18@pitt.edu); Twitter: [Reed Van Schenck](https://twitter.com/reedvanschenck))
 
 **Last modified:** August 4, 2021
 
