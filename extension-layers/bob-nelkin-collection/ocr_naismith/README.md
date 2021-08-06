@@ -1,7 +1,5 @@
 # Bob Nelkin Collection of ACC-PARC Records
 
-<br>
-
 ## OCR Layer – Naismith
 
 **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))
