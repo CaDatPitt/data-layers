@@ -1,7 +1,5 @@
 # Bob Nelkin Collection of ACC-PARC Records
 
-<br>
-
 ## Natural Language Processing Layer – Naismith
 
 **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))  
@@ -20,9 +18,8 @@ The notebook contains the following sections:
 2. Combined dataframe
 3. Missing data
 4. Standardization
-5. Save dataframe   
+5. Save dataframe  
 
-<br>
 
 #### Output  
 The output of this notebook is a pickle file of the pre-processed dataframe which is ready for processing. The dataframe contains the following columns:
