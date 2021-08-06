@@ -1,7 +1,5 @@
 # Bob Nelkin Collection of ACC-PARC Records
 
-<br>
-
 ## Natural Language Processing Layer – Naismith
 
 **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))  
@@ -22,14 +20,10 @@ The notebook contains the following sections:
 4. Cluster analysis
 5. Wrap-up
 
-<br>
-
 #### Output  
 The output of this notebook is two pickle files: the main [`bob_df`](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/README.md#output) dataframe produced in the [`processing`](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/) folder but with additional columns, and the `bob_cluster` dataframe. Both dataframes are described below.  
 
 There is also a CSV file and a JSON file, both containing the same information found in the `bob_df` pickle file, in order to provide a range of data formats. However, due to data types and conversion issues, the CSV does not contain the columns with lists of tokenized texts.
-
-<br>
 
 ##### bob_df 6 new columns  
 
@@ -40,8 +34,6 @@ sentiment agreement  | the agreement between the sentiments detected in the text
 sentiment confidence | an integer between 0 and 100 representing the confidence level of the sentiment analysis. A minimum cut off of 80 is used here.
 entities             | named entity recognition using meaningcloud's default dictionary. Types of entities include people, organizations, and places
 topics               | topic extraction using meaningcloud's default dictionary. Types of topics include concepts, time expressions, money expres
-
-<br>
 
 ##### bob_cluster
 
