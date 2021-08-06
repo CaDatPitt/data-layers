@@ -1,7 +1,5 @@
 # Bob Nelkin Collection of ACC-PARC Records
 
-<br>
-
 ## Natural Language Processing Layer – Naismith
 
 **Creator:** Ben Naismith (bnaismith@pitt.edu)  
@@ -21,8 +19,6 @@ The notebook contains the following sections:
 3. Collocations  
 
 There are two main sections to the notebook, _Concordancing_ and _Collocations_:  
-
-<br>
 
 #### Concordancing
 
@@ -52,8 +48,6 @@ Sinclair (2003, xiii)
 ```
 
 For more example code and a full description of the functions (including their arguments and sub-functions), see [`CONC.md`](https://github.com/ELI-Data-Mining-Group/pelitk/blob/master/docs/CONC.md) and [`conc.py`](https://github.com/ELI-Data-Mining-Group/pelitk/blob/master/pelitk/conc.py).
-
-<br>
 
 #### Collocations
 
