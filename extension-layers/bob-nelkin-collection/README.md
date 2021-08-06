@@ -15,7 +15,7 @@
 
 <br/>
 
-#### [Parts-of-Speech Tags Layer – Naismith](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/pos-tags_naismith/)
+#### [Part-of-Speech Tags Layer – Naismith](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/pos-tags_naismith/)
 
 - **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))
 - **Last modified:** August 4, 2021
