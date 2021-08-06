@@ -1,7 +1,5 @@
 # Bob Nelkin Collection of ACC-PARC Records
 
-<br>
-
 ## Natural Language Processing Layer – Naismith
 
 **Creator:** Ben Naismith (Email: [bnaismith@pitt.edu](mailto:bnaismith@pitt.edu))
@@ -23,8 +21,6 @@ The notebook contains the following sections:
 5. Spelling correction
 6. Genre tagging
 7. Wrap-up
-
-<br>
 
 #### Output
 
