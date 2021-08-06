@@ -66,6 +66,6 @@ In addition to the elements in the item level of the [CaD@Pitt Archival Collecti
 - `genre_MODS` (adds `genre` data missing in base layer)
 - `resource_type` (adds `type_of_resource` data missing in base layer)
 
-As part of the processing, frequency data from an external corpus, [COCA](https://www.english-corpora.org/coca/) (Davies, 2008-), is used. This data was accessed through a paid license. Please see [Dr. Na-Rae Han](https://www.linguistics.pitt.edu/people/na-rae-han) for access information for Pitt students and faculty or the [COCA website](https://www.wordfrequency.info/purchase.asp) for purchase information.  
+As part of the processing, frequency data from an external corpus, [COCA](https://www.english-corpora.org/coca/) (Davies, 2008-), is used. This data was accessed through a paid license. Please contact [Dr. Na-Rae Han](https://www.linguistics.pitt.edu/people/na-rae-han) for access information for Pitt students and faculty or the [COCA website](https://www.wordfrequency.info/purchase.asp) for purchase information.  
 
 Davies, Mark. (2008-) _The Corpus of Contemporary American English (COCA)_. Available online at https://www.english-corpora.org/coca/.
