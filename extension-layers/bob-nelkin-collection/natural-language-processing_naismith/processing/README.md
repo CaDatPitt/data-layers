@@ -24,7 +24,7 @@ The notebook contains the following sections:
 
 #### Output
 
-The output of this notebook is a pickle file of the processed dataframe called [`bob_df.pkl`](https://github.com/CaDatPitt/data-layers/tree/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/README.md#output). The dataframe contains the following columns:
+The output of this notebook is a pickle file of the processed dataframe called [`bob_df.pkl`](https://github.com/CaDatPitt/data-layers/blob/master/extension-layers/bob-nelkin-collection/natural-language-processing_naismith/processing/bob_df.pkl). The dataframe contains the following columns:
 
 column                     | description
 :---                       | :---

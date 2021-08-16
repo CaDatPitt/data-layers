@@ -59,6 +59,6 @@ There are many approaches to defining and identifying collocations, related to f
 
 #### Notes
 
-As part of the processing, frequency data from an external corpus, [COCA](https://www.english-corpora.org/coca/) (Davies, 2008-), is used. This data was accessed through a paid license. Please see [Dr Na-Rae Han](https://www.linguistics.pitt.edu/people/na-rae-han) for access information for Pitt students and faculty or the [COCA website](https://www.wordfrequency.info/purchase.asp) for purchase information.  
+As part of the processing, frequency data from an external corpus, [COCA](https://www.english-corpora.org/coca/) (Davies, 2008-), is used. This data was accessed through a paid license. Please see [Dr. Na-Rae Han](https://www.linguistics.pitt.edu/people/na-rae-han) for access information for Pitt students and faculty or the [COCA website](https://www.wordfrequency.info/purchase.asp) for purchase information.  
 
 Davies, Mark. (2008-) _The Corpus of Contemporary American English (COCA)_. Available online at https://www.english-corpora.org/coca/.
