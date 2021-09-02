@@ -8,4 +8,4 @@
 
 <br>
 
-This extension layers contributes latitude, longitude, and address data for all of the events located in Pittsburgh and its surrounding metropolitan area that appear in items within the [American Left Ephemera Collection](https://digital.library.pitt.edu/collection/american-left-ephemera-collection).
+This extension layer contributes latitude, longitude, and address data for all of the events located in Pittsburgh and its surrounding metropolitan area that appear in items within the [American Left Ephemera Collection](https://digital.library.pitt.edu/collection/american-left-ephemera-collection).
