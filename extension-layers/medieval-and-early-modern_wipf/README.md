@@ -1,4 +1,4 @@
-# Medieval and Early Modern Facsimiles and Original Materials at the University of Pittsburgh
+# Medieval and Early Modern Facsimiles and Original Materials at the University of Pittsburgh – Wipf
 
 ## Extension Layers
 
