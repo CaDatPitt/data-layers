@@ -1,0 +1,3912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>910</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>A/Z</title>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges A/Z</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <publisher>Ediciones Siruela</publisher>
+            <dateIssued>1988</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>303 p. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jorge Luis Borges ; selección prólogo y notas Antonio Fernández Ferrer⁾.</note>
+          <note>Cover title: Borges A/Z.</note>
+          <note>Quotations in alphabetical order from the author's works.</note>
+          <note type="bibliography">Bibliography: p. 291-303.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Quotations</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 A6 1988</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Biblioteca de Babel ; 33</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">8485876830</identifier>
+          <identifier type="oclc">19047516</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">YSM</recordContentSource>
+            <recordCreationDate encoding="marc">881201</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824124609.0</recordChangeDate>
+            <recordIdentifier>998550353406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>998550353406236</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>abismo lógico</title>
+            <subTitle>(Borges y los filósofos de las ideas)</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges y los filósofos de las ideas</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Botero Camacho, Manuel.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ck</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Bogotá, D.C</placeTerm>
+            </place>
+            <publisher>Editorial Universidad del Rosario</publisher>
+            <dateIssued>c2009</dateIssued>
+            <dateIssued encoding="marc">2009</dateIssued>
+            <edition>1a ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>245 p. ; 24 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Manuel Botero Camacho.</note>
+          <note type="bibliography">Includes bibliographical references (p. 233-238) and index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Idealism in literature</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z634885 2009</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Textos de ciencias humanas</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9789587380439</identifier>
+          <identifier type="isbn">9587380436</identifier>
+          <identifier type="oclc">ocn496320469</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">NOC</recordContentSource>
+            <recordCreationDate encoding="marc">100108</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180806211015.0</recordChangeDate>
+            <recordIdentifier>9960928403406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9960928403406236</recordIdentifier>
+      <recordPosition>2</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>abismo lógico</title>
+            <subTitle>Borges y los filósofos de las ideas</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges y los filósofos de las ideas</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Botero Camacho, Manuel.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Piza Rodríguez, Alfonso.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="0">Electronic books.</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ck</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Bogotá, D.C</placeTerm>
+            </place>
+            <publisher>Editorial Universidad del Rosario</publisher>
+            <publisher>Universidad Colegio Mayor de Nuestra Señora del Rosario, Escuela de Ciencias Humanas</publisher>
+            <dateIssued>2009</dateIssued>
+            <dateCreated>2012).</dateCreated>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="gmd">electronic resource</form>
+            <form authority="marccategory">electronic resource</form>
+            <form authority="marcsmd">remote</form>
+            <extent>1 online resource (245 p.)</extent>
+          </physicalDescription>
+          <accessCondition type="restriction on access">Access restricted to subscribing institutions.</accessCondition>
+          <note altRepGroup="00" type="statement of responsibility">Manuel Botero Camacho.</note>
+          <note type="bibliography">Includes bibliographical references (p. 233-238) and index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Idealism in literature</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 ebook</classification>
+          <location>
+            <url displayLabel="electronic resource" note="Pitt users please click through for access via Digitalia" usage="primary display">http://pitt.idm.oclc.org/login?url=http://www.digitaliapublishing.com/a/10218/</url>
+          </location>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Textos de ciencias humanas</title>
+            </titleInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Digitalia eBook Collection: Universidad del Rosario</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier invalid="yes" type="isbn">9789587380439 (pbk.)</identifier>
+          <identifier invalid="yes" type="isbn">9587380436 (pbk.)</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <descriptionStandard>pn</descriptionStandard>
+            <recordContentSource authority="marcorg">DGITA</recordContentSource>
+            <recordCreationDate encoding="marc">130401</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20160401150409.0</recordChangeDate>
+            <recordIdentifier>9982707143406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9982707143406236</recordIdentifier>
+      <recordPosition>3</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Acerca de Borges</title>
+            <subTitle>ensayos de poética, política y literatura comparada</subTitle>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Alifano, Roberto.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Dubatti, Jorge</namePart>
+            <namePart type="date">1963-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Capital Federal [i.e. Buenos Aires]</placeTerm>
+            </place>
+            <publisher>Editorial de Belgrano</publisher>
+            <dateIssued>c1999</dateIssued>
+            <dateIssued encoding="marc">1999</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>232 p. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jorge Dubatti, compilador ; Roberto Alifano ... [et al.]</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z516 1999</classification>
+          <identifier type="isbn">9505772580</identifier>
+          <identifier type="oclc">ocm41585428</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">COO</recordContentSource>
+            <recordCreationDate encoding="marc">990622</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20060601050803.0</recordChangeDate>
+            <recordIdentifier>9936200713406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9936200713406236</recordIdentifier>
+      <recordPosition>4</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Actas de las Jornadas Borges y el Uruguay</title>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges y el Uruguay</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Lago, Sylvia.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Torres, Alicia</namePart>
+            <namePart type="date">1960-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">festschrift</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">uy</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Montevideo, Uruguay</placeTerm>
+            </place>
+            <publisher>Departamento de Literaturas Uruguaya y Latinoamericana</publisher>
+            <publisher>Facultad de Humanidades y Ciencias de la Educación, Universidad de la República</publisher>
+            <dateIssued>2001</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>167 p. ; 24 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">edición a cargo de Sylvia Lago y Alicia Torres.</note>
+          <note>"Durante los días 26 y 27 de agosto de 1999 y en el marco de los festejos por los 150 años de la instalación de la Universidad de la República, se realizaron en la Facultad de Humanidades y Ciencias de la Educación las Jornadas "Borges y el Uruguay" organizadas por el Departmento de Literaturas Uruguaya y Latinoamericana."--Intro.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject>
+            <geographicCode authority="marcgac">s-uy---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Uruguayan literature</topic>
+            <topic>History and criticism</topic>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Serie Aproximaciones a autores uruguayos</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9974001595</identifier>
+          <identifier type="oclc">ocm49605139</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">NJM</recordContentSource>
+            <recordCreationDate encoding="marc">020417</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20191121101845.0</recordChangeDate>
+            <recordIdentifier>9940004913406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9940004913406236</recordIdentifier>
+      <recordPosition>5</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>Las</nonSort>
+            <title>actas secretas</title>
+          </titleInfo>
+          <titleInfo displayLabel="Subtitle on cover:" type="alternative">
+            <title>Inquisiciones y El idioma de los argentinos, los otros libros proscritos de Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Farías, Víctor</namePart>
+            <namePart type="date">1940-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <publisher>Anaya &amp; Mario Muchnik</publisher>
+            <dateIssued>c1994</dateIssued>
+            <dateIssued encoding="marc">1994</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>356 p. ; 22 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Víctor Farías.</note>
+          <note type="bibliography">Includes bibliographical references (p. 345-[351]).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject>
+            <topic>Borge Acevedo, Jorge Luis, 1899-196Historia y crítica.</topic>
+          </subject>
+          <identifier type="isbn">8479791934 (pbk.) :</identifier>
+          <identifier type="oclc">32436872</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DZM</recordContentSource>
+            <recordCreationDate encoding="marc">950508</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824143857.0</recordChangeDate>
+            <recordIdentifier>9915146733406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9915146733406236</recordIdentifier>
+      <recordPosition>6</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Adolfo Bioy Casares</title>
+            <subTitle>Borges, Fiction and Art</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Posso, Karl.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="rdacontent">text</genre>
+          <genre authority="4">Electronic books.</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">xx</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2012</dateIssued>
+            <edition>1st ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">Cardiff :</placeTerm>
+            </place>
+            <publisher>University of Wales Press,</publisher>
+            <dateIssued>2012.</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marccategory">electronic resource</form>
+            <form authority="marcsmd">remote</form>
+            <extent>1 online resource (248 pages)</extent>
+            <form authority="rdamedia" type="media">computer</form>
+            <form authority="rdacarrier" type="carrier">online resource</form>
+          </physicalDescription>
+          <abstract type="Summary">This volume reconsiders the work and cultural import of Adolfo Bioy Casares (1914-1999), who is best known for his collaborations with Jorge Luis Borges.</abstract>
+          <tableOfContents>Intro -- Series Editors' Foreword -- Acknowledgements -- List of figures -- Note on translations -- Notes on contributors -- Introduction: Rethinking Adolfo Bioy Casares -- Adolfo Bioy Casares: a biographical sketch -- Borges's appendix: reflections on Bioy's diary -- Bioy and Borges: from the third man to the worldof Bustos Domecq -- Every man is an island: Bioy's fiction -- 1969: youth and rebellion in Diario de la guerra del cerdoand Invasión -- The fantastic in Bioy's short stories -- Bioy, Ocampo and the photographic image -- To love in the infinitive: time, image and the powers of thefalse in La invención de Morel -- Index.</tableOfContents>
+          <subject authority="lcsh">
+            <topic>Argentine literature -- 20th century -- History and criticism</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Bioy Casares, Adolfo -- Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Borges, Jorge Luis, 1899-1986 -- Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B535 Z5365 2012</classification>
+          <classification authority="ddc">863.6</classification>
+          <relatedItem displayLabel="Print version:" type="otherFormat">
+            <titleInfo>
+              <title>Adolfo Bioy Casares</title>
+            </titleInfo>
+            <name>
+              <namePart>Posso, Karl</namePart>
+            </name>
+            <originInfo>
+              <publisher>Cardiff : University of Wales Press,c2012</publisher>
+            </originInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Iberian and Latin American Studies</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9780708325384</identifier>
+          <identifier invalid="yes" type="isbn">9780708325377</identifier>
+          <identifier type="oclc">870951031</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">MiAaPQ</recordContentSource>
+            <recordCreationDate encoding="marc">210614</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20210614080405.0</recordChangeDate>
+            <recordIdentifier>9917687360400041</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9998955585806236</recordIdentifier>
+      <recordPosition>7</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Adolfo Bioy Casares</title>
+            <subTitle>Borges, fiction and art</subTitle>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Posso, Karl.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">wlk</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Cardiff</placeTerm>
+            </place>
+            <publisher>University of Wales Press</publisher>
+            <dateIssued>2012</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xvi, 223 p., [8] p. of plates : ill. ; 24 cm.</extent>
+          </physicalDescription>
+          <tableOfContents>Introduction: Rethinking Adolfo Bioy Casares / Karl Posso -- Adolfo Bioy Casares : a biographical sketch / John King -- Borges's appendix : reflections on Bioy's diary / Daniel Balderston -- Bioy and Borges : from the third man to the world of Bustos Domecq / Michel Lafon -- Every man is an island : Bioy's fiction / Stephen Henighan -- 1969 : youth and rebellion in Diario de la guerra del cerdo and Invasion / Jordana Blejmar -- The fantastic in Bioy's short stories / Jesús Rodero -- Bioy, Ocampo and the photographic image / Fiona J. Mackintosh -- To love in the infinitive : time, image and the powers of the false in La invención de Morel / Karl Posso.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">edited by Karl Posso.</note>
+          <note type="bibliography">Includes bibliographical references and index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Bioy Casares, Adolfo</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Argentine literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B535 Z5365 2012</classification>
+          <classification authority="ddc" edition="23">863.6</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Iberian and Latin American studies</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9780708325377</identifier>
+          <identifier type="isbn">0708325378</identifier>
+          <identifier invalid="yes" type="isbn">9780708325384 (ebk.)</identifier>
+          <identifier invalid="yes" type="isbn">0708325386 (ebk.)</identifier>
+          <identifier type="oclc">810116629</identifier>
+          <identifier type="oclc">ocn810116629</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+            <recordCreationDate encoding="marc">120913</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20130612111348.0</recordChangeDate>
+            <recordIdentifier>9974709883406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9974709883406236</recordIdentifier>
+      <recordPosition>8</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Adolfo Bioy Casares</title>
+            <subTitle>Borges, fiction and art</subTitle>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Posso, Karl.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">wlk</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Cardiff</placeTerm>
+            </place>
+            <publisher>University of Wales Press</publisher>
+            <dateIssued>2012</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xvi, 223 p., [8] p. of plates : ill. ; 24 cm.</extent>
+          </physicalDescription>
+          <tableOfContents>Introduction: Rethinking Adolfo Bioy Casares / Karl Posso -- Adolfo Bioy Casares : a biographical sketch / John King -- Borges's appendix : reflections on Bioy's diary / Daniel Balderston -- Bioy and Borges : from the third man to the world of Bustos Domecq / Michel Lafon -- Every man is an island : Bioy's fiction / Stephen Henighan -- 1969 : youth and rebellion in Diario de la guerra del cerdo and Invasion / Jordana Blejmar -- The fantastic in Bioy's short stories / Jesús Rodero -- Bioy, Ocampo and the photographic image / Fiona J. Mackintosh -- To love in the infinitive : time, image and the powers of the false in La invención de Morel / Karl Posso.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">edited by Karl Posso.</note>
+          <note type="bibliography">Includes bibliographical references and index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Bioy Casares, Adolfo</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Argentine literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B535 Z5365 2012</classification>
+          <classification authority="ddc" edition="23">863.6</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Iberian and Latin American studies</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9780708325377</identifier>
+          <identifier type="isbn">0708325378</identifier>
+          <identifier invalid="yes" type="isbn">9780708325384 (ebk.)</identifier>
+          <identifier invalid="yes" type="isbn">0708325386 (ebk.)</identifier>
+          <identifier type="oclc">810116629</identifier>
+          <identifier type="oclc">ocn810116629</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+            <recordCreationDate encoding="marc">130927</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20130927085103.0</recordChangeDate>
+            <recordIdentifier>9976668523406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9976668523406236</recordIdentifier>
+      <recordPosition>9</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Adolfo Bioy Casares en Uruguay</title>
+            <subTitle>de la amistad y otras coincidencias</subTitle>
+          </titleInfo>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">uy</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Salto, Uruguay]</placeTerm>
+            </place>
+            <publisher>Centro Cultural Internacional de Salto</publisher>
+            <dateIssued>[1993]</dateIssued>
+            <dateIssued encoding="marc">1993</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>228 p. : ill. (some col.) ; 19 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">coordinación, Lisa Block de Behar, Isidra Solari de Muró.</note>
+          <note>"Centro Cultural Internacional de Salto, Salto Oriental, 17 y 18 de agosto de 1990. Academia Nacional de Letras del Uruguay, Instituto de Cooperación Iberoamericana, Montevideo, 6 y 7 de agosto de 1991."</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <titleInfo>
+              <title>Tlön, Uqbar, Orbis Tertius</title>
+            </titleInfo>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Bioy Casares, Adolfo</namePart>
+            </name>
+            <topic>In literature</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Bioy Casares, Adolfo</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 T533 1993</classification>
+          <classification authority="ddc" edition="20">868</classification>
+          <identifier type="isbn">9974595002</identifier>
+          <identifier type="lccn">94831209</identifier>
+          <identifier type="oclc">30513575</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">940512</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824131317.0</recordChangeDate>
+            <recordIdentifier>9913393583406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9913393583406236</recordIdentifier>
+      <recordPosition>10</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Al margen de Borges</title>
+          </titleInfo>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">mx</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">México</placeTerm>
+            </place>
+            <publisher>Siglo Veintiuno Editores</publisher>
+            <dateIssued>1987</dateIssued>
+            <edition>1a ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>219 p. ; 18 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">por Lisa Block de Behar.</note>
+          <note type="bibliography">Bibliography: p. 213-219.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z6344 1987</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Lingüística y teoría literaria</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9509374237</identifier>
+          <identifier type="lccn">89113681</identifier>
+          <identifier type="oclc">19849349</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">890214</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824135137.0</recordChangeDate>
+            <recordIdentifier>999042083406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>999042083406236</recordIdentifier>
+      <recordPosition>11</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>aleph de Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Ortega, Julio.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Río Parra, Elena del.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">mx</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">México</placeTerm>
+            </place>
+            <publisher>El Colegio de México, Centro de Estudios Lingüísticos y Literarios</publisher>
+            <dateIssued>2001</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>113 p. : col. facsim. ; 28 cm.</extent>
+          </physicalDescription>
+          <tableOfContents>"El aleph" / Jorge Luis Borges -- Belle Dame Sans Merci / Emir Rodríguez Monegal -- Ambigua Beatriz / Roberto Paoli -- Aleph et Alexis / Daniel Devoto -- El infinito literario : El aleph / Maurice Blanchot -- La Cábala / Saúl Sosnowski -- Mi prosa / Jorge Luis Borges.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">edición crítica y facsimilar preparada por Julio Ortega y Elena del Río Parra.</note>
+          <note type="bibliography">Includes bibliographical references (p. 109-113) and index.</note>
+          <subject>
+            <geographicCode authority="marcgac">s-ag---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <titleInfo>
+              <title>Aleph</title>
+            </titleInfo>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject>
+            <topic>Borges, Jorge Luis, 1899-1986. AlephCrítica e interpretación.</topic>
+          </subject>
+          <subject>
+            <topic>Literatura argentinaSiglo XXHistoria y crítica.</topic>
+          </subject>
+          <identifier type="isbn">9681210050</identifier>
+          <identifier type="oclc">ocm48078585</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">EL$</recordContentSource>
+            <recordCreationDate encoding="marc">011003</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824161100.0</recordChangeDate>
+            <recordIdentifier>9939853313406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9939853313406236</recordIdentifier>
+      <recordPosition>12</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Álgebra y fuego</title>
+            <subTitle>lectura de Borges</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Antezana J., Luis H.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">bo</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">La Paz, Bolivia]</placeTerm>
+            </place>
+            <publisher>Nuevo Milenio</publisher>
+            <dateIssued>2000</dateIssued>
+            <edition>2. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>181 p. : ill. ; 24 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Luis H. Antezana J.</note>
+          <note type="bibliography">Includes bibliographical references (p. 171-177).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <identifier type="isbn">9972642119</identifier>
+          <identifier type="oclc">ocm46873328</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">JHE</recordContentSource>
+            <recordCreationDate encoding="marc">010504</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824145354.0</recordChangeDate>
+            <recordIdentifier>9938567363406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9938567363406236</recordIdentifier>
+      <recordPosition>13</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>alma de "El Aleph"</title>
+            <subTitle>nuevos aportes a la indagación psicoanalítica de la obra de Jorge Luis Borges</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Aleph</title>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Nuevos aportes a la indagación psicoanalítica de la obra de Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Woscoboinik, Julio.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires, Argentina</placeTerm>
+            </place>
+            <publisher>Nuevohacer, Grupo Editor Latinoamericano</publisher>
+            <dateIssued>c1996</dateIssued>
+            <dateIssued encoding="marc">1996</dateIssued>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>135 p. ; 22 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Julio Woscoboinik ; prólogo de Marcos Aguinis.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject>
+            <geographicCode authority="marcgac">s-ag---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <titleInfo>
+              <title>Aleph</title>
+            </titleInfo>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Psychoanalysis and literature</topic>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Escritura de hoy</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9506944571 (pbk.)</identifier>
+          <identifier type="oclc">35836943</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">GZM</recordContentSource>
+            <recordCreationDate encoding="marc">961102</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824122706.0</recordChangeDate>
+            <recordIdentifier>9916907303406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9916907303406236</recordIdentifier>
+      <recordPosition>14</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Alrededor de la obra de Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Rivas, José Andrés.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires, República Argentina</placeTerm>
+            </place>
+            <publisher>F. García Cambeiro</publisher>
+            <dateIssued>c1984</dateIssued>
+            <dateIssued encoding="marc">1984</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>112 p. ; 21 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">José Andrés Rivas.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <identifier type="isbn">9506430020</identifier>
+          <identifier type="oclc">11921826</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">AZU</recordContentSource>
+            <recordCreationDate encoding="marc">850415</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824092333.0</recordChangeDate>
+            <recordIdentifier>993048583406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>993048583406236</recordIdentifier>
+      <recordPosition>15</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Ámbitos en la obra de Borges</title>
+            <subTitle>símbolos, temas y recursos</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Fernández, Marta Beatriz.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires</placeTerm>
+            </place>
+            <publisher>Creadores Argentinos</publisher>
+            <dateIssued>c2009</dateIssued>
+            <dateIssued encoding="marc">2009</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>209 p. ; 21 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Marta Beatriz Fernández.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Themes, motives</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z7116 2009</classification>
+          <identifier type="isbn">9789871377565</identifier>
+          <identifier type="isbn">9871377568</identifier>
+          <identifier type="oclc">ocn703267388</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">PIT</recordContentSource>
+            <recordCreationDate encoding="marc">100601</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180725194205.0</recordChangeDate>
+            <recordIdentifier>9961492423406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9961492423406236</recordIdentifier>
+      <recordPosition>16</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Análisis de El hacedor de Jorge Luis Borges</title>
+          </titleInfo>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ve</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Caracas</placeTerm>
+            </place>
+            <publisher>La Casa de Bello</publisher>
+            <dateIssued>c1997</dateIssued>
+            <dateIssued encoding="marc">1997</dateIssued>
+            <edition>1a. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>73 p. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">José de los Reyes Pérez.</note>
+          <note type="bibliography">Includes bibliographical references (p. 65-68).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <titleInfo>
+              <title>Hacedor</title>
+            </titleInfo>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 H357 1997</classification>
+          <classification authority="ddc" edition="21">861</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Zona tórrida ; 61</title>
+            </titleInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Zona tórrida</title>
+              <partName>Letras universitarias</partName>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9802141321</identifier>
+          <identifier type="lccn">97194877</identifier>
+          <identifier type="oclc">37350420</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">WU</recordContentSource>
+            <recordCreationDate encoding="marc">970912</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824155522.0</recordChangeDate>
+            <recordIdentifier>9917413953406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9917413953406236</recordIdentifier>
+      <recordPosition>17</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Analyses &amp; réflexions sur Borges, Fictions</title>
+            <subTitle>mythe et récit</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges, Fictions</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Aboucaya, Jacques.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">fr</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Paris</placeTerm>
+            </place>
+            <publisher>Ellipses</publisher>
+            <publisher>Edition Marketing</publisher>
+            <dateIssued>c1988</dateIssued>
+            <dateIssued encoding="marc">1988</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>192 p. : ill. ; 26 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jacques Aboucaya ... et al.⁾.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <titleInfo>
+              <title>Ficciones</title>
+            </titleInfo>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 F533 1988</classification>
+          <classification authority="ddc" edition="20">863</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Analyses et réflections sur--</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">2729888675</identifier>
+          <identifier type="lccn">89198247</identifier>
+          <identifier type="oclc">21331841</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">891024</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824121321.0</recordChangeDate>
+            <recordIdentifier>999806693406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>999806693406236</recordIdentifier>
+      <recordPosition>18</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Andares clancos</title>
+            <subTitle>fábulas del menor en Osvaldo Lamborghini, J. C. Onetti, Rubén Darío, J. L. Borges, Silvina Ocampo y Manuel Puig</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Astutti, Adriana.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">essay</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Rosario, Argentina</placeTerm>
+            </place>
+            <publisher>Beatriz Viterbo Editora</publisher>
+            <dateIssued>2001</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>245 p. ; 20 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Adriana Astutti.</note>
+          <note type="bibliography">Includes bibliographical references (p. 231-244).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Lamborghini, Osvaldo</namePart>
+              <namePart type="date">1940-1985</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Onetti, Juan Carlos</namePart>
+              <namePart type="date">1909-1994</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Darío, Rubén</namePart>
+              <namePart type="date">1867-1916</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Ocampo, Silvina</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Puig, Manuel</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Spanish American literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Ensayos críticos (Rosario, Argentina)</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9508451149</identifier>
+          <identifier type="oclc">ocm48813695</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">U@S</recordContentSource>
+            <recordCreationDate encoding="marc">020118</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20191121091603.0</recordChangeDate>
+            <recordIdentifier>9939563213406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9939563213406236</recordIdentifier>
+      <recordPosition>19</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>Das</nonSort>
+            <title>andere Antlitz von Borges =</title>
+            <subTitle>El otro semblante de Borges</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Otro semblante de Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Hernández d'Jesús, Enrique.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Makhlūf, ʻĪsá.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Burghardt, Juana.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Burghardt, Tobias</namePart>
+            <namePart type="date">1961-</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <name type="conference">
+            <namePart>Frankfurter Buchmesse.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">biography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">gw</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Stuttgart</placeTerm>
+            </place>
+            <publisher>Edition Delta</publisher>
+            <dateIssued>c2010</dateIssued>
+            <dateIssued encoding="marc">2010</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+          </language>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+          </language>
+          <language objectPart="translation">
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <language objectPart="translation">
+            <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>161 p. : chiefly ill. ; 16 cm.</extent>
+          </physicalDescription>
+          <tableOfContents>Das andere Leben von Borges = L'autre vie de Borges / Issa Makhlouf -- Das andere Antlitz von Borges : photographien =  El otro semblante de Borges : fotografías / Enrique Hernández-D'Jesús -- Tischespräche mit Jorge Luis Borges = Conversaciones con Jorge Luis Borges alrededor de la buena mesa / Enrique Hernández-D'Jesús.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">Enrique Hernández-D'Jesús ; mit einem Vorwort von Issa Makhlouf ; mit einem Gespräch von Enrique Hernández-D'Jesús ; ins Deutsche übersetzt von Juana und Tobias Burghardt.</note>
+          <note>Published in conjunction with an exhibition of photographs of Borges taken in 1982 in Caracas by Enrique Hernández-D'Jesús. Exhibition held at the Frankfurt Book Fair in October, 2010.</note>
+          <note type="bibliography">Includes bibliographical references (p. 156-157).</note>
+          <note type="language">Text in German, Spanish, and French.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Portraits</genre>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Exhibitions</genre>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Pictorial works</genre>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Interviews</genre>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Hernández d'Jesús, Enrique</namePart>
+            </name>
+            <genre>Exhibitions</genre>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Portrait photography</topic>
+            <genre>Exhibitions</genre>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z7333 2010</classification>
+          <identifier type="isbn">9783927648326</identifier>
+          <identifier type="isbn">3927648329</identifier>
+          <identifier type="oclc">ocn732631799</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">PIT</recordContentSource>
+            <recordCreationDate encoding="marc">100927</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180807191845.0</recordChangeDate>
+            <recordIdentifier>9964334463406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9964334463406236</recordIdentifier>
+      <recordPosition>20</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>año de Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Prado Galán, Gilberto</namePart>
+            <namePart type="date">1960-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">mx</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Torreón, Coahuila, Mexico]</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Mexico City, Mexico]</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Torreón, Coahuila, Mexico]</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">México</placeTerm>
+            </place>
+            <publisher>Universidad Iberoamericana, Laguna</publisher>
+            <publisher>Consejo Nacional para la Cultura y las Artes</publisher>
+            <publisher>Instituto Municipal de Cultura de Torreón</publisher>
+            <publisher>M.A. Porrúa</publisher>
+            <dateIssued>1999</dateIssued>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>115 p. ; 21 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Gilberto Prado Galán.</note>
+          <note type="bibliography">Includes bibliographical references (p. 113-115).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <identifier type="isbn">9688429554</identifier>
+          <identifier type="oclc">ocm42905351</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">CUZ</recordContentSource>
+            <recordCreationDate encoding="marc">991130</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20191119121747.0</recordChangeDate>
+            <recordIdentifier>9936305443406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9936305443406236</recordIdentifier>
+      <recordPosition>21</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>AntiBorges</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Lafforgue, Martín</namePart>
+            <namePart type="date">1970-</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Anderson Imbert, Enrique</namePart>
+            <namePart type="date">1910-2000</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Barcelona</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires</placeTerm>
+            </place>
+            <publisher>J. Vergara Editor</publisher>
+            <dateIssued>c1999</dateIssued>
+            <dateIssued encoding="marc">1999</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>383 p. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">compilación y comentarios de Martín Lafforgue ; [Enrique Anderson Imbert ... et al.].</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z615 1999</classification>
+          <classification authority="ddc" edition="21">868/.6209</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Textos libres (Barcelona, Spain)</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9501519988</identifier>
+          <identifier type="lccn">99519769</identifier>
+          <identifier type="oclc">ocm42673136</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">990906</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824173143.0</recordChangeDate>
+            <recordIdentifier>9936172323406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9936172323406236</recordIdentifier>
+      <recordPosition>22</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Apuntes de familia</title>
+            <subTitle>mis padres, mi tío, mi abuela</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Torre Borges, Miguel de.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">biography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires</placeTerm>
+            </place>
+            <publisher>A. Casares</publisher>
+            <dateIssued>2004</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>157 p. : ill., geneal. table ; 18 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Miguel de Torre Borges.</note>
+          <note>Includes index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges family</namePart>
+            </name>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z9415 2004</classification>
+          <identifier type="isbn">9879959485</identifier>
+          <identifier type="oclc">ocm55958393</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">YSM</recordContentSource>
+            <recordCreationDate encoding="marc">040716</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824180851.0</recordChangeDate>
+            <recordIdentifier>9944023423406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9944023423406236</recordIdentifier>
+      <recordPosition>23</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Arlt, Borges y cía</title>
+            <subTitle>narrativa rioplatense de vanguardia</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Herrera, Bernal.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">cr</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">San José, Costa Rica</placeTerm>
+            </place>
+            <publisher>Editorial de la Universidad de Costa Rica</publisher>
+            <dateIssued>1997</dateIssued>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xvi, 245 p. ; 21 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Bernal Herrera.</note>
+          <note type="bibliography">Includes bibliographical references (p. 235-245).</note>
+          <subject>
+            <geographicCode authority="marcgac">s-ag---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Arlt, Roberto</namePart>
+              <namePart type="date">1900-1942</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Argentine literature</topic>
+            <geographic>Río de la Plata (Argentina and Uruguay)</geographic>
+            <topic>History and criticism</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Argentine literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7791.R5 H47 1997</classification>
+          <classification authority="ddc" edition="21">860.9/98212</classification>
+          <identifier type="isbn">9977674388</identifier>
+          <identifier type="lccn">98116557</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">980218</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180807193242.0</recordChangeDate>
+            <recordIdentifier>9918020903406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9918020903406236</recordIdentifier>
+      <recordPosition>24</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>arte de la jardinería china en Borges, y otros estudios</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Echavarría, Arturo.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Frankfurt am Main</placeTerm>
+            </place>
+            <publisher>Iberoamericana</publisher>
+            <publisher>Vervuert</publisher>
+            <dateIssued>2006</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>172 p. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Arturo Echavarría.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject>
+            <topic>Borges, Jorge Luis, 1899-1986Crítica e interpretación.</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z678 2006</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Teoría y crítica de la cultura y literatura ; 33</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">8484892360 (Iberoamericana)</identifier>
+          <identifier type="isbn">3865272606 (Vervuert)</identifier>
+          <identifier type="oclc">ocm68085168</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">PL#</recordContentSource>
+            <recordCreationDate encoding="marc">060420</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824162110.0</recordChangeDate>
+            <recordIdentifier>9946546543406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9946546543406236</recordIdentifier>
+      <recordPosition>25</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Asedio a Jorge Luis Borges</title>
+          </titleInfo>
+          <titleInfo type="uniform">
+            <title>Cardinal points of Borges. Spanish</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Marco, Joaquín</namePart>
+            <namePart type="date">1935</namePart>
+          </name>
+          <name type="conference">
+            <namePart>International Symposium on Borges (1969 : University of Oklahoma)</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">conference publication</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <publisher>Ultramar</publisher>
+            <dateIssued>1982, c1981</dateIssued>
+            <dateIssued encoding="marc" point="start">1982</dateIssued>
+            <dateIssued encoding="marc" point="end">1981</dateIssued>
+            <edition>1a. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <language objectPart="translation">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>261 p. ; 22 cm.</extent>
+          </physicalDescription>
+          <tableOfContents>Una aproximación  más a Jorge Luis Borges / Joaquín Marco --Borges y la cultura hispanoamericana / Julio Ortega -- Una humilde propuesta para la crítica de Borges / Ronald Christ -- En el laberinto / Emir Rodríguez Monegal -- Borges y la idea de utopía / James E. Irby -- Los cuatro puntos cardinales de Borges / Donald A. Yates -- Estructura oximorónica en los ensayos de Borges / Jaime Alazraki -- Sueño, memoria, producción del significante en "Ficciones" de Jorge Luis Borges / Gerardo Mario Goloboff --Del anacronismo al simulacro / Saúl Yurkievich -- La obra visible de Macedonio Fernández / John C. Murchison -- Trabajando con Borges / Norman Thomas di Giovanni -- Crónica, y reivindicación de Borges / José Luis Giménez-Frontín -- Poemas de Homenaje / Jorge Guillén -- Borges en Oklahoma 1969 / Ivar Ivask -- De la literatura, o un viaje imaginario con Jorge Luis Borges / Jorge Semprún.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">edición de Joaquín Marco.</note>
+          <note>Translation of: The cardinal points of Borges. Spanish edition contains additional essays.</note>
+          <note>Some of the articles were presented at the International Symposium on Borges, held at the University of Oklahoma, Dec. 5-6, 1969, and were first published in the summer 1971 issue of Books abroad.</note>
+          <note type="bibliography">Bibliography: p. 257-258.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Serie azul (Madrid, Spain)</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">8473863119</identifier>
+          <identifier type="oclc">11092936</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">TXH</recordContentSource>
+            <recordCreationDate encoding="marc">840827</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20060601050738.0</recordChangeDate>
+            <recordIdentifier>993369443406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>993369443406236</recordIdentifier>
+      <recordPosition>26</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Aspectos filosóficos en la obra de Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Krestonosich Celis, Nikola</namePart>
+            <namePart type="date">1978-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ve</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Caracas</placeTerm>
+            </place>
+            <publisher>Ediplus Producción</publisher>
+            <dateIssued>2004</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xi, 93 p. ; 22 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Nikola Krestonosich Celis.</note>
+          <note type="bibliography">Includes bibliographical references (p. 87-90) and index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Themes, motives</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Philosophy in literature</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z77148 2004</classification>
+          <identifier type="isbn">9801207043</identifier>
+          <identifier type="oclc">ocm56782178</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">LRU</recordContentSource>
+            <recordCreationDate encoding="marc">041019</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180807193245.0</recordChangeDate>
+            <recordIdentifier>9944101283406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9944101283406236</recordIdentifier>
+      <recordPosition>27</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Asquerosamente sentimental</title>
+            <subTitle>llaves y autorretratos de Borges (para estar más cerca de él)</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Asquerosamente sentimental</title>
+            <subTitle>biografía sintética y comopilación</subTitle>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Perdomo, José Luis.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">gt</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Guatemala</placeTerm>
+            </place>
+            <publisher>Magna Terra Editores</publisher>
+            <dateIssued>2000</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>278 p. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">J.L. Perdomo Orellana (comp.).</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z622 2000</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Libros del Aleph</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9992269103</identifier>
+          <identifier type="oclc">ocm49287392</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">FUG</recordContentSource>
+            <recordCreationDate encoding="marc">010411</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180807190557.0</recordChangeDate>
+            <recordIdentifier>9938484733406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9938484733406236</recordIdentifier>
+      <recordPosition>28</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Ästhetische Transzendenz und spekulative Metaphysik des Jorge Luis Borges</title>
+            <subTitle>Versuch über einen philologischen und philosophischen Dialog mit der Theologie</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Bothe, Alexander H. D.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">gw</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Saarbrücken</placeTerm>
+            </place>
+            <publisher>VDM Verlag Dr. Müller</publisher>
+            <dateIssued>2007</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>109 p. ; 24 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Alexander H. D. Bothe.</note>
+          <note type="bibliography">Includes bibliographical references (p. 103-109).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Knowledge</topic>
+            <topic>Metaphysics</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Aesthetics</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Religion</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Metaphysics in literature</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z634935 2007</classification>
+          <identifier type="isbn">9783836431613</identifier>
+          <identifier type="isbn">3836431610</identifier>
+          <identifier type="oclc">ocn476253648</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">PIT</recordContentSource>
+            <recordCreationDate encoding="marc">070919</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180725194203.0</recordChangeDate>
+            <recordIdentifier>9958090133406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9958090133406236</recordIdentifier>
+      <recordPosition>29</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Atlas</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Kodama, María.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires, Argentina</placeTerm>
+            </place>
+            <publisher>Emecé Editores</publisher>
+            <dateIssued>c2008</dateIssued>
+            <dateIssued encoding="marc">2008</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>104 p. : ill. (some col.) ; 25 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jorge Luis Borges ; con María Kodama.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Travel</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 A9 2008</classification>
+          <identifier type="isbn">9789500429764</identifier>
+          <identifier type="isbn">9500429764</identifier>
+          <identifier type="lccn">2008445261</identifier>
+          <identifier type="oclc">ocn244339883</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">080808</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824150723.0</recordChangeDate>
+            <recordIdentifier>9959568143406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9959568143406236</recordIdentifier>
+      <recordPosition>30</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Autobiografía</title>
+            <subTitle>1899-1970</subTitle>
+          </titleInfo>
+          <titleInfo nameTitleGroup="1" type="uniform">
+            <title>Autobiographical essay. Spanish</title>
+          </titleInfo>
+          <name nameTitleGroup="1" type="personal" usage="primary">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Di Giovanni, Norman Thomas.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires]</placeTerm>
+            </place>
+            <publisher>El Ateneo</publisher>
+            <dateIssued>1999</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <language objectPart="translation">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>157 p. : 1 port, facsim. ; 23 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jorge Luis Borges ; con Norman Thomas di Giovanni.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Biography</genre>
+          </subject>
+          <identifier type="isbn">9500285118</identifier>
+          <identifier type="oclc">42617808</identifier>
+          <recordInfo>
+            <recordContentSource authority="marcorg">EYM</recordContentSource>
+            <recordCreationDate encoding="marc">991012</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824171501.0</recordChangeDate>
+            <recordIdentifier>9935740183406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9935740183406236</recordIdentifier>
+      <recordPosition>31</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Autor/lector</title>
+            <subTitle>Huidobro, Borges, Fuentes y Sarduy</subTitle>
+          </titleInfo>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">government publication</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">miu</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Detroit</placeTerm>
+            </place>
+            <publisher>Wayne State University Press</publisher>
+            <dateIssued>c1991</dateIssued>
+            <dateIssued encoding="marc">1991</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>184 p. ; 24 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Alicia Rivero-Potter.</note>
+          <note type="bibliography">Includes bibliographical references (p. 137-177) and index.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Huidobro, Vicente</namePart>
+              <namePart type="date">1893-1948</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Fuentes, Carlos</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Sarduy, Severo</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Spanish American literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7081 .R55 1991</classification>
+          <classification authority="ddc" edition="20">860.9/98</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Latin American literature and culture</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">0814322263 (alk. paper)</identifier>
+          <identifier type="lccn">90037640</identifier>
+          <identifier type="oclc">21561149</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">900427</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20060601050808.0</recordChangeDate>
+            <recordIdentifier>9911392643406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9911392643406236</recordIdentifier>
+      <recordPosition>32</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Avatares del Hacedor</title>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Avatares del Hacedor</title>
+            <subTitle>Jorge Luis Borges (1986-2016)</subTitle>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Cervera Salinas, Vicente</namePart>
+            <role>
+              <roleTerm type="text">editor.</roleTerm>
+            </role>
+          </name>
+          <name type="personal">
+            <namePart>Adsuar, María Dolores</namePart>
+            <role>
+              <roleTerm type="text">editor.</roleTerm>
+            </role>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="rdacontent">text</genre>
+          <genre authority="fast">Criticism, interpretation, etc.</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2017</dateIssued>
+            <copyrightDate encoding="marc">2017</copyrightDate>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">Madrid :</placeTerm>
+            </place>
+            <publisher>Editorial Verbum,</publisher>
+            <dateIssued>[2017].</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>173 pages ; 20 cm.</extent>
+            <form authority="rdamedia" type="media">unmediated</form>
+            <form authority="rdacarrier" type="carrier">volume</form>
+          </physicalDescription>
+          <tableOfContents>Borges, prologuista / Trinidad Barrera -- Jorge Luis Borges y Roberto Bolaño: de la duda com bien al mal como certeza / Bernat Castany Prado -- El existencialismo textual de Jorge Luis Borges / Vicente Cervera Salinas -- Jorge Luis Borges, lector argentino del Quijote / Teodosio Fernández -- La última gota de miel: sobre la poesía de Jorge Luis Borges / Andrés García Cerdán -- Borges anónimo y plural / María Belén Hernández González -- Borges antólogo: la edificación del canon literario y la creación de un nuevo público lector / Aníbal Salazar Anglada -- La literatura que se muerde la cola: Jorge Luis Borges y la obsesión del lector en "La memoria de Shakespeare" / Víctor Manuel Sanchis Amat -- Mutaciones en El hacedor / László Scholz -- La presencia de Borges en El otoño del patriarca, de Gabriel García Márquez / Mercedes Serna.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">Vicente Cervera Salinas, María Dolores Adsuar Fernández (coords.).</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <titleInfo>
+              <title>Hacedor</title>
+            </titleInfo>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="fast">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <subject authority="fast">
+            <titleInfo>
+              <title>Hacedor (Borges, Jorge Luis)</title>
+            </titleInfo>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 H338 2017</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Ensayo (Editorial Verbum)</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9788490744727</identifier>
+          <identifier type="isbn">8490744726</identifier>
+          <identifier type="oclc">ocn978298059</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">RBN</recordContentSource>
+            <recordCreationDate encoding="marc">012008</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20170728112624.0</recordChangeDate>
+            <recordIdentifier>9987398593406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9987398593406236</recordIdentifier>
+      <recordPosition>33</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>Barroco, marca de agua de la narrativa hispanoamericana</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Cevallos, Santiago</namePart>
+            <namePart type="date">1977-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="rdacontent">text</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2012</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">Madrid :</placeTerm>
+            </place>
+            <publisher>Iberoamericana ;</publisher>
+            <dateIssued>2012.</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>323 pages : 1 illustration ; 23 cm.</extent>
+            <form authority="rdamedia" type="media">unmediated</form>
+            <form authority="rdacarrier" type="carrier">volume</form>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Santiago Cevallos.</note>
+          <note type="bibliography">Includes bibliographical references (pages 319-323).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Palacio, Pablo</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Onetti, Juan Carlos</namePart>
+              <namePart type="date">1909-1994</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Lezama Lima, José</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Latin American literature</topic>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7081 .C493 2012</classification>
+          <classification authority="ddc" edition="21">860</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Editionen der Iberoamericana. 62</title>
+              <partNumber>Serie A</partNumber>
+              <partName>Literaturgeschichte und -kritik</partName>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9788484896883 (Iberoamericana)</identifier>
+          <identifier type="isbn">8484896889 (Iberoamericana)</identifier>
+          <identifier type="isbn">9783865277374 (Vervuert)</identifier>
+          <identifier type="isbn">3865277373 (Vervuert)</identifier>
+          <identifier type="oclc">ocn824728121</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">C3L</recordContentSource>
+            <recordCreationDate encoding="marc">130121</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20130221083521.0</recordChangeDate>
+            <recordIdentifier>9972273413406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9972273413406236</recordIdentifier>
+      <recordPosition>34</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>El</nonSort>
+            <title>Barroco, marca de agua de la narrativa hispanoamericana</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Cevallos, Santiago</namePart>
+            <namePart type="date">1977-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="0">Electronic books.</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Frankfurt am Main</placeTerm>
+            </place>
+            <publisher>Iberoamericana</publisher>
+            <publisher>Vervuert</publisher>
+            <dateIssued>2012</dateIssued>
+            <dateCreated>2012).</dateCreated>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="gmd">electronic resource</form>
+            <form authority="marccategory">electronic resource</form>
+            <form authority="marcsmd">remote</form>
+            <extent>1 online resource (323 p.)</extent>
+          </physicalDescription>
+          <accessCondition type="restriction on access">Access restricted to subscribing institutions.</accessCondition>
+          <note altRepGroup="00" type="statement of responsibility">Santiago Cevallos.</note>
+          <note type="bibliography">Includes bibliographical references (p. 319-323).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Onetti, Juan Carlos</namePart>
+              <namePart type="date">1909-1994</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Latin American literature</topic>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7081 ebook</classification>
+          <location>
+            <url displayLabel="electronic resource" note="Pitt users please click through for access via Digitalia" usage="primary display">http://pitt.idm.oclc.org/login?url=http://www.digitaliapublishing.com/a/23327/</url>
+          </location>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Editionen der Iberoamericana. 62</title>
+              <partNumber>Serie A</partNumber>
+              <partName>Literaturgeschichte und -kritik</partName>
+            </titleInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Digitalia eBook Collection: Iberoamericana/Vervuert</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9783954870684 (electronic bk.)</identifier>
+          <identifier invalid="yes" type="isbn">9788484896883 (Iberoamericana : pbk.)</identifier>
+          <identifier invalid="yes" type="isbn">8484896889 (Iberoamericana : pbk.)</identifier>
+          <identifier invalid="yes" type="isbn">9783865277374 (Vervuert : pbk.)</identifier>
+          <identifier invalid="yes" type="isbn">3865277373 (Vervuer : pbk.)</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <descriptionStandard>pn</descriptionStandard>
+            <recordContentSource authority="marcorg">DGITA</recordContentSource>
+            <recordCreationDate encoding="marc">140101</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20160401150850.0</recordChangeDate>
+            <recordIdentifier>9982723103406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9982723103406236</recordIdentifier>
+      <recordPosition>35</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Being in common</title>
+            <subTitle>nation, subject, and community in Latin American literature and culture</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Rosman, Silvia Nora</namePart>
+            <namePart type="date">1959-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">pau</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Lewisburg [Pa.]</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Bucknell University Press</publisher>
+            <publisher>Associated University Presses</publisher>
+            <dateIssued>c2003</dateIssued>
+            <dateIssued encoding="marc">2003</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>151 p. ; 24 cm.</extent>
+          </physicalDescription>
+          <abstract type="Review">"Being in Common analyzes key works of twentieth-century Latin American literature and culture as precursors of contemporary theories of globalization. Silvia Rosman studies how texts from the 1940s and '50s by major Latin American authors, such as Alejo Carpentier, Ezequiel Martinez Estrada, Octavio Paz, and Jorge Luis Borges, provide alternatives to traditional forms of national, linguistic, or geographical belonging and thus allow us to think the commonality of experience differently. These texts offer articulations of community that challenge the totalizing and often violent homogeneity of identity or difference, the priority of the Subject and the location of culture. Rosman persuasively demonstrates how they explore ways of being in common - the communal relation - when the notion of a common being - a totalized conception of community - is shown to be untenable. In doing so she incorporates and looks beyond her predecessors theoretical resources to urgent contemporary preoccupations with how to imagine identity in a "post-national" moment."--BOOK JACKET.</abstract>
+          <tableOfContents>Introduction: The Interrupted Quest: Rethinking Nation, Subject, and Community in Latin American Literature and Culture --  1. Writing Place Names: Travel and Theory in Alejo Carpentier's Los pasos perdidos --  2. Image, History, Tradition: Ezequiel Martinez Estrada's Alter-Nations --  3. On Being Mexican, for Example: Octavio Paz and the Dialectics of Universality --  4. Borges: On Reading, Translation, and the Impossibility of Naming.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">Silvia N. Rosman.</note>
+          <note type="bibliography">Includes bibliographical references (p. 142-149) and index.</note>
+          <subject>
+            <geographicCode authority="marcgac">cl-----</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Carpentier, Alejo</namePart>
+              <namePart type="date">1904-1980</namePart>
+            </name>
+            <titleInfo>
+              <title>Pasos perdidos</title>
+            </titleInfo>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Martínez Estrada, Ezequiel</namePart>
+              <namePart type="date">1895-1964</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Paz, Octavio</namePart>
+              <namePart type="date">1914-1998</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Spanish American literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>National characteristics, Latin American, in literature</topic>
+          </subject>
+          <classification authority="lcc">PQ7081 .R672 2003</classification>
+          <classification authority="ddc" edition="21">860.9/358</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Bucknell studies in Latin American literature and theory</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">0838755526 (alk. paper)</identifier>
+          <identifier type="lccn">2002153093</identifier>
+          <identifier invalid="yes" type="lccn">2002153093</identifier>
+          <identifier type="oclc">ocm51519915</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">021031</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824184805.0</recordChangeDate>
+            <recordIdentifier>9944415163406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9944415163406236</recordIdentifier>
+      <recordPosition>36</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>A</nonSort>
+            <title>bibliography of the works of Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Foster, David William.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">azu</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Tempe</placeTerm>
+            </place>
+            <publisher>Arizona State University</publisher>
+            <dateIssued>1971</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>39 l. 28 cm.</extent>
+          </physicalDescription>
+          <note>Typescript.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Bibliography</genre>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Special study (Arizona State University. Center for Latin American Studies) ; no. 6</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="oclc">00752800</identifier>
+          <recordInfo>
+            <recordContentSource authority="marcorg"/>
+            <recordCreationDate encoding="marc">731203</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824095521.0</recordChangeDate>
+            <recordIdentifier>994549753406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>994549753406236</recordIdentifier>
+      <recordPosition>37</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>A</nonSort>
+            <title>bibliography of the works of Jorge Luis Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Foster, David William.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">azu</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Tempe</placeTerm>
+            </place>
+            <publisher>Center for Latin American Studies, Arizona State University</publisher>
+            <dateIssued>1971</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">microfilm</form>
+            <form authority="gmd">microform</form>
+            <form authority="marccategory">microform</form>
+            <form authority="marcsmd">microfilm reel</form>
+            <extent>39 leaves ; 28 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">by David W. Foster.</note>
+          <note type="reproduction">Microfilm. Cambridge, Mass. : General Microfilm Co., [1965?-    ]. 1 microfilm reel (various items) ; 35 mm. (Latin American documents ; reel 323, item 5)</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Bibliography</genre>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Special study / Arizona State University, Center for Latin American Studies ; no. 6</title>
+            </titleInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Latin American documents ; reel 323, item 5</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="oclc">33176384</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">BUF</recordContentSource>
+            <recordCreationDate encoding="marc">880928</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20060601050724.0</recordChangeDate>
+            <recordIdentifier>9918539593406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9918539593406236</recordIdentifier>
+      <recordPosition>38</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>La</nonSort>
+            <title>biblioteca de Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Flores Maio, Fernando</namePart>
+            <role>
+              <roleTerm type="text">author.</roleTerm>
+            </role>
+          </name>
+          <name type="personal">
+            <namePart>Rojas, Javier Agustin</namePart>
+            <role>
+              <roleTerm type="text">photographer.</roleTerm>
+            </role>
+          </name>
+          <name type="personal">
+            <namePart>Boix, Leonardo</namePart>
+            <namePart type="date">1975-</namePart>
+            <role>
+              <roleTerm type="text">translator.</roleTerm>
+            </role>
+          </name>
+          <name type="corporate">
+            <namePart>Fundación Internacional Jorge Luis Borges</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">biography</genre>
+          <genre authority="rdacontent">still image</genre>
+          <genre authority="rdacontent">text</genre>
+          <genre authority="fast">History.</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2018</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <originInfo eventType="publication">
+            <place>
+              <placeTerm type="text">[Madrid] :</placeTerm>
+            </place>
+            <publisher>Paripé Books :</publisher>
+            <dateIssued>[2018]</dateIssued>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>151 pages : chiefly color illustrations, portrait ; 32 cm</extent>
+            <form authority="rdamedia" type="media">unmediated</form>
+            <form authority="rdacarrier" type="carrier">volume</form>
+          </physicalDescription>
+          <tableOfContents>Prólogo / María Kodama -- Borges: una filosofía de vida / Fernando Flores Maio.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">Fernando Flores Maio ; fotografías de Javier Agustin Rojas ; traducción Leonardo Boix.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject>
+            <geographicCode authority="marcgac">s-ag---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Library</topic>
+          </subject>
+          <subject authority="fast">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Private libraries</topic>
+            <geographic>Argentina</geographic>
+            <geographic>Buenos Aires</geographic>
+            <topic>History</topic>
+          </subject>
+          <subject authority="fast">
+            <topic>Private libraries</topic>
+          </subject>
+          <subject authority="fast">
+            <topic>Libraries</topic>
+          </subject>
+          <subject authority="fast">
+            <geographic>Argentina</geographic>
+            <geographic>Buenos Aires</geographic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z71327 2018</classification>
+          <identifier type="isbn">9788494723872</identifier>
+          <identifier type="isbn">8494723871</identifier>
+          <identifier type="lccn">2018424005</identifier>
+          <identifier type="oclc">on1039096723</identifier>
+          <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">012008</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20190603134300.0</recordChangeDate>
+            <recordIdentifier>9992802413406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9992802413406236</recordIdentifier>
+      <recordPosition>39</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Biblioteca personal</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <publisher>Alianza Editorial</publisher>
+            <dateIssued>1997</dateIssued>
+            <edition>1. ed. rev.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>173 p. ; 18 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jorge Luis Borges.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Books and reading</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Knowledge</topic>
+            <topic>Literature</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Literature</topic>
+            <topic>History and criticism</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Prefaces</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 B53 1997</classification>
+          <classification authority="ddc" edition="21">868</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Libro de bolsillo. Biblioteca de autor ; 7</title>
+            </titleInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Libro de bolsillo</title>
+              <partName>Biblioteca de autor. Jorge Luis Borges</partName>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">8420633178</identifier>
+          <identifier type="lccn">98187217 //r98</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">980824</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20060509111406.0</recordChangeDate>
+            <recordIdentifier>9919276243406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9919276243406236</recordIdentifier>
+      <recordPosition>40</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Biblioteca personal</title>
+            <subTitle>prólogos</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <publisher>Alianza Editorial</publisher>
+            <dateIssued>c1988</dateIssued>
+            <dateIssued encoding="marc">1988</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>iv, 132 p. ; 20 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Jorge Luis Borges.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Books and reading</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Knowledge</topic>
+            <topic>Literature</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Literature</topic>
+            <topic>History and criticism</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Prefaces</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 B53 1988</classification>
+          <classification authority="ddc" edition="19">868</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Alianza tres ; 209</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">8420632090</identifier>
+          <identifier type="lccn">88178588</identifier>
+          <identifier type="oclc">19324129</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">880826</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20180725194159.0</recordChangeDate>
+            <recordIdentifier>998888143406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>998888143406236</recordIdentifier>
+      <recordPosition>41</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>La</nonSort>
+            <title>biografía del infinito</title>
+            <subTitle>la noción de transfinitud en George Cantor y su presencia en la prosa de Jorge Luis Borges</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Hernández, Juan Antonio</namePart>
+            <namePart type="date">1966-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ve</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Caracas</placeTerm>
+            </place>
+            <publisher>Comala.com, Edición X demanda</publisher>
+            <dateIssued>2001</dateIssued>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>131 p. ; 21 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Juan Antonio Hernández.</note>
+          <note type="bibliography">Includes bibliographical references (p. 127-131).</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Cantor, Georg</namePart>
+              <namePart type="date">1845-1918</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Infinite in literature</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Mathematics and literature</topic>
+          </subject>
+          <identifier type="isbn">9806478290</identifier>
+          <identifier type="oclc">ocm46482750</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">PIT</recordContentSource>
+            <recordCreationDate encoding="marc">010320</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824145256.0</recordChangeDate>
+            <recordIdentifier>9938375863406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9938375863406236</recordIdentifier>
+      <recordPosition>42</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <nonSort>Una</nonSort>
+            <title>biografía en imágenes</title>
+            <subTitle>Borges</subTitle>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges</title>
+            <subTitle>una biografía en imágenes</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Vaccaro, Alejandro</namePart>
+            <namePart type="date">1951-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">biography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires</placeTerm>
+            </place>
+            <publisher>Ediciones B</publisher>
+            <dateIssued>c2005</dateIssued>
+            <dateIssued encoding="marc">2005</dateIssued>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>181 p. : chiefly ill., ports. ; 26 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Alejandro Vaccaro.</note>
+          <note type="bibliography">Includes bibliographical references (p. 181).</note>
+          <subject>
+            <geographicCode authority="marcgac">s-ag---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Pictorial works</genre>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Authors, Argentine</topic>
+            <temporal>20th century</temporal>
+            <genre>Biography</genre>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Authors, Argentine</topic>
+            <temporal>20th century</temporal>
+            <genre>Biography</genre>
+            <genre>Pictorial works</genre>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z9424 2005</classification>
+          <identifier type="isbn">987122205X</identifier>
+          <identifier type="oclc">ocm62416765</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">CGU</recordContentSource>
+            <recordCreationDate encoding="marc">051010</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824152842.0</recordChangeDate>
+            <recordIdentifier>9945725063406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9945725063406236</recordIdentifier>
+      <recordPosition>43</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Books and bombs in Buenos Aires</title>
+            <subTitle>Borges, Gerchunoff, and Argentine-Jewish writing</subTitle>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Aizenberg, Edna.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">nhu</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Hanover, NH</placeTerm>
+            </place>
+            <publisher>University Press of New England</publisher>
+            <dateIssued>c2002</dateIssued>
+            <dateIssued encoding="marc">2002</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>x, 195 p. : ill. ; 24 cm.</extent>
+          </physicalDescription>
+          <tableOfContents>1. Parricide on the Pampa: Slaying Gerchunoff and His Jewish Gauchos --  2. Sephardim and Neo-Sephardim in Latin American Literature --  3. On Translating Gerchunoff --  4. Once More "Emma Zunz": Kabbalism and Feminism --  5. Did She Discover America? Alicia Freilich's Colombina descubierta --  6. El laberinto de Sion: Marcos Ricardo Barnatan's Borgesian Quest for Sephardic Identity --  7. Borges, Postcolonial Precursor --  8. Borges 2000: Back to the Future --  9. Two Theoretical Approaches to Latin American-Jewish Literature --  10. A Quasi-Conclusion: Latin American Jewishness, a Game with Shifting Identities.</tableOfContents>
+          <note altRepGroup="00" type="statement of responsibility">Edna Aizenberg.</note>
+          <note type="bibliography">Includes bibliographical references (p. [161]-184) and index.</note>
+          <subject>
+            <geographicCode authority="marcgac">s-ag---</geographicCode>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Gerchunoff, Alberto</namePart>
+              <namePart type="date">1883-1950</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Argentine literature</topic>
+            <topic>Jewish authors</topic>
+            <topic>History and criticism</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Jews in literature</topic>
+          </subject>
+          <subject authority="lcsh">
+            <topic>Argentine literature</topic>
+            <temporal>20th century</temporal>
+            <topic>History and criticism</topic>
+          </subject>
+          <classification authority="lcc">PQ7634.J48 A59 2002</classification>
+          <classification authority="ddc" edition="21">860.9/8924082</classification>
+          <identifier type="isbn">1584652535 (cloth : alk. paper)</identifier>
+          <identifier type="isbn">1584652543 (pbk. : alk. paper)</identifier>
+          <identifier type="lccn">2002013290</identifier>
+          <identifier type="oclc">ocm50503477</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">020821</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824163246.0</recordChangeDate>
+            <recordIdentifier>9941108193406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9941108193406236</recordIdentifier>
+      <recordPosition>44</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Borgeana</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Rojo, Grínor.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">cl</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Santiago</placeTerm>
+            </place>
+            <publisher>LOM Ediciones</publisher>
+            <dateIssued>2009</dateIssued>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>119 p. ; 21 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">Grínor Rojo.</note>
+          <note type="bibliography">Includes bibliographical references.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z8934 2009</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Texto sobre texto</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="isbn">9789560001078</identifier>
+          <identifier type="isbn">9560001078</identifier>
+          <identifier type="oclc">ocn503565630</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">FUG</recordContentSource>
+            <recordCreationDate encoding="marc">100205</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20100929145946.0</recordChangeDate>
+            <recordIdentifier>9961663833406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9961663833406236</recordIdentifier>
+      <recordPosition>45</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Borgeana</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Rojo, Grínor.</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="0">Electronic books.</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">cl</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Santiago de Chile, Chile</placeTerm>
+            </place>
+            <publisher>LOM Ediciones</publisher>
+            <dateIssued>2009</dateIssued>
+            <dateCreated>2012).</dateCreated>
+            <edition>1. ed.</edition>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="gmd">electronic resource</form>
+            <form authority="marccategory">electronic resource</form>
+            <form authority="marcsmd">remote</form>
+            <extent>1 online resource (119 p.)</extent>
+          </physicalDescription>
+          <accessCondition type="restriction on access">Access restricted to subscribing institutions.</accessCondition>
+          <note altRepGroup="00" type="statement of responsibility">Grínor Rojo.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 ebook</classification>
+          <location>
+            <url displayLabel="electronic resource" note="Pitt users please click through for access via Digitalia" usage="primary display">http://pitt.idm.oclc.org/login?url=http://www.digitaliapublishing.com/a/13141/</url>
+          </location>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Texto sobre texto</title>
+            </titleInfo>
+          </relatedItem>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Digitalia eBook Collection: LOM Ediciones</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier invalid="yes" type="isbn">9789560001078 (pbk.)</identifier>
+          <identifier invalid="yes" type="isbn">9560001078 (pbk.)</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <descriptionStandard>pn</descriptionStandard>
+            <recordContentSource authority="marcorg">DGITA</recordContentSource>
+            <recordCreationDate encoding="marc">120230</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20160401145848.0</recordChangeDate>
+            <recordIdentifier>9982688083406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9982688083406236</recordIdentifier>
+      <recordPosition>46</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Borges</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Gilio, María Esther</namePart>
+            <namePart type="date">1928-2011</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Borges, Jorge Luis</namePart>
+            <namePart type="date">1899-1986</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires</placeTerm>
+            </place>
+            <publisher>Editorial El Mangrullo</publisher>
+            <dateIssued>c1976</dateIssued>
+            <dateIssued encoding="marc">1976</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>94 p. : ill. 18 cm.</extent>
+          </physicalDescription>
+          <note>Contains articles about Borges by María Esther Gilio and others, and a selection of short pieces by Borges.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Colección Letra abierta, 1</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="oclc">02809573</identifier>
+          <recordInfo>
+            <recordContentSource authority="marcorg">UIU</recordContentSource>
+            <recordCreationDate encoding="marc">770317</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824090319.0</recordChangeDate>
+            <recordIdentifier>992156963406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>992156963406236</recordIdentifier>
+      <recordPosition>47</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Borges</title>
+          </titleInfo>
+          <name type="corporate">
+            <namePart>Biblioteca Nacional (Spain)</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid</placeTerm>
+            </place>
+            <publisher>Biblioteca Nacional</publisher>
+            <dateIssued>1986</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>190 p. : ill. (some col.) ; 29 cm.</extent>
+          </physicalDescription>
+          <note>"13 Noviembre-15 Enero"</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <topic>Sources</topic>
+            <topic>Indexes</topic>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z6346 1986</classification>
+          <classification authority="ddc">863.091 B732b</classification>
+          <identifier type="isbn">8439879423</identifier>
+          <identifier type="oclc">19253239</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DZM</recordContentSource>
+            <recordCreationDate encoding="marc">890223</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824111455.0</recordChangeDate>
+            <recordIdentifier>996224593406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>996224593406236</recordIdentifier>
+      <recordPosition>48</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Borges</title>
+          </titleInfo>
+          <name type="personal" usage="primary">
+            <namePart>Barnatán, Marcos Ricardo</namePart>
+            <namePart type="date">1946-</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">bibliography</genre>
+          <genre authority="marcgt">biography</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">sp</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Madrid]</placeTerm>
+            </place>
+            <publisher>EPESA</publisher>
+            <dateIssued>(1972)</dateIssued>
+            <dateIssued encoding="marc">1972</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>203 p., 1 l. 17 cm.</extent>
+          </physicalDescription>
+          <note type="bibliography">Bibliography: p. 193-203.</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z624</classification>
+          <relatedItem type="series">
+            <titleInfo>
+              <title>Grandes escritores contemporaneos ; 52</title>
+            </titleInfo>
+          </relatedItem>
+          <identifier type="lccn">72372296</identifier>
+          <identifier type="oclc">00611793</identifier>
+          <recordInfo>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">730427</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824104558.0</recordChangeDate>
+            <recordIdentifier>997157103406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>997157103406236</recordIdentifier>
+      <recordPosition>49</recordPosition>
+    </record>
+    <record>
+      <recordSchema>mods</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <titleInfo>
+            <title>Borges, 1001 imágenes</title>
+          </titleInfo>
+          <titleInfo type="alternative">
+            <title>Borges, mil uno imágenes</title>
+          </titleInfo>
+          <name type="personal">
+            <namePart>Vaccaro, Alejandro</namePart>
+            <namePart type="date">1951-</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Rivadavia, Bernardino.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Martín Rana, Sergio.</namePart>
+          </name>
+          <name type="personal">
+            <namePart>Gilardoni, José</namePart>
+            <namePart type="date">1931-</namePart>
+          </name>
+          <name type="corporate">
+            <namePart>Centro Cultural Borges</namePart>
+          </name>
+          <name type="corporate">
+            <namePart>Asociación Borgesiana de Buenos Aires</namePart>
+          </name>
+          <typeOfResource>text</typeOfResource>
+          <genre authority="marcgt">catalog</genre>
+          <originInfo>
+            <place>
+              <placeTerm authority="marccountry" type="code">ag</placeTerm>
+            </place>
+            <place>
+              <placeTerm type="text">Buenos Aires, Argentina</placeTerm>
+            </place>
+            <publisher>Centro Cultural Borges</publisher>
+            <publisher>Asociación Borgesiana de Buenos Aires</publisher>
+            <publisher>FBC</publisher>
+            <dateIssued>[2003?]</dateIssued>
+            <dateIssued encoding="marc">2003</dateIssued>
+            <issuance>monographic</issuance>
+          </originInfo>
+          <language>
+            <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+          </language>
+          <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>63 p. : chiefly ill. (chiefly col.), 1 col. map ; 21 x 24 cm.</extent>
+          </physicalDescription>
+          <note altRepGroup="00" type="statement of responsibility">[colaboradores, Sergio Martín Rana, José Gilardoni ; textos, Alejandro Vaccaro, Bernardino Rivadavia].</note>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Pictorial works</genre>
+            <genre>Exhibitions</genre>
+          </subject>
+          <subject authority="lcsh">
+            <name type="personal">
+              <namePart>Borges, Jorge Luis</namePart>
+              <namePart type="date">1899-1986</namePart>
+            </name>
+            <genre>Illustrations</genre>
+            <genre>Exhibitions</genre>
+          </subject>
+          <classification authority="lcc">PQ7797.B635 Z6345615 2003</classification>
+          <classification authority="ddc" edition="22">868/.6209</classification>
+          <identifier type="lccn">2003507449</identifier>
+          <identifier type="oclc">ocm53996558</identifier>
+          <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">031001</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20200824174125.0</recordChangeDate>
+            <recordIdentifier>9942895323406236</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.112 2018/06/21)</recordOrigin>
+          </recordInfo>
+        </mods>
+      </recordData>
+      <recordIdentifier>9942895323406236</recordIdentifier>
+      <recordPosition>50</recordPosition>
+    </record>
+  </records>
+  <nextRecordPosition>51</nextRecordPosition>
+  <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2021-08-30T13:43:27-0400</xb:responseDate>
+  </extraResponseData>
+</searchRetrieveResponse>
