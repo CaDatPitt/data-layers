@@ -1,12 +1,12 @@
-﻿element_name,display_name,data_type,description,acceptable_values,notes,,,,,,,,,,,,,,,,,,,,,,
-id,Identifier,text,a unique identifier that serves as an unambiguous reference to the resource in the institutional repository,
-title,Title,text,a name given to the resource in the institutional repository,
-creator,Creator,text,a name of an entity responsible for making the content of the resource,
-creation_date,Creation Date,date,a date associated with the creation of the resource,
-genre,Genre,text,"a term that designates a category characterizing a particular style, form, or content embodied by the resource",leaflet|||flier|||newsletter,,,,,,,,,,,,,,,,,,,,,,,
-abstract,Abstract,text,a summary of the content of the resource,
-event_type,Event Type,text,label of whether the event being advertised by this item was either 'social' or 'political' in nature,social|||political,,,,,,,,,,,,,,,,,,,,,,,
-geographic_coverage,Geographic Coverage,text,"a geographical name or geographical data that indicates the spatial coverage of the resource, street address of location",,"uses Library of Congress Name Authority File (LCNAF), if available",,,,,,,,,,,,,,,,,,,,,,
-latitude,Latitude,decimal number,international standard of latitude value,
-longitude,Longitude,decimal number,international standard of longitude value,
-note,Note,text,text providing status of geographic location or history of location,
+﻿element_name,display_name,data_type,description,acceptable_values,notes
+id,Identifier,text,a unique identifier that serves as an unambiguous reference to the resource in the institutional repository,,
+title,Title,text,a name given to the resource in the institutional repository,,
+creator,Creator,text,a name of an entity responsible for making the content of the resource,,
+creation_date,Creation Date,date,a date associated with the creation of the resource,,
+genre,Genre,text,"a term that designates a category characterizing a particular style, form, or content embodied by the resource",leaflet|||flier|||newsletter,"For definitions of acceptable, see `data-dictionary_acceptable-values.csv`."
+abstract,Abstract,text,a summary of the content of the resource,,
+event_type,Event Type,text,label of whether the event being advertised by this item was either 'social' or 'political' in nature,social|||political,"For definitions of acceptable, see `data-dictionary_acceptable-values.csv`."
+geographic_coverage,Geographic Coverage,text,"a geographical name or geographical data that indicates the spatial coverage of the resource, street address of location",,"Uses Library of Congress Name Authority File (LCNAF), if available"
+latitude,Latitude,decimal number,international standard of latitude value,,
+longitude,Longitude,decimal number,international standard of longitude value,,
+note,Note,text,text providing status of geographic location or history of location,,
