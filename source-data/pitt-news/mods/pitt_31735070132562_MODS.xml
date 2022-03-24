@@ -1,0 +1,141 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Pitt news</title>
+    <partNumber>vol. 98, no. 18</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">newspaper</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh</placeTerm>
+    </place>
+    <publisher>University of Pittsburgh</publisher>
+    <issuance>continuing</issuance>
+    <frequency>Weekly (except May-Aug.) 1984-</frequency>
+    <frequency>Weekly</frequency>
+    <dateIssued keyDate="yes" encoding="iso8601">2003-08-29</dateIssued>
+    <dateOther type="display">August 29, 2003</dateOther>
+    <dateOther type="sort">2003-08-29T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Universities and colleges</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh</namePart>
+    </name>
+  </subject>
+  <subject>
+    <hierarchicalGeographic>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+      <county>Allegheny</county>
+      <city>Pittsburgh</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">810306</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+    <recordIdentifier>548326</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Pitt news</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh</placeTerm>
+      </place>
+      <publisher>University of Pittsburgh</publisher>
+      <issuance>continuing</issuance>
+      <frequency>Weekly (except May-Aug.) 1984-</frequency>
+      <frequency>Weekly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 24, no. 5 (Oct. 7, 1932)-</note>
+    <note type="numbering">Suspends publication May-Aug. beginning in 1984.</note>
+    <note>Issues for 1984-   the summer months published as: Pitt news summer magazine.</note>
+    <subject authority="lcsh">
+      <topic>Universities and colleges</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>University of Pittsburgh</namePart>
+      </name>
+    </subject>
+    <subject>
+      <hierarchicalGeographic>
+        <country>United States</country>
+        <state>Pennsylvania</state>
+        <county>Allegheny</county>
+        <city>Pittsburgh</city>
+      </hierarchicalGeographic>
+    </subject>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Pitt weekly</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)7198561</identifier>
+    </relatedItem>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">810306</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19990522220422.0</recordChangeDate>
+      <recordIdentifier>548326</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735070132562</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="copyrighted" publication.status="published">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>University of Pittsburgh</copyrightMD:name>
+        <copyrightMD:note>Permission to digitize granted by the University of Pittsburgh.</copyrightMD:note>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="volume">
+      <number>98</number>
+      <caption>vol.</caption>
+    </detail>
+    <detail type="number">
+      <number>18</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>

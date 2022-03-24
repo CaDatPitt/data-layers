@@ -1,0 +1,112 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Skyscraper engineer</title>
+    <partNumber>vol. 10, no. 6</partNumber>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>University of Pittsburgh skyscraper engineer</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>University of Pittsburgh</namePart>
+    <namePart>School of Engineering.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">periodical</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh, PA</placeTerm>
+    </place>
+    <publisher>University of Pittsburgh's School of Engineering</publisher>
+    <issuance>continuing</issuance>
+    <frequency>Quarterly</frequency>
+    <dateIssued keyDate="yes" encoding="iso8601">1961-05</dateIssued>
+    <dateOther type="display">May, 1961</dateOther>
+    <dateOther type="sort">1961-05-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+  </physicalDescription>
+  <identifier type="issn">0489-1074</identifier>
+  <identifier type="lccn">sn 86011998</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg"/>
+    <recordCreationDate encoding="marc">760620</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20000120101735.0</recordChangeDate>
+    <recordIdentifier>537653</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Skyscraper engineer</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>University of Pittsburgh skyscraper engineer</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>University of Pittsburgh</namePart>
+      <namePart>School of Engineering.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, PA</placeTerm>
+      </place>
+      <publisher>University of Pittsburgh's School of Engineering</publisher>
+      <issuance>continuing</issuance>
+      <frequency>Quarterly</frequency>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Oct. 1951)-</note>
+    <note>At head of title: University of Pittsburgh.</note>
+    <note>Description based on: Vol. 25, no. 4 (Apr. 1985); title from cover.</note>
+    <note type="numbering">Vol. 1, no. 1 preceeded by an introductory issue in May 1951 which lacks volume designation.</note>
+    <identifier type="issn">0489-1074</identifier>
+    <identifier type="lccn">sn 86011998</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr2</descriptionStandard>
+      <recordContentSource authority="marcorg"/>
+      <recordCreationDate encoding="marc">760620</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20000120101735.0</recordChangeDate>
+      <recordIdentifier>537653</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735066058862</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="unknown" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="volume">
+      <number>10</number>
+      <caption>vol.</caption>
+    </detail>
+    <detail type="number">
+      <number>6</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>

@@ -1,0 +1,133 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Pitt weekly</title>
+    <partNumber>vol. 15, no. 27</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">newspaper</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+    </place>
+    <publisher>University of Pittsburgh</publisher>
+    <issuance>continuing</issuance>
+    <dateIssued keyDate="yes" encoding="iso8601">1925-04-15</dateIssued>
+    <dateOther type="display">April 15, 1925</dateOther>
+    <dateOther type="sort">1925-04-15T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfilm</form>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Universities and colleges</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh.</namePart>
+    </name>
+  </subject>
+  <subject>
+    <hierarchicalGeographic>
+      <country>United States</country>
+      <state>Pennsylvania</state>
+      <city>Pittsburgh</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">760620</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20051011122803.0</recordChangeDate>
+    <recordIdentifier>536850</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Pitt weekly</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">newspaper</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa</placeTerm>
+      </place>
+      <publisher>University of Pittsburgh</publisher>
+      <issuance>continuing</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">microfilm</form>
+    </physicalDescription>
+    <note type="date/sequential designation">Vol. 1, no. 1 (Sept. 26, 1910)-v. 24, no. 4 (Oct. 4, 1932)</note>
+    <subject authority="lcsh">
+      <topic>Universities and colleges</topic>
+      <topic>Periodicals</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>University of Pittsburgh.</namePart>
+      </name>
+    </subject>
+    <subject>
+      <hierarchicalGeographic>
+        <country>United States</country>
+        <state>Pennsylvania</state>
+        <city>Pittsburgh</city>
+      </hierarchicalGeographic>
+    </subject>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Courant</title>
+      </titleInfo>
+    </relatedItem>
+    <relatedItem type="succeeding">
+      <titleInfo>
+        <title>Pitt news</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)2266133</identifier>
+    </relatedItem>
+    <recordInfo>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">760620</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20051011122803.0</recordChangeDate>
+      <recordIdentifier>536850</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">31735062143684</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="pd_expired" publication.status="published"></copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <part>
+    <detail type="volume">
+      <number>15</number>
+      <caption>vol.</caption>
+    </detail>
+    <detail type="number">
+      <number>27</number>
+      <caption>no.</caption>
+    </detail>
+  </part>
+</mods>

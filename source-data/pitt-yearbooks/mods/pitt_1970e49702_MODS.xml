@@ -1,0 +1,139 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Owl</title>
+    <partNumber>1970</partNumber>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Owl (University of Pittsburgh)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>University of Pittsburgh</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh, Pa.]</placeTerm>
+    </place>
+    <publisher>University of Pittsburgh</publisher>
+    <issuance>continuing</issuance>
+    <dateIssued keyDate="yes" encoding="iso8601">1970</dateIssued>
+    <dateOther type="display">1970</dateOther>
+    <dateOther type="sort">1970-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>72 v. : ill. ; 20-28 cm.</extent>
+  </physicalDescription>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Universities and colleges</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+    <genre>Periodicals</genre>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>University of Pittsburgh</namePart>
+    </name>
+    <genre>Periodicals</genre>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">820112</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20070827154632.0</recordChangeDate>
+    <recordIdentifier>549703</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Owl</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Owl (University of Pittsburgh)</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>University of Pittsburgh</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">pau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Pittsburgh, Pa.]</placeTerm>
+      </place>
+      <publisher>University of Pittsburgh</publisher>
+      <issuance>continuing</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>72 v. : ill. ; 20-28 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">the annual of the University of Pittsburgh.</note>
+    <note type="date/sequential designation">1910-v. 75 (1980).</note>
+    <note>1930 published in two volumes, vol. 34 and 35.</note>
+    <note>Published by the junior class 1910-1930; by the senior class 1931-1980.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-pa</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Universities and colleges</topic>
+      <geographic>Pennsylvania</geographic>
+      <geographic>Pittsburgh</geographic>
+      <genre>Periodicals</genre>
+    </subject>
+    <subject authority="lcsh">
+      <name type="corporate">
+        <namePart>University of Pittsburgh</namePart>
+      </name>
+      <genre>Periodicals</genre>
+    </subject>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Owl (Western University of Pennsylvania)</title>
+      </titleInfo>
+      <identifier type="local">(OCoLC)8057596</identifier>
+    </relatedItem>
+    <recordInfo>
+      <descriptionStandard>aacr2</descriptionStandard>
+      <recordContentSource authority="marcorg">PIT</recordContentSource>
+      <recordCreationDate encoding="marc">820112</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20070827154632.0</recordChangeDate>
+      <recordIdentifier>549703</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+    </recordInfo>
+  </relatedItem>
+  <identifier type="pitt">1970e49702</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD"
+      copyright.status="copyrighted" publication.status="published">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>University of Pittsburgh</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>
