@@ -37,11 +37,25 @@ def decode_values(file_location):
     else:
         raise Exception ("File type '%s' not supported!" % (extension,))
 
+    # add 'collection' column based on 'collection_id' column
+    coll_id_index = df.columns.get_loc('collection_id')
+    coll_id_list = df['collection_id'].tolist()
+    df.insert(loc = coll_id_index, column = 'collection', value = coll_id_list)
+
+    # add 'collection' column based on 'collection_id' column
+    site_id_index = df.columns.get_loc('site_id')
+    site_id_list = df['site_id'].tolist()
+    df.insert(loc = site_id_index, column = 'site', value = site_id_list)
+
     # pre-process and decode fields in specified column(s)
     encoded_columns = {
     'collection_language': ['iso639-2b'],
     'language': ['iso639-2b'],
-    'geographic_coverage': ['marccountry', 'marcgac']
+    'geographic_coverage': ['marccountry', 'marcgac'],
+    'collection_id': ['coll_pid_correction'],
+    'collection': ['coll_pid'],
+    'site_id': ['site_pid_correction'],
+    'site': ['site_pid']
     }
     encoding_dict = {}
     total_decoded_value_count = 0
